@@ -248,6 +248,8 @@ importers:
         specifier: ^0.20.0
         version: 0.20.0(kysely@0.29.2)(pg@8.21.0)(typescript@6.0.3)
 
+  packages/seed-data: {}
+
 packages:
 
   '@alloc/quick-lru@5.2.0':

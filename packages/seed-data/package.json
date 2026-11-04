@@ -1,0 +1,18 @@
+{
+  "name": "@flavor-db/seed-data",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hand-curated starter data for Flavor DB: dishes, places and ingredients",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "exports": [
+    {
+      "import": "./src/index.ts",
+      "require": "./src/index.ts"
+    }
+  ],
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
