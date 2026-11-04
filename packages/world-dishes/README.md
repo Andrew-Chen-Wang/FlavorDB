@@ -24,6 +24,25 @@ to the content.
   sites whose terms usually forbid it. Better: let restaurants and users submit dishes.
 - **Recipe1M, RecipeNLG and similar scraped datasets**: licensed for non-commercial research only.
 
+## Review
+
+Every imported dish goes through a review pass (`src/normalize/quality.ts`) on each build, and the
+results are written to [`data/REVIEW.md`](data/REVIEW.md):
+
+- **Removed:** brand and chain products (Wikidata items with a manufacturer, brand or owner, or named
+  after a chain), category items like "seafood dish", wiki category pages, captions and trade
+  classifications posing as names, and drinks.
+- **Cleaned:** leftover wiki markup, table rows, time-only "steps" and repeated lines in recipes;
+  recipes with nothing usable left are dropped.
+- **Merged:** Wikidata items that are the same dish (same name, no conflicting countries or kinds).
+- **Still flagged, for people:** very short recipes, recipe pages that hold several recipes, name-only
+  dishes, and dishes with no country.
+
+The checks were tuned by reading flagged and random samples from every source and language. Parser
+fixes that came out of it: French pages where a "Recette" heading wraps the whole recipe, German pages
+that use bullets as sub-headings over paragraph steps, and Polish/Dutch link templates that hold the
+ingredient names.
+
 ## Updating
 
 ```bash

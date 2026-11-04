@@ -2,6 +2,7 @@ import { readdirSync, readFileSync } from "node:fs"
 import path from "node:path"
 import type { Binding } from "../fetch/wikidata"
 import type { WorldDish } from "../types"
+import { countriesForCuisine } from "./demonyms"
 import { isDrink } from "./kinds"
 
 const qid = (uri: string) => uri.slice(uri.lastIndexOf("/") + 1)
@@ -46,7 +47,9 @@ export function loadWikidata(cacheDir: string): WorldDish[] {
     const en = r.enLabel?.value
     const zh = r.zhLabel?.value
     const other = fallback.get(id)
-    const name = en ?? zh ?? other?.label
+    // Wikidata writes common nouns in lowercase ("lychee jam"); as a title, the first letter is capitalized.
+    const raw = en ?? zh ?? other?.label
+    const name = raw && raw[0].toUpperCase() + raw.slice(1)
     if (!name || isQid(name)) continue
 
     const kinds = [
@@ -72,6 +75,8 @@ export function loadWikidata(cacheDir: string): WorldDish[] {
           .filter((c): c is string => !!c && !isQid(c)),
       ),
     ]
+    // No country, but a national or regional cuisine ("Japanese cuisine", "Sichuan cuisine"): use its country.
+    if (countries.length === 0) countries.push(...new Set(cuisines.flatMap(countriesForCuisine)))
     const ingredients = [
       ...new Set(
         split(r.ingredients)
@@ -106,4 +111,11 @@ export function loadWikidata(cacheDir: string): WorldDish[] {
     })
   }
   return dishes
+}
+
+/** Ids of items with a manufacturer, brand or owner. */
+export function loadBranded(cacheDir: string): Set<string> {
+  return new Set(
+    readBatches(path.join(cacheDir, "wikidata"), "branded-").map((r) => qid(r.d!.value)),
+  )
 }

@@ -6,9 +6,14 @@ import type { WorldDish, WorldRecipe } from "../types"
 type Lang = (typeof COOKBOOKS)[number]["lang"]
 
 /** Section headings, or template parameters, for ingredients and method in each language. */
-const SECTIONS: Record<Lang, { ingredients: RegExp; steps: RegExp }> = {
+const SECTIONS: Record<Lang, { ingredients: RegExp; steps: RegExp; fallback?: RegExp }> = {
   de: { ingredients: /^zutaten/i, steps: /^(zubereitung|anleitung)/i },
-  fr: { ingredients: /^ingr[ée]dients/i, steps: /^(pr[ée]paration|recette|r[ée]alisation)/i },
+  // "Recette 1" headings wrap a whole recipe; only use them when there's no "Préparation".
+  fr: {
+    ingredients: /^ingr[ée]dients/i,
+    steps: /^(pr[ée]paration|r[ée]alisation)/i,
+    fallback: /^recette/i,
+  },
   es: { ingredients: /^ingredientes/i, steps: /^(procedimiento|preparaci[óo]n|elaboraci[óo]n)/i },
   it: { ingredients: /^ingredienti/i, steps: /^(preparazione|procedimento)/i },
   zh: {
@@ -30,18 +35,36 @@ const SECTIONS: Record<Lang, { ingredients: RegExp; steps: RegExp }> = {
 const BOLD_LABEL = /^:?\s*'''\s*([^']+?)\s*:?\s*'''\s*:?\s*$/
 const STRUCTURE_LINE = /^(=+[^=]+=+\s*$|\||\{\||\{\{!\}\})/
 
-/** Ingredient templates: Spanish {{ing|cebolla}}, French {{i|pomme de terre}} or {{i|'=oui|ail}}. */
-const ING_TEMPLATE = /\{\{\s*(?:i'?|ing|ingr[ée]dients?|ingrediente)\s*\|([^}]*)\}\}/gi
-const templateName = (args: string) =>
-  args
-    .split("|")
-    .filter((a) => !a.includes("="))
-    .at(-1)
-    ?.trim() ?? ""
+/**
+ * Templates that link a word and display it: ingredients (Spanish {{ing|cebolla}}, French
+ * {{i|pomme de terre}} or {{i|'=oui|ail}}, Polish {{lpg|cebula zwyczajna|cebula}}, Dutch {{Kb|olijfolie}})
+ * and other links (recipes, utensils, techniques, foreign words). They keep their last plain argument.
+ */
+const ING_TEMPLATE = /\{\{\s*(?:i'?|ing|ingr[ée]dients?|ingrediente|lpg|kb)\s*\|([^}]*)\}\}/gi
+const LINK_TEMPLATE = /\{\{\s*(?:lg|sr|rec|ute|coc|w|lang-[a-z]+)\s*\|([^}]*)\}\}/gi
+/** Polish {{C|200}} is a temperature; Spanish {{min|5}} a time. */
+const UNIT_TEMPLATE = /\{\{\s*(c|min)\s*\|\s*([^}|]*)\}\}/gi
+/** The text a template displays: its last plain argument, plus a Polish ending such as {{lpg|strąk|p=ach}}. */
+function templateName(args: string): string {
+  const parts = args.split("|")
+  const plain = parts.filter((a) => !a.includes("="))
+  // Polish puts the ending after the word ({{lpg|strąk|p=ach}}); Dutch {{Kb|p=ei|eieren}} uses p= for the page.
+  const endingIndex = parts.findIndex((a) => /^\s*p\s*=/.test(a))
+  const ending = endingIndex > 0 ? parts[endingIndex].split("=")[1]?.trim() : undefined
+  const text = plain.at(-1)?.trim() ?? ""
+  // Polish link templates add an inflection when there's no separate display text.
+  return ending && plain.length === 1 && /^[\p{Ll}]+$/u.test(ending) ? text + ending : text
+}
 
 function stripMarkup(text: string): string {
   return text
     .replaceAll(ING_TEMPLATE, (_, args: string) => templateName(args))
+    .replaceAll(LINK_TEMPLATE, (_, args: string) => templateName(args))
+    .replaceAll(
+      UNIT_TEMPLATE,
+      (_, unit: string, value: string) =>
+        `${value.trim()} ${unit.toLowerCase() === "c" ? "°C" : "min"}`,
+    )
     .replaceAll(/<ref[^>]*\/>|<ref[^>]*>[\s\S]*?<\/ref>/g, "")
     .replaceAll(/<[^>]+>/g, "")
     .replaceAll(/\{\{[^{}]*\}\}/g, "")
@@ -94,10 +117,14 @@ const listLines = (lines: string[]) =>
   lines.filter((l) => /^[*#]/.test(l)).map((l) => stripMarkup(l.replace(/^[*#:;]+/, "")))
 
 /** Steps may be a numbered list or plain paragraphs. */
+/**
+ * Steps may be a numbered list or plain paragraphs. When a section has both, as in German pages
+ * that use bullets as sub-headings ("* Kuchenboden") over paragraphs, the longer text wins.
+ */
 function stepLines(lines: string[]): string[] {
   const listed = listLines(lines).filter(Boolean)
-  if (listed.length) return listed
-  return lines
+  const paragraphs = lines
+    .filter((l) => !/^[*#]/.test(l))
     .map((l) => l.trim().replace(/^:+\s*/, ""))
     .filter(
       (l) =>
@@ -110,6 +137,8 @@ function stepLines(lines: string[]): string[] {
     )
     .map(stripMarkup)
     .filter((l) => l.length > 3)
+  const length = (xs: string[]) => xs.reduce((n, x) => n + x.length, 0)
+  return listed.length && length(listed) >= length(paragraphs) ? listed : paragraphs
 }
 
 function ingredientNames(lines: string[]): string[] {
@@ -159,14 +188,19 @@ export function parseCookbookPage(page: DumpPage, lang: Lang): WorldDish | undef
       .split("/")
       .at(-1) ?? page.title
   ).trim()
-  const name = title.replace(/\s+(?:[IVX]+|\d+)\.?$/, "").trim()
+  const name = title
+    .replace(/\s+(?:[IVX]+|\d+)\.?$/, "")
+    .replace(/(?<=\p{L})\d$/u, "")
+    .trim()
   if (!name) return undefined
-  const { ingredients: ingMatch, steps: stepMatch } = SECTIONS[lang]
+  const { ingredients: ingMatch, steps: stepMatch, fallback } = SECTIONS[lang]
   const ingredientBlock = block(page.text, ingMatch)
   const ingredients = listLines(ingredientBlock.filter((l) => l.startsWith("*"))).filter(Boolean)
   // Some pages put ingredients and method under one heading ("Ingredientes e Preparo"): there the
   // bullet points are the ingredients and everything else is the method.
   let steps = stepLines(block(page.text, stepMatch))
+  if (steps.length === 0 && fallback)
+    steps = stepLines(block(page.text, fallback).filter((l) => !l.startsWith("*")))
   if (steps.length === 0) steps = stepLines(ingredientBlock.filter((l) => !l.startsWith("*")))
   if (ingredients.length === 0 || steps.length === 0) return undefined
 

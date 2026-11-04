@@ -65,6 +65,15 @@ const fallbackLabelQuery = (
   ?d rdfs:label ?l .
 } GROUP BY ?d`
 
+/**
+ * Items with a manufacturer, brand or owner are products (a McPlant, a Nissin cup noodle), not dishes.
+ * "Owned by" also catches a few real dishes; normalize/quality.ts keeps those on an allowlist.
+ */
+const brandedQuery = (ids: string[]) => `SELECT DISTINCT ?d WHERE {
+  VALUES ?d { ${ids.map((i) => `wd:${i}`).join(" ")} }
+  ?d wdt:P176|wdt:P1716|wdt:P127 ?x .
+}`
+
 const BATCH = 300
 
 async function fetchBatches(
@@ -129,4 +138,5 @@ export async function fetchWikidata() {
     .map((r) => qid(r.d!.value))
   console.log(`Wikidata: ${unnamed.length} foods without an English or Chinese name`)
   await fetchBatches(dir, "fallback", unnamed, fallbackLabelQuery)
+  await fetchBatches(dir, "branded", [...ids, ...extraIds], brandedQuery)
 }
