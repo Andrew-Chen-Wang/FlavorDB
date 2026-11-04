@@ -2,6 +2,7 @@ import { mkdirSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import path from "node:path"
 import { CACHE_DIR } from "../fetch/http"
 import type { WorldDish } from "../types"
+import { loadCookbooks } from "./cookbooks"
 import { loadHowToCook } from "./howtocook"
 import { mergeDishes } from "./merge"
 import { loadWikibooks } from "./wikibooks"
@@ -13,7 +14,8 @@ const SHARD_SIZE = 2500
 const wikidata = loadWikidata(CACHE_DIR)
 const wikibooks = loadWikibooks(CACHE_DIR)
 const howtocook = loadHowToCook(CACHE_DIR)
-const dishes = mergeDishes(wikidata, [...wikibooks, ...howtocook]).toSorted((a, b) =>
+const cookbooks = loadCookbooks(CACHE_DIR)
+const dishes = mergeDishes(wikidata, [...wikibooks, ...howtocook, ...cookbooks]).toSorted((a, b) =>
   a.id.localeCompare(b.id),
 )
 
@@ -42,13 +44,18 @@ const stats = [
   `| …with an ingredient list (recipe or not) | ${count((d) => d.ingredients.length > 0)} |`,
   `| …tied to at least one country | ${count((d) => d.countries.length > 0)} |`,
   `| …with a Chinese name | ${count((d) => !!d.names.zh || /\p{Script=Han}/u.test(d.name))} |`,
+  `| Recipe languages | ${[...new Set(dishes.flatMap((d) => d.recipes.map((r) => r.lang)))].join(", ")} |`,
   `| Full recipes | ${recipes} |`,
   `| Countries and territories | ${countryCounts.size} |`,
   "",
   "| Source | Dishes or recipes read | License |",
   "|---|---:|---|",
   `| Wikidata | ${wikidata.length} | CC0 1.0 |`,
-  `| Wikibooks Cookbook | ${wikibooks.length} | CC BY-SA 4.0 |`,
+  `| Wikibooks Cookbook (English) | ${wikibooks.length} | CC BY-SA 4.0 |`,
+  ...(["de", "fr", "es", "it", "ja", "zh", "pt", "ru", "pl", "nl", "hu"] as const).map(
+    (lang) =>
+      `| Wikibooks cookbook (${lang}) | ${cookbooks.filter((d) => d.recipes[0]?.lang === lang).length} | CC BY-SA 4.0 |`,
+  ),
   `| HowToCook | ${howtocook.length} | Unlicense (public domain) |`,
   "",
   "## Top 40 countries",

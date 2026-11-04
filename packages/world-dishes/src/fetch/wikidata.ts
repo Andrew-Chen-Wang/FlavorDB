@@ -1,4 +1,5 @@
 import path from "node:path"
+import { isDrink } from "../normalize/kinds"
 import { CACHE_DIR, cached, getJson, sleep } from "./http"
 
 export type Binding = Record<string, { value: string } | undefined>
@@ -50,7 +51,41 @@ const labelQuery = (ids: string[]) => `SELECT ?x ?en ?iso WHERE {
   OPTIONAL { ?x wdt:P297 ?iso }
 }`
 
+/** Every dish, at any depth, whether or not Wikidata ties it to a country yet. */
+const EXTRA_ID_QUERIES = [
+  `SELECT DISTINCT ?d WHERE { ?d wdt:P279+ wd:Q746549 . }`,
+  `SELECT DISTINCT ?d WHERE { ?d wdt:P31/wdt:P279* wd:Q746549 . }`,
+]
+
+/** A name in any language, for items with neither an English nor a Chinese label. */
+const fallbackLabelQuery = (
+  ids: string[],
+) => `SELECT ?d (SAMPLE(?l) AS ?label) (SAMPLE(LANG(?l)) AS ?lang) WHERE {
+  VALUES ?d { ${ids.map((i) => `wd:${i}`).join(" ")} }
+  ?d rdfs:label ?l .
+} GROUP BY ?d`
+
 const BATCH = 300
+
+async function fetchBatches(
+  dir: string,
+  prefix: string,
+  ids: string[],
+  query: (ids: string[]) => string,
+) {
+  const rows: Binding[] = []
+  for (let start = 0; start < ids.length; start += BATCH) {
+    const file = path.join(dir, `${prefix}-${String(start).padStart(6, "0")}.json`)
+    rows.push(
+      ...(await cached(file, async () => {
+        const result = await sparql(query(ids.slice(start, start + BATCH)))
+        await sleep(1000)
+        return result
+      })),
+    )
+  }
+  return rows
+}
 
 export async function fetchWikidata() {
   const dir = path.join(CACHE_DIR, "wikidata")
@@ -61,17 +96,19 @@ export async function fetchWikidata() {
   })
   console.log(`Wikidata: ${ids.length} dishes and foods`)
 
-  const rows: Binding[] = []
-  for (let start = 0; start < ids.length; start += BATCH) {
-    const file = path.join(dir, `batch-${String(start).padStart(6, "0")}.json`)
-    rows.push(
-      ...(await cached(file, async () => {
-        const result = await sparql(detailQuery(ids.slice(start, start + BATCH)))
-        await sleep(1000)
-        return result
-      })),
-    )
-  }
+  const rows = await fetchBatches(dir, "batch", ids, detailQuery)
+
+  const known = new Set(ids)
+  const extraIds = (
+    await cached(path.join(dir, "ids-extra.json"), async () => {
+      const found = new Set<string>()
+      for (const query of EXTRA_ID_QUERIES)
+        for (const r of await sparql(query)) found.add(qid(r.d!.value))
+      return [...found].toSorted()
+    })
+  ).filter((id) => !known.has(id))
+  console.log(`Wikidata: ${extraIds.length} more dishes not tied to a country`)
+  rows.push(...(await fetchBatches(dir, "extra", extraIds, detailQuery)))
 
   const referenced = new Set<string>()
   for (const r of rows) {
@@ -80,12 +117,16 @@ export async function fetchWikidata() {
     }
   }
   const refIds = [...referenced].toSorted()
-  for (let start = 0; start < refIds.length; start += BATCH) {
-    const file = path.join(dir, `labels-${String(start).padStart(6, "0")}.json`)
-    await cached(file, async () => {
-      const result = await sparql(labelQuery(refIds.slice(start, start + BATCH)))
-      await sleep(1000)
-      return result
-    })
-  }
+  const labelRows = await fetchBatches(dir, "labels", refIds, labelQuery)
+  const typeLabel = new Map(labelRows.map((r) => [qid(r.x!.value), r.en?.value ?? ""]))
+
+  // Only look up other-language names for foods; most unnamed items are beers.
+  const unnamed = rows
+    .filter((r) => !r.enLabel && !r.zhLabel)
+    .filter(
+      (r) => !(r.types?.value.split("|") ?? []).some((t) => isDrink(typeLabel.get(qid(t)) ?? "")),
+    )
+    .map((r) => qid(r.d!.value))
+  console.log(`Wikidata: ${unnamed.length} foods without an English or Chinese name`)
+  await fetchBatches(dir, "fallback", unnamed, fallbackLabelQuery)
 }

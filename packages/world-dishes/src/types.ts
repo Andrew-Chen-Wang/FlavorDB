@@ -8,7 +8,7 @@ export type Source = {
 export type WorldRecipe = {
   title: string
   /** Language of the recipe text */
-  lang: "en" | "zh"
+  lang: "en" | "zh" | "de" | "fr" | "es" | "it" | "ja" | "pt" | "ru" | "pl" | "nl" | "hu"
   serves?: string
   ingredients: { item: string; amount?: string }[]
   steps: string[]
