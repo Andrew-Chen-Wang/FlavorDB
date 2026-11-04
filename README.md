@@ -16,6 +16,19 @@ Each dish comes with:
 
 Dishes and ingredients are linked in a graph, so you can pick an ingredient and see every recipe that uses it.
 
+## Pages
+
+- `/`: home, with featured regions and a preview of the map
+- `/dishes` and `/dishes/[slug]`: browse and search, then each dish's history, places, variations, recipes,
+  ingredients and similar dishes
+- `/ingredients` and `/ingredients/[id]`: the ingredient graph
+- `/places` and `/places/[id]`: countries, regions and cities
+- `/map`: a zoomable world map, with counts per country that split into pins per place as you zoom in
+- `/pantry`: "What can I make?" Enter what you have and see dishes you can make now, or with 1, 2 or 3 more
+  ingredients
+
+The page designs live in [Claude Design](https://claude.ai/artifact/CUdGLUUS29VWXFY8rivdEV).
+
 ## Development
 
 Stack: Next.js, ShadCN, Tailwind, Hono, Kysely, PostgreSQL, Vitest. Based on
@@ -28,8 +41,8 @@ pnpm run --dir apps/website dev     # website + API mounted at /api
 pnpm run --dir apps/internal-api dev # standalone API on :3001 (optional)
 ```
 
-The database (`packages/db`, `apps/dbmigrator`, `lib/typescript/dao`) is set up but has no
-migrations and isn't used by the website yet. When you're ready:
+The website reads its data from `packages/seed-data` for now. The database (`packages/db`,
+`apps/dbmigrator`, `lib/typescript/dao`) is set up but has no migrations yet. When you're ready:
 
 ```shell
 docker-compose up -d

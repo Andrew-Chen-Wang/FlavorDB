@@ -42,5 +42,6 @@ This is a TypeScript monorepo with npm workspaces:
 **Packages:**
 
 - `packages/db` - Kysely database client and generated types (`@flavor-db/db`)
+- `packages/seed-data` - Hand-curated dishes, places and ingredients, with similarity helpers (`@flavor-db/seed-data`)
 - `lib/typescript/dao` - Data access objects shared between API and website (`@lib/dao`)
 - `lib/typescript/utils/*` - Utility libraries (e.g., `@utils/numbers`)

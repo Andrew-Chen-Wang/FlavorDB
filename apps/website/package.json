@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@api/internal": "workspace:*",
+    "@flavor-db/seed-data": "workspace:*",
     "@radix-ui/react-checkbox": "^1.3.3",
     "@radix-ui/react-label": "^2.1.8",
     "@radix-ui/react-slot": "^1.2.4",
@@ -18,6 +19,10 @@
     "@tanstack/react-query": "^5.100.11",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "d3-geo": "^3.1.2",
+    "d3-selection": "^3.0.1",
+    "d3-transition": "^3.0.2",
+    "d3-zoom": "^3.0.1",
     "hono": "^4.12.10",
     "lucide-react": "^1.16.0",
     "next": "^16.2.6",
@@ -26,12 +31,21 @@
     "react-dom": "19.2.6",
     "tailwind-merge": "^3.6.0",
     "tailwindcss": "^4.3.0",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
   },
   "devDependencies": {
+    "@types/d3-geo": "^3.1.1",
+    "@types/d3-selection": "^3.0.12",
+    "@types/d3-transition": "^3.0.9",
+    "@types/d3-zoom": "^3.0.9",
+    "@types/geojson": "^7946.0.16",
     "@types/node": "catalog:",
     "@types/react": "catalog:",
     "@types/react-dom": "catalog:",
+    "@types/topojson-client": "^3.1.5",
+    "@types/topojson-specification": "^1.0.5",
     "@vercel/config": "catalog:",
     "babel-plugin-react-compiler": "catalog:",
     "typescript": "catalog:"

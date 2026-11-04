@@ -5,7 +5,29 @@
 
 @custom-variant dark (&:is(.dark *));
 
+@theme {
+  --color-ink: #1b1a17;
+  --color-ink-2: #4a463e;
+  --color-ink-3: #615c52;
+  --color-paper: #faf9f6;
+  --color-sand: #f2efe7;
+  --color-stone: #f6f4ee;
+  --color-line: #e4dfd3;
+  --color-line-strong: #d6d0c2;
+  --color-chili: #b4361c;
+  --color-chili-dark: #8a2914;
+  --color-chili-soft: #f8e3dc;
+  --color-jade: #0e6e62;
+  --color-jade-dark: #0b5a50;
+  --color-jade-soft: #ddefeb;
+  --color-sea: #dce6e8;
+}
+
 @theme inline {
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+  --font-display: var(--font-bricolage), var(--font-inter), sans-serif;
+  --font-cjk: var(--font-noto-sc), sans-serif;
+
   --radius-lg: var(--radius);
   --radius-md: calc(var(--radius) - 2px);
   --radius-sm: calc(var(--radius) - 4px);
@@ -127,7 +149,6 @@
   }
 
   body {
-    font-family: geistSans, Arial, Helvetica, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
@@ -142,12 +163,6 @@
     color: inherit;
     text-decoration: none;
   }
-
-  @media (prefers-color-scheme: dark) {
-    html {
-      color-scheme: dark;
-    }
-  }
 }
 
 :root {
@@ -157,18 +172,18 @@
   --card-foreground: hsl(20 14.3% 4.1%);
   --popover: hsl(0 0% 100%);
   --popover-foreground: hsl(20 14.3% 4.1%);
-  --primary: hsl(230 85% 60%);
-  --primary-foreground: hsl(223 100% 99%);
+  --primary: #1b1a17;
+  --primary-foreground: #ffffff;
   --secondary: hsl(60 4.8% 95.9%);
   --secondary-foreground: hsl(24 9.8% 10%);
   --muted: hsl(60 4.8% 95.9%);
-  --muted-foreground: hsl(25 5.3% 44.7%);
+  --muted-foreground: #615c52;
   --accent: hsl(60 4.8% 95.9%);
   --accent-foreground: hsl(24 9.8% 10%);
   --destructive: hsl(0 84.2% 60.2%);
   --destructive-foreground: hsl(60 9.1% 97.8%);
-  --border: hsl(20 5.9% 90%);
-  --input: hsl(20 5.9% 90%);
+  --border: #e4dfd3;
+  --input: #d6d0c2;
   --ring: hsl(20 14.3% 4.1%);
   --chart-1: hsl(12 76% 61%);
   --chart-2: hsl(173 58% 39%);
@@ -237,5 +252,16 @@
   button:not(:disabled),
   [role="button"]:not(:disabled) {
     cursor: pointer;
+  }
+}
+
+@layer components {
+  .photo-placeholder {
+    background-color: #efebe1;
+    background-image: repeating-linear-gradient(
+      135deg,
+      rgb(27 26 23 / 0.04) 0 10px,
+      transparent 10px 20px
+    );
   }
 }
