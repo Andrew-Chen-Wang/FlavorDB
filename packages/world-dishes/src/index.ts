@@ -4,8 +4,13 @@ import type { WorldDish } from "./types"
 
 export type * from "./types"
 
-/** Where the data files live when this package runs from source. Bundlers move code, so callers can pass their own. */
-export const DEFAULT_DATA_DIR = path.join(import.meta.dirname, "..", "data")
+/**
+ * Where the data files live when this package runs from source. Bundlers move the code (and may
+ * leave `import.meta.dirname` undefined), so callers that are bundled should pass their own path.
+ */
+export const DEFAULT_DATA_DIR = import.meta.dirname
+  ? path.join(import.meta.dirname, "..", "data")
+  : path.join(process.cwd(), "packages", "world-dishes", "data")
 
 let cache: WorldDish[] | undefined
 
