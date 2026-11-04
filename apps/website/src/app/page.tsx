@@ -10,6 +10,7 @@ import {
   ingredientUseCount,
   ingredients,
 } from "@website/lib/data"
+import { worldStats } from "@website/lib/world"
 import { ArrowRight } from "lucide-react"
 import Link from "next/link"
 
@@ -17,6 +18,7 @@ const pick = (slugs: string[]) => slugs.map((s) => findDish(s)).filter((d) => d 
 
 export default function Page() {
   const countryCount = new Set(dishes.flatMap(countriesOf)).size
+  const world = worldStats()
   const zongzi = findDish("zongzi")
   const tamale = findDish("tamale")
   const topIngredients = ingredients
@@ -214,6 +216,39 @@ export default function Page() {
           </div>
         </Container>
       )}
+
+      <Container className={"pt-20"}>
+        <Link
+          href={"/world"}
+          className={
+            "flex flex-wrap items-center justify-between gap-6 rounded-3xl bg-ink p-8 text-white sm:p-12"
+          }
+        >
+          <div className={"max-w-[60ch]"}>
+            <p className={"mb-3 text-sm font-semibold tracking-[0.08em] text-[#F2B8A8] uppercase"}>
+              From around the world
+            </p>
+            <h2
+              className={
+                "font-display text-[34px] leading-tight font-bold tracking-tight sm:text-4xl"
+              }
+            >
+              {world.dishes.toLocaleString("en")} more dishes from {world.countries} countries
+            </h2>
+            <p className={"mt-3 text-[17px] leading-relaxed text-[#D9D4CA]"}>
+              Imported from Wikidata, the Wikibooks Cookbook and HowToCook, with{" "}
+              {world.withRecipe.toLocaleString("en")} full recipes. Every one credits its source.
+            </p>
+          </div>
+          <span
+            className={
+              "inline-flex min-h-12 items-center gap-2 rounded-full bg-chili px-[22px] text-[15px] font-semibold"
+            }
+          >
+            Browse them <ArrowRight className={"size-[18px]"} aria-hidden />
+          </span>
+        </Link>
+      </Container>
 
       <Container className={"pt-20"}>
         <SectionHeading
