@@ -6,9 +6,8 @@ import {
   dishesWithIngredient,
   ingredients,
   places,
-  sharedTechniques,
-  similarByFlavor,
-  similarByTechnique,
+  similarByMethod,
+  similarByTaste,
 } from "@flavor-db/seed-data"
 
 export { dishes, ingredients, places }
@@ -155,20 +154,35 @@ const FLAVOR_LABELS = [
   "rich",
 ] as const
 
+const STEP_LABELS: Partial<Record<string, string>> = {
+  "make-dough": "dough",
+  "make-batter": "batter",
+  "cook-at-table": "cooked at the table",
+}
+const label = (s: string) => STEP_LABELS[s] ?? s.replaceAll("-", " ")
+
+/**
+ * Similar dishes, two ways, each with the reasons shown as tags:
+ * - made the same way: what it looks like, then shared steps
+ * - tastes alike: shared strong tastes (taste first), then shared flavor notes
+ */
 export function similarDishes(dish: Dish): {
   byTechnique: SimilarEntry[]
   byFlavor: SimilarEntry[]
 } {
   return {
-    byTechnique: similarByTechnique(dish, 5).map(({ dish: other, score }) => ({
+    byTechnique: similarByMethod(dish, 5).map(({ dish: other, score, form, steps }) => ({
       dish: other,
       score,
-      why: sharedTechniques(dish, other),
+      why: [
+        ...(form === "same" ? ["looks the same"] : form === "related" ? ["looks similar"] : []),
+        ...steps.map(label),
+      ],
     })),
-    byFlavor: similarByFlavor(dish, 5).map(({ dish: other, score }) => ({
+    byFlavor: similarByTaste(dish, 5).map(({ dish: other, score, tastes, notes }) => ({
       dish: other,
       score,
-      why: FLAVOR_LABELS.filter((k) => dish.flavor[k] >= 3 && other.flavor[k] >= 3),
+      why: [...tastes.map((t) => (t === "spicy" ? "heat" : t)), ...notes.map(label)],
     })),
   }
 }
