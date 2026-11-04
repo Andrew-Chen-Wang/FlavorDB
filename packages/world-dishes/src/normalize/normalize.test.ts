@@ -1,6 +1,7 @@
 import { describe, expect, test } from "vitest"
 import type { WorldDish } from "../types"
 import { countriesForCuisine } from "./demonyms"
+import { parseCookbookPage } from "./cookbooks"
 import { parseHowToCook } from "./howtocook"
 import { mergeDishes } from "./merge"
 import { parseWikibooksPage } from "./wikibooks"
@@ -122,5 +123,53 @@ describe("merge", () => {
   test("keeps unmatched recipes as their own dishes", () => {
     const howtocook = parseHowToCook(HOWTOCOOK, "vegetable_dish/番茄炒蛋.md")!
     expect(mergeDishes([base({ names: {}, name: "Pizza" })], [howtocook])).toHaveLength(2)
+  })
+})
+
+describe("Wikibooks cookbooks in other languages", () => {
+  test("French: prefers Préparation over a Recette heading that wraps the whole recipe", () => {
+    const text = `== Recette 1 ==
+=== Ingrédients ===
+* 6 belles {{i|pomme}}s,
+* 60 g de {{i|beurre}},
+=== Préparation ===
+# Faire fondre le beurre.
+# Ajouter les pommes.`
+    const dish = parseCookbookPage({ title: "Livre de cuisine/Tarte Tatin", text }, "fr")!
+    expect(dish.recipes[0].steps).toEqual(["Faire fondre le beurre.", "Ajouter les pommes."])
+    expect(dish.ingredients).toEqual(["pomme", "beurre"])
+  })
+
+  test("German: paragraphs under bullet sub-headings are the steps", () => {
+    const text = `== Zutaten ==
+* 250g Mehl
+* 100g Zucker
+== Zubereitung ==
+* Kuchenboden
+Die Eier und den Zucker schaumig rühren, dann den Quark unterrühren.
+* Streusel
+Butter und Zucker verkneten und nach und nach das Mehl hinzugeben.`
+    const dish = parseCookbookPage({ title: "Kochbuch/ Streuselkuchen", text }, "de")!
+    expect(dish.recipes[0].steps).toHaveLength(2)
+    expect(dish.recipes[0].steps[0]).toMatch(/^Die Eier/)
+  })
+
+  test("Polish and Dutch link templates keep the ingredient name", () => {
+    const pl = parseCookbookPage(
+      {
+        title: "Książka kucharska/Tokań",
+        text: "== Składniki ==\n* {{lpg|pomidor|p=y}} – 60 g\n== Przygotowanie ==\n# Mięso pokroić.",
+      },
+      "pl",
+    )!
+    expect(pl.recipes[0].ingredients[0].item).toBe("pomidory – 60 g")
+    const nl = parseCookbookPage(
+      {
+        title: "Kookboek/Caesarsalade",
+        text: "== Ingrediënten ==\n* 2 {{Kb|p=ei|eieren}}\n== Bereiding ==\n# Meng alles.",
+      },
+      "nl",
+    )!
+    expect(nl.recipes[0].ingredients[0].item).toBe("2 eieren")
   })
 })

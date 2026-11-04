@@ -6,7 +6,9 @@ import { loadCookbooks } from "./cookbooks"
 import { loadHowToCook } from "./howtocook"
 import { mergeDishes } from "./merge"
 import { loadWikibooks } from "./wikibooks"
-import { loadWikidata } from "./wikidata"
+import { loadBranded, loadWikidata } from "./wikidata"
+import { reviewDishes } from "./quality"
+import { reviewReport } from "./report"
 
 const DATA_DIR = path.join(import.meta.dirname, "..", "..", "data")
 const SHARD_SIZE = 2500
@@ -15,9 +17,11 @@ const wikidata = loadWikidata(CACHE_DIR)
 const wikibooks = loadWikibooks(CACHE_DIR)
 const howtocook = loadHowToCook(CACHE_DIR)
 const cookbooks = loadCookbooks(CACHE_DIR)
-const dishes = mergeDishes(wikidata, [...wikibooks, ...howtocook, ...cookbooks]).toSorted((a, b) =>
-  a.id.localeCompare(b.id),
-)
+const merged = mergeDishes(wikidata, [...wikibooks, ...howtocook, ...cookbooks])
+
+// Review pass: clean every recipe, drop what isn't a dish, fold duplicates. See data/REVIEW.md.
+const review = reviewDishes(merged, loadBranded(CACHE_DIR))
+const dishes = review.dishes.toSorted((a, b) => a.id.localeCompare(b.id))
 
 mkdirSync(DATA_DIR, { recursive: true })
 for (const f of readdirSync(DATA_DIR)) if (f.endsWith(".jsonl")) rmSync(path.join(DATA_DIR, f))
@@ -69,4 +73,5 @@ const stats = [
   "",
 ].join("\n")
 writeFileSync(path.join(DATA_DIR, "STATS.md"), stats)
+writeFileSync(path.join(DATA_DIR, "REVIEW.md"), reviewReport(review))
 console.log(stats)
