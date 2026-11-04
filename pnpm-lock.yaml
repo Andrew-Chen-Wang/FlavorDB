@@ -292,6 +292,12 @@ importers:
 
   packages/seed-data: {}
 
+  packages/world-dishes:
+    devDependencies:
+      '@types/node':
+        specifier: 'catalog:'
+        version: 25.9.1
+
 packages:
 
   '@alloc/quick-lru@5.2.0':
