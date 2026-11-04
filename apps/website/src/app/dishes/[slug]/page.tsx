@@ -295,11 +295,16 @@ export default async function DishPage({ params }: Props) {
               [
                 [
                   "Made the same way",
-                  "Shared cooking fundamentals, whatever the flavor.",
+                  "Looks alike on the table and goes through similar steps, whatever the flavor.",
                   similar.byTechnique,
                   "jade",
                 ],
-                ["Tastes alike", "Closest flavor profiles.", similar.byFlavor, "chili"],
+                [
+                  "Tastes alike",
+                  "Similar basic tastes (sweet, salty, sour, bitter, umami, heat, numbing), then shared flavors.",
+                  similar.byFlavor,
+                  "chili",
+                ],
               ] as const
             ).map(([title, description, list, tone]) => (
               <div

@@ -4,8 +4,9 @@ import {
   dishesWithIngredient,
   ingredients,
   places,
-  similarByFlavor,
-  similarByTechnique,
+  profiles,
+  similarByMethod,
+  similarByTaste,
 } from "./index"
 
 const placeIds = new Set(places.map((p) => p.id))
@@ -32,15 +33,36 @@ describe("seed data", () => {
     },
   )
 
-  test("tamale and zongzi are linked by recipe fundamentals", () => {
-    const zongzi = dishes.find((d) => d.slug === "zongzi")!
-    expect(similarByTechnique(zongzi).map((s) => s.dish.slug)).toContain("tamale")
+  test("every dish has a profile, and every profile a dish", () => {
+    expect(Object.keys(profiles).toSorted()).toEqual(dishes.map((d) => d.slug).toSorted())
+  })
+
+  const find = (slug: string) => dishes.find((d) => d.slug === slug)!
+  const top = (list: { dish: { slug: string } }[], n: number) =>
+    list.slice(0, n).map((s) => s.dish.slug)
+
+  test("tamale and zongzi are made the same way", () => {
+    expect(top(similarByMethod(find("zongzi")), 1)).toEqual(["tamale"])
+  })
+
+  test("Shangrao chao fen is made like other stir-fried staples and noodles, not like chili", () => {
+    const method = top(similarByMethod(find("shangrao-chao-fen")), 3)
+    expect(method).toContain("yangzhou-fried-rice")
+    const taste = top(similarByTaste(find("shangrao-chao-fen")), 5)
+    expect(taste).not.toContain("jambalaya")
+    expect(taste).not.toContain("coney-dog")
+  })
+
+  test("pizzas look and are made alike", () => {
+    expect(top(similarByMethod(find("detroit-style-pizza")), 2).toSorted()).toEqual([
+      "deep-dish-pizza",
+      "new-york-pizza",
+    ])
   })
 
   test("mapo tofu tastes like other mala dishes", () => {
     const mapo = dishes.find((d) => d.slug === "mapo-tofu")!
-    const slugs = similarByFlavor(mapo, 4).map((s) => s.dish.slug)
-    expect(slugs).toContain("chongqing-hot-pot")
+    expect(top(similarByTaste(mapo), 1)).toEqual(["chongqing-hot-pot"])
   })
 
   test("ingredient graph finds every dish using lotus root", () => {
