@@ -109,11 +109,11 @@
 {"id":"Q18470462","verdict":"keep"}
 {"id":"Q18471291","verdict":"keep"}
 {"id":"Q18472743","verdict":"keep"}
-{"id":"Q18474800","verdict":"keep","countries":["PT"],"reason":"added country: Portuguese honey"}
-{"id":"Q18474808","verdict":"keep","countries":["PT"],"reason":"added country: Portuguese honey"}
-{"id":"Q18474824","verdict":"keep","countries":["PT"],"reason":"added country: Portuguese honey"}
+{"id":"Q18474800","verdict":"remove","reason":"Second opinion: Serra de Monchique honey is plain honey, not a prepared dish; no recipe."}
+{"id":"Q18474808","verdict":"remove","reason":"Second opinion: Terra Quente honey is plain honey, not a prepared dish; no recipe."}
+{"id":"Q18474824","verdict":"remove","reason":"Second opinion: Parque de Montezinho honey is plain honey, not a prepared dish; no recipe."}
 {"id":"Q18479498","verdict":"keep","countries":["PT"],"reason":"added country: Portuguese dish"}
-{"id":"Q18483622","verdict":"keep","countries":["PT"],"reason":"added country: Portuguese dish"}
+{"id":"Q18483622","verdict":"keep","countries":[],"reason":"Second opinion: griddled salmon is generic; Portuguese wording does not establish Portuguese origin."}
 {"id":"Q18485223","verdict":"keep"}
 {"id":"Q18499418","verdict":"keep"}
 {"id":"Q18499420","verdict":"keep"}
@@ -169,7 +169,7 @@
 {"id":"Q18693799","verdict":"remove","reason":"branded candy (Finlandia marmalade candy brand)"}
 {"id":"Q18693805","verdict":"remove","reason":"branded candy bar (Hopeatoffee)"}
 {"id":"Q18693843","verdict":"keep"}
-{"id":"Q18693848","verdict":"keep","countries":["FI"],"reason":"added country: Finnish bread"}
+{"id":"Q18693848","verdict":"remove","reason":"Second opinion: Puikula is Fazer branded packaged bread (https://www.fazer.fi/tuotteet/tuotemerkit/fazer-puikula--leivat/)."}
 {"id":"Q18693861","verdict":"remove","reason":"branded chocolate bar (Susu)"}
 {"id":"Q18693973","verdict":"keep"}
 {"id":"Q18693976","verdict":"keep","countries":["FI"],"reason":"added country: Finnish bread"}
@@ -217,7 +217,7 @@
 {"id":"Q18917789","verdict":"keep"}
 {"id":"Q189221","verdict":"keep"}
 {"id":"Q18922477","verdict":"keep"}
-{"id":"Q1892832","verdict":"keep","countries":["NL"],"reason":"added country: Dutch candy"}
+{"id":"Q1892832","verdict":"remove","reason":"Second opinion: Koetjesreep is a branded candy bar (https://psinfoodservice.com/brand/14102-koetjesreep/)."}
 {"id":"Q18943775","verdict":"keep","countries":["AL","TR"],"reason":"added countries: Albanian and Turkish cake"}
 {"id":"Q18948079","verdict":"keep"}
 {"id":"Q1897149","verdict":"keep"}
@@ -244,7 +244,7 @@
 {"id":"Q1928643","verdict":"keep"}
 {"id":"Q192874","verdict":"keep"}
 {"id":"Q19288105","verdict":"keep","countries":["DE"],"reason":"added country: German dish"}
-{"id":"Q1929741","verdict":"remove","reason":"ingredient (marzipan-like paste), not a dish"}
+{"id":"Q1929741","verdict":"keep","reason":"Second opinion: persipan is prepared confectionery paste analogous to marzipan, not a plain raw ingredient."}
 {"id":"Q1934427","verdict":"keep","countries":["DE"],"reason":"added country: German dish"}
 {"id":"Q1934450","verdict":"keep"}
 {"id":"Q1934489","verdict":"keep"}
@@ -295,6 +295,6 @@
 {"id":"Q19606287","verdict":"keep"}
 {"id":"Q19606890","verdict":"remove","reason":"alcoholic drink (marc brandy)"}
 {"id":"Q19607520","verdict":"remove","reason":"fresh fruit (plum), not a dish"}
-{"id":"Q19607995","verdict":"keep","countries":["PT"],"reason":"added country: Portuguese confectionery"}
+{"id":"Q19607995","verdict":"keep","countries":["BR"],"reason":"Second opinion: bolinho de estudante is a Bahian Brazilian sweet, not Portuguese (https://receitas.globo.com/tipos-de-prato/doces-e-sobremesas/bolinho-de-estudante-da-rita-batista.ghtml)."}
 {"id":"Q19608120","verdict":"keep"}
 {"id":"Q19608121","verdict":"keep"}
