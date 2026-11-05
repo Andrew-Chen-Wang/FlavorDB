@@ -17,4 +17,6 @@ Completed r-130–r-139: all 178 targets read in full. Thirteen country correcti
 
 Additional checks: [Austrian traditional food register](https://www.bmluk.gv.at/themen/lebensmittel/trad-lebensmittel/backerzeugnisse/gugelhupf.html), [Cyprus Food Museum melomakarona](https://www.cyprusfoodmuseum.com/en/sylloges/trofima/melomakarona), [Bastia tourism pastizzu](https://www.bastia-tourisme.com/recettes-gourmandes/), [Lille tourism palet de dame](https://en.lilletourism.com/explore/hello-gastronomie/sweet-specialties/), [Jordan tourism mujaddara](https://edutravel.visitjordan.com/en/page/79/Food-and-Drinks), [Punjab government gulab jamun](https://punjab.gov.pk/food).
 
-Pending: r-140–r-159.
+Completed r-140–r-143: all 76 targets read in full. Confirmed drinks and the rice recipe overview removal. Corrected Cinque Pi from Italy to Switzerland and broadened satay sauce countries. [Swiss embassy culinary publication](https://www.eda.admin.ch/content/dam/countries/countries-content/united-states-of-america/en/events-washington/SCFH_220802.pdf) explicitly calls Cinque Pi Swiss despite its Italian name.
+
+Pending: r-144–r-159.

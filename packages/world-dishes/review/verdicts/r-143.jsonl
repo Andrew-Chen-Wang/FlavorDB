@@ -10,7 +10,7 @@
 {"id":"wikibooks-fr:sauce-bolognaise","verdict":"keep","countries":["IT"],"reason":"empty countries; from Bologna","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSauce_bolognaise","status":"ok"}]}
 {"id":"wikibooks-fr:sauce-bolognaise-2","verdict":"keep","name":"Sauce bolognaise","countries":["IT"],"reason":"name had a trailing disambiguator (2); empty countries, Bolognese","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSauce_bolognaise_(2)","status":"ok"}]}
 {"id":"wikibooks-fr:sauce-chien","verdict":"keep","countries":["GP","MQ"],"reason":"empty countries; Antillean (French Caribbean) sauce","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSauce_chien","status":"ok"}]}
-{"id":"wikibooks-fr:sauce-cinq-p","verdict":"keep","countries":["IT"],"reason":"empty countries; Italian-named sauce","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSauce_cinq_P","status":"ok"}]}
+{"id":"wikibooks-fr:sauce-cinq-p","verdict":"keep","countries":["CH"],"reason":"Cinque Pi is a Swiss cream-tomato pasta sauce; its Italian ingredient names do not establish Italian origin (Swiss embassy culinary publication).","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSauce_cinq_P","status":"ok"}]}
 {"id":"wikibooks-fr:sauce-de-seitan","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSauce_de_seitan","status":"ok"}]}
 {"id":"wikibooks-fr:sauce-entre-sambre-et-meuse","verdict":"keep","countries":["BE"],"reason":"empty countries; Belgian (Sambre and Meuse) sauce","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSauce_%C2%AB_entre_Sambre_et_Meuse_%C2%BB","status":"ok"}]}
 {"id":"wikibooks-fr:sauce-épicée","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSauce_%C3%A9pic%C3%A9e","status":"ok"}]}
@@ -23,7 +23,7 @@
 {"id":"wikibooks-fr:sauce-pour-calçots","verdict":"keep","countries":["ES"],"reason":"empty countries; Catalan sauce","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSauce_pour_cal%C3%A7ots","status":"ok"}]}
 {"id":"wikibooks-fr:sauce-romesco","verdict":"keep","countries":["ES"],"reason":"empty countries; Catalan sauce","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSauce_Romesco","status":"ok"}]}
 {"id":"wikibooks-fr:sauce-salsa","verdict":"keep","countries":["MX"],"reason":"empty countries; Mexican sauce","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSauce_salsa","status":"ok"}]}
-{"id":"wikibooks-fr:sauce-satay","verdict":"keep","countries":["ID","MY"],"reason":"empty countries; satay sauce from Indonesia and Malaysia","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSauce_satay","status":"ok"}]}
+{"id":"wikibooks-fr:sauce-satay","verdict":"keep","countries":["ID","MY","SG","TH","NL"],"reason":"Satay peanut sauce is associated with Indonesian, Malaysian, Singaporean, Thai and Dutch cuisines.","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSauce_satay","status":"ok"}]}
 {"id":"wikibooks-fr:sauce-tomate","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSauce_tomate","status":"ok"}]}
 {"id":"wikibooks-fr:sazerac","verdict":"remove","reason":"cocktail (whisky and absinthe drink)"}
 {"id":"wikibooks-fr:scarlett-o-hara","verdict":"remove","reason":"cocktail (whiskey drink)"}
