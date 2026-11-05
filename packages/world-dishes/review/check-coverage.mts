@@ -79,6 +79,6 @@ for (const group of ["names", "r"]) {
   errors += missing.length + unexpected.length + duplicates.length + positional
 }
 console.log(
-  `Baseline ${baseline}: independent global data coverage/order only. Original recipe batch boundaries and absent raw sources are not reconstructed or validated.`,
+  `Baseline ${baseline}: independent global data coverage/order only. Use review:check for validation against original batch boundaries; this global coverage check does not judge raw-source content.`,
 )
 process.exitCode = errors ? 1 : 0

@@ -243,9 +243,11 @@ export function verdictReport(counts: ReviewCounts, verdicts: Verdicts, mode: st
     `| Recipes fixed | ${counts.recipesFixed} |`,
     `| Recipes dropped | ${counts.recipesDropped} |`,
     "",
-    verdicts.positionsPersisted
-      ? `All ${verdicts.files} verdict files were matched by persisted batch position. ${verdicts.files - verdicts.batchesUnavailable.length} original batch inputs were checked directly. ${verdicts.batchesUnavailable.length} original inputs were unavailable; their positions were independently checked against baseline global data order. Their original raw pages and batch boundaries were not recovered.`
-      : `${verdicts.files - verdicts.batchesUnavailable.length} verdict files were matched to original batch positions. ${verdicts.batchesUnavailable.length} original inputs were unavailable and used the documented ID fallback.`,
+    verdicts.batchesUnavailable.length === 0
+      ? `All ${verdicts.files} verdict files were matched to original batch positions${verdicts.positionsPersisted ? " and checked against persisted positions" : ""}.`
+      : verdicts.positionsPersisted
+        ? `All ${verdicts.files} verdict files were matched by persisted batch position. ${verdicts.files - verdicts.batchesUnavailable.length} original batch inputs were checked directly. ${verdicts.batchesUnavailable.length} original inputs were unavailable; their positions were independently checked against baseline global data order. Their original raw pages and batch boundaries were not recovered.`
+        : `${verdicts.files - verdicts.batchesUnavailable.length} verdict files were matched to original batch positions. ${verdicts.batchesUnavailable.length} original inputs were unavailable and used the documented ID fallback.`,
     "",
     "Follow-ups: import the additional recipes on pages such as brigadeiro, Castagnaccio and Bacalhau à Brás. Raw sources were truncated at 6,000 characters, so long pages were only partly checked.",
     "",
