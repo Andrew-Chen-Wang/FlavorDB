@@ -18,5 +18,5 @@
 {"id":"howtocook:staple:凉粉:凉粉","verdict":"keep","recipes":[{"source":"https://github.com/Anduin2017/HowToCook/blob/master/dishes/staple/凉粉/凉粉.md","status":"ok"}]}
 {"id":"howtocook:staple:利提巧卡","verdict":"keep","countries":["IN"],"reason":"Bihar (Indian) dish was tagged CN","recipes":[{"source":"https://github.com/Anduin2017/HowToCook/blob/master/dishes/staple/利提巧卡.md","status":"ok"}]}
 {"id":"howtocook:staple:印度烤饼","verdict":"keep","countries":["IN","PK"],"reason":"Indian naan was tagged CN","recipes":[{"source":"https://github.com/Anduin2017/HowToCook/blob/master/dishes/staple/印度烤饼.md","status":"ok"}]}
-{"id":"howtocook:staple:印度焖饭","verdict":"keep","countries":["IN","PK"],"reason":"Indian biryani was tagged CN","recipes":[{"source":"https://github.com/Anduin2017/HowToCook/blob/master/dishes/staple/印度焖饭.md","status":"ok"}]}
+{"id":"howtocook:staple:印度焖饭","verdict":"keep","countries":["IN","PK","BD"],"reason":"biryani is commonly associated with India, Pakistan and Bangladesh; retain the shared associations","recipes":[{"source":"https://github.com/Anduin2017/HowToCook/blob/master/dishes/staple/印度焖饭.md","status":"ok"}]}
 {"id":"howtocook:staple:可乐炒饭:可乐炒饭","verdict":"keep","recipes":[{"source":"https://github.com/Anduin2017/HowToCook/blob/master/dishes/staple/可乐炒饭.md","status":"ok"}]}

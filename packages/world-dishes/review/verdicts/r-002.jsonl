@@ -17,4 +17,4 @@
 {"id":"howtocook:dessert:烤蛋挞:烤蛋挞","verdict":"keep","recipes":[{"source":"https://github.com/Anduin2017/HowToCook/blob/master/dishes/dessert/烤蛋挞/烤蛋挞.md","status":"ok"}]}
 {"id":"howtocook:dessert:玛格丽特饼干:玛格丽特饼干","verdict":"keep","recipes":[{"source":"https://github.com/Anduin2017/HowToCook/blob/master/dishes/dessert/玛格丽特饼干/玛格丽特饼干.md","status":"ok"}]}
 {"id":"howtocook:dessert:红柚蛋糕:红柚蛋糕","verdict":"keep","recipes":[{"source":"https://github.com/Anduin2017/HowToCook/blob/master/dishes/dessert/红柚蛋糕/红柚蛋糕.md","status":"ok"}]}
-{"id":"howtocook:dessert:胡萝卜甜糕","verdict":"keep","countries":["IN"],"reason":"carrot halwa is an Indian dessert; CN was clearly wrong","recipes":[{"source":"https://github.com/Anduin2017/HowToCook/blob/master/dishes/dessert/胡萝卜甜糕.md","status":"ok"}]}
+{"id":"howtocook:dessert:胡萝卜甜糕","verdict":"keep","countries":["IN","PK","BD"],"reason":"gajar halwa is shared by Indian, Pakistani and Bangladeshi food traditions; cookbook language does not establish origin","recipes":[{"source":"https://github.com/Anduin2017/HowToCook/blob/master/dishes/dessert/胡萝卜甜糕.md","status":"ok"}]}
