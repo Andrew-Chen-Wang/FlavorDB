@@ -56,7 +56,7 @@
 {"id":"Q3237597","verdict":"keep"}
 {"id":"Q3238238","verdict":"keep"}
 {"id":"Q3239751","verdict":"keep"}
-{"id":"Q3242200","verdict":"keep","countries":["NL"],"reason":"countries empty; Dutch pastry"}
+{"id":"Q3242200","verdict":"keep","countries":["BE"],"reason":"Second opinion: Geelse hartjes are a regional specialty of Geel, Belgium (https://www.streekproduct.be/producten/geels-hartje)."}
 {"id":"Q3243732","verdict":"keep"}
 {"id":"Q3243750","verdict":"keep"}
 {"id":"Q3244647","verdict":"keep"}
@@ -147,7 +147,7 @@
 {"id":"Q3312779","verdict":"keep"}
 {"id":"Q3312825","verdict":"keep"}
 {"id":"Q3313106","verdict":"keep"}
-{"id":"Q33144185","verdict":"keep","countries":["DE"],"reason":"countries empty; German bread"}
+{"id":"Q33144185","verdict":"keep","countries":["AT","DE"],"reason":"Second opinion: Bischofsbrot belongs to Austrian as well as German baking traditions (https://www.linzertorte.at/bischofsbrot/)."}
 {"id":"Q3314532","verdict":"keep"}
 {"id":"Q3314588","verdict":"keep"}
 {"id":"Q3314757","verdict":"keep"}
@@ -182,7 +182,7 @@
 {"id":"Q3342362","verdict":"keep"}
 {"id":"Q3344796","verdict":"keep"}
 {"id":"Q3344838","verdict":"keep"}
-{"id":"Q3346426","verdict":"keep","countries":["IN"],"reason":"countries empty; Indian fried flatbread"}
+{"id":"Q3346426","verdict":"keep","countries":["IN","BD"],"reason":"Second opinion: luchi is a shared Bengali fried bread in India and Bangladesh."}
 {"id":"Q3347905","verdict":"keep"}
 {"id":"Q3348124","verdict":"keep"}
 {"id":"Q3348137","verdict":"keep"}
@@ -210,7 +210,7 @@
 {"id":"Q3360560","verdict":"keep"}
 {"id":"Q3360569","verdict":"keep"}
 {"id":"Q3360576","verdict":"keep","countries":["FR"],"reason":"countries empty; Reims gingerbread"}
-{"id":"Q3360592","verdict":"keep","countries":["ES"],"reason":"countries empty; Catalan bread"}
+{"id":"Q3360592","verdict":"keep","countries":[],"reason":"Second opinion: generic buckwheat bread; the Catalan label alone does not establish Spain."}
 {"id":"Q3360595","verdict":"keep"}
 {"id":"Q3360600","verdict":"keep"}
 {"id":"Q3360605","verdict":"keep"}
@@ -291,7 +291,7 @@
 {"id":"Q3404227","verdict":"keep","countries":["FR"],"reason":"countries empty; Corsican ham"}
 {"id":"Q3407661","verdict":"keep"}
 {"id":"Q3410675","verdict":"keep"}
-{"id":"Q3411001","verdict":"remove","reason":"packaged/instant product category (dehydrated mashed potatoes), not a dish"}
+{"id":"Q3411001","verdict":"keep","reason":"Second opinion: dehydrated mashed potatoes are a generic prepared potato food, not a brand or raw ingredient."}
 {"id":"Q3411523","verdict":"keep"}
 {"id":"Q3411524","verdict":"keep","countries":["FR"],"reason":"countries empty; Amiens pâté"}
 {"id":"Q3411531","verdict":"keep"}
