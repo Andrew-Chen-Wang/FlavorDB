@@ -5,6 +5,7 @@ In progress. Original batch inputs are absent. This audit reads each targeted ve
 | Batch | Targets reread | Status |
 |---|---:|---|
 | names-010 | 106 | Complete |
+| names-011 | 151 | Complete |
 
 names-010 corrections: restored zuke as prepared marinated fish; fixed Japanese pressed ham and Russian/Ukrainian kotleta countries; preserved Persian/Turkish/Cypriot as well as Levantine muhallebi ties; removed three overlooked branded products (Puyoman, Mamador, Peasen).
 
@@ -17,3 +18,5 @@ Sources used to resolve uncertain entries:
 - Cyprus Food Museum muhallebi recipe: https://www.cyprusfoodmuseum.com/en/sylloges/paradosiakes-syntages/mahallepi-muhallebi
 - Muhallebi overview: https://en.wikipedia.org/wiki/Muhallebi
 - Russian-cuisine cook's explanation of kotleta: https://plaza.rakuten.co.jp/34455/diary/201201050000/
+
+names-011: restored generic Thai and Filipino soy sauces, removed unsupported language/neighbor-based country inferences, expanded tsampa and tamale shared ties, and removed Nanbangashi grouping. Sources: https://www.kikkoman.com/jp/kiifc/publication/foodculture/no25_asia.html ; https://en.wikipedia.org/wiki/Tsampa ; https://www.health.tas.gov.au/sites/default/files/2021-12/Bhutan_traditional_foods_DoHTasmania2004.pdf ; https://en.wikipedia.org/wiki/Tamale .
