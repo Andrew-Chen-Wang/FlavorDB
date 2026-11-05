@@ -66,7 +66,7 @@ export const ingredients: Ingredient[] = [
   i("bamboo-shoot", "Bamboo shoot", "vegetable"),
   i("mushroom", "Mushrooms", "vegetable"),
   i("shiitake", "Dried shiitake", "vegetable", ["香菇"]),
-  i("leek", "Garlic leek", "vegetable", ["蒜苗"]),
+  i("garlic-leek", "Garlic leek", "vegetable", ["蒜苗", "Chinese leek"]),
   i("radish", "Daikon radish", "vegetable", ["萝卜"]),
   i("pickled-radish", "Pickled radish", "vegetable", ["萝卜丁"]),
   i("pickled-mustard", "Preserved mustard greens", "vegetable", ["芽菜", "ya cai"]),
