@@ -1,14 +1,15 @@
 import {
+  type Comparable,
   type Dish,
+  categoryLabel,
   type Ingredient,
   type Place,
   dishes,
   dishesWithIngredient,
   ingredients,
   places,
-  sharedTechniques,
-  similarByFlavor,
-  similarByTechnique,
+  similarByMethod,
+  similarByTaste,
 } from "@flavor-db/seed-data"
 
 export { dishes, ingredients, places }
@@ -141,7 +142,17 @@ export function pairedIngredients(id: string): { ingredient: Ingredient; count: 
     )
 }
 
-export type SimilarEntry = { dish: Dish; score: number; why: string[] }
+/** A similar dish: one of ours, or a profiled dish from the world collection. */
+export type SimilarEntry = {
+  key: string
+  href: string
+  name: string
+  localName?: string
+  /** Where it's from */
+  subtitle: string
+  score: number
+  why: string[]
+}
 
 const FLAVOR_LABELS = [
   "sweet",
@@ -155,21 +166,63 @@ const FLAVOR_LABELS = [
   "rich",
 ] as const
 
+const STEP_LABELS: Partial<Record<string, string>> = {
+  "make-dough": "dough",
+  "make-batter": "batter",
+  "cook-at-table": "cooked at the table",
+}
+const label = (s: string) => STEP_LABELS[s] ?? s.replaceAll("-", " ")
+
+const regionNames = new Intl.DisplayNames(["en"], { type: "region" })
+const countryLabel = (code: string) => COUNTRY_NAMES[code] ?? regionNames.of(code) ?? code
+
+function entry(item: Comparable, score: number, why: string[]): SimilarEntry {
+  if (item.kind === "dish") {
+    const { dish } = item
+    return {
+      key: dish.slug,
+      href: `/dishes/${dish.slug}`,
+      name: dish.name,
+      ...(dish.localName ? { localName: dish.localName.split(" / ")[0] } : {}),
+      subtitle: placeLine(dish),
+      score,
+      why,
+    }
+  }
+  const { world } = item
+  return {
+    key: world.id,
+    href: `/world/${encodeURIComponent(world.id)}`,
+    name: world.name,
+    ...(world.localName ? { localName: world.localName } : {}),
+    subtitle: world.countries.slice(0, 2).map(countryLabel).join(", "),
+    score,
+    why: [...new Set(why)],
+  }
+}
+
+/**
+ * Similar dishes, two ways, each with the reasons shown as tags:
+ * - made the same way: the look both share on the category graph (stir-fried noodles, wok-fried…),
+ *   then shared steps
+ * - tastes alike: the main ingredient both are built on (noodles, rice noodles, pork…), then shared
+ *   strong tastes and flavor notes
+ */
 export function similarDishes(dish: Dish): {
   byTechnique: SimilarEntry[]
   byFlavor: SimilarEntry[]
 } {
   return {
-    byTechnique: similarByTechnique(dish, 5).map(({ dish: other, score }) => ({
-      dish: other,
-      score,
-      why: sharedTechniques(dish, other),
-    })),
-    byFlavor: similarByFlavor(dish, 5).map(({ dish: other, score }) => ({
-      dish: other,
-      score,
-      why: FLAVOR_LABELS.filter((k) => dish.flavor[k] >= 3 && other.flavor[k] >= 3),
-    })),
+    byTechnique: similarByMethod(dish, 8).map(({ item, score, form, steps }) =>
+      entry(item, score, [...(form ? [categoryLabel(form)] : []), ...steps.map(label)]),
+    ),
+    byFlavor: similarByTaste(dish, 8).map(({ item, score, base, tastes, notes }) =>
+      entry(item, score, [
+        ...(base ? [categoryLabel(base)] : []),
+        ...tastes.map((t) => (t === "spicy" ? "heat" : t)),
+        ...notes.map(label),
+      ]),
+    ),
   }
 }
 
