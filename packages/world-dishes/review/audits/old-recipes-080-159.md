@@ -10,3 +10,5 @@ Original batch raw sources are unavailable. This audit reads every remove/countr
 - r-085: audited all 9 remove/countries targets. Expanded chocolate sausage to Italy and Portugal alongside Germany.
 - r-086: audited all 10 remove/countries targets. No changes.
 - r-087: audited all 12 remove/countries targets. Expanded tzatziki/cacık to Turkey and Cyprus alongside Greece.
+- r-088: audited all 7 remove/countries targets. No changes.
+- r-089: audited all 27 remove/countries targets. Cleared generic herb oils and artichokes in oil/vinegar; expanded garrapiñadas to common Latin American associations.
