@@ -1,5 +1,6 @@
 import { Container } from "@website/components/site/ui"
-import { ingredientUseCount, ingredients } from "@website/lib/data"
+import { ingredients } from "@website/lib/data"
+import { ingredientDishCount } from "@website/lib/ingredient-index"
 import type { IngredientCategory } from "@flavor-db/seed-data"
 import type { Metadata } from "next"
 import Link from "next/link"
@@ -22,15 +23,23 @@ const CATEGORY_LABELS: Record<IngredientCategory, string> = {
   other: "Other",
 }
 
+const SHOWN = 40
+
 export default function IngredientsPage() {
   const groups = (Object.keys(CATEGORY_LABELS) as IngredientCategory[])
     .map((category) => ({
       category,
       items: ingredients
         .filter((i) => i.category === category)
-        .map((i) => ({ ingredient: i, n: ingredientUseCount(i.id) }))
+        .map((i) => ({ ingredient: i, n: ingredientDishCount(i.id) }))
         .filter((i) => i.n > 0)
         .toSorted((a, b) => b.n - a.n || a.ingredient.name.localeCompare(b.ingredient.name)),
+    }))
+    // The most used of each kind; the rest are a search away.
+    .map((g) => ({
+      ...g,
+      more: Math.max(0, g.items.length - SHOWN),
+      items: g.items.slice(0, SHOWN),
     }))
     .filter((g) => g.items.length)
 
@@ -72,6 +81,11 @@ export default function IngredientsPage() {
                   </li>
                 ))}
               </ul>
+              {g.more > 0 && (
+                <p className={"mt-2 text-[13px] text-ink-3"}>
+                  and {g.more.toLocaleString("en")} more used less often
+                </p>
+              )}
             </section>
           ))}
         </div>

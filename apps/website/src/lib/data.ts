@@ -231,7 +231,13 @@ export function similarDishes(dish: Dish): {
 
 export { FLAVOR_LABELS }
 
-export const STAPLE_INGREDIENTS = new Set(["salt", "black-pepper", "white-pepper", "vegetable-oil"])
+export const STAPLE_INGREDIENTS = new Set([
+  "salt",
+  "black-pepper",
+  "white-pepper",
+  "vegetable-oil",
+  "water",
+])
 
 export const HOME_REGIONS = {
   central: [

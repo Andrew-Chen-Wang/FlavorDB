@@ -1,6 +1,7 @@
 import { Container } from "@website/components/site/ui"
 import { PAGE_SIZE, catalogCountries, catalogStats, searchCatalog } from "@website/lib/catalog"
 import { DishPhoto } from "@website/components/site/dish-photo"
+import { findIngredient } from "@website/lib/data"
 import { countryName } from "@website/lib/world"
 import { cn } from "@website/lib/utils"
 import type { Metadata } from "next"
@@ -21,8 +22,9 @@ export default async function DishesPage({ searchParams }: Props) {
   const q = one(params.q) ?? ""
   const country = one(params.country) ?? ""
   const recipe = one(params.recipe) === "1"
+  const ingredient = findIngredient(one(params.ingredient) ?? "")
   const page = Math.max(1, Number.parseInt(one(params.page) ?? "1", 10) || 1)
-  const { total, results } = searchCatalog({ q, country, recipe, page })
+  const { total, results } = searchCatalog({ q, country, ingredient: ingredient?.id, recipe, page })
   const stats = catalogStats()
   const pages = Math.max(1, Math.ceil(total / PAGE_SIZE))
 
@@ -31,6 +33,7 @@ export default async function DishesPage({ searchParams }: Props) {
     if (q) sp.set("q", q)
     if (country) sp.set("country", country)
     if (recipe) sp.set("recipe", "1")
+    if (ingredient) sp.set("ingredient", ingredient.id)
     if (p > 1) sp.set("page", String(p))
     const s = sp.toString()
     return s ? `/dishes?${s}` : "/dishes"
@@ -79,6 +82,14 @@ export default async function DishesPage({ searchParams }: Props) {
             "mt-8 flex flex-wrap items-end gap-3 rounded-[20px] border border-line-strong bg-paper p-3"
           }
         >
+          {ingredient && (
+            <input
+              type={"hidden"}
+              name={"ingredient"}
+              value={ingredient.id}
+              aria-label={"Ingredient filter"}
+            />
+          )}
           <div className={"min-w-0 flex-[1_1_320px]"}>
             <label htmlFor={"dish-q"} className={"sr-only"}>
               Search
@@ -135,6 +146,7 @@ export default async function DishesPage({ searchParams }: Props) {
 
         <p className={"mt-6 text-[15px] text-ink-2"} aria-live={"polite"}>
           {total.toLocaleString("en")} {total === 1 ? "result" : "results"}
+          {ingredient && ` with ${ingredient.name.toLowerCase()}`}
           {country && ` in ${countryName(country)}`}
           {pages > 1 && ` · page ${page} of ${pages}`}
         </p>

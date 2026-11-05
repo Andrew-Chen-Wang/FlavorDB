@@ -1,7 +1,8 @@
 import { centralChinaDishes, chinaDishes } from "./dishes/china"
 import { michiganDishes } from "./dishes/michigan"
 import { usDishes } from "./dishes/us"
-import { ingredients } from "./ingredients"
+import { ingredients as curatedIngredients } from "./ingredients"
+import { worldIngredients } from "./ingredients-world"
 import { places } from "./places"
 import { type Comparable, createSimilarity, fromDish, fromWorld } from "./similarity"
 import type { Dish } from "./types"
@@ -24,7 +25,9 @@ export { BASE_GRAPH, FORM_GRAPH, categoryLabel, type FormCategory } from "./cate
 export { ancestors, graphSimilarity, type CategoryGraph } from "./graph"
 export { worldLinks, type WorldLink } from "./world-links"
 export { dishImages, sameAs } from "./media"
-export { ingredients, places }
+export { places }
+/** The shared ingredient list: the hand-written ingredients, then those the imported dishes add. */
+export const ingredients = [...curatedIngredients, ...worldIngredients]
 
 export const dishes: Dish[] = [
   ...usDishes,

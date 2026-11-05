@@ -25,6 +25,8 @@ export type CatalogEntry = {
   /** A Wikimedia Commons file name, or a full URL */
   image?: string
   hasRecipe: boolean
+  /** Ids on the shared ingredient list */
+  ingredientIds: string[]
   haystack: string
 }
 
@@ -55,6 +57,7 @@ function curatedEntry(d: Dish): CatalogEntry {
     description: d.summary,
     ...(image ? { image } : {}),
     hasRecipe: d.recipes.length > 0 || sameAsWorldDishes(d.slug).some((w) => w.recipes.length),
+    ingredientIds: d.ingredients,
     haystack: [
       d.name,
       d.localName ?? "",
@@ -93,6 +96,7 @@ function load() {
           ...(dish.description ? { description: dish.description } : {}),
           ...(dish.image || dish.imageUrl ? { image: dish.image ?? dish.imageUrl } : {}),
           hasRecipe: dish.recipes.length > 0,
+          ingredientIds: dish.ingredientIds ?? [],
           haystack,
         }
       }),
@@ -118,15 +122,23 @@ export function catalogStats() {
   }
 }
 
-export type CatalogQuery = { q?: string; country?: string; recipe?: boolean; page?: number }
+export type CatalogQuery = {
+  q?: string
+  country?: string
+  /** An id on the shared ingredient list */
+  ingredient?: string
+  recipe?: boolean
+  page?: number
+}
 export const PAGE_SIZE = 48
 
-export function searchCatalog({ q, country, recipe, page = 1 }: CatalogQuery) {
+export function searchCatalog({ q, country, ingredient, recipe, page = 1 }: CatalogQuery) {
   const words = (q ?? "").trim().toLowerCase().split(/\s+/).filter(Boolean)
   const hits = load()
     .all.filter(
       (e) =>
         (!country || e.countries.includes(country)) &&
+        (!ingredient || e.ingredientIds.includes(ingredient)) &&
         (!recipe || e.hasRecipe) &&
         words.every((w) => e.haystack.includes(w)),
     )

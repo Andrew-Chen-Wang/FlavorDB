@@ -26,6 +26,7 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "@flavor-db/seed-data": "workspace:*",
     "@types/node": "catalog:"
   }
 }

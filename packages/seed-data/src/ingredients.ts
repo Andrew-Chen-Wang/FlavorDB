@@ -53,7 +53,7 @@ export const ingredients: Ingredient[] = [
   i("ginger", "Ginger", "vegetable"),
   i("celery", "Celery", "vegetable"),
   i("bell-pepper", "Bell pepper", "vegetable"),
-  i("green-chile", "Green chile", "vegetable"),
+  i("green-chile", "Fresh chile", "vegetable", ["green chile", "red chile", "chili pepper"]),
   i("jalapeno", "Jalapeño", "vegetable"),
   i("tomato", "Tomato", "vegetable"),
   i("potato", "Potato", "vegetable"),

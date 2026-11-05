@@ -205,7 +205,7 @@ export function Pantry({ data }: { data: PantryData }) {
         <button
           type={"button"}
           role={"switch"}
-          aria-label={"Assume I have the basics: salt, pepper and cooking oil"}
+          aria-label={"Assume I have the basics: water, salt, pepper and cooking oil"}
           aria-checked={assumeStaples}
           onClick={() => {
             setAssumeStaples(!assumeStaples)
@@ -228,7 +228,7 @@ export function Pantry({ data }: { data: PantryData }) {
           <span>
             <span className={"block text-[15px] font-semibold"}>Assume I have the basics</span>
             <span className={"mt-0.5 block text-[13px] text-ink-3"}>
-              Salt, pepper and cooking oil never count as missing.
+              Water, salt, pepper and cooking oil never count as missing.
             </span>
           </span>
         </button>

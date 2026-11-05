@@ -42,6 +42,8 @@ export function bucketByMissing(
       .toSorted(
         (a, b) =>
           Number(b.hasRecipe) - Number(a.hasRecipe) ||
+          // Among dishes you can make, the ones that use more of your kitchen first.
+          (k === 0 ? b.have - a.have : 0) ||
           b.have / Math.max(b.needed, 1) - a.have / Math.max(a.needed, 1) ||
           b.have - a.have,
       ),
