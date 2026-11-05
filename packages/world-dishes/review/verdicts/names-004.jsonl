@@ -52,7 +52,7 @@
 {"id":"Q107061605","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107061641","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107063111","verdict":"keep","countries":["SK"],"reason":"Slovak dessert; country added"}
-{"id":"Q107063815","verdict":"keep","countries":["FR"],"reason":"French confection; country added"}
+{"id":"Q107063815","verdict":"keep","countries":["US"],"reason":"second opinion: French burnt peanuts are an American confection; the name does not establish French origin"}
 {"id":"Q107064408","verdict":"keep"}
 {"id":"Q10706493","verdict":"keep"}
 {"id":"Q107064986","verdict":"keep"}
@@ -180,7 +180,7 @@
 {"id":"Q107287449","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107287463","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107289424","verdict":"remove","reason":"generic category (soup), not one dish"}
-{"id":"Q107290304","verdict":"remove","reason":"generic category (hot food bar), not one dish"}
+{"id":"Q107290304","verdict":"keep","reason":"second opinion: hot bar is Korean deep-fried fish-cake street food, not a buffet counter"}
 {"id":"Q107292775","verdict":"keep","countries":["DO"],"reason":"Dominican dish; country added"}
 {"id":"Q1073041","verdict":"keep"}
 {"id":"Q107304125","verdict":"keep"}
@@ -188,7 +188,7 @@
 {"id":"Q107308168","verdict":"keep"}
 {"id":"Q1073115","verdict":"keep","countries":["KR"],"reason":"Korean dessert; country added"}
 {"id":"Q1073156","verdict":"keep","countries":["KR"],"reason":"Korean kimchi; country added"}
-{"id":"Q1073174","verdict":"remove","reason":"generic category (salted seafood), not one dish"}
+{"id":"Q1073174","verdict":"keep","reason":"second opinion: jeotgal is prepared salted and fermented seafood, retained under the prepared-food rule"}
 {"id":"Q107323860","verdict":"keep"}
 {"id":"Q107328806","verdict":"keep"}
 {"id":"Q107330963","verdict":"keep"}
@@ -233,7 +233,7 @@
 {"id":"Q107413898","verdict":"keep"}
 {"id":"Q107414071","verdict":"keep"}
 {"id":"Q107414102","verdict":"keep"}
-{"id":"Q107414117","verdict":"remove","reason":"plant (cowpea), an ingredient rather than a dish"}
+{"id":"Q107414117","verdict":"keep","reason":"second opinion: the linked Akidi entry identifies an Igbo prepared bean dish, not just the raw cowpea"}
 {"id":"Q107414363","verdict":"keep"}
 {"id":"Q107416756","verdict":"keep"}
 {"id":"Q10742195","verdict":"keep"}
@@ -251,7 +251,7 @@
 {"id":"Q10742893","verdict":"keep"}
 {"id":"Q10742896","verdict":"keep"}
 {"id":"Q10742901","verdict":"keep"}
-{"id":"Q107434730","verdict":"keep","countries":["DE"],"reason":"German salad; country added"}
+{"id":"Q107434730","verdict":"keep","countries":[],"reason":"second opinion: Rohkostsalat is a generic raw vegetable salad; its German name alone does not establish a country"}
 {"id":"Q107449555","verdict":"keep"}
 {"id":"Q107449597","verdict":"keep"}
 {"id":"Q107449672","verdict":"keep"}
@@ -275,7 +275,7 @@
 {"id":"Q10751546","verdict":"keep"}
 {"id":"Q10751991","verdict":"keep"}
 {"id":"Q10752179","verdict":"keep","countries":["VN"],"reason":"Vietnamese dish; country added"}
-{"id":"Q10752219","verdict":"keep","countries":["NL"],"reason":"Dutch confection; country added"}
+{"id":"Q10752219","verdict":"keep","countries":["BE","NL"],"reason":"second opinion: suikerbonen are traditional birth and baptism sweets in Belgium and parts of the Netherlands"}
 {"id":"Q10752894","verdict":"keep"}
 {"id":"Q107529419","verdict":"keep"}
 {"id":"Q10753530","verdict":"keep"}

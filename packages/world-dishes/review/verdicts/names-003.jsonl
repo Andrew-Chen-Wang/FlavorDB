@@ -76,9 +76,9 @@
 {"id":"Q106115457","verdict":"keep"}
 {"id":"Q106115460","verdict":"keep"}
 {"id":"Q106115529","verdict":"keep"}
-{"id":"Q106124978","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
-{"id":"Q106125630","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
-{"id":"Q106125652","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
+{"id":"Q106124978","verdict":"remove","reason":"second opinion: kancha amer sorbot is a raw mango drink"}
+{"id":"Q106125630","verdict":"remove","reason":"second opinion: Gondhoraj cha er sorbot is a tea and citrus drink"}
+{"id":"Q106125652","verdict":"remove","reason":"second opinion: lichu lonkar sorbot is a lychee and chilli drink"}
 {"id":"Q106125775","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106125990","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106125994","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
