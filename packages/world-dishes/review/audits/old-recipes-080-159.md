@@ -38,3 +38,4 @@ Original batch raw sources are unavailable. This audit reads every remove/countr
 - r-113: audited all 18 remove/countries targets. Cleared generic onion sardines; expanded chorba and fuchifu to shared ties. Pisco cocktail removal upheld.
 - r-114: audited all 16 remove/countries targets. Expanded tabbouleh and chipilín tamales to common shared ties. Three beverage removals upheld.
 - r-115: audited all 17 countries targets. Expanded porteño tiramisù to Italy alongside Argentina; regional named sweets and dishes upheld.
+- r-116: audited all 24 remove/countries targets. Expanded fried wontons and Catalan anchovies to shared ties. Eight drink removals upheld; grape spirit entry describes consuming the aguardiente and supplies no recovered fruit-serving method.
