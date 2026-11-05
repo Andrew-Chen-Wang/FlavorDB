@@ -3,6 +3,7 @@
 Scope: every existing remove/countries/name flag matched by position against actual top-level batches. Name-only entries have no raw recipe source; full available entries were read, not reconstructed data.
 
 ## names-009 complete
+
 - Position 1 Q11174860: CORRECTED — Salted meat zongzi is shared Chinese and Taiwanese prepared food.
 - Position 2 Q11174861: Retained — added country: Chinese dish
 - Position 5 Q111753184: CORRECTED — Key-shaped challah is an Ashkenazi Jewish diaspora custom; this entry does not justify assigning Israel alone.
@@ -124,6 +125,7 @@ Scope: every existing remove/countries/name flag matched by position against act
 - Position 297 Q11274474: Retained — added country: Japanese mochi
 
 ## names-010 complete
+
 - Position 5 Q11274940: Retained — no country listed; Japanese rice cracker
 - Position 7 Q11275028: Retained — no country listed; Japanese soup rice
 - Position 9 Q11275124: Retained — no country listed; Japanese candy
@@ -231,6 +233,7 @@ Scope: every existing remove/countries/name flag matched by position against act
 - Position 300 Q11343150: CORRECTED — Preserve Persian, Turkish, Cypriot and Levantine ties, and include the established Egyptian mahalabia tradition.
 
 ## names-011 complete
+
 - Position 3 Q113432255: Retained — no country listed; Danish dish
 - Position 4 Q11343229: Retained — no country listed; Japanese mochi
 - Position 6 Q11344563: Retained — no country listed; Hokkaido nabe

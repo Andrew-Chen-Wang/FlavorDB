@@ -44,6 +44,7 @@ r-077 elderflower syrup changed to keep: source explicitly describes salad-marin
 - wikibooks-de:italienischer-brotauflauf: retain — dish identity supports country override; original-language recipe confirms prepared food.
 
 ## r-078
+
 - wikibooks-de:jambalaya-mit-meeresfrüchten-rauchwürstchen-und-putenfleisch: Retained after reading full batch entry and raw source; dish identity and country/removal judgment supported.
 - wikibooks-de:jambalaya-mit-shrimps-und-würstchen: Retained after reading full batch entry and raw source; dish identity and country/removal judgment supported.
 - wikibooks-de:julskinka-schwedischer-weihnachtschinken: Retained after reading full batch entry and raw source; dish identity and country/removal judgment supported.
@@ -60,6 +61,7 @@ r-077 elderflower syrup changed to keep: source explicitly describes salad-marin
 - wikibooks-de:käsekuchen-ohne-boden-2: Changed: {"name":"Käsekuchen ohne Boden"}
 
 ## r-079
+
 - wikibooks-de:kesselgulasch: Retained after reading full batch entry and raw source; dish identity and country/removal judgment supported.
 - wikibooks-de:kochkäse: Retained after reading full batch entry and raw source; dish identity and country/removal judgment supported.
 - wikibooks-de:kochkäse-aus-handkäse: Retained after reading full batch entry and raw source; dish identity and country/removal judgment supported.
@@ -72,6 +74,7 @@ r-077 elderflower syrup changed to keep: source explicitly describes salad-marin
 - wikibooks-de:kürbiscremesuppe: Retained after reading full batch entry and raw source; dish identity and country/removal judgment supported.
 
 ## r-080
+
 - wikibooks-de:lammfleisch-es-ist-wie-honig: Retained after reading full batch entry and raw source; dish identity and country/removal judgment supported.
 - wikibooks-de:lasagne-bolognese: Retained after reading full batch entry and raw source; dish identity and country/removal judgment supported.
 - wikibooks-de:lassi: Retained after reading full batch entry and raw source; dish identity and country/removal judgment supported.
@@ -85,6 +88,7 @@ r-077 elderflower syrup changed to keep: source explicitly describes salad-marin
 - wikibooks-de:maultaschenlasagne: Retained after reading full batch entry and raw source; dish identity and country/removal judgment supported.
 
 ## r-081
+
 - wikibooks-de:mayers-früchtchen: Retained after full entry and raw-source reading; regional identity or removal supported.
 - wikibooks-de:mehlknödel: Retained after full entry and raw-source reading; regional identity or removal supported.
 - wikibooks-de:minz-eistee: Retained after full entry and raw-source reading; regional identity or removal supported.
@@ -99,6 +103,7 @@ r-077 elderflower syrup changed to keep: source explicitly describes salad-marin
 - wikibooks-de:panieren: Retained after full entry and raw-source reading; regional identity or removal supported.
 
 ## r-082
+
 - wikibooks-de:panna-cotta: Retained after full entry and raw-source reading; regional identity or removal supported.
 - wikibooks-de:passierte-kartoffelsuppe-mit-lachsstreifen: Changed: {"countries":["DE"],"reason":"The actual raw source explicitly identifies this potato soup with salmon strips as a northern German dish."}
 - wikibooks-de:pasteis-de-nata: Retained after full entry and raw-source reading; regional identity or removal supported.
@@ -106,6 +111,7 @@ r-077 elderflower syrup changed to keep: source explicitly describes salad-marin
 - wikibooks-de:pesto-rosso: Retained after full entry and raw-source reading; regional identity or removal supported.
 
 ## r-083
+
 - wikibooks-de:pizza-mit-rukola: Retained after full entry and raw-source reading; regional identity or removal supported.
 - wikibooks-de:pizza-pollo-e-funghi: Retained after full entry and raw-source reading; regional identity or removal supported.
 - wikibooks-de:powidldatschgerl: Retained after full entry and raw-source reading; regional identity or removal supported.
@@ -117,6 +123,7 @@ r-077 elderflower syrup changed to keep: source explicitly describes salad-marin
 - wikibooks-de:rock-cakes: Retained after full entry and raw-source reading; regional identity or removal supported.
 
 ## r-084
+
 - wikibooks-de:rosenkohleintopf: Retained after full entry and raw-source reading; identity and regional/removal judgment supported.
 - wikibooks-de:rosinentaler: Retained after full entry and raw-source reading; identity and regional/removal judgment supported.
 - wikibooks-de:rote-beete-mit-kokosnuss: Retained after full entry and raw-source reading; identity and regional/removal judgment supported.
@@ -139,6 +146,7 @@ r-077 elderflower syrup changed to keep: source explicitly describes salad-marin
 - wikibooks-de:schmandcreme: Retained after full entry and raw-source reading; identity and regional/removal judgment supported.
 
 ## r-085
+
 - wikibooks-de:schnittlauchsauce: Retained after full entry and raw-source reading; identity and regional/removal judgment supported.
 - wikibooks-de:schokoladenwurst: Retained after full entry and raw-source reading; identity and regional/removal judgment supported.
 - wikibooks-de:schottischer-lauchsalat: Retained after full entry and raw-source reading; identity and regional/removal judgment supported.
@@ -150,6 +158,7 @@ r-077 elderflower syrup changed to keep: source explicitly describes salad-marin
 - wikibooks-de:spaghetti-alla-turiddu: Retained after full entry and raw-source reading; identity and regional/removal judgment supported.
 
 ## r-086
+
 - wikibooks-de:spaghetti-mit-tomatensoße: Retained after full entry and raw-source reading; identity and regional/removal judgment supported.
 - wikibooks-de:spanische-fischplatte: Retained after full entry and raw-source reading; identity and regional/removal judgment supported.
 - wikibooks-de:spargelrisotto: Retained after full entry and raw-source reading; identity and regional/removal judgment supported.
@@ -162,6 +171,7 @@ r-077 elderflower syrup changed to keep: source explicitly describes salad-marin
 - wikibooks-de:thai-kokosmilch-curry: Retained after full entry and raw-source reading; identity and regional/removal judgment supported.
 
 ## r-087
+
 - wikibooks-de:tomatenrisotto: Retained after full entry and raw-source reading; identity and country/name/removal judgment supported.
 - wikibooks-de:tomatensauce: Retained after full entry and raw-source reading; identity and country/name/removal judgment supported.
 - wikibooks-de:tomatensuppe-schnelle: Retained after full entry and raw-source reading; identity and country/name/removal judgment supported.
@@ -177,6 +187,7 @@ r-077 elderflower syrup changed to keep: source explicitly describes salad-marin
 - wikibooks-de:versunkener-kirschkuchen: Retained after full entry and raw-source reading; identity and country/name/removal judgment supported.
 
 ## r-088
+
 - wikibooks-de:vollkorn-gemüselasagne: Retained after full entry and raw-source reading; identity and country/name/removal judgment supported.
 - wikibooks-de:vorlage: Retained after full entry and raw-source reading; identity and country/name/removal judgment supported.
 - wikibooks-de:weinchaudeau-weinschaum: Changed: {"countries":["AT","DE"],"reason":"Weinchaudeau/Weinschaum is commonly associated with Austrian and German dessert traditions."}
@@ -186,6 +197,7 @@ r-077 elderflower syrup changed to keep: source explicitly describes salad-marin
 - wikibooks-de:zimtschnecken-dk: Retained after full entry and raw-source reading; identity and country/name/removal judgment supported.
 
 ## r-089
+
 - wikibooks-de:zwiebelsuppe: Retained after full entry and raw-source reading; identity and country/name/removal judgment supported.
 - wikibooks-es:aceitada-de-habas-verdes-con-bacalao-y-cebolleta: Retained after full entry and raw-source reading; identity and country/name/removal judgment supported.
 - wikibooks-es:aceitunas-aliñadas: Retained after full entry and raw-source reading; identity and country/name/removal judgment supported.

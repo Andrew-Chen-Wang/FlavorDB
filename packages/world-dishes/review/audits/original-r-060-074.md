@@ -3,18 +3,22 @@
 Each target below was matched by position to its original top-level batch entry and its complete supplied raw source was read. This audit covers remove verdicts and dish name/country overrides.
 
 ## r-060
+
 - Position 5, Q66499158, Flan aux œufs: retain FR override. The egg-rich baked custard named flan aux œufs is commonly associated with French cuisine; this does not assert exclusive origin. Read the complete microwave/oven source and variations.
 - Position 12, Q681301, Papet Vaudois: retain CH override. Raw introduction explicitly identifies the canton of Vaud in Switzerland and the leek/potato dish with cabbage sausage.
 
 ## r-061
+
 - Position 5, Q693525, Kruidnoten: retain NL override. These small speculaas Sinterklaas biscuits are a Dutch holiday specialty, consistent with the complete source and dish description.
 - Position 8, Q697800, Pierogi: retain PL/UA override removing CN. Both complete sources describe the Central/Eastern European filled dumplings, including ruskie; Chinese dumplings are a different dish. PL/UA preserves the relevant shared association.
 - Position 10, Q701327, Germknödel: retain AT/DE override. The filled yeast dumpling with plum/apricot filling and poppy topping belongs to Austrian and Bavarian Alpine cooking, consistent with the raw Alpine-cuisine description.
 
 ## r-062
+
 No remove verdicts or dish name/country overrides. All verdict lines inspected.
 
 ## r-063
+
 - Position 1, Q7461448, Shahan ful: retain SD/SO/ER/ET. Complete raw introduction explicitly lists all four countries for this prepared fava-bean dish.
 - Position 10, Q7601887, Stargazy pie: retain GB. Complete raw source identifies Cornwall in the UK and the fish-head pastry pie.
 - Position 11, Q7605238, Steak and kidney pudding: retain GB. English suet-crust pudding, with complete British Mrs Beeton source.
@@ -23,6 +27,7 @@ No remove verdicts or dish name/country overrides. All verdict lines inspected.
 - Position 22, Q7827298, Tortilla canaria: retain ES. Complete raw introduction explicitly identifies the Canary Islands in Spain.
 
 ## r-064
+
 - Position 1, Q7882068, Quiche Lorraine: retain FR. Complete four supplied raw recipes describe the Lorraine bacon/cream custard tart; associated with Lorraine, France.
 - Position 3, Q7958828, Wacky cake: retain US. Eggless cocoa/vinegar cake is the established American Depression-era cake; complete source recipe matches that dish.
 - Position 11, Q8344723, Chanfana: retain PT. Complete raw introduction calls it Portuguese, with traditional goat/meat and red-wine preparation.
@@ -30,14 +35,17 @@ No remove verdicts or dish name/country overrides. All verdict lines inspected.
 - Position 14, Q83630324, Равиоли: retain IT. Complete Russian raw introduction explicitly identifies Italian cuisine; language is not treated as a country.
 
 ## r-065
+
 - Position 17, Q85868902, Ensaladilla: retain ES. This named Spanish vegetable/mayonnaise salad variant is a Spanish culinary association; complete raw recipe was read.
 
 ## r-066
+
 - Position 11, Q878189, Feijoada: retain BR/PT. Complete raw introduction explicitly says Brazilian and Portuguese; original cuisines also include both.
 - Position 12, Q878961, Bitterballen: retain NL. Complete raw introduction calls the meat-ragout balls a famous Dutch snack.
 - Position 15, Q8961074, Feijão tropeiro: retain BR. The bean/cassava/pork preparation is the named Brazilian dish, consistent with complete raw recipe and description.
 
 ## r-067
+
 - Position 5, Q9055021, Pan de yuca: retain CO/EC, the established Colombian/Ecuadorian cassava-cheese bread; complete raw entry read.
 - Position 10, Q916971, Brik: retain TN. The raw source makes the cooked wrapper for Tunisian brik/malsouka; prepared pastry is retained under the ingredient rule.
 - Position 13, Q9192209, Ciapkapusta: retain PL. Complete raw introduction explicitly identifies Silesian potato/sauerkraut preparation.
@@ -47,6 +55,7 @@ No remove verdicts or dish name/country overrides. All verdict lines inspected.
 - Position 19, Q9368267, Vargabéles: retain HU/RO. Hungarian/Transylvanian noodle-curd pastry is tied to both Hungary and present-day Romania; complete raw preparation matches.
 
 ## r-068
+
 - Position 1, Q948244, Chorba: retain expanded countries. Broad original entity explicitly spans Central Asia, Middle East, North Africa and Balkans; a North African source variant cannot narrow it. Complete original raw read.
 - Position 9, Q96380287, Sylheti Handesh: CHANGE BD to BD/IN. This is a Sylheti cultural sweet shared with northeastern Indian Sylheti communities, and raw page includes Indian cuisine as well as Bangladesh/Sylhet.
 - Position 11, Q96574764, Farinata di ceci: retain IT/FR. Complete source describes the chickpea pancake shared with Nice socca; Italian naming does not exclude France.
@@ -55,6 +64,7 @@ No remove verdicts or dish name/country overrides. All verdict lines inspected.
 - Position 20, Q987291, Taboon bread: retain IL/JO/PS/SY replacing TR. Complete source identifies Palestinian taboon baking and original cuisines identify the shared Levantine associations.
 
 ## r-069
+
 - Position 1, Q990894, Wodzianka: retain PL. Named Polish/Silesian bread-garlic soup; all raw variants read.
 - Position 4, wikibooks-de:amsterdamer-fleischtopf: retain NL. Full pork/noodle casserole source explicitly categorizes Dutch cuisine, beyond just its Amsterdam name.
 - Position 6, wikibooks-de:apfelbrot: retain DE/AT. Spiced apple/raisin/nut Christmas bread is shared German/Austrian cooking; complete recipe read.
@@ -68,12 +78,14 @@ No remove verdicts or dish name/country overrides. All verdict lines inspected.
 - Position 26, wikibooks-de:berliner-pfannkuchen: retain DE. Full raw introduction explicitly calls it German carnival pastry.
 
 ## r-070
+
 - Position 8, wikibooks-de:bologneser-sauce: retain IT. Complete introduction explicitly identifies Bologna and ragù alla bolognese.
 - Position 9, wikibooks-de:borschtsch: retain UA/RU/PL/BY/LT. Beet/cabbage soup is shared Eastern European cooking; full raw source includes Polish variants and does not narrow the dish identity.
 - Position 14, wikibooks-de:brownies: retain US. All four complete raw recipes read; French introduction explicitly identifies the United States.
 - Position 17, wikibooks-de:caldeira-de-carne: retain PT. Complete raw calls it a Portuguese stew.
 
 ## r-071
+
 - Position 1, wikibooks-de:chili-con-carne: retain US/MX. All six full supplied raw sources read; US southern origin and Mexican/Tex-Mex culinary association are both represented.
 - Position 2, wikibooks-de:chili-con-carne-einfach: retain US/MX for the same recognizable chili preparation. Complete raw read.
 - Position 3, wikibooks-de:chocolate-cookies: CHANGE US to US/CA. Complete raw explicitly identifies both USA and Canada as associated with this large chocolate-chip cookie.

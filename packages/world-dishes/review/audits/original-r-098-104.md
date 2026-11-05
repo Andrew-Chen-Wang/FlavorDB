@@ -3,6 +3,7 @@
 Every existing remove/countries/name flag matched by position to actual top-level batches/NAME.md. Full entry and all supplied raw source read. No reconstructed input used.
 
 ## r-098 complete
+
 - Position 4 wikibooks-es:dulce-de-cebada-pelada: Retained — drink: the source calls it a bebida and files it under Bebidas
 - Position 5 wikibooks-es:ejotes-envueltos-en-huevo: Retained — countries were empty; source is filed under Gastronomía de Guatemala
 - Position 6 wikibooks-es:empanada-antioqueña: Retained — countries were empty; Antioquia is in Colombia
@@ -22,6 +23,7 @@ Every existing remove/countries/name flag matched by position to actual top-leve
 - Position 28 wikibooks-es:escalivada-al-microondas: CORRECTED — add AD alongside ES for shared escalivada.
 
 ## r-099 complete
+
 - Position 6 wikibooks-es:extracto-de-té: Retained — drink ingredient (tea extract for beverages), not a dish
 - Position 7 wikibooks-es:fabada-al-microondas: Retained — countries were empty; Spanish dish (fabada)
 - Position 8 wikibooks-es:fabada-asturiana-en-olla-a-presión: Retained — countries were empty; Asturian (Spanish) dish
@@ -38,6 +40,7 @@ Every existing remove/countries/name flag matched by position to actual top-leve
 - Position 28 wikibooks-es:frangollo: Retained — countries were empty; Argentine (Northwest) dish
 
 ## r-100 complete
+
 - Position 1 wikibooks-es:fríjoles-antioqueños: Retained — countries were empty; Antioquian (Colombian) dish
 - Position 2 wikibooks-es:frijoles-blancos-con-espinazo: Retained — countries were empty; Guatemalan dish
 - Position 3 wikibooks-es:frijoles-colorados-con-costilla: Retained — countries were empty; Guatemalan dish
@@ -62,9 +65,10 @@ Every existing remove/countries/name flag matched by position to actual top-leve
 - Position 27 wikibooks-es:gazpacho-manchego: Retained — countries were empty; Castilla-La Mancha (Spanish) dish
 - Position 28 wikibooks-es:gazpacho-morañiego: Retained — countries were empty; La Moraña (Ávila, Spain) dish
 
-Full sources include explicit national/regional identification for empanadas, Guatemalan bean dishes, Spanish regional gachas/gazpachos and French Breton galettes; generic salads remain unattributed. Dulce de cebada explicitly calls itself a beverage; tea extract and fernet/cola remain outside dish scope. r-101–104 pending.
+Full sources include explicit national/regional identification for empanadas, Guatemalan bean dishes, Spanish regional gachas/gazpachos and French Breton galettes; generic salads remain unattributed. Dulce de cebada explicitly calls itself a beverage; tea extract and fernet/cola remain outside dish scope. The following sections complete r-101–104.
 
 ## r-101 complete
+
 - Position 4 wikibooks-es:guacamol-guatemalteco: GT avocado guacamol with tortillas; Guatemalan identity retained.
 - Position 5 wikibooks-es:guarapita: Passionfruit and spirits drink removal retained.
 - Position 7 wikibooks-es:guiñapos: Jaén cod and shellfish hand-cut pasta retained ES.
@@ -88,6 +92,7 @@ Full sources include explicit national/regional identification for empanadas, Gu
 - Position 31 wikibooks-es:hornazos: Jaén sweet egg-topped hornazos retained ES.
 
 ## r-102 complete
+
 - Position 1 wikibooks-es:huesillos-de-san-expedito: Ávila fried huesillos retained ES.
 - Position 8 wikibooks-es:humitas: Shared Andean corn-leaf humitas retained AR/BO/CL/PE/EC.
 - Position 9 wikibooks-es:iguaxte: Guatemalan pepitoria sauce retained GT.
@@ -108,6 +113,7 @@ Full sources include explicit national/regional identification for empanadas, Gu
 - Position 32 wikibooks-es:lengua-de-ternera-con-zanahorias: Generic tongue and carrot stew remains unattributed.
 
 ## r-103 complete
+
 - Position 1 wikibooks-es:lentejas-al-estilo-de-rosario-clemente: Personal lentil stew remains unattributed.
 - Position 3 wikibooks-es:lentejas-ayerbenses: Explicit Ayerbe pork-offal lentils retained ES.
 - Position 5 wikibooks-es:lentejas-con-panecillos: Jaén lentils with fried bread dumplings retained ES.
@@ -124,3 +130,31 @@ Full sources include explicit national/regional identification for empanadas, Gu
 - Position 22 wikibooks-es:macerado-de-coca-perú: Pisco and coca infusion is alcoholic drink; removal retained.
 - Position 23 wikibooks-es:madejas-de-cordero: Aragonese lamb-offal madejas retained ES.
 - Position 24 wikibooks-es:magdalenas-de-isabel: Spanish magdalenas retained ES.
+
+## r-104 complete
+
+- Position 1 wikibooks-es:mangú: Explicit Dominican plantain mangú retained DO.
+- Position 2 wikibooks-es:mantecados: Spanish almond-and-lard mantecados retained ES.
+- Position 4 wikibooks-es:marialuisa-antioqueña: Explicit Antioquian jam-layer cake retained CO.
+- Position 6 wikibooks-es:marmitako-de-bonito: Basque tuna stew retains shared ES/FR ties.
+- Position 7 wikibooks-es:masato: Fermented cassava drink removal retained.
+- Position 8 wikibooks-es:matambre-manchego: Manchego egg-and-flour preparation retained ES; distinct from Argentine matambre.
+- Position 9 wikibooks-es:matambre-porteño: Buenos Aires rolled beef matambre retained AR.
+- Position 10 wikibooks-es:mate-tereré: Iced yerba-mate drink removal retained.
+- Position 14 wikibooks-es:mazamorra-antioqueña: Antioquian maize dessert retained CO; cooked grains eaten with panela, not a beverage removal.
+- Position 16 wikibooks-es:mechada-italiana: Chilean avocado/tomato/mayo mechada sandwich retained CL; italiana describes garnish colors.
+- Position 17 wikibooks-es:mejillones-al-vapor: Generic steamed mussels remain unattributed.
+- Position 18 wikibooks-es:mella-de-papas: Chiloé leaf-wrapped sweet potato mella retained CL.
+- Position 19 wikibooks-es:melocotones-a-la-mañica: Aragonese mañica macerated peach dessert retained ES.
+- Position 20 wikibooks-es:melocotones-al-estilo-de-cariñena: Cariñena-wine regional peach dessert retained ES.
+- Position 21 wikibooks-es:melocotones-con-vino: Generic wine-poached peaches remain unattributed.
+- Position 22 wikibooks-es:membrillo-de-matilde: Quince paste retains shared ES/PT/AR/UY/MX ties.
+- Position 23 wikibooks-es:membrillos-cocidos: Generic poached quince remains unattributed.
+- Position 24 wikibooks-es:menudos-y-patas-de-cordero: Aragonese lamb stomach and feet retained ES.
+- Position 29 wikibooks-es:merenguitos: Explicit Chilean paired meringues with manjar retained CL.
+- Position 31 wikibooks-es:merluza-a-la-sidra: Asturian cider hake retained ES.
+- Position 37 wikibooks-es:mermelada-de-porotos-blancos: Chilean sweet white-bean preserve retained CL; cooked prepared food, not raw ingredient.
+
+## Completed scope
+
+All 130 flagged entries across r-098–104 matched by position and read in full including every supplied raw source. Two country corrections: escalivada adds AD alongside ES; generic sun-preserved green beans clear ES. One reason clarification for habas-tiernas, preserving its empty countries. No remove reversals. No scripts decided verdicts.

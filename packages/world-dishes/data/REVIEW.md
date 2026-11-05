@@ -37,19 +37,19 @@ sections are fixed automatically, the last is reported for people to look at.
 
 ## Per-dish review applied
 
-Applied directly to the checked-in data shards with `pnpm run review:apply`; `build-data` was not run because the fetch cache is absent.
+Applied directly to the checked-in data shards with `pnpm run review:apply`; `build-data` was not run for this application.
 
 Loaded 31832 dish verdicts from 675 files.
 
 | Review change                                                       | Count |
 | ------------------------------------------------------------------- | ----: |
-| Dishes removed                                                      |  1682 |
-| …because their last recipe was dropped and they have no Wikidata ID |    47 |
-| Dishes renamed                                                      |   303 |
-| Countries changed                                                   |  9079 |
-| Recipes fixed                                                       |  1855 |
-| Recipes dropped                                                     |    73 |
+| Dishes removed                                                      |  1658 |
+| …because their last recipe was dropped and they have no Wikidata ID |    48 |
+| Dishes renamed                                                      |   314 |
+| Countries changed                                                   |  8903 |
+| Recipes fixed                                                       |  1859 |
+| Recipes dropped                                                     |    77 |
 
-All 675 verdict files were matched by persisted batch position. 378 original batch inputs were checked directly. 297 original inputs were unavailable; their positions were independently checked against baseline global data order. Their original raw pages and batch boundaries were not recovered.
+All 675 verdict files were matched to original batch positions and checked against persisted positions.
 
 Follow-ups: import the additional recipes on pages such as brigadeiro, Castagnaccio and Bacalhau à Brás. Raw sources were truncated at 6,000 characters, so long pages were only partly checked.

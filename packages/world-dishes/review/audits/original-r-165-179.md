@@ -3,6 +3,7 @@
 Read actual top-level batch entries and raw sources; matched verdicts by position. No recovered batch directories used.
 
 ## r-165 (10 targets)
+
 - 1 Borsodó: retain HU; named Hungarian wine custard, source explicitly thickened egg cream served with cakes.
 - 2 Borsófőzelék: retain HU; named Hungarian pea főzelék, including this dietary adaptation.
 - 7 Borsos-paprikázott csirke: retain HU; paprika and sour-cream chicken preparation supports the association.
@@ -15,6 +16,7 @@ Read actual top-level batch entries and raw sources; matched verdicts by positio
 - 27 Brokkoli főzelék: CHANGE remove HU override; raw source is broccoli-potato baby puree with milk/cream, a generic preparation.
 
 ## r-166 (9 targets)
+
 - 4 Brokkolis krumplis főzelék: CHANGE remove HU override; seven-month baby vegetable puree, generic.
 - 7 Bronx Coctail: retain remove; gin, juice, vermouth and ice drink.
 - 9 Budai sült csirke: retain HU; named Buda-style cognac-marinated fried chicken, both raw recipes read.
@@ -26,6 +28,7 @@ Read actual top-level batch entries and raw sources; matched verdicts by positio
 - 28 Burgonyagombóc: CHANGE remove HU override; generic potato dumplings shared across Central Europe.
 
 ## r-167 (7 targets)
+
 - 1 Burgonyagombóc-leves: retain HU; paprika, smoked kolbász and sour-cream potato-dumpling soup supports Hungarian association.
 - 3 Burgonyán sült fasírt: CHANGE remove HU override; generic ground-meat and potato casserole, no specific geographic evidence.
 - 8 Burgonyás fasírt: CHANGE remove HU override; generic leftover-meat and potato patties.
@@ -35,6 +38,7 @@ Read actual top-level batch entries and raw sources; matched verdicts by positio
 - 26 Burgundi mártás: retain FR; explicit sauce bourguignonne, red wine and espagnole base.
 
 ## r-168 (9 targets)
+
 - 4 C: retain remove; alphabetic kitchen-technique glossary holding unrelated entries, not one dish. Full available 6000-character raw excerpt read.
 - 6 Cafe de Paris-vaj: retain CH/FR; named Café de Paris compound butter with anchovy, herbs, mustard and capers.
 - 7 Cajun mártás: CHANGE remove US override; raw pineapple-soy sweet-sour sauce does not substantiate a Cajun association.
@@ -46,6 +50,7 @@ Read actual top-level batch entries and raw sources; matched verdicts by positio
 - 35 Cigánypecsenye: retain HU; named Hungarian garlic-pork-neck and bacon preparation.
 
 ## r-169
+
 - Position 7 Citromfű szörp: retain remove; raw explicitly dilutes cordial with water or soda as a drink.
 - Position 8 Citromfüves pálinka: retain remove; infused alcoholic drink.
 - Position 11 Citromlikőr: retain remove; vodka lemon liqueur.
@@ -55,6 +60,7 @@ Read actual top-level batch entries and raw sources; matched verdicts by positio
 - Position 30 Citromos-narancsos tea: retain remove; hot citrus tea beverage.
 
 ## r-170
+
 - Position 3 Citromos pacalleves: retain RO; raw explicitly names Ciorbă de burtă and Romanian towns.
 - Position 6 Citromos rizottó: retain IT; raw explicitly calls it a southern Italian summer dish.
 - Position 8 Citromos-teás bólé: retain remove; champagne and tea punch served in glasses.
@@ -68,25 +74,30 @@ Read actual top-level batch entries and raw sources; matched verdicts by positio
 - Position 27 Császármorzsa készítése: retain AT/HU; full semolina egg milk torn baked dessert recipe, not a technique-only page.
 
 ## r-171
+
 - Position 8 Cseresznyelimonádé: retain remove; cherry cordial lemonade with ice and soda.
 - Position 11 Cseszneki palacsinta: retain HU; named Csesznek mushroom pörkölt filled pancakes with sour cream paprika sauce.
 - Position 12 Csevap: retain BA/RS/HR/ME/MK/SI; both full raw recipes describe genuine grilled minced meat fingers, a shared Balkan dish.
 
 ## r-172
+
 - Position 4 Csipkebogyó likőr: retain remove; both complete raw recipes make bottled alcoholic rosehip liqueur.
 - Position 10 Csipkelimonádé mézzel: retain remove; rosehip tea with honey orange juice, consumed hot or cold as drink.
 - Position 17 Csípős tojás: retain IN; raw explicitly calls it an Indian appetizer and prepares egg curry with garam masala, ghee and naan.
 
 ## r-173
+
 No remove, countries or name overrides; no targets in this audit scope.
 
 ## r-174
+
 - Position 8 Csokis kávé: retain remove; chocolate mixed into strong coffee beverage.
 - Position 11 Csokis meggylikőr: retain remove; bottled wine rum flavored liqueur.
 - Position 17 Csokiszalámi: retain HU/IT/PT; full source is genuine biscuit cocoa chocolate salami dessert, shared associations.
 - Position 18 Csokiszalámi krém: change HU to HU/IT/PT; same chocolate salami biscuit cocoa dessert adapted with jam and whipped cream in bowls; no basis for narrowing association to cookbook country.
 
 ## r-175
+
 - Position 6 Csokoládés püspökkenyér: retain HU; named Hungarian bishop bread fruit and nut loaf variant.
 - Position 12 Csokoládétej: retain remove; chocolate milk beverage, despite incomplete raw method.
 - Position 16 Csorba: change HU to RO; actual ciorbă with lovage, tomato and beef-rice meatballs, cookbook language cannot make it Hungarian.
@@ -99,6 +110,7 @@ No remove, countries or name overrides; no targets in this audit scope.
 - Position 23 Csülkös sóskaleves: remove HU override; generic smoked hock sorrel cream soup, shared regional preparation does not establish Hungary alone.
 
 ## r-176
+
 - Position 1 Csülkös zöldbableves: retain HU; explicitly builds csülökpörkölt with paprika and finishes green bean soup with sour cream and dill.
 - Position 2 Csülökbomba: remove HU override; generic molded smoked pork cream mousse with gelatin and garnishes.
 - Position 3 Csülökkocsonya: retain HU; genuine named Hungarian hock kocsonya variant, not raw pork.
@@ -108,6 +120,7 @@ No remove, countries or name overrides; no targets in this audit scope.
 - Position 23 Cukkínis lecsós ponty: retain HU; actual paprika seasoned carp with white peppers onion tomato zucchini lecsó.
 
 ## r-177
+
 - Position 3 Cumberland mártás: retain GB; all three complete raw recipes read, genuine redcurrant citrus wine mustard Cumberland sauce associated with British game cookery.
 - Position 11 Currys lángos: retain HU; genuine stretched deep fried lángos variant flavored with curry.
 - Position 16 Dalmát paprika: retain HR; named Dalmatian pepper onion red wine braise consistent with regional style.
@@ -117,6 +130,7 @@ No remove, countries or name overrides; no targets in this audit scope.
 - Position 29 Darázsfészek: retain HU; both full raw recipes describe named Hungarian buttery yeast spiral dessert.
 
 ## r-178
+
 - Position 3 Debreceni karaj: retain HU; named Debrecen sausage stuffed garlic caraway pork loin.
 - Position 4 Debreceni pulykamell: retain HU; turkey rolled around explicit Debreceni sausage and sour cream.
 - Position 5 Debreceni rizses-májas hurka: retain HU; genuine Debrecen rice liver sausage with full preparation, not raw ingredient.
@@ -130,6 +144,7 @@ No remove, countries or name overrides; no targets in this audit scope.
 - Position 31 Diópálinka: retain remove; both complete raw recipes make walnut infused pomace brandy.
 
 ## r-179
+
 - Position 1 Diós dáláuzi: expand AM to AM/HU/RO; genuine Armenian honey walnut poppy confection, raw explicitly discusses long Hungarian adoption and dish is also tied to Transylvanian Armenian tradition.
 - Position 9 Diós-mákos patkó: retain HU; genuine Hungarian walnut/poppy filled horseshoe pastry, full filling instructions read.
 - Position 14 Diós püspökkenyér: retain HU; named Hungarian bishop bread walnut loaf variant.
@@ -140,6 +155,7 @@ Audit complete: r-165 through r-179; every flagged position matched against the 
 ## Exact ID and position receipts
 
 Mechanical transcription of the completed decisions above; no new judgments.
+
 - r-165 position 1 `wikibooks-hu:borsodó`: retain HU; named Hungarian wine custard, source explicitly thickened egg cream served with cakes.
 - r-165 position 2 `wikibooks-hu:borsófőzelék`: retain HU; named Hungarian pea főzelék, including this dietary adaptation.
 - r-165 position 7 `wikibooks-hu:borsos-paprikázott-csirke`: retain HU; paprika and sour-cream chicken preparation supports the association.

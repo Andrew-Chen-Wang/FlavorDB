@@ -1,8 +1,10 @@
-# Existing verdict input recovery and second opinion
+# Historical metadata recovery and second opinion
 
-The supplied archive contains the 378 pending batch inputs. Original inputs for 297 previously
-reviewed verdict files are absent. No tracked batch inputs or fetch cache were found in the
-available Git history. The fetch cache is also absent from this checkout.
+This file preserves the earlier metadata-only audit history. It is superseded by the fresh
+original-input second opinion in `audits/original-*.md`: `original-batches.tgz` supplied all 297
+previously missing inputs, and all 675 original batches now match the positional manifest.
+Statements below about absent inputs describe that earlier checkpoint, not the current state.
+The fetch cache remains absent; direct data application uses the same normalization code.
 
 ## Recovered metadata
 
@@ -126,3 +128,11 @@ all 17,530 name verdicts matched the baseline exactly, while recipe verdicts wer
 All older removal and country targets were subsequently reread against complete recovered metadata entries, and all name overrides were independently checked. Coverage ledgers are in `audits/` and `old-recipes-120-159.md`. Name ranges 020–039 covered 1,904 targets (164 corrected verdict lines); 040–058 covered 1,390 targets (123 corrected lines). All 31,832 baseline IDs now have exactly one ordered verdict; the persisted positional manifest covers all 675 batches. This proves global coverage and order, not the missing original raw text or original recipe batch boundaries.
 
 Twenty-seven live raw pages were recovered to close missing recipe-status gaps; those supplemental checks are explicitly identified as live recovery. No absent original snapshot is claimed to have been read. All kept imported recipes now have exactly one source-matched status.
+
+## Superseding original-input check
+
+All 297 original inputs were subsequently supplied in `original-batches.tgz`. Every removal,
+country override and name override was reread against the actual original entry, including all
+supplied raw text. New `audits/original-*.md` ledgers record all 8,160 targeted or changed records.
+There are no missing original batch inputs: all 675 counts and positional ID lists match directly.
+The historical metadata-only limitation above no longer describes the completed second opinion.
