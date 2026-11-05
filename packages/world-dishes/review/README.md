@@ -47,7 +47,7 @@ and is retained as a commonly used code, rather than substituting another countr
 
 The fetch cache is absent, so verdicts are applied directly to checked-in shards using the same
 code used by `build-data`, after restoring immutable baseline `9333faf`. The output contains
-**29,987 dishes and 14,322 recipes; every dish has at least one country**.
+**29,984 dishes and 14,319 recipes; every dish has at least one country**.
 
 | Applied change                                              |  Count |
 | ----------------------------------------------------------- | -----: |
