@@ -32,3 +32,4 @@ Original batch raw sources are unavailable. This audit reads every remove/countr
 - r-107: audited all 17 remove/countries targets. Expanded pastilla and patacones to shared ties; cleared generic caper/olive spread. Panela lemonade removal upheld.
 - r-108: audited all 28 remove/countries targets. Cleared generic chard gratin and pears in wine; expanded cod fritters and picarones to shared ties. Seven pisco cocktail removals upheld.
 - r-109: audited all 17 remove/countries targets. Cleared three generic chicken preparations; expanded disputed tikka masala and black-bean chicken ties. Four drinks upheld.
+- r-110: audited all 24 remove/countries targets. Expanded provoleta and octopus in ink to omitted common ties. Nine beverage removals upheld, including finished grenadine soda (distinct from syrup). Quinoa milk removal retained on original explicit beverage description, with raw unavailable.
