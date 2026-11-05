@@ -6,7 +6,7 @@
 {"id":"wikibooks:eel-alla-milanese","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AEel_alla_Milanese","status":"ok"}]}
 {"id":"wikibooks:eel-chowder","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AEel_Chowder","status":"ok"}]}
 {"id":"wikibooks:egbo-nigerian-cornmeal-porridge","verdict":"keep","countries":["NG"],"reason":"source identifies dish with Ibadan, Nigeria","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AEgbo_(Nigerian_Cornmeal_Porridge)","status":"ok"}]}
-{"id":"wikibooks:egg-casserole","verdict":"keep","countries":[],"reason":"generic casserole has no specific national association","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AEgg_Casserole","status":"ok"}]}
+{"id":"wikibooks:egg-casserole","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AEgg_Casserole","status":"ok"}]}
 {"id":"wikibooks:egg-cheese-and-phyllo-casserole-banitsa","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AEgg%2C_Cheese_and_Phyllo_Casserole_(Banitsa)","status":"ok"}]}
 {"id":"wikibooks:egg-in-a-mist","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AEgg_in_a_Mist","status":"ok"}]}
 {"id":"wikibooks:egg-noodles-i","verdict":"keep","name":"Egg Noodles","reason":"remove recipe numbering","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AEgg_Noodles_I","status":"ok"}]}
