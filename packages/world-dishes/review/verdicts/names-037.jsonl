@@ -47,7 +47,7 @@
 {"id":"Q28724885","verdict":"keep"}
 {"id":"Q28724890","verdict":"keep"}
 {"id":"Q28724892","verdict":"keep"}
-{"id":"Q28725121","verdict":"remove","reason":"name is an English sentence and the page is a category of dishes"}
+{"id":"Q28725121","verdict":"keep","reason":"Second opinion: the dish metadata identifies a tahu goreng preparation. An apparently mistranslated English label is not sufficient evidence to remove a plausible dish.","name":"Tahu goreng"}
 {"id":"Q28725149","verdict":"keep"}
 {"id":"Q28726278","verdict":"keep"}
 {"id":"Q28733682","verdict":"keep"}
@@ -110,7 +110,7 @@
 {"id":"Q2896351","verdict":"keep"}
 {"id":"Q2896374","verdict":"keep"}
 {"id":"Q28966859","verdict":"remove","reason":"single raw garlic clove, an ingredient part, not a prepared dish"}
-{"id":"Q2897203","verdict":"keep","countries":["DZ"],"reason":"Algerian dish; countries were empty"}
+{"id":"Q2897203","verdict":"keep","countries":["DZ","MA","TN"],"reason":"Second opinion: berkoukes is shared Maghrebi cooking (https://en.wikipedia.org/wiki/Berkoukes_%28dish%29)."}
 {"id":"Q2897288","verdict":"keep"}
 {"id":"Q2897290","verdict":"keep"}
 {"id":"Q2899201","verdict":"keep"}
@@ -125,7 +125,7 @@
 {"id":"Q290233","verdict":"keep"}
 {"id":"Q2902532","verdict":"keep"}
 {"id":"Q29032645","verdict":"keep","countries":["NO"],"reason":"Norwegian pastry; countries were empty"}
-{"id":"Q2903643","verdict":"keep","countries":["DE"],"reason":"German dish; countries were empty"}
+{"id":"Q2903643","verdict":"keep","countries":[],"reason":"Second opinion: helzel is Ashkenazi Jewish food; the Yiddish label does not establish Germany (https://en.wikipedia.org/wiki/Helzel)."}
 {"id":"Q29043105","verdict":"remove","reason":"category of confectionery products (OKP grouping)"}
 {"id":"Q2904639","verdict":"keep"}
 {"id":"Q29048545","verdict":"keep"}
@@ -223,13 +223,13 @@
 {"id":"Q2957687","verdict":"keep"}
 {"id":"Q2961907","verdict":"keep"}
 {"id":"Q2963355","verdict":"keep"}
-{"id":"Q2963406","verdict":"keep","countries":["BE"],"reason":"Belgian dish; countries were empty"}
+{"id":"Q2963406","verdict":"keep","countries":["NL","BE","FR"],"reason":"Second opinion: include all three countries explicitly named by the description."}
 {"id":"Q2963566","verdict":"keep"}
 {"id":"Q2963638","verdict":"keep"}
 {"id":"Q2963783","verdict":"keep"}
 {"id":"Q29642090","verdict":"keep"}
 {"id":"Q2964251","verdict":"keep"}
-{"id":"Q2964269","verdict":"remove","reason":"category (chocolate from Belgium), not one dish"}
+{"id":"Q2964269","verdict":"keep","reason":"Second opinion: Belgian chocolate is prepared confectionery, not a raw ingredient; regional style alone is insufficient reason to remove it."}
 {"id":"Q2964495","verdict":"keep"}
 {"id":"Q2967557","verdict":"keep","countries":["DZ"],"reason":"Algerian dish; countries were empty"}
 {"id":"Q2967656","verdict":"keep"}
