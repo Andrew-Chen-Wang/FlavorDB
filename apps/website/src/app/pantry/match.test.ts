@@ -3,21 +3,24 @@ import { bucketByMissing, scoreDishes } from "./match"
 
 const dishes = [
   {
-    slug: "congee",
+    key: "congee",
+    href: "/dishes/congee",
     name: "Congee",
     localName: "",
     ingredients: ["rice", "ginger", "salt"],
     hasRecipe: false,
   },
   {
-    slug: "fried-rice",
+    key: "fried-rice",
+    href: "/dishes/fried-rice",
     name: "Fried rice",
     localName: "",
     ingredients: ["rice", "egg", "green-onion", "salt"],
     hasRecipe: false,
   },
   {
-    slug: "jiaozi",
+    key: "jiaozi",
+    href: "/dishes/jiaozi",
     name: "Jiaozi",
     localName: "",
     ingredients: ["flour", "ground-pork", "napa-cabbage"],
@@ -41,7 +44,7 @@ describe("pantry matching", () => {
     const buckets = bucketByMissing(
       scoreDishes(dishes, new Set(["rice", "ginger", "egg"]), new Set(["salt"])),
     )
-    expect(buckets.map((b) => b.dishes.map((d) => d.slug))).toEqual([
+    expect(buckets.map((b) => b.dishes.map((d) => d.key))).toEqual([
       ["congee"],
       ["fried-rice"],
       [],

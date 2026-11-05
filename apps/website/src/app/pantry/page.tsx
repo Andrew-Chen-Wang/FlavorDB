@@ -1,5 +1,6 @@
 import { Container } from "@website/components/site/ui"
-import { STAPLE_INGREDIENTS, dishes, ingredientUseCount, ingredients } from "@website/lib/data"
+import { STAPLE_INGREDIENTS, ingredients } from "@website/lib/data"
+import { pantryDishes } from "@website/lib/pantry"
 import type { Metadata } from "next"
 import { Pantry, type PantryData } from "./pantry"
 
@@ -75,16 +76,10 @@ const QUICK_ADD: [string, string[]][] = [
 ]
 
 export default function PantryPage() {
+  const used = new Set(pantryDishes().flatMap((d) => d.ingredients))
   const data: PantryData = {
-    dishes: dishes.map((d) => ({
-      slug: d.slug,
-      name: d.name,
-      localName: d.localName?.split(" / ")[0] ?? "",
-      ingredients: d.ingredients,
-      hasRecipe: d.recipes.length > 0,
-    })),
     ingredients: ingredients
-      .filter((i) => ingredientUseCount(i.id) > 0)
+      .filter((i) => used.has(i.id))
       .map((i) => ({ id: i.id, name: i.name, aliases: i.aliases ?? [] })),
     staples: [...STAPLE_INGREDIENTS],
     quickAdd: QUICK_ADD.map(([title, ids]) => ({ title, ids })),

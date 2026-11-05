@@ -11,6 +11,10 @@ const nextConfig: NextConfig = {
       "../../packages/world-dishes/data/*.jsonl",
       "../../packages/world-dishes/data/images.json",
     ],
+    "/pantry/match": [
+      "../../packages/world-dishes/data/*.jsonl",
+      "../../packages/world-dishes/data/ingredient-map.json",
+    ],
     "/dishes/[slug]": [
       "../../packages/world-dishes/data/*.jsonl",
       "../../packages/world-dishes/data/images.json",

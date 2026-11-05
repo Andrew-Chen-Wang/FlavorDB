@@ -4,10 +4,10 @@ import { cn } from "@website/lib/utils"
 import { Plus, X } from "lucide-react"
 import Link from "next/link"
 import { useEffect, useState } from "react"
-import { bucketByMissing, type PantryDish, scoreDishes } from "./match"
+import { DishPhoto } from "@website/components/site/dish-photo"
+import type { PantryResult } from "@website/lib/pantry"
 
 export type PantryData = {
-  dishes: PantryDish[]
   ingredients: { id: string; name: string; aliases: string[] }[]
   staples: string[]
   quickAdd: { title: string; ids: string[] }[]
@@ -67,10 +67,29 @@ export function Pantry({ data }: { data: PantryData }) {
     setHave(next)
   }
 
-  const staples = new Set(assumeStaples ? data.staples : [])
-  const scored = scoreDishes(data.dishes, have, staples)
-  const buckets = bucketByMissing(scored, 3)
-  const rest = data.dishes.length - buckets.reduce((n, b) => n + b.dishes.length, 0)
+  // Matching runs on the server: there are too many dishes to send to the browser.
+  const [result, setResult] = useState<PantryResult | undefined>()
+  const haveKey = [...have].toSorted().join(",")
+  useEffect(() => {
+    if (!loaded) return
+    const controller = new AbortController()
+    fetch("/pantry/match", {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ have: haveKey ? haveKey.split(",") : [], staples: assumeStaples }),
+      signal: controller.signal,
+    })
+      .then(async (r) => (await r.json()) as PantryResult)
+      .then(setResult)
+      .catch(() => {
+        // Aborted by a newer request, or offline: keep showing the last result.
+      })
+    return () => {
+      controller.abort()
+    }
+  }, [haveKey, assumeStaples, loaded])
+  const buckets = result?.buckets ?? []
+  const rest = result?.rest ?? 0
 
   const q = query.trim().toLowerCase()
   const suggestions = q
@@ -250,6 +269,7 @@ export function Pantry({ data }: { data: PantryData }) {
         className={"flex min-w-0 flex-[999_1_600px] flex-col gap-10"}
         aria-live={"polite"}
       >
+        {!result && <p className={"text-[15px] text-ink-3"}>Finding dishes…</p>}
         {buckets.map((bucket) => (
           <div key={bucket.missing}>
             <div
@@ -262,7 +282,8 @@ export function Pantry({ data }: { data: PantryData }) {
                 {BUCKET_TITLES[bucket.missing]}
               </h2>
               <span className={"text-[15px] text-ink-3"}>
-                {bucket.dishes.length} {bucket.dishes.length === 1 ? "dish" : "dishes"}
+                {bucket.count.toLocaleString("en")} {bucket.count === 1 ? "dish" : "dishes"}
+                {bucket.count > bucket.dishes.length && `, best ${bucket.dishes.length} shown`}
               </span>
             </div>
             {bucket.dishes.length === 0 ? (
@@ -273,13 +294,17 @@ export function Pantry({ data }: { data: PantryData }) {
               <div className={"mt-4 grid grid-cols-[repeat(auto-fill,minmax(280px,1fr))] gap-3.5"}>
                 {bucket.dishes.map((d) => (
                   <Link
-                    key={d.slug}
-                    href={`/dishes/${d.slug}`}
+                    key={d.key}
+                    href={d.href}
                     className={
                       "flex gap-3.5 rounded-2xl border border-line p-3.5 hover:border-chili"
                     }
                   >
-                    <span className={"photo-placeholder size-[72px] flex-none rounded-xl"} />
+                    <DishPhoto
+                      file={d.image}
+                      width={160}
+                      className={"size-[72px] flex-none rounded-xl"}
+                    />
                     <span className={"min-w-0 flex-1"}>
                       <span className={"flex flex-wrap items-baseline gap-1.5"}>
                         <span className={"font-semibold"}>{d.name}</span>
@@ -340,7 +365,8 @@ export function Pantry({ data }: { data: PantryData }) {
         ))}
         {rest > 0 && (
           <p className={"text-[15px] text-ink-3"}>
-            {rest} more dishes need 4 or more ingredients you don&apos;t have, or none you do.
+            {rest.toLocaleString("en")} more dishes need 4 or more ingredients you don&apos;t have,
+            or none you do.
           </p>
         )}
       </section>

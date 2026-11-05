@@ -33,6 +33,11 @@ export type WorldDish = {
   kinds: string[]
   /** Ingredient names in English where known */
   ingredients: string[]
+  /**
+   * The same ingredients as ids on FlavorDB's shared ingredient list (`@flavor-db/seed-data`), from
+   * both the names above and every recipe's ingredient lines (see data/ingredient-map.json)
+   */
+  ingredientIds?: string[]
   /** Wikimedia Commons file name */
   image?: string
   /** A photo hosted elsewhere under the source's license (HowToCook's own pictures) */

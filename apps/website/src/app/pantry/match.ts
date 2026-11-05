@@ -1,9 +1,12 @@
 export type PantryDish = {
-  slug: string
+  key: string
+  href: string
   name: string
   localName: string
   ingredients: string[]
   hasRecipe: boolean
+  /** A Commons file name or a full URL */
+  image?: string
 }
 
 export type ScoredDish = PantryDish & { missing: string[]; have: number; needed: number }
@@ -38,7 +41,9 @@ export function bucketByMissing(
       .filter((d) => d.missing.length === k && (k === 0 || d.have > 0))
       .toSorted(
         (a, b) =>
-          b.have / Math.max(b.needed, 1) - a.have / Math.max(a.needed, 1) || b.have - a.have,
+          Number(b.hasRecipe) - Number(a.hasRecipe) ||
+          b.have / Math.max(b.needed, 1) - a.have / Math.max(a.needed, 1) ||
+          b.have - a.have,
       ),
   }))
 }
