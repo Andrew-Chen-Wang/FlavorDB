@@ -25,14 +25,14 @@
 {"id":"Q12045473","verdict":"keep","countries":["AT"],"reason":"countries empty; Austrian torte"}
 {"id":"Q12045578","verdict":"keep"}
 {"id":"Q1204605","verdict":"keep"}
-{"id":"Q120471689","verdict":"keep","countries":["ES"],"reason":"countries empty; Spanish chicken dish"}
+{"id":"Q120471689","verdict":"keep","reason":"Bissau-Guinean chicken dish, not Spanish","countries":["GW"]}
 {"id":"Q12047663","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech snack"}
 {"id":"Q120486465","verdict":"keep"}
 {"id":"Q12048787","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech confection"}
 {"id":"Q120493206","verdict":"keep"}
 {"id":"Q120495847","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese shrimp dish"}
 {"id":"Q120495866","verdict":"keep"}
-{"id":"Q120499220","verdict":"keep","countries":["FR"],"reason":"petit four is French; IT was wrong"}
+{"id":"Q120499220","verdict":"keep","reason":"Preserve recorded Italian pastry association alongside French petit-four tradition","countries":["IT","FR"]}
 {"id":"Q12050379","verdict":"keep"}
 {"id":"Q120512623","verdict":"remove","reason":"fast-food chain menu item"}
 {"id":"Q12054972","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech dish"}
@@ -49,7 +49,7 @@
 {"id":"Q120669355","verdict":"keep"}
 {"id":"Q120681710","verdict":"keep"}
 {"id":"Q120682642","verdict":"keep"}
-{"id":"Q12070251","verdict":"keep","countries":["KE"],"reason":"countries empty; Kenyan dish"}
+{"id":"Q12070251","verdict":"keep","reason":"Shared East African collard-green preparation","countries":["KE","TZ","UG"]}
 {"id":"Q120703855","verdict":"keep","countries":["US"],"reason":"countries empty; American cookie"}
 {"id":"Q12071938","verdict":"keep"}
 {"id":"Q1207626","verdict":"keep"}
@@ -123,7 +123,7 @@
 {"id":"Q121601792","verdict":"keep","countries":["DE"],"reason":"countries empty; German dish"}
 {"id":"Q12160988","verdict":"keep","countries":["UA"],"reason":"countries empty; Ukrainian porridge"}
 {"id":"Q12162645","verdict":"keep"}
-{"id":"Q121632964","verdict":"keep","countries":["ES"],"reason":"countries empty; Catalan pasta"}
+{"id":"Q121632964","verdict":"keep","reason":"Dried pasta is not exclusively Catalan or Spanish"}
 {"id":"Q121686412","verdict":"keep"}
 {"id":"Q121695915","verdict":"keep"}
 {"id":"Q1216990","verdict":"keep","countries":["ES"],"reason":"countries empty; Navarrese dish"}
@@ -152,7 +152,7 @@
 {"id":"Q12191857","verdict":"keep","countries":["SY"],"reason":"countries empty; Aleppo dessert"}
 {"id":"Q121920223","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
 {"id":"Q12192208","verdict":"keep"}
-{"id":"Q12192991","verdict":"keep","countries":["DZ"],"reason":"description says Algiers; MA was wrong"}
+{"id":"Q12192991","verdict":"keep","reason":"Meskouta/mouskoutchou has Moroccan and Algerian associations","countries":["MA","DZ"]}
 {"id":"Q12195766","verdict":"keep"}
 {"id":"Q12197801","verdict":"keep"}
 {"id":"Q12199101","verdict":"keep","countries":["EH","MR"],"reason":"countries empty; Western Saharan dish"}
@@ -173,7 +173,7 @@
 {"id":"Q12218486","verdict":"keep"}
 {"id":"Q12219244","verdict":"keep"}
 {"id":"Q12220257","verdict":"keep"}
-{"id":"Q12220420","verdict":"keep","countries":["LB"],"reason":"countries empty; Lebanese dish"}
+{"id":"Q12220420","verdict":"keep","reason":"Shared Levantine fish and rice dish","countries":["LB","SY","PS","JO"]}
 {"id":"Q1222099","verdict":"keep"}
 {"id":"Q12221610","verdict":"keep"}
 {"id":"Q12221948","verdict":"keep"}
@@ -186,7 +186,7 @@
 {"id":"Q122241480","verdict":"keep"}
 {"id":"Q122241559","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
 {"id":"Q12224442","verdict":"keep"}
-{"id":"Q12224780","verdict":"keep","countries":["YE"],"reason":"countries empty; South Arabian dish"}
+{"id":"Q12224780","verdict":"keep","reason":"Arikah is shared southern Arabian preparation","countries":["YE","SA"]}
 {"id":"Q122258938","verdict":"keep","countries":["JP"],"reason":"countries empty; Ogasawara cuisine"}
 {"id":"Q12227158","verdict":"keep"}
 {"id":"Q122292341","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese confection"}
@@ -226,13 +226,13 @@
 {"id":"Q122453617","verdict":"keep"}
 {"id":"Q122514382","verdict":"keep"}
 {"id":"Q122528692","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese korokke"}
-{"id":"Q1225577","verdict":"keep","countries":["DE"],"reason":"countries empty; German dish"}
+{"id":"Q1225577","verdict":"keep","reason":"Generic dill potatoes; German label alone insufficient for German-only override"}
 {"id":"Q12259249","verdict":"keep"}
 {"id":"Q122599104","verdict":"keep"}
 {"id":"Q122609155","verdict":"keep","countries":["BO"],"reason":"countries empty; Bolivian food"}
 {"id":"Q12261332","verdict":"keep"}
 {"id":"Q122632985","verdict":"keep"}
-{"id":"Q12264276","verdict":"keep","countries":["AT"],"reason":"countries empty; Austrian pancake"}
+{"id":"Q12264276","verdict":"keep","reason":"Palatschinke family shared across Central Europe and Balkans","countries":["AT","CZ","SK","HU","RO","HR","RS","SI","BA"]}
 {"id":"Q122644102","verdict":"keep"}
 {"id":"Q122650685","verdict":"keep","countries":["TH"],"reason":"countries empty; Thai dish"}
 {"id":"Q1226539","verdict":"keep"}
@@ -254,13 +254,13 @@
 {"id":"Q122762284","verdict":"keep"}
 {"id":"Q122780671","verdict":"keep","countries":["DE"],"reason":"countries empty; German pastry"}
 {"id":"Q122780717","verdict":"keep"}
-{"id":"Q122780744","verdict":"keep","countries":["FR"],"reason":"countries empty; French bread"}
+{"id":"Q122780744","verdict":"keep","reason":"Generic walnut bread; French label alone insufficient for French-only override"}
 {"id":"Q122782077","verdict":"keep"}
 {"id":"Q1227853","verdict":"keep"}
 {"id":"Q122790013","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
 {"id":"Q122790091","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese ramen"}
 {"id":"Q122790153","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese soup"}
-{"id":"Q12279155","verdict":"keep","countries":["RO"],"reason":"countries empty; Romanian dish"}
+{"id":"Q12279155","verdict":"keep","reason":"Drob sarma shared Bulgarian and Romanian offal preparation","countries":["BG","RO"]}
 {"id":"Q12279211","verdict":"keep"}
 {"id":"Q122792121","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese zoni"}
 {"id":"Q122808444","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean dish"}
@@ -283,7 +283,7 @@
 {"id":"Q122915710","verdict":"keep"}
 {"id":"Q122917163","verdict":"keep"}
 {"id":"Q12291791","verdict":"keep","countries":["BG"],"reason":"countries empty; Bulgarian dish"}
-{"id":"Q122921187","verdict":"keep","countries":["DE"],"reason":"countries empty; German bread"}
+{"id":"Q122921187","verdict":"keep","reason":"Generic onion bread; German label alone insufficient for German-only override"}
 {"id":"Q12292267","verdict":"keep"}
 {"id":"Q122925646","verdict":"keep"}
 {"id":"Q12293376","verdict":"keep","countries":["BG"],"reason":"countries empty; Bulgarian dish"}
