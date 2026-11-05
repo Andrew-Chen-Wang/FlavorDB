@@ -120,7 +120,7 @@
 {"id":"Q908963","verdict":"keep"}
 {"id":"Q9090624","verdict":"keep"}
 {"id":"Q9090648","verdict":"keep"}
-{"id":"Q909385","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese dessert"}
+{"id":"Q909385","verdict":"keep","countries":["CN","HK","TW","JP","MY","SG"],"reason":"Almond tofu is explicitly associated with China, Hong Kong, Taiwan, Japan, Malaysia and Singapore in the entity description."}
 {"id":"Q909438","verdict":"keep"}
 {"id":"Q909643","verdict":"remove","reason":"category of soup-like dishes (guk), not one dish"}
 {"id":"Q909649","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean dish"}
@@ -245,7 +245,7 @@
 {"id":"Q94347107","verdict":"keep","countries":["ZA"],"reason":"countries were empty; described as South African food"}
 {"id":"Q943696","verdict":"keep"}
 {"id":"Q94449001","verdict":"keep"}
-{"id":"Q945096","verdict":"keep","countries":["BA","RS","HR"],"reason":"countries were empty; Balkan dish"}
+{"id":"Q945096","verdict":"keep","countries":["BA","RS","HR","ME","MK","SI"],"reason":"Ćevapi has shared Bosnian, Serbian, Croatian, Montenegrin, Macedonian and Slovenian culinary traditions."}
 {"id":"Q94524005","verdict":"keep"}
 {"id":"Q94531971","verdict":"keep"}
 {"id":"Q945475","verdict":"keep"}

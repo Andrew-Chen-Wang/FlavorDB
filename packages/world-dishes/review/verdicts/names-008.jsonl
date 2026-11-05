@@ -20,7 +20,7 @@
 {"id":"Q109502070","verdict":"keep"}
 {"id":"Q109519912","verdict":"keep"}
 {"id":"Q10952583","verdict":"keep"}
-{"id":"Q1095315","verdict":"keep","countries":["LB","SY"],"reason":"added countries: Levantine garlic sauce"}
+{"id":"Q1095315","verdict":"keep","countries":["LB","SY","PS","JO"],"reason":"Toum is shared Levantine garlic sauce associated with Lebanon, Syria, Palestine and Jordan."}
 {"id":"Q109532998","verdict":"keep","countries":["TR"],"reason":"added country: Turkish fish soup"}
 {"id":"Q109533885","verdict":"keep","countries":["KR"],"reason":"added country: Korean fried chicken"}
 {"id":"Q109536261","verdict":"keep"}
@@ -50,7 +50,7 @@
 {"id":"Q109645027","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}
 {"id":"Q109645225","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}
 {"id":"Q10964995","verdict":"keep"}
-{"id":"Q109659136","verdict":"keep","countries":["JP"],"reason":"added country: Japanese ramen"}
+{"id":"Q109659136","verdict":"remove","reason":"Sugakiya Jigoku no Aka ramen is a named commercial noodle product rather than a generic dish."}
 {"id":"Q109664551","verdict":"keep","countries":["JP"],"reason":"added country: Japanese rice dish"}
 {"id":"Q109667967","verdict":"keep"}
 {"id":"Q109668004","verdict":"keep"}
@@ -78,17 +78,17 @@
 {"id":"Q110056303","verdict":"keep"}
 {"id":"Q110061263","verdict":"keep"}
 {"id":"Q110081689","verdict":"keep"}
-{"id":"Q110101486","verdict":"keep","countries":["ID"],"reason":"added country: Indonesian takjil"}
+{"id":"Q110101486","verdict":"remove","reason":"Takjil denotes foods and drinks for breaking the fast, a meal category rather than one dish."}
 {"id":"Q110104063","verdict":"keep","countries":["AZ","IR"],"reason":"Second opinion: Tabriz baklava is tied to Iranian Azerbaijan as well as Azerbaijani pastry traditions."}
 {"id":"Q1101046","verdict":"keep"}
 {"id":"Q110108640","verdict":"keep","countries":["AZ"],"reason":"added country: Azerbaijani pastry"}
-{"id":"Q110115559","verdict":"keep","countries":["KR"],"reason":"added country: Korean guk"}
-{"id":"Q110117776","verdict":"keep","countries":["KR"],"reason":"added country: Korean jeotgal"}
+{"id":"Q110115559","verdict":"keep","countries":["KR","KP"],"reason":"Mugwort guk is a shared Korean soup associated with both Koreas."}
+{"id":"Q110117776","verdict":"keep","countries":["KR","KP"],"reason":"Salted pollock innards are associated with both Korean cuisines."}
 {"id":"Q110122147","verdict":"keep"}
 {"id":"Q110126962","verdict":"keep"}
 {"id":"Q110127742","verdict":"keep"}
 {"id":"Q110129212","verdict":"keep"}
-{"id":"Q110132849","verdict":"keep","countries":["UA","RU"],"reason":"added countries: Crimean Tatar pie"}
+{"id":"Q110132849","verdict":"keep","countries":["UA","RU","TR"],"reason":"Kobete is a Crimean Tatar pie also strongly associated with the Crimean Tatar community in Turkey."}
 {"id":"Q110133485","verdict":"keep"}
 {"id":"Q110134687","verdict":"keep"}
 {"id":"Q110134698","verdict":"keep"}
@@ -160,14 +160,14 @@
 {"id":"Q110664680","verdict":"keep"}
 {"id":"Q11066473","verdict":"keep"}
 {"id":"Q110693434","verdict":"keep","countries":["IQ","IR"],"reason":"added countries: Mandaean flatbread"}
-{"id":"Q110701994","verdict":"keep","countries":["DE"],"reason":"added country: German schnitzel"}
+{"id":"Q110701994","verdict":"keep","countries":["AT","DE"],"reason":"Naturschnitzel is associated with Austrian and German cooking."}
 {"id":"Q110702204","verdict":"remove","reason":"raw fruit, not a dish"}
 {"id":"Q110730621","verdict":"remove","reason":"company, not a dish"}
 {"id":"Q1107324","verdict":"keep"}
 {"id":"Q110738684","verdict":"keep"}
 {"id":"Q110738704","verdict":"keep"}
 {"id":"Q110745670","verdict":"keep"}
-{"id":"Q110749148","verdict":"keep","countries":["DE"],"reason":"added country: German schnitzel"}
+{"id":"Q110749148","verdict":"keep","countries":["AT","DE"],"reason":"Mushroom schnitzel is associated with Austrian and German cooking."}
 {"id":"Q11075630","verdict":"keep","countries":["CN"],"reason":"added country: Chinese wonton skin dish"}
 {"id":"Q11076102","verdict":"keep"}
 {"id":"Q11076619","verdict":"keep"}
@@ -229,7 +229,7 @@
 {"id":"Q11117465","verdict":"keep"}
 {"id":"Q111182015","verdict":"keep"}
 {"id":"Q111190656","verdict":"keep"}
-{"id":"Q111207593","verdict":"keep","countries":["FR"],"reason":"added country: French biscuit"}
+{"id":"Q111207593","verdict":"keep","countries":["FR","IT"],"reason":"Boudoir/ladyfinger biscuits have French and Italian Savoyard associations."}
 {"id":"Q111207636","verdict":"keep"}
 {"id":"Q111207981","verdict":"keep","countries":["MA"],"reason":"added country: Moroccan pastry"}
 {"id":"Q111209150","verdict":"keep"}
@@ -247,7 +247,7 @@
 {"id":"Q111306412","verdict":"keep","countries":["JP"],"reason":"added country: Japanese norimaki"}
 {"id":"Q111317807","verdict":"keep"}
 {"id":"Q111318005","verdict":"keep"}
-{"id":"Q111329417","verdict":"remove","reason":"packaged instant noodle product (brand line)"}
+{"id":"Q111329417","verdict":"keep","countries":["CN"],"reason":"The entry names a generic pickled-mustard beef noodle preparation/flavour made by multiple producers, not an identified brand."}
 {"id":"Q111335689","verdict":"keep"}
 {"id":"Q111356050","verdict":"keep","countries":["JP"],"reason":"added country: Japanese makizushi"}
 {"id":"Q111365597","verdict":"keep"}
@@ -273,13 +273,13 @@
 {"id":"Q111524317","verdict":"keep"}
 {"id":"Q11153171","verdict":"keep"}
 {"id":"Q111544307","verdict":"keep"}
-{"id":"Q111551122","verdict":"keep","countries":["DE"],"reason":"added country: German soup"}
+{"id":"Q111551122","verdict":"keep","reason":"Oat-flake soup is a prepared dish, but the German label alone does not establish a country."}
 {"id":"Q111575659","verdict":"keep"}
 {"id":"Q111589037","verdict":"keep","countries":["JP"],"reason":"added country: Japanese nimono"}
 {"id":"Q111589124","verdict":"keep"}
 {"id":"Q111604426","verdict":"keep"}
 {"id":"Q111609502","verdict":"keep"}
-{"id":"Q111609577","verdict":"keep","countries":["DE"],"reason":"added country: German pastry"}
+{"id":"Q111609577","verdict":"keep","countries":["DE","AT"],"reason":"Apfeltaschen are apple pastries associated with German and Austrian baking."}
 {"id":"Q11161","verdict":"keep"}
 {"id":"Q11162","verdict":"keep"}
 {"id":"Q111628882","verdict":"keep"}
@@ -293,7 +293,7 @@
 {"id":"Q111724269","verdict":"keep"}
 {"id":"Q11172495","verdict":"keep","countries":["CN"],"reason":"added country: Chinese fish product"}
 {"id":"Q11172505","verdict":"keep","countries":["TW"],"reason":"Second opinion: the linked article is about Taiwanese fried fish crisps."}
-{"id":"Q11172760","verdict":"keep","countries":["CN"],"reason":"added country: Chinese fish ball"}
+{"id":"Q11172760","verdict":"keep","countries":["CN","HK"],"reason":"Dace fish balls are associated with Cantonese cuisine in mainland China and Hong Kong."}
 {"id":"Q11173321","verdict":"keep"}
 {"id":"Q11174346","verdict":"keep","countries":["CN"],"reason":"added country: Shanghainese soup"}
 {"id":"Q11174489","verdict":"keep","countries":["TW"],"reason":"Second opinion: smoked duck yāshǎng is a Yilan, Taiwan specialty."}

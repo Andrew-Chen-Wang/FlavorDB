@@ -2,7 +2,7 @@
 {"id":"wikibooks-de:paprika-bohnen-curry","verdict":"keep","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Paprika-Bohnen-Curry","status":"ok"}]}
 {"id":"wikibooks-de:paprikasalat-mit-honigsoße","verdict":"keep","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Paprikasalat_mit_Honigso%C3%9Fe","status":"ok"}]}
 {"id":"wikibooks-de:paprikawurst","verdict":"keep","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Paprikawurst","status":"ok"}]}
-{"id":"wikibooks-de:passierte-kartoffelsuppe-mit-lachsstreifen","verdict":"keep","countries":[],"reason":"Generic potato soup with salmon strips has no clear country-specific dish identity in recovered metadata","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Passierte_Kartoffelsuppe_mit_Lachsstreifen","status":"ok"}]}
+{"id":"wikibooks-de:passierte-kartoffelsuppe-mit-lachsstreifen","verdict":"keep","countries":["DE"],"reason":"The actual raw source explicitly identifies this potato soup with salmon strips as a northern German dish.","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Passierte_Kartoffelsuppe_mit_Lachsstreifen","status":"ok"}]}
 {"id":"wikibooks-de:pasta-ruccola-salat","verdict":"keep","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Pasta-Ruccola-Salat","status":"ok"}]}
 {"id":"wikibooks-de:pasteis-de-nata","verdict":"keep","countries":["PT"],"reason":"added country (Portuguese pastry per source)","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Pasteis_de_Nata","status":"ok"}]}
 {"id":"wikibooks-de:peanut-cupcake","verdict":"keep","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Peanut_Cupcake","status":"ok"}]}

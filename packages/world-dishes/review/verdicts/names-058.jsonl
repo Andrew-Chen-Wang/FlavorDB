@@ -14,10 +14,10 @@
 {"id":"Q9955294","verdict":"keep","countries":["BY"],"reason":"countries were empty; Belarusian soup"}
 {"id":"Q99554129","verdict":"keep","countries":["TW"],"reason":"countries were empty; Taiwanese pastry"}
 {"id":"Q995567","verdict":"keep","countries":["DE"],"reason":"countries were empty; German soup"}
-{"id":"Q995571","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"Q995571","verdict":"keep","countries":["DE","AT"],"reason":"Brätstrudel is associated with German and Austrian cooking."}
 {"id":"Q995997","verdict":"keep"}
 {"id":"Q99629221","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian bonbon"}
-{"id":"Q99654352","verdict":"keep","countries":["FI"],"reason":"countries were empty; Aland pancake (Finland)"}
+{"id":"Q99654352","verdict":"keep","countries":["AX"],"reason":"Åland pancake belongs specifically to the Åland Islands, whose ISO code is AX."}
 {"id":"Q99658926","verdict":"keep"}
 {"id":"Q99693722","verdict":"keep"}
 {"id":"Q9969675","verdict":"keep","countries":["CN"],"reason":"countries were empty; Yangzhou fried rice speciality"}
@@ -32,9 +32,9 @@
 {"id":"wikibooks-de:all-arrabbiata","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian sauce"}
 {"id":"wikibooks-de:amerikaner-mit-hirschhornsalz","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cookie"}
 {"id":"wikibooks-de:apfel-chili-chutney","verdict":"keep"}
-{"id":"wikibooks-de:apfelkuchen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cake"}
+{"id":"wikibooks-de:apfelkuchen","verdict":"keep"}
 {"id":"wikibooks-de:apfelmüsli","verdict":"keep"}
-{"id":"wikibooks-de:apfelpfannkuchen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pancake"}
+{"id":"wikibooks-de:apfelpfannkuchen","verdict":"keep"}
 {"id":"wikibooks-de:artischocken-und-spargel-in-apfelwein","verdict":"keep"}
 {"id":"wikibooks-de:bananenkuchen","verdict":"keep"}
 {"id":"wikibooks-de:bandnudeln-mit-sahnesauce","verdict":"keep"}
@@ -60,7 +60,7 @@
 {"id":"wikibooks-de:creamed-broccoli-soup","verdict":"keep"}
 {"id":"wikibooks-de:dill-senf-soße","verdict":"keep"}
 {"id":"wikibooks-de:eierlikörkuchen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cake"}
-{"id":"wikibooks-de:eierpfannkuchen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pancake"}
+{"id":"wikibooks-de:eierpfannkuchen","verdict":"keep"}
 {"id":"wikibooks-de:entenbrust-mit-orangensauce","verdict":"keep"}
 {"id":"wikibooks-de:erdbeer-bananen-mousse","verdict":"keep"}
 {"id":"wikibooks-de:erdbeertorte","verdict":"keep"}
@@ -76,7 +76,7 @@
 {"id":"wikibooks-de:haferpfannkuchen","verdict":"keep"}
 {"id":"wikibooks-de:hähnchen-aprikosen-mandel-reis","verdict":"keep"}
 {"id":"wikibooks-de:hähnchenroulade-aus-der-mikrowelle","verdict":"keep"}
-{"id":"wikibooks-de:hefezopf","verdict":"keep","countries":["DE"],"reason":"countries were empty; German yeast braid"}
+{"id":"wikibooks-de:hefezopf","verdict":"keep","countries":["DE","AT","CH"],"reason":"Hefezopf belongs to shared German, Austrian and Swiss baking traditions."}
 {"id":"wikibooks-de:herrencreme","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dessert"}
 {"id":"wikibooks-de:kartoffelgratin","verdict":"keep"}
 {"id":"wikibooks-de:kekse-boston","verdict":"keep"}
@@ -86,7 +86,7 @@
 {"id":"wikibooks-de:leckere-brötchen","verdict":"keep"}
 {"id":"wikibooks-de:maispuffer","verdict":"keep"}
 {"id":"wikibooks-de:mispel-parfait","verdict":"keep"}
-{"id":"wikibooks-de:mohntorte","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cake"}
+{"id":"wikibooks-de:mohntorte","verdict":"keep","countries":["DE","AT"],"reason":"Mohntorte has established German and Austrian traditions."}
 {"id":"wikibooks-de:möhrenkuchen","verdict":"keep"}
 {"id":"wikibooks-de:muffins","verdict":"keep"}
 {"id":"wikibooks-de:müsli-ohne-zucker","verdict":"keep"}
@@ -99,11 +99,11 @@
 {"id":"wikibooks-de:pizzateig","verdict":"keep","countries":["IT"],"reason":"countries were empty; pizza dough"}
 {"id":"wikibooks-de:quarkauflauf-mit-aprikosen","verdict":"keep"}
 {"id":"wikibooks-de:quarkbällchen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
-{"id":"wikibooks-de:rosinenbrötchen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German rolls"}
+{"id":"wikibooks-de:rosinenbrötchen","verdict":"keep"}
 {"id":"wikibooks-de:rostige-ritter","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
 {"id":"wikibooks-de:rührei-in-der-mikrowelle","verdict":"keep"}
 {"id":"wikibooks-de:salsa-mexicana","verdict":"keep","countries":["MX"],"reason":"countries were empty; Mexican salsa"}
-{"id":"wikibooks-de:saurer-linseneintopf","verdict":"keep","countries":["DE"],"reason":"countries were empty; German stew"}
+{"id":"wikibooks-de:saurer-linseneintopf","verdict":"keep"}
 {"id":"wikibooks-de:scharfe-kokos-hühnersuppe","verdict":"keep"}
 {"id":"wikibooks-de:schokokuss-torte","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cake"}
 {"id":"wikibooks-de:schuettelkuchen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cake"}
@@ -118,7 +118,7 @@
 {"id":"wikibooks-de:überbackene-veggi-maultaschen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German Maultaschen"}
 {"id":"wikibooks-de:vanillepudding","verdict":"keep"}
 {"id":"wikibooks-de:vogel-sternmieren-salat","verdict":"keep"}
-{"id":"wikibooks-de:wildkohl-mit-speck-und-kartoffeln","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"wikibooks-de:wildkohl-mit-speck-und-kartoffeln","verdict":"keep"}
 {"id":"wikibooks-de:wolkenkuchen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cake"}
 {"id":"wikibooks-de:wurst-käse-salat-nach-emmentaler-art","verdict":"keep","countries":["CH"],"reason":"countries were empty; Emmental-style salad"}
 {"id":"wikibooks-de:würstchen-im-schlafrock","verdict":"keep","countries":["AT","DE"],"reason":"Second opinion: sausages in pastry are associated with Austria and Germany"}

@@ -142,7 +142,7 @@
 {"id":"Q10856263","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
 {"id":"Q10856318","verdict":"keep"}
 {"id":"Q10856331","verdict":"keep"}
-{"id":"Q10856452","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean dish"}
+{"id":"Q10856452","verdict":"keep","countries":["KR","KP"],"reason":"Dak-bokkeum-tang is shared Korean spicy braised chicken associated with both Koreas."}
 {"id":"Q108564625","verdict":"keep","countries":["SE"],"reason":"countries empty; Swedish dish"}
 {"id":"Q108568436","verdict":"keep","countries":["PH"],"reason":"countries empty; Filipino dish"}
 {"id":"Q108570082","verdict":"keep"}
@@ -159,7 +159,7 @@
 {"id":"Q10860607","verdict":"keep"}
 {"id":"Q10860666","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese kelp product"}
 {"id":"Q108611058","verdict":"keep","countries":["DK"],"reason":"countries empty; Danish bread"}
-{"id":"Q108611113","verdict":"keep","countries":["DK"],"reason":"countries empty; Danish bread roll"}
+{"id":"Q108611113","verdict":"keep","countries":["DK","NO"],"reason":"Rundstykker are traditional bread rolls associated with Denmark and Norway."}
 {"id":"Q108611407","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese donburi"}
 {"id":"Q10861385","verdict":"keep"}
 {"id":"Q10861386","verdict":"keep"}

@@ -21,5 +21,5 @@
 {"id":"wikibooks-hu:bodzalekvár","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FTart%C3%B3s%C3%ADt%C3%A1s%2FBef%C5%91z%C3%A9s%2FBodzalekv%C3%A1r","status":"ok"},{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FTart%C3%B3s%C3%ADt%C3%A1s%2FBef%C5%91z%C3%A9s%2FBodzalekv%C3%A1r_2.","status":"ok"}]}
 {"id":"wikibooks-hu:bodzalikőr","verdict":"remove","reason":"drink (liqueur)"}
 {"id":"wikibooks-hu:bodzás-kefir","verdict":"remove","reason":"drink (kefir beverage)"}
-{"id":"wikibooks-hu:bodzaszörp","verdict":"remove","reason":"drink (syrup concentrate for drinks)"}
+{"id":"wikibooks-hu:bodzaszörp","verdict":"keep","reason":"Elderflower syrup is a prepared bottled syrup; the second raw recipe explicitly requires subsequent dilution.","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FItalok%2FSz%C3%B6rp%C3%B6k%2FBodzasz%C3%B6rp","status":"ok"},{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FItalok%2FSz%C3%B6rp%C3%B6k%2FBodzasz%C3%B6rp_2.","status":"ok"}]}
 {"id":"wikibooks-hu:bodzaturmix","verdict":"remove","reason":"drink (smoothie)"}

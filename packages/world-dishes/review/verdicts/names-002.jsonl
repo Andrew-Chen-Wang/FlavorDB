@@ -177,7 +177,7 @@
 {"id":"Q10567403","verdict":"keep"}
 {"id":"Q105674767","verdict":"keep","countries":["IN"],"reason":"Thalassery (Kerala) dish, countries empty"}
 {"id":"Q105674909","verdict":"keep"}
-{"id":"Q105675486","verdict":"keep","countries":["AT"],"reason":"Tyrolean dish, countries empty"}
+{"id":"Q105675486","verdict":"keep","countries":["AT","IT"],"reason":"Tyrolean bread belongs to the shared Austrian and Italian Tyrol region."}
 {"id":"Q105675701","verdict":"keep"}
 {"id":"Q1056769","verdict":"keep"}
 {"id":"Q105685268","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
@@ -229,7 +229,7 @@
 {"id":"Q105724832","verdict":"keep"}
 {"id":"Q105727877","verdict":"keep"}
 {"id":"Q105742167","verdict":"keep"}
-{"id":"Q105742190","verdict":"keep","countries":["IN"],"reason":"Rogan josh (Indian dish), countries empty"}
+{"id":"Q105742190","verdict":"keep","countries":["IN","PK"],"reason":"Mutton rogan josh is associated with shared Kashmiri cuisine in India and Pakistan."}
 {"id":"Q105742759","verdict":"keep"}
 {"id":"Q105747930","verdict":"keep"}
 {"id":"Q105754046","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
@@ -287,7 +287,7 @@
 {"id":"Q105882625","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q105882626","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q105882627","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
-{"id":"Q105882632","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105882632","verdict":"keep","countries":["IN"],"reason":"Dal dhokali is a Gujarati Indian dish; the generic Bengali description does not establish Bangladesh as a customary association."}
 {"id":"Q105882634","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q105882637","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q105882639","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}

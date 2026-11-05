@@ -1,7 +1,7 @@
 {"id":"Q6068180","verdict":"keep"}
 {"id":"Q6070788","verdict":"keep"}
 {"id":"Q6071076","verdict":"keep"}
-{"id":"Q607114","verdict":"keep","countries":["NP","CN"],"reason":"added countries"}
+{"id":"Q607114","verdict":"keep","countries":["NP","CN","IN","BT"],"reason":"Thukpa is shared Tibetan, Nepali, Indian Himalayan and Bhutanese noodle soup."}
 {"id":"Q6071916","verdict":"keep"}
 {"id":"Q6072163","verdict":"keep"}
 {"id":"Q6072201","verdict":"keep"}
@@ -121,8 +121,8 @@
 {"id":"Q60997679","verdict":"keep"}
 {"id":"Q6100269","verdict":"keep"}
 {"id":"Q610130","verdict":"keep"}
-{"id":"Q61037096","verdict":"keep","countries":["EC"],"reason":"added countries"}
-{"id":"Q61043286","verdict":"keep","countries":["DE"],"reason":"added countries"}
+{"id":"Q61037096","verdict":"keep","countries":["PE","EC"],"reason":"Carachama soup is associated with Peruvian and Ecuadorian Amazonian cookery."}
+{"id":"Q61043286","verdict":"keep","countries":["AT","DE"],"reason":"Panadelsuppe is shared Austrian and southern German bread soup."}
 {"id":"Q61045488","verdict":"keep"}
 {"id":"Q61057171","verdict":"keep"}
 {"id":"Q61058275","verdict":"keep"}
@@ -230,7 +230,7 @@
 {"id":"Q6151004","verdict":"keep","countries":["ES"],"reason":"added countries"}
 {"id":"Q6151013","verdict":"keep"}
 {"id":"Q6151068","verdict":"keep"}
-{"id":"Q6151070","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q6151070","verdict":"keep","countries":["AR","UY"],"reason":"Tostado sandwich is associated with Argentine and Uruguayan cafés, not assigned from Spanish language."}
 {"id":"Q615315","verdict":"keep"}
 {"id":"Q6154023","verdict":"keep","countries":["ES"],"reason":"added countries"}
 {"id":"Q6154033","verdict":"keep","countries":["KR"],"reason":"added countries"}
@@ -261,7 +261,7 @@
 {"id":"Q6192002","verdict":"keep"}
 {"id":"Q6192074","verdict":"keep"}
 {"id":"Q6192335","verdict":"keep"}
-{"id":"Q619414","verdict":"keep","countries":["IR"],"reason":"added Iran; Abgoosht is Persian"}
+{"id":"Q619414","verdict":"keep","countries":["IR","AM"],"reason":"Abgoosht is associated with Iran and Armenia; retain the Armenian tie while adding Iran."}
 {"id":"Q61958895","verdict":"keep"}
 {"id":"Q61964538","verdict":"keep"}
 {"id":"Q61984600","verdict":"keep"}

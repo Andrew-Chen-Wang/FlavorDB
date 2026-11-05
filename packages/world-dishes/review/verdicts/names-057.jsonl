@@ -120,7 +120,7 @@
 {"id":"Q97189553","verdict":"keep","countries":["ID"],"reason":"countries were empty; Singkawang porridge"}
 {"id":"Q971928","verdict":"keep"}
 {"id":"Q97196240","verdict":"keep"}
-{"id":"Q97198504","verdict":"keep","countries":["FI"],"reason":"countries were empty; Finnish candy"}
+{"id":"Q97198504","verdict":"remove","reason":"Lauantaipussi is a marketed Fazer assorted candy bag, not a generic dish."}
 {"id":"Q97198572","verdict":"keep","countries":["FI"],"reason":"countries were empty; Finnish dish"}
 {"id":"Q97202137","verdict":"keep"}
 {"id":"Q97202156","verdict":"keep"}
@@ -225,7 +225,7 @@
 {"id":"Q97591276","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch biscuit"}
 {"id":"Q97599035","verdict":"keep"}
 {"id":"Q976073","verdict":"keep","countries":["FR"],"reason":"countries were empty; French dessert"}
-{"id":"Q97609970","verdict":"keep","countries":["IT"],"reason":"countries were empty; bread from Herculaneum, Italy"}
+{"id":"Q97609970","verdict":"remove","reason":"Entity is the particular archaeological bread loaf baked in 79 AD, rather than a dish type."}
 {"id":"Q97610633","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean soup"}
 {"id":"Q97625311","verdict":"keep"}
 {"id":"Q976284","verdict":"keep"}

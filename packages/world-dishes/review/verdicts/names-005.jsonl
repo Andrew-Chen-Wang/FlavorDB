@@ -54,7 +54,7 @@
 {"id":"Q107790439","verdict":"keep"}
 {"id":"Q107790767","verdict":"keep"}
 {"id":"Q10779336","verdict":"keep"}
-{"id":"Q1077966","verdict":"keep","countries":["KR"],"reason":"Korean tteok; country added"}
+{"id":"Q1077966","verdict":"keep","countries":["KR","KP"],"reason":"Injeolmi is a shared Korean rice cake associated with both Koreas."}
 {"id":"Q10779714","verdict":"keep"}
 {"id":"Q107804272","verdict":"keep"}
 {"id":"Q107805938","verdict":"keep"}

@@ -120,10 +120,10 @@
 {"id":"Q10620400","verdict":"keep"}
 {"id":"Q106211393","verdict":"keep"}
 {"id":"Q10621411","verdict":"keep"}
-{"id":"Q1062144","verdict":"keep","countries":["KR"],"reason":"Korean dish, countries empty"}
+{"id":"Q1062144","verdict":"keep","countries":["KR","KP"],"reason":"Namul is shared Korean vegetable preparation associated with both Koreas."}
 {"id":"Q10624825","verdict":"keep"}
 {"id":"Q10624827","verdict":"keep","countries":["MX"],"reason":"Mexican dish, countries empty"}
-{"id":"Q1062483","verdict":"keep","countries":["KR"],"reason":"Korean dish, countries empty"}
+{"id":"Q1062483","verdict":"keep","countries":["KR","KP"],"reason":"Jjigae is a shared Korean stew preparation associated with both Koreas."}
 {"id":"Q106252","verdict":"keep"}
 {"id":"Q1062531","verdict":"keep"}
 {"id":"Q106271597","verdict":"remove","reason":"category (Chinese pastries), not one dish"}
@@ -216,7 +216,7 @@
 {"id":"Q10665037","verdict":"keep"}
 {"id":"Q106653772","verdict":"keep","countries":["TR"],"reason":"Turkish dessert, countries empty"}
 {"id":"Q106670608","verdict":"keep","countries":["VN"],"reason":"Vietnamese banh mi, countries empty"}
-{"id":"Q106678690","verdict":"keep","countries":["CN"],"reason":"Teochew (Chinese) rice dish, countries empty"}
+{"id":"Q106678690","verdict":"keep","countries":["CN","SG"],"reason":"Paofan is associated with Chinese Teochew cooking and Singaporean cuisine."}
 {"id":"Q106680422","verdict":"keep"}
 {"id":"Q10668299","verdict":"keep"}
 {"id":"Q106691833","verdict":"keep"}
@@ -240,7 +240,7 @@
 {"id":"Q1067646","verdict":"keep"}
 {"id":"Q106765034","verdict":"keep"}
 {"id":"Q106766133","verdict":"keep"}
-{"id":"Q106768821","verdict":"keep","countries":["TH","LA"],"reason":"Som tam (Thai/Lao), countries empty"}
+{"id":"Q106768821","verdict":"keep","countries":["TH","LA","KH","VN","MM"],"reason":"The general green papaya salad dish has customary Thai, Lao, Cambodian, Vietnamese and Burmese forms."}
 {"id":"Q106769958","verdict":"remove","reason":"honey type (ingredient), not a dish"}
 {"id":"Q1067842","verdict":"keep"}
 {"id":"Q106786339","verdict":"keep"}
@@ -271,7 +271,7 @@
 {"id":"Q1069097","verdict":"keep"}
 {"id":"Q10691676","verdict":"keep"}
 {"id":"Q106952818","verdict":"remove","reason":"honey type (ingredient), not a dish"}
-{"id":"Q1069561","verdict":"keep","countries":["KR"],"reason":"Korean dish, countries empty"}
+{"id":"Q1069561","verdict":"keep","countries":["KR","KP"],"reason":"Yukgaejang is a Korean soup shared across both Koreas."}
 {"id":"Q1069591","verdict":"keep","countries":["KR"],"reason":"Korean dish, countries empty"}
 {"id":"Q1069603","verdict":"keep"}
 {"id":"Q106977722","verdict":"keep"}

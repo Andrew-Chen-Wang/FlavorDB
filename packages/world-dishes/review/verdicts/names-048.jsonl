@@ -1,5 +1,5 @@
 {"id":"Q5768502","verdict":"keep"}
-{"id":"Q5768541","verdict":"remove","reason":"branded lollipop product (Chupa Chups-style brand)"}
+{"id":"Q5768541","verdict":"keep","reason":"Chupachús can name the generic lollipop; this entry does not establish a specific branded product."}
 {"id":"Q5770216","verdict":"keep","countries":["IR"],"reason":"added countries"}
 {"id":"Q5775793","verdict":"keep"}
 {"id":"Q5775857","verdict":"keep","countries":["ES"],"reason":"added countries"}
@@ -162,7 +162,7 @@
 {"id":"Q5971200","verdict":"keep","countries":["US"],"reason":"added countries"}
 {"id":"Q59713746","verdict":"keep"}
 {"id":"Q597159","verdict":"keep"}
-{"id":"Q5972737","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q5972737","verdict":"keep","countries":["AR","UY"],"reason":"Lengua a la vinagreta is a River Plate marinated tongue preparation, not assigned by Spanish language."}
 {"id":"Q5975010","verdict":"keep","countries":["IT"],"reason":"added countries"}
 {"id":"Q5977888","verdict":"keep","countries":["PE"],"reason":"Second opinion: llunca de gallina is a soup from Ancash, Peru, not Spain"}
 {"id":"Q597836","verdict":"keep"}
@@ -289,7 +289,7 @@
 {"id":"Q6060064","verdict":"keep","countries":["MX"],"reason":"added countries"}
 {"id":"Q6060099","verdict":"keep","countries":["ES"],"reason":"added countries"}
 {"id":"Q6060108","verdict":"keep"}
-{"id":"Q60615079","verdict":"keep","countries":["DE"],"reason":"added countries"}
+{"id":"Q60615079","verdict":"keep","countries":["AT","DE"],"reason":"Eierschmalz is shared Austrian and southern German egg cookery."}
 {"id":"Q60620989","verdict":"keep"}
 {"id":"Q6066037","verdict":"keep"}
 {"id":"Q6066040","verdict":"keep"}

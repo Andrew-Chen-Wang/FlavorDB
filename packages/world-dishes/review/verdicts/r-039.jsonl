@@ -1,5 +1,5 @@
 {"id":"Q257260","verdict":"remove","reason":"drink (cola)"}
-{"id":"Q2573204","verdict":"keep","countries":["LB","SY","JO","PS"],"reason":"no country; Levantine dish, added countries","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FSfiha","status":"ok"}]}
+{"id":"Q2573204","verdict":"keep","countries":["LB","SY","JO","PS","BR"],"reason":"Second opinion: Levantine sfiha is also a well-established Brazilian esfiha tradition, explicitly noted in raw source","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FSfiha","status":"ok"}]}
 {"id":"Q257971","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASemolina_Pudding","status":"ok"}]}
 {"id":"Q260765","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FDamper","status":"ok"}]}
 {"id":"Q26081","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AShark_Fin_Soup","status":"ok"}]}
