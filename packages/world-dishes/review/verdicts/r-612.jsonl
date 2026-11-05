@@ -1,0 +1,24 @@
+{"id":"wikibooks:whole-wheat-waffles","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AWhole_Wheat_Waffles","status":"ok"}]}
+{"id":"wikibooks:wiejska-polish-pork-and-veal-sausage","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AWiejska_(Polish_Pork_and_Veal_Sausage)","status":"ok"}]}
+{"id":"wikibooks:wild-spinach-and-lemon-salad","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AWild_Spinach_and_Lemon_Salad","status":"ok"}]}
+{"id":"wikibooks:wilted-greens","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AWilted_Greens","status":"ok"}]}
+{"id":"wikibooks:windsor-pudding","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AWindsor_Pudding","status":"ok"}]}
+{"id":"wikibooks:wine-braised-shortribs","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AWine_Braised_Shortribs","status":"ok"}]}
+{"id":"wikibooks:wine-glazed-pork-chops","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AWine_Glazed_Pork_Chops","status":"ok"}]}
+{"id":"wikibooks:wine-roasted-pork-roast","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AWine-Roasted_Pork_Roast","status":"ok"}]}
+{"id":"wikibooks:wisconsin-ackawi-cheese-triangles","verdict":"keep","countries":["US"],"reason":"Wisconsin adaptation explicitly identified as Midwestern US cuisine, rather than an origin claim about ackawi cheese.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AWisconsin_Ackawi_Cheese_Triangles","status":"ok"}]}
+{"id":"wikibooks:wonjo-bissap-gambian-hibiscus-beverage","verdict":"remove","reason":"Hibiscus tea beverage served over ice."}
+{"id":"wikibooks:wonton-wrappers","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AWonton_Wrappers","status":"ok"}]}
+{"id":"wikibooks:wow-wow-sauce","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AWow-Wow_Sauce","status":"ok"}]}
+{"id":"wikibooks:xar-m-porridge-dish","verdict":"keep","countries":["PT","CV","BR"],"reason":"Source explicitly ties xarém to Portugal, Cape Verde, and Brazil.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AXar%C3%A9m_(Porridge_dish)","status":"ok"}]}
+{"id":"wikibooks:xat-catalan-endives-and-fish","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AXat%C3%B3_(Catalan_Endives_and_Fish)","status":"ok"}]}
+{"id":"wikibooks:xocolatl-aztec-chocolate-beverage","verdict":"remove","reason":"Chocolate and cornmeal beverage, explicitly a modern interpretation of an Aztec drink."}
+{"id":"wikibooks:yam-and-egg-sauce","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AYam_and_Egg_Sauce","status":"ok"}]}
+{"id":"wikibooks:yam-casserole","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AYam_Casserole","status":"ok"}]}
+{"id":"wikibooks:yassa-poulet-senegalese-chicken","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AYassa_Poulet_(Senegalese_Chicken)","status":"ok"}]}
+{"id":"wikibooks:yataklete-kilkil-ethiopian-vegetable-stew","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AYataklete_Kilkil_(Ethiopian_Vegetable_Stew)","status":"ok"}]}
+{"id":"wikibooks:yeasted-cornbread","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AYeasted_Cornbread","status":"ok"}]}
+{"id":"wikibooks:yeasted-kifli","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AYeasted_Kifli","status":"ok"}]}
+{"id":"wikibooks:yeasted-rolls-i","verdict":"keep","name":"Yeasted Rolls","reason":"Remove cookbook variant numbering.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AYeasted_Rolls_I","status":"ok"}]}
+{"id":"wikibooks:yeasted-rolls-ii","verdict":"keep","name":"Yeasted Rolls","reason":"Remove cookbook variant numbering.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AYeasted_Rolls_II","status":"ok"}]}
+{"id":"wikibooks:yellow-curry-paste","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AYellow_Curry_Paste","status":"ok"}]}
