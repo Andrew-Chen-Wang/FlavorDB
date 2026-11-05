@@ -1,0 +1,19 @@
+{"id":"wikibooks:stuffed-peppers-vegetarian","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AStuffed_Peppers_(Vegetarian)","status":"ok"}]}
+{"id":"wikibooks:stuffed-pork-roast","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AStuffed_Pork_Roast","status":"ok"}]}
+{"id":"wikibooks:stuffed-portabella-mushrooms","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AStuffed_Portabella_Mushrooms","status":"ok"}]}
+{"id":"wikibooks:stuffed-zucchini","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AStuffed_Zucchini","status":"ok"}]}
+{"id":"wikibooks:stuffing","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AStuffing","status":"ok"}]}
+{"id":"wikibooks:succotash","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASuccotash","status":"ok"},{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Succotash","status":"ok"}]}
+{"id":"wikibooks:sudanese-ful-medames","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASudanese_Ful_Medames","status":"ok"}]}
+{"id":"wikibooks:sukuma-wiki-east-african-greens","verdict":"keep","countries":["KE","TZ"],"reason":"East African sukuma wiki is commonly associated with Kenya and Tanzania, both named in source","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASukuma_Wiki_(East_African_Greens)","status":"ok"}]}
+{"id":"wikibooks:summer-rolls","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASummer_Rolls","status":"ok"}]}
+{"id":"wikibooks:sunglow-motel-cafe-pickle-pie","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASunglow_Motel-Cafe_Pickle_Pie","status":"ok"}]}
+{"id":"wikibooks:sunshine-cake","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASunshine_Cake","status":"ok"}]}
+{"id":"wikibooks:super-foamy-milkshake","verdict":"remove","reason":"milkshake drink","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASuper_Foamy_Milkshake","status":"ok"}]}
+{"id":"wikibooks:super-moist-corn-bread","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASuper_Moist_Corn_Bread","status":"ok"}]}
+{"id":"wikibooks:supercharger-tea","verdict":"remove","reason":"iced tea drink","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASupercharger_Tea","status":"ok"}]}
+{"id":"wikibooks:superkanja-gambian-okra-stew","verdict":"keep","countries":["GM"],"reason":"Gambian superkanja stew identified in source","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASuperkanja_(Gambian_Okra_Stew)","status":"ok"}]}
+{"id":"wikibooks:supu-ya-ndizi","verdict":"keep","countries":["TZ"],"reason":"Tanzanian green banana soup identified in source","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASupu_Ya_Ndizi","status":"ok"}]}
+{"id":"wikibooks:suqaar-somali-spiced-meat-stir-fry","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASuqaar_(Somali_Spiced_Meat_Stir-fry)","status":"ok"}]}
+{"id":"wikibooks:surinamese-cassava-and-coconut-dessert-bojo","verdict":"keep","countries":["SR"],"reason":"Bojo is a Surinamese cassava and coconut dessert","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASurinamese_Cassava_and_Coconut_Dessert_(Bojo)","status":"ok"}]}
+{"id":"wikibooks:surinamese-chicken-pot-pie-pastei","verdict":"keep","countries":["SR"],"reason":"Surinamese pastei; Jewish settlers do not imply Israeli origin","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASurinamese_Chicken_Pot_Pie_(Pastei)","status":"ok"}]}
