@@ -19,3 +19,4 @@ Original batch raw sources are unavailable. This audit reads every remove/countr
 - r-094: audited all 23 remove/countries targets. Expanded canelones and mondongo to common national ties. Cocktail removals upheld.
 - r-095: audited all 27 remove/countries targets. Expanded ceviche, Mexican carlota and candied chilacayote; cleared generic orange chops. Four drink removals upheld, fish-soup chilcano kept.
 - r-096: audited all 27 remove/countries targets. Cleared generic vinegar cabbage and pressure-cooker rabbit; three cocktail removals upheld. Cocho retained as thick toasted-flour food, not removed for being served in a cup.
+- r-097: audited all 9 countries targets. Expanded pit curanto to Argentina alongside Chile; other dish associations upheld.
