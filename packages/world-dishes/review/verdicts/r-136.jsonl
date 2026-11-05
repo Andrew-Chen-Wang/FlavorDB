@@ -2,7 +2,7 @@
 {"id":"wikibooks-fr:pâte-de-fruits","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FP%C3%A2te_de_fruits","status":"ok"}]}
 {"id":"wikibooks-fr:pâté-de-pois-chiches","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FP%C3%A2t%C3%A9_de_pois_chiches","status":"ok"}]}
 {"id":"wikibooks-fr:pâte-feuilletée","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FP%C3%A2te_feuillet%C3%A9e","status":"ok"}]}
-{"id":"wikibooks-fr:pâté-japonais","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese-style pâté","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FP%C3%A2t%C3%A9_japonais","status":"ok"}]}
+{"id":"wikibooks-fr:pâté-japonais","verdict":"keep","countries":[],"reason":"A modern bread-and-tofu vegetarian pate using Japanese seasonings does not establish a country association for this specific preparation.","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FP%C3%A2t%C3%A9_japonais","status":"ok"}]}
 {"id":"wikibooks-fr:pâté-végétal","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FP%C3%A2t%C3%A9_v%C3%A9g%C3%A9tal","status":"ok"}]}
 {"id":"wikibooks-fr:pâté-végétal-au-pain-et-aux-olives","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FP%C3%A2t%C3%A9_v%C3%A9g%C3%A9tal_au_pain_et_aux_olives","status":"ok"}]}
 {"id":"wikibooks-fr:pâté-végétal-aux-flocons-et-aux-épinards","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FP%C3%A2t%C3%A9_v%C3%A9g%C3%A9tal_aux_flocons_et_aux_%C3%A9pinards","status":"ok"}]}
