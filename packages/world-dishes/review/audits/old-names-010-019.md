@@ -10,6 +10,7 @@ In progress. Original batch inputs are absent. This audit reads each targeted ve
 | names-013 | 117 | Complete |
 | names-014 | 141 | Complete |
 | names-015 | 118 | Complete |
+| names-016 | 78 | Complete |
 
 names-010 corrections: restored zuke as prepared marinated fish; fixed Japanese pressed ham and Russian/Ukrainian kotleta countries; preserved Persian/Turkish/Cypriot as well as Levantine muhallebi ties; removed three overlooked branded products (Puyoman, Mamador, Peasen).
 
@@ -32,3 +33,5 @@ names-013: restored dipping chocolate as prepared sauce and sujime as vinegar-cu
 names-014: corrected language-based countries for Azinat, Romanitos, Magarina bulli and indulgence cookies; added shared stedrak and shawarma ties; restored prepared chocolate drops and meat soup; removed raw morralla fish. Sources: https://www.ariegepyrenees.com/preparer/manger-bon-bien/meilleures-recettes-ariegeoises/lazinat/ ; https://es.wikipedia.org/wiki/Romanitos ; https://jag.journalagent.com/z4/download_fulltext.asp?pdir=gpt-studios&plng=eng&un=GPT-02996 ; https://www.ludovakultura.sk/polozka-encyklopedie/stedrak/ ; https://www.pcs.es/producto/morralla/ .
 
 names-015: corrected Cafriela from ES to GW; restored shared countries for East African greens, Meskouta, sayadieh, arikah, palatschinke and drob sarma; removed unsupported exclusive language-based countries from generic breads, dill potatoes and dried pasta. Sources: https://www.consulmarbissau.com/sites/default/files/files/tourist_guide_guinea-bissau_eu_acl2018_en_web.pdf ; https://en.wikipedia.org/wiki/Sukuma_wiki ; https://en.wikipedia.org/wiki/Palatschinke ; https://en.wikipedia.org/wiki/Sayadieh ; https://en.wikipedia.org/wiki/Meskouta .
+
+names-016: retained Timor-Leste in shared Lusophone feijoada associations, corrected papo-seco to Portugal, expanded liver-dumpling soup ties. Raw honey, salt, vegetables and museum-object removals upheld. Sources: https://tradicional.dgadr.gov.pt/pt/cat/pao-e-produtos-de-panificacao/327-paozinho ; https://visiteasttimor.com/id/makanan-timor-leste/ .

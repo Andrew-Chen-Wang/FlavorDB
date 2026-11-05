@@ -9,7 +9,7 @@
 {"id":"Q12299271","verdict":"keep","countries":["BG"],"reason":"Bulgarian dish; countries were empty"}
 {"id":"Q12299302","verdict":"keep"}
 {"id":"Q1230067","verdict":"keep"}
-{"id":"Q123009878","verdict":"keep","countries":["BR","PT"],"reason":"feijoada is Brazilian/Portuguese; TL was wrong"}
+{"id":"Q123009878","verdict":"keep","countries":["BR","PT","TL","AO","MZ","CV"],"reason":"Feijoada is a shared Lusophone dish; retain Timor-Leste association"}
 {"id":"Q123015196","verdict":"keep"}
 {"id":"Q123015526","verdict":"keep","countries":["JP"],"reason":"Japanese dessert from Hokkaido; countries were empty"}
 {"id":"Q123023254","verdict":"keep"}
@@ -18,7 +18,7 @@
 {"id":"Q123058225","verdict":"keep"}
 {"id":"Q123090891","verdict":"keep"}
 {"id":"Q123091140","verdict":"keep","countries":["HK"],"reason":"Hong Kong bakery item; countries were empty"}
-{"id":"Q123092826","verdict":"keep","countries":["BR"],"reason":"Brazilian bread roll; countries were empty"}
+{"id":"Q123092826","verdict":"keep","countries":["PT"],"reason":"Traditional Portuguese papo-seco bread roll"}
 {"id":"Q123093204","verdict":"keep"}
 {"id":"Q1231078","verdict":"keep"}
 {"id":"Q12311997","verdict":"keep"}
@@ -85,7 +85,7 @@
 {"id":"Q123440105","verdict":"keep"}
 {"id":"Q123441","verdict":"keep","countries":["DE"],"reason":"German sausage from Hesse; countries were empty"}
 {"id":"Q12344306","verdict":"keep"}
-{"id":"Q123456287","verdict":"keep","countries":["AT"],"reason":"Austrian soup; countries were empty"}
+{"id":"Q123456287","verdict":"keep","countries":["AT","DE","CZ"],"reason":"Liver dumpling soup has Austrian German and Czech traditions"}
 {"id":"Q123457994","verdict":"keep"}
 {"id":"Q123458338","verdict":"keep"}
 {"id":"Q123459652","verdict":"keep"}
