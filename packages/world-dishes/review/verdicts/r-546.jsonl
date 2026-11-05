@@ -1,0 +1,21 @@
+{"id":"wikibooks:meatloaf-iii","verdict":"keep","name":"Meatloaf","countries":["US"],"reason":"Explicit Midwestern American variant; remove recipe sequence suffix.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMeatloaf_III","status":"ok"}]}
+{"id":"wikibooks:meatloaf-iv","verdict":"keep","name":"Meatloaf","countries":["US"],"reason":"Explicit American meatloaf variant; remove recipe sequence suffix.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMeatloaf_IV","status":"ok"}]}
+{"id":"wikibooks:meatloaf-v","verdict":"keep","name":"Meatloaf","countries":["US"],"reason":"Explicit American meatloaf variant; remove recipe sequence suffix.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMeatloaf_V","status":"ok"}]}
+{"id":"wikibooks:mediterranean-beef-stew","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMediterranean_Beef_Stew","status":"ok"}]}
+{"id":"wikibooks:mediterranean-green-chicken","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMediterranean_Green_Chicken","status":"ok"}]}
+{"id":"wikibooks:mediterranean-grilled-tuna","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMediterranean_Grilled_Tuna","status":"ok"}]}
+{"id":"wikibooks:medu-vada-south-indian-savory-lentil-donut","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMedu_Vada_(South_Indian_Savory_Lentil_Donut)","status":"ok"}]}
+{"id":"wikibooks:memphis-style-bbq-ribs","verdict":"keep","countries":["US"],"reason":"Memphis is a regional American barbecue style.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMemphis-Style_BBQ_Ribs","status":"ok"}]}
+{"id":"wikibooks:menemen-eggs-with-onion-green-pepper-and-tomato","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMenemen_(Eggs_with_Onion%2C_Green_Pepper%2C_and_Tomato)","status":"ok"}]}
+{"id":"wikibooks:menudo-mexican-tripe-and-hominy-soup","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMenudo_(Mexican_Tripe_and_Hominy_Soup)","status":"ok"}]}
+{"id":"wikibooks:meringata-cream-filled-meringue-gateaux","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMeringata_(Cream-filled_Meringue_Gateaux)","status":"ok"}]}
+{"id":"wikibooks:meringata-di-frutta-in-coppa-meringue-with-fruit-and-cream","verdict":"keep","countries":["IT"],"reason":"Italian meringata dessert served in a cup.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMeringata_di_Frutta_in_Coppa_(Meringue_with_Fruit_and_Cream)","status":"ok"}]}
+{"id":"wikibooks:meringata-with-ginger-and-cream","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMeringata_with_Ginger_and_Cream","status":"ok"}]}
+{"id":"wikibooks:meringue-cookies-i","verdict":"keep","name":"Meringue Cookies","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMeringue_Cookies_I","status":"ok"}]}
+{"id":"wikibooks:meringue-cookies-ii","verdict":"keep","name":"Meringue Cookies","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMeringue_Cookies_II","status":"ok"}]}
+{"id":"wikibooks:meringue-cookies-with-chocolate-chips","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMeringue_Cookies_with_Chocolate_Chips","status":"ok"}]}
+{"id":"wikibooks:meringues-with-roasted-raspberries-and-hazelnut-creme-anglaise","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMeringues_with_Roasted_Raspberries_and_Hazelnut_Creme_Anglaise","status":"ok"}]}
+{"id":"wikibooks:mesir-wat-spicy-ethiopian-lentil-stew","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMesir_Wat_(Spicy_Ethiopian_Lentil_Stew)","status":"ok"}]}
+{"id":"wikibooks:mesquite-bbq-burger","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMesquite_BBQ_Burger","status":"ok"}]}
+{"id":"wikibooks:mesquite-bbq-salmon","verdict":"keep","countries":["US"],"reason":"Texas-style mesquite barbecue salmon recipe.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMesquite_BBQ_Salmon","status":"ok"}]}
+{"id":"wikibooks:mesquite-beef-tenderloin","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMesquite_Beef_Tenderloin","status":"ok"}]}
