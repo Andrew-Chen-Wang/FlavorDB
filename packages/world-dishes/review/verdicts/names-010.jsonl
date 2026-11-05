@@ -37,7 +37,7 @@
 {"id":"Q11277418","verdict":"keep"}
 {"id":"Q11277440","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese seafood dish"}
 {"id":"Q11277477","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese nimono"}
-{"id":"Q11277538","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese manju"}
+{"id":"Q11277538","verdict":"remove","reason":"branded Compile Puyo Puyo manju product, not a generic traditional dish"}
 {"id":"Q11277612","verdict":"keep"}
 {"id":"Q11277634","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese mochi"}
 {"id":"Q11277777","verdict":"keep"}
@@ -48,7 +48,7 @@
 {"id":"Q11278109","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese confection"}
 {"id":"Q11278209","verdict":"keep"}
 {"id":"Q11278216","verdict":"keep"}
-{"id":"Q11278496","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese confection"}
+{"id":"Q11278496","verdict":"remove","reason":"Mamador is Sanmangoku's branded packaged confection"}
 {"id":"Q11278514","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese soup"}
 {"id":"Q11278555","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese yokan"}
 {"id":"Q11278627","verdict":"keep"}
@@ -149,7 +149,7 @@
 {"id":"Q11301550","verdict":"keep"}
 {"id":"Q113016118","verdict":"keep"}
 {"id":"Q11302150","verdict":"keep"}
-{"id":"Q11302268","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese cutlet"}
+{"id":"Q11302268","verdict":"keep","countries":["RU","UA"],"reason":"second opinion: コトレータ denotes Russian/Ukrainian kotleta; Japanese spelling does not make the dish Japanese"}
 {"id":"Q113022782","verdict":"keep"}
 {"id":"Q113023113","verdict":"keep"}
 {"id":"Q113028406","verdict":"keep"}
@@ -199,7 +199,7 @@
 {"id":"Q11318559","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese confection"}
 {"id":"Q11318588","verdict":"keep"}
 {"id":"Q11318769","verdict":"keep"}
-{"id":"Q11318890","verdict":"remove","reason":"food preparation technique (zuke), not a dish"}
+{"id":"Q11318890","verdict":"keep","reason":"second opinion: zuke also names the prepared soy-marinated fish, so keep as a fish dish"}
 {"id":"Q113203875","verdict":"keep"}
 {"id":"Q11321401","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese nabemono"}
 {"id":"Q11322056","verdict":"keep"}
@@ -234,7 +234,7 @@
 {"id":"Q1133123","verdict":"keep","countries":["CN"],"reason":"no country listed; Fujian soup"}
 {"id":"Q1133127","verdict":"keep"}
 {"id":"Q11331461","verdict":"keep"}
-{"id":"Q11331741","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese snack"}
+{"id":"Q11331741","verdict":"remove","reason":"Peasen is the branded Eitaro packaged rice snack"}
 {"id":"Q1133209","verdict":"keep"}
 {"id":"Q11332167","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese confection"}
 {"id":"Q11332417","verdict":"keep"}
@@ -244,7 +244,7 @@
 {"id":"Q113336629","verdict":"keep"}
 {"id":"Q113348972","verdict":"keep","countries":["NL"],"reason":"no country listed; Dutch pear syrup"}
 {"id":"Q11335663","verdict":"keep"}
-{"id":"Q11335862","verdict":"keep","countries":["CN"],"reason":"no country listed; Chinese pressed ham"}
+{"id":"Q11335862","verdict":"keep","countries":["JP"],"reason":"second opinion: this item is Japanese pressed ham (プレスハム), not a Chinese dish; Japanese meat industry glossary identifies it as developed in Japan"}
 {"id":"Q113360141","verdict":"keep"}
 {"id":"Q113360483","verdict":"keep"}
 {"id":"Q113360494","verdict":"keep"}
@@ -297,4 +297,4 @@
 {"id":"Q11342949","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese tonkatsu"}
 {"id":"Q11342962","verdict":"keep"}
 {"id":"Q11342980","verdict":"keep"}
-{"id":"Q11343150","verdict":"keep","countries":["LB","SY","JO","PS"],"reason":"Levantine dessert; IR was wrong"}
+{"id":"Q11343150","verdict":"keep","countries":["IR","TR","CY","LB","SY","JO","PS"],"reason":"second opinion: preserve Persian, Turkish and Cypriot associations as well as the Levant; the existing Iranian tie was not clearly wrong"}
