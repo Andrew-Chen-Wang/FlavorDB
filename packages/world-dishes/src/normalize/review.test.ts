@@ -69,8 +69,12 @@ describe("per-dish review application", () => {
   })
 
   test("rejects countryless already-applied output when validating a receipt", () => {
-    expect(() => assertDishCountries([{ ...dish("Q1"), countries: [] }])).toThrow("Q1")
-    expect(() => assertDishCountries([dish("Q1")])).not.toThrow()
+    expect(() => {
+      assertDishCountries([{ ...dish("Q1"), countries: [] }])
+    }).toThrow("Q1")
+    expect(() => {
+      assertDishCountries([dish("Q1")])
+    }).not.toThrow()
   })
   test("matches recipes by URL, applies overrides, and leaves inputs unchanged", () => {
     const input = dish("Q1")
