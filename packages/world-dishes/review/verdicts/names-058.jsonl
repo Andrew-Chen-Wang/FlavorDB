@@ -33,16 +33,16 @@
 {"id":"wikibooks-de:amerikaner-mit-hirschhornsalz","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cookie"}
 {"id":"wikibooks-de:apfel-chili-chutney","verdict":"keep"}
 {"id":"wikibooks-de:apfelkuchen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cake"}
-{"id":"wikibooks-de:apfelmüsli","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"wikibooks-de:apfelmüsli","verdict":"keep"}
 {"id":"wikibooks-de:apfelpfannkuchen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pancake"}
-{"id":"wikibooks-de:artischocken-und-spargel-in-apfelwein","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"wikibooks-de:artischocken-und-spargel-in-apfelwein","verdict":"keep"}
 {"id":"wikibooks-de:bananenkuchen","verdict":"keep"}
 {"id":"wikibooks-de:bandnudeln-mit-sahnesauce","verdict":"keep"}
 {"id":"wikibooks-de:bärlauch-pesto","verdict":"keep"}
 {"id":"wikibooks-de:basler-herzen","verdict":"keep","countries":["CH"],"reason":"countries were empty; Basel pastry"}
 {"id":"wikibooks-de:belgische-zwiebelsuppe","verdict":"keep","countries":["BE"],"reason":"countries were empty; Belgian soup"}
 {"id":"wikibooks-de:benachin","verdict":"keep"}
-{"id":"wikibooks-de:bierbrot","verdict":"keep","countries":["DE"],"reason":"countries were empty; German bread"}
+{"id":"wikibooks-de:bierbrot","verdict":"keep"}
 {"id":"wikibooks-de:blätterteig-mit-spinat","verdict":"keep"}
 {"id":"wikibooks-de:böhmische-knoblauchsuppe","verdict":"keep","countries":["CZ"],"reason":"countries were empty; Bohemian soup"}
 {"id":"wikibooks-de:bohnenmus-mit-mais","verdict":"keep"}
@@ -50,10 +50,10 @@
 {"id":"wikibooks-de:bratdog","verdict":"keep"}
 {"id":"wikibooks-de:bremer-bunte-finken","verdict":"keep","countries":["DE"],"reason":"countries were empty; Bremen dish"}
 {"id":"wikibooks-de:brik-mit-thunfisch","verdict":"keep","countries":["TN"],"reason":"countries were empty; Tunisian brik"}
-{"id":"wikibooks-de:brokkoli-kartoffel-käse-suppe","verdict":"keep","countries":["DE"],"reason":"countries were empty; German soup"}
-{"id":"wikibooks-de:brokkoligratin-mit-dreierlei-käse","verdict":"keep","countries":["DE"],"reason":"countries were empty; German gratin"}
+{"id":"wikibooks-de:brokkoli-kartoffel-käse-suppe","verdict":"keep"}
+{"id":"wikibooks-de:brokkoligratin-mit-dreierlei-käse","verdict":"keep"}
 {"id":"wikibooks-de:brokkolisuppe","verdict":"keep"}
-{"id":"wikibooks-de:brot-mit-käse-überbacken","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"wikibooks-de:brot-mit-käse-überbacken","verdict":"keep"}
 {"id":"wikibooks-de:bulgurauflauf","verdict":"keep"}
 {"id":"wikibooks-de:buttermais","verdict":"keep"}
 {"id":"wikibooks-de:cellischer-kuchen","verdict":"keep","countries":["DE"],"reason":"countries were empty; Celle cake"}
@@ -63,19 +63,19 @@
 {"id":"wikibooks-de:eierpfannkuchen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pancake"}
 {"id":"wikibooks-de:entenbrust-mit-orangensauce","verdict":"keep"}
 {"id":"wikibooks-de:erdbeer-bananen-mousse","verdict":"keep"}
-{"id":"wikibooks-de:erdbeertorte","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cake"}
+{"id":"wikibooks-de:erdbeertorte","verdict":"keep"}
 {"id":"wikibooks-de:estragonhuhn","verdict":"keep"}
-{"id":"wikibooks-de:frucht-reis-auflauf","verdict":"keep","countries":["DE"],"reason":"countries were empty; German casserole"}
-{"id":"wikibooks-de:frühlingssalat-mit-löwenzahnblüten","verdict":"keep","countries":["DE"],"reason":"countries were empty; German salad"}
+{"id":"wikibooks-de:frucht-reis-auflauf","verdict":"keep"}
+{"id":"wikibooks-de:frühlingssalat-mit-löwenzahnblüten","verdict":"keep"}
 {"id":"wikibooks-de:gorgonzolasoße","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian sauce"}
-{"id":"wikibooks-de:gratinierte-schollenfilets","verdict":"keep","countries":["DE"],"reason":"countries were empty; German fish dish"}
+{"id":"wikibooks-de:gratinierte-schollenfilets","verdict":"keep"}
 {"id":"wikibooks-de:griechischer-salat","verdict":"keep","countries":["GR"],"reason":"countries were empty; Greek salad"}
 {"id":"wikibooks-de:grüne-bohnen","verdict":"keep"}
 {"id":"wikibooks-de:grünkohlcurry-mit-kokosmilch","verdict":"keep"}
 {"id":"wikibooks-de:haferbrei","verdict":"keep"}
 {"id":"wikibooks-de:haferpfannkuchen","verdict":"keep"}
 {"id":"wikibooks-de:hähnchen-aprikosen-mandel-reis","verdict":"keep"}
-{"id":"wikibooks-de:hähnchenroulade-aus-der-mikrowelle","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"wikibooks-de:hähnchenroulade-aus-der-mikrowelle","verdict":"keep"}
 {"id":"wikibooks-de:hefezopf","verdict":"keep","countries":["DE"],"reason":"countries were empty; German yeast braid"}
 {"id":"wikibooks-de:herrencreme","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dessert"}
 {"id":"wikibooks-de:kartoffelgratin","verdict":"keep"}
@@ -83,13 +83,13 @@
 {"id":"wikibooks-de:kokosnuss-chutney","verdict":"keep"}
 {"id":"wikibooks-de:kürbis-ravioli-mit-salbei","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian ravioli"}
 {"id":"wikibooks-de:lachs-spinat-auflauf","verdict":"keep"}
-{"id":"wikibooks-de:leckere-brötchen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German rolls"}
+{"id":"wikibooks-de:leckere-brötchen","verdict":"keep"}
 {"id":"wikibooks-de:maispuffer","verdict":"keep"}
-{"id":"wikibooks-de:mispel-parfait","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dessert"}
+{"id":"wikibooks-de:mispel-parfait","verdict":"keep"}
 {"id":"wikibooks-de:mohntorte","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cake"}
-{"id":"wikibooks-de:möhrenkuchen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cake"}
+{"id":"wikibooks-de:möhrenkuchen","verdict":"keep"}
 {"id":"wikibooks-de:muffins","verdict":"keep"}
-{"id":"wikibooks-de:müsli-ohne-zucker","verdict":"keep","countries":["DE"],"reason":"countries were empty; German muesli"}
+{"id":"wikibooks-de:müsli-ohne-zucker","verdict":"keep"}
 {"id":"wikibooks-de:neuenburger-weissweinsuppe","verdict":"keep","countries":["CH"],"reason":"countries were empty; Neuchatel soup"}
 {"id":"wikibooks-de:obstsalat","verdict":"keep"}
 {"id":"wikibooks-de:okras-mit-pfeffer","verdict":"keep"}
@@ -97,7 +97,7 @@
 {"id":"wikibooks-de:orientalische-karottensuppe-mit-orangenfilets","verdict":"keep"}
 {"id":"wikibooks-de:paprikagemüse","verdict":"keep"}
 {"id":"wikibooks-de:pizzateig","verdict":"keep","countries":["IT"],"reason":"countries were empty; pizza dough"}
-{"id":"wikibooks-de:quarkauflauf-mit-aprikosen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German casserole"}
+{"id":"wikibooks-de:quarkauflauf-mit-aprikosen","verdict":"keep"}
 {"id":"wikibooks-de:quarkbällchen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
 {"id":"wikibooks-de:rosinenbrötchen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German rolls"}
 {"id":"wikibooks-de:rostige-ritter","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
@@ -111,20 +111,20 @@
 {"id":"wikibooks-de:scottish-crumpets","verdict":"keep","countries":["GB"],"reason":"countries were empty; Scottish crumpets"}
 {"id":"wikibooks-de:senfgurken","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pickles"}
 {"id":"wikibooks-de:spagetti-bolognese","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian pasta dish"}
-{"id":"wikibooks-de:tomaten-mozzarella-brot","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian bread"}
+{"id":"wikibooks-de:tomaten-mozzarella-brot","verdict":"keep"}
 {"id":"wikibooks-de:türkische-linsensuppe","verdict":"keep","countries":["TR"],"reason":"countries were empty; Turkish soup"}
 {"id":"wikibooks-de:türkischer-kaffee","verdict":"remove","reason":"drink (Turkish coffee)"}
-{"id":"wikibooks-de:überbackene-sommerbeeren","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dessert"}
+{"id":"wikibooks-de:überbackene-sommerbeeren","verdict":"keep"}
 {"id":"wikibooks-de:überbackene-veggi-maultaschen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German Maultaschen"}
-{"id":"wikibooks-de:vanillepudding","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pudding"}
+{"id":"wikibooks-de:vanillepudding","verdict":"keep"}
 {"id":"wikibooks-de:vogel-sternmieren-salat","verdict":"keep"}
 {"id":"wikibooks-de:wildkohl-mit-speck-und-kartoffeln","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
 {"id":"wikibooks-de:wolkenkuchen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cake"}
 {"id":"wikibooks-de:wurst-käse-salat-nach-emmentaler-art","verdict":"keep","countries":["CH"],"reason":"countries were empty; Emmental-style salad"}
-{"id":"wikibooks-de:würstchen-im-schlafrock","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian dish"}
+{"id":"wikibooks-de:würstchen-im-schlafrock","verdict":"keep","countries":["AT","DE"],"reason":"Second opinion: sausages in pastry are associated with Austria and Germany"}
 {"id":"wikibooks-de:xaucuti","verdict":"keep"}
-{"id":"wikibooks-de:zucchinikuchen","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cake"}
+{"id":"wikibooks-de:zucchinikuchen","verdict":"keep"}
 {"id":"wikibooks-fr:diots","verdict":"keep","countries":["FR"],"reason":"countries were empty; French sausage dish"}
-{"id":"wikibooks-fr:gâteau-roulé","verdict":"keep","countries":["FR"],"reason":"countries were empty; French cake"}
-{"id":"wikibooks-fr:pâtes-au-saumon-fumé","verdict":"keep","countries":["FR"],"reason":"countries were empty; French pasta dish"}
+{"id":"wikibooks-fr:gâteau-roulé","verdict":"keep"}
+{"id":"wikibooks-fr:pâtes-au-saumon-fumé","verdict":"keep"}
 {"id":"wikibooks-fr:tarte-fine-aux-pralines-roses","verdict":"keep","countries":["FR"],"reason":"countries were empty; French tart"}

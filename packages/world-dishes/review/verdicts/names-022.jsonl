@@ -85,7 +85,7 @@
 {"id":"Q136026276","verdict":"keep"}
 {"id":"Q136035763","verdict":"keep"}
 {"id":"Q136084592","verdict":"keep"}
-{"id":"Q136086697","verdict":"remove","reason":"imitation branded product (Nutella copy)"}
+{"id":"Q136086697","verdict":"keep","reason":"Second opinion: Notella describes homemade imitation hazelnut chocolate spread, not necessarily a branded product (https://thefromscratchbody.com/home/notella)."}
 {"id":"Q136087023","verdict":"keep"}
 {"id":"Q136087059","verdict":"keep"}
 {"id":"Q136087103","verdict":"keep"}
@@ -154,7 +154,7 @@
 {"id":"Q136416797","verdict":"keep"}
 {"id":"Q136418745","verdict":"keep","countries":["SE"],"reason":"Swedish open sandwich; country list was empty"}
 {"id":"Q136420774","verdict":"keep"}
-{"id":"Q13642570","verdict":"keep","countries":["NL"],"reason":"Dutch bread; country list was empty"}
+{"id":"Q13642570","verdict":"keep","countries":[],"reason":"Second opinion: gistbrood is generic yeast bread; Dutch wording alone does not establish an origin."}
 {"id":"Q136428542","verdict":"keep"}
 {"id":"Q136438204","verdict":"keep","countries":["JP"],"reason":"Japanese kamaboko; country list was empty"}
 {"id":"Q136440414","verdict":"keep"}
@@ -180,7 +180,7 @@
 {"id":"Q136486885","verdict":"remove","reason":"alcoholic beverage (burukutu)"}
 {"id":"Q136487236","verdict":"keep"}
 {"id":"Q136487793","verdict":"keep"}
-{"id":"Q13649208","verdict":"remove","reason":"branded cheese product (Milleens brand)"}
+{"id":"Q13649208","verdict":"keep","reason":"Second opinion: Milleens is a named traditional Irish farmhouse cheese and stays under the prepared-food rule (https://www.milleenscheese.com/)."}
 {"id":"Q136500311","verdict":"keep"}
 {"id":"Q136502926","verdict":"keep"}
 {"id":"Q136513295","verdict":"keep"}
@@ -194,7 +194,7 @@
 {"id":"Q136527600","verdict":"keep"}
 {"id":"Q136537392","verdict":"keep"}
 {"id":"Q136538519","verdict":"keep","countries":["NL"],"reason":"Dutch herring preparation; country list was empty"}
-{"id":"Q136538525","verdict":"keep","countries":["ET"],"reason":"Ethiopian fermented millet cakes; country list was empty"}
+{"id":"Q136538525","verdict":"keep","countries":["GH"],"reason":"Second opinion: maasa is a Ghanaian fermented millet cake, not Ethiopian (https://ccsenet.org/journal/index.php/jfr/article/view/21586)."}
 {"id":"Q136557181","verdict":"keep","countries":["RO"],"reason":"Romanian baked good; country list was empty"}
 {"id":"Q136563124","verdict":"keep"}
 {"id":"Q136564070","verdict":"keep","countries":["HT"],"reason":"Haitian street food; country list was empty"}
@@ -239,7 +239,7 @@
 {"id":"Q136787113","verdict":"keep","countries":["FR"],"reason":"French frozen dessert; country list was empty"}
 {"id":"Q136799884","verdict":"keep","countries":["RU"],"reason":"Buryat dish; country list was empty"}
 {"id":"Q136802858","verdict":"keep"}
-{"id":"Q136805629","verdict":"keep","countries":["GE"],"reason":"Georgian honey; country list was empty"}
+{"id":"Q136805629","verdict":"remove","countries":["GE"],"reason":"Second opinion: Mukhuri honey is plain honey with no recipe; geographic designation does not make it a prepared dish."}
 {"id":"Q136824382","verdict":"keep"}
 {"id":"Q136825771","verdict":"keep"}
 {"id":"Q136831453","verdict":"remove","reason":"a place (pastry shop), not a dish"}

@@ -7,7 +7,7 @@
 {"id":"Q3421424","verdict":"keep"}
 {"id":"Q3421984","verdict":"keep"}
 {"id":"Q342208","verdict":"keep"}
-{"id":"Q3422327","verdict":"keep","countries":["DK"],"reason":"countries were empty; Danish bread"}
+{"id":"Q3422327","verdict":"keep","countries":["NO"],"reason":"Second opinion: Kneippbrød is Norwegian bread, not Danish; https://snl.no/kneippbrød"}
 {"id":"Q3425445","verdict":"keep"}
 {"id":"Q3425450","verdict":"keep"}
 {"id":"Q3428078","verdict":"keep"}
@@ -17,7 +17,7 @@
 {"id":"Q3434019","verdict":"keep"}
 {"id":"Q3435353","verdict":"keep"}
 {"id":"Q3436095","verdict":"keep"}
-{"id":"Q3436828","verdict":"keep","countries":["US"],"reason":"countries were empty; American cube steak"}
+{"id":"Q3436828","verdict":"remove","reason":"Second opinion: raw tenderized beef cut with no recipe, not a prepared dish"}
 {"id":"Q343864","verdict":"keep"}
 {"id":"Q3439845","verdict":"keep","countries":["FR"],"reason":"countries were empty; Alsatian dish"}
 {"id":"Q344066","verdict":"keep"}
@@ -106,7 +106,7 @@
 {"id":"Q3515852","verdict":"keep"}
 {"id":"Q3515855","verdict":"keep","countries":["FR"],"reason":"countries were empty; French tart from Alsace/Lorraine"}
 {"id":"Q3515859","verdict":"keep"}
-{"id":"Q3515860","verdict":"keep","countries":["FR"],"reason":"countries were empty; French pie"}
+{"id":"Q3515860","verdict":"keep"}
 {"id":"Q3515861","verdict":"keep"}
 {"id":"Q3515862","verdict":"keep"}
 {"id":"Q3518532","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
@@ -196,7 +196,7 @@
 {"id":"Q3597267","verdict":"keep"}
 {"id":"Q3599457","verdict":"keep"}
 {"id":"Q3603155","verdict":"keep"}
-{"id":"Q3604288","verdict":"remove","reason":"PDO balsamic vinegar, a protected product rather than a dish"}
+{"id":"Q3604288","verdict":"keep","reason":"Second opinion: traditional fermented balsamic vinegar is a prepared condiment, not a plain raw ingredient"}
 {"id":"Q3606260","verdict":"keep"}
 {"id":"Q3606603","verdict":"keep"}
 {"id":"Q3606626","verdict":"remove","reason":"PGI fresh lamb meat, a raw product rather than a dish"}
@@ -272,7 +272,7 @@
 {"id":"Q3664954","verdict":"keep"}
 {"id":"Q3665214","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian cake"}
 {"id":"Q3665589","verdict":"keep"}
-{"id":"Q3666048","verdict":"keep","countries":["IN"],"reason":"countries were empty; Bengali sweet"}
+{"id":"Q3666048","verdict":"keep","countries":["BD","IN"],"reason":"Second opinion: Bengali sweet associated with Bangladesh and India; https://heritagehub.gov.bd/HeritageInfoes/DetailsPdfEng/2134"}
 {"id":"Q36672065","verdict":"keep"}
 {"id":"Q3667436","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
 {"id":"Q3667736","verdict":"keep"}

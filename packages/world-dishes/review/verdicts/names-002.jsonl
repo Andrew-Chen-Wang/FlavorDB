@@ -217,7 +217,7 @@
 {"id":"Q105688475","verdict":"keep"}
 {"id":"Q105700896","verdict":"keep"}
 {"id":"Q10570326","verdict":"keep","countries":["SE"],"reason":"Swedish fish dish, countries empty"}
-{"id":"Q105709751","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105709751","verdict":"remove","reason":"second opinion: bel er sarbat is a bael-fruit drink, not a dish"}
 {"id":"Q10571218","verdict":"keep"}
 {"id":"Q105720218","verdict":"keep"}
 {"id":"Q105721637","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}

@@ -1,15 +1,15 @@
-{"id":"Q113432237","verdict":"keep","countries":["DK"],"reason":"no country listed; Danish bread"}
+{"id":"Q113432237","verdict":"keep","reason":"second opinion: wheat bread is generic; Danish wording alone does not establish a Danish origin"}
 {"id":"Q113432251","verdict":"keep"}
 {"id":"Q113432255","verdict":"keep","countries":["DK"],"reason":"no country listed; Danish dish"}
 {"id":"Q11343229","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese mochi"}
-{"id":"Q11344145","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese jelly dessert"}
+{"id":"Q11344145","verdict":"keep","reason":"second opinion: melon jelly is generic; Japanese wording alone does not establish a Japanese origin"}
 {"id":"Q11344563","verdict":"keep","countries":["JP"],"reason":"no country listed; Hokkaido nabe"}
 {"id":"Q113451751","verdict":"keep"}
 {"id":"Q113455543","verdict":"keep"}
 {"id":"Q1134556","verdict":"keep"}
 {"id":"Q11346020","verdict":"keep"}
 {"id":"Q11346203","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese dagashi"}
-{"id":"Q113463632","verdict":"keep","countries":["GN"],"reason":"no country listed; Guinean bonbon (same series as other GN entries)"}
+{"id":"Q113463632","verdict":"keep","reason":"second opinion: a neighboring series of entries does not establish this candy's country; retain unknown country"}
 {"id":"Q113463691","verdict":"keep"}
 {"id":"Q113463719","verdict":"keep"}
 {"id":"Q113463743","verdict":"keep"}
@@ -42,7 +42,7 @@
 {"id":"Q11353238","verdict":"keep"}
 {"id":"Q113534616","verdict":"keep"}
 {"id":"Q11353687","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese congee"}
-{"id":"Q113541568","verdict":"keep","countries":["DE"],"reason":"no country listed; German dish"}
+{"id":"Q113541568","verdict":"keep","reason":"second opinion: eggs with cream sauce is generic; German wording does not establish a country"}
 {"id":"Q113543725","verdict":"keep"}
 {"id":"Q11355117","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese candy"}
 {"id":"Q11355298","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese ramen"}
@@ -123,7 +123,7 @@
 {"id":"Q113850233","verdict":"keep"}
 {"id":"Q113854965","verdict":"keep"}
 {"id":"Q113855577","verdict":"keep","countries":["IN"],"reason":"no country listed; Kerala payasam"}
-{"id":"Q11385745","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese bread"}
+{"id":"Q11385745","verdict":"keep","reason":"second opinion: preserved bread is generic; Japanese wording does not establish a country"}
 {"id":"Q113858365","verdict":"keep","countries":["CN"],"reason":"no country listed; Chinese chicken dish"}
 {"id":"Q113859684","verdict":"keep"}
 {"id":"Q11386094","verdict":"keep"}
@@ -166,8 +166,8 @@
 {"id":"Q114023789","verdict":"remove","reason":"generic term (any roll-like dish), not one dish"}
 {"id":"Q11402431","verdict":"keep","countries":["JP"],"reason":"no country listed; Hokkaido ramen"}
 {"id":"Q114040821","verdict":"keep","countries":["BE"],"reason":"no country listed; Dendermonde sausage"}
-{"id":"Q114042285","verdict":"remove","reason":"branded soy sauce product"}
-{"id":"Q114042294","verdict":"remove","reason":"company/brand page (Toyo), not a dish"}
+{"id":"Q114042285","verdict":"keep","reason":"second opinion: シーユー is the generic Thai name for soy sauce, a prepared fermented condiment, not a brand"}
+{"id":"Q114042294","verdict":"keep","reason":"second opinion: toyo is the generic Filipino name for soy sauce, not a company"}
 {"id":"Q11404913","verdict":"keep","countries":["JP"],"reason":"no country listed; Tokachi rice bowl"}
 {"id":"Q11404916","verdict":"keep","countries":["JP"],"reason":"no country listed; Tokachi fried rice"}
 {"id":"Q11405053","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese ramen"}
@@ -175,7 +175,7 @@
 {"id":"Q114057994","verdict":"keep"}
 {"id":"Q11406984","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese tofu dish"}
 {"id":"Q11408324","verdict":"keep","countries":["JP"],"reason":"no country listed; Kyoto tofu"}
-{"id":"Q11408416","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese confection"}
+{"id":"Q11408416","verdict":"remove","reason":"second opinion: Nanbangashi is the group of Portuguese/Spanish-influenced Japanese confections, not one dish"}
 {"id":"Q11408569","verdict":"keep"}
 {"id":"Q11409239","verdict":"keep"}
 {"id":"Q1141033","verdict":"keep","countries":["KR"],"reason":"no country listed; Korean noodle dish"}
@@ -250,7 +250,7 @@
 {"id":"Q114457441","verdict":"keep"}
 {"id":"Q11447460","verdict":"keep","countries":["JP"],"reason":"no country listed; Himeji ramen"}
 {"id":"Q11447901","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese sweet"}
-{"id":"Q1144889","verdict":"keep","countries":["CN"],"reason":"no country listed; Tibetan staple (Tibet, China)"}
+{"id":"Q1144889","verdict":"keep","countries":["CN","NP","BT","IN"],"reason":"second opinion: Tibetan tsampa has shared Himalayan associations including Nepal, Bhutan and northern India"}
 {"id":"Q114496226","verdict":"keep"}
 {"id":"Q11449789","verdict":"keep","countries":["JP"],"reason":"no country listed; Utsunomiya yakisoba"}
 {"id":"Q11450321","verdict":"keep"}
@@ -292,7 +292,7 @@
 {"id":"Q114756150","verdict":"keep","countries":["PL"],"reason":"no country listed; Silesian dish"}
 {"id":"Q114757173","verdict":"keep","name":"Śląsko Modro Kapusta","countries":["PL"],"reason":"name had a parenthetical English gloss; no country listed; Silesian dish"}
 {"id":"Q11476280","verdict":"keep"}
-{"id":"Q1147853","verdict":"keep","countries":["MX","GT","SV","HN"],"reason":"no country listed; Mesoamerican dish"}
+{"id":"Q1147853","verdict":"keep","countries":["MX","GT","SV","HN","BZ","NI","CR","PA","CU","DO","PR","PE","CO","VE","US"],"reason":"second opinion: tamales have established regional traditions across Central America, the Caribbean, South America and the US as well as Mexico and Guatemala"}
 {"id":"Q11479217","verdict":"keep","countries":["JP"],"reason":"no country listed; Kawagoe yakisoba"}
 {"id":"Q11479380","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese confection"}
 {"id":"Q114796671","verdict":"keep"}

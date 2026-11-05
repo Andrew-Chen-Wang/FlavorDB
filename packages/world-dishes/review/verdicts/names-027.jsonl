@@ -61,7 +61,7 @@
 {"id":"Q16191619","verdict":"keep"}
 {"id":"Q1620456","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cake"}
 {"id":"Q1621290","verdict":"keep"}
-{"id":"Q1621633","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"Q1621633","verdict":"keep","countries":[],"reason":"Second opinion: ham rolls are generic; German wording alone does not establish origin."}
 {"id":"Q16230436","verdict":"remove","reason":"rice variety group, not a dish"}
 {"id":"Q16241452","verdict":"keep"}
 {"id":"Q16241584","verdict":"keep"}
@@ -124,8 +124,8 @@
 {"id":"Q16420039","verdict":"keep","countries":["IS"],"reason":"countries were empty; Icelandic soup"}
 {"id":"Q1642089","verdict":"keep"}
 {"id":"Q16421026","verdict":"keep"}
-{"id":"Q1642148","verdict":"keep","countries":["IN","NP","BD","PK","LK"],"reason":"list was far too broad; thali is South Asian"}
-{"id":"Q16422576","verdict":"keep","countries":["IS"],"reason":"countries were empty; Icelandic potato dish"}
+{"id":"Q1642148","verdict":"keep","reason":"Second opinion: retain existing country ties; the reviewer did not establish that the broader South and Southeast Asian and diaspora associations were clearly wrong."}
+{"id":"Q16422576","verdict":"keep","countries":[],"reason":"Second opinion: dill potatoes are generic; Icelandic wording does not establish Icelandic origin."}
 {"id":"Q16430337","verdict":"keep"}
 {"id":"Q1643361","verdict":"keep","countries":["LB","SY"],"reason":"countries were empty; Levantine dish"}
 {"id":"Q16449385","verdict":"keep"}
@@ -143,7 +143,7 @@
 {"id":"Q16484916","verdict":"keep"}
 {"id":"Q16488884","verdict":"keep","countries":["ES"],"reason":"countries were empty; Spanish guiso"}
 {"id":"Q16489179","verdict":"keep"}
-{"id":"Q16489181","verdict":"keep","countries":["EC"],"reason":"countries were empty; Ecuadorian dish"}
+{"id":"Q16489181","verdict":"keep","countries":["ES"],"reason":"Second opinion: atun encebollado is the Cadiz tuna stew, not Ecuadorian encebollado (https://www.restauranteventaesteban.es/atun-encebollado/)."}
 {"id":"Q16489885","verdict":"keep","countries":["MX"],"reason":"countries were empty; Mexican dish"}
 {"id":"Q16490638","verdict":"keep","countries":["BR"],"reason":"countries were empty; Brazilian food"}
 {"id":"Q16490881","verdict":"keep"}
@@ -207,7 +207,7 @@
 {"id":"Q16566432","verdict":"keep"}
 {"id":"Q16566703","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish dish"}
 {"id":"Q16566892","verdict":"keep","countries":["BY"],"reason":"countries were empty; Belarusian dish"}
-{"id":"Q16567475","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish compote"}
+{"id":"Q16567475","verdict":"remove","countries":["PL"],"reason":"Second opinion: kompot z suszu is a Polish dried-fruit drink (https://www.polonist.com/polish-dried-fruit-compote-drink/)."}
 {"id":"Q16567691","verdict":"keep","countries":["ES"],"reason":"countries were empty; Spanish dish"}
 {"id":"Q16570609","verdict":"keep","countries":["ES"],"reason":"countries were empty; Spanish dish"}
 {"id":"Q16570892","verdict":"keep","countries":["ES"],"reason":"countries were empty; Alicante gazpacho"}
@@ -226,7 +226,7 @@
 {"id":"Q16590829","verdict":"keep"}
 {"id":"Q16590870","verdict":"keep"}
 {"id":"Q16592556","verdict":"keep"}
-{"id":"Q16596895","verdict":"keep","countries":["IT"],"reason":"HR was wrong; Venetian risotto"}
+{"id":"Q16596895","verdict":"keep","countries":["IT","HR"],"reason":"Second opinion: squid-ink risotto is associated with Italy and Croatian coastal cuisine; retain both ties."}
 {"id":"Q1660010","verdict":"keep"}
 {"id":"Q16607686","verdict":"keep"}
 {"id":"Q16608468","verdict":"keep","countries":["MX"],"reason":"countries were empty; Mexican soup"}
@@ -234,7 +234,7 @@
 {"id":"Q16612124","verdict":"keep"}
 {"id":"Q166128","verdict":"keep","countries":["CU","MX"],"reason":"countries were empty; Latin American beef dish"}
 {"id":"Q16613521","verdict":"keep","countries":["ES"],"reason":"countries were empty; Spanish guiso"}
-{"id":"Q16614903","verdict":"keep","countries":["ES"],"reason":"countries were empty; Spanish dish"}
+{"id":"Q16614903","verdict":"keep","countries":["GT"],"reason":"Second opinion: paches are Guatemalan potato tamales, not Spanish (https://culturaguate.gob.gt/2023/06/15/paches/)."}
 {"id":"Q16616890","verdict":"keep"}
 {"id":"Q16617059","verdict":"keep"}
 {"id":"Q16619629","verdict":"keep","countries":["ES"],"reason":"countries were empty; Spanish dish"}
@@ -256,10 +256,10 @@
 {"id":"Q16640733","verdict":"keep","countries":["FR"],"reason":"countries were empty; Breton cake"}
 {"id":"Q16641169","verdict":"keep"}
 {"id":"Q1664301","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
-{"id":"Q16643224","verdict":"keep","countries":["MX"],"reason":"ES was wrong; Soconusco nougat is from Chiapas, Mexico"}
+{"id":"Q16643224","verdict":"keep","countries":["ES"],"reason":"Second opinion: turron de Soconusco is from Bilbao in Spain; Mexican cacao naming does not make the dish Mexican (https://www.bilbaoturismo.net/BilbaoTurismo/es/cocina-de-temporada/turron-de-soconusco)."}
 {"id":"Q1664470","verdict":"keep"}
 {"id":"Q16648183","verdict":"keep"}
-{"id":"Q16648323","verdict":"keep","countries":["TN"],"reason":"DZ was wrong; Tunisian cake"}
+{"id":"Q16648323","verdict":"keep","countries":["DZ","TN"],"reason":"Second opinion: khobz tounes is an Algerian cake also tied to Tunisia; retain both rather than removing Algeria (https://news.radioalgerie.dz/en/node/80938)."}
 {"id":"Q16648860","verdict":"keep","countries":["FR"],"reason":"countries were empty; Breton dish"}
 {"id":"Q16653183","verdict":"keep","countries":["FR"],"reason":"countries were empty; French dish"}
 {"id":"Q16655180","verdict":"remove","reason":"category heading (minced meat products), not a dish"}
@@ -284,12 +284,12 @@
 {"id":"Q16677070","verdict":"keep"}
 {"id":"Q16677587","verdict":"keep"}
 {"id":"Q16678141","verdict":"keep","countries":["FR"],"reason":"countries were empty; French pastry"}
-{"id":"Q16679109","verdict":"keep","countries":["ES"],"reason":"countries were empty; Spanish pie"}
+{"id":"Q16679109","verdict":"keep","countries":["FR"],"reason":"Second opinion: tarta de papin is a Boulonnais French tart, not Spanish (https://es.wikipedia.org/wiki/Tarta_de_papin)."}
 {"id":"Q16679171","verdict":"keep"}
 {"id":"Q16680140","verdict":"keep"}
 {"id":"Q16680161","verdict":"keep"}
 {"id":"Q16680163","verdict":"keep"}
-{"id":"Q16680390","verdict":"remove","reason":"fruit of a plant used as an ingredient, not a dish"}
+{"id":"Q16680390","verdict":"keep","reason":"Second opinion: tonburi is a named prepared seed food made by drying, boiling and soaking; not plain raw fruit (https://www.iseki-food-ejournal.com/article/227/pdf/download)."}
 {"id":"Q16681961","verdict":"keep"}
 {"id":"Q16682389","verdict":"keep"}
 {"id":"Q16683197","verdict":"keep"}

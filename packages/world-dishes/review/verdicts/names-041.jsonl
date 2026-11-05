@@ -38,7 +38,7 @@
 {"id":"Q3723728","verdict":"keep"}
 {"id":"Q37258522","verdict":"keep"}
 {"id":"Q3739612","verdict":"keep"}
-{"id":"Q3739616","verdict":"remove","reason":"flour product (ingredient), not a dish"}
+{"id":"Q3739616","verdict":"keep","reason":"Second opinion: Farinella is a traditional toasted chickpea and barley preparation with salt; https://www.patpuglia.it/it/12/Farinella/8_112_M"}
 {"id":"Q3740034","verdict":"keep"}
 {"id":"Q3743152","verdict":"keep"}
 {"id":"Q374381","verdict":"keep","countries":["FR"],"reason":"countries were empty; crème caramel is French"}
@@ -84,7 +84,7 @@
 {"id":"Q3782694","verdict":"keep"}
 {"id":"Q378283","verdict":"keep"}
 {"id":"Q37833204","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean dish"}
-{"id":"Q378341","verdict":"keep","countries":["US","GB"],"reason":"macaroni and cheese is commonly claimed by the US as well as GB"}
+{"id":"Q378341","verdict":"keep","countries":["GB","US","CA"],"reason":"Second opinion: macaroni and cheese is associated with British, American and Canadian cuisines"}
 {"id":"Q3784816","verdict":"keep","countries":["BE"],"reason":"countries were empty; Herve cheese is Belgian"}
 {"id":"Q3785698","verdict":"keep"}
 {"id":"Q3799069","verdict":"keep"}
@@ -259,7 +259,7 @@
 {"id":"Q3914983","verdict":"keep"}
 {"id":"Q3917542","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch bread"}
 {"id":"Q3920699","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish dish"}
-{"id":"Q3920714","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish dish"}
+{"id":"Q3920714","verdict":"keep","countries":["PL","BY","LT"],"reason":"Second opinion: wereszczaka has Polish, Belarusian and Lithuanian traditions; https://pl.wikisource.org/wiki/Kucharka_litewska_(1913)/Wereszczaka"}
 {"id":"Q3920731","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish dish"}
 {"id":"Q3920738","verdict":"keep"}
 {"id":"Q392172","verdict":"keep"}

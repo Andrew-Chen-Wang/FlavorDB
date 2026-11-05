@@ -73,6 +73,7 @@
 {"id":"Q27555355","verdict":"remove","reason":"category of pasta products"}
 {"id":"Q27555639","verdict":"keep"}
 {"id":"Q27555874","verdict":"keep"}
+{"id":"Q275621","verdict":"keep"}
 {"id":"Q27565875","verdict":"remove","reason":"category of shaped pasta products"}
 {"id":"Q27566245","verdict":"remove","reason":"product class (short noodles group), not one dish"}
 {"id":"Q27566359","verdict":"remove","reason":"product class (long noodles group), not one dish"}
@@ -256,6 +257,7 @@
 {"id":"Q28456645","verdict":"keep"}
 {"id":"Q28456896","verdict":"keep"}
 {"id":"Q28456924","verdict":"keep"}
+{"id":"Q2845744","verdict":"keep"}
 {"id":"Q28457520","verdict":"keep"}
 {"id":"Q28458377","verdict":"keep"}
 {"id":"Q284738","verdict":"keep"}

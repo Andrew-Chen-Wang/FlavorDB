@@ -14,7 +14,7 @@
 {"id":"Q5103654","verdict":"keep"}
 {"id":"Q5103662","verdict":"keep"}
 {"id":"Q5103667","verdict":"keep"}
-{"id":"Q5103668","verdict":"remove","reason":"category of desserts, not one dish"}
+{"id":"Q5103668","verdict":"keep","reason":"Second opinion: chocolate pudding is an identifiable prepared dessert"}
 {"id":"Q5103669","verdict":"keep"}
 {"id":"Q510387","verdict":"keep"}
 {"id":"Q5104057","verdict":"keep"}
@@ -69,7 +69,7 @@
 {"id":"Q5171047","verdict":"keep"}
 {"id":"Q5171049","verdict":"keep"}
 {"id":"Q5171054","verdict":"keep"}
-{"id":"Q5171058","verdict":"keep","countries":["US"],"reason":"American sweet corn dish; countries were empty"}
+{"id":"Q5171058","verdict":"keep"}
 {"id":"Q5171116","verdict":"keep"}
 {"id":"Q5171854","verdict":"keep"}
 {"id":"Q517394","verdict":"keep"}
@@ -90,7 +90,7 @@
 {"id":"Q5183356","verdict":"keep"}
 {"id":"Q5183359","verdict":"keep","countries":["GB"],"reason":"British cream cracker; countries were empty"}
 {"id":"Q5183361","verdict":"keep"}
-{"id":"Q5183373","verdict":"remove","reason":"ingredient (honey product), not a dish"}
+{"id":"Q5183373","verdict":"keep","reason":"Second opinion: creamed honey is a deliberately prepared spread, not plain raw honey"}
 {"id":"Q5183375","verdict":"keep"}
 {"id":"Q5184120","verdict":"keep"}
 {"id":"Q5185785","verdict":"keep"}
@@ -104,7 +104,7 @@
 {"id":"Q5189136","verdict":"keep"}
 {"id":"Q5189826","verdict":"keep"}
 {"id":"Q5189867","verdict":"keep"}
-{"id":"Q5190246","verdict":"remove","reason":"component (pastry crust), not a dish"}
+{"id":"Q5190246","verdict":"keep","reason":"Second opinion: pastry crust is prepared food; being a component does not make it a raw ingredient"}
 {"id":"Q5190257","verdict":"keep"}
 {"id":"Q5191461","verdict":"keep","countries":["FR"],"reason":"French soup; countries were empty"}
 {"id":"Q5192112","verdict":"keep"}
@@ -140,7 +140,7 @@
 {"id":"Q5211509","verdict":"keep"}
 {"id":"Q5216031","verdict":"keep"}
 {"id":"Q5227816","verdict":"keep","countries":["US"],"reason":"New Orleans dish; countries were empty"}
-{"id":"Q523224","verdict":"remove","reason":"generic cooking technique page, not a dish"}
+{"id":"Q523224","verdict":"keep","reason":"Second opinion: cooked rice is prepared food, not a technique"}
 {"id":"Q5233479","verdict":"keep"}
 {"id":"Q52376734","verdict":"keep"}
 {"id":"Q52378255","verdict":"keep"}
@@ -157,7 +157,7 @@
 {"id":"Q5254542","verdict":"keep"}
 {"id":"Q5254978","verdict":"keep"}
 {"id":"Q525586","verdict":"remove","reason":"branded snack cake (Twinkie)"}
-{"id":"Q5257848","verdict":"keep","countries":["MY"],"reason":"Johorean noodle soup is Malaysian; ID was wrong"}
+{"id":"Q5257848","verdict":"keep","countries":["MY","ID","SG"],"reason":"Second opinion: mee rebus is associated with Malaysia, Indonesia and Singapore"}
 {"id":"Q5257857","verdict":"keep"}
 {"id":"Q5259790","verdict":"keep"}
 {"id":"Q5260907","verdict":"keep"}
@@ -197,7 +197,7 @@
 {"id":"Q5296979","verdict":"keep"}
 {"id":"Q529941","verdict":"keep"}
 {"id":"Q5300145","verdict":"keep"}
-{"id":"Q53014370","verdict":"keep","countries":["IT","US"],"reason":"Stuffed artichoke is Italian and Italian-American; MA was wrong"}
+{"id":"Q53014370","verdict":"keep","countries":["MA","IT","US"],"reason":"Second opinion: stuffed artichokes are associated with Moroccan, Italian and Italian-American cuisines"}
 {"id":"Q5302283","verdict":"keep","countries":["CN"],"reason":"Wuhan breakfast dish; countries were empty"}
 {"id":"Q5304700","verdict":"keep"}
 {"id":"Q5305336","verdict":"keep"}
@@ -210,14 +210,14 @@
 {"id":"Q5311505","verdict":"keep"}
 {"id":"Q5317422","verdict":"keep"}
 {"id":"Q5317729","verdict":"keep"}
-{"id":"Q5319091","verdict":"keep","countries":["US"],"reason":"American-style sushi roll; countries were empty"}
+{"id":"Q5319091","verdict":"keep","countries":["CA","US"],"reason":"Second opinion: Western sushi roll associated with Canada and the United States"}
 {"id":"Q531970","verdict":"keep"}
 {"id":"Q532718","verdict":"keep","countries":["DE"],"reason":"German sausage; countries were empty"}
 {"id":"Q532942","verdict":"keep","countries":["CL"],"reason":"Chorrillana is a Chilean dish; PE was wrong"}
 {"id":"Q5331296","verdict":"remove","reason":"practice (eating live seafood), not a dish"}
 {"id":"Q5331480","verdict":"keep"}
 {"id":"Q5331853","verdict":"keep","countries":["CN"],"reason":"Chinese dish; countries were empty"}
-{"id":"Q533210","verdict":"keep","countries":["DE"],"reason":"German potato dumpling; countries were empty"}
+{"id":"Q533210","verdict":"keep","countries":["DE","AT"],"reason":"Second opinion: Schupfnudeln belong to German and Austrian cuisines"}
 {"id":"Q5332994","verdict":"remove","reason":"branded chewing gum"}
 {"id":"Q5338306","verdict":"keep"}
 {"id":"Q534023","verdict":"keep"}
@@ -284,7 +284,7 @@
 {"id":"Q540543","verdict":"keep"}
 {"id":"Q5406515","verdict":"keep","countries":["PE"],"reason":"Peruvian soup; countries were empty"}
 {"id":"Q540837","verdict":"keep"}
-{"id":"Q5408968","verdict":"keep","countries":["IN"],"reason":"Punjabi flatbread; countries were empty"}
+{"id":"Q5408968","verdict":"keep","countries":["IN","PK"],"reason":"Second opinion: Punjabi makki ki roti is shared across India and Pakistan"}
 {"id":"Q5409500","verdict":"keep"}
 {"id":"Q5409699","verdict":"keep","countries":["KR"],"reason":"Korean porridge; countries were empty"}
 {"id":"Q5411101","verdict":"keep","countries":["ES"],"reason":"Galician cake; countries were empty"}
@@ -293,7 +293,7 @@
 {"id":"Q54165556","verdict":"keep"}
 {"id":"Q541771","verdict":"keep"}
 {"id":"Q542046","verdict":"keep"}
-{"id":"Q5420610","verdict":"remove","reason":"generic category (potage, soup in general), not one dish"}
+{"id":"Q5420610","verdict":"keep","reason":"Second opinion: pottage is an identifiable traditional prepared stew"}
 {"id":"Q54222942","verdict":"keep","countries":["IT"],"reason":"Italian risotto; countries were empty"}
 {"id":"Q54223338","verdict":"keep"}
 {"id":"Q5422785","verdict":"keep"}

@@ -174,7 +174,7 @@
 {"id":"Q6501598","verdict":"keep"}
 {"id":"Q6501890","verdict":"keep"}
 {"id":"Q6503900","verdict":"keep","countries":["JP"],"reason":"Japanese wagashi; countries were empty"}
-{"id":"Q65041957","verdict":"keep","countries":["IN"],"reason":"Indian snack; countries were empty"}
+{"id":"Q65041957","verdict":"keep","countries":["BD","IN"],"reason":"Second opinion: Bengali aloor chop is shared across Bangladesh and India"}
 {"id":"Q65043034","verdict":"keep"}
 {"id":"Q65043042","verdict":"keep"}
 {"id":"Q65044268","verdict":"keep"}
@@ -227,7 +227,7 @@
 {"id":"Q65086435","verdict":"keep"}
 {"id":"Q65086552","verdict":"keep"}
 {"id":"Q65086591","verdict":"keep"}
-{"id":"Q65087240","verdict":"remove","reason":"cooking technique page (Philippine asado), not a dish"}
+{"id":"Q65087240","verdict":"keep","reason":"Second opinion: Philippine asado is an identifiable prepared braised meat dish, not merely a technique"}
 {"id":"Q65087419","verdict":"keep"}
 {"id":"Q65087426","verdict":"keep"}
 {"id":"Q65089369","verdict":"keep"}
@@ -263,7 +263,7 @@
 {"id":"Q65163168","verdict":"keep"}
 {"id":"Q65163701","verdict":"keep"}
 {"id":"Q6516633","verdict":"remove","reason":"branded packaged product (Toy chewing gum)"}
-{"id":"Q65194563","verdict":"keep","countries":["FI"],"reason":"Finnish bread; countries were empty"}
+{"id":"Q65194563","verdict":"remove","reason":"Second opinion: bread in Finland is a regional overview, not one dish"}
 {"id":"Q65194685","verdict":"keep","countries":["SE"],"reason":"Swedish candy; countries were empty"}
 {"id":"Q65205156","verdict":"keep"}
 {"id":"Q65205169","verdict":"keep"}

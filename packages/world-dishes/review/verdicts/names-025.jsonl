@@ -76,7 +76,7 @@
 {"id":"Q141114599","verdict":"keep"}
 {"id":"Q141114600","verdict":"keep"}
 {"id":"Q141130608","verdict":"keep","countries":["DE","AT"],"reason":"countries were empty; German and Austrian soup"}
-{"id":"Q141163288","verdict":"keep","countries":["SE"],"reason":"countries were empty; Swedish pasta gratin"}
+{"id":"Q141163288","verdict":"keep","countries":[],"reason":"Second opinion: spaghetti gratin is generic; Swedish name alone does not establish Swedish origin."}
 {"id":"Q141175905","verdict":"keep"}
 {"id":"Q141182209","verdict":"keep"}
 {"id":"Q1412112","verdict":"keep"}
@@ -100,6 +100,7 @@
 {"id":"Q141379382","verdict":"keep"}
 {"id":"Q141379737","verdict":"keep"}
 {"id":"Q141385046","verdict":"keep"}
+{"id":"Q141385059","verdict":"keep"}
 {"id":"Q141385805","verdict":"keep"}
 {"id":"Q141407702","verdict":"keep"}
 {"id":"Q141434444","verdict":"keep"}
@@ -107,7 +108,7 @@
 {"id":"Q141438921","verdict":"keep"}
 {"id":"Q141451226","verdict":"keep"}
 {"id":"Q141460495","verdict":"keep"}
-{"id":"Q141467374","verdict":"keep","countries":["CZ"],"reason":"countries were empty; Czech ice cream"}
+{"id":"Q141467374","verdict":"keep","countries":[],"reason":"Second opinion: cream ice cream is generic; Czech wording alone does not establish Czech origin."}
 {"id":"Q141483840","verdict":"keep"}
 {"id":"Q1414887","verdict":"keep","countries":["AM","LB","SY","TR"],"reason":"countries were empty; lahmacun is claimed by these countries"}
 {"id":"Q141489694","verdict":"remove","reason":"chain-restaurant menu item (burger)"}
@@ -221,8 +222,8 @@
 {"id":"Q1427307","verdict":"keep"}
 {"id":"Q1428452","verdict":"keep"}
 {"id":"Q1428477","verdict":"keep"}
-{"id":"Q14289397","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch raisin bread"}
-{"id":"Q1429469","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian biscuit"}
+{"id":"Q14289397","verdict":"keep","countries":[],"reason":"Second opinion: raisin bread is generic; Dutch name alone does not establish Dutch origin."}
+{"id":"Q1429469","verdict":"keep","countries":["IT","FR"],"reason":"Second opinion: Florentine biscuits have commonly cited Italian and French origin accounts (https://francetoday.com/food-drink/traditional-french-cookies-to-bake-for-the-holidays/)."}
 {"id":"Q14320029","verdict":"keep","countries":["DE"],"reason":"countries were empty; German potato casserole"}
 {"id":"Q1432109","verdict":"keep"}
 {"id":"Q1432535","verdict":"keep"}
@@ -243,7 +244,7 @@
 {"id":"Q1451438","verdict":"keep"}
 {"id":"Q14517051","verdict":"keep"}
 {"id":"Q1451832","verdict":"keep"}
-{"id":"Q14523339","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian sweet bread"}
+{"id":"Q14523339","verdict":"keep","countries":["AT","DE"],"reason":"Second opinion: Krapfen are associated with Austria and Germany; description explicitly calls this German sweet bread."}
 {"id":"Q14524937","verdict":"keep"}
 {"id":"Q1452513","verdict":"keep"}
 {"id":"Q14528540","verdict":"keep"}
@@ -260,7 +261,7 @@
 {"id":"Q14609179","verdict":"keep"}
 {"id":"Q14624874","verdict":"keep"}
 {"id":"Q14635923","verdict":"keep"}
-{"id":"Q1464898","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch fried snack"}
+{"id":"Q1464898","verdict":"keep","countries":["NL","BE"],"reason":"Second opinion: frikandel is associated with both Dutch and Belgian food cultures (https://www.vlaanderen.be/team-taaladvies/taaladviezen/frikadel-frikandel-curryworst)."}
 {"id":"Q14650718","verdict":"keep"}
 {"id":"Q1465158","verdict":"keep"}
 {"id":"Q1465330","verdict":"keep"}
@@ -288,7 +289,7 @@
 {"id":"Q14832965","verdict":"keep"}
 {"id":"Q1485640","verdict":"keep"}
 {"id":"Q148588","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian pastry"}
-{"id":"Q1488189","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"Q1488189","verdict":"keep","countries":["AT"],"reason":"Second opinion: the fish/aspic Gabelbissen is Austrian, not German (https://www.wagners-kulinarium.at/typisch-oesterreichisch-der-gabelbissen/)."}
 {"id":"Q14906720","verdict":"keep"}
 {"id":"Q14907198","verdict":"keep"}
 {"id":"Q14911969","verdict":"remove","reason":"paprika spice, ingredient not a dish"}
