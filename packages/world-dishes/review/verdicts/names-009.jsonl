@@ -7,7 +7,7 @@
 {"id":"Q111755418","verdict":"keep"}
 {"id":"Q11175566","verdict":"keep"}
 {"id":"Q11175878","verdict":"keep"}
-{"id":"Q11175898","verdict":"keep","countries":["CN"],"reason":"added country: Chinese dish"}
+{"id":"Q11175898","verdict":"keep","countries":["CN","TW"],"reason":"Second opinion: spicy duck blood is tied to Sichuan cooking and Taiwanese street food."}
 {"id":"Q111781427","verdict":"keep"}
 {"id":"Q111784605","verdict":"keep"}
 {"id":"Q111792931","verdict":"remove","reason":"place (bar/fast food venue), not a dish"}
@@ -114,7 +114,7 @@
 {"id":"Q11258799","verdict":"keep"}
 {"id":"Q11258806","verdict":"keep"}
 {"id":"Q11258809","verdict":"keep"}
-{"id":"Q11258834","verdict":"keep","countries":["CN"],"reason":"added country: Chinese confection"}
+{"id":"Q11258834","verdict":"keep","countries":["JP"],"reason":"Second opinion: anzu ame is Japanese festival confectionery; Chinese characters do not imply China."}
 {"id":"Q11258867","verdict":"keep"}
 {"id":"Q11258884","verdict":"keep"}
 {"id":"Q11258896","verdict":"keep"}

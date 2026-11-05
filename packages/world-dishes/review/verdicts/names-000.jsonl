@@ -46,7 +46,7 @@
 {"id":"Q101084341","verdict":"keep","countries":["AR"],"reason":"Argentine pizza, countries empty"}
 {"id":"Q101092304","verdict":"keep","countries":["AT"],"reason":"Austrian dish, countries empty"}
 {"id":"Q101093727","verdict":"keep"}
-{"id":"Q101113014","verdict":"keep","countries":["BY"],"reason":"Belarusian pie, countries empty"}
+{"id":"Q101113014","verdict":"keep","countries":["RU"],"reason":"Second opinion: traditional Udmurt turnip pie; Belarusian alias is not its origin."}
 {"id":"Q101115409","verdict":"keep"}
 {"id":"Q101121317","verdict":"keep","countries":["AT"],"reason":"Austrian pastry, countries empty"}
 {"id":"Q101122441","verdict":"keep"}

@@ -169,7 +169,7 @@
 {"id":"Q108649402","verdict":"keep","countries":["US"],"reason":"countries empty; American pie"}
 {"id":"Q10865714","verdict":"keep"}
 {"id":"Q108672552","verdict":"keep"}
-{"id":"Q108673188","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}
+{"id":"Q108673188","verdict":"remove","reason":"Second opinion: Gondhoraj ghol is a lime-flavoured buttermilk drink, not a vegetable dish."}
 {"id":"Q108673238","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}
 {"id":"Q108673269","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}
 {"id":"Q108673557","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}
@@ -181,7 +181,7 @@
 {"id":"Q10868024","verdict":"keep","countries":["CN"],"reason":"countries empty; Shanghai-style salad"}
 {"id":"Q108684938","verdict":"keep"}
 {"id":"Q1086855","verdict":"keep"}
-{"id":"Q10868579","verdict":"keep","countries":["CN"],"reason":"countries empty; Chinese dish"}
+{"id":"Q10868579","verdict":"keep","countries":["TW"],"reason":"Second opinion: this entry is Taiwanese offal soup; Chinese language is not an origin."}
 {"id":"Q108687663","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}
 {"id":"Q108687674","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}
 {"id":"Q108687684","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}
