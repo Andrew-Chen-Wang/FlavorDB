@@ -1,6 +1,6 @@
 # Older recipe second opinion: r-160 through r-254
 
-Status: r-160 through r-200 complete; r-201 through r-254 pending assignment/continuation.
+Status: r-160 through r-211 complete; r-212 through r-254 pending assignment/continuation.
 
 Every remove verdict and countries override in the completed batches was manually reread against the full recovered entry, including extracted recipe ingredients and steps. The original batches and raw source pages are unavailable: this is a metadata-based second opinion, not verification against the original source or original batch order. Scripts only selected targets/presented entries and applied explicit hand-decided corrections.
 
@@ -58,3 +58,23 @@ Every remove/countries target was manually reread against full recovered recipe 
 | r-200 | 8 |
 
 Five country corrections: Austrian association of Esterhazy cake; Indian/Pakistani Punjabi garam masala; Hungarian frankfurter soup and cauliflower adaptation incorrectly attributed to Germany by sausage name; cleared French attribution from generic coconut chocolate muffins. No removals reversed.
+
+## r-201 through r-211
+
+Every remove/countries target was manually reread against full recovered recipe metadata. Raw pages remain unavailable.
+
+| Batch | Targets reread |
+| --- | ---: |
+| r-201 | 22 |
+| r-202 | 14 |
+| r-203 | 9 |
+| r-204 | 9 |
+| r-205 | 1 |
+| r-206 | 6 |
+| r-207 | 6 |
+| r-208 | 14 |
+| r-209 | 8 |
+| r-210 | 16 |
+| r-211 | 8 |
+
+Nine country corrections: Romanian/Hungarian Transylvanian dishes and puliszka, Hungarian/Slovak Paloc langos and cabbage strapacky; French hollandaise no longer assigned Netherlands from its translated name; unsupported Hungarian attribution cleared from chocolate crinkle cookies. No removals reversed.
