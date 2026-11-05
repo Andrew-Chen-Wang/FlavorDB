@@ -1,0 +1,28 @@
+{"id":"wikibooks:char-broiled-sirloin-steak-with-cabernet-butter-sauce","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChar-Broiled_Sirloin_Steak_with_Cabernet_Butter_Sauce","status":"ok"}]}
+{"id":"wikibooks:char-grilled-strip-steak","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChar-Grilled_Strip_Steak","status":"ok"}]}
+{"id":"wikibooks:char-siu-chinese-bbq-pork","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChar_Siu_(Chinese_BBQ_pork)","status":"ok"}]}
+{"id":"wikibooks:char-sui-asian-barbecued-pork","verdict":"keep","name":"Char Siu (Asian Barbecued Pork)","reason":"correct transposed spelling of char siu","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChar_Sui_(Asian_Barbecued_Pork)","status":"ok"}]}
+{"id":"wikibooks:chargrilled-asparagus-salad","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChargrilled_Asparagus_Salad","status":"ok"}]}
+{"id":"wikibooks:charoset-ashkenazi","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACharoset_(Ashkenazi)","status":"ok"}]}
+{"id":"wikibooks:charoset-iraqi","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACharoset_(Iraqi)","status":"ok"}]}
+{"id":"wikibooks:charoset-maghrebi","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACharoset_(Maghrebi)","status":"ok"}]}
+{"id":"wikibooks:cheese-and-crackers","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheese_and_Crackers","status":"ok"}]}
+{"id":"wikibooks:cheese-crisps","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheese_Crisps","status":"ok"}]}
+{"id":"wikibooks:cheese-dumplings","verdict":"keep","countries":["AT","DE","IT"],"reason":"kaspressknödel are shared by Austrian Tyrol, Italian South Tyrol and Bavaria as source describes","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheese_Dumplings","status":"ok"}]}
+{"id":"wikibooks:cheese-egg-toast","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheese_Egg_Toast","status":"ok"}]}
+{"id":"wikibooks:cheese-enchilada","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheese_Enchilada","status":"ok"}]}
+{"id":"wikibooks:cheese-filling-for-peynirli-b-rek","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheese_Filling_for_Peynirli_B%C3%B6rek","status":"ok"}]}
+{"id":"wikibooks:cheese-omelette","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheese_Omelette","status":"ok"}]}
+{"id":"wikibooks:cheese-pierogi-filling","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheese_Pierogi_Filling","status":"ok"}]}
+{"id":"wikibooks:cheese-puffs-p-o-de-queijo","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheese_Puffs_(P%C3%A3o_de_Queijo)","status":"ok"}]}
+{"id":"wikibooks:cheese-ravioli-filling","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheese_Ravioli_Filling","status":"ok"}]}
+{"id":"wikibooks:cheese-sauce-i","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheese_Sauce_I","status":"ok"}]}
+{"id":"wikibooks:cheese-spaetzle","verdict":"keep","countries":["AT","CH","DE"],"reason":"Käsespätzle is shared by Austrian, Swiss and southern German Alpine traditions","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheese_Spaetzle","status":"ok"}]}
+{"id":"wikibooks:cheese-spread-on-french-bread","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheese_Spread_on_French_Bread","status":"ok"}]}
+{"id":"wikibooks:cheese-stuffed-chicken-breasts","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheese-Stuffed_Chicken_Breasts","status":"ok"}]}
+{"id":"wikibooks:cheese-stuffed-crust-pizza","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheese-Stuffed_Crust_Pizza","status":"ok"}]}
+{"id":"wikibooks:cheese-stuffed-tomatoes","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheese_Stuffed_Tomatoes","status":"ok"}]}
+{"id":"wikibooks:cheeseburgers","verdict":"keep","countries":["US"],"reason":"American cheese topped hamburger","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheeseburgers","status":"ok"}]}
+{"id":"wikibooks:cheesecake-cups","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheesecake_Cups","status":"ok"}]}
+{"id":"wikibooks:cheesy-chicken-pasta","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheesy_Chicken_Pasta","status":"fixed","reason":"restore weights and cream volume lost from conversion templates","ingredients":["¾ cup (85 g/3 oz) dried pasta (whatever shape you like)","¼ cup (75 g) cream cheese","¾ cup (75 g) grated mozzarella cheese","¾ cup (75 g) grated cheddar cheese","2½–3½ tablespoons hoisin sauce to taste","1 cup (125 g) chopped cooked chicken","½ cup (125 ml) heavy whipping cream"],"steps":["Bring a pot of water to the boil. Add the pasta and cook for about 10 minutes (or until the pasta is soft).","Drain the pasta so that no water remains in the pan. Return drained pasta to the pot.","Add the cream, cheeses, chicken, and hoisin sauce to the pasta.","Cook for a few minutes to warm everything through.","Serve."]}]}
+{"id":"wikibooks:cheesy-mascarpone-cornbread-stuffing","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACheesy_Mascarpone_Cornbread_Stuffing","status":"ok"}]}
