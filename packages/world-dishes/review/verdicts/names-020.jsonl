@@ -68,7 +68,7 @@
 {"id":"Q131440796","verdict":"keep"}
 {"id":"Q13144104","verdict":"keep"}
 {"id":"Q13144105","verdict":"keep"}
-{"id":"Q131441485","verdict":"keep","countries":["MA"],"reason":"Moroccan tajine"}
+{"id":"Q131441485","verdict":"keep","countries":["DZ"],"reason":"Second opinion: tajine jben is an Algerian cheese tajine, not Moroccan (https://lesrecettesderatiba.com/article-tajine-jben-plat-traditionnel-algerien.html)."}
 {"id":"Q131443882","verdict":"keep"}
 {"id":"Q131445509","verdict":"keep"}
 {"id":"Q131445533","verdict":"keep"}
@@ -97,7 +97,7 @@
 {"id":"Q131564939","verdict":"keep","countries":["FR"],"reason":"Alsatian dish"}
 {"id":"Q131577417","verdict":"keep"}
 {"id":"Q131588338","verdict":"keep"}
-{"id":"Q131589999","verdict":"keep","countries":["FR"],"reason":"Occitan dish"}
+{"id":"Q131589999","verdict":"keep","countries":["BE"],"reason":"Second opinion: vitoulet is a traditional Charleroi meatball in Belgium (https://www.telesambre.be/info/un-vitoulet-challenge-charleroi/59215)."}
 {"id":"Q131591198","verdict":"keep"}
 {"id":"Q131605468","verdict":"keep"}
 {"id":"Q131607","verdict":"keep"}
@@ -116,7 +116,7 @@
 {"id":"Q131677489","verdict":"keep","countries":["FR"],"reason":"French regional lamb dish"}
 {"id":"Q131677556","verdict":"keep"}
 {"id":"Q131680354","verdict":"keep"}
-{"id":"Q131683895","verdict":"keep","countries":["AU"],"reason":"Australian toasted sandwich"}
+{"id":"Q131683895","verdict":"keep","countries":["AU","ZA"],"reason":"Second opinion: jaffles are commonly associated with both Australia and South Africa (https://languagehat.com/jaffle/)."}
 {"id":"Q131684342","verdict":"keep"}
 {"id":"Q131684959","verdict":"keep"}
 {"id":"Q131693461","verdict":"keep"}
@@ -139,12 +139,12 @@
 {"id":"Q131736473","verdict":"keep"}
 {"id":"Q131737404","verdict":"keep","countries":["NL"],"reason":"Dutch kale soup"}
 {"id":"Q131737431","verdict":"keep"}
-{"id":"Q131743103","verdict":"keep","countries":["SE"],"reason":"Swedish dish"}
+{"id":"Q131743103","verdict":"keep","countries":["SE","HU"],"reason":"Second opinion: plankstek is associated with Sweden and its Hungarian fatanyeros antecedent (https://startarestaurang.se/plankstek-en-klassisk-restaurangratt-som-var-enormt-popular-pa-70-talet-hittar-nu-tillbaka-till-restaurangerna/)."}
 {"id":"Q131747037","verdict":"keep"}
 {"id":"Q131749283","verdict":"keep"}
 {"id":"Q131749285","verdict":"keep"}
 {"id":"Q131749425","verdict":"keep"}
-{"id":"Q131749772","verdict":"keep","countries":["ZA"],"reason":"Afrikaans cream dessert"}
+{"id":"Q131749772","verdict":"keep","countries":[],"reason":"Second opinion: roomys means generic ice cream in Afrikaans; language does not establish South African origin (https://af.wiktionary.org/wiki/roomys)."}
 {"id":"Q13175502","verdict":"keep"}
 {"id":"Q1317552","verdict":"keep"}
 {"id":"Q13175725","verdict":"keep"}

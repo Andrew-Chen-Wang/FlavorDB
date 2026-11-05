@@ -11,7 +11,7 @@
 {"id":"Q139148657","verdict":"keep"}
 {"id":"Q139148658","verdict":"keep"}
 {"id":"Q139206037","verdict":"remove","reason":"topic page about chocolate in Japan, not a dish"}
-{"id":"Q139251202","verdict":"keep","countries":["LB","PS"],"reason":"countries were empty; Levantine shrimp in tomato sauce"}
+{"id":"Q139251202","verdict":"keep","countries":["PS"],"reason":"Second opinion: zibdieh is the Palestinian Gazan shrimp dish described by the entry; Lebanese attribution was unsupported."}
 {"id":"Q139266197","verdict":"keep"}
 {"id":"Q139270254","verdict":"keep"}
 {"id":"Q139275409","verdict":"remove","reason":"raw honey product, not a dish"}
@@ -28,7 +28,7 @@
 {"id":"Q139352694","verdict":"keep"}
 {"id":"Q139377324","verdict":"keep"}
 {"id":"Q139377873","verdict":"keep"}
-{"id":"Q139408916","verdict":"remove","reason":"category of dishes (Henan steamed dishes), not one dish"}
+{"id":"Q139408916","verdict":"keep","reason":"Second opinion: Henan steamed vegetables is a plausible regional prepared dish; no source demonstrates it is merely an index or category."}
 {"id":"Q139409102","verdict":"keep"}
 {"id":"Q139413840","verdict":"keep"}
 {"id":"Q139414293","verdict":"keep"}
@@ -72,7 +72,7 @@
 {"id":"Q139761682","verdict":"keep","countries":["GB"],"reason":"countries were empty; English game pie"}
 {"id":"Q139761797","verdict":"keep"}
 {"id":"Q139761836","verdict":"keep","countries":["GB"],"reason":"countries were empty; British raised pie"}
-{"id":"Q139770134","verdict":"keep","countries":["ES"],"reason":"countries were empty; Catalan salad"}
+{"id":"Q139770134","verdict":"keep","countries":[],"reason":"Second opinion: hearts-of-palm salad is generic; Catalan wording alone does not establish Spanish origin."}
 {"id":"Q1397738","verdict":"keep"}
 {"id":"Q139802375","verdict":"keep"}
 {"id":"Q139809866","verdict":"keep"}
@@ -162,7 +162,7 @@
 {"id":"Q140523122","verdict":"keep"}
 {"id":"Q140528272","verdict":"keep","countries":["MX"],"reason":"countries were empty; Mexican dessert"}
 {"id":"Q140528708","verdict":"keep"}
-{"id":"Q1405557","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian/Bavarian dish"}
+{"id":"Q1405557","verdict":"keep","countries":["AT","DE"],"reason":"Second opinion: Schmarrn is associated with Austria and Bavaria in Germany, as the description states."}
 {"id":"Q140578443","verdict":"keep","name":"Dolmadakia","reason":"name had a Cyrillic letter in it"}
 {"id":"Q140586135","verdict":"remove","reason":"category of ritual breads, not one dish"}
 {"id":"Q140589660","verdict":"keep"}
@@ -248,9 +248,9 @@
 {"id":"Q140645917","verdict":"keep"}
 {"id":"Q140645920","verdict":"keep"}
 {"id":"Q140645921","verdict":"keep"}
-{"id":"Q140645922","verdict":"remove","reason":"edible fat (butter), ingredient not a dish"}
-{"id":"Q140645923","verdict":"remove","reason":"edible fat (butter), ingredient not a dish"}
-{"id":"Q140645924","verdict":"remove","reason":"edible fat (butter), ingredient not a dish"}
+{"id":"Q140645922","verdict":"keep","reason":"Second opinion: beuro colo is a named traditional prepared butter product; retain prepared foods rather than treating it as a plain raw ingredient."}
+{"id":"Q140645923","verdict":"keep","reason":"Second opinion: beuro de brossa is a named traditional prepared butter product, retained under the prepared-food rule."}
+{"id":"Q140645924","verdict":"keep","reason":"Second opinion: traditional whey butter is a prepared dairy product, retained under the prepared-food rule."}
 {"id":"Q140645925","verdict":"keep"}
 {"id":"Q140650734","verdict":"remove","reason":"2008 TV film, not food"}
 {"id":"Q140654622","verdict":"keep"}
