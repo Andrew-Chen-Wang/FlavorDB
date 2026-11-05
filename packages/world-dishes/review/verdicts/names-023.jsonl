@@ -70,9 +70,9 @@
 {"id":"Q137826008","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
 {"id":"Q137826009","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
 {"id":"Q137826010","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
-{"id":"Q137826011","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
+{"id":"Q137826011","verdict":"keep","countries":[],"reason":"Second opinion: generic cabbage salad is not assigned Finland merely from its Finnish name."}
 {"id":"Q137826012","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
-{"id":"Q137826013","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
+{"id":"Q137826013","verdict":"keep","countries":[],"reason":"Second opinion: generic mushroom stew is not assigned Finland merely from its Finnish name."}
 {"id":"Q137826014","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
 {"id":"Q137826015","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
 {"id":"Q137826016","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
@@ -82,7 +82,7 @@
 {"id":"Q137826023","verdict":"keep"}
 {"id":"Q137826026","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
 {"id":"Q137826028","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
-{"id":"Q137826226","verdict":"keep","countries":["FI"],"reason":"Finnish cake; country list was empty"}
+{"id":"Q137826226","verdict":"keep","countries":[],"reason":"Second opinion: decorated cake is generic; Finnish wording does not establish dish origin."}
 {"id":"Q137826227","verdict":"keep","countries":["FI"],"reason":"Finnish cake; country list was empty"}
 {"id":"Q137826228","verdict":"keep","countries":["FI"],"reason":"Finnish cake; country list was empty"}
 {"id":"Q137826229","verdict":"keep","countries":["FI"],"reason":"Finnish cake; country list was empty"}
@@ -91,7 +91,7 @@
 {"id":"Q137826241","verdict":"keep","countries":["FI"],"reason":"Finnish pie; country list was empty"}
 {"id":"Q137826242","verdict":"keep","countries":["FI"],"reason":"Finnish pie; country list was empty"}
 {"id":"Q137826250","verdict":"keep","countries":["FI"],"reason":"Finnish bread; country list was empty"}
-{"id":"Q137826251","verdict":"keep","countries":["FI"],"reason":"Finnish bread; country list was empty"}
+{"id":"Q137826251","verdict":"keep","countries":[],"reason":"Second opinion: pan bread is generic; Finnish wording does not establish dish origin."}
 {"id":"Q137826252","verdict":"keep","countries":["FI"],"reason":"Finnish bread; country list was empty"}
 {"id":"Q137834536","verdict":"keep"}
 {"id":"Q137834569","verdict":"keep"}
@@ -131,7 +131,7 @@
 {"id":"Q137971251","verdict":"keep","countries":["BR"],"reason":"Brazilian dish; country list was empty"}
 {"id":"Q137971298","verdict":"keep","countries":["SE"],"reason":"Swedish meat dish; country list was empty"}
 {"id":"Q13798142","verdict":"keep","countries":["NL"],"reason":"Dutch candy; country list was empty"}
-{"id":"Q13798201","verdict":"keep","countries":["NL"],"reason":"Dutch bread; country list was empty"}
+{"id":"Q13798201","verdict":"keep","countries":[],"reason":"Second opinion: poppy seed bread is generic and Dutch wording does not establish Dutch origin."}
 {"id":"Q137995719","verdict":"keep"}
 {"id":"Q137998824","verdict":"keep"}
 {"id":"Q138003779","verdict":"keep"}
@@ -297,4 +297,4 @@
 {"id":"Q138950659","verdict":"keep"}
 {"id":"Q138951067","verdict":"keep","countries":["CH"],"reason":"Grisons Christmas cookies; country list was empty"}
 {"id":"Q138979020","verdict":"keep"}
-{"id":"Q138992","verdict":"keep","countries":["CH"],"reason":"Rhine valley maize dish; country list was empty"}
+{"id":"Q138992","verdict":"remove","countries":["CH"],"reason":"Second opinion: Rheintaler Ribelmais is the milled maize ingredient, not the cooked Ribel dish; no recipe (https://www.patrimoineculinaire.ch/Prodotto/Rheintaler-Ribelmais-AOP/285)."}

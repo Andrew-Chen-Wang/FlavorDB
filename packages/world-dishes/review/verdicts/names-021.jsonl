@@ -9,13 +9,13 @@
 {"id":"Q132830862","verdict":"keep"}
 {"id":"Q1328462","verdict":"keep"}
 {"id":"Q1328767","verdict":"keep"}
-{"id":"Q1329680","verdict":"remove","reason":"plain ingredient (chocolate chips), not a dish"}
+{"id":"Q1329680","verdict":"keep","reason":"Second opinion: chocolate chips are prepared chocolate confectionery, not a plain raw ingredient."}
 {"id":"Q132970274","verdict":"keep"}
 {"id":"Q13302","verdict":"keep"}
 {"id":"Q13305","verdict":"keep"}
 {"id":"Q133082568","verdict":"remove","reason":"branded packaged snack (KOLOKO)"}
 {"id":"Q13312","verdict":"keep"}
-{"id":"Q1331201","verdict":"keep","countries":["DE"],"reason":"German soup"}
+{"id":"Q1331201","verdict":"keep","countries":["AT"],"reason":"Second opinion: Klachelsuppe is a Styrian and Carinthian Austrian soup (https://austria-forum.org/af/Heimatlexikon/Klachelsuppe)."}
 {"id":"Q13314","verdict":"keep"}
 {"id":"Q133160529","verdict":"keep"}
 {"id":"Q13319","verdict":"keep"}
@@ -102,7 +102,7 @@
 {"id":"Q13411051","verdict":"keep"}
 {"id":"Q134113306","verdict":"keep"}
 {"id":"Q134124724","verdict":"keep","countries":["ES"],"reason":"Basque pastry"}
-{"id":"Q1341251","verdict":"keep","countries":["DE"],"reason":"German energy balls"}
+{"id":"Q1341251","verdict":"keep","countries":[],"reason":"Second opinion: generic energy balls are not assigned a country based on their German name."}
 {"id":"Q134125172","verdict":"keep"}
 {"id":"Q134128637","verdict":"keep"}
 {"id":"Q134139217","verdict":"keep"}
@@ -137,8 +137,8 @@
 {"id":"Q134328147","verdict":"keep"}
 {"id":"Q13434072","verdict":"keep"}
 {"id":"Q13434162","verdict":"keep"}
-{"id":"Q134344445","verdict":"keep","countries":["ES"],"reason":"Spanish cake from Bejar"}
-{"id":"Q1343448","verdict":"keep","countries":["DE"],"reason":"German cheese pastry"}
+{"id":"Q134344445","verdict":"keep","countries":["VE"],"reason":"Second opinion: Torta Bejarana is a Caracas cake from Venezuela, not a cake from Bejar in Spain (https://lainventadera.com/2023/02/26/la-bejarana/)."}
+{"id":"Q1343448","verdict":"keep","countries":[],"reason":"Second opinion: generic cheese pastry is not assigned Germany based on its German name."}
 {"id":"Q134355938","verdict":"keep"}
 {"id":"Q134374794","verdict":"keep"}
 {"id":"Q1343820","verdict":"keep"}
@@ -207,7 +207,7 @@
 {"id":"Q134775984","verdict":"keep"}
 {"id":"Q13479641","verdict":"keep"}
 {"id":"Q13479746","verdict":"keep"}
-{"id":"Q134817183","verdict":"keep","countries":["RW"],"reason":"Rwandan stew"}
+{"id":"Q134817183","verdict":"keep","countries":["RW","BI"],"reason":"Second opinion: isombe is associated with Rwanda and Burundi (https://en.wikipedia.org/wiki/Isombe)."}
 {"id":"Q134837243","verdict":"keep"}
 {"id":"Q1348512","verdict":"keep","countries":["DE"],"reason":"German pea soup"}
 {"id":"Q134874173","verdict":"keep"}
@@ -230,7 +230,7 @@
 {"id":"Q135003473","verdict":"remove","reason":"biology concept (plant seed), not a dish"}
 {"id":"Q135004750","verdict":"keep","countries":["IN","PK"],"reason":"Indian and Pakistani confectionery per description"}
 {"id":"Q135010731","verdict":"keep"}
-{"id":"Q135036621","verdict":"keep","countries":["ES"],"reason":"Spanish bread dish"}
+{"id":"Q135036621","verdict":"keep","countries":["PY","AR","BR"],"reason":"Second opinion: reviro belongs to the shared Alto Parana region of Paraguay, Argentina and Brazil (https://www.paulinacocina.net/reviro-paraguayo/30880)."}
 {"id":"Q135038148","verdict":"keep"}
 {"id":"Q135103632","verdict":"keep"}
 {"id":"Q135103638","verdict":"keep"}
