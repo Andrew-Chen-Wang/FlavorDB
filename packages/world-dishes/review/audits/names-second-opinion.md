@@ -282,3 +282,14 @@ Manually reread each selected name override against its original batch entry; fo
 | r-526.jsonl | wikibooks:indian-baked-yoghurt-with-saffron-and-cardamom | Indian Baked Yoghurt with Cardamom and Figs | Indian Baked Yoghurt with Cardamom and Figs | Confirmed: full raw recipe uses cardamom and poached figs, and contains no saffron. |
 | r-526.jsonl | wikibooks:indian-butter-chicken-i | Indian Butter Chicken | Indian Butter Chicken | Confirmed: removes only the recipe variant numeral. |
 | r-527.jsonl | wikibooks:irish-potatoes | Irish Potato Candy | Irish Potato Candy | Confirmed: full raw introduction explicitly identifies Irish potato candy and its cream-cheese/coconut confection preparation. |
+| r-463.jsonl | wikibooks:apple-crisp-i | Apple Crisp | Apple Crisp | Confirmed: removes only cookbook variant enumeration or recipe disambiguation. |
+| r-463.jsonl | wikibooks:apple-crisp-ii | Apple Crisp | Apple Crisp | Confirmed: removes only cookbook variant enumeration or recipe disambiguation. |
+| r-463.jsonl | wikibooks:apple-crisp-iii | Apple Crisp | Apple Crisp | Confirmed: removes only cookbook variant enumeration or recipe disambiguation. |
+| r-528.jsonl | wikibooks:italian-dressing-i | Italian Dressing | Italian Dressing | Confirmed: removes only cookbook variant enumeration or recipe disambiguation. |
+| r-528.jsonl | wikibooks:italian-dressing-ii | Italian Dressing | Italian Dressing | Confirmed: removes only cookbook variant enumeration or recipe disambiguation. |
+| r-528.jsonl | wikibooks:jam-recipe | Jam | Jam | Confirmed: removes only cookbook variant enumeration or recipe disambiguation. |
+| r-529.jsonl | wikibooks:jamaican-curry-chicken-with-bullga | Jamaican Curry Chicken with Bulla Cakes | Jamaican Curry Chicken with Bulla Cakes | Confirmed: original description explicitly identifies the accompaniment as Bulla cakes, supporting correction of Bullga. |
+| r-529.jsonl | wikibooks:jamaican-jerk-spice-i | Jamaican Jerk Spice | Jamaican Jerk Spice | Confirmed: removes only cookbook variant enumeration or recipe disambiguation. |
+| r-529.jsonl | wikibooks:jamaican-jerk-spice-ii | Jamaican Jerk Spice | Jamaican Jerk Spice | Confirmed: removes only cookbook variant enumeration or recipe disambiguation. |
+| r-529.jsonl | wikibooks:jambalaya-i | Jambalaya | Jambalaya | Confirmed: removes only cookbook variant enumeration or recipe disambiguation. |
+| r-529.jsonl | wikibooks:jambalaya-ii | Jambalaya | Jambalaya | Confirmed: removes only cookbook variant enumeration or recipe disambiguation. |
