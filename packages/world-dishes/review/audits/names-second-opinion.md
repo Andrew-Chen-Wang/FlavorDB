@@ -307,3 +307,6 @@ Manually reread each selected name override against its original batch entry; fo
 | r-469.jsonl | wikibooks:banana-split-i | Banana Split | Banana Split | Confirmed: removes only the cookbook recipe variant numeral. |
 | r-469.jsonl | wikibooks:banana-split-ii | Banana Split | Banana Split | Confirmed: removes only the cookbook recipe variant numeral. |
 | r-469.jsonl | wikibooks:bangladesh-curry | Bangladeshi Chicken Curry | Bangladeshi Chicken Curry | Confirmed: correct demonym and chicken ingredient make the English name precise without changing dish identity. |
+| r-463.jsonl | wikibooks:apple-pie-i | Apple Pie | Apple Pie | Confirmed: removes only the cookbook recipe variant numeral. |
+| r-463.jsonl | wikibooks:apple-pie-ii | Apple Pie | Apple Pie | Confirmed: removes only the cookbook recipe variant numeral. |
+| r-464.jsonl | wikibooks:arambasici-croatian-sour-cabbage-rolls | Arambašići (Croatian Sour Cabbage Rolls) | Arambašići (Croatian Sour Cabbage Rolls) | Confirmed: original description encodes Arambašići with Croatian š and ć; override restores those letters. |
