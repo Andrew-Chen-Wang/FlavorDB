@@ -1,0 +1,27 @@
+{"id":"wikibooks:speculaas-dutch-spiced-cookies","verdict":"keep","countries":["NL","BE"],"reason":"Traditional speculaas biscuits are associated with the Netherlands and Belgium","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpeculaas_(Dutch_Spiced_Cookies)","status":"ok"}]}
+{"id":"wikibooks:spelt-bread","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpelt_Bread","status":"ok"}]}
+{"id":"wikibooks:spelt-burger","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpelt_Burger","status":"ok"}]}
+{"id":"wikibooks:spelt-yellow-cake","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpelt_Yellow_Cake","status":"ok"}]}
+{"id":"wikibooks:spice-rub","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpice_Rub","status":"ok"}]}
+{"id":"wikibooks:spice-rub-for-chicken","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpice_Rub_for_Chicken","status":"ok"}]}
+{"id":"wikibooks:spice-rubbed-grilled-chicken-breast","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpice_Rubbed_Grilled_Chicken_Breast","status":"ok"}]}
+{"id":"wikibooks:spiced-chicken-with-sour-cream","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpiced_Chicken_with_Sour_Cream","status":"ok"}]}
+{"id":"wikibooks:spiced-cr-me-caramel","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpiced_Cr%C3%A8me_Caramel","status":"ok"}]}
+{"id":"wikibooks:spiced-flour","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpiced_Flour","status":"fixed","reason":"Restore flour weight removed with conversion template","ingredients":["⅔ cup (90 g) flour","1⅛ teaspoon paprika","⅔ teaspoon garlic powder","1/6 teaspoon pepper","⅛ teaspoon (or less) cayenne pepper"],"steps":["Mix together ingredients thoroughly."]}]}
+{"id":"wikibooks:spiced-kefir","verdict":"remove","reason":"spiced kefir beverage","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpiced_Kefir","status":"ok"}]}
+{"id":"wikibooks:spiced-oysters","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpiced_Oysters","status":"ok"}]}
+{"id":"wikibooks:spiced-pumpkin-soup","verdict":"keep","countries":[],"reason":"Generic pumpkin soup has no single national association; recipe publisher location does not establish origin","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpiced_Pumpkin_Soup","status":"ok"}]}
+{"id":"wikibooks:spicy-apple-glazed-ribs","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpicy_Apple_Glazed_Ribs","status":"ok"}]}
+{"id":"wikibooks:spicy-black-beans","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpicy_Black_Beans","status":"ok"}]}
+{"id":"wikibooks:spicy-carrot-aioli","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpicy_Carrot_Aioli","status":"ok"}]}
+{"id":"wikibooks:spicy-cheddar-dip-with-olives","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpicy_Cheddar_Dip_with_Olives","status":"ok"}]}
+{"id":"wikibooks:spicy-chicken-casserole","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpicy_Chicken_Casserole","status":"ok"}]}
+{"id":"wikibooks:spicy-chicken-cutlets","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpicy_Chicken_Cutlets","status":"ok"}]}
+{"id":"wikibooks:spicy-chicken-stew","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpicy_Chicken_Stew","status":"ok"}]}
+{"id":"wikibooks:spicy-chickpea-soup","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpicy_Chickpea_Soup","status":"ok"}]}
+{"id":"wikibooks:spicy-chickpeas","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpicy_Chickpeas","status":"ok"}]}
+{"id":"wikibooks:spicy-chilli-chicken","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpicy_Chilli_Chicken","status":"ok"}]}
+{"id":"wikibooks:spicy-corn-bread","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpicy_Corn_Bread","status":"ok"}]}
+{"id":"wikibooks:spicy-crab-and-arugula-salad","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpicy_Crab_and_Arugula_Salad","status":"ok"}]}
+{"id":"wikibooks:spicy-crab-cakes","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpicy_Crab_Cakes","status":"ok"}]}
+{"id":"wikibooks:spicy-feta-burger","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpicy_Feta_Burger","status":"ok"}]}
