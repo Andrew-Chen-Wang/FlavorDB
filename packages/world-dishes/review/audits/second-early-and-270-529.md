@@ -2,10 +2,11 @@
 
 Audited every remove verdict and countries override in these files against the actual batch entry and its full available raw source. Names are being checked separately. No content judgments were automated.
 
-Completed: r-212, r-215, r-218, r-270 through r-299, r-301, r-302, r-440 through r-453, r-470 through r-487, r-490 through r-492, r-500 through r-517.
+Completed: r-212, r-215, r-218, r-221, r-224, r-230, r-236, r-242, r-247, r-248, r-250, r-251 through r-253, r-255 through r-260, r-264, r-265, r-270 through r-299, r-301, r-302, r-440 through r-454, r-470 through r-487, r-490 through r-492, r-500 through r-519.
 
 Corrections committed:
 - r-441: include Ukraine among strapačky ties (c958f94).
+- r-454: include Czechia for the Czech cevapcici variant explicitly covered by the source (ea150f8).
 - r-491: include Australia, New Zealand, South Africa and Canada for Christmas pudding (cdfe259).
 - r-503: retain United States for the American breakfast egg casserole (f39db22).
 
