@@ -1,5 +1,5 @@
 {"id":"wikibooks-hu:orosz-kvasz-2","verdict":"remove","reason":"drink (kvass), not a dish"}
-{"id":"wikibooks-hu:orosz-öntet","verdict":"keep","countries":["RU"],"reason":"countries were empty; name says Russian","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2F%C3%96ntetek%2FOrosz_%C3%B6ntet","status":"ok"}]}
+{"id":"wikibooks-hu:orosz-öntet","verdict":"keep","reason":"Second opinion: generic beetroot egg yogurt dressing; Russian in the title alone does not establish a Russian culinary association","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2F%C3%96ntetek%2FOrosz_%C3%B6ntet","status":"ok"}]}
 {"id":"wikibooks-hu:orsótészta-padlizsánnal","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FPadlizs%C3%A1n%2FOrs%C3%B3t%C3%A9szta_padlizs%C3%A1nnal","status":"ok"}]}
 {"id":"wikibooks-hu:őszibarack","verdict":"remove","reason":"drink (peach soft drink), not a dish"}
 {"id":"wikibooks-hu:őszibarack-borban","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FGy%C3%BCm%C3%B6lcs%C3%B6s%2F%C5%90szibarack_borban","status":"ok"}]}
