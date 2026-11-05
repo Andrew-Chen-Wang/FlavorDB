@@ -25,3 +25,4 @@ Original batch raw sources are unavailable. This audit reads every remove/countr
 - r-100: audited all 23 countries targets. Expanded refried black beans to Guatemala alongside Mexico; regional Spanish preparations and Colombian/Guatemalan bean stews upheld.
 - r-101: audited all 22 remove/countries targets. Restored grenadine as a prepared syrup condiment; cleared generic tender-bean attribution. Three finished drink removals upheld. Original raw unavailable; restored syrup recipe status reflects usable recovered method only.
 - r-102: audited all 18 remove/countries targets. Added Ecuador to humitas; cleared generic lamb shanks, boiled lobster and tongue with carrots. Four beverage removals upheld.
+- r-103: audited all 16 remove/countries targets. Cleared personal lentil recipe country; expanded langar dal and corn locro to shared national ties. Coca-pisco infusion removal upheld.
