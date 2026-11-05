@@ -8,7 +8,7 @@
 {"id":"Q5435340","verdict":"keep"}
 {"id":"Q5435395","verdict":"keep","countries":["GB","IE"],"reason":"Scottish and Irish flatbread; countries were empty"}
 {"id":"Q5436113","verdict":"keep","countries":["FO"],"reason":"Faroese dish; countries were empty"}
-{"id":"Q54371695","verdict":"keep","countries":["DE"],"reason":"German soup; countries were empty"}
+{"id":"Q54371695","verdict":"keep","countries":["DE","AT"],"reason":"Caraway soup is shared German and Austrian cookery."}
 {"id":"Q54371849","verdict":"keep"}
 {"id":"Q5437245","verdict":"keep"}
 {"id":"Q5437342","verdict":"keep"}
@@ -56,12 +56,12 @@
 {"id":"Q5463730","verdict":"keep"}
 {"id":"Q5463808","verdict":"keep"}
 {"id":"Q5464121","verdict":"keep"}
-{"id":"Q5476380","verdict":"keep","countries":["AR"],"reason":"Argentine sandwich; countries were empty"}
+{"id":"Q5476380","verdict":"keep","countries":["AR","UY"],"reason":"Milanesa sandwiches are shared Argentine and Uruguayan food."}
 {"id":"Q5479342","verdict":"keep"}
 {"id":"Q5479643","verdict":"keep"}
 {"id":"Q5479684","verdict":"keep"}
 {"id":"Q5479702","verdict":"keep"}
-{"id":"Q5480841","verdict":"keep","countries":["ES"],"reason":"Spanish bocadillo with morcilla; countries were empty"}
+{"id":"Q5480841","verdict":"keep","countries":["AR","UY"],"reason":"Morcipan is the River Plate blood-sausage sandwich, not a Spanish bocadillo."}
 {"id":"Q548309","verdict":"keep"}
 {"id":"Q5484363","verdict":"keep"}
 {"id":"Q5484859","verdict":"keep"}
@@ -130,7 +130,7 @@
 {"id":"Q5523464","verdict":"keep"}
 {"id":"Q5523466","verdict":"keep"}
 {"id":"Q55235305","verdict":"keep"}
-{"id":"Q5523588","verdict":"keep","countries":["MX"],"reason":"Mexican dish; countries were empty"}
+{"id":"Q5523588","verdict":"keep","countries":["MX","GT","BZ"],"reason":"Garnacha is shared by Mexican, Guatemalan and Belizean cuisines."}
 {"id":"Q55238634","verdict":"keep"}
 {"id":"Q55238847","verdict":"keep","countries":["TH"],"reason":"Thai yam wun sen salad; countries were empty"}
 {"id":"Q5524478","verdict":"keep"}
@@ -150,7 +150,7 @@
 {"id":"Q555084","verdict":"keep"}
 {"id":"Q5551505","verdict":"keep"}
 {"id":"Q55521678","verdict":"keep","countries":["JP"],"reason":"Japanese sushi; countries were empty"}
-{"id":"Q55521772","verdict":"keep","countries":["JP"],"reason":"Japanese wagashi (Miyagi); countries were empty"}
+{"id":"Q55521772","verdict":"keep","countries":["JP"],"reason":"Japanese wagashi; countries were empty"}
 {"id":"Q55522966","verdict":"keep","countries":["JP"],"reason":"Japanese mochi; countries were empty"}
 {"id":"Q55529085","verdict":"keep","countries":["JP"],"reason":"Japanese confectionery; countries were empty"}
 {"id":"Q55529584","verdict":"keep","countries":["JP"],"reason":"Japanese nabemono; countries were empty"}

@@ -141,7 +141,7 @@
 {"id":"Q6457441","verdict":"keep"}
 {"id":"Q64594571","verdict":"keep"}
 {"id":"Q646003","verdict":"keep"}
-{"id":"Q64613472","verdict":"keep","countries":["HU"],"reason":"Hungarian lollipop; countries were empty"}
+{"id":"Q64613472","verdict":"remove","reason":"Kojak is a branded Hungarian chocolate-filled lollipop product."}
 {"id":"Q646237","verdict":"keep"}
 {"id":"Q64624850","verdict":"remove","reason":"generic packaged food category, not one dish (canned soup)"}
 {"id":"Q6466556","verdict":"keep","countries":["IN"],"reason":"Rajasthani dish; countries were empty"}
@@ -207,7 +207,7 @@
 {"id":"Q65065239","verdict":"keep"}
 {"id":"Q65066634","verdict":"keep"}
 {"id":"Q65067382","verdict":"keep","countries":["IN"],"reason":"Kerala cuisine; countries were empty"}
-{"id":"Q65068807","verdict":"keep","countries":["CN"],"reason":"Cantonese dish; countries were empty"}
+{"id":"Q65068807","verdict":"keep","countries":["CN","US"],"reason":"Almond pressed duck is associated with Cantonese and Chinese-American restaurant cookery."}
 {"id":"Q65069699","verdict":"keep"}
 {"id":"Q65072654","verdict":"keep"}
 {"id":"Q65077962","verdict":"keep"}
@@ -256,7 +256,7 @@
 {"id":"Q651462","verdict":"keep"}
 {"id":"Q65150941","verdict":"keep"}
 {"id":"Q65151728","verdict":"keep"}
-{"id":"Q65153051","verdict":"keep","countries":["RU"],"reason":"Russian pie; countries were empty"}
+{"id":"Q65153051","verdict":"keep","countries":["RU","UA","BY"],"reason":"Mannik semolina cake is shared Russian, Ukrainian and Belarusian cookery."}
 {"id":"Q65153692","verdict":"keep"}
 {"id":"Q6515767","verdict":"keep"}
 {"id":"Q6516224","verdict":"keep"}

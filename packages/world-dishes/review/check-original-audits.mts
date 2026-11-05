@@ -21,13 +21,17 @@ const ledgers = readdirSync(path.join(review, "audits"))
   .filter((name) => /^original-.*\.md$/.test(name))
   .map((name) => ({ name, text: readFileSync(path.join(review, "audits", name), "utf8") }))
 const text = ledgers.map((ledger) => ledger.text).join("\n")
-const recorded = new Set(
-  [
-    ...text.matchAll(
-      /(?:^|[\s`|])((?:Q\d+|(?:howtocook|wikibooks(?:-[a-z]+)?):[^\s`|]+))(?=[\s`|:]|$)/gm,
-    ),
-  ].map((match) => match[1].replace(/:$/, "")),
-)
+// IDs may be in prose lists followed by commas or full stops, not just table cells.
+const recorded = new Set([...text.matchAll(/\bQ\d+\b/g)].map((match) => match[0]))
+const hasRecordedId = (id: string) => {
+  if (/^Q\d+$/.test(id)) return recorded.has(id)
+  // Some ledgers record the complete unique slug beside its batch/position instead of repeating the namespace.
+  return [id, id.slice(id.indexOf(":") + 1)].some((value) => {
+    const escaped = value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+    return new RegExp(`(?:^|[\\s\x60|,])${escaped}(?=[\\s\x60|,.;:]|$)`, "m").test(text)
+  })
+}
+
 type Row = { id: string; verdict: string; name?: string; countries?: string[] }
 const flagged = (row: Row) =>
   row.verdict === "remove" || row.name !== undefined || row.countries !== undefined
@@ -50,7 +54,7 @@ for (const batch of batches) {
     if (flagged(row) || JSON.stringify(row) !== JSON.stringify(before[index])) required.add(row.id)
   })
   targets += required.size
-  const absent = [...required].filter((id) => !recorded.has(id))
+  const absent = [...required].filter((id) => !hasRecordedId(id))
   missing += absent.length
   if (absent.length)
     console.log(

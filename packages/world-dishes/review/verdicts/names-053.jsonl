@@ -5,7 +5,7 @@
 {"id":"Q7212986","verdict":"keep"}
 {"id":"Q7214426","verdict":"keep"}
 {"id":"Q7215544","verdict":"keep"}
-{"id":"Q7216960","verdict":"remove","reason":"cookware (clay pots), not a dish"}
+{"id":"Q7216960","verdict":"keep","reason":"Entry explicitly includes dishes cooked in clay pots as well as cookware; retain plausible prepared dish."}
 {"id":"Q7217773","verdict":"keep","countries":["RO"],"reason":"Romanian meat dish; countries were empty"}
 {"id":"Q722002","verdict":"keep"}
 {"id":"Q7220505","verdict":"keep","countries":["HK"],"reason":"Hong Kong beef dish; countries were empty"}
@@ -25,7 +25,7 @@
 {"id":"Q7230368","verdict":"keep"}
 {"id":"Q7231310","verdict":"keep"}
 {"id":"Q7232139","verdict":"keep"}
-{"id":"Q7232702","verdict":"keep","countries":["PT"],"reason":"Portuguese dish; countries were empty"}
+{"id":"Q7232702","verdict":"keep"}
 {"id":"Q7232800","verdict":"keep"}
 {"id":"Q7234749","verdict":"keep","countries":["NO"],"reason":"Norwegian potato bread; countries were empty"}
 {"id":"Q7234785","verdict":"keep"}
@@ -228,7 +228,7 @@
 {"id":"Q7492817","verdict":"keep"}
 {"id":"Q749378","verdict":"keep"}
 {"id":"Q74957013","verdict":"keep"}
-{"id":"Q7496557","verdict":"remove","reason":"described as a shaved ice drink"}
+{"id":"Q7496557","verdict":"keep","reason":"Shikashika is a prepared shaved-ice treat; ambiguous drink description does not justify removing this edible ice dessert."}
 {"id":"Q7498930","verdict":"keep"}
 {"id":"Q7504005","verdict":"keep","countries":["US"],"reason":"Chicago dish; countries were empty"}
 {"id":"Q7504007","verdict":"keep"}

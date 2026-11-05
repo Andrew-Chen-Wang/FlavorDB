@@ -1,0 +1,217 @@
+# Original-input second opinion: r-120–134
+
+Read actual top-level batch entries, including all supplied raw source text, for each existing remove/countries/name flag. Position selects the matching entry. This document records only completed ranges; untouched ranges are pending.
+
+- r-120 position 1 `wikibooks-fr:briouats-de-boeuf-à-la-coriandre`: Retain MA: explicitly Moroccan briouat recipe.
+- r-120 position 2 `wikibooks-fr:brisolée`: Retain CH: Valais chestnut meal.
+- r-120 position 3 `wikibooks-fr:bronx`: Retain remove: gin/vermouth cocktail.
+- r-120 position 4 `wikibooks-fr:brouet-de-cailles`: Retain FR: Taillevent medieval recipe.
+- r-120 position 6 `wikibooks-fr:bûche-aux-marrons`: Retain FR: chestnut Christmas charlotte log.
+- r-120 position 7 `wikibooks-fr:bûche-aux-marrons-et-au-chocolat`: Retain FR: explicitly Alsatian/Lorrain chestnut log.
+- r-120 position 8 `wikibooks-fr:bûche-de-noël`: Change FR to FR/BE/CH/CA: shared Christmas-log traditions.
+- r-120 position 9 `wikibooks-fr:bûche-de-noël-facile`: Change FR to FR/BE/CH/CA: simplified same Christmas log.
+- r-120 position 10 `wikibooks-fr:bugnes`: Retain FR: Lyon/Saint-Étienne specialty.
+- r-120 position 11 `wikibooks-fr:bullinada`: Retain FR/ES: Catalan fish soup.
+- r-120 position 12 `wikibooks-fr:butter-tablet`: Retain GB: Scottish tablet confection.
+- r-120 position 13 `wikibooks-fr:cabillaud-au-nước-mắm`: Change VN to CN: source explicitly calls preparation Chinese; fish-sauce name insufficient for VN.
+- r-120 position 15 `wikibooks-fr:cade-toulonnaise`: Retain FR: Toulon cade, Nice socca equivalent.
+- r-120 position 16 `wikibooks-fr:café-aux-œufs`: Retain remove: egg coffee beverage.
+- r-120 position 17 `wikibooks-fr:caillebotte-fromage`: Retain FR: regional fresh curd dessert.
+- r-120 position 19 `wikibooks-fr:caillette`: Retain FR: Ardèche caillette pâté.
+- r-120 position 20 `wikibooks-fr:caïon`: Retain FR: Savoyard pork preparation.
+- r-120 position 21 `wikibooks-fr:caïpirinha`: Retain remove: cachaça/lime cocktail.
+- r-120 position 22 `wikibooks-fr:caju-amigo`: Retain remove: cachaça/cashew-juice cocktail.
+- r-121 position 3 `wikibooks-fr:caldeirada-de-peixe`: Retain PT: Portuguese caldeirada.
+- r-121 position 4 `wikibooks-fr:calimocho`: Retain remove: wine/cola cocktail.
+- r-121 position 5 `wikibooks-fr:calmars-cuits-en-leur-encre`: Retain ES: Spanish/Basque/Catalan squid.
+- r-121 position 6 `wikibooks-fr:canard-à-l-orange`: Retain FR: classic duck à orange.
+- r-121 position 7 `wikibooks-fr:canard-laqué`: Retain CN: Chinese lacquered-duck preparation.
+- r-121 position 8 `wikibooks-fr:canari`: Retain remove: anise/lemon aperitif.
+- r-121 position 9 `wikibooks-fr:canelé-bordelais`: Retain FR: Bordeaux canelé.
+- r-121 position 10 `wikibooks-fr:capéta`: Retain remove: vodka/milk cocktail.
+- r-121 position 11 `wikibooks-fr:caramel-au-beurre-salé`: Retain FR: Breton salted-butter caramel.
+- r-121 position 13 `wikibooks-fr:carbonnade-flamande`: Retain BE/FR: both identified explicitly.
+- r-121 position 14 `wikibooks-fr:carbonnade-flamande-2`: Retain BE/FR; change name to Carbonnade flamande, removing recipe-number suffix.
+- r-121 position 15 `wikibooks-fr:cari-tortue`: Retain FR: Réunion cari tradition.
+- r-121 position 19 `wikibooks-fr:carpe-frite`: Retain FR: Sundgau fried-carp specialty.
+- r-121 position 20 `wikibooks-fr:carrés-de-céréales-de-riz-soufflé-à-la-guimauve`: Retain CA/US: homemade marshmallow rice squares, branded cereal does not make dish packaged.
+- r-121 position 21 `wikibooks-fr:carthagène`: Retain remove: alcoholic grape mistelle.
+- r-121 position 23 `wikibooks-fr:cervelas-lyonnais-pistaché-sauce-chocolat`: Retain FR: Lyon cervelas preparation.
+- r-121 position 24 `wikibooks-fr:cervelle-de-singe`: Retain remove: vodka/cream-liqueur shooter.
+- r-121 position 25 `wikibooks-fr:chai`: Retain remove: infused tea/spice beverage.
+- r-121 position 26 `wikibooks-fr:champagne-cocktail`: Retain remove: champagne cocktail.
+- r-121 position 27 `wikibooks-fr:champagne-julep`: Retain remove: champagne/cognac julep.
+- r-121 position 30 `wikibooks-fr:chana-dal`: Expand IN to IN/PK/BD: shared cooked chana dal, not raw ingredient.
+- r-122 position 1 `wikibooks-fr:charlotte-aux-pommes-et-à-la-cassonade`: Retain FR: ladyfinger-lined apple charlotte.
+- r-122 position 3 `wikibooks-fr:charmout`: Retain TD: explicitly Chadian dried-meat sauce.
+- r-122 position 6 `wikibooks-fr:chicons-au-gratin`: Expand BE to BE/FR: source gives Belgian and French equivalents.
+- r-122 position 7 `wikibooks-fr:chien-enragé`: Retain remove: vodka/Tabasco cocktail.
+- r-122 position 8 `wikibooks-fr:chocolat-chaud`: Retain remove: hot chocolate beverage.
+- r-122 position 9 `wikibooks-fr:chocolat-chaud-à-la-cannelle`: Retain remove: cinnamon hot chocolate beverage.
+- r-122 position 11 `wikibooks-fr:choucroute`: Retain FR/DE: cooked sauerkraut/pork dish.
+- r-122 position 12 `wikibooks-fr:choucroute-pour-4`: Change serving-count title to Choucroute; add FR/DE for same sauerkraut/pork dish.
+- r-122 position 13 `wikibooks-fr:choux-à-la-crème`: Retain FR: filled choux pastry.
+- r-122 position 14 `wikibooks-fr:claclo`: Retain CI: explicitly Ivorian plantain fritters.
+- r-122 position 15 `wikibooks-fr:clafoutis-aux-abricots`: Retain FR: clafoutis variation.
+- r-122 position 16 `wikibooks-fr:columbia`: Retain remove: vodka/juice cocktail.
+- r-122 position 17 `wikibooks-fr:communard`: Retain remove: wine/cassis cocktail.
+- r-122 position 21 `wikibooks-fr:concombres-à-la-cretoise`: Retain GR: Cretan cucumber/feta salad.
+- r-122 position 28 `wikibooks-fr:cookies-aux-pépites-de-chocolat`: Retain US: chocolate-chip cookies; source explicitly identifies US.
+- r-123 position 3 `wikibooks-fr:cornes-de-gazelle`: Expand MA/DZ to MA/DZ/TN: shared gazelle-horn pastries.
+- r-123 position 4 `wikibooks-fr:cornet-de-murat`: Retain FR: Murat Cantal pastry.
+- r-123 position 5 `wikibooks-fr:cornichon`: Retain remove: cocktail despite pickle name.
+- r-123 position 6 `wikibooks-fr:cosmopolitan`: Retain remove: vodka/cranberry cocktails in both supplied sources.
+- r-123 position 7 `wikibooks-fr:couscous`: Add LY to MA/DZ/TN/MR: shared Maghreb couscous.
+- r-123 position 8 `wikibooks-fr:couscous-de-poulet-au-miel`: Retain MA: explicitly Moroccan stuffed honey chicken/couscous.
+- r-123 position 11 `wikibooks-fr:crème-budwig`: Retain DE/CH; replace language-based reason with Budwig/Kousmine preparation association.
+- r-123 position 12 `wikibooks-fr:crème-catalane`: Retain ES/FR: Catalan custard including French Catalan tradition.
+- r-123 position 18 `wikibooks-fr:crème-de-marrons`: Retain FR: Ardèche chestnut spread recipe, not branded product.
+- r-123 position 22 `wikibooks-fr:crêpes-au-homard`: Retain CA: Îles de la Madeleine lobster crêpes.
+- r-123 position 24 `wikibooks-fr:cretons`: Retain CA: Quebec cretons pork spread.
+- r-123 position 26 `wikibooks-fr:cris-d-orgasmes`: Retain remove: liqueur/vodka cocktail.
+- r-124 position 2 `wikibooks-fr:croquettes-de-morue-et-pommes-de-terre`: Expand ES/PT to ES/PT/BR: cod-potato fritter tradition.
+- r-124 position 4 `wikibooks-fr:crostini-à-l-italienne`: Retain IT: crostini.
+- r-124 position 5 `wikibooks-fr:croustade-aux-pommes`: Retain FR: brick/brandy apple croustade matches Gascon pastry despite Canadian category.
+- r-124 position 6 `wikibooks-fr:croûte-aux-champignons`: Expand FR to FR/CH: shared Jura/Romand mushroom croûte.
+- r-124 position 7 `wikibooks-fr:croûte-aux-morilles`: Expand FR to FR/CH: shared morel croûte.
+- r-124 position 10 `wikibooks-fr:cuba-libre`: Retain remove: rum/cola drink in all three raw sources.
+- r-124 position 11 `wikibooks-fr:cuisine-algérienne`: Retain remove: whole cuisine overview/multiple dishes; supplied raw cuts off at6000 characters.
+- r-124 position 12 `wikibooks-fr:cuisses-de-grenouilles-à-l-ail-et-au-persil`: Retain FR: garlic/parsley frog legs.
+- r-124 position 14 `wikibooks-fr:curry-de-poisson-keralais`: Retain IN: specifically Keralan fish curry.
+- r-124 position 15 `wikibooks-fr:curry-japonais`: Retain JP: Japanese curry distinct from its broader Indian ancestry.
+- r-124 position 16 `wikibooks-fr:daiquiri`: Retain remove: rum/lime drink in both sources.
+- r-124 position 17 `wikibooks-fr:dattes-au-chorizo-et-au-bacon`: Retain ES: dates/chorizo tapas.
+- r-124 position 18 `wikibooks-fr:daube-provençale`: Retain FR: explicitly Provençal daube.
+- r-124 position 20 `wikibooks-fr:déguê`: Retain SN/ML/CI/GN: millet/yogurt dessert with those countries in source.
+- r-125 position 2 `wikibooks-fr:djenkoumé2`: Retain TG: explicitly Togolese djenkoumé.
+- r-125 position 4 `wikibooks-fr:djoumgblé`: Retain CI: Ivorian dried-okra sauce recipe, not raw powder page.
+- r-125 position 5 `wikibooks-fr:donut`: Expand US to US/CA: North American doughnut.
+- r-125 position 6 `wikibooks-fr:doré`: Retain remove: diluted yogurt/cucumber Afghan beverage.
+- r-125 position 7 `wikibooks-fr:doux-baisers`: Retain remove: vodka/liqueur drink.
+- r-125 position 8 `wikibooks-fr:dry-martini`: Retain remove: gin/vermouth cocktail.
+- r-125 position 9 `wikibooks-fr:duncan-macleod`: Retain remove: sake/whisky/cola drink.
+- r-125 position 10 `wikibooks-fr:éclade`: Retain FR: Charente/Oléron mussel dish.
+- r-125 position 11 `wikibooks-fr:egg-rolls`: Retain US/CA: Chinese North American egg rolls.
+- r-125 position 12 `wikibooks-fr:embuscade`: Retain remove: beer/calvados cocktail.
+- r-125 position 14 `wikibooks-fr:épinards-à-la-catalane`: Retain ES: Catalan spinach.
+- r-125 position 17 `wikibooks-fr:episcopale`: Retain remove: mixed Chartreuse liqueurs.
+- r-125 position 18 `wikibooks-fr:escalera-al-cielo`: Retain remove: vodka/vermouth cocktail.
+- r-125 position 19 `wikibooks-fr:escalope-de-veau-comtoise`: Retain FR: Comtois veal preparation.
+- r-125 position 21 `wikibooks-fr:escalopes-de-veau-au-munster`: Retain FR: Munster veal preparation.
+- r-125 position 23 `wikibooks-fr:escargot-de-bourgogne`: Retain FR: Burgundy snail recipe; prepared food, not raw species entry.
+- r-125 position 24 `wikibooks-fr:espigalou`: Retain remove: rosé/grapefruit cocktail.
+- r-125 position 25 `wikibooks-fr:fauxmosa`: Retain remove: nonalcoholic soda/juice cocktail.
+- r-125 position 26 `wikibooks-fr:feuille-morte`: Retain remove: anise/syrup cocktail.
+- r-125 position 28 `wikibooks-fr:ficelle-picarde`: Retain FR: Picardy stuffed crêpe.
+- r-125 position 29 `wikibooks-fr:figatells`: Retain ES: Valencian figatells; similar Cypriot dish is not identical.
+- r-125 position 31 `wikibooks-fr:filets-de-porc-au-sirop-d-érable`: Retain CA: explicitly Quebec maple pork.
+- r-125 position 32 `wikibooks-fr:flaming-dr-pepper`: Retain remove: flaming amaretto/beer cocktail.
+- r-125 position 33 `wikibooks-fr:flamusse-bourguignonne`: Retain FR: Burgundy apple pastry.
+- r-126 position 2 `wikibooks-fr:fleischschnacka`: Retain FR: Alsace meat pasta spirals.
+- r-126 position 3 `wikibooks-fr:fleischschnacka-2`: Retain name cleanup and FR: explicitly Alsatian Fleischschnacka.
+- r-126 position 4 `wikibooks-fr:foie-gras-truffé-du-périgord`: Retain FR: prepared Périgord truffled foie-gras conserve.
+- r-126 position 9 `wikibooks-fr:fondue-aux-champignons`: Retain CH: Swiss Gruyère/Vacherin mushroom fondue.
+- r-126 position 11 `wikibooks-fr:fondue-chinoise`: Change: add MN because supplied source explicitly gives disputed Chinese/Mongolian hot-pot origin alongside Swiss and Canadian adaptation.
+- r-126 position 13 `wikibooks-fr:fondue-de-suisse-centrale`: Retain CH: central Swiss cheese fondue.
+- r-126 position 14 `wikibooks-fr:fondue-épicée`: Retain CH: Gruyère caquelon fondue variation; grappa is an ingredient.
+- r-126 position 15 `wikibooks-fr:fondue-fribourgeoise`: Retain CH: Fribourg Vacherin fondue in both language sources.
+- r-126 position 16 `wikibooks-fr:fondue-jurassienne`: Retain FR: Comté and explicit Franche-Comté association.
+- r-126 position 17 `wikibooks-fr:fondue-moitié-moitié`: Retain CH: Swiss Gruyère/Vacherin moitié-moitié fondue.
+- r-126 position 18 `wikibooks-fr:fondue-neuchâteloise`: Retain CH: Neuchâtel Swiss fondue.
+- r-126 position 19 `wikibooks-fr:fondue-normande`: Retain FR: Normandy cheeses and Norman fondue.
+- r-126 position 20 `wikibooks-fr:fondue-savoyarde`: Retain FR/CH: source states Swiss ancestry and Savoy adoption.
+- r-126 position 21 `wikibooks-fr:fondue-vaudoise`: Retain CH: Vaud fondue with Vaud wine.
+- r-126 position 22 `wikibooks-fr:forêt-noire`: Retain DE: Black Forest cake explicitly German.
+- r-126 position 23 `wikibooks-fr:fouace-aveyron`: Retain FR: named Aveyron bread.
+- r-127 position 1 `wikibooks-fr:foufou-sauce-claire`: Retain CI: source identifies this Adjoukrou clear-sauce dish specifically.
+- r-127 position 2 `wikibooks-fr:fougasse-d-aigues-mortes`: Retain FR: Aigues-Mortes orange-blossom fougasse.
+- r-127 position 4 `wikibooks-fr:freddie-bartholomew`: Retain remove: ginger-ale and lemon-syrup cocktail.
+- r-127 position 5 `wikibooks-fr:frejus`: Retain remove: anise liqueur cocktail.
+- r-127 position 6 `wikibooks-fr:french-connection`: Retain remove: cognac/amaretto cocktail.
+- r-127 position 7 `wikibooks-fr:frisée-au-comté-et-jambon-de-pays`: Retain FR: explicit Franche-Comté salad; assembly repair matches raw.
+- r-127 position 9 `wikibooks-fr:frites-de-cantal`: Retain FR: named Cantal fried-cheese preparation, explicit French cuisine.
+- r-127 position 11 `wikibooks-fr:gâche-de-vendée`: Retain FR: source explicitly Vendée brioche.
+- r-127 position 12 `wikibooks-fr:galaktoboúreko`: Retain GR/CY: shared Greek and Cypriot custard pastry.
+- r-127 position 13 `wikibooks-fr:galaretka-z-drobiu`: Retain PL: source explicitly Polish poultry aspic.
+- r-127 position 14 `wikibooks-fr:galette-au-beurre-et-au-sucre`: Retain FR: source locates butter-sugar galette in northern/eastern France.
+- r-127 position 17 `wikibooks-fr:galette-des-rois-et-des-reines`: Change: expand shared Epiphany puff-pastry galette to BE/CH/CA alongside FR.
+- r-127 position 19 `wikibooks-fr:galette-facile-des-rois-et-des-reines`: Change: same shared Epiphany galette expansion; raw method repair matches.
+- r-127 position 31 `wikibooks-fr:gardiane`: Retain FR: Camargue bull stew explicitly southern French.
+- r-127 position 32 `wikibooks-fr:gaspacho`: Retain ES/PT: raw describes Spanish and Portuguese soup; despite beverage wording this is prepared soup.
+- r-127 position 33 `wikibooks-fr:gaspacho-andalou`: Retain ES: specifically Andalusian soup, served in soup plates.
+- r-128 position 1 `wikibooks-fr:gaspacho-andalou-variante-2`: Change: add PT explicitly stated in original source, alongside ES.
+- r-128 position 2 `wikibooks-fr:gaspacho-manchois`: Retain ES: La Mancha/Valencia meat-and-flatbread stew.
+- r-128 position 3 `wikibooks-fr:gaspacho-manchois-aux-fruits-de-mer`: Retain ES: source explicitly Spanish seafood adaptation.
+- r-128 position 7 `wikibooks-fr:gâteau-au-fromage-à-la-mode-d-obwald`: Retain CH: source explicitly central Swiss Obwalden cheese tart.
+- r-128 position 8 `wikibooks-fr:gâteau-au-vin-blanc`: Retain FR: source explicitly Aquitaine wine cake.
+- r-128 position 11 `wikibooks-fr:gâteau-aux-biscuits-roses`: Retain FR: named Reims pink-biscuit cake.
+- r-128 position 16 `wikibooks-fr:gâteau-aux-trois-laits`: Change: add CO explicitly identified by source, and VE/PE/CL common South American ties; retain MX/NI/CR.
+- r-128 position 17 `wikibooks-fr:gâteau-charentais`: Retain FR: Charente-Maritime cake; brand alias does not make generic cake a brand.
+- r-128 position 18 `wikibooks-fr:gâteau-creusois`: Retain FR: Creuse/Limousin hazelnut cake.
+- r-128 position 23 `wikibooks-fr:gâteau-de-pommes-de-terre`: Retain FR: Limousin potato-and-pork pastry.
+- r-128 position 25 `wikibooks-fr:gâteau-des-rois`: Retain FR: specifically Provençal brioche kings cake.
+- r-129 position 2 `wikibooks-fr:gató-de-minorque`: Retain ES: Menorcan almond cake explicitly Spanish.
+- r-129 position 4 `wikibooks-fr:gdf`: Retain remove: flambéed rum-coffee liqueur cocktail.
+- r-129 position 7 `wikibooks-fr:ghoribas-aux-amandes`: Retain MA: specifically named Moroccan almond ghoriba variant.
+- r-129 position 8 `wikibooks-fr:ghribia`: Change: add MA/TN/LY to generic Ghribia; original explicitly calls it shared Maghrebi pastry.
+- r-129 position 9 `wikibooks-fr:gibson`: Retain remove: gin-vermouth Gibson cocktail.
+- r-129 position 10 `wikibooks-fr:gimblette`: Retain FR: Albi/Tarn/Aveyron poached and baked anise biscuit.
+- r-129 position 11 `wikibooks-fr:gin-fizz`: Retain remove: gin, lemon and soda drink.
+- r-129 position 12 `wikibooks-fr:gin-tonic`: Retain remove: gin-tonic highball.
+- r-129 position 19 `wikibooks-fr:god-father`: Retain remove: whisky-amaretto short drink.
+- r-129 position 20 `wikibooks-fr:golabkis`: Retain PL: Polish named stuffed cabbage gołąbki.
+- r-129 position 21 `wikibooks-fr:goma-dare`: Retain JP: sesame dipping sauce explicitly Japanese; prepared sauce stays.
+- r-129 position 22 `wikibooks-fr:gosettes-aux-pommes`: Retain BE: Namur/Wallonia apple turnovers.
+- r-129 position 23 `wikibooks-fr:goyère`: Retain FR: Valenciennes Maroilles tart.
+- r-129 position 30 `wikibooks-fr:gratin-de-pâtes-et-viande-hachée`: Retain DE: source explicitly Brandenburg pasta-meat bake.
+- r-130 position 4 `wikibooks-fr:green-chaud`: Retain remove: Chartreuse hot chocolate cocktail.
+- r-130 position 5 `wikibooks-fr:grog`: Retain remove: hot rum-water drink.
+- r-130 position 6 `wikibooks-fr:gui-n`: Retain CI: center-west Ivorian cooked squash/palm preparation.
+- r-130 position 8 `wikibooks-fr:gulabjaman`: Retain IN/PK/BD/NP: shared South Asian gulab jamun.
+- r-130 position 12 `wikibooks-fr:hard-lemon`: Retain remove: limoncello-orange soda highball.
+- r-130 position 14 `wikibooks-fr:harvey-wallbanger`: Retain remove: both French and Hungarian entries are vodka/Galliano drinks.
+- r-130 position 15 `wikibooks-fr:horse-s-neck`: Retain remove: calvados ginger-ale cocktail.
+- r-130 position 16 `wikibooks-fr:hydromel`: Retain remove: fermented honey alcoholic beverage.
+- r-130 position 17 `wikibooks-fr:hypocras`: Retain remove: spiced wine drink despite optional sauce use.
+- r-130 position 19 `wikibooks-fr:irish-car-bomb`: Retain remove: stout/whisky bomb drink.
+- r-130 position 20 `wikibooks-fr:irish-coffee`: Retain remove: whisky-coffee hot drink.
+- r-130 position 21 `wikibooks-fr:jack-rose`: Retain remove: calvados-lemon short drink.
+- r-130 position 22 `wikibooks-fr:jacqueline`: Retain remove: white-wine/vodka/lemonade cocktail.
+- r-130 position 23 `wikibooks-fr:jägerbomb`: Retain remove: Jägermeister-energy drink; brand ingredients are not the deciding issue.
+- r-130 position 24 `wikibooks-fr:jen-ta-fo`: Retain TH: specifically Thai red-tofu noodle dish, source method poor but matches.
+- r-130 position 25 `wikibooks-fr:julienne-de-concombre-mangue-et-papaye`: Retain PF: source explicitly Tahitian dressed fruit/vegetable salad, a prepared dish.
+- r-130 position 26 `wikibooks-fr:jus-de-tamarin`: Retain remove: sweetened tamarind juice beverage.
+- r-130 position 27 `wikibooks-fr:karaboudjan`: Retain remove: hot cognac/coffee/whisky cream cocktail.
+- r-130 position 28 `wikibooks-fr:kebbé-nayé`: Retain SY/LB: raw meat mixed with bulgur, onion and seasoning is prepared kibbeh nayyeh, not raw ingredient.
+- r-130 position 29 `wikibooks-fr:kédjénou-d-escargots`: Retain CI: Baoulé snail kedjenou, repaired split line matches raw.
+- r-130 position 30 `wikibooks-fr:kefir`: Retain remove: water-kefir drink recipe.
+- r-130 position 31 `wikibooks-fr:kéfir-de-fruits`: Retain remove: fermented fruit-kefir beverage.
+- r-130 position 32 `wikibooks-fr:khao-niao-mamuang`: Retain TH: specifically Thai mango sticky-rice dessert.
+- r-130 position 33 `wikibooks-fr:khao-soy`: Retain MM/TH: source explicitly Burmese origin and Chiang Mai preparation.
+- r-130 position 34 `wikibooks-fr:khinkali`: Retain GE: named Georgian pleated meat dumpling.
+- r-130 position 35 `wikibooks-fr:kibbé`: Change: add PS/JO/IQ/TR to shared filled fried kibbeh; Lebanese source is not exclusive dish origin.
+- r-130 position 36 `wikibooks-fr:kir-royal`: Retain remove: cassis-champagne cocktail.
+- r-131 position 1 `wikibooks-fr:kluski`: Retain PL: source explicitly Polish potato dumplings; original raw also supports spoon repair.
+- r-131 position 2 `wikibooks-fr:kluski-na-parze`: Retain PL: both source recipes describe Polish steamed yeast dumplings.
+- r-131 position 3 `wikibooks-fr:kouglof`: Retain FR/DE/AT/CH: shared kouglof/Gugelhupf cake.
+- r-131 position 4 `wikibooks-fr:kplé-baha`: Retain CI: western Ivorian Guéré sauce with cassava foutou.
+- r-131 position 5 `wikibooks-fr:kwacé-à-la-sauce-dolikpo`: Retain CI: explicitly Gban taro/plantain dish with leaf sauce.
+- r-131 position 6 `wikibooks-fr:lacquemant`: Retain BE: Liège syrup-filled wafer; historical employer name does not turn dish into brand.
+- r-131 position 7 `wikibooks-fr:lait-bière`: Retain remove: beer-milk drink.
+- r-131 position 8 `wikibooks-fr:lait-de-poule`: Retain remove: hot egg-and-milk beverage, not custard dessert.
+- r-131 position 9 `wikibooks-fr:lait-de-soja`: Retain remove: soy milk explicitly made as beverage; use as ingredient does not create dish.
+- r-131 position 10 `wikibooks-fr:lannmaderlo`: Retain remove: anise/mint liqueur drink.
+- r-131 position 11 `wikibooks-fr:lap`: Retain LA/TH: shared Lao/Isan seasoned minced-meat dish.
+- r-131 position 12 `wikibooks-fr:lapin-en-terrine`: Retain FR: rabbit terrine prepared with wine and pork; French terrine association fits dish.
+- r-131 position 13 `wikibooks-fr:lasagnes-au-bœuf-haché`: Retain IT: layered bolognese lasagne; Beaufort alternative does not assign France.
+- r-131 position 14 `wikibooks-fr:lasagnes-au-tofu`: Retain IT: tofu lasagne adaptation retains named lasagne culinary identity.
+- r-131 position 15 `wikibooks-fr:lasagnes-faciles`: Retain IT: tomato-meat lasagne, explicitly Italian; repaired method matches raw.
+- r-131 position 16 `wikibooks-fr:le-potjevleesch`: Retain FR/BE: shared French/Flemish jellied meat dish; source specifically Dunkirk.
+- r-131 position 17 `wikibooks-fr:leite-de-onça`: Retain remove: cachaça/cocoa milk cocktail.
+- r-131 position 21 `wikibooks-fr:limonade-au-citron`: Retain remove: fermented lemon beverage.
+- r-131 position 22 `wikibooks-fr:limonade-au-citron-vert`: Retain remove: citrus-water lemonade.
+- r-131 position 23 `wikibooks-fr:limonade-au-sureau`: Retain remove: fermented elderflower lemonade; both supplied methods read.
+- r-131 position 24 `wikibooks-fr:limonade-recette-américaine`: Retain remove: still sweetened lemon drink, including variant.
+- r-131 position 25 `wikibooks-fr:liqueur-de-myrte`: Retain remove: alcoholic myrtle maceration liqueur.
+
+Final assigned scope: r-120 through r-131 complete, 211 originally flagged targets read against actual top-level original batch inputs. r-132 through r-134 reassigned to another worker and are not claimed here. No remove reversal was needed. All supplied raw text was read, including its existing 6000-character truncation where present.

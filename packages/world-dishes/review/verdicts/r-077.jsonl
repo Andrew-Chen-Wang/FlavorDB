@@ -3,7 +3,7 @@
 {"id":"wikibooks-de:hirsebrei","verdict":"keep","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Hirsebrei","status":"ok"}]}
 {"id":"wikibooks-de:hokkaidokürbis-suppe","verdict":"keep","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Hokkaidok%C3%BCrbis-Suppe","status":"ok"}]}
 {"id":"wikibooks-de:holunderbeersuppe","verdict":"keep","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Holunderbeersuppe","status":"ok"}]}
-{"id":"wikibooks-de:holunderblütensirup","verdict":"remove","reason":"drink concentrate (elderflower syrup made to dilute into a drink)"}
+{"id":"wikibooks-de:holunderblütensirup","verdict":"keep","reason":"Prepared elderflower syrup also explicitly used to sweeten salad marinades; retain as a condiment rather than treating every syrup as a drink.","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Holunderbl%C3%BCtensirup","status":"ok"}]}
 {"id":"wikibooks-de:holundersekt","verdict":"remove","reason":"drink (elderflower sparkling drink)"}
 {"id":"wikibooks-de:hörnchennudeln-mit-letcho-und-mais","verdict":"keep","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_H%C3%B6rnchennudeln_mit_Letcho_und_Mais","status":"ok"}]}
 {"id":"wikibooks-de:huhn-mit-knoblauch-und-chili","verdict":"keep","countries":["IT"],"reason":"added IT; Calabrian dish","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Huhn_mit_Knoblauch_und_Chili","status":"ok"}]}

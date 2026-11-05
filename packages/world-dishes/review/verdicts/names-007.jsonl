@@ -1,5 +1,5 @@
 {"id":"Q108788274","verdict":"remove","reason":"restaurant-specific menu item (Nachos at Maya)"}
-{"id":"Q108794171","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean dish"}
+{"id":"Q108794171","verdict":"keep","countries":["KR","KP"],"reason":"Seonji-guk is a shared Korean blood soup associated with both Koreas."}
 {"id":"Q108794274","verdict":"keep","countries":["CN"],"reason":"countries empty; Chinese-origin dish"}
 {"id":"Q108794306","verdict":"keep"}
 {"id":"Q108794909","verdict":"keep","countries":["AT","CZ"],"reason":"Topfenknoedel is Austrian; added AT"}
@@ -22,7 +22,7 @@
 {"id":"Q108919208","verdict":"keep","countries":["MY","ID"],"reason":"countries empty; Penang/Indonesian Chinese dish"}
 {"id":"Q10892132","verdict":"keep","countries":["TW"],"reason":"Second opinion: eight-treasure glass noodles are associated with Yilan, Taiwan."}
 {"id":"Q10892305","verdict":"keep"}
-{"id":"Q108929231","verdict":"keep","countries":["CN"],"reason":"countries empty; Chinese fermented bean paste"}
+{"id":"Q108929231","verdict":"keep","countries":["CN","TH","ID"],"reason":"Taochiao is a Chinese-derived fermented soybean condiment associated with Thai and Indonesian cooking as well."}
 {"id":"Q108937158","verdict":"keep","countries":["PE"],"reason":"countries empty; Peruvian dish"}
 {"id":"Q10894961","verdict":"keep"}
 {"id":"Q10895227","verdict":"keep","countries":["CN"],"reason":"countries empty; Chinese soup"}
@@ -41,21 +41,21 @@
 {"id":"Q108962283","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
 {"id":"Q108962285","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
 {"id":"Q108962288","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech dumpling"}
-{"id":"Q108962291","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
+{"id":"Q108962291","verdict":"keep","countries":["PL","CZ","AT","DE"],"reason":"Potato knedle are shared Central European dumplings, associated with Poland, Czechia, Austria and Germany."}
 {"id":"Q108962295","verdict":"keep","countries":["DE"],"reason":"countries empty; Saxon dumplings"}
 {"id":"Q108962297","verdict":"keep","countries":["DE"],"reason":"countries empty; Thuringian dumplings"}
-{"id":"Q108962300","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
-{"id":"Q108962303","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
-{"id":"Q108962306","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
-{"id":"Q108962309","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
-{"id":"Q108962311","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
-{"id":"Q108962313","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
-{"id":"Q108962316","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
-{"id":"Q108962319","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
-{"id":"Q108962322","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
-{"id":"Q108962326","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
-{"id":"Q108962329","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
-{"id":"Q108962332","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
+{"id":"Q108962300","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
+{"id":"Q108962303","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
+{"id":"Q108962306","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
+{"id":"Q108962309","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
+{"id":"Q108962311","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
+{"id":"Q108962313","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
+{"id":"Q108962316","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
+{"id":"Q108962319","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
+{"id":"Q108962322","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
+{"id":"Q108962326","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
+{"id":"Q108962329","verdict":"keep","countries":["PL","UA"],"reason":"Potato pierogi are closely associated with Polish and Ukrainian cuisines."}
+{"id":"Q108962332","verdict":"keep","countries":["PL","UA"],"reason":"Potato-filled pierogi are closely associated with Polish and Ukrainian cuisines."}
 {"id":"Q108962335","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
 {"id":"Q108962339","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
 {"id":"Q108962342","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
@@ -69,10 +69,10 @@
 {"id":"Q108962365","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
 {"id":"Q10896709","verdict":"keep"}
 {"id":"Q108971756","verdict":"keep","countries":["IT"],"reason":"countries empty; Italian gnocchi"}
-{"id":"Q108971759","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
+{"id":"Q108971759","verdict":"keep","countries":["PL","BY","LT"],"reason":"Potato babka is shared by Polish, Belarusian and Lithuanian cuisines."}
 {"id":"Q108971762","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
 {"id":"Q108971768","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
-{"id":"Q108971771","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish-Jewish dish"}
+{"id":"Q108971771","verdict":"keep","countries":["PL","UA","FI","DE"],"reason":"Forshmak has established Polish, Ukrainian, Finnish and German associations."}
 {"id":"Q108971774","verdict":"keep","countries":["FR"],"reason":"countries empty; Lyonnaise potatoes"}
 {"id":"Q108971777","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
 {"id":"Q108971780","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
@@ -119,7 +119,7 @@
 {"id":"Q109038040","verdict":"keep"}
 {"id":"Q109038189","verdict":"keep"}
 {"id":"Q109038487","verdict":"keep","countries":["FR"],"reason":"countries empty; French buckwheat porridge"}
-{"id":"Q109038648","verdict":"keep","countries":["FR"],"reason":"countries empty; French bean dish"}
+{"id":"Q109038648","verdict":"remove","reason":"Haricot de Soissons is a named bean variety, a raw ingredient with no recipe here."}
 {"id":"Q109039280","verdict":"keep"}
 {"id":"Q109039736","verdict":"keep"}
 {"id":"Q109040741","verdict":"keep"}
@@ -198,12 +198,12 @@
 {"id":"Q10921730","verdict":"keep"}
 {"id":"Q109218875","verdict":"keep"}
 {"id":"Q109236402","verdict":"keep"}
-{"id":"Q10925229","verdict":"keep","countries":["CN"],"reason":"countries empty; Chinese soup"}
+{"id":"Q10925229","verdict":"keep","countries":["CN","TW"],"reason":"Four-herb soup is associated with Chinese and Taiwanese cuisines."}
 {"id":"Q109259132","verdict":"remove","reason":"rose flower variety (Taif), not a dish"}
 {"id":"Q109260442","verdict":"keep"}
 {"id":"Q1092662","verdict":"keep"}
 {"id":"Q1092712","verdict":"keep"}
-{"id":"Q109286869","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean kimchi"}
+{"id":"Q109286869","verdict":"keep","countries":["KR","KP"],"reason":"Radish kimchi is shared by both Koreas."}
 {"id":"Q109289372","verdict":"remove","reason":"restaurant-specific menu item (Harmony Lunch)"}
 {"id":"Q109302295","verdict":"keep","countries":["OM"],"reason":"countries empty; Omani dish"}
 {"id":"Q109310930","verdict":"keep","countries":["CU","ES"],"reason":"Second opinion: preserve the original Spanish association as well as the Cuban one."}
@@ -236,7 +236,7 @@
 {"id":"Q109342955","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese kakigori"}
 {"id":"Q109344166","verdict":"keep","countries":["CN"],"reason":"countries empty; Northeastern Chinese dish"}
 {"id":"Q109346137","verdict":"keep"}
-{"id":"Q109347773","verdict":"keep","countries":["CN"],"reason":"countries empty; Chinese mooncake"}
+{"id":"Q109347773","verdict":"keep","countries":["CN","HK"],"reason":"Ice-cream mooncakes are associated with mainland Chinese and Hong Kong food culture."}
 {"id":"Q109350330","verdict":"keep"}
 {"id":"Q109353074","verdict":"keep"}
 {"id":"Q109357016","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese wagashi"}

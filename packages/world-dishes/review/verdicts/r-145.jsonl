@@ -7,7 +7,7 @@
 {"id":"wikibooks-fr:spaghetti-au-jambon-de-parme","verdict":"keep","countries":["IT"],"reason":"countries were empty; spaghetti with Parma ham is an Italian-style dish","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSpaghetti_au_jambon_de_Parme","status":"ok"}]}
 {"id":"wikibooks-fr:spaghettis-au-basilic","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSpaghettis_au_basilic","status":"ok"}]}
 {"id":"wikibooks-fr:spaghettis-aux-fruits-de-mer","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSpaghettis_aux_fruits_de_mer","status":"ok"}]}
-{"id":"wikibooks-fr:spéculoos","verdict":"keep","countries":["BE","NL"],"reason":"countries were empty; speculoos is a Belgian and Dutch biscuit","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSp%C3%A9culoos","status":"ok"}]}
+{"id":"wikibooks-fr:spéculoos","verdict":"keep","countries":["BE","NL","FR"],"reason":"Belgian and Dutch biscuit also traditionally associated with northern France, explicitly described by the source.","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSp%C3%A9culoos","status":"ok"}]}
 {"id":"wikibooks-fr:spritz","verdict":"remove","reason":"alcoholic cocktail (drink)"}
 {"id":"wikibooks-fr:stinger","verdict":"remove","reason":"alcoholic cocktail (drink)"}
 {"id":"wikibooks-fr:strawberry-martini","verdict":"remove","reason":"alcoholic cocktail (drink)"}

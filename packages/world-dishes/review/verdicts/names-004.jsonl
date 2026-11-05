@@ -12,7 +12,7 @@
 {"id":"Q106981872","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q106981884","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q106981894","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
-{"id":"Q10698666","verdict":"keep","countries":["SE"],"reason":"Swedish dish; country added"}
+{"id":"Q10698666","verdict":"keep","reason":"Retain the soup, but its Swedish name alone does not establish a country."}
 {"id":"Q106986849","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q10698918","verdict":"keep","countries":["SE"],"reason":"Swedish pastry; country added"}
 {"id":"Q10698992","verdict":"keep"}
@@ -90,8 +90,8 @@
 {"id":"Q10715213","verdict":"keep","countries":["SE"],"reason":"Swedish crispbread; country added"}
 {"id":"Q107158482","verdict":"keep"}
 {"id":"Q1071614","verdict":"keep"}
-{"id":"Q10716336","verdict":"keep","countries":["NO"],"reason":"Norwegian dish; country added"}
-{"id":"Q1071699","verdict":"keep","countries":["KR"],"reason":"Korean hot pot; country added"}
+{"id":"Q10716336","verdict":"keep","reason":"Garlic pickled herring is a prepared food shared across Nordic cuisines; the Norwegian label alone is not a country basis."}
+{"id":"Q1071699","verdict":"keep","countries":["KR","KP"],"reason":"Jeongol is a shared Korean hot-pot preparation associated with both Koreas."}
 {"id":"Q107174355","verdict":"keep","countries":["HR"],"reason":"Dalmatian fish stew; country added"}
 {"id":"Q107175849","verdict":"keep"}
 {"id":"Q1071808","verdict":"keep"}
@@ -99,7 +99,7 @@
 {"id":"Q107203521","verdict":"keep"}
 {"id":"Q107204227","verdict":"keep","countries":["FI"],"reason":"Finnish sausage; country added"}
 {"id":"Q1072093","verdict":"keep"}
-{"id":"Q107213541","verdict":"keep","countries":["DE"],"reason":"German bread roll; country added"}
+{"id":"Q107213541","verdict":"keep","reason":"Wholegrain rolls are a prepared food; the German label alone does not establish German origin."}
 {"id":"Q1072190","verdict":"keep"}
 {"id":"Q10722961","verdict":"keep"}
 {"id":"Q10723494","verdict":"keep"}
@@ -186,8 +186,8 @@
 {"id":"Q107304125","verdict":"keep"}
 {"id":"Q107304811","verdict":"keep","countries":["GB"],"reason":"English dish; country added"}
 {"id":"Q107308168","verdict":"keep"}
-{"id":"Q1073115","verdict":"keep","countries":["KR"],"reason":"Korean dessert; country added"}
-{"id":"Q1073156","verdict":"keep","countries":["KR"],"reason":"Korean kimchi; country added"}
+{"id":"Q1073115","verdict":"keep","countries":["KR","KP"],"reason":"Dasik is shared Korean traditional confectionery associated with both Koreas."}
+{"id":"Q1073156","verdict":"keep","countries":["KR","KP"],"reason":"White kimchi is associated with both Koreas."}
 {"id":"Q1073174","verdict":"keep","reason":"second opinion: jeotgal is prepared salted and fermented seafood, retained under the prepared-food rule"}
 {"id":"Q107323860","verdict":"keep"}
 {"id":"Q107328806","verdict":"keep"}
@@ -279,8 +279,8 @@
 {"id":"Q10752894","verdict":"keep"}
 {"id":"Q107529419","verdict":"keep"}
 {"id":"Q10753530","verdict":"keep"}
-{"id":"Q1075430","verdict":"keep","countries":["KR"],"reason":"Korean soup; country added"}
-{"id":"Q1075614","verdict":"remove","reason":"brand product (Orion Choco Pie), packaged snack"}
+{"id":"Q1075430","verdict":"keep","countries":["KR","KP"],"reason":"Gomguk is a shared Korean beef soup associated with both Koreas."}
+{"id":"Q1075614","verdict":"keep","countries":["KR"],"reason":"The entry names the generic choco-pie snack cake, not a particular maker or branded product."}
 {"id":"Q107569320","verdict":"keep","countries":["ID"],"reason":"Indonesian gulai; country added"}
 {"id":"Q107586753","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107586963","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
@@ -288,7 +288,7 @@
 {"id":"Q107598863","verdict":"remove","reason":"supermarket sales promotion (meal bundle), not a dish"}
 {"id":"Q107610602","verdict":"keep","countries":["FR"],"reason":"French egg dish; country added"}
 {"id":"Q107612492","verdict":"keep","countries":["JP"],"reason":"Japanese yoshoku dish; country added"}
-{"id":"Q107625293","verdict":"keep","countries":["DE"],"reason":"German dish; country added"}
+{"id":"Q107625293","verdict":"keep","reason":"Stuffed kohlrabi is a prepared dish shared across Central Europe; its German name does not establish a uniquely German association."}
 {"id":"Q107636161","verdict":"keep"}
 {"id":"Q107638016","verdict":"keep"}
 {"id":"Q107639054","verdict":"keep"}

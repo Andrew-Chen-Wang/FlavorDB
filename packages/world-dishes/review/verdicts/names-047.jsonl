@@ -73,7 +73,7 @@
 {"id":"Q56322334","verdict":"keep","countries":["AL"],"reason":"Albanian dish; countries were empty"}
 {"id":"Q56324405","verdict":"remove","reason":"branded candy (Charms)"}
 {"id":"Q56324986","verdict":"keep","countries":["KR"],"reason":"Korean jeok; countries were empty"}
-{"id":"Q56345506","verdict":"keep","countries":["GB"],"reason":"Northern Irish breakfast; countries were empty"}
+{"id":"Q56345506","verdict":"keep","countries":["GB","IE"],"reason":"Ulster fry is shared across Northern Ireland and the Republic of Ireland."}
 {"id":"Q56345566","verdict":"keep"}
 {"id":"Q56346661","verdict":"keep"}
 {"id":"Q56346680","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
@@ -107,7 +107,7 @@
 {"id":"Q56399237","verdict":"keep"}
 {"id":"Q56402878","verdict":"keep"}
 {"id":"Q56408977","verdict":"keep","countries":["HR"],"reason":"Dalmatian pršut; countries were empty"}
-{"id":"Q56411177","verdict":"keep","countries":["RU"],"reason":"Soviet ice cream (plombir); FR was wrong"}
+{"id":"Q56411177","verdict":"keep","countries":["RU","UA","BY"],"reason":"Plombir is shared by Russian, Ukrainian and Belarusian food traditions; French metadata was misleading."}
 {"id":"Q56411494","verdict":"keep"}
 {"id":"Q56411796","verdict":"keep","countries":["ID"],"reason":"Indonesian soto; countries were empty"}
 {"id":"Q56412603","verdict":"keep"}
@@ -148,7 +148,7 @@
 {"id":"Q5653655","verdict":"keep"}
 {"id":"Q5655520","verdict":"keep"}
 {"id":"Q56559327","verdict":"keep","countries":["US"],"reason":"Baltimore pit beef; countries were empty"}
-{"id":"Q5656299","verdict":"keep","countries":["BD","IN"],"reason":"Bengali sweet; countries were empty"}
+{"id":"Q5656299","verdict":"keep","countries":["BD","IN","PK"],"reason":"Ras malai is commonly associated with Bangladesh, India and Pakistan."}
 {"id":"Q5656392","verdict":"keep"}
 {"id":"Q5656583","verdict":"keep"}
 {"id":"Q5656677","verdict":"keep","countries":["MX"],"reason":"Mexican candy; countries were empty"}

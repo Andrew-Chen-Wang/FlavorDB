@@ -1,4 +1,4 @@
-{"id":"Q83566646","verdict":"remove","reason":"branded confection (Chat Noir)"}
+{"id":"Q83566646","verdict":"keep","reason":"Name-only entry identifies a Western confection, with no evidence it is a branded product; retain plausible food."}
 {"id":"Q835895","verdict":"keep"}
 {"id":"Q83603766","verdict":"keep"}
 {"id":"Q83613130","verdict":"keep"}
@@ -234,14 +234,14 @@
 {"id":"Q8727818","verdict":"keep"}
 {"id":"Q872869","verdict":"keep"}
 {"id":"Q872939","verdict":"keep"}
-{"id":"Q8729741","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese candy"}
+{"id":"Q8729741","verdict":"keep","countries":["JP","US"],"reason":"Chocolate-covered bananas have Japanese and American culinary traditions."}
 {"id":"Q87316441","verdict":"keep"}
 {"id":"Q873336","verdict":"keep"}
 {"id":"Q87340113","verdict":"keep"}
 {"id":"Q873699","verdict":"keep"}
 {"id":"Q87408425","verdict":"keep","countries":["CZ"],"reason":"countries were empty; Czech confection"}
 {"id":"Q874397","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese sushi"}
-{"id":"Q874626","verdict":"keep","countries":["DE"],"reason":"countries were empty; Schleswig-Holstein dish"}
+{"id":"Q874626","verdict":"keep","countries":["DE","DK"],"reason":"Snysk is associated with Schleswig and Southern Jutland on both sides of the German-Danish border."}
 {"id":"Q87482943","verdict":"keep"}
 {"id":"Q875287","verdict":"keep"}
 {"id":"Q875363","verdict":"keep"}
@@ -249,7 +249,7 @@
 {"id":"Q876150","verdict":"keep","countries":["CZ"],"reason":"countries were empty; Czech dish"}
 {"id":"Q87628536","verdict":"keep"}
 {"id":"Q876624","verdict":"keep"}
-{"id":"Q876740","verdict":"keep","countries":["IT"],"reason":"countries were empty; South Tyrol pasta"}
+{"id":"Q876740","verdict":"keep","countries":["IT","AT"],"reason":"Schlutzkrapfen belongs to South Tyrolean and Austrian Tyrolean traditions."}
 {"id":"Q876781","verdict":"keep"}
 {"id":"Q876814","verdict":"keep"}
 {"id":"Q876823","verdict":"keep"}

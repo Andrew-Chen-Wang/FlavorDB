@@ -42,7 +42,7 @@
 {"id":"Q6541482","verdict":"keep"}
 {"id":"Q65418429","verdict":"keep"}
 {"id":"Q65430396","verdict":"keep"}
-{"id":"Q65433497","verdict":"remove","reason":"drink (frappe), not a dish"}
+{"id":"Q65433497","verdict":"keep","reason":"Frappe can denote a Corsican fried pastry; this sparse dish entry does not establish a beverage."}
 {"id":"Q65446427","verdict":"keep"}
 {"id":"Q65449083","verdict":"keep"}
 {"id":"Q65449108","verdict":"keep"}
@@ -171,7 +171,7 @@
 {"id":"Q6748129","verdict":"keep"}
 {"id":"Q6748208","verdict":"keep"}
 {"id":"Q6748240","verdict":"keep"}
-{"id":"Q674980","verdict":"keep","countries":["CH"],"reason":"Swiss confection; countries were empty"}
+{"id":"Q674980","verdict":"remove","reason":"Luxemburgerli is Sprüngli’s branded macaron product."}
 {"id":"Q6750304","verdict":"keep"}
 {"id":"Q6750905","verdict":"keep"}
 {"id":"Q6752009","verdict":"keep"}
@@ -273,7 +273,7 @@
 {"id":"Q6863335","verdict":"keep"}
 {"id":"Q686427","verdict":"keep","countries":["DE"],"reason":"German dish; countries were empty"}
 {"id":"Q6868659","verdict":"keep"}
-{"id":"Q6869576","verdict":"keep","countries":["US"],"reason":"American ice cream flavor; countries were empty"}
+{"id":"Q6869576","verdict":"keep","countries":["GB","US"],"reason":"Mint chocolate chip ice cream is associated with British and American ice cream traditions."}
 {"id":"Q68704387","verdict":"keep"}
 {"id":"Q6874747","verdict":"keep"}
 {"id":"Q687579","verdict":"keep"}

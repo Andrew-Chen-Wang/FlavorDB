@@ -169,7 +169,7 @@
 {"id":"Q79148257","verdict":"keep","countries":["GB"],"reason":"countries were empty; English cheese"}
 {"id":"Q791790","verdict":"keep","reason":"Second opinion: fricassee is an identifiable prepared ragout as well as a cooking method"}
 {"id":"Q7918342","verdict":"keep"}
-{"id":"Q7918345","verdict":"remove","reason":"category (vegetable dishes), not one dish"}
+{"id":"Q7918345","verdict":"keep","reason":"Tarkari denotes a prepared vegetable curry; retain plausible named preparation rather than reject only for variation."}
 {"id":"Q7919751","verdict":"keep"}
 {"id":"Q792104","verdict":"keep","countries":["HU"],"reason":"countries were empty; Hungarian pastry"}
 {"id":"Q7928372","verdict":"keep","countries":["GB"],"reason":"countries were empty; British biscuit"}
@@ -196,7 +196,7 @@
 {"id":"Q80262234","verdict":"remove","reason":"named theme-park restaurant menu item (branded)"}
 {"id":"Q8031737","verdict":"remove","reason":"branded bread (Wonder Bread)"}
 {"id":"Q8039094","verdict":"keep","countries":["CN"],"reason":"countries were empty; Wuhan dish"}
-{"id":"Q8040160","verdict":"remove","reason":"packaged branded chicken product"}
+{"id":"Q8040160","verdict":"keep","reason":"Wyngz is a generic name for prepared wing-shaped chicken bites, not itself an identified brand."}
 {"id":"Q8042825","verdict":"keep"}
 {"id":"Q8044057","verdict":"keep"}
 {"id":"Q804411","verdict":"keep"}
@@ -222,7 +222,7 @@
 {"id":"Q8066663","verdict":"keep"}
 {"id":"Q806839","verdict":"keep"}
 {"id":"Q8068822","verdict":"keep","countries":["MK","AL"],"reason":"Balkan savory pie; TR was not supported"}
-{"id":"Q806901","verdict":"keep","countries":["GB"],"reason":"countries were empty; Scottish bread"}
+{"id":"Q806901","verdict":"keep","countries":["GB","CA"],"reason":"Bannock has Scottish and established Canadian Indigenous culinary traditions."}
 {"id":"Q8074583","verdict":"remove","reason":"branded candy (ZotZ)"}
 {"id":"Q8076477","verdict":"keep","countries":["FR"],"reason":"countries were empty; French fish dish"}
 {"id":"Q8077757","verdict":"keep"}
@@ -240,7 +240,7 @@
 {"id":"Q81615262","verdict":"keep"}
 {"id":"Q81615502","verdict":"keep"}
 {"id":"Q816663","verdict":"keep"}
-{"id":"Q816704","verdict":"keep","countries":["FR","RO"],"reason":"pate is French; FR added"}
+{"id":"Q816704","verdict":"keep","countries":["FR","RO","RU"],"reason":"Retain Romanian tie and include French and Russian traditions explicitly listed in entity cuisines."}
 {"id":"Q816851","verdict":"keep"}
 {"id":"Q817282","verdict":"keep"}
 {"id":"Q818674","verdict":"remove","reason":"category (meze, small plates), not one dish"}
@@ -248,7 +248,7 @@
 {"id":"Q8191952","verdict":"keep"}
 {"id":"Q8193769","verdict":"keep"}
 {"id":"Q8194132","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese ramen"}
-{"id":"Q8196212","verdict":"keep","countries":["TR","GR","BG","BA","RS","AL","MK"],"reason":"Second opinion: borek is shared across Turkish and Balkan cuisines"}
+{"id":"Q8196212","verdict":"keep","countries":["TR","GR","BG","BA","RS","AL","MK","HR","ME","AM"],"reason":"Börek belongs to shared Turkish, Armenian and Balkan culinary traditions."}
 {"id":"Q8205076","verdict":"keep"}
 {"id":"Q8205079","verdict":"keep"}
 {"id":"Q8205081","verdict":"keep","countries":["ES"],"reason":"countries were empty; Catalan dish"}

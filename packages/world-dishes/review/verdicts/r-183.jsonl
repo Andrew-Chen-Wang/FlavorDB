@@ -2,7 +2,7 @@
 {"id":"wikibooks-hu:eperlikőr","verdict":"remove","reason":"drink (alcoholic liqueur)"}
 {"id":"wikibooks-hu:epersörbet","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FS%C3%B6rbet%2FEpers%C3%B6rbet","status":"ok"}]}
 {"id":"wikibooks-hu:epres-diós-túrógombóc","verdict":"keep","countries":["HU"],"reason":"Hungarian dish (turogombocs); added HU","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FT%C3%BAr%C3%B3s_%C3%A9telek%2FEpres-di%C3%B3s_t%C3%BAr%C3%B3gomb%C3%B3c","status":"ok"}]}
-{"id":"wikibooks-hu:epres-habos-metélt","verdict":"keep","countries":["HU"],"reason":"Hungarian metélt dessert; added HU","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FF%C5%91tt_t%C3%A9szt%C3%A1k%2FEpres_habos_met%C3%A9lt","status":"ok"}]}
+{"id":"wikibooks-hu:epres-habos-metélt","verdict":"keep","reason":"Generic chilled strawberry, whipped-cream and noodle home dessert; cookbook language alone does not establish a Hungarian association.","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FF%C5%91tt_t%C3%A9szt%C3%A1k%2FEpres_habos_met%C3%A9lt","status":"ok"}]}
 {"id":"wikibooks-hu:epres-joghurt-muffin","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FS%C3%BCtem%C3%A9nyek%2FMuffin%2F%C3%89des_muffin%2FEpres-joghurt_muffin","status":"ok"}]}
 {"id":"wikibooks-hu:epres-joghurtfagylalt","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FFagylalt%2FEpres_joghurtfagylalt","status":"ok"}]}
 {"id":"wikibooks-hu:epres-kefir","verdict":"remove","reason":"drink (strawberry kefir, listed under drinks)"}

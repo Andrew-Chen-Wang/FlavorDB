@@ -7,20 +7,20 @@
 {"id":"Q6923643","verdict":"keep"}
 {"id":"Q692613","verdict":"keep"}
 {"id":"Q6926273","verdict":"keep"}
-{"id":"Q6926685","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish dish; countries empty, set to Kurdish cuisine region as on other Kurdish entries"}
-{"id":"Q6927204","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish dish; countries empty, set to Kurdish cuisine region"}
-{"id":"Q6928578","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish salad; countries empty, set to Kurdish cuisine region"}
-{"id":"Q6928855","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish food; countries empty, set to Kurdish cuisine region"}
+{"id":"Q6926685","verdict":"keep"}
+{"id":"Q6927204","verdict":"keep"}
+{"id":"Q6928578","verdict":"keep"}
+{"id":"Q6928855","verdict":"keep"}
 {"id":"Q6929071","verdict":"keep"}
-{"id":"Q6930013","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish salad; countries empty, set to Kurdish cuisine region"}
+{"id":"Q6930013","verdict":"keep"}
 {"id":"Q69321010","verdict":"keep"}
 {"id":"Q6934262","verdict":"keep","countries":["NO"],"reason":"Norwegian Christmas cake; countries were empty"}
 {"id":"Q6935684","verdict":"keep","reason":"Second opinion: munchy box is a Scottish takeaway assortment sold independently, not a chain brand"}
-{"id":"Q6935968","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish meal; countries empty, set to Kurdish cuisine region"}
+{"id":"Q6935968","verdict":"keep"}
 {"id":"Q6936640","verdict":"keep"}
-{"id":"Q6936882","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish dish; countries empty, set to Kurdish cuisine region"}
+{"id":"Q6936882","verdict":"keep"}
 {"id":"Q69393237","verdict":"keep"}
-{"id":"Q6939379","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish food; countries empty, set to Kurdish cuisine region"}
+{"id":"Q6939379","verdict":"keep"}
 {"id":"Q69394023","verdict":"keep"}
 {"id":"Q694022","verdict":"keep","countries":["NO","SE"],"reason":"Norwegian krumkake (also Swedish); NL was wrong"}
 {"id":"Q6941325","verdict":"keep"}
@@ -31,11 +31,11 @@
 {"id":"Q6949924","verdict":"keep"}
 {"id":"Q6949994","verdict":"keep"}
 {"id":"Q6950186","verdict":"keep"}
-{"id":"Q6953102","verdict":"keep","countries":["GR"],"reason":"Greek egg-lemon sauce (agristada); countries were empty"}
+{"id":"Q6953102","verdict":"keep","countries":["GR","TR"],"reason":"Agristada is a Sephardic egg-lemon sauce associated with Greek and Turkish Jewish traditions."}
 {"id":"Q6955858","verdict":"keep"}
 {"id":"Q6956585","verdict":"keep"}
-{"id":"Q6956882","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish dish; countries empty, set to Kurdish cuisine region"}
-{"id":"Q6960349","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish food; countries empty, set to Kurdish cuisine region"}
+{"id":"Q6956882","verdict":"keep"}
+{"id":"Q6960349","verdict":"keep"}
 {"id":"Q6960656","verdict":"keep","countries":["KR"],"reason":"Korean octopus dish; countries were empty"}
 {"id":"Q6960802","verdict":"keep"}
 {"id":"Q6961401","verdict":"keep"}
@@ -58,32 +58,32 @@
 {"id":"Q697016","verdict":"remove","reason":"drink (oolong tea)"}
 {"id":"Q697230","verdict":"keep"}
 {"id":"Q6973180","verdict":"keep"}
-{"id":"Q6974635","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish food; countries empty, set to Kurdish cuisine region"}
+{"id":"Q6974635","verdict":"keep"}
 {"id":"Q697498","verdict":"keep","countries":["TW","CN"],"reason":"Second opinion: beef noodle soup has both Chinese and Taiwanese culinary associations"}
-{"id":"Q6978616","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish dish; countries empty, set to Kurdish cuisine region"}
+{"id":"Q6978616","verdict":"keep"}
 {"id":"Q6978633","verdict":"keep"}
-{"id":"Q6979159","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish food; countries empty, set to Kurdish cuisine region"}
+{"id":"Q6979159","verdict":"keep"}
 {"id":"Q6979199","verdict":"keep"}
 {"id":"Q697951","verdict":"keep"}
 {"id":"Q6979626","verdict":"keep"}
-{"id":"Q6980923","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish dish; countries empty, set to Kurdish cuisine region"}
+{"id":"Q6980923","verdict":"keep"}
 {"id":"Q6981917","verdict":"keep"}
 {"id":"Q6982616","verdict":"keep"}
-{"id":"Q6983246","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish soup; countries empty, set to Kurdish cuisine region"}
+{"id":"Q6983246","verdict":"keep"}
 {"id":"Q6986243","verdict":"remove","reason":"cannabis strain, not a dish"}
 {"id":"Q6986919","verdict":"keep"}
-{"id":"Q6987250","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish dish; countries empty, set to Kurdish cuisine region"}
-{"id":"Q6987533","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish food; countries empty, set to Kurdish cuisine region"}
+{"id":"Q6987250","verdict":"keep"}
+{"id":"Q6987533","verdict":"keep"}
 {"id":"Q699637","verdict":"keep"}
 {"id":"Q700026","verdict":"keep"}
 {"id":"Q7000528","verdict":"keep"}
-{"id":"Q7000669","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish food; countries empty, set to Kurdish cuisine region"}
+{"id":"Q7000669","verdict":"keep"}
 {"id":"Q700643","verdict":"keep"}
 {"id":"Q7007443","verdict":"keep"}
-{"id":"Q7009815","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish bread; countries empty, set to Kurdish cuisine region"}
+{"id":"Q7009815","verdict":"keep"}
 {"id":"Q70125","verdict":"keep"}
-{"id":"Q7013362","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish candy; countries empty, set to Kurdish cuisine region"}
-{"id":"Q7014585","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish food; countries empty, set to Kurdish cuisine region"}
+{"id":"Q7013362","verdict":"keep"}
+{"id":"Q7014585","verdict":"keep"}
 {"id":"Q701519","verdict":"keep"}
 {"id":"Q7015481","verdict":"keep"}
 {"id":"Q7015856","verdict":"keep"}
@@ -93,17 +93,17 @@
 {"id":"Q701797","verdict":"keep","countries":["JP"],"reason":"Japanese pickled daikon (takuan); CN was wrong"}
 {"id":"Q701870","verdict":"keep"}
 {"id":"Q702028","verdict":"keep"}
-{"id":"Q7020912","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish food; countries empty, set to Kurdish cuisine region"}
+{"id":"Q7020912","verdict":"keep"}
 {"id":"Q7022462","verdict":"keep"}
 {"id":"Q7022523","verdict":"keep"}
 {"id":"Q70241","verdict":"keep"}
 {"id":"Q702662","verdict":"keep"}
 {"id":"Q702692","verdict":"keep","countries":["KR"],"reason":"Korean dish; countries were empty"}
-{"id":"Q7027594","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish candy; countries empty, set to Kurdish cuisine region"}
+{"id":"Q7027594","verdict":"keep"}
 {"id":"Q703015","verdict":"keep","countries":["KR"],"reason":"Korean doenjang stew; countries were empty"}
-{"id":"Q7030277","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish dish; countries empty, set to Kurdish cuisine region"}
+{"id":"Q7030277","verdict":"keep"}
 {"id":"Q703147","verdict":"keep"}
-{"id":"Q7031701","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish food; countries empty, set to Kurdish cuisine region"}
+{"id":"Q7031701","verdict":"keep"}
 {"id":"Q703286","verdict":"keep"}
 {"id":"Q703313","verdict":"keep"}
 {"id":"Q703413","verdict":"keep","countries":["KR"],"reason":"Korean rice cake; countries were empty"}
@@ -122,8 +122,8 @@
 {"id":"Q705381","verdict":"keep","countries":["KR"],"reason":"Korean dish; countries were empty"}
 {"id":"Q7055491","verdict":"keep"}
 {"id":"Q7057222","verdict":"keep"}
-{"id":"Q7057891","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish dish; countries empty, set to Kurdish cuisine region"}
-{"id":"Q7060247","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish dish; countries empty, set to Kurdish cuisine region"}
+{"id":"Q7057891","verdict":"keep"}
+{"id":"Q7060247","verdict":"keep"}
 {"id":"Q7060305","verdict":"keep"}
 {"id":"Q70608","verdict":"keep"}
 {"id":"Q70612","verdict":"keep","name":"Granita","reason":"removed PAT designation from name"}
@@ -131,7 +131,7 @@
 {"id":"Q7062059","verdict":"keep"}
 {"id":"Q7063526","verdict":"keep"}
 {"id":"Q70700789","verdict":"keep"}
-{"id":"Q707636","verdict":"keep","countries":["DE"],"reason":"Bavarian sausage; PL was wrong"}
+{"id":"Q707636","verdict":"keep","countries":["DE","PL"],"reason":"White sausage has Bavarian and Silesian traditions; preserve Polish association alongside Germany."}
 {"id":"Q707640","verdict":"keep","countries":["KR"],"reason":"Korean salad; countries were empty"}
 {"id":"Q707788","verdict":"keep"}
 {"id":"Q7079882","verdict":"keep"}

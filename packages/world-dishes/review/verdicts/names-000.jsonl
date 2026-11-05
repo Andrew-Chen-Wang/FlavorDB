@@ -68,12 +68,12 @@
 {"id":"Q1018138","verdict":"keep"}
 {"id":"Q1018934","verdict":"keep","countries":["DE"],"reason":"German dish, countries empty"}
 {"id":"Q101894969","verdict":"keep","countries":["MD","RO"],"reason":"second opinion: zeamă is commonly associated with Moldova as well as Romania"}
-{"id":"Q1019164","verdict":"keep","countries":["DE"],"reason":"German ham, countries empty"}
+{"id":"Q1019164","verdict":"keep"}
 {"id":"Q1019273","verdict":"keep"}
 {"id":"Q1019927","verdict":"keep","countries":["BA","RS","HR","ME","MK","BG","AL","TR"],"reason":"Balkan pastry, countries empty"}
 {"id":"Q1020809","verdict":"keep"}
 {"id":"Q1020812","verdict":"keep"}
-{"id":"Q102121344","verdict":"keep","countries":["AT"],"reason":"Austrian schnitzel, countries empty"}
+{"id":"Q102121344","verdict":"keep","countries":["AT","DE","CH"],"reason":"Cream schnitzel is shared Austrian, German and Swiss food"}
 {"id":"Q102144885","verdict":"keep"}
 {"id":"Q102151318","verdict":"keep","countries":["DE"],"reason":"Franconian sausage, countries empty"}
 {"id":"Q102158091","verdict":"keep"}
@@ -105,9 +105,9 @@
 {"id":"Q10262382","verdict":"keep"}
 {"id":"Q1026245","verdict":"keep"}
 {"id":"Q10262550","verdict":"keep","countries":["BR"],"reason":"Maranhao dish, countries empty"}
-{"id":"Q10263684","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet, countries empty"}
+{"id":"Q10263684","verdict":"remove","reason":"Dadinho is a branded packaged peanut confection"}
 {"id":"Q1026488","verdict":"keep"}
-{"id":"Q10267770","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet, countries empty"}
+{"id":"Q10267770","verdict":"keep","countries":["BR","PT"],"reason":"Pumpkin preserve is traditional in Brazil and Portugal"}
 {"id":"Q10267772","verdict":"keep","countries":["BR"],"reason":"Brazilian dessert, countries empty"}
 {"id":"Q10267774","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet, countries empty"}
 {"id":"Q10267781","verdict":"remove","reason":"grouping of sweets, not one dish"}
@@ -159,14 +159,14 @@
 {"id":"Q1031787","verdict":"keep"}
 {"id":"Q1032101","verdict":"keep"}
 {"id":"Q10323517","verdict":"keep"}
-{"id":"Q10323573","verdict":"keep","countries":["BR"],"reason":"Brazilian dish, countries empty"}
+{"id":"Q10323573","verdict":"remove","reason":"Mandiopã is a branded packaged cassava snack"}
 {"id":"Q10326489","verdict":"keep"}
 {"id":"Q10326759","verdict":"keep"}
 {"id":"Q1032806","verdict":"keep"}
 {"id":"Q10328276","verdict":"keep"}
 {"id":"Q10331615","verdict":"keep"}
 {"id":"Q10332079","verdict":"keep","countries":["BR"],"reason":"second opinion: Monteiro Lopes is the biscuit from Belém, Pará, Brazil"}
-{"id":"Q10332768","verdict":"keep","countries":["BR"],"reason":"Brazilian dessert, countries empty"}
+{"id":"Q10332768","verdict":"keep"}
 {"id":"Q10333009","verdict":"keep","countries":["AO"],"reason":"Angolan dish, countries empty"}
 {"id":"Q10333224","verdict":"keep"}
 {"id":"Q10335260","verdict":"keep","countries":["PT"],"reason":"Portuguese dish, countries empty"}
@@ -233,19 +233,19 @@
 {"id":"Q10403913","verdict":"remove","reason":"honey, ingredient not a dish"}
 {"id":"Q10404309","verdict":"remove","reason":"biscuit brand, branded product"}
 {"id":"Q10404947","verdict":"keep"}
-{"id":"Q10405003","verdict":"keep","countries":["SE"],"reason":"Swedish cake, countries empty"}
+{"id":"Q10405003","verdict":"keep","countries":["FI","LV","SE"],"reason":"Alexander cake is shared Finnish Latvian and Swedish pastry"}
 {"id":"Q104052947","verdict":"keep","countries":["ID"],"reason":"Indonesian fish dish, countries empty"}
 {"id":"Q10405688","verdict":"keep"}
 {"id":"Q104066676","verdict":"keep"}
 {"id":"Q104092263","verdict":"remove","reason":"raw fruit, not a dish"}
 {"id":"Q104093090","verdict":"keep","countries":["IT"],"reason":"Lombard egg pasta, countries empty"}
 {"id":"Q104094239","verdict":"keep","countries":["GB"],"reason":"British dish, countries empty"}
-{"id":"Q104119677","verdict":"keep","countries":["CN"],"reason":"Chinese dish, countries empty"}
+{"id":"Q104119677","verdict":"keep"}
 {"id":"Q1041222","verdict":"keep","countries":["KR"],"reason":"Korean dish, countries empty"}
 {"id":"Q104125992","verdict":"keep","countries":["FR"],"reason":"French salad, countries empty"}
-{"id":"Q104126307","verdict":"keep","countries":["SE"],"reason":"Swedish candy, countries empty"}
+{"id":"Q104126307","verdict":"remove","reason":"Romerska bågar is a branded packaged chocolate confection"}
 {"id":"Q104126397","verdict":"remove","reason":"raw fruit, not a dish"}
-{"id":"Q104150541","verdict":"keep","countries":["CN"],"reason":"Chinese seasoning, countries empty"}
+{"id":"Q104150541","verdict":"keep"}
 {"id":"Q104150562","verdict":"keep"}
 {"id":"Q104153096","verdict":"keep","countries":["DE"],"reason":"German dish, countries empty"}
 {"id":"Q104157105","verdict":"keep"}
@@ -273,7 +273,7 @@
 {"id":"Q10438666","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
 {"id":"Q10440715","verdict":"keep"}
 {"id":"Q1044101","verdict":"keep","countries":["ES"],"reason":"second opinion: carnixulla is the cured sausage of Menorca, Spain"}
-{"id":"Q104412527","verdict":"keep","countries":["IN"],"reason":"Indian dish, countries empty"}
+{"id":"Q104412527","verdict":"keep","countries":["IN","BD"],"reason":"Bengali banana blossom paturi shared India and Bangladesh"}
 {"id":"Q104413149","verdict":"remove","reason":"crab leg as ingredient cut, not a dish"}
 {"id":"Q10442304","verdict":"keep"}
 {"id":"Q1044246","verdict":"keep"}
@@ -297,4 +297,4 @@
 {"id":"Q104630996","verdict":"keep"}
 {"id":"Q104631141","verdict":"keep","countries":["JP"],"reason":"Japanese curry rice, countries empty"}
 {"id":"Q104634768","verdict":"keep","countries":["TR"],"reason":"Turkish sandwich, countries empty"}
-{"id":"Q10463623","verdict":"keep","countries":["CN"],"reason":"Chinese dish, countries empty"}
+{"id":"Q10463623","verdict":"keep"}

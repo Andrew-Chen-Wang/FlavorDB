@@ -2,7 +2,7 @@
 {"id":"wikibooks-fr:djenkoumé2","verdict":"keep","countries":["TG"],"reason":"Togolese dish per raw source","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FDjenKoum%C3%A92","status":"ok"}]}
 {"id":"wikibooks-fr:djewaz-batata","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FDjewaz_batata","status":"ok"}]}
 {"id":"wikibooks-fr:djoumgblé","verdict":"keep","countries":["CI"],"reason":"Ivorian dish per raw source (centre de la Côte d'Ivoire)","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FDjoumgbl%C3%A9","status":"ok"}]}
-{"id":"wikibooks-fr:donut","verdict":"keep","countries":["US"],"reason":"North American pastry (raw source: pâtisserie nord américaine)","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FDonut","status":"ok"}]}
+{"id":"wikibooks-fr:donut","verdict":"keep","countries":["US","CA"],"reason":"North American doughnut tradition is commonly tied to both United States and Canada.","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FDonut","status":"ok"}]}
 {"id":"wikibooks-fr:doré","verdict":"remove","reason":"drink (Afghan yogurt drink, per raw source)"}
 {"id":"wikibooks-fr:doux-baisers","verdict":"remove","reason":"cocktail"}
 {"id":"wikibooks-fr:dry-martini","verdict":"remove","reason":"cocktail"}

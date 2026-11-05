@@ -1,0 +1,1712 @@
+# Original batch second opinion: names-000–names-008
+
+Read original top-level batch entries, positionally matched to verdicts. Every original remove, countries override and name override was read in full. No recovered metadata was used. Plain raw ingredients without recipes are removed; named prepared foods retained. Country judgments follow the dish, with shared customary associations included.
+
+## names-000
+
+Audited 117 flagged original entries; 12 changed.
+
+- Position 1, Q10000271: retain. Original {"id":"Q10000271","verdict":"remove","reason":"container, not a dish"}.
+- Position 3, Q100136136: retain. Original {"id":"Q100136136","verdict":"keep","countries":["JP"],"reason":"Japanese ramen, countries empty"}.
+- Position 4, Q100138568: retain. Original {"id":"Q100138568","verdict":"keep","countries":["JP"],"reason":"Japanese ramen, countries empty"}.
+- Position 5, Q100144799: retain. Original {"id":"Q100144799","verdict":"keep","countries":["IN","BD"],"reason":"Bengali sweet, countries empty"}.
+- Position 7, Q100151408: retain. Original {"id":"Q100151408","verdict":"keep","countries":["JP"],"reason":"Japanese rice dish, countries empty"}.
+- Position 8, Q100153848: retain. Original {"id":"Q100153848","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 16, Q100258330: retain. Original {"id":"Q100258330","verdict":"keep","countries":["YE","IL"],"reason":"Yemeni Jewish bread, countries empty"}.
+- Position 31, Q1004735: retain. Original {"id":"Q1004735","verdict":"keep","countries":["RO"],"reason":"Romanian dish, countries empty"}.
+- Position 33, Q100507813: retain. Original {"id":"Q100507813","verdict":"keep","countries":["US"],"reason":"American pie, countries empty"}.
+- Position 40, Q100892499: retain. Original {"id":"Q100892499","verdict":"keep","countries":["ID"],"reason":"Minangkabau dish, countries empty"}.
+- Position 44, Q101029041: retain. Original {"id":"Q101029041","verdict":"keep","countries":["AU"],"reason":"Australian biscuit, countries empty"}.
+- Position 45, Q101064564: retain. Original {"id":"Q101064564","verdict":"keep","countries":["DE"],"reason":"German salad, countries empty"}.
+- Position 46, Q101084341: retain. Original {"id":"Q101084341","verdict":"keep","countries":["AR"],"reason":"Argentine pizza, countries empty"}.
+- Position 47, Q101092304: retain. Original {"id":"Q101092304","verdict":"keep","countries":["AT"],"reason":"Austrian dish, countries empty"}.
+- Position 49, Q101113014: retain. Original {"id":"Q101113014","verdict":"keep","countries":["RU"],"reason":"Second opinion: traditional Udmurt turnip pie; Belarusian alias is not its origin."}.
+- Position 51, Q101121317: retain. Original {"id":"Q101121317","verdict":"keep","countries":["AT"],"reason":"Austrian pastry, countries empty"}.
+- Position 55, Q101245132: retain. Original {"id":"Q101245132","verdict":"keep","countries":["SR"],"reason":"Surinamese dish, countries empty"}.
+- Position 56, Q101440969: retain. Original {"id":"Q101440969","verdict":"keep","countries":["SE"],"reason":"Swedish dessert, countries empty"}.
+- Position 58, Q101516882: retain. Original {"id":"Q101516882","verdict":"remove","reason":"museum object (lacquer box), not a dish"}.
+- Position 61, Q1016080: retain. Original {"id":"Q1016080","verdict":"keep","countries":["DE"],"reason":"German roast, countries empty"}.
+- Position 67, Q1018117: retain. Original {"id":"Q1018117","verdict":"keep","countries":["DE"],"reason":"German soup, countries empty"}.
+- Position 69, Q1018934: retain. Original {"id":"Q1018934","verdict":"keep","countries":["DE"],"reason":"German dish, countries empty"}.
+- Position 70, Q101894969: retain. Original {"id":"Q101894969","verdict":"keep","countries":["MD","RO"],"reason":"second opinion: zeamă is commonly associated with Moldova as well as Romania"}.
+- Position 71, Q1019164: change. Original {"id":"Q1019164","verdict":"keep","countries":["DE"],"reason":"German ham, countries empty"}. Final {"id":"Q1019164","verdict":"keep"}.
+- Position 73, Q1019927: retain. Original {"id":"Q1019927","verdict":"keep","countries":["BA","RS","HR","ME","MK","BG","AL","TR"],"reason":"Balkan pastry, countries empty"}.
+- Position 76, Q102121344: change. Original {"id":"Q102121344","verdict":"keep","countries":["AT"],"reason":"Austrian schnitzel, countries empty"}. Final {"id":"Q102121344","verdict":"keep","countries":["AT","DE","CH"],"reason":"Cream schnitzel is shared Austrian, German and Swiss food"}.
+- Position 78, Q102151318: retain. Original {"id":"Q102151318","verdict":"keep","countries":["DE"],"reason":"Franconian sausage, countries empty"}.
+- Position 84, Q102172688: retain. Original {"id":"Q102172688","verdict":"keep","countries":["ID"],"reason":"Indonesian soup, countries empty"}.
+- Position 92, Q102190284: retain. Original {"id":"Q102190284","verdict":"keep","countries":["FR"],"reason":"French dessert, countries empty"}.
+- Position 93, Q102195822: retain. Original {"id":"Q102195822","verdict":"keep","countries":["JP"],"reason":"Japanese donburi, countries empty"}.
+- Position 107, Q10262550: retain. Original {"id":"Q10262550","verdict":"keep","countries":["BR"],"reason":"Maranhao dish, countries empty"}.
+- Position 108, Q10263684: change. Original {"id":"Q10263684","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet, countries empty"}. Final {"id":"Q10263684","verdict":"remove","reason":"Dadinho is a branded packaged peanut confection"}.
+- Position 110, Q10267770: change. Original {"id":"Q10267770","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet, countries empty"}. Final {"id":"Q10267770","verdict":"keep","countries":["BR","PT"],"reason":"Pumpkin preserve is traditional in Brazil and Portugal"}.
+- Position 111, Q10267772: retain. Original {"id":"Q10267772","verdict":"keep","countries":["BR"],"reason":"Brazilian dessert, countries empty"}.
+- Position 112, Q10267774: retain. Original {"id":"Q10267774","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet, countries empty"}.
+- Position 113, Q10267781: retain. Original {"id":"Q10267781","verdict":"remove","reason":"grouping of sweets, not one dish"}.
+- Position 115, Q10268547: retain. Original {"id":"Q10268547","verdict":"remove","reason":"category of sweets, not one dish"}.
+- Position 117, Q10268731: retain. Original {"id":"Q10268731","verdict":"keep","countries":["BY","UA","RU","PL"],"reason":"Eastern European potato pancake, countries empty"}.
+- Position 122, Q10273175: retain. Original {"id":"Q10273175","verdict":"keep","countries":["BR"],"reason":"Brazilian dish, countries empty"}.
+- Position 123, Q10274705: retain. Original {"id":"Q10274705","verdict":"keep","countries":["BR"],"reason":"Brazilian dish, countries empty"}.
+- Position 124, Q10274873: retain. Original {"id":"Q10274873","verdict":"keep","countries":["PT"],"reason":"Portuguese dish, countries empty"}.
+- Position 126, Q10280099: retain. Original {"id":"Q10280099","verdict":"keep","countries":["BR"],"reason":"Brazilian dish, countries empty"}.
+- Position 131, Q10280830: retain. Original {"id":"Q10280830","verdict":"keep","countries":["AO"],"reason":"Angolan dish, countries empty"}.
+- Position 133, Q102819468: retain. Original {"id":"Q102819468","verdict":"keep","countries":["KR"],"reason":"Korean radish kimchi, countries empty"}.
+- Position 140, Q10285512: retain. Original {"id":"Q10285512","verdict":"keep","countries":["BR"],"reason":"Brazilian dish, countries empty"}.
+- Position 143, Q10288102: retain. Original {"id":"Q10288102","verdict":"keep","countries":["BR"],"reason":"Brazilian dish, countries empty"}.
+- Position 146, Q10296519: retain. Original {"id":"Q10296519","verdict":"keep","countries":["CN"],"reason":"Chinese dish, countries empty"}.
+- Position 150, Q10303205: retain. Original {"id":"Q10303205","verdict":"keep","countries":["TW"],"reason":"Hakka rice cake, countries empty"}.
+- Position 158, Q10317115: retain. Original {"id":"Q10317115","verdict":"keep","countries":["PT"],"reason":"Portuguese dish, countries empty"}.
+- Position 162, Q10323573: change. Original {"id":"Q10323573","verdict":"keep","countries":["BR"],"reason":"Brazilian dish, countries empty"}. Final {"id":"Q10323573","verdict":"remove","reason":"Mandiopã is a branded packaged cassava snack"}.
+- Position 168, Q10332079: retain. Original {"id":"Q10332079","verdict":"keep","countries":["BR"],"reason":"second opinion: Monteiro Lopes is the biscuit from Belém, Pará, Brazil"}.
+- Position 169, Q10332768: change. Original {"id":"Q10332768","verdict":"keep","countries":["BR"],"reason":"Brazilian dessert, countries empty"}. Final {"id":"Q10332768","verdict":"keep"}.
+- Position 170, Q10333009: retain. Original {"id":"Q10333009","verdict":"keep","countries":["AO"],"reason":"Angolan dish, countries empty"}.
+- Position 172, Q10335260: retain. Original {"id":"Q10335260","verdict":"keep","countries":["PT"],"reason":"Portuguese dish, countries empty"}.
+- Position 173, Q10335890: retain. Original {"id":"Q10335890","verdict":"keep","countries":["AM"],"reason":"Armenian sweet, countries empty"}.
+- Position 174, Q10335970: retain. Original {"id":"Q10335970","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet, countries empty"}.
+- Position 175, Q10335981: retain. Original {"id":"Q10335981","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet, countries empty"}.
+- Position 177, Q10338866: retain. Original {"id":"Q10338866","verdict":"keep","countries":["CN"],"reason":"Chinese dish, countries empty"}.
+- Position 178, Q103409718: retain. Original {"id":"Q103409718","verdict":"keep","countries":["JP"],"reason":"Japanese udon, countries empty"}.
+- Position 181, Q103441166: retain. Original {"id":"Q103441166","verdict":"remove","reason":"raw fruit, not a dish"}.
+- Position 184, Q10345989: retain. Original {"id":"Q10345989","verdict":"keep","countries":["BR"],"reason":"Pastel de angu, Brazilian, countries empty"}.
+- Position 186, Q10346967: retain. Original {"id":"Q10346967","verdict":"keep","countries":["BR"],"reason":"Brazilian cake, countries empty"}.
+- Position 187, Q10347939: retain. Original {"id":"Q10347939","verdict":"keep","countries":["BR"],"reason":"Brazilian dish, countries empty"}.
+- Position 189, Q10348868: retain. Original {"id":"Q10348868","verdict":"keep","countries":["PT"],"reason":"Portuguese dish, countries empty"}.
+- Position 190, Q10350144: retain. Original {"id":"Q10350144","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet, countries empty"}.
+- Position 195, Q10353695: retain. Original {"id":"Q10353695","verdict":"keep","countries":["PT"],"reason":"Barrancos ham, Portugal, countries empty"}.
+- Position 198, Q10356233: retain. Original {"id":"Q10356233","verdict":"keep","countries":["BR"],"reason":"Brazilian dish, countries empty"}.
+- Position 199, Q10356484: retain. Original {"id":"Q10356484","verdict":"keep","countries":["BR"],"reason":"Brazilian dish, countries empty"}.
+- Position 201, Q10364125: retain. Original {"id":"Q10364125","verdict":"keep","countries":["PT"],"reason":"Portuguese stew, countries empty"}.
+- Position 203, Q10365057: retain. Original {"id":"Q10365057","verdict":"keep","countries":["BR"],"reason":"Brazilian dish, countries empty"}.
+- Position 204, Q10367013: retain. Original {"id":"Q10367013","verdict":"keep","countries":["PT"],"reason":"Portuguese dish, countries empty"}.
+- Position 206, Q10369989: retain. Original {"id":"Q10369989","verdict":"keep","countries":["IR"],"reason":"Iranian dish, countries empty"}.
+- Position 208, Q10373410: retain. Original {"id":"Q10373410","verdict":"keep","countries":["PT"],"reason":"Portuguese soup, countries empty"}.
+- Position 210, Q10373415: retain. Original {"id":"Q10373415","verdict":"keep","countries":["MO"],"reason":"Macanese soup, countries empty"}.
+- Position 213, Q10377857: retain. Original {"id":"Q10377857","verdict":"keep","countries":["BR"],"reason":"Brazilian dish, countries empty"}.
+- Position 214, Q1037853: retain. Original {"id":"Q1037853","verdict":"keep","countries":["KR"],"reason":"Korean soup, countries empty"}.
+- Position 218, Q10382382: retain. Original {"id":"Q10382382","verdict":"keep","countries":["PT"],"reason":"Portuguese dish, countries empty"}.
+- Position 219, Q10382383: retain. Original {"id":"Q10382383","verdict":"keep","countries":["PT","ES"],"reason":"second opinion: tiborna is associated with Portuguese and Spanish food, as the dish description states"}.
+- Position 224, Q10392333: retain. Original {"id":"Q10392333","verdict":"keep","countries":["CN"],"reason":"Chinese fish dish, countries empty"}.
+- Position 227, Q10394386: retain. Original {"id":"Q10394386","verdict":"keep","countries":["PY","BR"],"reason":"Xipa also Brazilian per description"}.
+- Position 229, Q10396701: retain. Original {"id":"Q10396701","verdict":"remove","reason":"cooking technique page, not a dish"}.
+- Position 231, Q10400494: retain. Original {"id":"Q10400494","verdict":"keep","countries":["CN"],"reason":"Chinese fish dish, countries empty"}.
+- Position 232, Q10403418: retain. Original {"id":"Q10403418","verdict":"keep","countries":["CN"],"reason":"Chinese fish dish, countries empty"}.
+- Position 233, Q10403913: retain. Original {"id":"Q10403913","verdict":"remove","reason":"honey, ingredient not a dish"}.
+- Position 234, Q10404309: retain. Original {"id":"Q10404309","verdict":"remove","reason":"biscuit brand, branded product"}.
+- Position 236, Q10405003: change. Original {"id":"Q10405003","verdict":"keep","countries":["SE"],"reason":"Swedish cake, countries empty"}. Final {"id":"Q10405003","verdict":"keep","countries":["FI","LV","SE"],"reason":"Alexander cake is shared Finnish Latvian and Swedish pastry"}.
+- Position 237, Q104052947: retain. Original {"id":"Q104052947","verdict":"keep","countries":["ID"],"reason":"Indonesian fish dish, countries empty"}.
+- Position 240, Q104092263: retain. Original {"id":"Q104092263","verdict":"remove","reason":"raw fruit, not a dish"}.
+- Position 241, Q104093090: retain. Original {"id":"Q104093090","verdict":"keep","countries":["IT"],"reason":"Lombard egg pasta, countries empty"}.
+- Position 242, Q104094239: retain. Original {"id":"Q104094239","verdict":"keep","countries":["GB"],"reason":"British dish, countries empty"}.
+- Position 243, Q104119677: change. Original {"id":"Q104119677","verdict":"keep","countries":["CN"],"reason":"Chinese dish, countries empty"}. Final {"id":"Q104119677","verdict":"keep"}.
+- Position 244, Q1041222: retain. Original {"id":"Q1041222","verdict":"keep","countries":["KR"],"reason":"Korean dish, countries empty"}.
+- Position 245, Q104125992: retain. Original {"id":"Q104125992","verdict":"keep","countries":["FR"],"reason":"French salad, countries empty"}.
+- Position 246, Q104126307: change. Original {"id":"Q104126307","verdict":"keep","countries":["SE"],"reason":"Swedish candy, countries empty"}. Final {"id":"Q104126307","verdict":"remove","reason":"Romerska bågar is a branded packaged chocolate confection"}.
+- Position 247, Q104126397: retain. Original {"id":"Q104126397","verdict":"remove","reason":"raw fruit, not a dish"}.
+- Position 248, Q104150541: change. Original {"id":"Q104150541","verdict":"keep","countries":["CN"],"reason":"Chinese seasoning, countries empty"}. Final {"id":"Q104150541","verdict":"keep"}.
+- Position 250, Q104153096: retain. Original {"id":"Q104153096","verdict":"keep","countries":["DE"],"reason":"German dish, countries empty"}.
+- Position 252, Q104162035: retain. Original {"id":"Q104162035","verdict":"keep","countries":["FR"],"reason":"French dish, countries empty"}.
+- Position 254, Q104187885: retain. Original {"id":"Q104187885","verdict":"remove","reason":"honey, ingredient not a dish"}.
+- Position 255, Q10421134: retain. Original {"id":"Q10421134","verdict":"keep","countries":["CN"],"reason":"Chinese roast duck, countries empty"}.
+- Position 257, Q104250487: retain. Original {"id":"Q104250487","verdict":"remove","reason":"raw fruit, not a dish"}.
+- Position 260, Q104252174: retain. Original {"id":"Q104252174","verdict":"keep","countries":["KR"],"reason":"Korean noodles, countries empty"}.
+- Position 262, Q10425800: retain. Original {"id":"Q10425800","verdict":"remove","reason":"candy brand, branded product"}.
+- Position 267, Q10436964: retain. Original {"id":"Q10436964","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}.
+- Position 268, Q10437104: retain. Original {"id":"Q10437104","verdict":"keep","countries":["SE"],"reason":"Swedish confection, countries empty"}.
+- Position 270, Q10438086: retain. Original {"id":"Q10438086","verdict":"keep","countries":["SE"],"reason":"Swedish pastry, countries empty"}.
+- Position 273, Q10438666: retain. Original {"id":"Q10438666","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}.
+- Position 275, Q1044101: retain. Original {"id":"Q1044101","verdict":"keep","countries":["ES"],"reason":"second opinion: carnixulla is the cured sausage of Menorca, Spain"}.
+- Position 276, Q104412527: change. Original {"id":"Q104412527","verdict":"keep","countries":["IN"],"reason":"Indian dish, countries empty"}. Final {"id":"Q104412527","verdict":"keep","countries":["IN","BD"],"reason":"Bengali banana blossom paturi shared India and Bangladesh"}.
+- Position 277, Q104413149: retain. Original {"id":"Q104413149","verdict":"remove","reason":"crab leg as ingredient cut, not a dish"}.
+- Position 280, Q104424962: retain. Original {"id":"Q104424962","verdict":"keep","countries":["NL"],"reason":"Dutch sandwich, countries empty"}.
+- Position 281, Q104504307: retain. Original {"id":"Q104504307","verdict":"keep","countries":["ES"],"reason":"Valencian rice dish, countries empty"}.
+- Position 284, Q104536222: retain. Original {"id":"Q104536222","verdict":"keep","countries":["DE"],"reason":"German praline, countries empty"}.
+- Position 296, Q104629902: retain. Original {"id":"Q104629902","verdict":"keep","countries":["ID"],"reason":"Indonesian dish, countries empty"}.
+- Position 298, Q104631141: retain. Original {"id":"Q104631141","verdict":"keep","countries":["JP"],"reason":"Japanese curry rice, countries empty"}.
+- Position 299, Q104634768: retain. Original {"id":"Q104634768","verdict":"keep","countries":["TR"],"reason":"Turkish sandwich, countries empty"}.
+- Position 300, Q10463623: change. Original {"id":"Q10463623","verdict":"keep","countries":["CN"],"reason":"Chinese dish, countries empty"}. Final {"id":"Q10463623","verdict":"keep"}.
+
+## names-001
+
+Audited 182 flagged original entries; 13 changed.
+
+- Position 5, Q104641191: retain. Original {"id":"Q104641191","verdict":"keep","countries":["ID"],"reason":"Minangkabau dish, countries empty"}.
+- Position 6, Q104650713: retain. Original {"id":"Q104650713","verdict":"keep","countries":["SE"],"reason":"Swedish cardamom bun, countries empty"}.
+- Position 7, Q10465999: retain. Original {"id":"Q10465999","verdict":"remove","reason":"branded candy product"}.
+- Position 8, Q104668032: retain. Original {"id":"Q104668032","verdict":"keep","countries":["CN"],"reason":"Chinese cured meat, countries empty"}.
+- Position 10, Q104698217: retain. Original {"id":"Q104698217","verdict":"keep","countries":["ZA"],"reason":"South African candy, countries empty"}.
+- Position 11, Q10472376: retain. Original {"id":"Q10472376","verdict":"remove","reason":"branded candy product"}.
+- Position 12, Q10472675: retain. Original {"id":"Q10472675","verdict":"keep","countries":["FI"],"reason":"Finnish dish, countries empty"}.
+- Position 13, Q104727207: retain. Original {"id":"Q104727207","verdict":"remove","reason":"raw fruit, not a dish"}.
+- Position 15, Q10477006: change. Original {"id":"Q10477006","verdict":"keep","countries":["SE"],"reason":"Swedish jam, countries empty"}. Final {"id":"Q10477006","verdict":"keep","countries":["SE","FI"],"reason":"Queen’s jam is shared by Sweden and Finland."}.
+- Position 16, Q10477229: retain. Original {"id":"Q10477229","verdict":"keep","countries":["SE"],"reason":"Swedish cookie, countries empty"}.
+- Position 17, Q104783428: retain. Original {"id":"Q104783428","verdict":"keep","countries":["NL"],"reason":"Dutch boterkoek, countries empty"}.
+- Position 23, Q104829719: retain. Original {"id":"Q104829719","verdict":"keep","countries":["SG","MY"],"reason":"Singaporean/Malaysian cake, countries empty"}.
+- Position 27, Q104836072: retain. Original {"id":"Q104836072","verdict":"keep","countries":["US"],"reason":"Appalachian dish, countries empty"}.
+- Position 28, Q104842957: change. Original {"id":"Q104842957","verdict":"remove","reason":"grouping of bar snacks, not one dish"}. Final {"id":"Q104842957","verdict":"keep","countries":["NL"],"reason":"Bittergarnituur is a prepared Dutch platter of fried bar snacks, so retain it as a dish."}.
+- Position 30, Q104849442: retain. Original {"id":"Q104849442","verdict":"keep","countries":["LK"],"reason":"second opinion: kola kanda is Sri Lankan herbal congee, not an Odia dish"}.
+- Position 31, Q1048496: retain. Original {"id":"Q1048496","verdict":"keep","countries":["RU"],"reason":"Russian soup, countries empty"}.
+- Position 33, Q104853749: retain. Original {"id":"Q104853749","verdict":"keep","countries":["GB"],"reason":"English cake, countries empty"}.
+- Position 35, Q104855730: retain. Original {"id":"Q104855730","verdict":"keep","countries":["GB"],"reason":"Victorian dish, countries empty"}.
+- Position 36, Q104856047: retain. Original {"id":"Q104856047","verdict":"keep","countries":["US"],"reason":"American bread, countries empty"}.
+- Position 39, Q104858644: retain. Original {"id":"Q104858644","verdict":"keep","countries":["US"],"reason":"American dish, countries empty"}.
+- Position 40, Q104858815: retain. Original {"id":"Q104858815","verdict":"keep","countries":[],"reason":"second opinion: white cake is a generic cake style without a specific national association"}.
+- Position 41, Q104862279: retain. Original {"id":"Q104862279","verdict":"remove","reason":"article on pies in American cuisine, not a dish"}.
+- Position 46, Q10495802: change. Original {"id":"Q10495802","verdict":"keep","countries":["SE"],"reason":"Swedish fish dish, countries empty"}. Final {"id":"Q10495802","verdict":"keep","reason":"Breaded fish pieces are prepared food, but the Swedish name alone does not establish Swedish origin."}.
+- Position 47, Q104960372: retain. Original {"id":"Q104960372","verdict":"keep","countries":["FI"],"reason":"Finnish bread, countries empty"}.
+- Position 49, Q104974761: change. Original {"id":"Q104974761","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}. Final {"id":"Q104974761","verdict":"keep","reason":"Prepared roe-deer saddle; its Swedish label does not establish a uniquely Swedish dish."}.
+- Position 54, Q10500003: retain. Original {"id":"Q10500003","verdict":"keep","countries":["TW"],"reason":"Taiwanese soup, countries empty"}.
+- Position 55, Q10500606: retain. Original {"id":"Q10500606","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}.
+- Position 57, Q10500884: change. Original {"id":"Q10500884","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}. Final {"id":"Q10500884","verdict":"keep","reason":"Minced-meat patties are prepared food; no basis here for assigning only Sweden."}.
+- Position 60, Q10501568: retain. Original {"id":"Q10501568","verdict":"keep","countries":["CZ"],"reason":"Czech ham, countries empty"}.
+- Position 61, Q10501838: retain. Original {"id":"Q10501838","verdict":"keep","countries":["VN"],"reason":"Vietnamese dish, countries empty"}.
+- Position 62, Q10502922: retain. Original {"id":"Q10502922","verdict":"keep","countries":["CZ"],"reason":"Czech fried bread, countries empty"}.
+- Position 63, Q10503582: retain. Original {"id":"Q10503582","verdict":"remove","reason":"branded chocolate bar (Fazer)"}.
+- Position 66, Q10505302: retain. Original {"id":"Q10505302","verdict":"remove","reason":"stick object, not a dish"}.
+- Position 68, Q10506671: change. Original {"id":"Q10506671","verdict":"keep","countries":["NO"],"reason":"Norwegian candy, countries empty"}. Final {"id":"Q10506671","verdict":"keep","reason":"Pacifier-shaped candy is a prepared confection, but the Norwegian name is not country evidence."}.
+- Position 69, Q105077405: change. Original {"id":"Q105077405","verdict":"keep","countries":["SE"],"reason":"Swedish torte, countries empty"}. Final {"id":"Q105077405","verdict":"keep","countries":["SE","DK"],"reason":"Othello cake is associated with both Swedish and Danish baking."}.
+- Position 70, Q105094284: retain. Original {"id":"Q105094284","verdict":"keep","countries":["CZ"],"reason":"Czech soup, countries empty"}.
+- Position 71, Q10509612: retain. Original {"id":"Q10509612","verdict":"keep","countries":["SE"],"reason":"Swedish cake, countries empty"}.
+- Position 73, Q105097825: retain. Original {"id":"Q105097825","verdict":"keep","countries":["SE"],"reason":"Swedish torte, countries empty"}.
+- Position 74, Q105098362: retain. Original {"id":"Q105098362","verdict":"keep","countries":["SE"],"reason":"Swedish torte, countries empty"}.
+- Position 75, Q105100449: retain. Original {"id":"Q105100449","verdict":"keep","countries":["SE"],"reason":"Swedish torte, countries empty"}.
+- Position 79, Q10514423: retain. Original {"id":"Q10514423","verdict":"keep","countries":["TW"],"reason":"Taiwanese congee, countries empty"}.
+- Position 81, Q10514546: change. Original {"id":"Q10514546","verdict":"keep","countries":["CN"],"reason":"Chinese dish, countries empty"}. Final {"id":"Q10514546","verdict":"keep","countries":["TW","CN"],"reason":"Shrimp geng belongs to Taiwanese as well as Chinese cuisine."}.
+- Position 83, Q10515472: retain. Original {"id":"Q10515472","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}.
+- Position 84, Q10516404: change. Original {"id":"Q10516404","verdict":"keep","countries":["SE"],"reason":"Swedish candy, countries empty"}. Final {"id":"Q10516404","verdict":"keep","countries":["SE","FI"],"reason":"Raspberry boat candies are commonly associated with both Sweden and Finland."}.
+- Position 89, Q10519406: retain. Original {"id":"Q10519406","verdict":"keep","countries":["SE"],"reason":"Swedish potato dish, countries empty"}.
+- Position 91, Q10520838: retain. Original {"id":"Q10520838","verdict":"keep","countries":["CN"],"reason":"Hangzhou fish dish, countries empty"}.
+- Position 97, Q10525017: change. Original {"id":"Q10525017","verdict":"keep","countries":["SE"],"reason":"Swedish candy, countries empty"}. Final {"id":"Q10525017","verdict":"remove","reason":"Hockeypulver is a branded powdered-liquorice candy product."}.
+- Position 102, Q105318869: retain. Original {"id":"Q105318869","verdict":"remove","reason":"generic term for hot food, not one dish"}.
+- Position 103, Q105322599: retain. Original {"id":"Q105322599","verdict":"remove","reason":"chewing gum product, not a dish"}.
+- Position 105, Q10532500: retain. Original {"id":"Q10532500","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}.
+- Position 107, Q105333550: retain. Original {"id":"Q105333550","verdict":"keep","countries":["FR"],"reason":"French salad, countries empty"}.
+- Position 111, Q10535460: retain. Original {"id":"Q10535460","verdict":"keep","countries":["SE"],"reason":"Swedish dessert, countries empty"}.
+- Position 112, Q10535659: retain. Original {"id":"Q10535659","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}.
+- Position 113, Q105359471: retain. Original {"id":"Q105359471","verdict":"keep","countries":["FR"],"reason":"French dish, countries empty"}.
+- Position 118, Q10541947: retain. Original {"id":"Q10541947","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}.
+- Position 119, Q10542015: change. Original {"id":"Q10542015","verdict":"keep","countries":["SE"],"reason":"Swedish pancake, countries empty"}. Final {"id":"Q10542015","verdict":"keep","reason":"Yeasted pancakes are a prepared dish, but the Swedish label is not sufficient country evidence."}.
+- Position 123, Q105429471: change. Original {"id":"Q105429471","verdict":"keep","countries":["KP"],"reason":"North Korean soup, countries empty"}. Final {"id":"Q105429471","verdict":"keep","countries":["KP","KR"],"reason":"Chogyetang is a shared Korean cold chicken soup associated with both Koreas."}.
+- Position 124, Q10543810: retain. Original {"id":"Q10543810","verdict":"keep","countries":["SE"],"reason":"Swedish bread, countries empty"}.
+- Position 126, Q1054430: change. Original {"id":"Q1054430","verdict":"keep","countries":["IT"],"reason":"Ligurian fish, countries empty"}. Final {"id":"Q1054430","verdict":"remove","reason":"Gianchetti are juvenile whitebait, a raw seafood ingredient with no recipe here."}.
+- Position 128, Q10545209: retain. Original {"id":"Q10545209","verdict":"remove","reason":"second opinion: Kexchoklad is a Cloetta branded wafer bar"}.
+- Position 137, Q10548294: retain. Original {"id":"Q10548294","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}.
+- Position 141, Q105492043: retain. Original {"id":"Q105492043","verdict":"keep","countries":["ES"],"reason":"Catalan caramel, countries empty"}.
+- Position 142, Q10549373: retain. Original {"id":"Q10549373","verdict":"remove","reason":"branded candy product"}.
+- Position 143, Q10549595: retain. Original {"id":"Q10549595","verdict":"keep","countries":["SE"],"reason":"Swedish porridge, countries empty"}.
+- Position 144, Q10549681: retain. Original {"id":"Q10549681","verdict":"keep","countries":["SE"],"reason":"Swedish bun, countries empty"}.
+- Position 154, Q10551845: retain. Original {"id":"Q10551845","verdict":"keep","countries":["FI"],"reason":"Finnish cake, countries empty"}.
+- Position 155, Q10552022: retain. Original {"id":"Q10552022","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}.
+- Position 156, Q10552252: retain. Original {"id":"Q10552252","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}.
+- Position 170, Q105550816: retain. Original {"id":"Q105550816","verdict":"keep","countries":["US"],"reason":"American savory pastry, countries empty"}.
+- Position 173, Q105578604: retain. Original {"id":"Q105578604","verdict":"remove","reason":"topic on Swedish desserts, not one dish"}.
+- Position 185, Q105643832: retain. Original {"id":"Q105643832","verdict":"keep","countries":["IT"],"reason":"Italian bread roll, countries empty"}.
+- Position 186, Q10564512: retain. Original {"id":"Q10564512","verdict":"keep","countries":["CN"],"reason":"Chinese noodle dish, countries empty"}.
+- Position 190, Q105653979: retain. Original {"id":"Q105653979","verdict":"keep","countries":["IN"],"reason":"Indian sweet, countries empty"}.
+- Position 191, Q105654014: retain. Original {"id":"Q105654014","verdict":"keep","countries":["IN"],"reason":"Indian sweet, countries empty"}.
+- Position 192, Q105654181: retain. Original {"id":"Q105654181","verdict":"keep","countries":["IN"],"reason":"Indian biryani, countries empty"}.
+- Position 193, Q105654208: retain. Original {"id":"Q105654208","verdict":"keep","countries":["IN"],"reason":"Indian biryani, countries empty"}.
+- Position 194, Q105654264: retain. Original {"id":"Q105654264","verdict":"keep","countries":["IN"],"reason":"Indian biryani, countries empty"}.
+- Position 195, Q105656628: retain. Original {"id":"Q105656628","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 196, Q105656952: retain. Original {"id":"Q105656952","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 197, Q105657097: retain. Original {"id":"Q105657097","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 198, Q105657270: retain. Original {"id":"Q105657270","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 199, Q105657352: retain. Original {"id":"Q105657352","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 201, Q105658458: retain. Original {"id":"Q105658458","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 202, Q105658460: retain. Original {"id":"Q105658460","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 203, Q105658461: retain. Original {"id":"Q105658461","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 204, Q105658462: retain. Original {"id":"Q105658462","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 205, Q105658463: retain. Original {"id":"Q105658463","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 206, Q105658464: retain. Original {"id":"Q105658464","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 207, Q105658465: retain. Original {"id":"Q105658465","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 208, Q105658467: retain. Original {"id":"Q105658467","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 209, Q105658468: retain. Original {"id":"Q105658468","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 210, Q105658469: retain. Original {"id":"Q105658469","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 211, Q105658470: retain. Original {"id":"Q105658470","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 212, Q105658471: retain. Original {"id":"Q105658471","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 213, Q105658472: retain. Original {"id":"Q105658472","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 214, Q105658473: retain. Original {"id":"Q105658473","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 215, Q105658475: retain. Original {"id":"Q105658475","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 216, Q105658476: retain. Original {"id":"Q105658476","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 217, Q105658477: retain. Original {"id":"Q105658477","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 218, Q105658478: retain. Original {"id":"Q105658478","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 219, Q105658479: retain. Original {"id":"Q105658479","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 220, Q105658480: retain. Original {"id":"Q105658480","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 221, Q105658481: retain. Original {"id":"Q105658481","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 222, Q105658482: retain. Original {"id":"Q105658482","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 223, Q105658483: retain. Original {"id":"Q105658483","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 224, Q105658484: retain. Original {"id":"Q105658484","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 225, Q105658485: retain. Original {"id":"Q105658485","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 226, Q105658486: retain. Original {"id":"Q105658486","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 227, Q105658487: retain. Original {"id":"Q105658487","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 228, Q105658488: retain. Original {"id":"Q105658488","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 229, Q105658489: retain. Original {"id":"Q105658489","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 230, Q105658490: retain. Original {"id":"Q105658490","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 231, Q105658492: retain. Original {"id":"Q105658492","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 232, Q105658493: retain. Original {"id":"Q105658493","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 233, Q105658494: retain. Original {"id":"Q105658494","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 234, Q105658495: retain. Original {"id":"Q105658495","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 235, Q105658496: retain. Original {"id":"Q105658496","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 236, Q105658497: retain. Original {"id":"Q105658497","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 237, Q105658498: retain. Original {"id":"Q105658498","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 238, Q105658499: retain. Original {"id":"Q105658499","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 239, Q105658500: retain. Original {"id":"Q105658500","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 240, Q105658501: retain. Original {"id":"Q105658501","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 241, Q105658502: retain. Original {"id":"Q105658502","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 242, Q105658503: retain. Original {"id":"Q105658503","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 243, Q105658504: retain. Original {"id":"Q105658504","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 244, Q105658505: retain. Original {"id":"Q105658505","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 245, Q105658506: retain. Original {"id":"Q105658506","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 246, Q105658507: retain. Original {"id":"Q105658507","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 247, Q105658508: retain. Original {"id":"Q105658508","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 248, Q105658509: retain. Original {"id":"Q105658509","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 249, Q105658510: retain. Original {"id":"Q105658510","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 250, Q105658517: retain. Original {"id":"Q105658517","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 251, Q105658518: retain. Original {"id":"Q105658518","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 252, Q105658519: retain. Original {"id":"Q105658519","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 253, Q105658520: retain. Original {"id":"Q105658520","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 254, Q105658522: retain. Original {"id":"Q105658522","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 255, Q105658523: retain. Original {"id":"Q105658523","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 256, Q105658524: retain. Original {"id":"Q105658524","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 257, Q105658525: retain. Original {"id":"Q105658525","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 258, Q105658526: retain. Original {"id":"Q105658526","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 259, Q105658527: retain. Original {"id":"Q105658527","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 260, Q105658528: retain. Original {"id":"Q105658528","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 261, Q105658529: retain. Original {"id":"Q105658529","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 262, Q105658530: retain. Original {"id":"Q105658530","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 263, Q105658531: retain. Original {"id":"Q105658531","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 264, Q105658532: retain. Original {"id":"Q105658532","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 265, Q105658533: retain. Original {"id":"Q105658533","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 266, Q105658534: retain. Original {"id":"Q105658534","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 267, Q105658535: retain. Original {"id":"Q105658535","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 268, Q105658536: retain. Original {"id":"Q105658536","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 269, Q105658537: retain. Original {"id":"Q105658537","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 270, Q105658538: retain. Original {"id":"Q105658538","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 271, Q105658540: retain. Original {"id":"Q105658540","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 272, Q105658541: retain. Original {"id":"Q105658541","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 273, Q105658542: retain. Original {"id":"Q105658542","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 274, Q105658544: retain. Original {"id":"Q105658544","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 275, Q105658545: retain. Original {"id":"Q105658545","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 276, Q105658546: retain. Original {"id":"Q105658546","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 277, Q105658547: retain. Original {"id":"Q105658547","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 278, Q105658548: retain. Original {"id":"Q105658548","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 279, Q105658549: retain. Original {"id":"Q105658549","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 280, Q105658550: retain. Original {"id":"Q105658550","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 281, Q105658551: retain. Original {"id":"Q105658551","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 282, Q105658552: retain. Original {"id":"Q105658552","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 283, Q105658553: retain. Original {"id":"Q105658553","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 284, Q105658554: retain. Original {"id":"Q105658554","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 285, Q105658555: retain. Original {"id":"Q105658555","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 286, Q105658556: retain. Original {"id":"Q105658556","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 287, Q105658558: retain. Original {"id":"Q105658558","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 288, Q105658559: retain. Original {"id":"Q105658559","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 289, Q105658561: retain. Original {"id":"Q105658561","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 290, Q105658569: retain. Original {"id":"Q105658569","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 291, Q105658574: retain. Original {"id":"Q105658574","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 292, Q105658575: retain. Original {"id":"Q105658575","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 293, Q105658576: retain. Original {"id":"Q105658576","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 294, Q105658578: retain. Original {"id":"Q105658578","verdict":"remove","reason":"second opinion: kancha aamer sorbot is a raw mango drink"}.
+- Position 295, Q105658939: retain. Original {"id":"Q105658939","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 296, Q105658941: retain. Original {"id":"Q105658941","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 297, Q105658942: retain. Original {"id":"Q105658942","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 298, Q105658943: retain. Original {"id":"Q105658943","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 299, Q105658944: retain. Original {"id":"Q105658944","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+- Position 300, Q105658945: retain. Original {"id":"Q105658945","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}.
+
+## names-002
+
+Audited 261 flagged original entries; 3 changed.
+
+- Position 1, Q105658946: retain. Original {"id":"Q105658946","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 2, Q105658947: retain. Original {"id":"Q105658947","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 3, Q105658948: retain. Original {"id":"Q105658948","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 4, Q105658949: retain. Original {"id":"Q105658949","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 5, Q105658950: retain. Original {"id":"Q105658950","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 6, Q105658951: retain. Original {"id":"Q105658951","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 7, Q105658952: retain. Original {"id":"Q105658952","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 8, Q105658953: retain. Original {"id":"Q105658953","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 9, Q105658954: retain. Original {"id":"Q105658954","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 10, Q105658955: retain. Original {"id":"Q105658955","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 11, Q105658956: retain. Original {"id":"Q105658956","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 12, Q105658957: retain. Original {"id":"Q105658957","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 13, Q105658958: retain. Original {"id":"Q105658958","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 14, Q105658959: retain. Original {"id":"Q105658959","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 15, Q105658960: retain. Original {"id":"Q105658960","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 16, Q105658961: retain. Original {"id":"Q105658961","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 17, Q105658962: retain. Original {"id":"Q105658962","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 18, Q105658963: retain. Original {"id":"Q105658963","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 19, Q105658964: retain. Original {"id":"Q105658964","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 20, Q105658965: retain. Original {"id":"Q105658965","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 21, Q105658966: retain. Original {"id":"Q105658966","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 22, Q105658967: retain. Original {"id":"Q105658967","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 23, Q105658968: retain. Original {"id":"Q105658968","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 24, Q105658969: retain. Original {"id":"Q105658969","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 25, Q105658970: retain. Original {"id":"Q105658970","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 26, Q105658971: retain. Original {"id":"Q105658971","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 27, Q105658972: retain. Original {"id":"Q105658972","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 28, Q105658973: retain. Original {"id":"Q105658973","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 29, Q105658974: retain. Original {"id":"Q105658974","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 30, Q105658975: retain. Original {"id":"Q105658975","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 31, Q105658976: retain. Original {"id":"Q105658976","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 32, Q105658977: retain. Original {"id":"Q105658977","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 33, Q105658978: retain. Original {"id":"Q105658978","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 34, Q105658979: retain. Original {"id":"Q105658979","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 35, Q105658980: retain. Original {"id":"Q105658980","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 36, Q105658981: retain. Original {"id":"Q105658981","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 37, Q105658982: retain. Original {"id":"Q105658982","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 38, Q105658983: retain. Original {"id":"Q105658983","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 39, Q105658984: retain. Original {"id":"Q105658984","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 40, Q105658985: retain. Original {"id":"Q105658985","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 41, Q105658986: retain. Original {"id":"Q105658986","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 42, Q105659028: retain. Original {"id":"Q105659028","verdict":"keep","countries":["BD","IN"],"reason":"Bengali chhenchki dish, countries empty"}.
+- Position 43, Q105659032: retain. Original {"id":"Q105659032","verdict":"keep","countries":["BD","IN"],"reason":"Bengali chhenchki dish, countries empty"}.
+- Position 44, Q105659035: retain. Original {"id":"Q105659035","verdict":"keep","countries":["BD","IN"],"reason":"Bengali chhenchki dish, countries empty"}.
+- Position 45, Q105659038: retain. Original {"id":"Q105659038","verdict":"keep","countries":["BD","IN"],"reason":"Bengali chhenchki dish, countries empty"}.
+- Position 46, Q105659040: retain. Original {"id":"Q105659040","verdict":"keep","countries":["BD","IN"],"reason":"Bengali chhenchki dish, countries empty"}.
+- Position 48, Q105659047: retain. Original {"id":"Q105659047","verdict":"keep","countries":["BD","IN"],"reason":"Bengali chhenchki dish, countries empty"}.
+- Position 54, Q10567075: retain. Original {"id":"Q10567075","verdict":"keep","countries":["TW"],"reason":"Taiwanese dish, countries empty"}.
+- Position 55, Q10567133: retain. Original {"id":"Q10567133","verdict":"keep","countries":["TW"],"reason":"Taiwanese dish, countries empty"}.
+- Position 56, Q105671386: retain. Original {"id":"Q105671386","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 57, Q105671387: retain. Original {"id":"Q105671387","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 58, Q105671389: retain. Original {"id":"Q105671389","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 59, Q105671391: retain. Original {"id":"Q105671391","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 60, Q105671394: retain. Original {"id":"Q105671394","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 61, Q105671395: retain. Original {"id":"Q105671395","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 62, Q105671397: retain. Original {"id":"Q105671397","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 63, Q105671398: retain. Original {"id":"Q105671398","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 64, Q105671400: retain. Original {"id":"Q105671400","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 65, Q105671402: retain. Original {"id":"Q105671402","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 66, Q105671405: retain. Original {"id":"Q105671405","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 67, Q105671406: retain. Original {"id":"Q105671406","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 68, Q105671408: retain. Original {"id":"Q105671408","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 69, Q105671411: retain. Original {"id":"Q105671411","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 70, Q105671412: retain. Original {"id":"Q105671412","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 71, Q105671415: retain. Original {"id":"Q105671415","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 72, Q105671417: retain. Original {"id":"Q105671417","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 73, Q105671418: retain. Original {"id":"Q105671418","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 74, Q105671420: retain. Original {"id":"Q105671420","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 75, Q105671422: retain. Original {"id":"Q105671422","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 76, Q105671423: retain. Original {"id":"Q105671423","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 77, Q105671425: retain. Original {"id":"Q105671425","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 78, Q105671426: retain. Original {"id":"Q105671426","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 79, Q105671428: retain. Original {"id":"Q105671428","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 80, Q105671429: retain. Original {"id":"Q105671429","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 81, Q105671431: retain. Original {"id":"Q105671431","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 82, Q105671433: retain. Original {"id":"Q105671433","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 83, Q105671434: retain. Original {"id":"Q105671434","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 84, Q105671438: retain. Original {"id":"Q105671438","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 85, Q105671440: retain. Original {"id":"Q105671440","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 86, Q105671441: retain. Original {"id":"Q105671441","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 87, Q105671443: retain. Original {"id":"Q105671443","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 88, Q105671445: retain. Original {"id":"Q105671445","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 89, Q105671448: retain. Original {"id":"Q105671448","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 90, Q105671450: retain. Original {"id":"Q105671450","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 91, Q105671452: retain. Original {"id":"Q105671452","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 92, Q105671454: retain. Original {"id":"Q105671454","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 93, Q105671455: retain. Original {"id":"Q105671455","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 94, Q105671457: retain. Original {"id":"Q105671457","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 95, Q105671459: retain. Original {"id":"Q105671459","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 96, Q105671461: retain. Original {"id":"Q105671461","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 97, Q105671463: retain. Original {"id":"Q105671463","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 98, Q105671466: retain. Original {"id":"Q105671466","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 99, Q105671468: retain. Original {"id":"Q105671468","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 100, Q105671470: retain. Original {"id":"Q105671470","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 101, Q105671473: retain. Original {"id":"Q105671473","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 102, Q105671474: retain. Original {"id":"Q105671474","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 103, Q105671475: retain. Original {"id":"Q105671475","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 104, Q105671477: retain. Original {"id":"Q105671477","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 105, Q105671479: retain. Original {"id":"Q105671479","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 106, Q105671547: retain. Original {"id":"Q105671547","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 107, Q105671549: retain. Original {"id":"Q105671549","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 108, Q105671552: retain. Original {"id":"Q105671552","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 109, Q105671553: retain. Original {"id":"Q105671553","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 110, Q105671555: retain. Original {"id":"Q105671555","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 111, Q105671556: retain. Original {"id":"Q105671556","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 112, Q105671558: retain. Original {"id":"Q105671558","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 113, Q105671559: retain. Original {"id":"Q105671559","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 114, Q105671561: retain. Original {"id":"Q105671561","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 115, Q105671562: retain. Original {"id":"Q105671562","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 116, Q105671563: retain. Original {"id":"Q105671563","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 117, Q105671564: retain. Original {"id":"Q105671564","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 118, Q105671565: retain. Original {"id":"Q105671565","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 119, Q105671566: retain. Original {"id":"Q105671566","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 120, Q105671568: retain. Original {"id":"Q105671568","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 121, Q105671569: retain. Original {"id":"Q105671569","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 122, Q105671571: retain. Original {"id":"Q105671571","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 123, Q105671573: retain. Original {"id":"Q105671573","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 124, Q105671574: retain. Original {"id":"Q105671574","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 125, Q105671575: retain. Original {"id":"Q105671575","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 126, Q105671576: retain. Original {"id":"Q105671576","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 127, Q105671577: retain. Original {"id":"Q105671577","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 128, Q105671578: retain. Original {"id":"Q105671578","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 129, Q105671579: retain. Original {"id":"Q105671579","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 130, Q105671580: retain. Original {"id":"Q105671580","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 131, Q105671581: retain. Original {"id":"Q105671581","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 132, Q105671582: retain. Original {"id":"Q105671582","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 133, Q105671583: retain. Original {"id":"Q105671583","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 134, Q105671584: retain. Original {"id":"Q105671584","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 135, Q105671585: retain. Original {"id":"Q105671585","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 136, Q105671586: retain. Original {"id":"Q105671586","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 137, Q105671587: retain. Original {"id":"Q105671587","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 138, Q105671588: retain. Original {"id":"Q105671588","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 139, Q105671589: retain. Original {"id":"Q105671589","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 140, Q105671590: retain. Original {"id":"Q105671590","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 141, Q105671591: retain. Original {"id":"Q105671591","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 142, Q105671593: retain. Original {"id":"Q105671593","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 143, Q105671595: retain. Original {"id":"Q105671595","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 144, Q105671597: retain. Original {"id":"Q105671597","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 145, Q105671598: retain. Original {"id":"Q105671598","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 146, Q105671599: retain. Original {"id":"Q105671599","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 147, Q105671600: retain. Original {"id":"Q105671600","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 148, Q105671601: retain. Original {"id":"Q105671601","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 149, Q105671602: retain. Original {"id":"Q105671602","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 150, Q105671604: retain. Original {"id":"Q105671604","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 151, Q105671605: retain. Original {"id":"Q105671605","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 152, Q105671606: retain. Original {"id":"Q105671606","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 153, Q105671614: retain. Original {"id":"Q105671614","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 154, Q105671615: retain. Original {"id":"Q105671615","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 155, Q105671616: retain. Original {"id":"Q105671616","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 156, Q105671617: retain. Original {"id":"Q105671617","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 157, Q105671618: retain. Original {"id":"Q105671618","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 158, Q105671619: retain. Original {"id":"Q105671619","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 159, Q105671620: retain. Original {"id":"Q105671620","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 160, Q105671621: retain. Original {"id":"Q105671621","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 161, Q105671623: retain. Original {"id":"Q105671623","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 162, Q105671624: retain. Original {"id":"Q105671624","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 163, Q105671627: retain. Original {"id":"Q105671627","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 164, Q105671628: retain. Original {"id":"Q105671628","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 165, Q105671629: retain. Original {"id":"Q105671629","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 166, Q105671630: retain. Original {"id":"Q105671630","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 167, Q105671631: retain. Original {"id":"Q105671631","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 168, Q105671632: retain. Original {"id":"Q105671632","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 169, Q105671634: retain. Original {"id":"Q105671634","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 170, Q105671635: retain. Original {"id":"Q105671635","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 171, Q105671636: retain. Original {"id":"Q105671636","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 172, Q105671638: retain. Original {"id":"Q105671638","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 173, Q105671639: retain. Original {"id":"Q105671639","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 174, Q105671772: retain. Original {"id":"Q105671772","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 175, Q105671817: retain. Original {"id":"Q105671817","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 176, Q10567313: retain. Original {"id":"Q10567313","verdict":"keep","countries":["TW"],"reason":"Taiwanese street food, countries empty"}.
+- Position 178, Q105674767: retain. Original {"id":"Q105674767","verdict":"keep","countries":["IN"],"reason":"Thalassery (Kerala) dish, countries empty"}.
+- Position 180, Q105675486: change. Original {"id":"Q105675486","verdict":"keep","countries":["AT"],"reason":"Tyrolean dish, countries empty"}. Final {"id":"Q105675486","verdict":"keep","countries":["AT","IT"],"reason":"Tyrolean bread belongs to the shared Austrian and Italian Tyrol region."}.
+- Position 183, Q105685268: retain. Original {"id":"Q105685268","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 184, Q105685290: retain. Original {"id":"Q105685290","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 185, Q105685335: retain. Original {"id":"Q105685335","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 186, Q105685638: retain. Original {"id":"Q105685638","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 187, Q105685639: retain. Original {"id":"Q105685639","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 188, Q105685640: retain. Original {"id":"Q105685640","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 189, Q105685641: retain. Original {"id":"Q105685641","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 190, Q105685642: retain. Original {"id":"Q105685642","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 191, Q105685643: retain. Original {"id":"Q105685643","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 192, Q105685644: retain. Original {"id":"Q105685644","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 193, Q105685645: retain. Original {"id":"Q105685645","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 194, Q105685646: retain. Original {"id":"Q105685646","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 195, Q105685647: retain. Original {"id":"Q105685647","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 196, Q105685648: retain. Original {"id":"Q105685648","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 197, Q105685649: retain. Original {"id":"Q105685649","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 198, Q105685650: retain. Original {"id":"Q105685650","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 199, Q105685651: retain. Original {"id":"Q105685651","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 200, Q105685652: retain. Original {"id":"Q105685652","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 201, Q105685653: retain. Original {"id":"Q105685653","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 202, Q105685654: retain. Original {"id":"Q105685654","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 203, Q105685655: retain. Original {"id":"Q105685655","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 204, Q105685656: retain. Original {"id":"Q105685656","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 205, Q105685657: retain. Original {"id":"Q105685657","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 206, Q105685658: retain. Original {"id":"Q105685658","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 207, Q105685659: retain. Original {"id":"Q105685659","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 208, Q105685660: retain. Original {"id":"Q105685660","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 209, Q105685661: retain. Original {"id":"Q105685661","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 210, Q105685662: retain. Original {"id":"Q105685662","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 211, Q105685663: retain. Original {"id":"Q105685663","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 212, Q105685664: retain. Original {"id":"Q105685664","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 219, Q10570326: retain. Original {"id":"Q10570326","verdict":"keep","countries":["SE"],"reason":"Swedish fish dish, countries empty"}.
+- Position 220, Q105709751: retain. Original {"id":"Q105709751","verdict":"remove","reason":"second opinion: bel er sarbat is a bael-fruit drink, not a dish"}.
+- Position 223, Q105721637: retain. Original {"id":"Q105721637","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 224, Q105721780: retain. Original {"id":"Q105721780","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 227, Q105724270: retain. Original {"id":"Q105724270","verdict":"keep","countries":["AL"],"reason":"Albanian dish, countries empty"}.
+- Position 232, Q105742190: change. Original {"id":"Q105742190","verdict":"keep","countries":["IN"],"reason":"Rogan josh (Indian dish), countries empty"}. Final {"id":"Q105742190","verdict":"keep","countries":["IN","PK"],"reason":"Mutton rogan josh is associated with shared Kashmiri cuisine in India and Pakistan."}.
+- Position 235, Q105754046: retain. Original {"id":"Q105754046","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 236, Q105754056: retain. Original {"id":"Q105754056","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 237, Q105754070: retain. Original {"id":"Q105754070","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 238, Q105754147: retain. Original {"id":"Q105754147","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 241, Q105761993: retain. Original {"id":"Q105761993","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 248, Q105819446: retain. Original {"id":"Q105819446","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 254, Q105882584: retain. Original {"id":"Q105882584","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 255, Q105882587: retain. Original {"id":"Q105882587","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 256, Q105882588: retain. Original {"id":"Q105882588","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 257, Q105882589: retain. Original {"id":"Q105882589","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 258, Q105882590: retain. Original {"id":"Q105882590","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 259, Q105882591: retain. Original {"id":"Q105882591","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 260, Q105882592: retain. Original {"id":"Q105882592","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 261, Q105882593: retain. Original {"id":"Q105882593","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 262, Q105882594: retain. Original {"id":"Q105882594","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 263, Q105882595: retain. Original {"id":"Q105882595","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 264, Q105882596: retain. Original {"id":"Q105882596","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 265, Q105882598: retain. Original {"id":"Q105882598","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 266, Q105882599: retain. Original {"id":"Q105882599","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 267, Q105882601: retain. Original {"id":"Q105882601","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 268, Q105882602: retain. Original {"id":"Q105882602","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 269, Q105882603: retain. Original {"id":"Q105882603","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 270, Q105882604: retain. Original {"id":"Q105882604","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 271, Q105882605: retain. Original {"id":"Q105882605","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 272, Q105882606: retain. Original {"id":"Q105882606","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 273, Q105882607: retain. Original {"id":"Q105882607","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 274, Q105882608: retain. Original {"id":"Q105882608","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 275, Q105882609: retain. Original {"id":"Q105882609","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 276, Q105882610: retain. Original {"id":"Q105882610","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 277, Q105882611: retain. Original {"id":"Q105882611","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 278, Q105882612: retain. Original {"id":"Q105882612","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 279, Q105882613: retain. Original {"id":"Q105882613","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 280, Q105882615: retain. Original {"id":"Q105882615","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 281, Q105882617: retain. Original {"id":"Q105882617","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 282, Q105882618: retain. Original {"id":"Q105882618","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 283, Q105882619: retain. Original {"id":"Q105882619","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 284, Q105882620: retain. Original {"id":"Q105882620","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 285, Q105882623: retain. Original {"id":"Q105882623","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 286, Q105882624: retain. Original {"id":"Q105882624","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 287, Q105882625: retain. Original {"id":"Q105882625","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 288, Q105882626: retain. Original {"id":"Q105882626","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 289, Q105882627: retain. Original {"id":"Q105882627","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 290, Q105882632: change. Original {"id":"Q105882632","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}. Final {"id":"Q105882632","verdict":"keep","countries":["IN"],"reason":"Dal dhokali is a Gujarati Indian dish; the generic Bengali description does not establish Bangladesh as a customary association."}.
+- Position 291, Q105882634: retain. Original {"id":"Q105882634","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 292, Q105882637: retain. Original {"id":"Q105882637","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 293, Q105882639: retain. Original {"id":"Q105882639","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 294, Q105882642: retain. Original {"id":"Q105882642","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 295, Q105882645: retain. Original {"id":"Q105882645","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 296, Q105882647: retain. Original {"id":"Q105882647","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 297, Q105882650: retain. Original {"id":"Q105882650","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 298, Q105882725: retain. Original {"id":"Q105882725","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 299, Q105882726: retain. Original {"id":"Q105882726","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 300, Q105882728: retain. Original {"id":"Q105882728","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+
+## names-003
+
+Audited 165 flagged original entries; 5 changed.
+
+- Position 1, Q105882730: retain. Original {"id":"Q105882730","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 2, Q105882732: retain. Original {"id":"Q105882732","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 3, Q105882734: retain. Original {"id":"Q105882734","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 4, Q105882735: retain. Original {"id":"Q105882735","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 5, Q105882736: retain. Original {"id":"Q105882736","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 6, Q105882738: retain. Original {"id":"Q105882738","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 7, Q105882739: retain. Original {"id":"Q105882739","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 8, Q105882740: retain. Original {"id":"Q105882740","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 9, Q105882741: retain. Original {"id":"Q105882741","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 10, Q105882744: retain. Original {"id":"Q105882744","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 11, Q105882745: retain. Original {"id":"Q105882745","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 12, Q105882746: retain. Original {"id":"Q105882746","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 13, Q105882747: retain. Original {"id":"Q105882747","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 14, Q105882748: retain. Original {"id":"Q105882748","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 15, Q105882750: retain. Original {"id":"Q105882750","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 16, Q105882752: retain. Original {"id":"Q105882752","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 17, Q105882753: retain. Original {"id":"Q105882753","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 18, Q105882754: retain. Original {"id":"Q105882754","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 19, Q105882755: retain. Original {"id":"Q105882755","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 20, Q105882756: retain. Original {"id":"Q105882756","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 21, Q105882758: retain. Original {"id":"Q105882758","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 22, Q105882759: retain. Original {"id":"Q105882759","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 23, Q105882763: retain. Original {"id":"Q105882763","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 24, Q105882764: retain. Original {"id":"Q105882764","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 25, Q105882765: retain. Original {"id":"Q105882765","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 26, Q105882766: retain. Original {"id":"Q105882766","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 27, Q105882768: retain. Original {"id":"Q105882768","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 28, Q105882774: retain. Original {"id":"Q105882774","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 29, Q105882776: retain. Original {"id":"Q105882776","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 30, Q105882778: retain. Original {"id":"Q105882778","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 31, Q105882782: retain. Original {"id":"Q105882782","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 32, Q105884547: retain. Original {"id":"Q105884547","verdict":"remove","reason":"chickpea variety (raw ingredient), not a dish"}.
+- Position 33, Q105890425: retain. Original {"id":"Q105890425","verdict":"remove","reason":"name 'Crust' is not an identifiable dish"}.
+- Position 36, Q105913495: retain. Original {"id":"Q105913495","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 40, Q10594193: retain. Original {"id":"Q10594193","verdict":"remove","reason":"branded licensed biscuit (Nalle Puh)"}.
+- Position 42, Q105955583: retain. Original {"id":"Q105955583","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 45, Q105968553: retain. Original {"id":"Q105968553","verdict":"remove","reason":"category (marinated foods in olive oil), not one dish"}.
+- Position 46, Q105971300: retain. Original {"id":"Q105971300","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 47, Q105972418: retain. Original {"id":"Q105972418","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 54, Q106080324: retain. Original {"id":"Q106080324","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 55, Q106080365: retain. Original {"id":"Q106080365","verdict":"keep","countries":["AZ","IR"],"reason":"Azerbaijani dish, added AZ"}.
+- Position 56, Q106080413: retain. Original {"id":"Q106080413","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dessert, countries empty"}.
+- Position 58, Q106090116: retain. Original {"id":"Q106090116","verdict":"keep","countries":["RU"],"reason":"Russian salad, countries empty"}.
+- Position 60, Q106106021: retain. Original {"id":"Q106106021","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 61, Q106106046: retain. Original {"id":"Q106106046","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 62, Q106106198: retain. Original {"id":"Q106106198","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 63, Q106106214: retain. Original {"id":"Q106106214","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 64, Q106106229: retain. Original {"id":"Q106106229","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 65, Q106106236: retain. Original {"id":"Q106106236","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 66, Q106106241: retain. Original {"id":"Q106106241","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 67, Q106106258: retain. Original {"id":"Q106106258","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 68, Q106106275: retain. Original {"id":"Q106106275","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 69, Q106106566: retain. Original {"id":"Q106106566","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 70, Q106106598: retain. Original {"id":"Q106106598","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 72, Q106113671: retain. Original {"id":"Q106113671","verdict":"keep","countries":["JP"],"reason":"Japanese wagashi, countries empty"}.
+- Position 79, Q106124978: retain. Original {"id":"Q106124978","verdict":"remove","reason":"second opinion: kancha amer sorbot is a raw mango drink"}.
+- Position 80, Q106125630: retain. Original {"id":"Q106125630","verdict":"remove","reason":"second opinion: Gondhoraj cha er sorbot is a tea and citrus drink"}.
+- Position 81, Q106125652: retain. Original {"id":"Q106125652","verdict":"remove","reason":"second opinion: lichu lonkar sorbot is a lychee and chilli drink"}.
+- Position 82, Q106125775: retain. Original {"id":"Q106125775","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 83, Q106125990: retain. Original {"id":"Q106125990","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 84, Q106125994: retain. Original {"id":"Q106125994","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 85, Q106128066: retain. Original {"id":"Q106128066","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 86, Q106128070: retain. Original {"id":"Q106128070","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 87, Q106128071: retain. Original {"id":"Q106128071","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 88, Q106128073: retain. Original {"id":"Q106128073","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 89, Q106128094: retain. Original {"id":"Q106128094","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 92, Q10615174: retain. Original {"id":"Q10615174","verdict":"keep","countries":["SE"],"reason":"Swedish porridge, countries empty"}.
+- Position 93, Q106151773: retain. Original {"id":"Q106151773","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 94, Q106151803: retain. Original {"id":"Q106151803","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 95, Q106151849: retain. Original {"id":"Q106151849","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 96, Q106151877: retain. Original {"id":"Q106151877","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 97, Q106151894: retain. Original {"id":"Q106151894","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 98, Q106152148: retain. Original {"id":"Q106152148","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 99, Q106152240: retain. Original {"id":"Q106152240","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 100, Q106152358: retain. Original {"id":"Q106152358","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 101, Q106152410: retain. Original {"id":"Q106152410","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 102, Q106152507: retain. Original {"id":"Q106152507","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 103, Q106152526: retain. Original {"id":"Q106152526","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 104, Q106152532: retain. Original {"id":"Q106152532","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 105, Q106152606: retain. Original {"id":"Q106152606","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 106, Q106152618: retain. Original {"id":"Q106152618","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 111, Q106167194: retain. Original {"id":"Q106167194","verdict":"remove","reason":"raw ingredient (ube yam), not a dish"}.
+- Position 112, Q106176265: retain. Original {"id":"Q106176265","verdict":"keep","countries":["IN","PK"],"reason":"Mughlai kebab, countries empty"}.
+- Position 113, Q106176366: retain. Original {"id":"Q106176366","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 123, Q1062144: change. Original {"id":"Q1062144","verdict":"keep","countries":["KR"],"reason":"Korean dish, countries empty"}. Final {"id":"Q1062144","verdict":"keep","countries":["KR","KP"],"reason":"Namul is shared Korean vegetable preparation associated with both Koreas."}.
+- Position 125, Q10624827: retain. Original {"id":"Q10624827","verdict":"keep","countries":["MX"],"reason":"Mexican dish, countries empty"}.
+- Position 126, Q1062483: change. Original {"id":"Q1062483","verdict":"keep","countries":["KR"],"reason":"Korean dish, countries empty"}. Final {"id":"Q1062483","verdict":"keep","countries":["KR","KP"],"reason":"Jjigae is a shared Korean stew preparation associated with both Koreas."}.
+- Position 129, Q106271597: retain. Original {"id":"Q106271597","verdict":"remove","reason":"category (Chinese pastries), not one dish"}.
+- Position 130, Q106293566: retain. Original {"id":"Q106293566","verdict":"keep","countries":["ES"],"reason":"Granada (Spain) soup, countries empty"}.
+- Position 131, Q106299589: retain. Original {"id":"Q106299589","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 133, Q1063096: retain. Original {"id":"Q1063096","verdict":"remove","reason":"category (wagashi in general), not one dish"}.
+- Position 134, Q10631613: retain. Original {"id":"Q10631613","verdict":"remove","reason":"branded packaged ice pop (Piggelin)"}.
+- Position 148, Q106407627: retain. Original {"id":"Q106407627","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 149, Q106415576: retain. Original {"id":"Q106415576","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 150, Q106415582: retain. Original {"id":"Q106415582","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 154, Q106468666: retain. Original {"id":"Q106468666","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 155, Q106468669: retain. Original {"id":"Q106468669","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 156, Q106468698: retain. Original {"id":"Q106468698","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 162, Q10650346: retain. Original {"id":"Q10650346","verdict":"remove","reason":"branded sweet (Refreshers)"}.
+- Position 164, Q106513375: retain. Original {"id":"Q106513375","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 168, Q106537056: retain. Original {"id":"Q106537056","verdict":"keep","countries":["GR","TR"],"reason":"Kavala almond cookies (Greek place name, Turkish description), countries empty"}.
+- Position 173, Q106543803: retain. Original {"id":"Q106543803","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet, countries empty"}.
+- Position 174, Q106543804: retain. Original {"id":"Q106543804","verdict":"keep","countries":["BR"],"reason":"Brazilian dessert, countries empty"}.
+- Position 176, Q106543806: retain. Original {"id":"Q106543806","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet, countries empty"}.
+- Position 177, Q106543808: retain. Original {"id":"Q106543808","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet, countries empty"}.
+- Position 178, Q106543809: retain. Original {"id":"Q106543809","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet, countries empty"}.
+- Position 180, Q106548178: retain. Original {"id":"Q106548178","verdict":"keep","countries":["PT"],"reason":"Aveiro (Portugal) pastry, countries empty"}.
+- Position 182, Q106555015: retain. Original {"id":"Q106555015","verdict":"keep","countries":["BR"],"reason":"Brazilian cake, countries empty"}.
+- Position 186, Q10659007: retain. Original {"id":"Q10659007","verdict":"keep","countries":["DK"],"reason":"Danish dish, countries empty"}.
+- Position 188, Q106592235: retain. Original {"id":"Q106592235","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 189, Q106592249: retain. Original {"id":"Q106592249","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 194, Q106611399: retain. Original {"id":"Q106611399","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 195, Q106611530: retain. Original {"id":"Q106611530","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 196, Q106611744: retain. Original {"id":"Q106611744","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 197, Q106612056: retain. Original {"id":"Q106612056","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 198, Q106612160: retain. Original {"id":"Q106612160","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 199, Q106612227: retain. Original {"id":"Q106612227","verdict":"keep","countries":["ES"],"reason":"Almudevar (Spain) pastry, countries empty"}.
+- Position 200, Q106616113: retain. Original {"id":"Q106616113","verdict":"keep","countries":["CN"],"reason":"Chinese condiment, countries empty"}.
+- Position 204, Q10663096: retain. Original {"id":"Q10663096","verdict":"keep","countries":["SE"],"reason":"Swedish cookie, countries empty"}.
+- Position 205, Q106639651: retain. Original {"id":"Q106639651","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 206, Q106639871: retain. Original {"id":"Q106639871","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 207, Q106639921: retain. Original {"id":"Q106639921","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 208, Q106640602: retain. Original {"id":"Q106640602","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 209, Q106640606: retain. Original {"id":"Q106640606","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 210, Q106640622: retain. Original {"id":"Q106640622","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 212, Q106641402: retain. Original {"id":"Q106641402","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 213, Q106647459: retain. Original {"id":"Q106647459","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 214, Q106647501: retain. Original {"id":"Q106647501","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 215, Q106647513: retain. Original {"id":"Q106647513","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 217, Q106653772: retain. Original {"id":"Q106653772","verdict":"keep","countries":["TR"],"reason":"Turkish dessert, countries empty"}.
+- Position 218, Q106670608: retain. Original {"id":"Q106670608","verdict":"keep","countries":["VN"],"reason":"Vietnamese banh mi, countries empty"}.
+- Position 219, Q106678690: change. Original {"id":"Q106678690","verdict":"keep","countries":["CN"],"reason":"Teochew (Chinese) rice dish, countries empty"}. Final {"id":"Q106678690","verdict":"keep","countries":["CN","SG"],"reason":"Paofan is associated with Chinese Teochew cooking and Singaporean cuisine."}.
+- Position 226, Q106702187: retain. Original {"id":"Q106702187","verdict":"keep","countries":["JP"],"reason":"Japanese dish, countries empty"}.
+- Position 228, Q106707227: retain. Original {"id":"Q106707227","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 243, Q106768821: change. Original {"id":"Q106768821","verdict":"keep","countries":["TH","LA"],"reason":"Som tam (Thai/Lao), countries empty"}. Final {"id":"Q106768821","verdict":"keep","countries":["TH","LA","KH","VN","MM"],"reason":"The general green papaya salad dish has customary Thai, Lao, Cambodian, Vietnamese and Burmese forms."}.
+- Position 244, Q106769958: retain. Original {"id":"Q106769958","verdict":"remove","reason":"honey type (ingredient), not a dish"}.
+- Position 251, Q1068180: retain. Original {"id":"Q1068180","verdict":"keep","countries":["FR"],"reason":"French dish, countries empty"}.
+- Position 259, Q106840433: retain. Original {"id":"Q106840433","verdict":"keep","countries":["JP"],"reason":"Japanese yoshoku, countries empty"}.
+- Position 269, Q106898676: retain. Original {"id":"Q106898676","verdict":"keep","countries":["JP"],"reason":"Okinawan (Japanese) dish, countries empty"}.
+- Position 273, Q106952818: retain. Original {"id":"Q106952818","verdict":"remove","reason":"honey type (ingredient), not a dish"}.
+- Position 274, Q1069561: change. Original {"id":"Q1069561","verdict":"keep","countries":["KR"],"reason":"Korean dish, countries empty"}. Final {"id":"Q1069561","verdict":"keep","countries":["KR","KP"],"reason":"Yukgaejang is a Korean soup shared across both Koreas."}.
+- Position 275, Q1069591: retain. Original {"id":"Q1069591","verdict":"keep","countries":["KR"],"reason":"Korean dish, countries empty"}.
+- Position 278, Q106980961: retain. Original {"id":"Q106980961","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 279, Q106980967: retain. Original {"id":"Q106980967","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 280, Q106980976: retain. Original {"id":"Q106980976","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 281, Q106980978: retain. Original {"id":"Q106980978","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 282, Q106980983: retain. Original {"id":"Q106980983","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 283, Q106980987: retain. Original {"id":"Q106980987","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 284, Q106980997: retain. Original {"id":"Q106980997","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 285, Q106981003: retain. Original {"id":"Q106981003","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 286, Q106981005: retain. Original {"id":"Q106981005","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 287, Q106981007: retain. Original {"id":"Q106981007","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 288, Q106981009: retain. Original {"id":"Q106981009","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 289, Q106981012: retain. Original {"id":"Q106981012","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 290, Q106981017: retain. Original {"id":"Q106981017","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 291, Q106981031: retain. Original {"id":"Q106981031","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 292, Q106981036: retain. Original {"id":"Q106981036","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 293, Q106981038: retain. Original {"id":"Q106981038","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 294, Q106981046: retain. Original {"id":"Q106981046","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 295, Q106981048: retain. Original {"id":"Q106981048","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 296, Q106981058: retain. Original {"id":"Q106981058","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 297, Q106981168: retain. Original {"id":"Q106981168","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 298, Q106981174: retain. Original {"id":"Q106981174","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 299, Q106981180: retain. Original {"id":"Q106981180","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+- Position 300, Q106981184: retain. Original {"id":"Q106981184","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}.
+
+## names-004
+
+Audited 177 flagged original entries; 9 changed.
+
+- Position 1, Q106981206: retain. Original {"id":"Q106981206","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 2, Q106981239: retain. Original {"id":"Q106981239","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 3, Q106981280: retain. Original {"id":"Q106981280","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 4, Q106981334: retain. Original {"id":"Q106981334","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 5, Q106981386: retain. Original {"id":"Q106981386","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 6, Q106981419: retain. Original {"id":"Q106981419","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 7, Q106981489: retain. Original {"id":"Q106981489","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 8, Q106981790: retain. Original {"id":"Q106981790","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 9, Q106981799: retain. Original {"id":"Q106981799","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 10, Q106981809: retain. Original {"id":"Q106981809","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 11, Q106981848: retain. Original {"id":"Q106981848","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 12, Q106981872: retain. Original {"id":"Q106981872","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 13, Q106981884: retain. Original {"id":"Q106981884","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 14, Q106981894: retain. Original {"id":"Q106981894","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 15, Q10698666: change. Original {"id":"Q10698666","verdict":"keep","countries":["SE"],"reason":"Swedish dish; country added"}. Final {"id":"Q10698666","verdict":"keep","reason":"Retain the soup, but its Swedish name alone does not establish a country."}.
+- Position 16, Q106986849: retain. Original {"id":"Q106986849","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 17, Q10698918: retain. Original {"id":"Q10698918","verdict":"keep","countries":["SE"],"reason":"Swedish pastry; country added"}.
+- Position 20, Q10699144: retain. Original {"id":"Q10699144","verdict":"keep","countries":["SE"],"reason":"Swedish open sandwich; country added"}.
+- Position 23, Q107014807: retain. Original {"id":"Q107014807","verdict":"keep","countries":["JP","CN"],"reason":"Japanese-Chinese dumpling; countries added"}.
+- Position 25, Q107027754: retain. Original {"id":"Q107027754","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 26, Q107027762: retain. Original {"id":"Q107027762","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 27, Q107027782: retain. Original {"id":"Q107027782","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 28, Q107027794: retain. Original {"id":"Q107027794","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 29, Q107027805: retain. Original {"id":"Q107027805","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 30, Q107027822: retain. Original {"id":"Q107027822","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 31, Q107027921: retain. Original {"id":"Q107027921","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 32, Q107028159: retain. Original {"id":"Q107028159","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 34, Q107061450: retain. Original {"id":"Q107061450","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 35, Q107061453: retain. Original {"id":"Q107061453","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 36, Q107061461: retain. Original {"id":"Q107061461","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 37, Q107061465: retain. Original {"id":"Q107061465","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 38, Q107061469: retain. Original {"id":"Q107061469","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 39, Q107061478: retain. Original {"id":"Q107061478","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 40, Q107061486: retain. Original {"id":"Q107061486","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 41, Q107061509: retain. Original {"id":"Q107061509","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 42, Q107061516: retain. Original {"id":"Q107061516","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 43, Q107061524: retain. Original {"id":"Q107061524","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 44, Q107061527: retain. Original {"id":"Q107061527","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 45, Q107061534: retain. Original {"id":"Q107061534","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 46, Q107061540: retain. Original {"id":"Q107061540","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 47, Q107061544: retain. Original {"id":"Q107061544","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 48, Q107061547: retain. Original {"id":"Q107061547","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 49, Q107061553: retain. Original {"id":"Q107061553","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 50, Q107061556: retain. Original {"id":"Q107061556","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 51, Q107061568: retain. Original {"id":"Q107061568","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 52, Q107061605: retain. Original {"id":"Q107061605","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 53, Q107061641: retain. Original {"id":"Q107061641","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 54, Q107063111: retain. Original {"id":"Q107063111","verdict":"keep","countries":["SK"],"reason":"Slovak dessert; country added"}.
+- Position 55, Q107063815: retain. Original {"id":"Q107063815","verdict":"keep","countries":["US"],"reason":"second opinion: French burnt peanuts are an American confection; the name does not establish French origin"}.
+- Position 60, Q107071683: retain. Original {"id":"Q107071683","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 61, Q107071712: retain. Original {"id":"Q107071712","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 62, Q107071820: retain. Original {"id":"Q107071820","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 63, Q107071869: retain. Original {"id":"Q107071869","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 64, Q107071920: retain. Original {"id":"Q107071920","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 65, Q107071978: retain. Original {"id":"Q107071978","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 66, Q107072060: retain. Original {"id":"Q107072060","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 67, Q107072113: retain. Original {"id":"Q107072113","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 68, Q107072144: retain. Original {"id":"Q107072144","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 71, Q107094509: retain. Original {"id":"Q107094509","verdict":"keep","countries":["US"],"reason":"American dessert; country added"}.
+- Position 79, Q107144689: retain. Original {"id":"Q107144689","verdict":"keep","countries":["LK"],"reason":"Sri Lankan food; country added"}.
+- Position 80, Q107148053: retain. Original {"id":"Q107148053","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 81, Q107148175: retain. Original {"id":"Q107148175","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 82, Q107148885: retain. Original {"id":"Q107148885","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 83, Q107149162: retain. Original {"id":"Q107149162","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 84, Q107149312: retain. Original {"id":"Q107149312","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 85, Q107149468: retain. Original {"id":"Q107149468","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 86, Q107149596: retain. Original {"id":"Q107149596","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 87, Q107149604: retain. Original {"id":"Q107149604","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 88, Q107149615: retain. Original {"id":"Q107149615","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 89, Q107149626: retain. Original {"id":"Q107149626","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 90, Q10715213: retain. Original {"id":"Q10715213","verdict":"keep","countries":["SE"],"reason":"Swedish crispbread; country added"}.
+- Position 93, Q10716336: change. Original {"id":"Q10716336","verdict":"keep","countries":["NO"],"reason":"Norwegian dish; country added"}. Final {"id":"Q10716336","verdict":"keep","reason":"Garlic pickled herring is a prepared food shared across Nordic cuisines; the Norwegian label alone is not a country basis."}.
+- Position 94, Q1071699: change. Original {"id":"Q1071699","verdict":"keep","countries":["KR"],"reason":"Korean hot pot; country added"}. Final {"id":"Q1071699","verdict":"keep","countries":["KR","KP"],"reason":"Jeongol is a shared Korean hot-pot preparation associated with both Koreas."}.
+- Position 95, Q107174355: retain. Original {"id":"Q107174355","verdict":"keep","countries":["HR"],"reason":"Dalmatian fish stew; country added"}.
+- Position 100, Q107204227: retain. Original {"id":"Q107204227","verdict":"keep","countries":["FI"],"reason":"Finnish sausage; country added"}.
+- Position 102, Q107213541: change. Original {"id":"Q107213541","verdict":"keep","countries":["DE"],"reason":"German bread roll; country added"}. Final {"id":"Q107213541","verdict":"keep","reason":"Wholegrain rolls are a prepared food; the German label alone does not establish German origin."}.
+- Position 113, Q107285110: retain. Original {"id":"Q107285110","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 114, Q107285115: retain. Original {"id":"Q107285115","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 115, Q107285128: retain. Original {"id":"Q107285128","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 116, Q107286601: retain. Original {"id":"Q107286601","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 117, Q107286602: retain. Original {"id":"Q107286602","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 118, Q107286603: retain. Original {"id":"Q107286603","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 119, Q107286605: retain. Original {"id":"Q107286605","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 120, Q107286606: retain. Original {"id":"Q107286606","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 121, Q107286607: retain. Original {"id":"Q107286607","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 122, Q107286608: retain. Original {"id":"Q107286608","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 123, Q107286609: retain. Original {"id":"Q107286609","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 124, Q107286610: retain. Original {"id":"Q107286610","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 125, Q107286611: retain. Original {"id":"Q107286611","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 126, Q107286615: retain. Original {"id":"Q107286615","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 127, Q107286616: retain. Original {"id":"Q107286616","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 128, Q107286617: retain. Original {"id":"Q107286617","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 129, Q107286618: retain. Original {"id":"Q107286618","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 130, Q107286619: retain. Original {"id":"Q107286619","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 131, Q107286620: retain. Original {"id":"Q107286620","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 132, Q107286621: retain. Original {"id":"Q107286621","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 133, Q107286622: retain. Original {"id":"Q107286622","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 134, Q107286623: retain. Original {"id":"Q107286623","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 135, Q107286624: retain. Original {"id":"Q107286624","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 136, Q107286625: retain. Original {"id":"Q107286625","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 137, Q107286626: retain. Original {"id":"Q107286626","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 138, Q107286627: retain. Original {"id":"Q107286627","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 139, Q107286628: retain. Original {"id":"Q107286628","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 140, Q107286629: retain. Original {"id":"Q107286629","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 141, Q107286631: retain. Original {"id":"Q107286631","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 142, Q107286632: retain. Original {"id":"Q107286632","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 143, Q107286633: retain. Original {"id":"Q107286633","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 144, Q107286634: retain. Original {"id":"Q107286634","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 145, Q107286635: retain. Original {"id":"Q107286635","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 146, Q107286636: retain. Original {"id":"Q107286636","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 147, Q107286638: retain. Original {"id":"Q107286638","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 148, Q107286639: retain. Original {"id":"Q107286639","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 149, Q107286640: retain. Original {"id":"Q107286640","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 150, Q107286641: retain. Original {"id":"Q107286641","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 151, Q107286642: retain. Original {"id":"Q107286642","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 152, Q107286643: retain. Original {"id":"Q107286643","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 153, Q107286644: retain. Original {"id":"Q107286644","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 154, Q107286645: retain. Original {"id":"Q107286645","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 155, Q107286646: retain. Original {"id":"Q107286646","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 156, Q107286648: retain. Original {"id":"Q107286648","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 157, Q107286649: retain. Original {"id":"Q107286649","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 158, Q107286650: retain. Original {"id":"Q107286650","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 159, Q107286651: retain. Original {"id":"Q107286651","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 160, Q107286652: retain. Original {"id":"Q107286652","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 161, Q107286653: retain. Original {"id":"Q107286653","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 162, Q107286654: retain. Original {"id":"Q107286654","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 163, Q107286655: retain. Original {"id":"Q107286655","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 164, Q107286663: retain. Original {"id":"Q107286663","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 165, Q107286664: retain. Original {"id":"Q107286664","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 166, Q107286665: retain. Original {"id":"Q107286665","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 167, Q107286666: retain. Original {"id":"Q107286666","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 168, Q107286667: retain. Original {"id":"Q107286667","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 169, Q107286668: retain. Original {"id":"Q107286668","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 170, Q107286669: retain. Original {"id":"Q107286669","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 171, Q107286670: retain. Original {"id":"Q107286670","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 172, Q107286672: retain. Original {"id":"Q107286672","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 173, Q107286673: retain. Original {"id":"Q107286673","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 174, Q107286675: retain. Original {"id":"Q107286675","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 175, Q107286677: retain. Original {"id":"Q107286677","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 176, Q107286678: retain. Original {"id":"Q107286678","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 177, Q107286679: retain. Original {"id":"Q107286679","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 178, Q107287406: retain. Original {"id":"Q107287406","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 179, Q107287437: retain. Original {"id":"Q107287437","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 180, Q107287449: retain. Original {"id":"Q107287449","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 181, Q107287463: retain. Original {"id":"Q107287463","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 182, Q107289424: retain. Original {"id":"Q107289424","verdict":"remove","reason":"generic category (soup), not one dish"}.
+- Position 184, Q107292775: retain. Original {"id":"Q107292775","verdict":"keep","countries":["DO"],"reason":"Dominican dish; country added"}.
+- Position 187, Q107304811: retain. Original {"id":"Q107304811","verdict":"keep","countries":["GB"],"reason":"English dish; country added"}.
+- Position 189, Q1073115: change. Original {"id":"Q1073115","verdict":"keep","countries":["KR"],"reason":"Korean dessert; country added"}. Final {"id":"Q1073115","verdict":"keep","countries":["KR","KP"],"reason":"Dasik is shared Korean traditional confectionery associated with both Koreas."}.
+- Position 190, Q1073156: change. Original {"id":"Q1073156","verdict":"keep","countries":["KR"],"reason":"Korean kimchi; country added"}. Final {"id":"Q1073156","verdict":"keep","countries":["KR","KP"],"reason":"White kimchi is associated with both Koreas."}.
+- Position 202, Q107357073: retain. Original {"id":"Q107357073","verdict":"keep","name":"Okpa","reason":"name was the crop 'Bambara groundnut'; description and ingredients are for okpa"}.
+- Position 221, Q107364240: retain. Original {"id":"Q107364240","verdict":"keep","name":"Ora soup","reason":"name was the plant; description and text are for Ora (Oha) soup"}.
+- Position 225, Q107370151: retain. Original {"id":"Q107370151","verdict":"keep","countries":["ES"],"reason":"Valencian food; country added"}.
+- Position 240, Q10742199: retain. Original {"id":"Q10742199","verdict":"keep","countries":["VN"],"reason":"Vietnamese dish; country added"}.
+- Position 241, Q10742203: retain. Original {"id":"Q10742203","verdict":"keep","countries":["VN"],"reason":"Vietnamese cake; country added"}.
+- Position 244, Q10742209: retain. Original {"id":"Q10742209","verdict":"keep","countries":["VN"],"reason":"Vietnamese bánh; country added"}.
+- Position 245, Q10742210: retain. Original {"id":"Q10742210","verdict":"keep","countries":["VN"],"reason":"Vietnamese dish; country added"}.
+- Position 246, Q10742230: retain. Original {"id":"Q10742230","verdict":"keep","countries":["VN"],"reason":"Vietnamese dish; country added"}.
+- Position 254, Q107434730: retain. Original {"id":"Q107434730","verdict":"keep","countries":[],"reason":"second opinion: Rohkostsalat is a generic raw vegetable salad; its German name alone does not establish a country"}.
+- Position 269, Q10748896: retain. Original {"id":"Q10748896","verdict":"keep","countries":["MN"],"reason":"Mongolian dish; country added"}.
+- Position 277, Q10752179: retain. Original {"id":"Q10752179","verdict":"keep","countries":["VN"],"reason":"Vietnamese dish; country added"}.
+- Position 278, Q10752219: retain. Original {"id":"Q10752219","verdict":"keep","countries":["BE","NL"],"reason":"second opinion: suikerbonen are traditional birth and baptism sweets in Belgium and parts of the Netherlands"}.
+- Position 282, Q1075430: change. Original {"id":"Q1075430","verdict":"keep","countries":["KR"],"reason":"Korean soup; country added"}. Final {"id":"Q1075430","verdict":"keep","countries":["KR","KP"],"reason":"Gomguk is a shared Korean beef soup associated with both Koreas."}.
+- Position 283, Q1075614: change. Original {"id":"Q1075614","verdict":"remove","reason":"brand product (Orion Choco Pie), packaged snack"}. Final {"id":"Q1075614","verdict":"keep","countries":["KR"],"reason":"The entry names the generic choco-pie snack cake, not a particular maker or branded product."}.
+- Position 284, Q107569320: retain. Original {"id":"Q107569320","verdict":"keep","countries":["ID"],"reason":"Indonesian gulai; country added"}.
+- Position 285, Q107586753: retain. Original {"id":"Q107586753","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 286, Q107586963: retain. Original {"id":"Q107586963","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 287, Q107587005: retain. Original {"id":"Q107587005","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 288, Q107598863: retain. Original {"id":"Q107598863","verdict":"remove","reason":"supermarket sales promotion (meal bundle), not a dish"}.
+- Position 289, Q107610602: retain. Original {"id":"Q107610602","verdict":"keep","countries":["FR"],"reason":"French egg dish; country added"}.
+- Position 290, Q107612492: retain. Original {"id":"Q107612492","verdict":"keep","countries":["JP"],"reason":"Japanese yoshoku dish; country added"}.
+- Position 291, Q107625293: change. Original {"id":"Q107625293","verdict":"keep","countries":["DE"],"reason":"German dish; country added"}. Final {"id":"Q107625293","verdict":"keep","reason":"Stuffed kohlrabi is a prepared dish shared across Central Europe; its German name does not establish a uniquely German association."}.
+- Position 296, Q107657017: retain. Original {"id":"Q107657017","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 297, Q107657041: retain. Original {"id":"Q107657041","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 298, Q107657123: retain. Original {"id":"Q107657123","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 299, Q107657148: retain. Original {"id":"Q107657148","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 300, Q107657183: retain. Original {"id":"Q107657183","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+
+## names-005
+
+Audited 200 flagged original entries; 1 changed.
+
+- Position 1, Q107657222: retain. Original {"id":"Q107657222","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 2, Q107657255: retain. Original {"id":"Q107657255","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 3, Q107657284: retain. Original {"id":"Q107657284","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 4, Q107657320: retain. Original {"id":"Q107657320","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 5, Q107657331: retain. Original {"id":"Q107657331","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 6, Q107657349: retain. Original {"id":"Q107657349","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 7, Q107665302: retain. Original {"id":"Q107665302","verdict":"keep","countries":["IN"],"reason":"Meitei Manipuri dish; country added"}.
+- Position 8, Q107674774: retain. Original {"id":"Q107674774","verdict":"keep","countries":["GB"],"reason":"Second opinion: retain Gordon Ramsay's Beef Wellington. The description explicitly models Gordon Ramsay's dish, not generic Beef Wellington."}.
+- Position 10, Q107682259: retain. Original {"id":"Q107682259","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 12, Q107682965: retain. Original {"id":"Q107682965","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 13, Q107682988: retain. Original {"id":"Q107682988","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 14, Q107683020: retain. Original {"id":"Q107683020","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 15, Q107683045: retain. Original {"id":"Q107683045","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 16, Q107683083: retain. Original {"id":"Q107683083","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 17, Q107683146: retain. Original {"id":"Q107683146","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 18, Q107683155: retain. Original {"id":"Q107683155","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 19, Q107683778: retain. Original {"id":"Q107683778","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 20, Q107683974: retain. Original {"id":"Q107683974","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 23, Q107695269: retain. Original {"id":"Q107695269","verdict":"remove","reason":"generic category (cooked grain / meal), not one dish"}.
+- Position 26, Q107722188: retain. Original {"id":"Q107722188","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 27, Q107722376: retain. Original {"id":"Q107722376","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 28, Q107722388: retain. Original {"id":"Q107722388","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 29, Q107724036: retain. Original {"id":"Q107724036","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 30, Q107724085: retain. Original {"id":"Q107724085","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 31, Q107724124: retain. Original {"id":"Q107724124","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 32, Q107724335: retain. Original {"id":"Q107724335","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 33, Q107724548: retain. Original {"id":"Q107724548","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 34, Q107724609: retain. Original {"id":"Q107724609","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 37, Q107739770: retain. Original {"id":"Q107739770","verdict":"keep","countries":["PH"],"reason":"Filipino ice cream; country added"}.
+- Position 39, Q107749708: retain. Original {"id":"Q107749708","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 40, Q107749848: retain. Original {"id":"Q107749848","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 41, Q107749866: retain. Original {"id":"Q107749866","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 42, Q107750079: retain. Original {"id":"Q107750079","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 43, Q107750110: retain. Original {"id":"Q107750110","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 44, Q107750143: retain. Original {"id":"Q107750143","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 45, Q107750147: retain. Original {"id":"Q107750147","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 46, Q107750161: retain. Original {"id":"Q107750161","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 47, Q107750170: retain. Original {"id":"Q107750170","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 48, Q107750180: retain. Original {"id":"Q107750180","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 49, Q107750195: retain. Original {"id":"Q107750195","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 50, Q107750213: retain. Original {"id":"Q107750213","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 51, Q107750250: retain. Original {"id":"Q107750250","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 52, Q107750339: retain. Original {"id":"Q107750339","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 57, Q1077966: change. Original {"id":"Q1077966","verdict":"keep","countries":["KR"],"reason":"Korean tteok; country added"}. Final {"id":"Q1077966","verdict":"keep","countries":["KR","KP"],"reason":"Injeolmi is a shared Korean rice cake associated with both Koreas."}.
+- Position 62, Q107817229: retain. Original {"id":"Q107817229","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 63, Q1078202: retain. Original {"id":"Q1078202","verdict":"keep","countries":["GB"],"reason":"Welsh cake; country added"}.
+- Position 67, Q107836323: retain. Original {"id":"Q107836323","verdict":"keep","countries":["NG"],"reason":"Yoruba Nigerian dish; country added"}.
+- Position 70, Q107846503: retain. Original {"id":"Q107846503","verdict":"keep","countries":["NG"],"reason":"Nigerian Idoma soup; country added"}.
+- Position 77, Q107855294: retain. Original {"id":"Q107855294","verdict":"keep","countries":["NG"],"reason":"Nigerian bread; country added"}.
+- Position 100, Q107863246: retain. Original {"id":"Q107863246","verdict":"remove","reason":"drink (smoothie), not a dish"}.
+- Position 106, Q107870567: retain. Original {"id":"Q107870567","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 107, Q107871390: retain. Original {"id":"Q107871390","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 108, Q107871531: retain. Original {"id":"Q107871531","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 111, Q107885744: retain. Original {"id":"Q107885744","verdict":"keep","countries":["JP"],"reason":"Japanese karaage; country added"}.
+- Position 112, Q107891975: retain. Original {"id":"Q107891975","verdict":"keep","countries":["FR"],"reason":"French pastry; country added"}.
+- Position 126, Q108030397: retain. Original {"id":"Q108030397","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 127, Q108030523: retain. Original {"id":"Q108030523","verdict":"remove","reason":"brand product (Heura plant-based meat)"}.
+- Position 128, Q108035185: retain. Original {"id":"Q108035185","verdict":"keep","countries":["JP"],"reason":"Japanese dish; country added"}.
+- Position 131, Q108058576: retain. Original {"id":"Q108058576","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 132, Q108058590: retain. Original {"id":"Q108058590","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 133, Q108059251: retain. Original {"id":"Q108059251","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 134, Q108059267: retain. Original {"id":"Q108059267","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 135, Q108059287: retain. Original {"id":"Q108059287","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 136, Q108059294: retain. Original {"id":"Q108059294","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 137, Q108059299: retain. Original {"id":"Q108059299","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 138, Q108059318: retain. Original {"id":"Q108059318","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 139, Q108059382: retain. Original {"id":"Q108059382","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 140, Q108059401: retain. Original {"id":"Q108059401","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 141, Q108059424: retain. Original {"id":"Q108059424","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 142, Q108059434: retain. Original {"id":"Q108059434","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 143, Q108059457: retain. Original {"id":"Q108059457","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 144, Q108059467: retain. Original {"id":"Q108059467","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 145, Q108059472: retain. Original {"id":"Q108059472","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 146, Q108059477: retain. Original {"id":"Q108059477","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 147, Q108059536: retain. Original {"id":"Q108059536","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 150, Q108065409: retain. Original {"id":"Q108065409","verdict":"keep","countries":[],"reason":"Second opinion: generic cream ice cream; German wording alone does not establish a country."}.
+- Position 151, Q108065444: retain. Original {"id":"Q108065444","verdict":"keep","countries":[],"reason":"Second opinion: generic milk ice cream; German wording alone does not establish a country."}.
+- Position 152, Q108067365: retain. Original {"id":"Q108067365","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 153, Q108067369: retain. Original {"id":"Q108067369","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 154, Q108067379: retain. Original {"id":"Q108067379","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 155, Q108067382: retain. Original {"id":"Q108067382","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 156, Q108069195: retain. Original {"id":"Q108069195","verdict":"remove","reason":"drink (apéritif), not a dish"}.
+- Position 157, Q108086009: retain. Original {"id":"Q108086009","verdict":"keep","countries":["IT"],"reason":"Italian dish; country added"}.
+- Position 158, Q108086096: retain. Original {"id":"Q108086096","verdict":"keep","countries":["AT","DE"],"reason":"Second opinion: meat dumplings are associated with Austrian as well as German cuisine."}.
+- Position 159, Q108088119: retain. Original {"id":"Q108088119","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 160, Q108095007: retain. Original {"id":"Q108095007","verdict":"keep","countries":["NL"],"reason":"Dutch dish; country added"}.
+- Position 164, Q108122335: retain. Original {"id":"Q108122335","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 165, Q108122467: retain. Original {"id":"Q108122467","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 166, Q108122475: retain. Original {"id":"Q108122475","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 167, Q108122480: retain. Original {"id":"Q108122480","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 168, Q108122493: retain. Original {"id":"Q108122493","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 169, Q108122535: retain. Original {"id":"Q108122535","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 170, Q108122552: retain. Original {"id":"Q108122552","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 172, Q108130705: retain. Original {"id":"Q108130705","verdict":"remove","reason":"chain-restaurant menu item (Blue Star Burger)"}.
+- Position 173, Q108130712: retain. Original {"id":"Q108130712","verdict":"remove","reason":"chain-restaurant menu item (MY BURGER rice burger)"}.
+- Position 174, Q108130715: retain. Original {"id":"Q108130715","verdict":"remove","reason":"chain-restaurant menu item (Torikizoku burger)"}.
+- Position 179, Q108197336: retain. Original {"id":"Q108197336","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 180, Q108206760: retain. Original {"id":"Q108206760","verdict":"remove","reason":"generic category (street food in a country), not one dish"}.
+- Position 181, Q108215843: retain. Original {"id":"Q108215843","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 182, Q108215920: retain. Original {"id":"Q108215920","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 183, Q108216007: retain. Original {"id":"Q108216007","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 184, Q108216058: retain. Original {"id":"Q108216058","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 185, Q108216983: retain. Original {"id":"Q108216983","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 186, Q108217137: retain. Original {"id":"Q108217137","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 187, Q108217205: retain. Original {"id":"Q108217205","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 188, Q108234722: retain. Original {"id":"Q108234722","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 190, Q108304103: retain. Original {"id":"Q108304103","verdict":"keep","countries":["BG"],"reason":"Bulgarian dish; country added"}.
+- Position 197, Q108327562: retain. Original {"id":"Q108327562","verdict":"remove","reason":"topic (pizza culture of New York City), not one dish"}.
+- Position 199, Q108364789: retain. Original {"id":"Q108364789","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 200, Q108364830: retain. Original {"id":"Q108364830","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 201, Q108364888: retain. Original {"id":"Q108364888","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 202, Q108365005: retain. Original {"id":"Q108365005","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 203, Q108365039: retain. Original {"id":"Q108365039","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 204, Q108365112: retain. Original {"id":"Q108365112","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 206, Q108368900: retain. Original {"id":"Q108368900","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 207, Q108368935: retain. Original {"id":"Q108368935","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 208, Q108375974: retain. Original {"id":"Q108375974","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 209, Q1083840: retain. Original {"id":"Q1083840","verdict":"keep","countries":["GB","PK"],"reason":"Second opinion: balti is commonly tied to Birmingham and Pakistani cuisine; preserve both associations."}.
+- Position 211, Q108394942: retain. Original {"id":"Q108394942","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 212, Q108395190: retain. Original {"id":"Q108395190","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 213, Q108395259: retain. Original {"id":"Q108395259","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 214, Q108395269: retain. Original {"id":"Q108395269","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 215, Q108395310: retain. Original {"id":"Q108395310","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 216, Q108395330: retain. Original {"id":"Q108395330","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 217, Q108408336: retain. Original {"id":"Q108408336","verdict":"remove","reason":"chain-restaurant menu item (FamilyMart Famichiki)"}.
+- Position 220, Q108441021: retain. Original {"id":"Q108441021","verdict":"keep","countries":["FR"],"reason":"French egg dish; country added"}.
+- Position 222, Q108459281: retain. Original {"id":"Q108459281","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 223, Q108473781: retain. Original {"id":"Q108473781","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 229, Q108552864: retain. Original {"id":"Q108552864","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 230, Q108552865: retain. Original {"id":"Q108552865","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 231, Q108552866: retain. Original {"id":"Q108552866","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 232, Q108552867: retain. Original {"id":"Q108552867","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 233, Q108552868: retain. Original {"id":"Q108552868","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 234, Q108552869: retain. Original {"id":"Q108552869","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 235, Q108552870: retain. Original {"id":"Q108552870","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 236, Q108552871: retain. Original {"id":"Q108552871","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 237, Q108552872: retain. Original {"id":"Q108552872","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 238, Q108552873: retain. Original {"id":"Q108552873","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 239, Q108552874: retain. Original {"id":"Q108552874","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 240, Q108552875: retain. Original {"id":"Q108552875","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 241, Q108552876: retain. Original {"id":"Q108552876","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 242, Q108552877: retain. Original {"id":"Q108552877","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 243, Q108552879: retain. Original {"id":"Q108552879","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 244, Q108552880: retain. Original {"id":"Q108552880","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 245, Q108552882: retain. Original {"id":"Q108552882","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 246, Q108552883: retain. Original {"id":"Q108552883","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 247, Q108552884: retain. Original {"id":"Q108552884","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 248, Q108552885: retain. Original {"id":"Q108552885","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 249, Q108552886: retain. Original {"id":"Q108552886","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 250, Q108552888: retain. Original {"id":"Q108552888","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 251, Q108552889: retain. Original {"id":"Q108552889","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 252, Q108552890: retain. Original {"id":"Q108552890","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 253, Q108552891: retain. Original {"id":"Q108552891","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 254, Q108552892: retain. Original {"id":"Q108552892","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 255, Q108552893: retain. Original {"id":"Q108552893","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 256, Q108552895: retain. Original {"id":"Q108552895","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 257, Q108552896: retain. Original {"id":"Q108552896","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 258, Q108552897: retain. Original {"id":"Q108552897","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 259, Q108552898: retain. Original {"id":"Q108552898","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 260, Q108552899: retain. Original {"id":"Q108552899","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 261, Q108552901: retain. Original {"id":"Q108552901","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 262, Q108552902: retain. Original {"id":"Q108552902","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 263, Q108552903: retain. Original {"id":"Q108552903","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 264, Q108552904: retain. Original {"id":"Q108552904","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 265, Q108552905: retain. Original {"id":"Q108552905","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 266, Q108552906: retain. Original {"id":"Q108552906","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 267, Q108552907: retain. Original {"id":"Q108552907","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 268, Q108552909: retain. Original {"id":"Q108552909","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 269, Q108552912: retain. Original {"id":"Q108552912","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 270, Q108552913: retain. Original {"id":"Q108552913","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 271, Q108552914: retain. Original {"id":"Q108552914","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 272, Q108552915: retain. Original {"id":"Q108552915","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 273, Q108552916: retain. Original {"id":"Q108552916","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 274, Q108552917: retain. Original {"id":"Q108552917","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 275, Q108552918: retain. Original {"id":"Q108552918","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 276, Q108552919: retain. Original {"id":"Q108552919","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 277, Q108552940: retain. Original {"id":"Q108552940","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 278, Q108552941: retain. Original {"id":"Q108552941","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 279, Q108552943: retain. Original {"id":"Q108552943","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 280, Q108552944: retain. Original {"id":"Q108552944","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 281, Q108552945: retain. Original {"id":"Q108552945","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 282, Q108552946: retain. Original {"id":"Q108552946","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 283, Q108552947: retain. Original {"id":"Q108552947","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 284, Q108552948: retain. Original {"id":"Q108552948","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 285, Q108552949: retain. Original {"id":"Q108552949","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 286, Q108552950: retain. Original {"id":"Q108552950","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 287, Q108552951: retain. Original {"id":"Q108552951","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 288, Q108552954: retain. Original {"id":"Q108552954","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 289, Q108552955: retain. Original {"id":"Q108552955","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 290, Q108552956: retain. Original {"id":"Q108552956","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 291, Q108552957: retain. Original {"id":"Q108552957","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 292, Q108552958: retain. Original {"id":"Q108552958","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 293, Q108552959: retain. Original {"id":"Q108552959","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 294, Q108552960: retain. Original {"id":"Q108552960","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 295, Q108552963: retain. Original {"id":"Q108552963","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 296, Q108552965: retain. Original {"id":"Q108552965","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 297, Q108552966: retain. Original {"id":"Q108552966","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 298, Q108552967: retain. Original {"id":"Q108552967","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 299, Q108552969: retain. Original {"id":"Q108552969","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+- Position 300, Q108552971: retain. Original {"id":"Q108552971","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}.
+
+## names-006
+
+Audited 275 flagged original entries; 2 changed.
+
+- Position 1, Q108552972: retain. Original {"id":"Q108552972","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 2, Q108552973: retain. Original {"id":"Q108552973","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 3, Q108552974: retain. Original {"id":"Q108552974","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 4, Q108552975: retain. Original {"id":"Q108552975","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 5, Q108552976: retain. Original {"id":"Q108552976","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 6, Q108552977: retain. Original {"id":"Q108552977","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 7, Q108552978: retain. Original {"id":"Q108552978","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 8, Q108552979: retain. Original {"id":"Q108552979","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 9, Q108552980: retain. Original {"id":"Q108552980","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 10, Q108552982: retain. Original {"id":"Q108552982","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 11, Q108552984: retain. Original {"id":"Q108552984","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 12, Q108552985: retain. Original {"id":"Q108552985","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 13, Q108552987: retain. Original {"id":"Q108552987","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 14, Q108552988: retain. Original {"id":"Q108552988","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 15, Q108552989: retain. Original {"id":"Q108552989","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 16, Q108552990: retain. Original {"id":"Q108552990","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 17, Q108552991: retain. Original {"id":"Q108552991","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 18, Q108552992: retain. Original {"id":"Q108552992","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 19, Q108552994: retain. Original {"id":"Q108552994","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 20, Q108552995: retain. Original {"id":"Q108552995","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 21, Q108552997: retain. Original {"id":"Q108552997","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 22, Q108552998: retain. Original {"id":"Q108552998","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 23, Q108552999: retain. Original {"id":"Q108552999","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 24, Q108553001: retain. Original {"id":"Q108553001","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 25, Q108553016: retain. Original {"id":"Q108553016","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 26, Q108553018: retain. Original {"id":"Q108553018","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 27, Q108553019: retain. Original {"id":"Q108553019","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 28, Q108553020: retain. Original {"id":"Q108553020","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 29, Q108553022: retain. Original {"id":"Q108553022","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 30, Q108553023: retain. Original {"id":"Q108553023","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 31, Q108553024: retain. Original {"id":"Q108553024","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 32, Q108553025: retain. Original {"id":"Q108553025","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 33, Q108553026: retain. Original {"id":"Q108553026","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 34, Q108553027: retain. Original {"id":"Q108553027","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 35, Q108553028: retain. Original {"id":"Q108553028","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 36, Q108553029: retain. Original {"id":"Q108553029","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 37, Q108553031: retain. Original {"id":"Q108553031","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 38, Q108553032: retain. Original {"id":"Q108553032","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 39, Q108553033: retain. Original {"id":"Q108553033","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 40, Q108553034: retain. Original {"id":"Q108553034","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 41, Q108553035: retain. Original {"id":"Q108553035","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 42, Q108553036: retain. Original {"id":"Q108553036","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 43, Q108553037: retain. Original {"id":"Q108553037","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 44, Q108553038: retain. Original {"id":"Q108553038","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 45, Q108553040: retain. Original {"id":"Q108553040","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 46, Q108553041: retain. Original {"id":"Q108553041","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 47, Q108553043: retain. Original {"id":"Q108553043","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 48, Q108553044: retain. Original {"id":"Q108553044","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 49, Q108553045: retain. Original {"id":"Q108553045","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 50, Q108553046: retain. Original {"id":"Q108553046","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 51, Q108553047: retain. Original {"id":"Q108553047","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 52, Q108553048: retain. Original {"id":"Q108553048","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 53, Q108553050: retain. Original {"id":"Q108553050","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 54, Q108553051: retain. Original {"id":"Q108553051","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 55, Q108553052: retain. Original {"id":"Q108553052","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 56, Q108553053: retain. Original {"id":"Q108553053","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 57, Q108553054: retain. Original {"id":"Q108553054","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 58, Q108553057: retain. Original {"id":"Q108553057","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 59, Q108553059: retain. Original {"id":"Q108553059","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 60, Q108553060: retain. Original {"id":"Q108553060","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 61, Q108553061: retain. Original {"id":"Q108553061","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 62, Q108553062: retain. Original {"id":"Q108553062","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 63, Q108553064: retain. Original {"id":"Q108553064","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 64, Q108553066: retain. Original {"id":"Q108553066","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 65, Q108553067: retain. Original {"id":"Q108553067","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 66, Q108553068: retain. Original {"id":"Q108553068","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 67, Q108553070: retain. Original {"id":"Q108553070","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 68, Q108553072: retain. Original {"id":"Q108553072","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 69, Q108553073: retain. Original {"id":"Q108553073","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 70, Q108553075: retain. Original {"id":"Q108553075","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 71, Q108553076: retain. Original {"id":"Q108553076","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 72, Q108553099: retain. Original {"id":"Q108553099","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 73, Q108553100: retain. Original {"id":"Q108553100","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 74, Q108553101: retain. Original {"id":"Q108553101","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 75, Q108553103: retain. Original {"id":"Q108553103","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 76, Q108553104: retain. Original {"id":"Q108553104","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 77, Q108553105: retain. Original {"id":"Q108553105","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 78, Q108553107: retain. Original {"id":"Q108553107","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 79, Q108553108: retain. Original {"id":"Q108553108","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 80, Q108553109: retain. Original {"id":"Q108553109","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 81, Q108553111: retain. Original {"id":"Q108553111","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 82, Q108553112: retain. Original {"id":"Q108553112","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 83, Q108553113: retain. Original {"id":"Q108553113","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 84, Q108553114: retain. Original {"id":"Q108553114","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 85, Q108553115: retain. Original {"id":"Q108553115","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 86, Q108553116: retain. Original {"id":"Q108553116","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 87, Q108553117: retain. Original {"id":"Q108553117","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 88, Q108553119: retain. Original {"id":"Q108553119","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 89, Q108553120: retain. Original {"id":"Q108553120","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 90, Q108553121: retain. Original {"id":"Q108553121","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 91, Q108553122: retain. Original {"id":"Q108553122","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 92, Q108553123: retain. Original {"id":"Q108553123","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 93, Q108553124: retain. Original {"id":"Q108553124","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 94, Q108553125: retain. Original {"id":"Q108553125","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 95, Q108553126: retain. Original {"id":"Q108553126","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 96, Q108553127: retain. Original {"id":"Q108553127","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 97, Q108553129: retain. Original {"id":"Q108553129","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 98, Q108553130: retain. Original {"id":"Q108553130","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 99, Q108553132: retain. Original {"id":"Q108553132","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 100, Q108553135: retain. Original {"id":"Q108553135","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 101, Q108553136: retain. Original {"id":"Q108553136","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 102, Q108553137: retain. Original {"id":"Q108553137","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 103, Q108553138: retain. Original {"id":"Q108553138","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 104, Q108553140: retain. Original {"id":"Q108553140","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 105, Q108553141: retain. Original {"id":"Q108553141","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 106, Q108553142: retain. Original {"id":"Q108553142","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 107, Q108553143: retain. Original {"id":"Q108553143","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 108, Q108553144: retain. Original {"id":"Q108553144","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 109, Q108553146: retain. Original {"id":"Q108553146","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 110, Q108553147: retain. Original {"id":"Q108553147","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 111, Q108553148: retain. Original {"id":"Q108553148","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 112, Q108553149: retain. Original {"id":"Q108553149","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 113, Q108553150: retain. Original {"id":"Q108553150","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 114, Q108553151: retain. Original {"id":"Q108553151","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 115, Q108553153: retain. Original {"id":"Q108553153","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 116, Q108553154: retain. Original {"id":"Q108553154","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 117, Q108553155: retain. Original {"id":"Q108553155","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 118, Q108553156: retain. Original {"id":"Q108553156","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 119, Q108553157: retain. Original {"id":"Q108553157","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 120, Q108553158: retain. Original {"id":"Q108553158","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 121, Q108553178: retain. Original {"id":"Q108553178","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 122, Q108553179: retain. Original {"id":"Q108553179","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 123, Q108553180: retain. Original {"id":"Q108553180","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 124, Q108553181: retain. Original {"id":"Q108553181","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 125, Q108553182: retain. Original {"id":"Q108553182","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 126, Q108553183: retain. Original {"id":"Q108553183","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 127, Q108553185: retain. Original {"id":"Q108553185","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 128, Q108553186: retain. Original {"id":"Q108553186","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 129, Q108553188: retain. Original {"id":"Q108553188","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 130, Q108553189: retain. Original {"id":"Q108553189","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 131, Q108553190: retain. Original {"id":"Q108553190","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 132, Q108553191: retain. Original {"id":"Q108553191","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 133, Q108553192: retain. Original {"id":"Q108553192","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 134, Q108553195: retain. Original {"id":"Q108553195","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 135, Q10855333: retain. Original {"id":"Q10855333","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese mochi"}.
+- Position 136, Q10855366: retain. Original {"id":"Q10855366","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese mochi"}.
+- Position 139, Q10855551: retain. Original {"id":"Q10855551","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese wagashi"}.
+- Position 140, Q10855985: retain. Original {"id":"Q10855985","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}.
+- Position 142, Q10856263: retain. Original {"id":"Q10856263","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}.
+- Position 145, Q10856452: change. Original {"id":"Q10856452","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean dish"}. Final {"id":"Q10856452","verdict":"keep","countries":["KR","KP"],"reason":"Dak-bokkeum-tang is shared Korean spicy braised chicken associated with both Koreas."}.
+- Position 146, Q108564625: retain. Original {"id":"Q108564625","verdict":"keep","countries":["SE"],"reason":"countries empty; Swedish dish"}.
+- Position 147, Q108568436: retain. Original {"id":"Q108568436","verdict":"keep","countries":["PH"],"reason":"countries empty; Filipino dish"}.
+- Position 153, Q10858146: retain. Original {"id":"Q10858146","verdict":"keep","countries":["ES"],"reason":"countries empty; Spanish dish (La Rioja)"}.
+- Position 154, Q108586604: retain. Original {"id":"Q108586604","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese korokke"}.
+- Position 155, Q108595777: retain. Original {"id":"Q108595777","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}.
+- Position 158, Q10860302: retain. Original {"id":"Q10860302","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese sushi style"}.
+- Position 160, Q10860666: retain. Original {"id":"Q10860666","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese kelp product"}.
+- Position 161, Q108611058: retain. Original {"id":"Q108611058","verdict":"keep","countries":["DK"],"reason":"countries empty; Danish bread"}.
+- Position 162, Q108611113: change. Original {"id":"Q108611113","verdict":"keep","countries":["DK"],"reason":"countries empty; Danish bread roll"}. Final {"id":"Q108611113","verdict":"keep","countries":["DK","NO"],"reason":"Rundstykker are traditional bread rolls associated with Denmark and Norway."}.
+- Position 163, Q108611407: retain. Original {"id":"Q108611407","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese donburi"}.
+- Position 166, Q10861403: retain. Original {"id":"Q10861403","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese sushi rice"}.
+- Position 167, Q108622800: retain. Original {"id":"Q108622800","verdict":"remove","reason":"skincare product (wound protection cream), not food"}.
+- Position 168, Q108643173: retain. Original {"id":"Q108643173","verdict":"keep","countries":["ZA"],"reason":"countries empty; South African bread"}.
+- Position 169, Q108649402: retain. Original {"id":"Q108649402","verdict":"keep","countries":["US"],"reason":"countries empty; American pie"}.
+- Position 172, Q108673188: retain. Original {"id":"Q108673188","verdict":"remove","reason":"Second opinion: Gondhoraj ghol is a lime-flavoured buttermilk drink, not a vegetable dish."}.
+- Position 173, Q108673238: retain. Original {"id":"Q108673238","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 174, Q108673269: retain. Original {"id":"Q108673269","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 175, Q108673557: retain. Original {"id":"Q108673557","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 176, Q108673573: retain. Original {"id":"Q108673573","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 177, Q108673609: retain. Original {"id":"Q108673609","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 178, Q108673642: retain. Original {"id":"Q108673642","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 179, Q108673658: retain. Original {"id":"Q108673658","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 180, Q1086747: retain. Original {"id":"Q1086747","verdict":"keep","countries":["CN"],"reason":"countries empty; Dongyang, Zhejiang dish"}.
+- Position 181, Q10868024: retain. Original {"id":"Q10868024","verdict":"keep","countries":["CN"],"reason":"countries empty; Shanghai-style salad"}.
+- Position 184, Q10868579: retain. Original {"id":"Q10868579","verdict":"keep","countries":["TW"],"reason":"Second opinion: this entry is Taiwanese offal soup; Chinese language is not an origin."}.
+- Position 185, Q108687663: retain. Original {"id":"Q108687663","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 186, Q108687674: retain. Original {"id":"Q108687674","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 187, Q108687684: retain. Original {"id":"Q108687684","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 188, Q108687692: retain. Original {"id":"Q108687692","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 189, Q1086886: retain. Original {"id":"Q1086886","verdict":"remove","reason":"PDO olive oil product designation, packaged product not a dish"}.
+- Position 190, Q108697619: retain. Original {"id":"Q108697619","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 191, Q108697620: retain. Original {"id":"Q108697620","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 192, Q108697621: retain. Original {"id":"Q108697621","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 193, Q108697622: retain. Original {"id":"Q108697622","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 194, Q108697623: retain. Original {"id":"Q108697623","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 195, Q108697624: retain. Original {"id":"Q108697624","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 196, Q108697625: retain. Original {"id":"Q108697625","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 197, Q108697626: retain. Original {"id":"Q108697626","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 198, Q108697627: retain. Original {"id":"Q108697627","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 199, Q108697628: retain. Original {"id":"Q108697628","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 200, Q108697629: retain. Original {"id":"Q108697629","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 201, Q108697630: retain. Original {"id":"Q108697630","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 202, Q108697631: retain. Original {"id":"Q108697631","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 203, Q108697632: retain. Original {"id":"Q108697632","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 204, Q108697634: retain. Original {"id":"Q108697634","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 205, Q108697635: retain. Original {"id":"Q108697635","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 206, Q108697637: retain. Original {"id":"Q108697637","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 207, Q108697638: retain. Original {"id":"Q108697638","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 208, Q108697639: retain. Original {"id":"Q108697639","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 209, Q108697640: retain. Original {"id":"Q108697640","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 210, Q108697641: retain. Original {"id":"Q108697641","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 211, Q108697642: retain. Original {"id":"Q108697642","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 212, Q108697643: retain. Original {"id":"Q108697643","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 213, Q108697644: retain. Original {"id":"Q108697644","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 214, Q108697646: retain. Original {"id":"Q108697646","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 215, Q108697647: retain. Original {"id":"Q108697647","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 216, Q108697649: retain. Original {"id":"Q108697649","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 217, Q108697650: retain. Original {"id":"Q108697650","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 218, Q108697651: retain. Original {"id":"Q108697651","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 219, Q108697653: retain. Original {"id":"Q108697653","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 220, Q108697654: retain. Original {"id":"Q108697654","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 221, Q108697655: retain. Original {"id":"Q108697655","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 222, Q108697656: retain. Original {"id":"Q108697656","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 223, Q108697658: retain. Original {"id":"Q108697658","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 224, Q108697659: retain. Original {"id":"Q108697659","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 225, Q108697660: retain. Original {"id":"Q108697660","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 226, Q108697661: retain. Original {"id":"Q108697661","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 227, Q108697662: retain. Original {"id":"Q108697662","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 228, Q108697663: retain. Original {"id":"Q108697663","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 229, Q108697664: retain. Original {"id":"Q108697664","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 230, Q108697665: retain. Original {"id":"Q108697665","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 231, Q108697666: retain. Original {"id":"Q108697666","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 232, Q108697667: retain. Original {"id":"Q108697667","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 233, Q108697668: retain. Original {"id":"Q108697668","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 234, Q108697669: retain. Original {"id":"Q108697669","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 235, Q108697670: retain. Original {"id":"Q108697670","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 236, Q108697671: retain. Original {"id":"Q108697671","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 237, Q108697672: retain. Original {"id":"Q108697672","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 238, Q108697673: retain. Original {"id":"Q108697673","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 239, Q108697674: retain. Original {"id":"Q108697674","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 240, Q108697691: retain. Original {"id":"Q108697691","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 241, Q108697693: retain. Original {"id":"Q108697693","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 242, Q108697694: retain. Original {"id":"Q108697694","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 243, Q108697695: retain. Original {"id":"Q108697695","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 244, Q108697696: retain. Original {"id":"Q108697696","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 245, Q108697697: retain. Original {"id":"Q108697697","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 246, Q108697698: retain. Original {"id":"Q108697698","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 247, Q108697699: retain. Original {"id":"Q108697699","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 248, Q108697700: retain. Original {"id":"Q108697700","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 249, Q108697702: retain. Original {"id":"Q108697702","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 250, Q108697703: retain. Original {"id":"Q108697703","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 251, Q108697704: retain. Original {"id":"Q108697704","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 252, Q108697705: retain. Original {"id":"Q108697705","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 253, Q108697706: retain. Original {"id":"Q108697706","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 254, Q108697708: retain. Original {"id":"Q108697708","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 255, Q108697709: retain. Original {"id":"Q108697709","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 256, Q108697710: retain. Original {"id":"Q108697710","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 257, Q108697712: retain. Original {"id":"Q108697712","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 258, Q108697713: retain. Original {"id":"Q108697713","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 259, Q108697714: retain. Original {"id":"Q108697714","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 260, Q108697715: retain. Original {"id":"Q108697715","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 261, Q108697716: retain. Original {"id":"Q108697716","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 262, Q108697717: retain. Original {"id":"Q108697717","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 263, Q108697718: retain. Original {"id":"Q108697718","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 264, Q108697719: retain. Original {"id":"Q108697719","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 265, Q108697720: retain. Original {"id":"Q108697720","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 266, Q108697721: retain. Original {"id":"Q108697721","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 267, Q108697722: retain. Original {"id":"Q108697722","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 268, Q108697723: retain. Original {"id":"Q108697723","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 269, Q108697724: retain. Original {"id":"Q108697724","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 270, Q108697725: retain. Original {"id":"Q108697725","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 271, Q108697726: retain. Original {"id":"Q108697726","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 272, Q108697728: retain. Original {"id":"Q108697728","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 273, Q108697730: retain. Original {"id":"Q108697730","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 274, Q108697731: retain. Original {"id":"Q108697731","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 275, Q108697732: retain. Original {"id":"Q108697732","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 276, Q108697733: retain. Original {"id":"Q108697733","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 277, Q108697734: retain. Original {"id":"Q108697734","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 278, Q108697735: retain. Original {"id":"Q108697735","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 279, Q108697736: retain. Original {"id":"Q108697736","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 280, Q108697737: retain. Original {"id":"Q108697737","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 281, Q108697738: retain. Original {"id":"Q108697738","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 282, Q108697740: retain. Original {"id":"Q108697740","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 283, Q108697741: retain. Original {"id":"Q108697741","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 284, Q108697742: retain. Original {"id":"Q108697742","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 285, Q108697743: retain. Original {"id":"Q108697743","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 286, Q108697744: retain. Original {"id":"Q108697744","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 287, Q108697745: retain. Original {"id":"Q108697745","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 288, Q108697746: retain. Original {"id":"Q108697746","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 289, Q108697788: retain. Original {"id":"Q108697788","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 290, Q108697870: retain. Original {"id":"Q108697870","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 292, Q108703191: retain. Original {"id":"Q108703191","verdict":"keep","countries":["FR"],"reason":"countries empty; French sauce/soup"}.
+- Position 293, Q108717844: retain. Original {"id":"Q108717844","verdict":"keep","countries":["NL","ID"],"reason":"countries empty; Indonesian-Dutch cuisine"}.
+- Position 295, Q108744549: retain. Original {"id":"Q108744549","verdict":"keep","countries":["ES"],"reason":"countries empty; Majorcan biscuit"}.
+- Position 299, Q108770407: retain. Original {"id":"Q108770407","verdict":"keep","countries":["GR","TR"],"reason":"countries empty; Greek and Turkish cuisine"}.
+
+## names-007
+
+Audited 179 flagged original entries; 21 changed.
+
+- Position 1, Q108788274: retain. Original {"id":"Q108788274","verdict":"remove","reason":"restaurant-specific menu item (Nachos at Maya)"}.
+- Position 2, Q108794171: change. Original {"id":"Q108794171","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean dish"}. Final {"id":"Q108794171","verdict":"keep","countries":["KR","KP"],"reason":"Seonji-guk is a shared Korean blood soup associated with both Koreas."}.
+- Position 3, Q108794274: retain. Original {"id":"Q108794274","verdict":"keep","countries":["CN"],"reason":"countries empty; Chinese-origin dish"}.
+- Position 5, Q108794909: retain. Original {"id":"Q108794909","verdict":"keep","countries":["AT","CZ"],"reason":"Topfenknoedel is Austrian; added AT"}.
+- Position 7, Q108799327: retain. Original {"id":"Q108799327","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}.
+- Position 13, Q10883503: retain. Original {"id":"Q10883503","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese wagashi"}.
+- Position 15, Q108841343: retain. Original {"id":"Q108841343","verdict":"keep","countries":["DE"],"reason":"countries empty; German wartime bread"}.
+- Position 16, Q108887239: retain. Original {"id":"Q108887239","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish dumplings"}.
+- Position 20, Q108905093: retain. Original {"id":"Q108905093","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean candy"}.
+- Position 22, Q108919208: retain. Original {"id":"Q108919208","verdict":"keep","countries":["MY","ID"],"reason":"countries empty; Penang/Indonesian Chinese dish"}.
+- Position 23, Q10892132: retain. Original {"id":"Q10892132","verdict":"keep","countries":["TW"],"reason":"Second opinion: eight-treasure glass noodles are associated with Yilan, Taiwan."}.
+- Position 25, Q108929231: change. Original {"id":"Q108929231","verdict":"keep","countries":["CN"],"reason":"countries empty; Chinese fermented bean paste"}. Final {"id":"Q108929231","verdict":"keep","countries":["CN","TH","ID"],"reason":"Taochiao is a Chinese-derived fermented soybean condiment associated with Thai and Indonesian cooking as well."}.
+- Position 26, Q108937158: retain. Original {"id":"Q108937158","verdict":"keep","countries":["PE"],"reason":"countries empty; Peruvian dish"}.
+- Position 28, Q10895227: retain. Original {"id":"Q10895227","verdict":"keep","countries":["CN"],"reason":"countries empty; Chinese soup"}.
+- Position 29, Q108952861: retain. Original {"id":"Q108952861","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 30, Q108952869: retain. Original {"id":"Q108952869","verdict":"keep","countries":["FR"],"reason":"countries empty; French-style potatoes"}.
+- Position 31, Q108952877: retain. Original {"id":"Q108952877","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 32, Q108952885: retain. Original {"id":"Q108952885","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 33, Q108952893: retain. Original {"id":"Q108952893","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 34, Q108952902: retain. Original {"id":"Q108952902","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 35, Q108952910: retain. Original {"id":"Q108952910","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 36, Q108952919: retain. Original {"id":"Q108952919","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 37, Q108952926: retain. Original {"id":"Q108952926","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 38, Q108952935: retain. Original {"id":"Q108952935","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 39, Q108952943: retain. Original {"id":"Q108952943","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}.
+- Position 40, Q108962279: retain. Original {"id":"Q108962279","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}.
+- Position 41, Q108962283: retain. Original {"id":"Q108962283","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}.
+- Position 42, Q108962285: retain. Original {"id":"Q108962285","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}.
+- Position 43, Q108962288: retain. Original {"id":"Q108962288","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech dumpling"}.
+- Position 44, Q108962291: change. Original {"id":"Q108962291","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}. Final {"id":"Q108962291","verdict":"keep","countries":["PL","CZ","AT","DE"],"reason":"Potato knedle are shared Central European dumplings, associated with Poland, Czechia, Austria and Germany."}.
+- Position 45, Q108962295: retain. Original {"id":"Q108962295","verdict":"keep","countries":["DE"],"reason":"countries empty; Saxon dumplings"}.
+- Position 46, Q108962297: retain. Original {"id":"Q108962297","verdict":"keep","countries":["DE"],"reason":"countries empty; Thuringian dumplings"}.
+- Position 47, Q108962300: change. Original {"id":"Q108962300","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}. Final {"id":"Q108962300","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}.
+- Position 48, Q108962303: change. Original {"id":"Q108962303","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}. Final {"id":"Q108962303","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}.
+- Position 49, Q108962306: change. Original {"id":"Q108962306","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}. Final {"id":"Q108962306","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}.
+- Position 50, Q108962309: change. Original {"id":"Q108962309","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}. Final {"id":"Q108962309","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}.
+- Position 51, Q108962311: change. Original {"id":"Q108962311","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}. Final {"id":"Q108962311","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}.
+- Position 52, Q108962313: change. Original {"id":"Q108962313","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}. Final {"id":"Q108962313","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}.
+- Position 53, Q108962316: change. Original {"id":"Q108962316","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}. Final {"id":"Q108962316","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}.
+- Position 54, Q108962319: change. Original {"id":"Q108962319","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}. Final {"id":"Q108962319","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}.
+- Position 55, Q108962322: change. Original {"id":"Q108962322","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}. Final {"id":"Q108962322","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}.
+- Position 56, Q108962326: change. Original {"id":"Q108962326","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}. Final {"id":"Q108962326","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}.
+- Position 57, Q108962329: change. Original {"id":"Q108962329","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}. Final {"id":"Q108962329","verdict":"keep","countries":["PL","UA"],"reason":"Potato pierogi are closely associated with Polish and Ukrainian cuisines."}.
+- Position 58, Q108962332: change. Original {"id":"Q108962332","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}. Final {"id":"Q108962332","verdict":"keep","countries":["PL","UA"],"reason":"Potato-filled pierogi are closely associated with Polish and Ukrainian cuisines."}.
+- Position 59, Q108962335: retain. Original {"id":"Q108962335","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 60, Q108962339: retain. Original {"id":"Q108962339","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}.
+- Position 61, Q108962342: retain. Original {"id":"Q108962342","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}.
+- Position 62, Q108962345: retain. Original {"id":"Q108962345","verdict":"keep","countries":["DE"],"reason":"Second opinion: the dish is explicitly German-style pancakes; judge the dish rather than Polish cookbook language."}.
+- Position 63, Q108962347: retain. Original {"id":"Q108962347","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 64, Q108962350: retain. Original {"id":"Q108962350","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 65, Q108962353: retain. Original {"id":"Q108962353","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 66, Q108962356: retain. Original {"id":"Q108962356","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 67, Q108962359: retain. Original {"id":"Q108962359","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 68, Q108962362: retain. Original {"id":"Q108962362","verdict":"remove","reason":"preface (Slowo wstepne, introductory word) of the potato cookbook, not a dish"}.
+- Position 69, Q108962365: retain. Original {"id":"Q108962365","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 71, Q108971756: retain. Original {"id":"Q108971756","verdict":"keep","countries":["IT"],"reason":"countries empty; Italian gnocchi"}.
+- Position 72, Q108971759: change. Original {"id":"Q108971759","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}. Final {"id":"Q108971759","verdict":"keep","countries":["PL","BY","LT"],"reason":"Potato babka is shared by Polish, Belarusian and Lithuanian cuisines."}.
+- Position 73, Q108971762: retain. Original {"id":"Q108971762","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}.
+- Position 74, Q108971768: retain. Original {"id":"Q108971768","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}.
+- Position 75, Q108971771: change. Original {"id":"Q108971771","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish-Jewish dish"}. Final {"id":"Q108971771","verdict":"keep","countries":["PL","UA","FI","DE"],"reason":"Forshmak has established Polish, Ukrainian, Finnish and German associations."}.
+- Position 76, Q108971774: retain. Original {"id":"Q108971774","verdict":"keep","countries":["FR"],"reason":"countries empty; Lyonnaise potatoes"}.
+- Position 77, Q108971777: retain. Original {"id":"Q108971777","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 78, Q108971780: retain. Original {"id":"Q108971780","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 79, Q108971783: retain. Original {"id":"Q108971783","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}.
+- Position 80, Q108971785: retain. Original {"id":"Q108971785","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}.
+- Position 81, Q108971788: retain. Original {"id":"Q108971788","verdict":"keep","countries":["FR"],"reason":"countries empty; Duchesse potatoes"}.
+- Position 82, Q108971791: retain. Original {"id":"Q108971791","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 83, Q108971794: retain. Original {"id":"Q108971794","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 84, Q108971797: retain. Original {"id":"Q108971797","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 85, Q108971798: retain. Original {"id":"Q108971798","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 86, Q108971800: retain. Original {"id":"Q108971800","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 87, Q108991482: retain. Original {"id":"Q108991482","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook section"}.
+- Position 88, Q108991498: retain. Original {"id":"Q108991498","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 89, Q108991507: retain. Original {"id":"Q108991507","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 90, Q108991515: retain. Original {"id":"Q108991515","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 91, Q108991525: retain. Original {"id":"Q108991525","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 94, Q109007893: retain. Original {"id":"Q109007893","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook section"}.
+- Position 95, Q109007896: retain. Original {"id":"Q109007896","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook section"}.
+- Position 98, Q109017052: retain. Original {"id":"Q109017052","verdict":"keep","countries":["BJ"],"reason":"countries empty; Beninese dish"}.
+- Position 99, Q109017053: retain. Original {"id":"Q109017053","verdict":"keep","countries":["BJ"],"reason":"countries empty; Beninese dish"}.
+- Position 100, Q109017123: retain. Original {"id":"Q109017123","verdict":"keep","countries":["PF"],"reason":"countries empty; Tuamotu (French Polynesia) bread"}.
+- Position 102, Q109017516: retain. Original {"id":"Q109017516","verdict":"keep","countries":["FR"],"reason":"countries empty; French biscuit"}.
+- Position 103, Q109017584: retain. Original {"id":"Q109017584","verdict":"keep","countries":["BJ"],"reason":"countries empty; Beninese dish"}.
+- Position 106, Q109017674: retain. Original {"id":"Q109017674","verdict":"keep","countries":["FR"],"reason":"countries empty; French pastry"}.
+- Position 107, Q109017702: retain. Original {"id":"Q109017702","verdict":"keep","name":"Briquet","reason":"name had wiki disambiguation suffix \"(alimentation)\""}.
+- Position 109, Q109017895: retain. Original {"id":"Q109017895","verdict":"remove","reason":"carrot variety (vegetable), not a prepared dish"}.
+- Position 111, Q109019813: retain. Original {"id":"Q109019813","verdict":"keep","countries":["FR"],"reason":"countries empty; French pastry from Amiens"}.
+- Position 121, Q109038487: retain. Original {"id":"Q109038487","verdict":"keep","countries":["FR"],"reason":"countries empty; French buckwheat porridge"}.
+- Position 122, Q109038648: change. Original {"id":"Q109038648","verdict":"keep","countries":["FR"],"reason":"countries empty; French bean dish"}. Final {"id":"Q109038648","verdict":"remove","reason":"Haricot de Soissons is a named bean variety, a raw ingredient with no recipe here."}.
+- Position 126, Q109040805: retain. Original {"id":"Q109040805","verdict":"keep","countries":["FR"],"reason":"Second opinion: this French beignet entry refers to Corsican panzarotti, not Italian stuffed panzerotti."}.
+- Position 127, Q109040989: retain. Original {"id":"Q109040989","verdict":"keep","countries":["MA"],"reason":"countries empty; Moroccan dessert"}.
+- Position 129, Q109041526: retain. Original {"id":"Q109041526","verdict":"keep","countries":["MA"],"reason":"countries empty; Moroccan dish"}.
+- Position 133, Q109041767: retain. Original {"id":"Q109041767","verdict":"keep","countries":["FR"],"reason":"countries empty; French pastry"}.
+- Position 134, Q109041787: retain. Original {"id":"Q109041787","verdict":"keep","countries":["BJ"],"reason":"countries empty; Fon (Beninese) dish"}.
+- Position 138, Q109043967: retain. Original {"id":"Q109043967","verdict":"keep","countries":["FR"],"reason":"countries empty; French macaron"}.
+- Position 139, Q109043970: retain. Original {"id":"Q109043970","verdict":"keep","countries":["FR"],"reason":"countries empty; French macaron"}.
+- Position 140, Q109043983: retain. Original {"id":"Q109043983","verdict":"keep","countries":["FR"],"reason":"countries empty; French sauce"}.
+- Position 141, Q109043993: retain. Original {"id":"Q109043993","verdict":"keep","countries":["FR"],"reason":"countries empty; French sauce"}.
+- Position 142, Q109044011: retain. Original {"id":"Q109044011","verdict":"keep","countries":["FR"],"reason":"countries empty; French pastry"}.
+- Position 143, Q109044260: retain. Original {"id":"Q109044260","verdict":"keep","countries":["BJ"],"reason":"countries empty; Fon (Beninese) dish"}.
+- Position 147, Q109044882: retain. Original {"id":"Q109044882","verdict":"keep","countries":["FR"],"reason":"countries empty; soup from Amiens"}.
+- Position 151, Q109045445: retain. Original {"id":"Q109045445","verdict":"keep","countries":["BJ"],"reason":"countries empty; Fon (Beninese) dish"}.
+- Position 153, Q109045526: retain. Original {"id":"Q109045526","verdict":"keep","countries":["FR"],"reason":"countries empty; French clafoutis"}.
+- Position 154, Q109045609: retain. Original {"id":"Q109045609","verdict":"keep","countries":["BJ"],"reason":"countries empty; Fon (Beninese) dish"}.
+- Position 155, Q109045733: retain. Original {"id":"Q109045733","verdict":"keep","countries":["BJ"],"reason":"countries empty; Fon (Beninese) dish"}.
+- Position 159, Q109046939: retain. Original {"id":"Q109046939","verdict":"remove","reason":"PDO-labelled saffron spice, a raw ingredient rather than a dish"}.
+- Position 160, Q109071240: retain. Original {"id":"Q109071240","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 162, Q109093343: retain. Original {"id":"Q109093343","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 163, Q109093346: retain. Original {"id":"Q109093346","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 164, Q109093348: retain. Original {"id":"Q109093348","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 165, Q109093351: retain. Original {"id":"Q109093351","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 166, Q109093353: retain. Original {"id":"Q109093353","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 167, Q109093355: retain. Original {"id":"Q109093355","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech-style potatoes"}.
+- Position 168, Q109093358: retain. Original {"id":"Q109093358","verdict":"keep","countries":["IT"],"reason":"countries empty; Italian-style potatoes"}.
+- Position 169, Q109093360: retain. Original {"id":"Q109093360","verdict":"keep","countries":["IT"],"reason":"countries empty; Italian-style potatoes"}.
+- Position 170, Q109093362: retain. Original {"id":"Q109093362","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 171, Q109093365: retain. Original {"id":"Q109093365","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}.
+- Position 172, Q109093367: retain. Original {"id":"Q109093367","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}.
+- Position 173, Q109093369: retain. Original {"id":"Q109093369","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 174, Q109093371: retain. Original {"id":"Q109093371","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 175, Q109093374: retain. Original {"id":"Q109093374","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 176, Q109093376: retain. Original {"id":"Q109093376","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 177, Q109093378: retain. Original {"id":"Q109093378","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 178, Q109093380: retain. Original {"id":"Q109093380","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}.
+- Position 179, Q109093383: retain. Original {"id":"Q109093383","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}.
+- Position 180, Q10909628: retain. Original {"id":"Q10909628","verdict":"keep","countries":["TW"],"reason":"Second opinion: pok-bah is the battered pork specialty of Yilan, Taiwan."}.
+- Position 183, Q109119426: retain. Original {"id":"Q109119426","verdict":"keep","countries":["PE"],"reason":"countries empty; Peruvian locro"}.
+- Position 184, Q109120573: retain. Original {"id":"Q109120573","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 185, Q109120592: retain. Original {"id":"Q109120592","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 191, Q10914420: retain. Original {"id":"Q10914420","verdict":"remove","reason":"category of street snacks (Tainan snacks), not one dish"}.
+- Position 195, Q109173339: retain. Original {"id":"Q109173339","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}.
+- Position 201, Q10925229: change. Original {"id":"Q10925229","verdict":"keep","countries":["CN"],"reason":"countries empty; Chinese soup"}. Final {"id":"Q10925229","verdict":"keep","countries":["CN","TW"],"reason":"Four-herb soup is associated with Chinese and Taiwanese cuisines."}.
+- Position 202, Q109259132: retain. Original {"id":"Q109259132","verdict":"remove","reason":"rose flower variety (Taif), not a dish"}.
+- Position 206, Q109286869: change. Original {"id":"Q109286869","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean kimchi"}. Final {"id":"Q109286869","verdict":"keep","countries":["KR","KP"],"reason":"Radish kimchi is shared by both Koreas."}.
+- Position 207, Q109289372: retain. Original {"id":"Q109289372","verdict":"remove","reason":"restaurant-specific menu item (Harmony Lunch)"}.
+- Position 208, Q109302295: retain. Original {"id":"Q109302295","verdict":"keep","countries":["OM"],"reason":"countries empty; Omani dish"}.
+- Position 209, Q109310930: retain. Original {"id":"Q109310930","verdict":"keep","countries":["CU","ES"],"reason":"Second opinion: preserve the original Spanish association as well as the Cuban one."}.
+- Position 219, Q109313047: retain. Original {"id":"Q109313047","verdict":"keep","countries":["IT"],"reason":"countries empty; Italian pasta shape"}.
+- Position 220, Q109313057: retain. Original {"id":"Q109313057","verdict":"keep","countries":["IT"],"reason":"countries empty; Italian pasta shape"}.
+- Position 221, Q109313278: retain. Original {"id":"Q109313278","verdict":"keep","countries":["FR"],"reason":"countries empty; French pastry"}.
+- Position 223, Q109313406: retain. Original {"id":"Q109313406","verdict":"keep","countries":["IT"],"reason":"countries empty; Italian pasta shape"}.
+- Position 224, Q109313407: retain. Original {"id":"Q109313407","verdict":"keep","countries":["IT"],"reason":"countries empty; Italian pasta shape"}.
+- Position 225, Q109313410: retain. Original {"id":"Q109313410","verdict":"keep","countries":["IT"],"reason":"countries empty; Italian pasta shape"}.
+- Position 226, Q109313412: retain. Original {"id":"Q109313412","verdict":"keep","countries":["IT"],"reason":"countries empty; Italian pasta shape"}.
+- Position 227, Q109313421: retain. Original {"id":"Q109313421","verdict":"keep","countries":["IT"],"reason":"countries empty; Italian pasta shape"}.
+- Position 230, Q109314192: retain. Original {"id":"Q109314192","verdict":"keep","countries":["ES"],"reason":"countries empty; Spanish cured ham (PDO)"}.
+- Position 236, Q109342955: retain. Original {"id":"Q109342955","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese kakigori"}.
+- Position 237, Q109344166: retain. Original {"id":"Q109344166","verdict":"keep","countries":["CN"],"reason":"countries empty; Northeastern Chinese dish"}.
+- Position 239, Q109347773: change. Original {"id":"Q109347773","verdict":"keep","countries":["CN"],"reason":"countries empty; Chinese mooncake"}. Final {"id":"Q109347773","verdict":"keep","countries":["CN","HK"],"reason":"Ice-cream mooncakes are associated with mainland Chinese and Hong Kong food culture."}.
+- Position 242, Q109357016: retain. Original {"id":"Q109357016","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese wagashi"}.
+- Position 243, Q109357605: retain. Original {"id":"Q109357605","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese wagashi"}.
+- Position 245, Q109359112: retain. Original {"id":"Q109359112","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese New Year food"}.
+- Position 246, Q109359120: retain. Original {"id":"Q109359120","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese castella from Kobe"}.
+- Position 247, Q109359499: retain. Original {"id":"Q109359499","verdict":"remove","reason":"branded candy product (tokusatsu tie-in chocolate)"}.
+- Position 248, Q109360335: retain. Original {"id":"Q109360335","verdict":"keep","countries":["ID","MY"],"reason":"countries empty; Indonesian and Malaysian rice"}.
+- Position 249, Q109360343: retain. Original {"id":"Q109360343","verdict":"keep","countries":["VN"],"reason":"countries empty; Vietnamese rice"}.
+- Position 250, Q109361052: retain. Original {"id":"Q109361052","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese sukiyaki dish"}.
+- Position 252, Q109361900: retain. Original {"id":"Q109361900","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese shojin cuisine"}.
+- Position 253, Q109361903: retain. Original {"id":"Q109361903","verdict":"remove","reason":"generic category (deep-fried confection), not one dish"}.
+- Position 254, Q109362788: retain. Original {"id":"Q109362788","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese curry bread"}.
+- Position 256, Q109364379: retain. Original {"id":"Q109364379","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese onigiri"}.
+- Position 258, Q109366527: retain. Original {"id":"Q109366527","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese namagashi"}.
+- Position 259, Q10936666: retain. Original {"id":"Q10936666","verdict":"keep","countries":["CN"],"reason":"countries empty; Chinese tofu dish"}.
+- Position 262, Q109370422: retain. Original {"id":"Q109370422","verdict":"remove","reason":"generic course category (side dish), not one dish"}.
+- Position 264, Q109377884: retain. Original {"id":"Q109377884","verdict":"keep","countries":["IT"],"reason":"Second opinion: diplomatica is an Italian layered pastry; German alias does not establish origin."}.
+- Position 267, Q109378829: retain. Original {"id":"Q109378829","verdict":"remove","reason":"chain-restaurant menu item (Burger King Whopperitto)"}.
+- Position 271, Q109380577: retain. Original {"id":"Q109380577","verdict":"remove","reason":"chain-restaurant menu item (Five Guys)"}.
+- Position 281, Q109393756: retain. Original {"id":"Q109393756","verdict":"remove","reason":"branded ice cream product (Heartbrand)"}.
+- Position 283, Q109409667: retain. Original {"id":"Q109409667","verdict":"keep","countries":["CN","US"],"reason":"Second opinion: honey walnut shrimp is associated with Cantonese and Chinese-American cuisine."}.
+- Position 288, Q109423425: retain. Original {"id":"Q109423425","verdict":"keep","countries":["ES"],"reason":"countries empty; Catalan bread"}.
+- Position 291, Q109429025: retain. Original {"id":"Q109429025","verdict":"keep","countries":["NL"],"reason":"countries empty; Dutch dish"}.
+- Position 292, Q109429557: retain. Original {"id":"Q109429557","verdict":"keep","countries":["VN"],"reason":"countries empty; Vietnamese street food"}.
+- Position 294, Q109430747: retain. Original {"id":"Q109430747","verdict":"keep","countries":["ID"],"reason":"countries empty; Indonesian dish"}.
+- Position 295, Q109430748: retain. Original {"id":"Q109430748","verdict":"keep","countries":["ID"],"reason":"countries empty; Indonesian dish"}.
+- Position 296, Q109431540: retain. Original {"id":"Q109431540","verdict":"keep","countries":["ID"],"reason":"countries empty; Indonesian dish"}.
+- Position 297, Q109432661: retain. Original {"id":"Q109432661","verdict":"keep","countries":["ID"],"reason":"countries empty; Indonesian dish"}.
+- Position 298, Q109435904: retain. Original {"id":"Q109435904","verdict":"keep","countries":["ID"],"reason":"countries empty; Indonesian dish"}.
+- Position 299, Q109435907: retain. Original {"id":"Q109435907","verdict":"keep","countries":["ID"],"reason":"countries empty; Indonesian food"}.
+- Position 300, Q109436297: retain. Original {"id":"Q109436297","verdict":"keep","countries":["ID"],"reason":"countries empty; Indonesian dish from Jambi"}.
+
+## names-008
+
+Audited 104 flagged original entries; 13 changed.
+
+- Position 1, Q109436308: retain. Original {"id":"Q109436308","verdict":"keep","countries":["ID"],"reason":"added country: Indonesian gulai"}.
+- Position 4, Q109436536: retain. Original {"id":"Q109436536","verdict":"remove","reason":"brand of instant noodles (Hao Hao)"}.
+- Position 7, Q109439272: retain. Original {"id":"Q109439272","verdict":"keep","countries":["ID"],"reason":"added country: Indonesian dish"}.
+- Position 10, Q109440360: retain. Original {"id":"Q109440360","verdict":"keep","countries":["ID"],"reason":"added country: Demak, Java"}.
+- Position 11, Q109441388: retain. Original {"id":"Q109441388","verdict":"keep","countries":["ID"],"reason":"added country: Indonesian gulai"}.
+- Position 17, Q10946121: retain. Original {"id":"Q10946121","verdict":"keep","countries":["CN"],"reason":"added country: Chinese lamb dish"}.
+- Position 23, Q1095315: change. Original {"id":"Q1095315","verdict":"keep","countries":["LB","SY"],"reason":"added countries: Levantine garlic sauce"}. Final {"id":"Q1095315","verdict":"keep","countries":["LB","SY","PS","JO"],"reason":"Toum is shared Levantine garlic sauce associated with Lebanon, Syria, Palestine and Jordan."}.
+- Position 24, Q109532998: retain. Original {"id":"Q109532998","verdict":"keep","countries":["TR"],"reason":"added country: Turkish fish soup"}.
+- Position 25, Q109533885: retain. Original {"id":"Q109533885","verdict":"keep","countries":["KR"],"reason":"added country: Korean fried chicken"}.
+- Position 27, Q109539600: retain. Original {"id":"Q109539600","verdict":"keep","countries":["GB"],"reason":"added country: English lamprey pie"}.
+- Position 29, Q109558070: retain. Original {"id":"Q109558070","verdict":"keep","countries":["IE","KR","US"],"reason":"Second opinion: croffle is tied to Irish and American early versions and South Korean popularization."}.
+- Position 30, Q109569010: retain. Original {"id":"Q109569010","verdict":"keep","countries":["TH"],"reason":"added country: Thai appetizer"}.
+- Position 33, Q109596034: retain. Original {"id":"Q109596034","verdict":"keep","countries":["JP"],"reason":"added country: Japanese wagashi"}.
+- Position 34, Q109596124: retain. Original {"id":"Q109596124","verdict":"keep","countries":["TW"],"reason":"added country: Taiwanese donut"}.
+- Position 35, Q109596277: retain. Original {"id":"Q109596277","verdict":"keep","countries":["IT"],"reason":"added country: Bolognese lasagne"}.
+- Position 36, Q109596821: retain. Original {"id":"Q109596821","verdict":"keep","countries":["JP"],"reason":"added country: Japanese mochi"}.
+- Position 37, Q109598159: retain. Original {"id":"Q109598159","verdict":"keep","countries":["JP"],"reason":"added country: Isahaya okoshi"}.
+- Position 39, Q109598458: retain. Original {"id":"Q109598458","verdict":"keep","countries":["JP"],"reason":"added country: Japanese wagashi"}.
+- Position 43, Q109602746: retain. Original {"id":"Q109602746","verdict":"keep","countries":["JP"],"reason":"added country: Japanese tempura"}.
+- Position 44, Q109604400: retain. Original {"id":"Q109604400","verdict":"keep","countries":["RU"],"reason":"added country: Russian egg porridge"}.
+- Position 45, Q109611860: retain. Original {"id":"Q109611860","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}.
+- Position 46, Q109611888: retain. Original {"id":"Q109611888","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}.
+- Position 50, Q109645027: retain. Original {"id":"Q109645027","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}.
+- Position 51, Q109645225: retain. Original {"id":"Q109645225","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}.
+- Position 53, Q109659136: change. Original {"id":"Q109659136","verdict":"keep","countries":["JP"],"reason":"added country: Japanese ramen"}. Final {"id":"Q109659136","verdict":"remove","reason":"Sugakiya Jigoku no Aka ramen is a named commercial noodle product rather than a generic dish."}.
+- Position 54, Q109664551: retain. Original {"id":"Q109664551","verdict":"keep","countries":["JP"],"reason":"added country: Japanese rice dish"}.
+- Position 57, Q10969752: retain. Original {"id":"Q10969752","verdict":"keep","countries":["PL"],"reason":"added country: Polish candy"}.
+- Position 59, Q10973598: retain. Original {"id":"Q10973598","verdict":"keep","countries":["GB"],"reason":"added country: Scottish hotch potch"}.
+- Position 60, Q10976640: retain. Original {"id":"Q10976640","verdict":"keep","countries":["ES"],"reason":"added country: Basque pastry"}.
+- Position 61, Q109771488: retain. Original {"id":"Q109771488","verdict":"keep","countries":["KR"],"reason":"added country: Korean guk"}.
+- Position 68, Q10987: retain. Original {"id":"Q10987","verdict":"remove","reason":"raw food ingredient (honey), not a dish"}.
+- Position 81, Q110101486: change. Original {"id":"Q110101486","verdict":"keep","countries":["ID"],"reason":"added country: Indonesian takjil"}. Final {"id":"Q110101486","verdict":"remove","reason":"Takjil denotes foods and drinks for breaking the fast, a meal category rather than one dish."}.
+- Position 82, Q110104063: retain. Original {"id":"Q110104063","verdict":"keep","countries":["AZ","IR"],"reason":"Second opinion: Tabriz baklava is tied to Iranian Azerbaijan as well as Azerbaijani pastry traditions."}.
+- Position 84, Q110108640: retain. Original {"id":"Q110108640","verdict":"keep","countries":["AZ"],"reason":"added country: Azerbaijani pastry"}.
+- Position 85, Q110115559: change. Original {"id":"Q110115559","verdict":"keep","countries":["KR"],"reason":"added country: Korean guk"}. Final {"id":"Q110115559","verdict":"keep","countries":["KR","KP"],"reason":"Mugwort guk is a shared Korean soup associated with both Koreas."}.
+- Position 86, Q110117776: change. Original {"id":"Q110117776","verdict":"keep","countries":["KR"],"reason":"added country: Korean jeotgal"}. Final {"id":"Q110117776","verdict":"keep","countries":["KR","KP"],"reason":"Salted pollock innards are associated with both Korean cuisines."}.
+- Position 91, Q110132849: change. Original {"id":"Q110132849","verdict":"keep","countries":["UA","RU"],"reason":"added countries: Crimean Tatar pie"}. Final {"id":"Q110132849","verdict":"keep","countries":["UA","RU","TR"],"reason":"Kobete is a Crimean Tatar pie also strongly associated with the Crimean Tatar community in Turkey."}.
+- Position 95, Q110144660: retain. Original {"id":"Q110144660","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}.
+- Position 98, Q110189370: retain. Original {"id":"Q110189370","verdict":"keep","countries":["ES"],"reason":"added country: Basque dessert"}.
+- Position 99, Q110215765: retain. Original {"id":"Q110215765","verdict":"keep","countries":["GR"],"reason":"added country: Greek dish"}.
+- Position 102, Q110253542: retain. Original {"id":"Q110253542","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}.
+- Position 103, Q110253556: retain. Original {"id":"Q110253556","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}.
+- Position 104, Q110253565: retain. Original {"id":"Q110253565","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}.
+- Position 113, Q110276382: retain. Original {"id":"Q110276382","verdict":"remove","reason":"category (street food in Nigeria), not one dish"}.
+- Position 118, Q110293006: retain. Original {"id":"Q110293006","verdict":"keep","countries":["SE"],"reason":"added country: Swedish pie"}.
+- Position 122, Q110424383: retain. Original {"id":"Q110424383","verdict":"keep","countries":["IT"],"reason":"added country: Italian pasta preparation"}.
+- Position 124, Q110427128: retain. Original {"id":"Q110427128","verdict":"keep","countries":["GR","TR"],"reason":"added countries: dolmades"}.
+- Position 133, Q110474734: retain. Original {"id":"Q110474734","verdict":"keep","countries":["FR"],"reason":"added country: French potage"}.
+- Position 134, Q110498955: retain. Original {"id":"Q110498955","verdict":"keep","countries":["NL"],"reason":"added country: Dutch cookie"}.
+- Position 143, Q110557555: retain. Original {"id":"Q110557555","verdict":"remove","reason":"category (Italian meat and sausage products), not one dish"}.
+- Position 146, Q11060059: retain. Original {"id":"Q11060059","verdict":"keep","countries":["DE"],"reason":"added country: Sorbian dish"}.
+- Position 147, Q110611118: retain. Original {"id":"Q110611118","verdict":"remove","reason":"ingredient (bread crust), not a dish"}.
+- Position 148, Q110611180: retain. Original {"id":"Q110611180","verdict":"remove","reason":"ingredient (breadcrumbs), not a dish"}.
+- Position 150, Q110611289: retain. Original {"id":"Q110611289","verdict":"remove","reason":"intermediate ingredient (egg milk), not a dish"}.
+- Position 154, Q110627904: retain. Original {"id":"Q110627904","verdict":"keep","countries":[],"reason":"Second opinion: generic plum puree; Russian wording alone does not establish a country."}.
+- Position 155, Q1106345: retain. Original {"id":"Q1106345","verdict":"keep","countries":["FR","IT"],"reason":"Second opinion: retain Italian porchetta and its traditional Nice association."}.
+- Position 157, Q110651436: retain. Original {"id":"Q110651436","verdict":"keep","countries":["NL"],"reason":"added country: Groningen soup"}.
+- Position 158, Q110655684: retain. Original {"id":"Q110655684","verdict":"remove","reason":"chain-restaurant menu item (burger shop)"}.
+- Position 162, Q110693434: retain. Original {"id":"Q110693434","verdict":"keep","countries":["IQ","IR"],"reason":"added countries: Mandaean flatbread"}.
+- Position 163, Q110701994: change. Original {"id":"Q110701994","verdict":"keep","countries":["DE"],"reason":"added country: German schnitzel"}. Final {"id":"Q110701994","verdict":"keep","countries":["AT","DE"],"reason":"Naturschnitzel is associated with Austrian and German cooking."}.
+- Position 164, Q110702204: retain. Original {"id":"Q110702204","verdict":"remove","reason":"raw fruit, not a dish"}.
+- Position 165, Q110730621: retain. Original {"id":"Q110730621","verdict":"remove","reason":"company, not a dish"}.
+- Position 170, Q110749148: change. Original {"id":"Q110749148","verdict":"keep","countries":["DE"],"reason":"added country: German schnitzel"}. Final {"id":"Q110749148","verdict":"keep","countries":["AT","DE"],"reason":"Mushroom schnitzel is associated with Austrian and German cooking."}.
+- Position 171, Q11075630: retain. Original {"id":"Q11075630","verdict":"keep","countries":["CN"],"reason":"added country: Chinese wonton skin dish"}.
+- Position 174, Q110768007: retain. Original {"id":"Q110768007","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}.
+- Position 175, Q11076814: retain. Original {"id":"Q11076814","verdict":"keep","countries":["CN"],"reason":"added country: Chinese food"}.
+- Position 184, Q1108310: retain. Original {"id":"Q1108310","verdict":"keep","countries":["ES","IT"],"reason":"Second opinion: melon with ham is a Spanish and Italian appetizer, not Chinese by its translated alias."}.
+- Position 186, Q110834503: retain. Original {"id":"Q110834503","verdict":"keep","countries":["VN"],"reason":"added country: Vietnamese bánh"}.
+- Position 189, Q11085987: retain. Original {"id":"Q11085987","verdict":"keep","countries":["CN"],"reason":"added country: Chinese pork rib dish"}.
+- Position 191, Q110880257: retain. Original {"id":"Q110880257","verdict":"keep","countries":["FR"],"reason":"added country: French escargot dish"}.
+- Position 193, Q110885432: retain. Original {"id":"Q110885432","verdict":"keep","countries":["JP"],"reason":"added country: Japanese confection"}.
+- Position 200, Q110910147: retain. Original {"id":"Q110910147","verdict":"keep","countries":["BW"],"reason":"added country: Botswana dish"}.
+- Position 202, Q110920147: retain. Original {"id":"Q110920147","verdict":"keep","countries":["ES"],"reason":"added country: Catalan cake"}.
+- Position 209, Q110977435: retain. Original {"id":"Q110977435","verdict":"keep","countries":["IT"],"reason":"added country: Italian focaccia"}.
+- Position 210, Q11098740: retain. Original {"id":"Q11098740","verdict":"keep","countries":["ES"],"reason":"added country: Spanish confection"}.
+- Position 211, Q1110192: retain. Original {"id":"Q1110192","verdict":"keep","countries":["JP"],"reason":"added country: Japanese biscuit"}.
+- Position 218, Q111040548: retain. Original {"id":"Q111040548","verdict":"remove","reason":"article about curry in a region, not a dish recipe"}.
+- Position 219, Q111040626: retain. Original {"id":"Q111040626","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}.
+- Position 221, Q111084204: retain. Original {"id":"Q111084204","verdict":"keep","countries":["AO"],"reason":"added country: Angolan dish"}.
+- Position 222, Q11108995: retain. Original {"id":"Q11108995","verdict":"remove","reason":"historical military event, not a dish"}.
+- Position 224, Q111097996: retain. Original {"id":"Q111097996","verdict":"keep","countries":["JP"],"reason":"added country: Kurume yakitori"}.
+- Position 232, Q111207593: change. Original {"id":"Q111207593","verdict":"keep","countries":["FR"],"reason":"added country: French biscuit"}. Final {"id":"Q111207593","verdict":"keep","countries":["FR","IT"],"reason":"Boudoir/ladyfinger biscuits have French and Italian Savoyard associations."}.
+- Position 234, Q111207981: retain. Original {"id":"Q111207981","verdict":"keep","countries":["MA"],"reason":"added country: Moroccan pastry"}.
+- Position 238, Q111210846: retain. Original {"id":"Q111210846","verdict":"keep","countries":["FR"],"reason":"added country: French dish"}.
+- Position 243, Q111239919: retain. Original {"id":"Q111239919","verdict":"keep","countries":["DE"],"reason":"added country: German dish"}.
+- Position 247, Q111306412: retain. Original {"id":"Q111306412","verdict":"keep","countries":["JP"],"reason":"added country: Japanese norimaki"}.
+- Position 250, Q111329417: change. Original {"id":"Q111329417","verdict":"remove","reason":"packaged instant noodle product (brand line)"}. Final {"id":"Q111329417","verdict":"keep","countries":["CN"],"reason":"The entry names a generic pickled-mustard beef noodle preparation/flavour made by multiple producers, not an identified brand."}.
+- Position 252, Q111356050: retain. Original {"id":"Q111356050","verdict":"keep","countries":["JP"],"reason":"added country: Japanese makizushi"}.
+- Position 264, Q111446124: retain. Original {"id":"Q111446124","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}.
+- Position 265, Q111446143: retain. Original {"id":"Q111446143","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}.
+- Position 268, Q111494142: retain. Original {"id":"Q111494142","verdict":"keep","countries":["JP"],"reason":"added country: Japanese norimaki"}.
+- Position 269, Q11149430: retain. Original {"id":"Q11149430","verdict":"keep","countries":["TW"],"reason":"added country: Taiwanese fish dish"}.
+- Position 276, Q111551122: change. Original {"id":"Q111551122","verdict":"keep","countries":["DE"],"reason":"added country: German soup"}. Final {"id":"Q111551122","verdict":"keep","reason":"Oat-flake soup is a prepared dish, but the German label alone does not establish a country."}.
+- Position 278, Q111589037: retain. Original {"id":"Q111589037","verdict":"keep","countries":["JP"],"reason":"added country: Japanese nimono"}.
+- Position 282, Q111609577: change. Original {"id":"Q111609577","verdict":"keep","countries":["DE"],"reason":"added country: German pastry"}. Final {"id":"Q111609577","verdict":"keep","countries":["DE","AT"],"reason":"Apfeltaschen are apple pastries associated with German and Austrian baking."}.
+- Position 286, Q111653031: retain. Original {"id":"Q111653031","verdict":"keep","countries":["KI"],"reason":"added country: Kiribati food"}.
+- Position 287, Q111674044: retain. Original {"id":"Q111674044","verdict":"keep","countries":["US"],"reason":"Second opinion: beaded ice cream was developed in the United States; Korean label does not establish origin."}.
+- Position 289, Q111687252: retain. Original {"id":"Q111687252","verdict":"keep","countries":["ES"],"reason":"added country: Spanish bread"}.
+- Position 294, Q11172495: retain. Original {"id":"Q11172495","verdict":"keep","countries":["CN"],"reason":"added country: Chinese fish product"}.
+- Position 295, Q11172505: retain. Original {"id":"Q11172505","verdict":"keep","countries":["TW"],"reason":"Second opinion: the linked article is about Taiwanese fried fish crisps."}.
+- Position 296, Q11172760: change. Original {"id":"Q11172760","verdict":"keep","countries":["CN"],"reason":"added country: Chinese fish ball"}. Final {"id":"Q11172760","verdict":"keep","countries":["CN","HK"],"reason":"Dace fish balls are associated with Cantonese cuisine in mainland China and Hong Kong."}.
+- Position 298, Q11174346: retain. Original {"id":"Q11174346","verdict":"keep","countries":["CN"],"reason":"added country: Shanghainese soup"}.
+- Position 299, Q11174489: retain. Original {"id":"Q11174489","verdict":"keep","countries":["TW"],"reason":"Second opinion: smoked duck yāshǎng is a Yilan, Taiwan specialty."}.
+- Position 300, Q111745712: retain. Original {"id":"Q111745712","verdict":"keep","countries":["PL"],"reason":"added country: Polish zalewajka"}.
+
+## Completion
+
+Assigned scope was reduced to names-000–names-008. All nine batches completed: 1,660 original flagged entries read in full (117, 182, 261, 165, 177, 200, 275, 179, 104). 79 verdict corrections: 12, 13, 3, 5, 9, 1, 2, 21, 13 respectively. All rows remain in batch position order. These flagged entries in the name-only batches have no raw recipe text.

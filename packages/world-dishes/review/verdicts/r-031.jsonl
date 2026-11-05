@@ -9,7 +9,7 @@
 {"id":"Q1797271","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APumpkin_Soup","status":"ok"}]}
 {"id":"Q1799455","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FLablabi","status":"ok"}]}
 {"id":"Q181055","verdict":"keep","recipes":[{"source":"https://nl.wikibooks.org/wiki/Kookboek%2FHotdog","status":"ok"}]}
-{"id":"Q1811076","verdict":"keep","countries":["GB"],"reason":"countries were empty; British dish","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ALiver_and_Onions","status":"ok"}]}
+{"id":"Q1811076","verdict":"keep","countries":[],"reason":"Second opinion: liver and onions is widespread across cuisines; this generic dish is not exclusively British","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ALiver_and_Onions","status":"ok"}]}
 {"id":"Q18127202","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ALettuce_Soup","status":"ok"}]}
 {"id":"Q1815560","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACalzone","status":"ok"},{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FCalzone","status":"ok"},{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FCalzone","status":"drop","reason":"raw page has an ingredient list but no preparation method"}]}
 {"id":"Q181761","verdict":"keep","countries":["GB"],"reason":"countries were empty; Scottish confection","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ADeep_Fried_Mars_Bar","status":"ok"}]}

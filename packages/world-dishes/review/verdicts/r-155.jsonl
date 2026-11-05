@@ -28,7 +28,7 @@
 {"id":"wikibooks-hu:apple-jack-light","verdict":"remove","reason":"cocktail (drink)"}
 {"id":"wikibooks-hu:april-shower","verdict":"remove","reason":"cocktail (drink)"}
 {"id":"wikibooks-hu:aprófánk","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FZs%C3%ADrban_s%C3%BCltek%2FF%C3%A1nkok%2FApr%C3%B3f%C3%A1nk","status":"ok"}]}
-{"id":"wikibooks-hu:aradi-disznótoros-töltött-káposzta","verdict":"keep","countries":["RO"],"reason":"empty countries; Aradi (Arad, Romania) regional dish","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FT%C3%B6lt%C3%B6tt_k%C3%A1poszta%2FAradi_diszn%C3%B3toros_t%C3%B6lt%C3%B6tt_k%C3%A1poszta","status":"ok"}]}
+{"id":"wikibooks-hu:aradi-disznótoros-töltött-káposzta","verdict":"keep","countries":["HU","RO"],"reason":"Arad regional Hungarian stuffed cabbage; both its Hungarian culinary tradition and Romanian regional association apply.","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FT%C3%B6lt%C3%B6tt_k%C3%A1poszta%2FAradi_diszn%C3%B3toros_t%C3%B6lt%C3%B6tt_k%C3%A1poszta","status":"ok"}]}
 {"id":"wikibooks-hu:aranyleves","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FLevesek%2FAranyleves","status":"ok"}]}
 {"id":"wikibooks-hu:archiduc-mártás","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FM%C3%A1rt%C3%A1sok%2FArchiduc_m%C3%A1rt%C3%A1s","status":"ok"}]}
 {"id":"wikibooks-hu:árpasör","verdict":"remove","reason":"drink (beer, filed under Italok/Sörök)"}

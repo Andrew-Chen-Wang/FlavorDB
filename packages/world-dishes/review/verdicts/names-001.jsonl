@@ -12,7 +12,7 @@
 {"id":"Q10472675","verdict":"keep","countries":["FI"],"reason":"Finnish dish, countries empty"}
 {"id":"Q104727207","verdict":"remove","reason":"raw fruit, not a dish"}
 {"id":"Q1047392","verdict":"keep"}
-{"id":"Q10477006","verdict":"keep","countries":["SE"],"reason":"Swedish jam, countries empty"}
+{"id":"Q10477006","verdict":"keep","countries":["SE","FI"],"reason":"Queen’s jam is shared by Sweden and Finland."}
 {"id":"Q10477229","verdict":"keep","countries":["SE"],"reason":"Swedish cookie, countries empty"}
 {"id":"Q104783428","verdict":"keep","countries":["NL"],"reason":"Dutch boterkoek, countries empty"}
 {"id":"Q104792798","verdict":"keep"}
@@ -25,7 +25,7 @@
 {"id":"Q104830799","verdict":"keep"}
 {"id":"Q104834952","verdict":"keep"}
 {"id":"Q104836072","verdict":"keep","countries":["US"],"reason":"Appalachian dish, countries empty"}
-{"id":"Q104842957","verdict":"remove","reason":"grouping of bar snacks, not one dish"}
+{"id":"Q104842957","verdict":"keep","countries":["NL"],"reason":"Bittergarnituur is a prepared Dutch platter of fried bar snacks, so retain it as a dish."}
 {"id":"Q104844158","verdict":"keep"}
 {"id":"Q104849442","verdict":"keep","countries":["LK"],"reason":"second opinion: kola kanda is Sri Lankan herbal congee, not an Odia dish"}
 {"id":"Q1048496","verdict":"keep","countries":["RU"],"reason":"Russian soup, countries empty"}
@@ -43,10 +43,10 @@
 {"id":"Q104881657","verdict":"keep"}
 {"id":"Q104887477","verdict":"keep"}
 {"id":"Q1049425","verdict":"keep"}
-{"id":"Q10495802","verdict":"keep","countries":["SE"],"reason":"Swedish fish dish, countries empty"}
+{"id":"Q10495802","verdict":"keep","reason":"Breaded fish pieces are prepared food, but the Swedish name alone does not establish Swedish origin."}
 {"id":"Q104960372","verdict":"keep","countries":["FI"],"reason":"Finnish bread, countries empty"}
 {"id":"Q10497217","verdict":"keep"}
-{"id":"Q104974761","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
+{"id":"Q104974761","verdict":"keep","reason":"Prepared roe-deer saddle; its Swedish label does not establish a uniquely Swedish dish."}
 {"id":"Q1049852","verdict":"keep"}
 {"id":"Q10498613","verdict":"keep"}
 {"id":"Q10499378","verdict":"keep"}
@@ -54,7 +54,7 @@
 {"id":"Q10500003","verdict":"keep","countries":["TW"],"reason":"Taiwanese soup, countries empty"}
 {"id":"Q10500606","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
 {"id":"Q105006109","verdict":"keep"}
-{"id":"Q10500884","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
+{"id":"Q10500884","verdict":"keep","reason":"Minced-meat patties are prepared food; no basis here for assigning only Sweden."}
 {"id":"Q10501315","verdict":"keep"}
 {"id":"Q105015387","verdict":"keep"}
 {"id":"Q10501568","verdict":"keep","countries":["CZ"],"reason":"Czech ham, countries empty"}
@@ -65,8 +65,8 @@
 {"id":"Q105045860","verdict":"keep"}
 {"id":"Q10505302","verdict":"remove","reason":"stick object, not a dish"}
 {"id":"Q105064017","verdict":"keep"}
-{"id":"Q10506671","verdict":"keep","countries":["NO"],"reason":"Norwegian candy, countries empty"}
-{"id":"Q105077405","verdict":"keep","countries":["SE"],"reason":"Swedish torte, countries empty"}
+{"id":"Q10506671","verdict":"keep","reason":"Pacifier-shaped candy is a prepared confection, but the Norwegian name is not country evidence."}
+{"id":"Q105077405","verdict":"keep","countries":["SE","DK"],"reason":"Othello cake is associated with both Swedish and Danish baking."}
 {"id":"Q105094284","verdict":"keep","countries":["CZ"],"reason":"Czech soup, countries empty"}
 {"id":"Q10509612","verdict":"keep","countries":["SE"],"reason":"Swedish cake, countries empty"}
 {"id":"Q10509650","verdict":"keep"}
@@ -78,10 +78,10 @@
 {"id":"Q1051265","verdict":"keep"}
 {"id":"Q10514423","verdict":"keep","countries":["TW"],"reason":"Taiwanese congee, countries empty"}
 {"id":"Q10514464","verdict":"keep"}
-{"id":"Q10514546","verdict":"keep","countries":["CN"],"reason":"Chinese dish, countries empty"}
+{"id":"Q10514546","verdict":"keep","countries":["TW","CN"],"reason":"Shrimp geng belongs to Taiwanese as well as Chinese cuisine."}
 {"id":"Q1051460","verdict":"keep"}
 {"id":"Q10515472","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
-{"id":"Q10516404","verdict":"keep","countries":["SE"],"reason":"Swedish candy, countries empty"}
+{"id":"Q10516404","verdict":"keep","countries":["SE","FI"],"reason":"Raspberry boat candies are commonly associated with both Sweden and Finland."}
 {"id":"Q10516678","verdict":"keep"}
 {"id":"Q10518439","verdict":"keep"}
 {"id":"Q1051852","verdict":"keep"}
@@ -94,7 +94,7 @@
 {"id":"Q10523680","verdict":"keep"}
 {"id":"Q1052461","verdict":"keep"}
 {"id":"Q1052469","verdict":"keep"}
-{"id":"Q10525017","verdict":"keep","countries":["SE"],"reason":"Swedish candy, countries empty"}
+{"id":"Q10525017","verdict":"remove","reason":"Hockeypulver is a branded powdered-liquorice candy product."}
 {"id":"Q105264416","verdict":"keep"}
 {"id":"Q1052815","verdict":"keep"}
 {"id":"Q105288154","verdict":"keep"}
@@ -116,14 +116,14 @@
 {"id":"Q10540862","verdict":"keep"}
 {"id":"Q105411167","verdict":"keep"}
 {"id":"Q10541947","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
-{"id":"Q10542015","verdict":"keep","countries":["SE"],"reason":"Swedish pancake, countries empty"}
+{"id":"Q10542015","verdict":"keep","reason":"Yeasted pancakes are a prepared dish, but the Swedish label is not sufficient country evidence."}
 {"id":"Q10542033","verdict":"keep"}
 {"id":"Q10542408","verdict":"keep"}
 {"id":"Q10542917","verdict":"keep"}
-{"id":"Q105429471","verdict":"keep","countries":["KP"],"reason":"North Korean soup, countries empty"}
+{"id":"Q105429471","verdict":"keep","countries":["KP","KR"],"reason":"Chogyetang is a shared Korean cold chicken soup associated with both Koreas."}
 {"id":"Q10543810","verdict":"keep","countries":["SE"],"reason":"Swedish bread, countries empty"}
 {"id":"Q10544140","verdict":"keep"}
-{"id":"Q1054430","verdict":"keep","countries":["IT"],"reason":"Ligurian fish, countries empty"}
+{"id":"Q1054430","verdict":"remove","reason":"Gianchetti are juvenile whitebait, a raw seafood ingredient with no recipe here."}
 {"id":"Q10544495","verdict":"keep"}
 {"id":"Q10545209","verdict":"remove","reason":"second opinion: Kexchoklad is a Cloetta branded wafer bar"}
 {"id":"Q10546582","verdict":"keep"}
