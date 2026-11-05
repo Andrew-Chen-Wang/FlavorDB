@@ -18,7 +18,7 @@
 {"id":"Q16069669","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch dish"}
 {"id":"Q16073623","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian sweet"}
 {"id":"Q16074240","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian sweet"}
-{"id":"Q16074822","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian sweet"}
+{"id":"Q16074822","verdict":"keep","countries":["IR","TR"],"reason":"Keshkul/keşkül almond dessert has Iranian and Turkish traditions."}
 {"id":"Q16078622","verdict":"keep"}
 {"id":"Q16088653","verdict":"keep","countries":["RS"],"reason":"countries were empty; Vranje samsa is Serbian"}
 {"id":"Q16089496","verdict":"keep"}
@@ -50,7 +50,7 @@
 {"id":"Q16164947","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean soup"}
 {"id":"Q1616787","verdict":"keep"}
 {"id":"Q16172410","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean kimchi"}
-{"id":"Q16174915","verdict":"keep","countries":["NO"],"reason":"countries were empty; Sami stew from Norway"}
+{"id":"Q16174915","verdict":"keep","countries":["NO","SE","FI"],"reason":"Bidos belongs to the shared Sami reindeer-stew tradition across northern Scandinavia."}
 {"id":"Q161755","verdict":"keep","countries":["CH"],"reason":"countries were empty; Swiss bread roll"}
 {"id":"Q16176340","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean kimchi"}
 {"id":"Q16180568","verdict":"keep"}
@@ -83,7 +83,7 @@
 {"id":"Q16262179","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean loach soup"}
 {"id":"Q16269628","verdict":"keep"}
 {"id":"Q1627087","verdict":"keep"}
-{"id":"Q1627095","verdict":"remove","reason":"German idiom (Redewendung), not a dish"}
+{"id":"Q1627095","verdict":"keep","reason":"Honigkuchenpferd is an edible horse-shaped gingerbread as well as an idiom; flour and honey corroborate food."}
 {"id":"Q16301690","verdict":"keep","countries":["US"],"reason":"countries were empty; American hamburger"}
 {"id":"Q16302027","verdict":"keep"}
 {"id":"Q16304057","verdict":"keep","countries":["TH"],"reason":"countries were empty; Thai dessert"}
@@ -98,13 +98,13 @@
 {"id":"Q16330184","verdict":"keep"}
 {"id":"Q16331672","verdict":"keep"}
 {"id":"Q16332019","verdict":"keep","countries":["GR","CY"],"reason":"countries were empty; Greek and Cypriot cake"}
-{"id":"Q16345325","verdict":"keep","countries":["IN"],"reason":"countries were empty; Bengali sweet of India"}
+{"id":"Q16345325","verdict":"keep","countries":["IN","BD"],"reason":"Bengali gaja confection is associated with India and Bangladesh."}
 {"id":"Q16345347","verdict":"keep"}
 {"id":"Q16345446","verdict":"keep"}
-{"id":"Q16345986","verdict":"keep","countries":["IN"],"reason":"countries were empty; Bengali sweet of India"}
+{"id":"Q16345986","verdict":"keep","countries":["IN","BD","NP"],"reason":"Batasa sugar confection is shared across India, Bangladesh and Nepal."}
 {"id":"Q16346869","verdict":"keep","countries":["IN"],"reason":"countries were empty; Bengali sweet of India"}
 {"id":"Q16350217","verdict":"keep","countries":["AL"],"reason":"countries were empty; Albanian dish"}
-{"id":"Q16351737","verdict":"keep","countries":["AL"],"reason":"countries were empty; Albanian dish"}
+{"id":"Q16351737","verdict":"keep","reason":"Albanian translation of Canadian pork pastry does not establish Albanian dish origin."}
 {"id":"Q16351793","verdict":"keep","countries":["TR"],"reason":"countries were empty; Turkish pickle"}
 {"id":"Q16359149","verdict":"keep"}
 {"id":"Q16359321","verdict":"keep"}
@@ -232,7 +232,7 @@
 {"id":"Q16608468","verdict":"keep","countries":["MX"],"reason":"countries were empty; Mexican soup"}
 {"id":"Q16610775","verdict":"keep"}
 {"id":"Q16612124","verdict":"keep"}
-{"id":"Q166128","verdict":"keep","countries":["CU","MX"],"reason":"countries were empty; Latin American beef dish"}
+{"id":"Q166128","verdict":"keep","countries":["CU","MX","PH","PR","CR","DO"],"reason":"Picadillo has Cuban, Mexican, Filipino, Puerto Rican, Costa Rican and Dominican traditions."}
 {"id":"Q16613521","verdict":"keep","countries":["ES"],"reason":"countries were empty; Spanish guiso"}
 {"id":"Q16614903","verdict":"keep","countries":["GT"],"reason":"Second opinion: paches are Guatemalan potato tamales, not Spanish (https://culturaguate.gob.gt/2023/06/15/paches/)."}
 {"id":"Q16616890","verdict":"keep"}
@@ -296,5 +296,5 @@
 {"id":"Q16683598","verdict":"keep"}
 {"id":"Q16683902","verdict":"keep"}
 {"id":"Q16686834","verdict":"keep"}
-{"id":"Q16689976","verdict":"keep","countries":["RU"],"reason":"countries were empty; Russian bread"}
+{"id":"Q16689976","verdict":"remove","reason":"Drunken bread denotes contaminated grain/bread causing poisoning, rather than an intentional dish."}
 {"id":"Q16693052","verdict":"keep","countries":["RU"],"reason":"countries were empty; Russian dish"}

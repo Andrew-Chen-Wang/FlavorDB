@@ -49,7 +49,7 @@
 {"id":"Q17173262","verdict":"keep"}
 {"id":"Q17174348","verdict":"keep"}
 {"id":"Q17174620","verdict":"keep"}
-{"id":"Q17175691","verdict":"keep","countries":["CA"],"reason":"Quebec snack meal; countries were empty"}
+{"id":"Q17175691","verdict":"keep","reason":"Casse-croute is a generic snack/sandwich term; no specific Quebec origin is established."}
 {"id":"Q17190268","verdict":"keep"}
 {"id":"Q17190893","verdict":"keep"}
 {"id":"Q17191020","verdict":"keep","countries":["JP"],"reason":"Japanese porridge; countries were empty"}
@@ -167,7 +167,7 @@
 {"id":"Q1752442","verdict":"keep","countries":["DE"],"reason":"German smoked-fish dish; countries were empty"}
 {"id":"Q1753265","verdict":"keep"}
 {"id":"Q1753513","verdict":"keep"}
-{"id":"Q1753583","verdict":"keep","countries":["DE"],"reason":"German sweet bread; countries were empty"}
+{"id":"Q1753583","verdict":"keep","countries":["DE","AT","CH"],"reason":"Yeast wreath bread has German, Austrian and Swiss baking traditions."}
 {"id":"Q1754338","verdict":"keep"}
 {"id":"Q17553788","verdict":"keep"}
 {"id":"Q1755668","verdict":"keep"}
@@ -188,7 +188,7 @@
 {"id":"Q17620066","verdict":"keep","countries":["VE"],"reason":"Venezuelan rosquilla; countries were empty"}
 {"id":"Q176236","verdict":"keep"}
 {"id":"Q17623932","verdict":"remove","reason":"fictional dish"}
-{"id":"Q1762398","verdict":"keep","countries":["DE"],"reason":"German cake; countries were empty"}
+{"id":"Q1762398","verdict":"keep","countries":["DE","AT","PL","CZ"],"reason":"Poppy seed cakes have common German, Austrian, Polish and Czech traditions."}
 {"id":"Q17627934","verdict":"keep"}
 {"id":"Q17628717","verdict":"keep"}
 {"id":"Q17630576","verdict":"keep"}
@@ -231,7 +231,7 @@
 {"id":"Q1777339","verdict":"keep"}
 {"id":"Q1779559","verdict":"keep"}
 {"id":"Q177998","verdict":"remove","reason":"thickening agent (polysaccharide), not a dish"}
-{"id":"Q178","verdict":"remove","reason":"generic category (pasta as a whole), not a specific dish"}
+{"id":"Q178","verdict":"keep","countries":["IT"],"reason":"Pasta is an established prepared staple food, rather than merely a list of dishes."}
 {"id":"Q1781099","verdict":"keep"}
 {"id":"Q1781865","verdict":"keep"}
 {"id":"Q1784786","verdict":"keep"}
@@ -258,7 +258,7 @@
 {"id":"Q17986779","verdict":"keep","countries":["BE"],"reason":"Belgian dish; countries were empty"}
 {"id":"Q17990295","verdict":"keep","countries":["JP"],"reason":"Japanese canned bread; countries were empty"}
 {"id":"Q17992361","verdict":"keep"}
-{"id":"Q17993009","verdict":"keep","countries":["JP"],"reason":"Japanese yokan; countries were empty"}
+{"id":"Q17993009","verdict":"remove","reason":"Specific Japanese Air Self Defence Force ration/product variant of yokan."}
 {"id":"Q17993873","verdict":"keep","countries":["ES"],"reason":"Alcala de Henares dessert, Spain; countries were empty"}
 {"id":"Q17994521","verdict":"keep"}
 {"id":"Q17997299","verdict":"keep"}

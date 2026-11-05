@@ -35,7 +35,7 @@
 {"id":"Q32164159","verdict":"keep"}
 {"id":"Q3216490","verdict":"keep"}
 {"id":"Q3217743","verdict":"keep"}
-{"id":"Q3217888","verdict":"remove","reason":"raw ingredient (pork fat cube), not a dish"}
+{"id":"Q3217888","verdict":"keep","reason":"Second opinion: lardons include cured or smoked pork/bacon pieces, a prepared meat product; retain under prepared-food rule."}
 {"id":"Q321797","verdict":"keep"}
 {"id":"Q3220237","verdict":"keep"}
 {"id":"Q3220669","verdict":"keep","countries":["FR"],"reason":"countries empty; French cake"}
@@ -195,7 +195,7 @@
 {"id":"Q3350783","verdict":"keep"}
 {"id":"Q3351982","verdict":"keep"}
 {"id":"Q3351983","verdict":"keep","countries":["FR"],"reason":"countries empty; French omelette"}
-{"id":"Q3355025","verdict":"keep","countries":["FR"],"reason":"countries empty; French viennoiserie"}
+{"id":"Q3355025","verdict":"keep","countries":["FR","DZ"],"reason":"Second opinion: Oranais pastry has Algerian and French traditions."}
 {"id":"Q335626","verdict":"keep"}
 {"id":"Q3356613","verdict":"keep"}
 {"id":"Q3356849","verdict":"keep"}

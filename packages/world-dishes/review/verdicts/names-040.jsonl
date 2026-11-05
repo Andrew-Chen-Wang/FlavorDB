@@ -34,7 +34,7 @@
 {"id":"Q3447542","verdict":"keep"}
 {"id":"Q3449266","verdict":"keep"}
 {"id":"Q3449298","verdict":"keep"}
-{"id":"Q3460531","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3460531","verdict":"keep","reason":"Second opinion: Sabina PDO is a named traditional processed olive oil; retain prepared foods."}
 {"id":"Q3462362","verdict":"keep"}
 {"id":"Q3463262","verdict":"remove","reason":"apéritif, a drink"}
 {"id":"Q34674117","verdict":"keep"}
@@ -83,7 +83,7 @@
 {"id":"Q3497556","verdict":"keep"}
 {"id":"Q3497742","verdict":"keep","countries":["BE","FR"],"reason":"steak frites is claimed by both Belgium and France"}
 {"id":"Q3498785","verdict":"keep"}
-{"id":"Q3499420","verdict":"keep","countries":["GR"],"reason":"countries were empty; Greek stew"}
+{"id":"Q3499420","verdict":"keep","countries":["GR","CY"],"reason":"Second opinion: stifado has Greek and Cypriot traditions."}
 {"id":"Q3499431","verdict":"keep"}
 {"id":"Q3499615","verdict":"keep"}
 {"id":"Q3499942","verdict":"keep"}
@@ -109,13 +109,13 @@
 {"id":"Q3515860","verdict":"keep"}
 {"id":"Q3515861","verdict":"keep"}
 {"id":"Q3515862","verdict":"keep"}
-{"id":"Q3518532","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3518532","verdict":"keep","reason":"Second opinion: Terra di Bari PDO is a named traditional processed olive oil; retain prepared foods."}
 {"id":"Q3518777","verdict":"keep"}
 {"id":"Q3520287","verdict":"keep"}
 {"id":"Q3520299","verdict":"keep","countries":["MY"],"reason":"nasi kandar is a Malaysian dish, IN was wrong"}
 {"id":"Q352253","verdict":"keep"}
 {"id":"Q3528208","verdict":"keep","countries":["FR"],"reason":"countries were empty; tielle sétoise from Sète"}
-{"id":"Q3530197","verdict":"keep","countries":["RO"],"reason":"countries were empty; Romanian stew"}
+{"id":"Q3530197","verdict":"keep","countries":["RO","MD"],"reason":"Second opinion: tocana is shared Romanian and Moldovan stew."}
 {"id":"Q3530321","verdict":"keep","countries":["FR"],"reason":"countries were empty; French potato dish"}
 {"id":"Q3531002","verdict":"keep","countries":["BE"],"reason":"countries were empty; Belgian stuffed tomato"}
 {"id":"Q3531005","verdict":"keep","countries":["FR"],"reason":"countries were empty; Provençal dish"}
@@ -123,7 +123,7 @@
 {"id":"Q3531223","verdict":"keep"}
 {"id":"Q3532515","verdict":"keep"}
 {"id":"Q3532517","verdict":"keep"}
-{"id":"Q3534131","verdict":"keep","countries":["FR"],"reason":"countries were empty; French cake"}
+{"id":"Q3534131","verdict":"keep","countries":["GP"],"reason":"Second opinion: tourment damour is a Guadeloupean cake, not mainland French merely by language."}
 {"id":"Q3535543","verdict":"keep","countries":["FR"],"reason":"countries were empty; Niçoise specialty"}
 {"id":"Q3535544","verdict":"keep"}
 {"id":"Q3535545","verdict":"keep"}
@@ -145,7 +145,7 @@
 {"id":"Q3543811","verdict":"keep"}
 {"id":"Q3544203","verdict":"keep"}
 {"id":"Q3544562","verdict":"keep"}
-{"id":"Q3544579","verdict":"keep","countries":["FI"],"reason":"countries were empty; Finnish porridge"}
+{"id":"Q3544579","verdict":"keep","countries":["FI","SE","EE"],"reason":"Second opinion: whipped semolina and berry porridge has Finnish, Swedish and Estonian traditions."}
 {"id":"Q3545233","verdict":"keep"}
 {"id":"Q3545686","verdict":"keep"}
 {"id":"Q3548107","verdict":"keep"}
@@ -204,13 +204,13 @@
 {"id":"Q3606896","verdict":"keep"}
 {"id":"Q3607167","verdict":"keep"}
 {"id":"Q3610216","verdict":"keep"}
-{"id":"Q3613295","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3613295","verdict":"keep","reason":"Second opinion: Alto Crotonese PDO is a named traditional processed olive oil; retain prepared foods."}
 {"id":"Q3613674","verdict":"remove","reason":"bitters liqueur, a drink"}
 {"id":"Q3614508","verdict":"keep"}
 {"id":"Q3616613","verdict":"keep"}
 {"id":"Q36180436","verdict":"keep"}
 {"id":"Q3618208","verdict":"keep"}
-{"id":"Q3621054","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3621054","verdict":"keep","reason":"Second opinion: Aprutino Pescarese PDO is a named traditional processed olive oil; retain prepared foods."}
 {"id":"Q3622651","verdict":"keep"}
 {"id":"Q3625357","verdict":"keep"}
 {"id":"Q3630112","verdict":"keep"}
@@ -219,10 +219,10 @@
 {"id":"Q3632937","verdict":"keep"}
 {"id":"Q3633458","verdict":"keep"}
 {"id":"Q3634389","verdict":"keep"}
-{"id":"Q3634426","verdict":"keep","countries":["IN"],"reason":"countries were empty; Indian flatbread"}
+{"id":"Q3634426","verdict":"keep","countries":["IN","PK","BD"],"reason":"Second opinion: rumali roti has shared Indian, Pakistani and Bangladeshi traditions."}
 {"id":"Q3634538","verdict":"keep"}
 {"id":"Q3636224","verdict":"keep"}
-{"id":"Q36368321","verdict":"keep","countries":["PR","DO"],"reason":"countries were empty; Caribbean fried plantain"}
+{"id":"Q36368321","verdict":"keep","countries":["PR","DO","CU","CO","VE","NI","CR","HN","PA","EC"],"reason":"Second opinion: tostones are shared Caribbean and Latin American fried plantains."}
 {"id":"Q3637056","verdict":"keep"}
 {"id":"Q3639714","verdict":"keep"}
 {"id":"Q3640406","verdict":"keep"}
@@ -238,11 +238,11 @@
 {"id":"Q3642935","verdict":"keep"}
 {"id":"Q3643465","verdict":"keep"}
 {"id":"Q3644493","verdict":"keep"}
-{"id":"Q3644926","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3644926","verdict":"keep","reason":"Second opinion: Brisighella PDO is a named traditional processed olive oil; retain prepared foods."}
 {"id":"Q3645416","verdict":"keep"}
 {"id":"Q3646090","verdict":"keep"}
 {"id":"Q3646108","verdict":"keep"}
-{"id":"Q3646112","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3646112","verdict":"keep","reason":"Second opinion: Bruzio PDO is a named traditional processed olive oil; retain prepared foods."}
 {"id":"Q3646253","verdict":"keep"}
 {"id":"Q3647260","verdict":"keep"}
 {"id":"Q3647314","verdict":"keep"}
@@ -261,7 +261,7 @@
 {"id":"Q3660404","verdict":"keep"}
 {"id":"Q3660408","verdict":"keep"}
 {"id":"Q3660463","verdict":"remove","reason":"raw fresh meat category, not a dish"}
-{"id":"Q3660942","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3660942","verdict":"keep","reason":"Second opinion: Cartoceto PDO is a named traditional processed olive oil; retain prepared foods."}
 {"id":"Q3661871","verdict":"keep"}
 {"id":"Q3661967","verdict":"keep"}
 {"id":"Q3661968","verdict":"keep"}
@@ -274,7 +274,7 @@
 {"id":"Q3665589","verdict":"keep"}
 {"id":"Q3666048","verdict":"keep","countries":["BD","IN"],"reason":"Second opinion: Bengali sweet associated with Bangladesh and India; https://heritagehub.gov.bd/HeritageInfoes/DetailsPdfEng/2134"}
 {"id":"Q36672065","verdict":"keep"}
-{"id":"Q3667436","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3667436","verdict":"keep","reason":"Second opinion: Chianti Classico PDO is a named traditional processed olive oil; retain prepared foods."}
 {"id":"Q3667736","verdict":"keep"}
 {"id":"Q3668413","verdict":"keep"}
 {"id":"Q3668429","verdict":"keep"}
@@ -293,7 +293,7 @@
 {"id":"Q3676324","verdict":"keep"}
 {"id":"Q3676366","verdict":"keep"}
 {"id":"Q3676383","verdict":"keep"}
-{"id":"Q3676632","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3676632","verdict":"keep","reason":"Second opinion: Cilento PDO is a named traditional processed olive oil; retain prepared foods."}
 {"id":"Q3677424","verdict":"remove","reason":"raw vegetable variety, not a dish"}
 {"id":"Q3677884","verdict":"keep"}
 {"id":"Q3678059","verdict":"keep"}

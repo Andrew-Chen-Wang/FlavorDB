@@ -1,0 +1,1011 @@
+# Original names second opinion 032–045
+
+Each listed target was manually reread against its full original top-level batch entry, matched by position. No reconstructed entries used.
+
+## names-032
+- Q2016856: retain — keep NL
+- Q20182633: retain — remove
+- Q2021346: retain — keep RO,MD
+- Q20220343: retain — keep CN
+- Q2022222: retain — keep GB
+- Q2022950: retain — keep EG
+- Q2023763: retain — keep CN,ID
+- Q2025650: retain — keep NL
+- Q202989: retain — keep IT,PT,RO
+- Q2035996: retain — keep NL
+- Q204161: retain — keep DE,AT,CH
+- Q20422573: retain — keep LB,SY,JO,PS
+- Q20427122: retain — keep ID
+- Q20458172: retain — keep MY
+- Q2045908: retain — keep DE
+- Q20487101: retain — keep US
+- Q20501051: retain — keep BG
+- Q20504418: retain — keep BY
+- Q20529721: retain — keep EE
+- Q205328: retain — keep ES
+- Q20552974: retain — keep NO
+- Q20553191: retain — keep NO
+- Q20560831: retain — keep TH
+- Q2056216: retain — keep IT
+- Q20573009: retain — keep IN
+- Q20582652: retain — keep AZ
+- Q20585312: retain — keep GB
+- Q2058588: retain — keep BE
+- Q20586519: retain — keep AZ
+- Q20587733: retain — keep AZ
+- Q20590936: retain — keep GB
+- Q20600209: retain — keep GB
+- Q20622033: retain — keep NL
+- Q2064491: retain — keep 
+- Q20645113: retain — remove
+- Q20645147: retain — keep TR
+- Q20645434: retain — remove
+- Q20650605: retain — keep TR
+- Q20650896: retain — remove
+- Q20670919: retain — keep TR
+- Q20714587: retain — keep US
+- Q2071540: retain — remove
+- Q2074267: retain — keep US
+- Q20748063: retain — keep MX
+- Q20754699: retain — keep CH
+- Q20755749: changed — Second opinion: Big One is a branded frozen pizza line, excluded as a packaged brand.
+- Q20787367: retain — keep SE
+- Q2079526: retain — keep BE
+- Q20814407: retain — keep MX
+- Q20819041: retain — keep MX
+- Q20820571: retain — keep IS
+- Q2082513: retain — keep NL
+- Q2083501: retain — keep 
+- Q2084500: retain — keep DE
+- Q20847867: retain — keep HK
+- Q20856260: retain — keep MX
+- Q2088672: retain — keep NL
+- Q2088910: retain — keep NL
+- Q20892154: retain — remove
+- Q2089470: retain — keep NL
+- Q20917544: retain — remove
+- Q20918234: retain — keep FI
+- Q20919276: retain — keep 
+- Q20920934: retain — keep US
+- Q20921887: retain — keep 
+- Q20979646: retain — keep GB
+- Q20984265: retain — keep VN
+- Q20984266: retain — keep VN
+- Q20984269: retain — keep VN
+- Q20984273: retain — keep VN
+- Q20988782: changed — Second opinion against original: tahini cookies have Egyptian and Israeli traditions.
+- Q21002167: retain — keep 
+- Q21041059: retain — keep CZ,PL
+- Q21059510: retain — keep KR
+- Q21060314: retain — keep KR
+- Q2106483: retain — remove
+- Q2106620: retain — keep DE
+- Q2106693: retain — remove
+- Q2107118: retain — keep AT
+- Q2107869: retain — keep DE
+- Q21086244: retain — keep ES
+- Q21091274: retain — keep TR
+- Q21133282: retain — keep IT
+- Q211361: retain — keep 
+- Q21162481: retain — keep TR
+- Q2119832: changed — Second opinion against original: barley sugar is a traditional British and French boiled sweet.
+- Q21244926: retain — keep PK
+- Q2130319: retain — keep DE
+- Q2138741: retain — keep GR
+- Q2139778: retain — keep BE
+- Q2140326: retain — keep NL
+- Q21418938: retain — keep TR
+
+## names-033
+- Q21513463: retain — keep CY
+- Q21515489: retain — keep BH
+- Q21518276: retain — keep CY
+- Q2153114: retain — keep NL
+- Q21651195: retain — keep FR
+- Q21653450: retain — keep JP
+- Q21653592: retain — keep JP
+- Q21653851: retain — keep JP
+- Q21654952: retain — keep JP
+- Q21707374: retain — keep ES
+- Q2170924: retain — keep NL
+- Q21709993: retain — keep TH
+- Q2178599: retain — keep 
+- Q21810151: retain — keep AT
+- Q21816983: changed — Second opinion: generic cream cake; Danish label alone does not establish a country.
+- Q2184029: retain — keep NL
+- Q219123: changed — Second opinion: knafeh/kunafa has shared Levantine, Turkish and Egyptian traditions.
+- Q2191247: retain — keep BE
+- Q2198556: retain — keep NL
+- Q22099232: retain — keep TW
+- Q22099375: retain — keep TW
+- Q22101093: retain — keep TW
+- Q22107361: retain — keep NL
+- Q2211605: retain — keep NL
+- Q22122965: retain — keep JP
+- Q22123108: retain — keep JP
+- Q22123615: retain — keep JP
+- Q22123729: retain — remove
+- Q22123780: retain — keep JP
+- Q22123918: retain — remove
+- Q22125126: retain — keep JP
+- Q22126085: retain — keep JP
+- Q22126455: retain — keep JP
+- Q22126547: retain — keep JP
+- Q22127118: retain — keep JP
+- Q22128352: retain — keep JP
+- Q22128778: retain — keep JP
+- Q22128780: retain — keep JP
+- Q22129329: retain — keep JP
+- Q22129478: retain — keep JP
+- Q22130080: retain — keep JP
+- Q22131161: retain — keep JP
+- Q2215889: retain — keep CN
+- Q2216156: retain — keep US
+- Q22328802: retain — keep ES
+- Q2234053: retain — keep NL
+- Q2234318: retain — keep DE
+- Q2239048: retain — keep DE
+- Q22442935: retain — keep BE
+- Q2247910: retain — keep DE
+- Q2248563: retain — keep CH
+- Q2248655: retain — keep DE
+- Q2250838: retain — keep DE
+- Q2251212: retain — keep HR,IT,ME
+- Q2251745: retain — remove
+- Q2253377: retain — keep 
+- Q2254128: retain — keep NL
+- Q2255682: retain — keep DE
+- Q2256739: retain — keep NL
+- Q2258011: retain — keep DE
+- Q22583433: retain — keep SG,MY,ID
+- Q22666199: retain — keep LV
+- Q22666202: retain — keep LV
+- Q22666206: retain — keep LV
+- Q22666207: retain — keep LV
+- Q22666208: retain — keep LV
+- Q22666209: retain — keep LV
+- Q22666210: retain — keep LV
+- Q22666214: retain — keep LV
+- Q22666215: retain — keep LV
+- Q22666221: retain — keep LV
+- Q22666229: retain — keep LV
+- Q22666233: retain — keep LV
+- Q22666237: retain — keep LV
+- Q22666242: retain — keep LV
+- Q22666244: retain — keep LV
+- Q22666249: retain — keep LV
+- Q22666252: retain — keep LV
+- Q22666253: retain — keep LV
+- Q22666255: retain — keep LV
+- Q22666260: retain — keep LT,LV
+- Q22666265: changed — Second opinion: Latgaļu iedīni means Latgalian foods, a cuisine grouping rather than one dish.
+- Q22666288: retain — keep LV
+- Q22666316: retain — keep LV
+- Q22666319: retain — keep LV
+- Q22666322: retain — keep LV
+- Q22666336: retain — keep LV
+- Q22666337: retain — keep LV
+- Q22666338: retain — keep LV
+- Q22666345: retain — keep LV
+- Q22666350: retain — keep LV
+- Q22666352: retain — keep LV
+- Q22666358: retain — keep LV
+- Q22666359: retain — keep LV
+- Q22666363: retain — keep LV
+- Q22666365: retain — keep LV
+- Q22666366: retain — keep LV
+- Q22666368: retain — keep LV
+- Q22666371: retain — keep LV
+- Q22666378: retain — keep LV
+- Q22666380: retain — keep LV
+- Q22666384: retain — keep LV
+- Q22666385: retain — keep LV
+- Q22669970: changed — Second opinion: Vyborg kringle has Finnish and Russian Vyborg traditions.
+- Q2267393: retain — keep IT
+- Q2269366: retain — keep AT
+- Q2273698: changed — Second opinion: serikaya/kaya has Singaporean, Malaysian and Indonesian traditions.
+- Q227999: retain — keep AT
+- Q2281241: retain — keep NL
+- Q2286933: retain — keep NL
+- Q22931404: retain — remove
+- Q22936428: retain — keep IT
+- Q2294743: retain — keep MC,FR
+- Q22949248: retain — keep BD,IN
+- Q22984333: retain — keep ES
+- Q23005886: retain — keep NL
+- Q23008804: retain — keep NL
+- Q23020291: retain — remove
+- Q230246: retain — keep DE
+- Q2306704: retain — keep CH
+- Q2306706: retain — keep DE
+- Q23074345: retain — keep TW
+- Q2308008: retain — keep 
+- Q2311032: retain — keep DE
+- Q2315099: retain — keep IL,MA
+- Q2330776: changed — Second opinion: long egg is an industrial egg preparation, not a specifically German dish.
+- Q2334705: retain — keep BA,RS,ME
+- Q2336063: retain — keep IE
+- Q23461031: retain — remove
+- Q2346339: retain — keep PL
+- Q2351313: retain — keep 
+- Q2353020: retain — keep US
+
+## names-034
+- Q2356049: retain — keep CN,IN,NP,BT
+- Q2360511: retain — keep BE
+- Q2364865: retain — keep MA
+- Q2365219: retain — keep IQ
+- Q2368931: retain — keep NL
+- Q23689489: retain — keep AT
+- Q23785743: changed — Second opinion: Ratibor gingerbread has Polish regional and historical German/Silesian ties.
+- Q2382108: retain — keep DE
+- Q23824434: retain — keep PL
+- Q2383238: retain — remove
+- Q2386515: retain — keep BE
+- Q23888567: retain — keep HK
+- Q2391835: changed — Second opinion: Cha-Cha is a branded packaged chocolate wafer bar.
+- Q23925811: retain — keep HK
+- Q2394623: retain — keep NL
+- Q24000322: retain — remove
+- Q2400452: retain — keep DE
+- Q24012081: retain — keep IT
+- Q2403240: retain — remove
+- Q2405114: retain — keep NL
+- Q24054513: changed — Second opinion: Regina pizza is associated with Italian and French pizzeria traditions.
+- Q24229267: retain — keep BY
+- Q2423291: retain — keep NL
+- Q24238468: retain — keep LV
+- Q2424605: retain — keep FR
+- Q2427598: retain — keep IN,BD
+- Q2430685: retain — remove
+- Q24309184: retain — keep DE
+- Q24346104: retain — keep DE
+- Q2436674: retain — keep GB
+- Q244496: retain — keep AT,CZ
+- Q2445410: retain — keep IN
+- Q244589: retain — keep DE
+- Q244609: retain — keep AT,DE
+- Q24471421: retain — keep DE
+- Q2451334: retain — keep NL,FR
+- Q24517: retain — keep ES,MX
+- Q2457672: retain — keep NL
+- Q2462111: retain — keep DE
+- Q2464350: retain — keep RU
+- Q2468930: retain — keep NL
+- Q24711750: changed — Second opinion: Wartha gingerbread has Polish regional and historical German/Silesian ties.
+- Q24732220: retain — keep JP
+- Q2476143: retain — keep NL
+- Q2478703: retain — keep IN,BD,PK,NP
+- Q2481820: retain — keep BE
+- Q2482567: retain — keep NL
+- Q24835653: changed — Second opinion: kong-pian has Taiwanese and Fujian Chinese traditions.
+- Q24841569: retain — keep TW
+- Q248507: retain — keep CH
+- Q24855922: retain — keep KR
+- Q24855923: retain — keep KR
+- Q24862829: retain — keep JP
+- Q24867063: retain — keep JP
+- Q24869782: retain — keep JP
+- Q24869886: retain — keep JP
+- Q24870019: retain — keep JP
+- Q2487044: retain — keep NL
+- Q24870497: retain — keep JP
+- Q24870653: retain — keep JP
+- Q24870799: retain — keep JP
+- Q24870943: retain — keep JP
+- Q24871329: retain — keep JP
+- Q24876362: retain — keep JP
+- Q24882667: retain — keep IN
+- Q24887483: retain — keep JP
+- Q24889832: retain — keep JP
+- Q24893927: retain — keep JP
+- Q24894820: retain — keep JP
+- Q24898032: retain — keep JP
+- Q24898385: retain — keep JP
+- Q24898518: retain — keep JP
+- Q24898830: retain — keep JP
+- Q24899026: retain — keep JP
+- Q24899492: retain — keep JP
+- Q24902716: retain — keep JP
+- Q24906665: retain — keep IN
+- Q2491452: retain — remove
+- Q24929136: retain — keep FR
+- Q24929320: retain — keep CA
+- Q24937568: retain — keep ES
+- Q24941443: retain — keep IT
+- Q24944177: retain — remove
+- Q24945547: retain — keep BD,IN
+- Q2494643: retain — keep CN,IN,NP,BT
+- Q24946983: retain — keep IN,MM
+- Q24993896: retain — keep CA
+- Q24993955: retain — keep GB
+- Q25004038: retain — keep US
+- Q25004801: retain — keep US
+- Q2500956: retain — keep TZ
+- Q250170: changed — Second opinion: poğaça/pogača is shared across Turkish, Balkan and Central European traditions, as the original description states.
+- Q25019736: retain — keep CL
+- Q25041852: retain — keep BW
+- Q25041872: retain — keep TH
+- Q25042801: retain — keep KR
+- Q25043157: retain — keep TZ,KE
+- Q25043179: retain — keep US
+- Q25043326: retain — keep IR
+- Q25045178: retain — keep KR
+- Q25051984: retain — keep TH
+- Q25058095: retain — keep KR
+- Q25080055: retain — keep TH
+- Q25091738: retain — remove
+- Q25105527: retain — keep CN
+- Q25110268: retain — keep FI,US,CA
+- Q25110703: retain — keep TH
+- Q25111357: retain — keep TH
+- Q25171586: retain — keep GB
+- Q2517913: retain — keep NO,DK,SE,FI
+
+## names-035
+- Q25202841: retain — remove
+- Q25206205: changed — Second opinion: Omar is a branded Fazer caramel candy, not a generic confection.
+- Q25212648: retain — keep NA
+- Q25220508: retain — remove
+- Q25221268: retain — keep CZ
+- Q25221462: retain — keep IT
+- Q25221673: retain — keep US
+- Q2527136: changed — Second opinion: bsisa has Tunisian and Libyan traditions.
+- Q25302535: retain — keep IN
+- Q25339635: retain — keep US
+- Q2535744: retain — keep 
+- Q25380201: retain — keep FR
+- Q25383130: retain — keep SN
+- Q25387730: retain — keep TH
+- Q25388871: changed — Second opinion: Warmbrunn pastry has historical German/Silesian and current Polish regional ties.
+- Q25389845: retain — keep RU
+- Q253899: retain — keep AT
+- Q25405067: retain — keep 
+- Q25412980: retain — keep PL
+- Q25428551: retain — keep PT
+- Q25429735: retain — keep PT,BR
+- Q25431007: retain — keep BR
+- Q25452130: retain — remove
+- Q25453328: retain — keep FI
+- Q25454785: retain — keep DZ
+- Q25465250: retain — keep ID
+- Q25466936: retain — keep ID
+- Q25476285: retain — keep BG
+- Q25476873: retain — keep
+- Q25485264: retain — remove
+- Q2550270: retain — keep BE
+- Q25512128: retain — keep ES
+- Q2551579: changed — Second opinion: remove parenthetical disambiguator; generic water soup is not established as exclusively German.
+- Q25520186: retain — keep UZ
+- Q25536638: retain — keep 
+- Q2553796: retain — keep DE
+- Q2553843: retain — keep DE
+- Q25551956: retain — keep IN
+- Q25558267: retain — keep GB
+- Q2555906: retain — keep NL
+- Q25563576: retain — keep AL
+- Q25563591: retain — keep AL
+- Q25580565: retain — keep ID
+- Q25588431: retain — keep IN
+- Q2561177: retain — keep US
+- Q25616467: retain — keep NL
+- Q25616486: retain — keep NL
+- Q25617893: retain — keep IT
+- Q25619729: retain — keep MM
+- Q25640114: retain — keep NL
+- Q25640342: changed — Second opinion: endive with cracklings has no established country in the original entry.
+- Q25640423: retain — keep NL
+- Q25640478: retain — remove
+- Q25643944: changed — Second opinion: alu bhaja is shared Bengali cooking in India and Bangladesh.
+- Q25643982: retain — keep IN
+- Q25662717: retain — keep PH
+- Q25673308: changed — Second opinion: Tibetan Losar food belongs to the shared Tibetan cultural region.
+- Q25681686: retain — keep NL
+- Q25681718: retain — keep NL
+- Q25687438: retain — keep RU
+- Q2569162: retain — keep AT
+- Q25703460: retain — keep RU
+- Q25704086: retain — keep ZA
+- Q2572122: changed — Second opinion: pryanik is shared Russian, Ukrainian and Belarusian gingerbread.
+- Q2579351: retain — keep BE
+- Q25842375: retain — remove
+- Q259148: retain — keep DE,AT,CZ
+- Q2592256: retain — keep NL,BE,FR
+- Q2595034: retain — remove
+- Q2597970: retain — keep 
+- Q259874: changed — Second opinion: curry puffs have Singaporean, Malaysian, Thai and Indonesian traditions.
+- Q26046157: retain — keep KR
+- Q2606334: retain — keep NL
+- Q2609925: retain — keep NL
+- Q2613548: retain — keep CN,IN,NP,BT
+- Q2619014: retain — keep NL
+- Q26233481: retain — keep TH
+- Q26252043: retain — keep NL
+- Q26265213: retain — keep CN
+- Q26269264: retain — keep DE
+- Q26271735: retain — keep DE
+- Q262796: retain — keep TR,AM,AZ,KZ,KG,UZ,TJ,AF
+- Q2628185: retain — keep GB
+- Q2629070: retain — keep NL
+- Q2629673: retain — keep NL
+- Q2631681: changed — Second opinion: dressed herring is shared Soviet and Baltic festive food; obsolete SU does not mean Russia alone.
+- Q2631692: retain — keep IT,TR
+- Q2640746: retain — keep RU
+- Q2641023: retain — keep RU,KZ
+- Q2641073: retain — remove
+- Q2642060: retain — keep BR,PT
+- Q2643588: retain — keep HK
+- Q2643794: changed — Second opinion: tushonka is shared Russian, Belarusian and Ukrainian preserved meat.
+- Q264558: retain — keep SI,HR
+- Q26492973: retain — keep CZ,SK
+- Q2649721: retain — keep AT
+- Q2659824: changed — Second opinion: papa rellena has Peruvian, Cuban, Puerto Rican and Colombian traditions.
+- Q2663339: retain — keep DE
+- Q266529: retain — remove
+- Q2665744: retain — keep CL,PE,AR,BO,EC,CO
+- Q2667800: retain — keep CN,IN,NP,BT
+- Q26678593: retain — keep CZ
+- Q2674820: retain — keep DE
+- Q26769086: retain — keep CN
+- Q2678876: changed — Second opinion: generic farmers omelette; Dutch label alone does not establish a country.
+- Q26857408: retain — keep JP
+- Q26857710: retain — keep RU
+- Q26877711: retain — keep 
+- Q2691193: retain — keep NL
+- Q26928862: retain — keep NL
+- Q26936803: retain — keep IN,BD
+- Q2695207: retain — keep FR
+
+## names-037
+- Q28668248: retain — keep IT
+- Q28670218: retain — keep IT
+- Q2867162: retain — keep CH
+- Q28673045: retain — keep PL
+- Q28682513: retain — keep JP
+- Q28682686: retain — keep JP
+- Q28704166: retain — keep PL
+- Q28725121: retain — keep name Tahu aci
+- Q28752866: retain — remove
+- Q2884225: retain — keep FR
+- Q288511: retain — keep KR
+- Q2892592: retain — keep ES
+- Q28944427: retain — keep IT
+- Q28966859: retain — remove
+- Q2897203: retain — keep DZ,MA,TN
+- Q29032645: retain — keep NO
+- Q2903643: retain — keep 
+- Q29043105: retain — remove
+- Q2904894: retain — keep UY,AR
+- Q2908820: retain — keep FR
+- Q2909230: retain — keep GP
+- Q2917730: retain — keep CO
+- Q2924835: retain — keep GR
+- Q2925603: retain — keep FR
+- Q2927288: retain — keep FR
+- Q29319464: retain — keep IT
+- Q2936148: retain — keep FR
+- Q2936423: retain — keep BE
+- Q2940105: retain — remove
+- Q2963406: retain — keep NL,BE,FR
+- Q2967557: retain — keep DZ
+- Q296867: retain — remove
+- Q2973291: retain — remove
+- Q2974872: retain — remove
+- Q29944665: retain — keep KR
+- Q2996892: retain — keep FR
+- Q30011777: retain — keep KR
+
+## names-038
+- Q30090683: retain — keep JP
+- Q3009948: retain — keep NL
+- Q3016983: retain — keep FR
+- Q302169: changed — Second opinion: balut also has a Cambodian tradition.
+- Q30312707: retain — remove
+- Q3032267: retain — keep BE
+- Q30324930: retain — keep GB
+- Q30326666: changed — Second opinion: milanesa is shared across Argentina, Uruguay, Paraguay, Mexico and Bolivia.
+- Q3033269: retain — keep
+- Q303956: retain — remove
+- Q3041144: retain — keep IN
+- Q3051278: retain — keep GB
+- Q3053734: retain — keep
+- Q3054106: retain — keep NL
+- Q3054613: retain — remove
+- Q3057882: retain — keep FR
+- Q3059027: retain — keep FR
+- Q30591503: retain — keep US
+- Q30634372: retain — keep KR
+- Q30635685: retain — keep LB
+- Q30636888: retain — keep KR
+- Q30637566: retain — keep KR
+- Q3064423: retain — keep PF
+- Q3064595: retain — keep BE
+- Q30646348: retain — keep KR
+- Q3066798: retain — remove
+- Q3066802: retain — keep FR
+- Q3066921: retain — keep FR
+- Q30692629: retain — keep NP
+- Q3073449: retain — keep ES
+- Q30738187: retain — keep FR
+- Q30738882: retain — keep FR
+- Q30739481: retain — keep FR
+- Q30739675: retain — keep IT
+- Q30739922: retain — keep FR
+- Q3074271: retain — keep GB
+- Q30744378: retain — keep SN
+- Q30748759: retain — keep FR
+- Q3080398: retain — keep FR
+- Q3080606: retain — keep ES
+- Q3081857: retain — keep GB
+- Q3087607: retain — remove
+- Q3087626: retain — keep FR
+- Q3087627: retain — keep FR
+- Q30891233: retain — keep RU
+- Q3090471: retain — keep MA,DZ,TN
+- Q30912986: retain — keep NL
+- Q3091352: retain — remove
+- Q3091371: retain — keep CA
+- Q30922465: retain — remove
+- Q30925424: retain — keep JP
+- Q30926611: retain — keep AO
+- Q3092677: retain — keep CN,MY,SG,PH,ID
+- Q30927500: retain — keep JP
+- Q30927733: retain — keep 
+- Q3098712: retain — keep ES
+- Q3099411: retain — keep FR
+- Q3099412: retain — keep FR
+- Q3106401: retain — keep FR
+- Q31073311: retain — keep ES
+- Q31078296: retain — keep 
+- Q3108258: retain — keep US
+- Q31186302: retain — remove
+- Q31213279: changed — Second opinion: lemeshka is shared Belarusian and Ukrainian porridge.
+- Q3122800: changed — Second opinion: generic white wine cookies; no regional association established in the entry.
+- Q3122808: retain — keep FR
+- Q3122810: retain — keep FR
+- Q3122812: retain — keep BE
+- Q3123047: retain — keep SE,FI,IS,EE
+- Q3125526: retain — keep GB
+- Q3126044: retain — keep 
+- Q31281129: retain — keep NO
+- Q3141745: retain — keep TN
+- Q3142980: retain — keep FR
+- Q314489: retain — keep DE
+- Q314588: retain — keep DE
+- Q314612: retain — keep DE,PL
+- Q315295: retain — keep DE
+- Q3160840: retain — keep FR
+- Q3160843: retain — keep FR
+- Q3160847: retain — keep FR
+- Q3160850: retain — keep US
+- Q316244: retain — keep DE
+- Q31724514: retain — keep BD,IN
+- Q31724928: changed — Second opinion: chhenchki is shared Bengali vegetable cooking.
+- Q31727595: retain — keep BD
+- Q31752653: changed — Second opinion: kitumbua is shared Swahili coastal food in Tanzania and Kenya.
+- Q31754646: retain — keep MM
+- Q31830399: retain — remove
+
+## names-039
+- Q31837365: retain — keep IE
+- Q31838053: retain — keep DE
+- Q31839671: retain — keep DE
+- Q31840656: retain — keep DE
+- Q31883707: retain — remove
+- Q31888072: retain — keep SE
+- Q31892497: retain — keep SE
+- Q31898202: retain — keep SE
+- Q3191665: retain — remove
+- Q31930768: retain — remove
+- Q3217888: changed — Second opinion: lardons include cured or smoked pork/bacon pieces, a prepared meat product; retain under prepared-food rule.
+- Q3220669: retain — keep FR
+- Q3224160: retain — keep NL
+- Q3234514: retain — keep MY
+- Q32360952: retain — keep RU
+- Q32361264: retain — keep RU
+- Q3242200: retain — keep BE
+- Q3260142: retain — keep FR
+- Q3272159: retain — remove
+- Q3274068: retain — keep FR
+- Q3274070: retain — keep FR
+- Q3274072: retain — keep FR
+- Q3287467: retain — remove
+- Q32890: retain — keep HK
+- Q3293380: retain — remove
+- Q3297569: retain — keep FR
+- Q3301197: retain — keep GB
+- Q3303492: retain — keep DZ
+- Q3306566: retain — keep ES
+- Q33084088: retain — remove
+- Q33144185: retain — keep AT,DE
+- Q3316163: retain — keep FR
+- Q3328358: retain — remove
+- Q3331341: retain — remove
+- Q3332648: retain — keep ES
+- Q3334037: retain — keep RO
+- Q3342000: retain — keep FR
+- Q3346426: retain — keep IN,BD
+- Q3351983: retain — keep FR
+- Q3355025: changed — Second opinion: Oranais pastry has Algerian and French traditions.
+- Q3360576: retain — keep FR
+- Q3360592: retain — keep 
+- Q3361383: retain — keep FR
+- Q3362159: retain — keep IT,FR
+- Q3368845: retain — keep FR
+- Q3370171: retain — keep SE
+- Q3377925: retain — keep FR
+- Q3378248: retain — keep DK
+- Q3382504: retain — keep NL
+- Q3389085: retain — remove
+- Q3389247: retain — keep FR
+- Q3393785: retain — keep FR
+- Q3393902: retain — remove
+- Q3399960: retain — keep FR
+- Q3400143: retain — keep FR
+- Q3400309: retain — keep US
+- Q3401127: retain — keep FR
+- Q3404227: retain — keep FR
+- Q3411524: retain — keep FR
+- Q3411536: retain — keep FR
+- Q3412160: retain — keep FR
+
+## names-040
+- Q3419728: retain — keep CN
+- Q3420368: retain — keep MG
+- Q3422327: retain — keep NO
+- Q3431960: retain — keep FR
+- Q3436828: retain — remove
+- Q3439845: retain — keep FR
+- Q3441918: retain — keep HR
+- Q3443096: retain — keep FR
+- Q3460531: changed — Second opinion: Sabina PDO is a named traditional processed olive oil; retain prepared foods.
+- Q3463262: retain — remove
+- Q3469334: retain — keep CD,CG
+- Q3469461: retain — keep FR
+- Q3469472: retain — keep FR
+- Q3472373: retain — keep FR
+- Q3473983: retain — keep RO
+- Q3476509: retain — keep CN
+- Q3477693: retain — keep MA
+- Q34804358: retain — keep AT
+- Q3491819: retain — keep CA
+- Q3491822: retain — keep FR
+- Q3493331: retain — keep NL
+- Q3494357: retain — remove
+- Q3497742: retain — keep BE,FR
+- Q3499420: changed — Second opinion: stifado has Greek and Cypriot traditions.
+- Q3502845: retain — keep GB
+- Q3503191: retain — keep FR
+- Q3515850: retain — keep FR
+- Q3515851: retain — keep FR
+- Q3515855: retain — keep FR
+- Q3518532: changed — Second opinion: Terra di Bari PDO is a named traditional processed olive oil; retain prepared foods.
+- Q3520299: retain — keep MY
+- Q3528208: retain — keep FR
+- Q3530197: changed — Second opinion: tocana is shared Romanian and Moldovan stew.
+- Q3530321: retain — keep FR
+- Q3531002: retain — keep BE
+- Q3531005: retain — keep FR
+- Q3534131: changed — Second opinion: tourment damour is a Guadeloupean cake, not mainland French merely by language.
+- Q3535543: retain — keep FR
+- Q3535559: retain — keep FR
+- Q3542626: retain — keep ES
+- Q3544579: changed — Second opinion: whipped semolina and berry porridge has Finnish, Swedish and Estonian traditions.
+- Q3553500: retain — remove
+- Q35586024: retain — keep PS
+- Q3561219: retain — keep SE
+- Q356346: retain — keep DE
+- Q3573026: retain — remove
+- Q3574648: retain — remove
+- Q3589163: retain — keep ES
+- Q3596242: retain — keep IT
+- Q3606626: retain — remove
+- Q3613295: changed — Second opinion: Alto Crotonese PDO is a named traditional processed olive oil; retain prepared foods.
+- Q3613674: retain — remove
+- Q3621054: changed — Second opinion: Aprutino Pescarese PDO is a named traditional processed olive oil; retain prepared foods.
+- Q3632870: retain — keep IN
+- Q3634426: changed — Second opinion: rumali roti has shared Indian, Pakistani and Bangladeshi traditions.
+- Q36368321: changed — Second opinion: tostones are shared Caribbean and Latin American fried plantains.
+- Q3644926: changed — Second opinion: Brisighella PDO is a named traditional processed olive oil; retain prepared foods.
+- Q3646112: changed — Second opinion: Bruzio PDO is a named traditional processed olive oil; retain prepared foods.
+- Q3660463: retain — remove
+- Q3660942: changed — Second opinion: Cartoceto PDO is a named traditional processed olive oil; retain prepared foods.
+- Q3665214: retain — keep IT
+- Q3666048: retain — keep BD,IN
+- Q3667436: changed — Second opinion: Chianti Classico PDO is a named traditional processed olive oil; retain prepared foods.
+- Q3676632: changed — Second opinion: Cilento PDO is a named traditional processed olive oil; retain prepared foods.
+- Q3677424: retain — remove
+
+## names-041
+- Q3683263: changed — Second opinion: Colline Salernitane PDO is a named traditional processed olive oil.
+- Q3683268: changed — Second opinion: Colline Teatine PDO is a named traditional processed olive oil.
+- Q3683276: changed — Second opinion: Colline di Romagna PDO is a named traditional processed olive oil.
+- Q3704951: retain — keep CN
+- Q3712597: retain — remove
+- Q3712615: retain — remove
+- Q374381: changed — Second opinion: caramel custard/flan is shared French, Iberian, Filipino, Vietnamese and Latin American food.
+- Q3753410: retain — keep ES
+- Q3758209: changed — Second opinion: Garda PDO is a named traditional processed olive oil.
+- Q37620661: retain — keep AT
+- Q3772644: retain — keep NL
+- Q3773688: retain — keep MY
+- Q3776580: retain — remove
+- Q3778015: retain — keep SE
+- Q37833204: retain — keep KR
+- Q378341: retain — keep GB,US,CA
+- Q3784816: retain — keep BE
+- Q3802110: changed — Second opinion: Irpinia Colline dellUfita PDO is a named traditional processed olive oil.
+- Q3825584: changed — Second opinion: Laghi Lombardi PDO is a named traditional processed olive oil.
+- Q3826447: changed — Second opinion: Lametia PDO is a named traditional processed olive oil.
+- Q38266921: retain — keep JP
+- Q38276179: retain — remove
+- Q38412534: retain — keep NL
+- Q3847532: retain — keep PR
+- Q3857102: retain — remove
+- Q38595513: retain — keep MX
+- Q38595678: retain — keep AR
+- Q3860244: changed — Second opinion: Molise PDO is a named traditional processed olive oil.
+- Q3860889: retain — remove
+- Q3862441: changed — Second opinion: Monti Iblei PDO is a named traditional processed olive oil.
+- Q3877638: retain — remove
+- Q3881759: changed — Second opinion: Collina di Brindisi PDO is a named traditional processed olive oil.
+- Q3886934: retain — keep PL
+- Q3895102: retain — keep IT
+- Q389574: retain — keep AT
+- Q389727: retain — keep MX
+- Q3897472: retain — keep IT
+- Q3899061: changed — Second opinion: Penisola Sorrentina PDO is a named traditional processed olive oil.
+- Q39034868: retain — keep DE
+- Q39053773: retain — remove
+- Q39056765: retain — keep CN
+- Q39069945: retain — remove
+- Q39082052: retain — keep PA
+- Q39086082: retain — remove
+- Q3917542: changed — Second opinion: generic bread made from sifted flour; Dutch wording alone does not establish a country.
+- Q3920699: retain — keep PL
+- Q3920714: retain — keep PL,BY,LT
+- Q3920731: retain — keep PL
+- Q39297005: retain — keep IT
+
+## names-042
+- Q3958710: retain — keep IT
+- Q3973389: retain — keep FR
+- Q4036160: retain — remove
+- Q4068439: retain — remove
+- Q4080173: retain — remove
+- Q40853306: retain — keep GB,IE
+- Q4102393: changed — Second opinion: wazwan belongs to shared Kashmiri culture on both sides of the India/Pakistan border.
+- Q4115189: retain — remove
+- Q4116140: retain — keep EG
+- Q41415: retain — remove
+- Q4159174: retain — remove
+- Q41617095: retain — keep AT
+- Q4185902: retain — remove
+- Q4207282: retain — keep KR
+- Q4209872: retain — keep KR
+- Q4215683: retain — keep KR
+- Q4215727: retain — keep KR
+- Q4216325: retain — keep KR
+- Q4217538: retain — keep TR
+- Q4229214: retain — keep RU
+- Q42348478: retain — keep BD,IN
+- Q42363424: retain — keep BD,IN
+- Q42363635: retain — keep BD,IN,PK
+- Q42369886: retain — keep IN
+- Q42373871: retain — keep GB
+- Q42379629: retain — keep BD,IN,PK
+- Q42380699: changed — Second opinion: egg biryani is shared South Asian cooking.
+- Q42381119: retain — keep BD,IN
+- Q42381360: retain — keep BD,IN
+- Q42395119: retain — keep IN
+- Q42395976: retain — keep IN
+- Q42396244: retain — keep IN
+- Q42400563: retain — keep BD,IN
+- Q42417224: retain — keep NI
+- Q42417247: retain — keep IT
+- Q42434706: retain — keep IN
+- Q42435036: retain — keep IN
+- Q4246388: retain — keep RU
+- Q4247469: retain — keep JP
+- Q428621: retain — remove
+- Q42894275: retain — keep FR
+- Q43013136: retain — keep FR
+- Q43013313: retain — remove
+- Q4306732: retain — keep RU
+- Q4308183: retain — keep RU
+- Q43235009: retain — keep DE
+- Q43250232: retain — keep UA
+- Q4348342: retain — remove
+- Q435026: retain — remove
+- Q43580216: retain — keep IN
+- Q4367658: retain — keep RU
+- Q43731351: retain — keep CN
+- Q43731700: retain — keep CN
+
+## names-043
+- Q43731854: retain — keep CN
+- Q43731937: retain — keep CN
+- Q43732009: retain — keep CN
+- Q43732163: retain — keep CN
+- Q43732309: retain — keep CN
+- Q43732501: retain — keep CN
+- Q4373369: retain — keep KR
+- Q43736933: retain — keep CN
+- Q43768843: retain — keep IN
+- Q4377047: retain — keep RO,MD
+- Q43770676: retain — keep IT
+- Q4393189: retain — keep ES
+- Q44080298: retain — keep IN
+- Q440884: retain — keep DE
+- Q44130098: retain — keep IN
+- Q4425232: retain — remove
+- Q44835923: retain — remove
+- Q44843044: retain — remove
+- Q4499565: retain — keep AR
+- Q4503220: retain — keep ES
+- Q4515956: retain — keep ES
+- Q4516114: retain — remove
+- Q4550892: retain — remove
+- Q45809044: changed — Second opinion: kheer is shared Indian, Pakistani, Bangladeshi and Nepali rice pudding.
+- Q4609537: retain — remove
+- Q46485609: retain — keep AT
+- Q4652020: retain — remove
+- Q46705956: retain — keep NL
+- Q4670754: retain — keep JP
+- Q46925983: retain — keep NL
+- Q470519: retain — keep JP
+- Q47325100: retain — keep FR
+- Q47452383: retain — keep BE
+- Q47472163: retain — remove
+- Q47530595: retain — remove
+- Q477248: retain — remove
+- Q4782215: retain — remove
+- Q4783300: retain — remove
+- Q4806808: retain — remove
+- Q4817829: retain — remove
+- Q4841448: retain — keep IN
+- Q48730021: retain — keep BD,IN
+- Q48731366: retain — remove
+- Q48731505: retain — keep IN
+- Q48744234: retain — keep JP
+- Q48753429: changed — Second opinion: liver spaetzle has German and Austrian traditions.
+- Q48758790: retain — keep JP
+- Q48762320: retain — keep JP
+
+## names-044
+- Q48781818: retain — keep ES
+- Q48806470: retain — keep IT
+- Q48808894: retain — keep IT
+- Q48808953: retain — keep IT
+- Q48814046: retain — keep IT
+- Q48816551: changed — Second opinion: pizza by the slice is a generic serving form, not specific to the United States.
+- Q4882503: retain — keep GB
+- Q48841040: retain — keep JP
+- Q48876884: retain — keep BR
+- Q4891611: retain — remove
+- Q48927763: retain — keep TW
+- Q4897051: retain — keep FR
+- Q4897474: retain — keep ES
+- Q4900263: retain — keep TR
+- Q4902207: changed — Second opinion: bhurta is shared across Bangladesh, India, Pakistan and Nepal.
+- Q4903057: retain — keep PH,ID
+- Q4904727: retain — keep PT,BR
+- Q49053694: retain — keep VN
+- Q490759: retain — keep KR
+- Q4914153: retain — keep CN
+- Q4919380: retain — keep UY
+- Q4921064: retain — remove
+- Q4922403: retain — keep PL
+- Q4922798: retain — remove
+- Q4926393: retain — keep CA
+- Q4927055: retain — keep GB
+- Q493784: retain — keep KR
+- Q4938317: retain — keep BZ
+- Q4944265: retain — remove
+- Q4966940: retain — keep GB
+- Q496999: retain — keep KR
+- Q4985915: retain — keep US
+- Q4986123: retain — keep KR
+- Q4986776: retain — keep SI
+- Q4986986: retain — keep KR
+- Q4992511: retain — keep MO
+- Q4995419: retain — remove
+- Q4996483: retain — remove
+- Q4998037: retain — keep KR
+- Q5003018: retain — keep US
+- Q5006522: retain — remove
+- Q5015379: retain — keep BR
+- Q5016731: retain — keep NL
+- Q50218623: changed — Second opinion: bajadera cake is shared across Croatian, Serbian, Bosnian and Macedonian cooking.
+- Q503129: retain — keep US
+- Q50349154: retain — keep DE
+- Q5038482: retain — keep GB
+- Q5043855: retain — keep NI
+- Q5048739: retain — keep US
+- Q505115: retain — keep DE
+- Q5058734: retain — keep MX
+- Q5062050: retain — remove
+- Q5066400: retain — keep BD,IN
+- Q5068362: retain — keep IN
+- Q5072565: retain — keep KR
+- Q507591: retain — keep NL
+- Q5089539: retain — keep TM,IR
+- Q5092519: changed — Second opinion: cherry pie is a generic pie with international traditions, not specific to the United States.
+- Q5094874: retain — keep IN
+
+## names-045
+- Q5100855: retain — keep CN
+- Q5105172: retain — keep GB
+- Q5125470: retain — keep US
+- Q5139107: retain — remove
+- Q5149379: retain — keep GB
+- Q5149389: retain — remove
+- Q5167072: retain — keep US
+- Q5178059: retain — keep BE
+- Q51796021: retain — keep US
+- Q5180300: retain — remove
+- Q5182294: retain — keep GB
+- Q5183359: changed — Second opinion: cream crackers have British and Irish traditions.
+- Q5186074: retain — keep PH
+- Q51882025: retain — keep BR
+- Q5191461: retain — keep FR
+- Q5192125: retain — keep US
+- Q5194698: retain — remove
+- Q5194921: retain — keep ES
+- Q5196662: retain — keep CN
+- Q5202905: retain — keep PE
+- Q5203707: retain — keep PE
+- Q5209959: retain — keep KR
+- Q5227816: retain — keep US
+- Q5247475: retain — keep KR
+- Q5249501: retain — remove
+- Q5254291: retain — keep US
+- Q525586: retain — remove
+- Q5257848: changed — Second opinion: the Johorean noodle soup is mee rebus; retain its shared Malaysia, Indonesia and Singapore countries.
+- Q5267360: retain — keep US
+- Q5267591: retain — keep GB
+- Q5269476: retain — keep IN
+- Q527321: retain — keep ES
+- Q5278042: retain — keep PH
+- Q5278120: retain — remove
+- Q5286688: retain — keep PT
+- Q5287205: retain — keep GB
+- Q53014370: changed — Second opinion: stuffed artichokes also have established Turkish and Greek preparations.
+- Q5302283: retain — keep CN
+- Q5309356: retain — keep CN
+- Q5319091: retain — keep CA,US
+- Q532718: retain — keep DE
+- Q532942: changed — Second opinion: correct the misspelled imported name of the Chilean dish.
+- Q5331296: retain — remove
+- Q5331853: changed — Second opinion: chili shrimp has Chinese and Japanese chuka traditions.
+- Q533210: retain — keep DE,AT
+- Q5332994: retain — remove
+- Q5347939: retain — keep US
+- Q53560342: retain — keep FR
+- Q53581962: changed — Second opinion: Käsesalat is shared across German, Austrian and Swiss cooking.
+- Q5358451: retain — keep KR
+- Q5366460: retain — keep KR
+- Q5368581: retain — keep JP
+- Q5368786: retain — keep KR
+- Q5369082: retain — keep KR
+- Q5369089: retain — keep KR
+- Q5371164: retain — keep HK
+- Q5371632: retain — keep KR
+- Q5371702: retain — keep KR
+- Q5371715: retain — keep KR
+- Q5372471: retain — remove
+- Q53844640: retain — keep NL
+- Q5389704: retain — keep CN
+- Q5403594: retain — keep SE
+- Q5403625: retain — keep ES
+- Q5406515: changed — Second opinion: patasca is a shared Andean hominy soup of Peru, Bolivia, Argentina and Ecuador.
+- Q5408968: retain — keep IN,PK
+- Q5409699: retain — keep KR
+- Q5411101: retain — keep ES
+- Q54222942: retain — keep IT
+
+## Explicit restored-dish check
+- names-043 Q48754335 Errötendes Mädchen: retain — keep. Reread original entry; a real prepared dessert, as identified in the review instructions.
+
+## Positional verification
+- All 13 assigned original batches have equal entry/verdict counts and exact positional IDs.

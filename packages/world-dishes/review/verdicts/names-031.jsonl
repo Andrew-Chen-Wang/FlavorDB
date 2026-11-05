@@ -17,9 +17,9 @@
 {"id":"Q19702771","verdict":"keep"}
 {"id":"Q19704261","verdict":"keep","countries":["FI"],"reason":"added country: Finnish pastry"}
 {"id":"Q19704410","verdict":"keep","countries":[],"reason":"Second opinion: pureed vegetable soup is generic, not assigned Finland from its Finnish wording."}
-{"id":"Q19704479","verdict":"keep","countries":["FI"],"reason":"added country: Finnish biscuit"}
+{"id":"Q19704479","verdict":"keep","countries":["FI","SE"],"reason":"Oat-lace biscuits have Finnish and Swedish baking traditions."}
 {"id":"Q19706789","verdict":"keep","countries":["FI"],"reason":"added country: Finnish fish dish"}
-{"id":"Q19707923","verdict":"keep","countries":["FI"],"reason":"added country: Finnish porridge"}
+{"id":"Q19707923","verdict":"keep","reason":"Barley-grain porridge is generic; Finnish wording alone does not establish national origin."}
 {"id":"Q19709840","verdict":"keep","countries":["FI"],"reason":"added country: Finnish bread"}
 {"id":"Q19709871","verdict":"keep"}
 {"id":"Q19711295","verdict":"keep"}
@@ -124,16 +124,16 @@
 {"id":"Q19841241","verdict":"keep"}
 {"id":"Q19851743","verdict":"keep"}
 {"id":"Q19851800","verdict":"keep","countries":["TW"],"reason":"added country: Taiwanese dish"}
-{"id":"Q19854112","verdict":"keep","countries":["CN"],"reason":"added country: Chinese noodle dish"}
+{"id":"Q19854112","verdict":"keep","countries":["CN","TW"],"reason":"Sesame-sauce noodles have mainland Chinese and Taiwanese traditions."}
 {"id":"Q1987316","verdict":"remove","reason":"ingredient (wheat flour), not a dish"}
 {"id":"Q19875130","verdict":"keep"}
 {"id":"Q198788","verdict":"keep"}
 {"id":"Q1988612","verdict":"keep"}
 {"id":"Q19887142","verdict":"keep"}
-{"id":"Q1988957","verdict":"keep","countries":["NL"],"reason":"added country: Dutch finger food"}
+{"id":"Q1988957","verdict":"keep","countries":["NL","BE"],"reason":"Worstenbrood sausage rolls have Dutch and Belgian traditions."}
 {"id":"Q1988970","verdict":"keep"}
 {"id":"Q19891138","verdict":"keep","countries":["PK"],"reason":"added country: Pakistani dish"}
-{"id":"Q19892252","verdict":"keep","countries":["TW"],"reason":"added country: Taiwanese cake"}
+{"id":"Q19892252","verdict":"keep","countries":["TW","JP","PT"],"reason":"Original description explicitly ties the Taiwanese cake to Japanese and Portuguese cuisine."}
 {"id":"Q19893634","verdict":"keep"}
 {"id":"Q19894306","verdict":"keep"}
 {"id":"Q19895414","verdict":"keep","countries":["BD","IN"],"reason":"Second opinion: chingri malai curry is Bengali cuisine shared by Bangladesh and West Bengal, India."}

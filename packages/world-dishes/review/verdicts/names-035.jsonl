@@ -1,7 +1,7 @@
 {"id":"Q251981","verdict":"keep"}
 {"id":"Q25202841","verdict":"remove","reason":"branded candy (Sugar Babies line)"}
 {"id":"Q25203618","verdict":"keep"}
-{"id":"Q25206205","verdict":"keep","countries":[],"reason":"Second opinion: the Malayalam label alone does not establish India for this caramel candy."}
+{"id":"Q25206205","verdict":"remove","reason":"Second opinion: Omar is a branded Fazer caramel candy, not a generic confection."}
 {"id":"Q25212648","verdict":"keep","countries":["NA"],"reason":"Namibian grilled beef; added country"}
 {"id":"Q25220508","verdict":"remove","reason":"brand of sweets"}
 {"id":"Q25220535","verdict":"keep"}
@@ -16,7 +16,7 @@
 {"id":"Q25223099","verdict":"keep"}
 {"id":"Q25223685","verdict":"keep"}
 {"id":"Q2524291","verdict":"keep"}
-{"id":"Q2527136","verdict":"keep","countries":["TN"],"reason":"Tunisian dish; added country"}
+{"id":"Q2527136","verdict":"keep","countries":["TN","LY"],"reason":"Second opinion: bsisa has Tunisian and Libyan traditions."}
 {"id":"Q25302535","verdict":"keep","countries":["IN"],"reason":"Bengali sweet; added country"}
 {"id":"Q25302577","verdict":"keep"}
 {"id":"Q25302803","verdict":"keep"}
@@ -38,7 +38,7 @@
 {"id":"Q25388438","verdict":"keep"}
 {"id":"Q25388495","verdict":"keep"}
 {"id":"Q25388744","verdict":"keep"}
-{"id":"Q25388871","verdict":"keep","countries":["PL"],"reason":"Warmbrunn is Cieplice, Poland; added country"}
+{"id":"Q25388871","verdict":"keep","countries":["PL","DE"],"reason":"Second opinion: Warmbrunn pastry has historical German/Silesian and current Polish regional ties."}
 {"id":"Q25388897","verdict":"keep"}
 {"id":"Q25389845","verdict":"keep","countries":["RU"],"reason":"Russian croutons; added country"}
 {"id":"Q253899","verdict":"keep","countries":["AT"],"reason":"Austrian dish; added country"}
@@ -87,7 +87,7 @@
 {"id":"Q2550270","verdict":"keep","countries":["BE"],"reason":"Belgian specialty; added country"}
 {"id":"Q255048","verdict":"keep"}
 {"id":"Q25512128","verdict":"keep","countries":["ES"],"reason":"Galician sweet; added country"}
-{"id":"Q2551579","verdict":"keep","countries":["DE"],"reason":"German dish; added country"}
+{"id":"Q2551579","verdict":"keep","countries":[],"reason":"Second opinion: remove parenthetical disambiguator; generic water soup is not established as exclusively German.","name":"Wassersuppe"}
 {"id":"Q25520186","verdict":"keep","countries":["UZ"],"reason":"Uzbek dish; added country"}
 {"id":"Q25525331","verdict":"keep"}
 {"id":"Q25528989","verdict":"keep"}
@@ -128,14 +128,14 @@
 {"id":"Q2563471","verdict":"keep"}
 {"id":"Q25640114","verdict":"keep","countries":["NL"],"reason":"Limburg vlaai; added country"}
 {"id":"Q25640280","verdict":"keep"}
-{"id":"Q25640342","verdict":"keep","countries":["BE"],"reason":"Belgian dish; added country"}
+{"id":"Q25640342","verdict":"keep","countries":[],"reason":"Second opinion: endive with cracklings has no established country in the original entry."}
 {"id":"Q25640379","verdict":"keep"}
 {"id":"Q25640396","verdict":"keep"}
 {"id":"Q25640423","verdict":"keep","countries":["NL"],"reason":"Limburg vlaai; added country"}
 {"id":"Q25640478","verdict":"remove","reason":"drink (bitters liqueur)"}
 {"id":"Q25640559","verdict":"keep"}
 {"id":"Q25640632","verdict":"keep"}
-{"id":"Q25643944","verdict":"keep","countries":["IN"],"reason":"Indian dish; added country"}
+{"id":"Q25643944","verdict":"keep","countries":["IN","BD"],"reason":"Second opinion: alu bhaja is shared Bengali cooking in India and Bangladesh."}
 {"id":"Q25643982","verdict":"keep","countries":["IN"],"reason":"Odisha sweet; added country"}
 {"id":"Q2564638","verdict":"keep"}
 {"id":"Q2565281","verdict":"keep"}
@@ -143,7 +143,7 @@
 {"id":"Q2565922","verdict":"keep"}
 {"id":"Q256622","verdict":"keep"}
 {"id":"Q25662717","verdict":"keep","countries":["PH"],"reason":"Filipino dish; added country"}
-{"id":"Q25673308","verdict":"keep","countries":["CN"],"reason":"Tibetan Losar offering; added country"}
+{"id":"Q25673308","verdict":"keep","countries":["CN","IN","NP","BT"],"reason":"Second opinion: Tibetan Losar food belongs to the shared Tibetan cultural region."}
 {"id":"Q25674234","verdict":"keep"}
 {"id":"Q25679113","verdict":"keep"}
 {"id":"Q25679249","verdict":"keep"}
@@ -163,7 +163,7 @@
 {"id":"Q25704086","verdict":"keep","countries":["ZA"],"reason":"Zulu dish; added country"}
 {"id":"Q25704451","verdict":"keep"}
 {"id":"Q2571599","verdict":"keep"}
-{"id":"Q2572122","verdict":"keep","countries":["RU"],"reason":"Russian pryanik; added country"}
+{"id":"Q2572122","verdict":"keep","countries":["RU","UA","BY"],"reason":"Second opinion: pryanik is shared Russian, Ukrainian and Belarusian gingerbread."}
 {"id":"Q2578366","verdict":"keep"}
 {"id":"Q2579351","verdict":"keep","countries":["BE"],"reason":"Dinant biscuit; added country"}
 {"id":"Q2580945","verdict":"keep"}
@@ -182,7 +182,7 @@
 {"id":"Q259550","verdict":"keep"}
 {"id":"Q2595950","verdict":"keep"}
 {"id":"Q2597970","verdict":"keep","countries":[],"reason":"Second opinion: generic salmon salad; Dutch label alone does not establish a national dish."}
-{"id":"Q259874","verdict":"keep","countries":["SG","MY"],"reason":"Singapore/Malaysia snack; added countries"}
+{"id":"Q259874","verdict":"keep","countries":["SG","MY","TH","ID"],"reason":"Second opinion: curry puffs have Singaporean, Malaysian, Thai and Indonesian traditions."}
 {"id":"Q25997959","verdict":"keep"}
 {"id":"Q2599893","verdict":"keep"}
 {"id":"Q25999115","verdict":"keep"}
@@ -218,7 +218,7 @@
 {"id":"Q2628185","verdict":"keep","countries":["GB"],"reason":"Scottish dessert; added country"}
 {"id":"Q2629070","verdict":"keep","countries":["NL"],"reason":"Dutch bread; added country"}
 {"id":"Q2629673","verdict":"keep","countries":["NL"],"reason":"Dutch candy; added country"}
-{"id":"Q2631681","verdict":"keep","countries":["RU"],"reason":"SU is obsolete code for the Soviet Union; dish is Russian"}
+{"id":"Q2631681","verdict":"keep","countries":["RU","UA","BY","LT","LV","EE"],"reason":"Second opinion: dressed herring is shared Soviet and Baltic festive food; obsolete SU does not mean Russia alone."}
 {"id":"Q2631692","verdict":"keep","countries":["IT","TR"],"reason":"Second opinion: almond-paste confectionery has both Italian and Turkish traditions; PAT status does not invalidate the existing Turkish association."}
 {"id":"Q263223","verdict":"keep"}
 {"id":"Q2632589","verdict":"keep"}
@@ -238,7 +238,7 @@
 {"id":"Q2642060","verdict":"keep","countries":["BR","PT"],"reason":"Broa is also Portuguese; added country"}
 {"id":"Q264215","verdict":"keep"}
 {"id":"Q2643588","verdict":"keep","countries":["HK"],"reason":"Hong Kong bun; added country"}
-{"id":"Q2643794","verdict":"keep","countries":["RU"],"reason":"SU is obsolete code for the Soviet Union; dish is Russian"}
+{"id":"Q2643794","verdict":"keep","countries":["RU","BY","UA"],"reason":"Second opinion: tushonka is shared Russian, Belarusian and Ukrainian preserved meat."}
 {"id":"Q264558","verdict":"keep","countries":["SI","HR"],"reason":"Slovenian and Croatian dish; added countries"}
 {"id":"Q264758","verdict":"keep"}
 {"id":"Q26492667","verdict":"keep"}
@@ -247,7 +247,7 @@
 {"id":"Q265457","verdict":"keep"}
 {"id":"Q2654880","verdict":"keep"}
 {"id":"Q2655119","verdict":"keep"}
-{"id":"Q2659824","verdict":"keep","countries":["PE"],"reason":"Peruvian dish; added country"}
+{"id":"Q2659824","verdict":"keep","countries":["PE","CU","PR","CO"],"reason":"Second opinion: papa rellena has Peruvian, Cuban, Puerto Rican and Colombian traditions."}
 {"id":"Q2662315","verdict":"keep"}
 {"id":"Q2663339","verdict":"keep","countries":["DE"],"reason":"German soup; added country"}
 {"id":"Q2663499","verdict":"keep"}
@@ -277,7 +277,7 @@
 {"id":"Q26769088","verdict":"keep"}
 {"id":"Q267726","verdict":"keep"}
 {"id":"Q267763","verdict":"keep"}
-{"id":"Q2678876","verdict":"keep","countries":["NL"],"reason":"Dutch omelette; added country"}
+{"id":"Q2678876","verdict":"keep","countries":[],"reason":"Second opinion: generic farmers omelette; Dutch label alone does not establish a country."}
 {"id":"Q26791887","verdict":"keep"}
 {"id":"Q2679937","verdict":"keep"}
 {"id":"Q26806341","verdict":"keep"}

@@ -17,7 +17,7 @@
 {"id":"Q4024125","verdict":"keep","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FZelten","status":"ok"}]}
 {"id":"Q4024893","verdict":"keep","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FZuccata","status":"ok"}]}
 {"id":"Q4025002","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AZuppa_Toscana","status":"ok"}]}
-{"id":"Q4103048","verdict":"keep","countries":["CN","US"],"reason":"egg roll is a Chinese-American dish; VN was not supported by the source","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AEgg_Roll","status":"ok"}]}
+{"id":"Q4103048","verdict":"keep","countries":["CN","VN","US"],"reason":"Retain original Chinese and Vietnamese dish ties while adding the explicit Chinese-American source tradition; one recipe does not disprove an existing country association.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AEgg_Roll","status":"ok"}]}
 {"id":"Q4118695","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AColonial_Goose","status":"ok"}]}
 {"id":"Q4122095","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AFruit_Cake","status":"ok"}]}
 {"id":"Q412754","verdict":"keep","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FAjiaco","status":"ok"}]}

@@ -1,4 +1,4 @@
-{"id":"Q12019323","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech candy"}
+{"id":"Q12019323","verdict":"remove","reason":"Hašlerka is a branded herbal candy product."}
 {"id":"Q12020911","verdict":"keep","countries":["US"],"reason":"countries empty; Hawaiian dish"}
 {"id":"Q1202221","verdict":"keep"}
 {"id":"Q1202255","verdict":"keep"}
@@ -60,11 +60,11 @@
 {"id":"Q120824242","verdict":"keep","countries":["IN"],"reason":"countries empty; Rajasthani dish"}
 {"id":"Q120829140","verdict":"keep"}
 {"id":"Q120831995","verdict":"keep"}
-{"id":"Q120841934","verdict":"keep","countries":["JP"],"reason":"countries empty; Okinawan cuisine"}
+{"id":"Q120841934","verdict":"remove","reason":"Ukanshin ryori denotes royal banquet cuisine, rather than one dish."}
 {"id":"Q12084278","verdict":"keep"}
 {"id":"Q12085692","verdict":"keep"}
 {"id":"Q120860928","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
-{"id":"Q120867636","verdict":"keep","countries":["JP"],"reason":"countries empty; Ryukyu confection"}
+{"id":"Q120867636","verdict":"remove","reason":"Ryukyu gashi is the collective tradition of Ryukyuan confectionery, rather than one dish."}
 {"id":"Q120878037","verdict":"keep"}
 {"id":"Q120890674","verdict":"keep","countries":["JP"],"reason":"countries empty; Fukuoka dish"}
 {"id":"Q120890947","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
@@ -245,7 +245,7 @@
 {"id":"Q122677946","verdict":"keep"}
 {"id":"Q12268392","verdict":"keep","countries":["ES"],"reason":"countries empty; Basque dessert"}
 {"id":"Q122696086","verdict":"keep"}
-{"id":"Q12271168","verdict":"keep","countries":["MK"],"reason":"countries empty; Macedonian stew"}
+{"id":"Q12271168","verdict":"keep","countries":["MK","BG","AL"],"reason":"Chomlek/chomlek stew is associated with Macedonia, Bulgaria and Albania."}
 {"id":"Q1227144","verdict":"keep"}
 {"id":"Q12273417","verdict":"keep"}
 {"id":"Q122746645","verdict":"keep"}
@@ -260,7 +260,7 @@
 {"id":"Q122790013","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
 {"id":"Q122790091","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese ramen"}
 {"id":"Q122790153","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese soup"}
-{"id":"Q12279155","verdict":"keep","reason":"Drob sarma shared Bulgarian and Romanian offal preparation","countries":["BG","RO"]}
+{"id":"Q12279155","verdict":"keep","countries":["BG"],"reason":"Drob sarma is Bulgarian; Romanian drob is a related but distinct preparation."}
 {"id":"Q12279211","verdict":"keep"}
 {"id":"Q122792121","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese zoni"}
 {"id":"Q122808444","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean dish"}

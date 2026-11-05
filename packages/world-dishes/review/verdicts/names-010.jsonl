@@ -218,7 +218,7 @@
 {"id":"Q11327589","verdict":"keep"}
 {"id":"Q113276855","verdict":"keep"}
 {"id":"Q11327742","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese gohan"}
-{"id":"Q11327743","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese butter rice"}
+{"id":"Q11327743","verdict":"keep","reason":"Generic butter rice has only rice and butter listed; no Japanese-specific identity supports a country override."}
 {"id":"Q11327745","verdict":"keep"}
 {"id":"Q113279398","verdict":"keep"}
 {"id":"Q11327942","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese castella"}
@@ -231,7 +231,7 @@
 {"id":"Q113298162","verdict":"keep"}
 {"id":"Q113302651","verdict":"keep"}
 {"id":"Q113303417","verdict":"keep"}
-{"id":"Q1133123","verdict":"keep","countries":["CN"],"reason":"no country listed; Fujian soup"}
+{"id":"Q1133123","verdict":"keep","countries":["CN","TW"],"reason":"Buddha Jumps Over the Wall is Fujian soup with a well-established Taiwanese culinary tradition as well."}
 {"id":"Q1133127","verdict":"keep"}
 {"id":"Q11331461","verdict":"keep"}
 {"id":"Q11331741","verdict":"remove","reason":"Peasen is the branded Eitaro packaged rice snack"}
@@ -242,7 +242,7 @@
 {"id":"Q113334375","verdict":"keep","countries":["ES"],"reason":"no country listed; Spanish rosquilla"}
 {"id":"Q11333438","verdict":"keep"}
 {"id":"Q113336629","verdict":"keep"}
-{"id":"Q113348972","verdict":"keep","countries":["NL"],"reason":"no country listed; Dutch pear syrup"}
+{"id":"Q113348972","verdict":"keep","countries":["NL","BE"],"reason":"Pear fruit syrup is shared by Dutch and Belgian regional cuisines."}
 {"id":"Q11335663","verdict":"keep"}
 {"id":"Q11335862","verdict":"keep","countries":["JP"],"reason":"second opinion: this item is Japanese pressed ham (プレスハム), not a Chinese dish; Japanese meat industry glossary identifies it as developed in Japan"}
 {"id":"Q113360141","verdict":"keep"}
@@ -297,4 +297,4 @@
 {"id":"Q11342949","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese tonkatsu"}
 {"id":"Q11342962","verdict":"keep"}
 {"id":"Q11342980","verdict":"keep"}
-{"id":"Q11343150","verdict":"keep","countries":["IR","TR","CY","LB","SY","JO","PS"],"reason":"second opinion: preserve Persian, Turkish and Cypriot associations as well as the Levant; the existing Iranian tie was not clearly wrong"}
+{"id":"Q11343150","verdict":"keep","countries":["IR","TR","CY","LB","SY","JO","PS","EG"],"reason":"Preserve Persian, Turkish, Cypriot and Levantine ties, and include the established Egyptian mahalabia tradition."}

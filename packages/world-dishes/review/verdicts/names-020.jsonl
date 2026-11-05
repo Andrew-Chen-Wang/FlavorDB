@@ -89,7 +89,7 @@
 {"id":"Q131531475","verdict":"keep","countries":["FR"],"reason":"French frozen orange dessert"}
 {"id":"Q131537686","verdict":"keep","countries":["NO"],"reason":"Norwegian shrimp salad"}
 {"id":"Q131540318","verdict":"keep","countries":["ES"],"reason":"Spanish bocadillo"}
-{"id":"Q131545921","verdict":"keep","countries":["IN"],"reason":"Tamil cuisine sweet"}
+{"id":"Q131545921","verdict":"keep","reason":"Tamil cuisine alone does not establish India as the country of this sweet; retain empty countries."}
 {"id":"Q131552735","verdict":"keep","countries":["JP"],"reason":"Japanese mochi"}
 {"id":"Q131560883","verdict":"keep"}
 {"id":"Q131562730","verdict":"keep"}
@@ -223,7 +223,7 @@
 {"id":"Q131912249","verdict":"keep"}
 {"id":"Q131912250","verdict":"keep"}
 {"id":"Q131917549","verdict":"keep","countries":["UG"],"reason":"Ugandan vegetable dish"}
-{"id":"Q131919776","verdict":"keep","countries":["BR"],"reason":"pizza in Brazil"}
+{"id":"Q131919776","verdict":"remove","reason":"Geographic overview of pizza in Brazil, rather than one dish."}
 {"id":"Q131927111","verdict":"keep"}
 {"id":"Q131935021","verdict":"remove","reason":"category (ice cream by flavour), not a dish"}
 {"id":"Q131940119","verdict":"keep"}

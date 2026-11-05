@@ -31,7 +31,7 @@
 {"id":"Q11349852","verdict":"keep"}
 {"id":"Q11349933","verdict":"keep"}
 {"id":"Q11350917","verdict":"keep"}
-{"id":"Q113510622","verdict":"remove","reason":"branded restaurant chain (Dangdang Chicken)"}
+{"id":"Q113510622","verdict":"remove","reason":"Dangdang Chicken is Homeplus branded supermarket fried chicken, not a generic dish."}
 {"id":"Q11351069","verdict":"keep"}
 {"id":"Q11351260","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese monaka"}
 {"id":"Q11351281","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese yokan"}
@@ -53,7 +53,7 @@
 {"id":"Q11356922","verdict":"keep","countries":["JP"],"reason":"no country listed; Taketa, Oita confection"}
 {"id":"Q11356975","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese sweet bread"}
 {"id":"Q11357853","verdict":"keep"}
-{"id":"Q1135831","verdict":"keep","countries":["IN","IR"],"reason":"rogan josh origin disputed between Kashmir (IN) and Persia (IR); IR alone was incomplete"}
+{"id":"Q1135831","verdict":"keep","countries":["IN","IR","PK"],"reason":"Rogan josh has Persian and shared Kashmiri/Indian/Pakistani culinary associations."}
 {"id":"Q11358938","verdict":"keep","countries":["JP"],"reason":"no country listed; Hokkaido ramen"}
 {"id":"Q113590177","verdict":"keep","countries":["DK"],"reason":"no country listed; Copenhagen pancake"}
 {"id":"Q11362646","verdict":"keep"}
@@ -81,7 +81,7 @@
 {"id":"Q1136876","verdict":"keep"}
 {"id":"Q1136907","verdict":"keep"}
 {"id":"Q113699860","verdict":"keep"}
-{"id":"Q11370574","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese dango"}
+{"id":"Q11370574","verdict":"keep","countries":["JP","US"],"reason":"Chichi dango is Japanese confectionery with a strong established Japanese-Hawaiian tradition in the United States."}
 {"id":"Q11370671","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese dried mochi"}
 {"id":"Q113712201","verdict":"keep"}
 {"id":"Q1137204","verdict":"keep"}
@@ -150,7 +150,7 @@
 {"id":"Q11395299","verdict":"keep"}
 {"id":"Q11395303","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese ramen"}
 {"id":"Q11395307","verdict":"keep"}
-{"id":"Q113958126","verdict":"keep","countries":["CZ"],"reason":"no country listed; Czech Christmas cookies"}
+{"id":"Q113958126","verdict":"remove","reason":"Cukroví denotes the assortment/category of small Czech sweets or Christmas cookies, not one dish."}
 {"id":"Q11395942","verdict":"keep","countries":["JP"],"reason":"no country listed; Hakodate ramen"}
 {"id":"Q11396182","verdict":"keep"}
 {"id":"Q11396701","verdict":"keep"}
@@ -249,7 +249,7 @@
 {"id":"Q11445430","verdict":"keep"}
 {"id":"Q114457441","verdict":"keep"}
 {"id":"Q11447460","verdict":"keep","countries":["JP"],"reason":"no country listed; Himeji ramen"}
-{"id":"Q11447901","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese sweet"}
+{"id":"Q11447901","verdict":"remove","reason":"Kodakara chinkosukō is a branded novelty packaged Okinawan confection, not generic chinsuko."}
 {"id":"Q1144889","verdict":"keep","countries":["CN","NP","BT","IN"],"reason":"second opinion: Tibetan tsampa has shared Himalayan associations including Nepal, Bhutan and northern India"}
 {"id":"Q114496226","verdict":"keep"}
 {"id":"Q11449789","verdict":"keep","countries":["JP"],"reason":"no country listed; Utsunomiya yakisoba"}
@@ -292,7 +292,7 @@
 {"id":"Q114756150","verdict":"keep","countries":["PL"],"reason":"no country listed; Silesian dish"}
 {"id":"Q114757173","verdict":"keep","name":"Śląsko Modro Kapusta","countries":["PL"],"reason":"name had a parenthetical English gloss; no country listed; Silesian dish"}
 {"id":"Q11476280","verdict":"keep"}
-{"id":"Q1147853","verdict":"keep","countries":["MX","GT","SV","HN","BZ","NI","CR","PA","CU","DO","PR","PE","CO","VE","US"],"reason":"second opinion: tamales have established regional traditions across Central America, the Caribbean, South America and the US as well as Mexico and Guatemala"}
+{"id":"Q1147853","verdict":"keep","countries":["MX","GT","SV","HN","BZ","NI","CR","PA","CU","DO","PR","PE","CO","VE","US","BO","EC","AR","CL"],"reason":"Preserve existing Mesoamerican, Caribbean and US traditions and include established Bolivian, Ecuadorian, Argentine and Chilean tamal traditions."}
 {"id":"Q11479217","verdict":"keep","countries":["JP"],"reason":"no country listed; Kawagoe yakisoba"}
 {"id":"Q11479380","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese confection"}
 {"id":"Q114796671","verdict":"keep"}

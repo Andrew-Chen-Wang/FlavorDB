@@ -130,7 +130,7 @@
 {"id":"Q20748123","verdict":"keep"}
 {"id":"Q20751180","verdict":"keep"}
 {"id":"Q20754699","verdict":"keep","countries":["CH"],"reason":"Swiss sausage; countries were empty"}
-{"id":"Q20755749","verdict":"remove","reason":"no description or kinds; cannot identify as a dish"}
+{"id":"Q20755749","verdict":"remove","reason":"Second opinion: Big One is a branded frozen pizza line, excluded as a packaged brand."}
 {"id":"Q2076907","verdict":"keep"}
 {"id":"Q20776094","verdict":"keep"}
 {"id":"Q2078349","verdict":"keep"}
@@ -207,7 +207,7 @@
 {"id":"Q20987738","verdict":"keep"}
 {"id":"Q20987904","verdict":"keep"}
 {"id":"Q20987994","verdict":"keep"}
-{"id":"Q20988782","verdict":"keep","countries":["EG"],"reason":"Egyptian dessert; countries were empty"}
+{"id":"Q20988782","verdict":"keep","countries":["EG","IL"],"reason":"Second opinion against original: tahini cookies have Egyptian and Israeli traditions."}
 {"id":"Q20988817","verdict":"keep"}
 {"id":"Q21002167","verdict":"keep","countries":[],"reason":"Second opinion: generic fruit in syrup; a Catalan label alone does not establish a country."}
 {"id":"Q21004069","verdict":"keep"}
@@ -257,7 +257,7 @@
 {"id":"Q21190195","verdict":"keep"}
 {"id":"Q21193080","verdict":"keep"}
 {"id":"Q2119414","verdict":"keep"}
-{"id":"Q2119832","verdict":"keep","countries":["GB"],"reason":"British boiled sweet; countries were empty"}
+{"id":"Q2119832","verdict":"keep","countries":["GB","FR"],"reason":"Second opinion against original: barley sugar is a traditional British and French boiled sweet."}
 {"id":"Q2120103","verdict":"keep"}
 {"id":"Q2120163","verdict":"keep"}
 {"id":"Q2120502","verdict":"keep"}

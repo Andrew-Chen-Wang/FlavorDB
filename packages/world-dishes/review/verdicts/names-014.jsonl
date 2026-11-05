@@ -77,7 +77,7 @@
 {"id":"Q118470980","verdict":"keep"}
 {"id":"Q118470982","verdict":"keep"}
 {"id":"Q118496624","verdict":"keep"}
-{"id":"Q11851150","verdict":"keep","countries":["FI"],"reason":"countries empty; Finnish candy"}
+{"id":"Q11851150","verdict":"remove","reason":"Second opinion: Amerikkalaiset pastillit is a Fazer branded chocolate pastille product, not a generic dish."}
 {"id":"Q11853198","verdict":"keep"}
 {"id":"Q1185324","verdict":"keep"}
 {"id":"Q118556073","verdict":"keep"}
@@ -89,7 +89,7 @@
 {"id":"Q11857503","verdict":"keep","countries":["FI"],"reason":"countries empty; Finnish cake"}
 {"id":"Q11859002","verdict":"keep","countries":["FI"],"reason":"countries empty; Finnish candy"}
 {"id":"Q11859360","verdict":"remove","reason":"branded chocolate bar"}
-{"id":"Q11859368","verdict":"keep","countries":["FI"],"reason":"countries empty; Finnish biscuit"}
+{"id":"Q11859368","verdict":"remove","reason":"Second opinion: Fanipala is a Fazer branded wafer biscuit product, not a generic dish."}
 {"id":"Q11859426","verdict":"remove","reason":"branded licorice product"}
 {"id":"Q11859428","verdict":"remove","reason":"branded chocolate bar"}
 {"id":"Q118601096","verdict":"keep","countries":["EE"],"reason":"countries empty; Estonian rye bread"}
@@ -160,7 +160,7 @@
 {"id":"Q11893103","verdict":"keep","countries":["FI"],"reason":"countries empty; Finnish bread"}
 {"id":"Q118944641","verdict":"keep","countries":["VN"],"reason":"countries empty; Vietnamese dish"}
 {"id":"Q118946248","verdict":"keep","countries":["TR"],"reason":"countries empty; Turkish corek"}
-{"id":"Q11894632","verdict":"keep","countries":["FI"],"reason":"countries empty; Finnish candy"}
+{"id":"Q11894632","verdict":"remove","reason":"Second opinion: SukuLaku is a Panda branded chocolate-covered licorice product, not a generic dish."}
 {"id":"Q118947831","verdict":"keep"}
 {"id":"Q118947848","verdict":"keep","countries":["TR"],"reason":"countries empty; Turkish dessert"}
 {"id":"Q118956479","verdict":"keep"}

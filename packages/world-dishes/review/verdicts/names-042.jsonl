@@ -118,7 +118,7 @@
 {"id":"Q4097613","verdict":"keep"}
 {"id":"Q40978520","verdict":"keep"}
 {"id":"Q4101404","verdict":"keep"}
-{"id":"Q4102393","verdict":"keep","countries":["IN"],"reason":"countries were empty; Kashmiri cuisine"}
+{"id":"Q4102393","verdict":"keep","countries":["IN","PK"],"reason":"Second opinion: wazwan belongs to shared Kashmiri culture on both sides of the India/Pakistan border."}
 {"id":"Q4102771","verdict":"keep"}
 {"id":"Q4102828","verdict":"keep"}
 {"id":"Q4103061","verdict":"keep"}
@@ -199,7 +199,7 @@
 {"id":"Q42373871","verdict":"keep","countries":["GB"],"reason":"countries were empty; British biscuit"}
 {"id":"Q42378074","verdict":"keep"}
 {"id":"Q42379629","verdict":"keep","countries":["BD","IN","PK"],"reason":"Second opinion: beef biryani is shared across Bangladesh, India and Pakistan"}
-{"id":"Q42380699","verdict":"keep","countries":["IN"],"reason":"countries were empty; Indian biryani"}
+{"id":"Q42380699","verdict":"keep","countries":["IN","BD","PK"],"reason":"Second opinion: egg biryani is shared South Asian cooking."}
 {"id":"Q42381119","verdict":"keep","countries":["BD","IN"],"reason":"countries were empty; Bengali hilsa dish"}
 {"id":"Q42381360","verdict":"keep","countries":["BD","IN"],"reason":"countries were empty; Bengali fish dish"}
 {"id":"Q42395119","verdict":"keep","countries":["IN"],"reason":"countries were empty; Indian biryani"}

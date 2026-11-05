@@ -17,7 +17,7 @@
 {"id":"Q135487511","verdict":"keep","countries":["RU"],"reason":"Chuvash dish; country list was empty"}
 {"id":"Q135488580","verdict":"remove","reason":"branded packaged product (Nabati Richoco wafer)"}
 {"id":"Q135494034","verdict":"keep"}
-{"id":"Q135498221","verdict":"keep","countries":["IN"],"reason":"Kashmiri bread; country list was empty"}
+{"id":"Q135498221","verdict":"keep","countries":["IN","PK"],"reason":"Kashmiri bread belongs to the shared Kashmiri food tradition."}
 {"id":"Q135509388","verdict":"keep"}
 {"id":"Q135509581","verdict":"keep"}
 {"id":"Q135509960","verdict":"keep"}
@@ -215,7 +215,7 @@
 {"id":"Q136696297","verdict":"keep"}
 {"id":"Q136700752","verdict":"keep"}
 {"id":"Q136701","verdict":"keep"}
-{"id":"Q136718362","verdict":"keep","countries":["US"],"reason":"Minnesota hamburger; country list was empty"}
+{"id":"Q136718362","verdict":"remove","reason":"Named restaurant menu hamburger, rather than an independently established dish."}
 {"id":"Q136722956","verdict":"keep"}
 {"id":"Q136732109","verdict":"keep"}
 {"id":"Q136746224","verdict":"keep"}
@@ -249,7 +249,7 @@
 {"id":"Q136863319","verdict":"keep","countries":["DK"],"reason":"Danish pastry; country list was empty"}
 {"id":"Q136880981","verdict":"keep"}
 {"id":"Q136881027","verdict":"keep","countries":["KR"],"reason":"Korean fish cake; country list was empty"}
-{"id":"Q136922","verdict":"keep","countries":["TR"],"reason":"Turkish dessert; country list was empty"}
+{"id":"Q136922","verdict":"keep","countries":["TR","AM","GR","AL"],"reason":"Ashure/Noah pudding has Turkish, Armenian, Greek and Albanian traditions."}
 {"id":"Q136946348","verdict":"keep"}
 {"id":"Q136950129","verdict":"keep","countries":["CD"],"reason":"Congolese dish; country list was empty"}
 {"id":"Q136953874","verdict":"keep"}

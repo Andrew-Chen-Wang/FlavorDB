@@ -51,7 +51,7 @@
 {"id":"Q11512298","verdict":"remove","reason":"branded packaged product (Meiji Probio Yogurt R-1)"}
 {"id":"Q115125851","verdict":"keep"}
 {"id":"Q115131840","verdict":"keep","countries":["KR"],"reason":"Korean doughnut; countries were empty"}
-{"id":"Q11513842","verdict":"remove","reason":"packaged instant soup/cup noodle product, not a dish"}
+{"id":"Q11513842","verdict":"keep","reason":"Second opinion: generic Japanese harusame noodle soup; the original entry identifies no brand or chain product, and instant preparation alone does not disqualify a prepared dish.","countries":["JP"]}
 {"id":"Q115141348","verdict":"keep"}
 {"id":"Q115142470","verdict":"keep"}
 {"id":"Q11514494","verdict":"keep","countries":["JP"],"reason":"Japanese tsukudani-style dish; countries were empty"}

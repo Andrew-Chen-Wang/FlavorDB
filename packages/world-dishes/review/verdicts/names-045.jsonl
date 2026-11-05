@@ -88,7 +88,7 @@
 {"id":"Q5182527","verdict":"keep"}
 {"id":"Q5182787","verdict":"keep"}
 {"id":"Q5183356","verdict":"keep"}
-{"id":"Q5183359","verdict":"keep","countries":["GB"],"reason":"British cream cracker; countries were empty"}
+{"id":"Q5183359","verdict":"keep","countries":["GB","IE"],"reason":"Second opinion: cream crackers have British and Irish traditions."}
 {"id":"Q5183361","verdict":"keep"}
 {"id":"Q5183373","verdict":"keep","reason":"Second opinion: creamed honey is a deliberately prepared spread, not plain raw honey"}
 {"id":"Q5183375","verdict":"keep"}
@@ -157,7 +157,7 @@
 {"id":"Q5254542","verdict":"keep"}
 {"id":"Q5254978","verdict":"keep"}
 {"id":"Q525586","verdict":"remove","reason":"branded snack cake (Twinkie)"}
-{"id":"Q5257848","verdict":"keep","countries":["MY","ID","SG"],"reason":"Second opinion: mee rebus is associated with Malaysia, Indonesia and Singapore"}
+{"id":"Q5257848","verdict":"keep","countries":["MY","ID","SG"],"reason":"Second opinion: the Johorean noodle soup is mee rebus; retain its shared Malaysia, Indonesia and Singapore countries.","name":"Mee rebus"}
 {"id":"Q5257857","verdict":"keep"}
 {"id":"Q5259790","verdict":"keep"}
 {"id":"Q5260907","verdict":"keep"}
@@ -197,7 +197,7 @@
 {"id":"Q5296979","verdict":"keep"}
 {"id":"Q529941","verdict":"keep"}
 {"id":"Q5300145","verdict":"keep"}
-{"id":"Q53014370","verdict":"keep","countries":["MA","IT","US"],"reason":"Second opinion: stuffed artichokes are associated with Moroccan, Italian and Italian-American cuisines"}
+{"id":"Q53014370","verdict":"keep","countries":["MA","IT","US","TR","GR"],"reason":"Second opinion: stuffed artichokes also have established Turkish and Greek preparations."}
 {"id":"Q5302283","verdict":"keep","countries":["CN"],"reason":"Wuhan breakfast dish; countries were empty"}
 {"id":"Q5304700","verdict":"keep"}
 {"id":"Q5305336","verdict":"keep"}
@@ -213,10 +213,10 @@
 {"id":"Q5319091","verdict":"keep","countries":["CA","US"],"reason":"Second opinion: Western sushi roll associated with Canada and the United States"}
 {"id":"Q531970","verdict":"keep"}
 {"id":"Q532718","verdict":"keep","countries":["DE"],"reason":"German sausage; countries were empty"}
-{"id":"Q532942","verdict":"keep","countries":["CL"],"reason":"Chorrillana is a Chilean dish; PE was wrong"}
+{"id":"Q532942","verdict":"keep","countries":["CL"],"reason":"Second opinion: correct the misspelled imported name of the Chilean dish.","name":"Chorrillana"}
 {"id":"Q5331296","verdict":"remove","reason":"practice (eating live seafood), not a dish"}
 {"id":"Q5331480","verdict":"keep"}
-{"id":"Q5331853","verdict":"keep","countries":["CN"],"reason":"Chinese dish; countries were empty"}
+{"id":"Q5331853","verdict":"keep","countries":["CN","JP"],"reason":"Second opinion: chili shrimp has Chinese and Japanese chuka traditions."}
 {"id":"Q533210","verdict":"keep","countries":["DE","AT"],"reason":"Second opinion: Schupfnudeln belong to German and Austrian cuisines"}
 {"id":"Q5332994","verdict":"remove","reason":"branded chewing gum"}
 {"id":"Q5338306","verdict":"keep"}
@@ -231,7 +231,7 @@
 {"id":"Q5347939","verdict":"keep","countries":["US"],"reason":"American breakfast dish; countries were empty"}
 {"id":"Q5347941","verdict":"keep"}
 {"id":"Q53560342","verdict":"keep","countries":["FR"],"reason":"Provencal dish; countries were empty"}
-{"id":"Q53581962","verdict":"keep","countries":["DE"],"reason":"German salad; countries were empty"}
+{"id":"Q53581962","verdict":"keep","countries":["DE","AT","CH"],"reason":"Second opinion: Käsesalat is shared across German, Austrian and Swiss cooking."}
 {"id":"Q5358451","verdict":"keep","countries":["KR"],"reason":"Korean confection; countries were empty"}
 {"id":"Q5359207","verdict":"keep"}
 {"id":"Q5360014","verdict":"keep"}
@@ -282,7 +282,7 @@
 {"id":"Q5403594","verdict":"keep","countries":["SE"],"reason":"Swedish porridge; countries were empty"}
 {"id":"Q5403625","verdict":"keep","countries":["ES"],"reason":"Spanish stew; countries were empty"}
 {"id":"Q540543","verdict":"keep"}
-{"id":"Q5406515","verdict":"keep","countries":["PE"],"reason":"Peruvian soup; countries were empty"}
+{"id":"Q5406515","verdict":"keep","countries":["PE","BO","AR","EC"],"reason":"Second opinion: patasca is a shared Andean hominy soup of Peru, Bolivia, Argentina and Ecuador."}
 {"id":"Q540837","verdict":"keep"}
 {"id":"Q5408968","verdict":"keep","countries":["IN","PK"],"reason":"Second opinion: Punjabi makki ki roti is shared across India and Pakistan"}
 {"id":"Q5409500","verdict":"keep"}

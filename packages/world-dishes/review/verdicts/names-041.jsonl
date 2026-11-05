@@ -1,9 +1,9 @@
 {"id":"Q3678805","verdict":"keep"}
 {"id":"Q3678813","verdict":"keep"}
 {"id":"Q36808801","verdict":"keep"}
-{"id":"Q3683263","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
-{"id":"Q3683268","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
-{"id":"Q3683276","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3683263","verdict":"keep","reason":"Second opinion: Colline Salernitane PDO is a named traditional processed olive oil."}
+{"id":"Q3683268","verdict":"keep","reason":"Second opinion: Colline Teatine PDO is a named traditional processed olive oil."}
+{"id":"Q3683276","verdict":"keep","reason":"Second opinion: Colline di Romagna PDO is a named traditional processed olive oil."}
 {"id":"Q3686985","verdict":"keep"}
 {"id":"Q3686991","verdict":"keep"}
 {"id":"Q3691827","verdict":"keep"}
@@ -41,7 +41,7 @@
 {"id":"Q3739616","verdict":"keep","reason":"Second opinion: Farinella is a traditional toasted chickpea and barley preparation with salt; https://www.patpuglia.it/it/12/Farinella/8_112_M"}
 {"id":"Q3740034","verdict":"keep"}
 {"id":"Q3743152","verdict":"keep"}
-{"id":"Q374381","verdict":"keep","countries":["FR"],"reason":"countries were empty; crème caramel is French"}
+{"id":"Q374381","verdict":"keep","countries":["FR","ES","PT","PH","VN","MX","BR"],"reason":"Second opinion: caramel custard/flan is shared French, Iberian, Filipino, Vietnamese and Latin American food."}
 {"id":"Q3744332","verdict":"keep"}
 {"id":"Q3746933","verdict":"keep"}
 {"id":"Q3746935","verdict":"keep"}
@@ -62,7 +62,7 @@
 {"id":"Q3753920","verdict":"keep"}
 {"id":"Q3753984","verdict":"keep"}
 {"id":"Q3754904","verdict":"keep"}
-{"id":"Q3758209","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3758209","verdict":"keep","reason":"Second opinion: Garda PDO is a named traditional processed olive oil."}
 {"id":"Q3759296","verdict":"keep"}
 {"id":"Q37620661","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian soup"}
 {"id":"Q3772617","verdict":"keep"}
@@ -88,7 +88,7 @@
 {"id":"Q3784816","verdict":"keep","countries":["BE"],"reason":"countries were empty; Herve cheese is Belgian"}
 {"id":"Q3785698","verdict":"keep"}
 {"id":"Q3799069","verdict":"keep"}
-{"id":"Q3802110","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3802110","verdict":"keep","reason":"Second opinion: Irpinia Colline dellUfita PDO is a named traditional processed olive oil."}
 {"id":"Q3807565","verdict":"keep"}
 {"id":"Q3814037","verdict":"keep"}
 {"id":"Q3815036","verdict":"keep"}
@@ -104,11 +104,11 @@
 {"id":"Q38247716","verdict":"keep"}
 {"id":"Q38247865","verdict":"keep"}
 {"id":"Q3825241","verdict":"keep"}
-{"id":"Q3825584","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3825584","verdict":"keep","reason":"Second opinion: Laghi Lombardi PDO is a named traditional processed olive oil."}
 {"id":"Q3826092","verdict":"keep"}
 {"id":"Q3826183","verdict":"keep"}
 {"id":"Q3826403","verdict":"keep"}
-{"id":"Q3826447","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3826447","verdict":"keep","reason":"Second opinion: Lametia PDO is a named traditional processed olive oil."}
 {"id":"Q382655","verdict":"keep"}
 {"id":"Q38266921","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese smoked fish preparation"}
 {"id":"Q3827309","verdict":"keep"}
@@ -147,9 +147,9 @@
 {"id":"Q3859384","verdict":"keep"}
 {"id":"Q38595513","verdict":"keep","countries":["MX"],"reason":"countries were empty; Mexican dish"}
 {"id":"Q38595678","verdict":"keep","countries":["AR"],"reason":"countries were empty; Argentine dish"}
-{"id":"Q3860244","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3860244","verdict":"keep","reason":"Second opinion: Molise PDO is a named traditional processed olive oil."}
 {"id":"Q3860889","verdict":"remove","reason":"branded confectionery product"}
-{"id":"Q3862441","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3862441","verdict":"keep","reason":"Second opinion: Monti Iblei PDO is a named traditional processed olive oil."}
 {"id":"Q3866878","verdict":"keep"}
 {"id":"Q3866940","verdict":"keep"}
 {"id":"Q3867478","verdict":"keep"}
@@ -165,7 +165,7 @@
 {"id":"Q3878649","verdict":"keep"}
 {"id":"Q3879239","verdict":"keep"}
 {"id":"Q3881002","verdict":"keep"}
-{"id":"Q3881759","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3881759","verdict":"keep","reason":"Second opinion: Collina di Brindisi PDO is a named traditional processed olive oil."}
 {"id":"Q3881817","verdict":"keep"}
 {"id":"Q3885871","verdict":"keep"}
 {"id":"Q3886850","verdict":"keep"}
@@ -215,7 +215,7 @@
 {"id":"Q3898541","verdict":"keep"}
 {"id":"Q3898544","verdict":"keep"}
 {"id":"Q3898549","verdict":"keep"}
-{"id":"Q3899061","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3899061","verdict":"keep","reason":"Second opinion: Penisola Sorrentina PDO is a named traditional processed olive oil."}
 {"id":"Q3899347","verdict":"keep"}
 {"id":"Q3900707","verdict":"keep"}
 {"id":"Q3900767","verdict":"keep"}
@@ -257,7 +257,7 @@
 {"id":"Q391086","verdict":"keep"}
 {"id":"Q391179","verdict":"keep"}
 {"id":"Q3914983","verdict":"keep"}
-{"id":"Q3917542","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch bread"}
+{"id":"Q3917542","verdict":"keep","countries":[],"reason":"Second opinion: generic bread made from sifted flour; Dutch wording alone does not establish a country."}
 {"id":"Q3920699","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish dish"}
 {"id":"Q3920714","verdict":"keep","countries":["PL","BY","LT"],"reason":"Second opinion: wereszczaka has Polish, Belarusian and Lithuanian traditions; https://pl.wikisource.org/wiki/Kucharka_litewska_(1913)/Wereszczaka"}
 {"id":"Q3920731","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish dish"}

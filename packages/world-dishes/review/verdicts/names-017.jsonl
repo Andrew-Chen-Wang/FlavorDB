@@ -264,12 +264,12 @@
 {"id":"Q12552639","verdict":"keep"}
 {"id":"Q125526587","verdict":"remove","reason":"honey, an ingredient rather than a dish"}
 {"id":"Q12553023","verdict":"keep"}
-{"id":"Q1255306","verdict":"keep","countries":["FR"],"reason":"French confection; countries were empty"}
+{"id":"Q1255306","verdict":"keep","reason":"Generic sugar-coated confection is not confined to France."}
 {"id":"Q125531354","verdict":"keep"}
 {"id":"Q125534940","verdict":"keep"}
 {"id":"Q125549453","verdict":"keep","countries":["CN"],"reason":"Sichuanese noodle dish; countries were empty"}
 {"id":"Q125549954","verdict":"keep"}
-{"id":"Q125552052","verdict":"keep","countries":["DZ"],"reason":"described as Algerian dish; MA was wrong"}
+{"id":"Q125552052","verdict":"keep","countries":["MA","DZ"],"reason":"Retain recorded Moroccan cuisine and add explicit Algerian dish association."}
 {"id":"Q125552121","verdict":"remove","reason":"honey, an ingredient rather than a dish"}
 {"id":"Q12555946","verdict":"keep"}
 {"id":"Q12555954","verdict":"keep"}
@@ -295,6 +295,6 @@
 {"id":"Q125625897","verdict":"keep"}
 {"id":"Q125625919","verdict":"keep","countries":["FR"],"reason":"French bread; countries were empty"}
 {"id":"Q125625960","verdict":"keep","countries":["FR"],"reason":"French bread; countries were empty"}
-{"id":"Q12562815","verdict":"remove","reason":"cooking technique page, not a dish"}
+{"id":"Q12562815","verdict":"keep","reason":"Original entry describes a dish; sauté can name a prepared stew, so technique-only removal is unsupported."}
 {"id":"Q125634678","verdict":"remove","reason":"category of lemon dishes, not one dish"}
 {"id":"Q125635868","verdict":"keep"}
