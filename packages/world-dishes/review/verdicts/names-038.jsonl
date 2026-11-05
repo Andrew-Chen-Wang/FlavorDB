@@ -77,7 +77,7 @@
 {"id":"Q30635944","verdict":"keep"}
 {"id":"Q30636888","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean jeotgal"}
 {"id":"Q30637566","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean tteok"}
-{"id":"Q3064423","verdict":"keep","countries":["CK"],"reason":"countries empty; Polynesian (Cook Islands) dish"}
+{"id":"Q3064423","verdict":"keep","countries":["PF"],"reason":"Second opinion: fafaru is a Tahitian/French Polynesian dish (https://www.tahititourisme.com/fafaru-a-challenge-not-to-be-missed/)."}
 {"id":"Q3064595","verdict":"keep","countries":["BE"],"reason":"countries empty; Belgian (Flemish) dish"}
 {"id":"Q30646347","verdict":"keep"}
 {"id":"Q30646348","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean soup"}
@@ -153,7 +153,7 @@
 {"id":"Q3090473","verdict":"keep"}
 {"id":"Q30908893","verdict":"keep"}
 {"id":"Q30912986","verdict":"keep","countries":["NL"],"reason":"countries empty; Dutch pastry"}
-{"id":"Q3091352","verdict":"keep","countries":["PT"],"reason":"countries empty; Portuguese pastry"}
+{"id":"Q3091352","verdict":"remove","reason":"Second opinion: this entry identifies the Pastéis de Belém confectionery store and its registered brand, rather than generic pastel de nata (https://pasteisdebelem.pt/en/)."}
 {"id":"Q3091371","verdict":"keep","countries":["CA"],"reason":"countries empty; Quebec dish"}
 {"id":"Q30918987","verdict":"keep"}
 {"id":"Q30919660","verdict":"keep"}
@@ -164,9 +164,9 @@
 {"id":"Q30925424","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese ramen"}
 {"id":"Q30926481","verdict":"keep"}
 {"id":"Q30926611","verdict":"keep","countries":["AO"],"reason":"countries empty; Angolan dish"}
-{"id":"Q3092677","verdict":"keep","countries":["CN","MY","SG"],"reason":"countries empty; popiah is commonly said to belong to these countries"}
+{"id":"Q3092677","verdict":"keep","countries":["CN","MY","SG","PH","ID"],"reason":"Second opinion: preserve Philippine and Indonesian ties explicitly identified in the description alongside Chinese, Malaysian and Singaporean traditions."}
 {"id":"Q30927500","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese tantanmen"}
-{"id":"Q30927733","verdict":"keep","countries":["IS"],"reason":"countries empty; Icelandic rolled cake"}
+{"id":"Q30927733","verdict":"keep","countries":[],"reason":"Second opinion: generic Swiss roll under its Icelandic name; language alone does not establish an Icelandic dish."}
 {"id":"Q3094706","verdict":"keep"}
 {"id":"Q3094707","verdict":"keep"}
 {"id":"Q3094709","verdict":"keep"}
@@ -194,7 +194,7 @@
 {"id":"Q31077566","verdict":"keep"}
 {"id":"Q31077570","verdict":"keep"}
 {"id":"Q31077574","verdict":"keep"}
-{"id":"Q31078296","verdict":"keep","countries":["NO"],"reason":"countries empty; Norwegian cake"}
+{"id":"Q31078296","verdict":"keep","countries":[],"reason":"Second opinion: generic Oreo cake under a Norwegian label; no specifically Norwegian dish established."}
 {"id":"Q3108252","verdict":"keep"}
 {"id":"Q3108258","verdict":"keep","countries":["US"],"reason":"countries empty; Hawaiian dessert"}
 {"id":"Q31086812","verdict":"keep"}
@@ -233,10 +233,10 @@
 {"id":"Q3122812","verdict":"keep","countries":["BE"],"reason":"countries empty; Belgian cake"}
 {"id":"Q3122815","verdict":"keep"}
 {"id":"Q3122937","verdict":"keep"}
-{"id":"Q3123047","verdict":"keep","countries":["SE"],"reason":"wrong country (US); Swedish dish"}
+{"id":"Q3123047","verdict":"keep","countries":["SE","FI","IS","EE"],"reason":"Second opinion: sandwich cake is tied to every cuisine identified in the metadata, not Sweden alone."}
 {"id":"Q3125478","verdict":"keep"}
 {"id":"Q3125526","verdict":"keep","countries":["GB"],"reason":"countries empty; smoked haddock is British"}
-{"id":"Q3126044","verdict":"keep","countries":["GB"],"reason":"countries empty; British boiled sweet"}
+{"id":"Q3126044","verdict":"keep","countries":[],"reason":"Second opinion: generic boiled sweet; an English label does not establish Britain."}
 {"id":"Q312766","verdict":"keep"}
 {"id":"Q31281129","verdict":"keep","countries":["NO"],"reason":"countries empty; Norwegian porridge"}
 {"id":"Q3129784","verdict":"keep"}
@@ -278,7 +278,7 @@
 {"id":"Q3160850","verdict":"keep","countries":["US"],"reason":"countries empty; American dish"}
 {"id":"Q316244","verdict":"keep","countries":["DE"],"reason":"countries empty; German dish"}
 {"id":"Q316561","verdict":"keep"}
-{"id":"Q31724514","verdict":"keep","countries":["BD"],"reason":"countries empty; Bengali dish"}
+{"id":"Q31724514","verdict":"keep","countries":["BD","IN"],"reason":"Second opinion: ghanto is shared Bengali vegetable cooking across Bangladesh and India."}
 {"id":"Q31724928","verdict":"keep","countries":["IN"],"reason":"countries empty; Indian dish"}
 {"id":"Q31727595","verdict":"keep","countries":["BD"],"reason":"countries empty; Bengali vegetable dish"}
 {"id":"Q31739973","verdict":"keep"}
