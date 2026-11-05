@@ -8,7 +8,7 @@
 {"id":"Q107674774","verdict":"keep","name":"Beef Wellington","countries":["GB"],"reason":"name had a chef's name attached; the dish is Beef Wellington"}
 {"id":"Q107674870","verdict":"keep"}
 {"id":"Q107682259","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
-{"id":"Q1076824","verdict":"remove","reason":"generic category (chowder soups), not one dish"}
+{"id":"Q1076824","verdict":"keep","reason":"Second opinion: chowder is a real prepared soup, not merely a non-food category."}
 {"id":"Q107682965","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107682988","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107683020","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
@@ -22,7 +22,7 @@
 {"id":"Q107693925","verdict":"keep"}
 {"id":"Q107695269","verdict":"remove","reason":"generic category (cooked grain / meal), not one dish"}
 {"id":"Q107695675","verdict":"keep"}
-{"id":"Q107718213","verdict":"remove","reason":"grouping of pizzas (with shrimp), not one dish"}
+{"id":"Q107718213","verdict":"keep","reason":"Second opinion: shrimp-topped pizza is a prepared dish; plural wording alone does not justify removal."}
 {"id":"Q107722188","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107722376","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107722388","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
@@ -147,15 +147,15 @@
 {"id":"Q108059536","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108063900","verdict":"keep"}
 {"id":"Q108063948","verdict":"keep"}
-{"id":"Q108065409","verdict":"keep","countries":["DE"],"reason":"German ice cream; country added"}
-{"id":"Q108065444","verdict":"keep","countries":["DE"],"reason":"German ice cream; country added"}
+{"id":"Q108065409","verdict":"keep","countries":[],"reason":"Second opinion: generic cream ice cream; German wording alone does not establish a country."}
+{"id":"Q108065444","verdict":"keep","countries":[],"reason":"Second opinion: generic milk ice cream; German wording alone does not establish a country."}
 {"id":"Q108067365","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108067369","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108067379","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108067382","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108069195","verdict":"remove","reason":"drink (apéritif), not a dish"}
 {"id":"Q108086009","verdict":"keep","countries":["IT"],"reason":"Italian dish; country added"}
-{"id":"Q108086096","verdict":"keep","countries":["DE"],"reason":"German/Austrian dumpling; country added"}
+{"id":"Q108086096","verdict":"keep","countries":["AT","DE"],"reason":"Second opinion: meat dumplings are associated with Austrian as well as German cuisine."}
 {"id":"Q108088119","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108095007","verdict":"keep","countries":["NL"],"reason":"Dutch dish; country added"}
 {"id":"Q108099796","verdict":"keep"}
@@ -206,7 +206,7 @@
 {"id":"Q108368900","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108368935","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108375974","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
-{"id":"Q1083840","verdict":"keep","countries":["GB"],"reason":"Balti curry (UK); country added"}
+{"id":"Q1083840","verdict":"keep","countries":["GB","PK"],"reason":"Second opinion: balti is commonly tied to Birmingham and Pakistani cuisine; preserve both associations."}
 {"id":"Q108387469","verdict":"keep"}
 {"id":"Q108394942","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108395190","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}

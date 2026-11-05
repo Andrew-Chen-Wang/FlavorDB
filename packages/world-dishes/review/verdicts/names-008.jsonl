@@ -26,7 +26,7 @@
 {"id":"Q109536261","verdict":"keep"}
 {"id":"Q109539600","verdict":"keep","countries":["GB"],"reason":"added country: English lamprey pie"}
 {"id":"Q10954885","verdict":"keep"}
-{"id":"Q109558070","verdict":"keep","countries":["KR"],"reason":"country IE was wrong; croffle is a South Korean dessert"}
+{"id":"Q109558070","verdict":"keep","countries":["IE","KR","US"],"reason":"Second opinion: croffle is tied to Irish and American early versions and South Korean popularization."}
 {"id":"Q109569010","verdict":"keep","countries":["TH"],"reason":"added country: Thai appetizer"}
 {"id":"Q109569034","verdict":"keep"}
 {"id":"Q109587599","verdict":"keep"}
@@ -79,7 +79,7 @@
 {"id":"Q110061263","verdict":"keep"}
 {"id":"Q110081689","verdict":"keep"}
 {"id":"Q110101486","verdict":"keep","countries":["ID"],"reason":"added country: Indonesian takjil"}
-{"id":"Q110104063","verdict":"keep","countries":["AZ"],"reason":"added country: Azerbaijani pastry"}
+{"id":"Q110104063","verdict":"keep","countries":["AZ","IR"],"reason":"Second opinion: Tabriz baklava is tied to Iranian Azerbaijan as well as Azerbaijani pastry traditions."}
 {"id":"Q1101046","verdict":"keep"}
 {"id":"Q110108640","verdict":"keep","countries":["AZ"],"reason":"added country: Azerbaijani pastry"}
 {"id":"Q110115559","verdict":"keep","countries":["KR"],"reason":"added country: Korean guk"}
@@ -135,7 +135,7 @@
 {"id":"Q110502590","verdict":"keep"}
 {"id":"Q1105083","verdict":"keep"}
 {"id":"Q1105215","verdict":"keep"}
-{"id":"Q1105318","verdict":"remove","reason":"drink (cocktail), not a dish"}
+{"id":"Q1105318","verdict":"keep","reason":"Second opinion: this item is a cocktail appetizer, illustrated by shrimp cocktail, not an alcoholic drink."}
 {"id":"Q110533119","verdict":"keep"}
 {"id":"Q110536414","verdict":"keep"}
 {"id":"Q1105503","verdict":"keep"}
@@ -151,8 +151,8 @@
 {"id":"Q110612942","verdict":"keep"}
 {"id":"Q11061604","verdict":"keep"}
 {"id":"Q11062733","verdict":"keep"}
-{"id":"Q110627904","verdict":"keep","countries":["RU"],"reason":"added country: Russian mash"}
-{"id":"Q1106345","verdict":"keep","countries":["IT"],"reason":"country FR was wrong; porchetta is Italian"}
+{"id":"Q110627904","verdict":"keep","countries":[],"reason":"Second opinion: generic plum puree; Russian wording alone does not establish a country."}
+{"id":"Q1106345","verdict":"keep","countries":["FR","IT"],"reason":"Second opinion: retain Italian porchetta and its traditional Nice association."}
 {"id":"Q110647160","verdict":"keep"}
 {"id":"Q110651436","verdict":"keep","countries":["NL"],"reason":"added country: Groningen soup"}
 {"id":"Q110655684","verdict":"remove","reason":"chain-restaurant menu item (burger shop)"}
@@ -181,7 +181,7 @@
 {"id":"Q11079928","verdict":"keep"}
 {"id":"Q110800802","verdict":"keep"}
 {"id":"Q110821764","verdict":"keep"}
-{"id":"Q1108310","verdict":"keep","countries":["CN"],"reason":"added country: Chinese appetizer"}
+{"id":"Q1108310","verdict":"keep","countries":["ES","IT"],"reason":"Second opinion: melon with ham is a Spanish and Italian appetizer, not Chinese by its translated alias."}
 {"id":"Q110831239","verdict":"keep"}
 {"id":"Q110834503","verdict":"keep","countries":["VN"],"reason":"added country: Vietnamese bánh"}
 {"id":"Q110834778","verdict":"keep"}
@@ -284,7 +284,7 @@
 {"id":"Q11162","verdict":"keep"}
 {"id":"Q111628882","verdict":"keep"}
 {"id":"Q111653031","verdict":"keep","countries":["KI"],"reason":"added country: Kiribati food"}
-{"id":"Q111674044","verdict":"keep","countries":["KR"],"reason":"country US was wrong; Korean bead ice cream"}
+{"id":"Q111674044","verdict":"keep","countries":["US"],"reason":"Second opinion: beaded ice cream was developed in the United States; Korean label does not establish origin."}
 {"id":"Q11168485","verdict":"keep"}
 {"id":"Q111687252","verdict":"keep","countries":["ES"],"reason":"added country: Spanish bread"}
 {"id":"Q111705550","verdict":"keep"}
@@ -292,9 +292,9 @@
 {"id":"Q1117173","verdict":"keep"}
 {"id":"Q111724269","verdict":"keep"}
 {"id":"Q11172495","verdict":"keep","countries":["CN"],"reason":"added country: Chinese fish product"}
-{"id":"Q11172505","verdict":"keep","countries":["CN"],"reason":"added country: Chinese dish"}
+{"id":"Q11172505","verdict":"keep","countries":["TW"],"reason":"Second opinion: the linked article is about Taiwanese fried fish crisps."}
 {"id":"Q11172760","verdict":"keep","countries":["CN"],"reason":"added country: Chinese fish ball"}
 {"id":"Q11173321","verdict":"keep"}
 {"id":"Q11174346","verdict":"keep","countries":["CN"],"reason":"added country: Shanghainese soup"}
-{"id":"Q11174489","verdict":"keep","countries":["CN"],"reason":"added country: Chinese dish"}
+{"id":"Q11174489","verdict":"keep","countries":["TW"],"reason":"Second opinion: smoked duck yāshǎng is a Yilan, Taiwan specialty."}
 {"id":"Q111745712","verdict":"keep","countries":["PL"],"reason":"added country: Polish zalewajka"}

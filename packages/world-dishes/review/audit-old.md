@@ -82,3 +82,32 @@ Supporting sources consulted for these corrections:
 - [Akidi prepared dish](https://commons.wikimedia.org/wiki/File%3AAkidi.jpg)
 - [French burnt peanuts producer explanation](https://www.lorentanuts.com/blog/french-burnt-peanuts-explained/)
 - [Suikerboon](https://en.wikipedia.org/wiki/Suikerboon)
+
+Reread all targeted entries in `names-005` through `names-009` as well: respectively 202, 275,
+178, 105, and 119 entries, bringing this worker's completed metadata audit to 1,783 entries
+across `names-000`–`names-009`. Restored chowder, shrimp pizza, and the appetizer item “Cocktail”
+(the image is shrimp cocktail); removed Gondhoraj ghol as a drink. Corrected further country
+mistakes including the Udmurt turnip pie, Corsican panzarotti, Italian diplomatica, Taiwanese
+Yilan specialties, Japanese anzu ame, American beaded ice cream, and melon with ham. Retained
+multiple common associations for balti, croffle, porchetta, ropa vieja, honey walnut shrimp, and
+spicy duck blood. Cleared unsupported countries on generic ice creams, plum puree, and the
+individually examined generic potato preparations whose old reasons relied on Polish cookbook
+language. Original recipe raw sources remain unavailable for these reconstructed inputs.
+
+Additional supporting sources:
+
+- [Udmurt turnip pie](https://nazaccent.ru/kitchen/recipe/89/)
+- [Austrian ministry: dumplings](https://www.bmluk.gv.at/themen/lebensmittel/trad-lebensmittel/speisen/knoedel_allgemein.html)
+- [Balti association history](https://apab.org.uk/balti-history/)
+- [Gondhoraj ghol recipe](https://www.firsttimercook.com/gondhoraj-ghol-a-fragrant-bengali-buttermilk/)
+- [Corsica tourism: panzarotti](https://www.visit-corsica.com/fr/La-destination-Corse/Gastronomie-et-saveurs/Recettes-corses/I-Panzarotti)
+- [Taiwan immigration agency: Yilan pork](https://nit.immigration.gov.tw/Multicultural/Detail/7b519ba0-8aaf-4c9c-86e9-bc6e4fa87bf4)
+- [Jiaoxi tourism: eight-treasure glass noodles](https://jiaoxi-tourism.tw/index.php/zh/2022-01-12-07-29-13/2022-01-12-07-13-20/2022-01-12-07-13-22/item/298-shop-e-9)
+- [Italian pastry producer: diplomatica](https://www.saporiepiaceri.it/prodotto/diplomatica/)
+- [Shrimp cocktail image description](https://commons.wikimedia.org/wiki/File:Cocktail_1_bg_060702.jpg)
+- [Croffle history](https://en.wikipedia.org/wiki/Croffle)
+- [Dippin' Dots company history](https://www.dippindots.com/about/company-history/)
+- [New Taipei tourism: fish crisps](https://newtaipei.travel/zh-tw/shop/detail/207149)
+- [Taiwan education ministry: fish crisps](https://sutian.moe.edu.tw/zh-hant/su/14303/)
+- [Honey walnut shrimp](https://blog.resy.com/2020/08/the-chinese-american-dish-that-isnt-really/)
+- [Anzu ame confectionery supplier](https://d-kokuya.shop-pro.jp/?mode=f5)
