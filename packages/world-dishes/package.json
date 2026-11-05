@@ -18,7 +18,8 @@
     "import": "pnpm run fetch && pnpm run build-data",
     "review:apply": "tsx src/normalize/apply-review.ts",
     "review:check": "tsx review/check-verdicts.mts",
-    "review:coverage": "tsx review/check-coverage.mts"
+    "review:coverage": "tsx review/check-coverage.mts",
+    "review:manifest": "tsx review/build-manifest.mts"
   },
   "dependencies": {},
   "devDependencies": {
