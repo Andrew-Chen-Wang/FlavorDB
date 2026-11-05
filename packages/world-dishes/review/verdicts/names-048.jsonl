@@ -1,5 +1,5 @@
-{"id":"Q5768502","verdict":"keep"}
-{"id":"Q5768541","verdict":"keep","reason":"Chupachús can name the generic lollipop; this entry does not establish a specific branded product."}
+{"id":"Q5768502","verdict":"keep","reason":"Chumbeque is a honey pastry shared northern Chile and Peru.","countries":["CL","PE"]}
+{"id":"Q5768541","verdict":"keep","reason":"Chupachús is the generic Spanish lollipop name, not a specific brand in this entry.","countries":["ES"]}
 {"id":"Q5770216","verdict":"keep","countries":["IR"],"reason":"added countries"}
 {"id":"Q5775793","verdict":"keep"}
 {"id":"Q5775857","verdict":"keep","countries":["ES"],"reason":"added countries"}
@@ -7,7 +7,7 @@
 {"id":"Q5780954","verdict":"keep"}
 {"id":"Q578365","verdict":"keep","countries":["ES"],"reason":"added countries"}
 {"id":"Q57864243","verdict":"keep","countries":["KR"],"reason":"added countries"}
-{"id":"Q5788351","verdict":"keep"}
+{"id":"Q5788351","verdict":"keep","reason":"Cordero asado names the Spanish roast-lamb tradition.","countries":["ES"]}
 {"id":"Q5788535","verdict":"keep","countries":["MX"],"reason":"added countries"}
 {"id":"Q5790855","verdict":"keep"}
 {"id":"Q5793478","verdict":"keep"}
@@ -31,20 +31,20 @@
 {"id":"Q581884","verdict":"keep"}
 {"id":"Q58212664","verdict":"keep","countries":["CH","DE"],"reason":"added countries"}
 {"id":"Q58263","verdict":"keep","countries":["US"],"reason":"FR was wrong; Eggs Benedict is American"}
-{"id":"Q5831610","verdict":"keep"}
+{"id":"Q5831610","verdict":"keep","reason":"Empanada berciana is the El Bierzo Spanish empanada.","countries":["ES"]}
 {"id":"Q5831612","verdict":"keep"}
-{"id":"Q5831614","verdict":"keep"}
-{"id":"Q5831624","verdict":"keep"}
+{"id":"Q5831614","verdict":"keep","reason":"Empanadilla de la vigilia is a Spanish vigil pastry.","countries":["ES"]}
+{"id":"Q5831624","verdict":"keep","reason":"Empedrao ceheginero identifies the Cehegín Murcian rice dish.","countries":["ES"]}
 {"id":"Q5831687","verdict":"keep"}
 {"id":"Q5832771","verdict":"keep"}
 {"id":"Q58339033","verdict":"keep"}
 {"id":"Q58339162","verdict":"keep"}
-{"id":"Q5834056","verdict":"keep"}
+{"id":"Q5834056","verdict":"keep","reason":"Crab salad has common Spanish, American, Japanese and Russian versions; the Spanish alias does not establish exclusive Spanish provenance.","countries":["ES","US","JP","RU"]}
 {"id":"Q5834058","verdict":"keep"}
 {"id":"Q5834310","verdict":"keep"}
 {"id":"Q5834964","verdict":"keep"}
-{"id":"Q583522","verdict":"keep"}
-{"id":"Q58356585","verdict":"keep"}
+{"id":"Q583522","verdict":"keep","reason":"Pirulín is a traditional cone-shaped candy associated with Argentina and Uruguay.","countries":["AR","UY"]}
+{"id":"Q58356585","verdict":"keep","reason":"The entry explicitly identifies the Korean Toowoomba pasta dish.","countries":["KR"]}
 {"id":"Q5836776","verdict":"keep","countries":["IR"],"reason":"added countries"}
 {"id":"Q5837802","verdict":"keep","countries":["AD","ES"],"reason":"added countries"}
 {"id":"Q5840300","verdict":"keep"}
@@ -87,13 +87,13 @@
 {"id":"Q5877909","verdict":"keep"}
 {"id":"Q5878001","verdict":"keep"}
 {"id":"Q5878377","verdict":"keep"}
-{"id":"Q58799170","verdict":"keep"}
+{"id":"Q58799170","verdict":"keep","reason":"This Strawberry is a hard candy, associated with British and American confectionery rather than raw fruit.","countries":["GB","US"]}
 {"id":"Q58799253","verdict":"remove","reason":"branded packaged lollipop (Whirly Pop)"}
 {"id":"Q5880655","verdict":"keep"}
 {"id":"Q5882479","verdict":"keep","countries":["ES"],"reason":"added countries"}
 {"id":"Q588378","verdict":"keep"}
 {"id":"Q5884920","verdict":"keep"}
-{"id":"Q58853122","verdict":"keep"}
+{"id":"Q58853122","verdict":"keep","reason":"Bolle identifies the Norwegian and Danish bun tradition.","countries":["NO","DK"]}
 {"id":"Q588828","verdict":"keep"}
 {"id":"Q5889331","verdict":"keep"}
 {"id":"Q58898059","verdict":"keep","countries":["IT"],"reason":"added countries"}
@@ -101,7 +101,7 @@
 {"id":"Q58898166","verdict":"keep","countries":["IT"],"reason":"added countries"}
 {"id":"Q58898267","verdict":"keep","countries":["IT"],"reason":"added countries"}
 {"id":"Q5890907","verdict":"keep"}
-{"id":"Q5892267","verdict":"keep"}
+{"id":"Q5892267","verdict":"keep","reason":"Harcha is a Moroccan and Algerian semolina flatbread.","countries":["MA","DZ"]}
 {"id":"Q5892337","verdict":"keep","countries":["ES"],"reason":"added countries"}
 {"id":"Q590076","verdict":"keep"}
 {"id":"Q5900909","verdict":"keep"}
@@ -119,7 +119,7 @@
 {"id":"Q5910723","verdict":"keep"}
 {"id":"Q5911091","verdict":"keep"}
 {"id":"Q59134","verdict":"keep"}
-{"id":"Q59137506","verdict":"keep"}
+{"id":"Q59137506","verdict":"keep","reason":"Salmon sandwiches are common British, Nordic and American preparations.","countries":["GB","NO","SE","DK","FI","US"]}
 {"id":"Q59139","verdict":"keep"}
 {"id":"Q59187583","verdict":"keep"}
 {"id":"Q591888","verdict":"keep"}
@@ -140,7 +140,7 @@
 {"id":"Q5934858","verdict":"keep","countries":["IR"],"reason":"added countries"}
 {"id":"Q5935553","verdict":"keep"}
 {"id":"Q59361662","verdict":"keep","countries":["NO"],"reason":"added countries"}
-{"id":"Q5940500","verdict":"keep"}
+{"id":"Q5940500","verdict":"keep","reason":"Humbug is the British peppermint boiled sweet.","countries":["GB"]}
 {"id":"Q5941057","verdict":"keep"}
 {"id":"Q5942589","verdict":"keep"}
 {"id":"Q5942909","verdict":"keep","countries":["TR"],"reason":"added countries"}
@@ -153,10 +153,10 @@
 {"id":"Q59542124","verdict":"keep"}
 {"id":"Q595744","verdict":"keep"}
 {"id":"Q5959435","verdict":"keep"}
-{"id":"Q59629576","verdict":"keep"}
+{"id":"Q59629576","verdict":"keep","reason":"Veal broth is a prepared food associated with French and Italian cooking.","countries":["FR","IT"]}
 {"id":"Q596409","verdict":"keep"}
 {"id":"Q5964341","verdict":"keep"}
-{"id":"Q59652608","verdict":"keep"}
+{"id":"Q59652608","verdict":"keep","reason":"The historic savoury blancmanger belongs to medieval French, Italian and English cooking.","countries":["FR","IT","GB"]}
 {"id":"Q59707","verdict":"keep","countries":["IN","PK","BD"],"reason":"added countries"}
 {"id":"Q597082","verdict":"keep","countries":["IT"],"reason":"added countries"}
 {"id":"Q5971200","verdict":"keep","countries":["US"],"reason":"added countries"}
@@ -166,27 +166,27 @@
 {"id":"Q5975010","verdict":"keep","countries":["IT"],"reason":"added countries"}
 {"id":"Q5977888","verdict":"keep","countries":["PE"],"reason":"Second opinion: llunca de gallina is a soup from Ancash, Peru, not Spain"}
 {"id":"Q597836","verdict":"keep"}
-{"id":"Q5978632","verdict":"keep"}
-{"id":"Q5978645","verdict":"keep"}
+{"id":"Q5978632","verdict":"keep","reason":"Lomito sandwiches are shared Argentine, Chilean and Paraguayan food.","countries":["AR","CL","PY"]}
+{"id":"Q5978645","verdict":"keep","reason":"The paprika-and-vinegar marinated pork loin fits Spanish lomo en adobo.","countries":["ES"]}
 {"id":"Q598113","verdict":"keep"}
 {"id":"Q5984875","verdict":"keep"}
 {"id":"Q5985409","verdict":"keep","countries":["GB"],"reason":"added countries"}
 {"id":"Q5985600","verdict":"keep"}
 {"id":"Q5985621","verdict":"keep"}
 {"id":"Q5989305","verdict":"keep"}
-{"id":"Q5990243","verdict":"keep"}
+{"id":"Q5990243","verdict":"keep","reason":"Majarete is a corn pudding shared Venezuelan, Dominican, Puerto Rican and Cuban traditions.","countries":["VE","DO","PR","CU"]}
 {"id":"Q5995340","verdict":"keep"}
 {"id":"Q5995345","verdict":"keep"}
 {"id":"Q599548","verdict":"keep"}
 {"id":"Q5996575","verdict":"keep"}
 {"id":"Q5997109","verdict":"keep","countries":["TR"],"reason":"added countries"}
-{"id":"Q599901","verdict":"keep"}
-{"id":"Q5999282","verdict":"keep"}
+{"id":"Q599901","verdict":"keep","reason":"Chocolate syrup is an American-associated prepared dessert condiment.","countries":["US"]}
+{"id":"Q5999282","verdict":"keep","reason":"The entry explicitly identifies the French seafood platter.","countries":["FR"]}
 {"id":"Q5999895","verdict":"keep"}
 {"id":"Q6000077","verdict":"keep"}
-{"id":"Q6000956","verdict":"keep"}
+{"id":"Q6000956","verdict":"keep","reason":"Khash-khash kebab is associated with Aleppo and Turkish kebab cooking.","countries":["SY","TR"]}
 {"id":"Q6002018","verdict":"keep"}
-{"id":"Q6002629","verdict":"keep"}
+{"id":"Q6002629","verdict":"keep","reason":"Broken vermicelli is a manufactured pasta product associated with Turkish şehriye and Italian vermicelli.","countries":["TR","IT"]}
 {"id":"Q60030154","verdict":"keep","countries":["KR"],"reason":"added countries"}
 {"id":"Q6004351","verdict":"keep","countries":["IN","PK"],"reason":"Second opinion: suji ka halwa is shared across India and Pakistan"}
 {"id":"Q6005710","verdict":"keep"}
@@ -196,7 +196,7 @@
 {"id":"Q6007813","verdict":"keep"}
 {"id":"Q6008339","verdict":"keep","countries":["TR"],"reason":"added countries"}
 {"id":"Q6008497","verdict":"keep"}
-{"id":"Q6008643","verdict":"keep"}
+{"id":"Q6008643","verdict":"keep","reason":"This medianoche is the Spanish enriched bun, as its viennoiserie classification confirms.","countries":["ES"]}
 {"id":"Q6009527","verdict":"keep"}
 {"id":"Q6009729","verdict":"keep"}
 {"id":"Q6009774","verdict":"keep"}
@@ -211,11 +211,11 @@
 {"id":"Q6013660","verdict":"remove","reason":"Second opinion: plain regional honey with no recipe is a raw ingredient"}
 {"id":"Q6013663","verdict":"remove","reason":"Second opinion: plain regional honey with no recipe is a raw ingredient"}
 {"id":"Q6013667","verdict":"remove","reason":"Second opinion: plain regional honey with no recipe is a raw ingredient"}
-{"id":"Q6013710","verdict":"keep"}
+{"id":"Q6013710","verdict":"keep","reason":"Migas amb xocolata is a Catalan chocolate migas preparation.","countries":["ES"]}
 {"id":"Q6013719","verdict":"keep"}
-{"id":"Q6015002","verdict":"keep"}
-{"id":"Q60150397","verdict":"keep"}
-{"id":"Q60162114","verdict":"keep"}
+{"id":"Q6015002","verdict":"keep","reason":"Kadınbudu köfte is explicitly a Turkish köfte dish.","countries":["TR"]}
+{"id":"Q60150397","verdict":"keep","reason":"Funchoza is the Koryo-saram noodle salad of Russia and Central Asia; Korean ancestry does not by itself establish a South Korean version.","countries":["RU","KZ","UZ","KG"]}
+{"id":"Q60162114","verdict":"keep","reason":"Beef burgers are commonly tied to American hamburgers and their German Hamburg antecedents.","countries":["US","DE"]}
 {"id":"Q6017615","verdict":"keep"}
 {"id":"Q6017732","verdict":"keep"}
 {"id":"Q6018508","verdict":"keep"}
@@ -242,7 +242,7 @@
 {"id":"Q6029320","verdict":"keep"}
 {"id":"Q6029514","verdict":"keep"}
 {"id":"Q6030071","verdict":"keep"}
-{"id":"Q60310981","verdict":"keep"}
+{"id":"Q60310981","verdict":"keep","reason":"Chocolate pots are associated with French pots de crème and British desserts.","countries":["FR","GB"]}
 {"id":"Q60313138","verdict":"keep","countries":["PL"],"reason":"added countries"}
 {"id":"Q6031877","verdict":"keep","countries":["TR"],"reason":"added countries"}
 {"id":"Q6031965","verdict":"keep"}
@@ -259,7 +259,7 @@
 {"id":"Q6038708","verdict":"keep","countries":["CN"],"reason":"added countries"}
 {"id":"Q6038754","verdict":"keep","countries":["TR"],"reason":"added countries"}
 {"id":"Q6038836","verdict":"keep"}
-{"id":"Q6038850","verdict":"keep"}
+{"id":"Q6038850","verdict":"keep","reason":"Precooked instant rice is a prepared convenience food commonly associated with American and East Asian food production.","countries":["US","JP","KR","CN"]}
 {"id":"Q6038914","verdict":"keep"}
 {"id":"Q60398433","verdict":"keep"}
 {"id":"Q6041660","verdict":"keep"}
@@ -274,9 +274,9 @@
 {"id":"Q6050131","verdict":"keep"}
 {"id":"Q6051251","verdict":"keep"}
 {"id":"Q605277","verdict":"keep"}
-{"id":"Q6052975","verdict":"keep"}
+{"id":"Q6052975","verdict":"keep","reason":"Orrisa is the Moroccan Jewish barley-and-meat Sabbath stew; the name does not establish Uzbek or Tajik provenance.","countries":["MA","IL"]}
 {"id":"Q60544188","verdict":"keep","countries":["AT"],"reason":"Second opinion: Maschinrostbraten is an Austrian beef dish"}
-{"id":"Q605444","verdict":"keep"}
+{"id":"Q605444","verdict":"keep","reason":"Romeritos is explicitly a Mexican dish.","countries":["MX"]}
 {"id":"Q6056817","verdict":"keep","countries":["ES"],"reason":"added countries"}
 {"id":"Q6057938","verdict":"keep","countries":["TR"],"reason":"added countries"}
 {"id":"Q6059372","verdict":"keep","countries":["EC"],"reason":"added countries"}
@@ -284,11 +284,11 @@
 {"id":"Q6059378","verdict":"keep","countries":["ES"],"reason":"added countries"}
 {"id":"Q6059380","verdict":"keep"}
 {"id":"Q6059387","verdict":"keep","countries":["MX"],"reason":"added countries"}
-{"id":"Q6059772","verdict":"keep"}
+{"id":"Q6059772","verdict":"keep","reason":"South American panqueques have common Argentine, Chilean and Uruguayan forms.","countries":["AR","CL","UY"]}
 {"id":"Q6059926","verdict":"keep"}
 {"id":"Q6060064","verdict":"keep","countries":["MX"],"reason":"added countries"}
 {"id":"Q6060099","verdict":"keep","countries":["ES"],"reason":"added countries"}
-{"id":"Q6060108","verdict":"keep"}
+{"id":"Q6060108","verdict":"keep","reason":"Papas mayo is Chilean mayonnaise potato salad.","countries":["CL"]}
 {"id":"Q60615079","verdict":"keep","countries":["AT","DE"],"reason":"Eierschmalz is shared Austrian and southern German egg cookery."}
 {"id":"Q60620989","verdict":"keep"}
 {"id":"Q6066037","verdict":"keep"}

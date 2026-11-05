@@ -1,5 +1,5 @@
 {"id":"Q598222","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FBigos","status":"ok"},{"source":"https://pl.wikibooks.org/wiki/Ksi%C4%85%C5%BCka_kucharska%2FBigos","status":"ok"}]}
-{"id":"Q59862818","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AWarm_Black_Bean_Salad_with_Kale_and_Tomatoes","status":"ok"}]}
+{"id":"Q59862818","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AWarm_Black_Bean_Salad_with_Kale_and_Tomatoes","status":"ok"}],"countries":["US"],"reason":"Second check: This warm kale-and-canned-black-bean salad is a contemporary American Foodista home recipe with chili, cumin and lemon, rather than a named traditional foreign salad."}
 {"id":"Q600438","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FH%C3%BAsok%2FVagdalth%C3%BAsok%2FMititei","status":"ok"},{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FH%C3%BAsok%2FVagdalth%C3%BAsok%2FMititei_2.","status":"ok"}]}
 {"id":"Q6013714","verdict":"keep","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FMigas_de_ni%C3%B1o","status":"ok"}]}
 {"id":"Q6024679","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AEmpanada","status":"ok"}]}
@@ -11,5 +11,5 @@
 {"id":"Q6076597","verdict":"keep","countries":["ES"],"reason":"countries were empty; Andalusian salad","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FPipirrana","status":"ok"}]}
 {"id":"Q6082952","verdict":"keep","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FPorotos_con_riendas","status":"ok"}]}
 {"id":"Q6083448","verdict":"keep","countries":["CO"],"reason":"countries were empty; Antioquia, Colombia","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FPosta_sudada","status":"ok"}]}
-{"id":"Q609397","verdict":"keep","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Russischer_Zupfkuchen","status":"ok"},{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Russischer_Zupfkuchen_II","status":"ok"}]}
+{"id":"Q609397","verdict":"keep","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Russischer_Zupfkuchen","status":"ok"},{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Russischer_Zupfkuchen_II","status":"ok"}],"countries":["DE"],"reason":"Second check: Russischer Zupfkuchen is the German cocoa-crust quark cheesecake; its Russian name does not establish Russian origin or association."}
 {"id":"Q61054366","verdict":"keep","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FArroz_zambito","status":"ok"}]}

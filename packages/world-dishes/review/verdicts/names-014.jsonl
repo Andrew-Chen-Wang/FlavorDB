@@ -1,12 +1,12 @@
 {"id":"Q117467386","verdict":"keep"}
-{"id":"Q117469478","verdict":"keep"}
+{"id":"Q117469478","verdict":"keep","countries":["IL"],"reason":"Hebrew wine cookies are an Israeli Jewish version."}
 {"id":"Q117475843","verdict":"keep"}
-{"id":"Q117481518","verdict":"keep"}
-{"id":"Q11751063","verdict":"keep"}
+{"id":"Q117481518","verdict":"keep","countries":["HR","IT","ES","PT"],"reason":"Fig cakes have Dalmatian, Italian and Iberian preserved-fruit traditions."}
+{"id":"Q11751063","verdict":"keep","countries":["PL","BY"],"reason":"Kumpiak salted dried ham belongs to Polish and Belarusian borderland traditions."}
 {"id":"Q11753791","verdict":"keep"}
 {"id":"Q117617502","verdict":"remove","reason":"protected designation label (organization), not a dish"}
 {"id":"Q117662295","verdict":"keep"}
-{"id":"Q117662368","verdict":"keep"}
+{"id":"Q117662368","verdict":"keep","countries":["FR","GB","IT","DE"],"reason":"Chocolate Easter eggs have established French, British, Italian and German traditions."}
 {"id":"Q117708472","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech dish"}
 {"id":"Q117708479","verdict":"keep","reason":"Traditional Slovak Christmas cake also prepared in Czech cuisine","countries":["CZ","SK"]}
 {"id":"Q1177538","verdict":"keep"}
@@ -17,10 +17,10 @@
 {"id":"Q117813626","verdict":"remove","reason":"branded throat pastille product"}
 {"id":"Q117813664","verdict":"remove","reason":"branded chewing gum product"}
 {"id":"Q117815182","verdict":"keep","countries":["NL","BE"],"reason":"description says Dutch; NL added"}
-{"id":"Q117815327","verdict":"keep"}
+{"id":"Q117815327","verdict":"keep","countries":["GB","US","NL"],"reason":"Apple crumble pie combines British crumble, American apple pie and Dutch streusel-pie traditions."}
 {"id":"Q117832690","verdict":"keep"}
 {"id":"Q117838275","verdict":"keep","countries":["UA"],"reason":"countries empty; Ukrainian dessert"}
-{"id":"Q1178472","verdict":"keep"}
+{"id":"Q1178472","verdict":"keep","countries":["DZ"],"reason":"Dawamesc is explicitly Algerian cannabis confection."}
 {"id":"Q117847811","verdict":"keep"}
 {"id":"Q11785734","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish potato dish"}
 {"id":"Q117861283","verdict":"keep","countries":["US"],"reason":"countries empty; poke originates in Hawaii"}
@@ -35,7 +35,7 @@
 {"id":"Q11802321","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish sausage"}
 {"id":"Q11802933","verdict":"keep","countries":["PL"],"reason":"countries empty; Szczecin, Poland"}
 {"id":"Q118082425","verdict":"keep","countries":["NL"],"reason":"countries empty; Dutch ice cream"}
-{"id":"Q118115016","verdict":"keep"}
+{"id":"Q118115016","verdict":"keep","countries":["BD"],"reason":"Bilpara chomchom is a Bangladeshi regional sweet."}
 {"id":"Q118129319","verdict":"keep"}
 {"id":"Q118139279","verdict":"keep","countries":["CN"],"reason":"countries empty; Chinese dim sum"}
 {"id":"Q11814703","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish potato dish"}
@@ -58,7 +58,7 @@
 {"id":"Q11826944","verdict":"keep"}
 {"id":"Q118288330","verdict":"keep","countries":["SK"],"reason":"countries empty; Slovak 1990s dish"}
 {"id":"Q118288558","verdict":"keep"}
-{"id":"Q118290778","verdict":"keep"}
+{"id":"Q118290778","verdict":"keep","countries":["US","DE"],"reason":"Beef patty belongs to American hamburger and German minced-beef traditions."}
 {"id":"Q118293921","verdict":"keep","reason":"Shawarma has shared Levantine and regional associations","countries":["TR","LB","SY","EG","PS","JO","IL"]}
 {"id":"Q118302751","verdict":"keep"}
 {"id":"Q118304282","verdict":"keep"}
@@ -95,7 +95,7 @@
 {"id":"Q118601096","verdict":"keep","countries":["EE"],"reason":"countries empty; Estonian rye bread"}
 {"id":"Q118601273","verdict":"keep"}
 {"id":"Q118603440","verdict":"keep","countries":["ES"],"reason":"countries empty; Spanish pasta"}
-{"id":"Q118610443","verdict":"keep"}
+{"id":"Q118610443","verdict":"remove","reason":"Independent second country review: MARRON CORON identifies Amatou branded packaged confectionery, so removal is appropriate.","countries":[]}
 {"id":"Q118610533","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese cookie"}
 {"id":"Q11861490","verdict":"keep"}
 {"id":"Q11863553","verdict":"keep","countries":["FI"],"reason":"countries empty; Finnish crispbread"}
@@ -113,13 +113,13 @@
 {"id":"Q118727349","verdict":"keep","countries":["US"],"reason":"countries empty; Colorado pizza style"}
 {"id":"Q11874587","verdict":"keep","countries":["FI"],"reason":"countries empty; Finnish dish"}
 {"id":"Q11874595","verdict":"keep"}
-{"id":"Q118746862","verdict":"keep"}
+{"id":"Q118746862","verdict":"keep","countries":["US"],"reason":"Independent second country review: Retained American cake-baking association; removed FR and CH because chocolate expertise or ingredient history alone does not establish this cake association."}
 {"id":"Q118746882","verdict":"keep","countries":["IT"],"reason":"countries empty; Italian cake"}
-{"id":"Q11875764","verdict":"keep","reason":"Prepared meat soup; broad food name is still edible prepared dish"}
+{"id":"Q11875764","verdict":"keep","reason":"Meat soup is widely established in Russian, German, Chinese, Turkish and British cooking.","countries":["RU","DE","CN","TR","GB"]}
 {"id":"Q11875926","verdict":"keep"}
 {"id":"Q11876213","verdict":"keep"}
 {"id":"Q1187678","verdict":"keep"}
-{"id":"Q1187846","verdict":"keep"}
+{"id":"Q1187846","verdict":"keep","countries":["PL","IL","US"],"reason":"Farfel belongs to Ashkenazi Jewish Polish, Israeli and American traditions."}
 {"id":"Q1187912","verdict":"keep"}
 {"id":"Q1188066","verdict":"keep"}
 {"id":"Q118818058","verdict":"keep"}
@@ -139,7 +139,7 @@
 {"id":"Q1188380","verdict":"keep"}
 {"id":"Q118847406","verdict":"keep","countries":["ES"],"reason":"countries empty; Spanish fish dish"}
 {"id":"Q11886671","verdict":"keep","countries":["FI"],"reason":"countries empty; Finnish soup"}
-{"id":"Q118868071","verdict":"keep"}
+{"id":"Q118868071","verdict":"keep","countries":["PS","JO","SY","LB","EG"],"reason":"Qatayef is shared Levantine and Egyptian Ramadan food."}
 {"id":"Q118868156","verdict":"keep"}
 {"id":"Q1188729","verdict":"keep"}
 {"id":"Q118874832","verdict":"keep"}
@@ -150,12 +150,12 @@
 {"id":"Q11889435","verdict":"remove","reason":"branded chocolate bar"}
 {"id":"Q118895947","verdict":"keep","countries":["VN"],"reason":"countries empty; Vietnamese cake"}
 {"id":"Q118901115","verdict":"keep","countries":["US"],"reason":"countries empty; American Chinese dish"}
-{"id":"Q11891334","verdict":"keep"}
+{"id":"Q11891334","verdict":"keep","countries":["FI","RU","EE","SE"],"reason":"Rye porridge has Finnish, Russian, Estonian and Swedish ties."}
 {"id":"Q11891335","verdict":"keep","countries":["FI"],"reason":"countries empty; Finnish rye bread"}
 {"id":"Q1189138","verdict":"keep"}
-{"id":"Q11891415","verdict":"keep"}
+{"id":"Q11891415","verdict":"keep","countries":["IN","BR","PY","ES","US"],"reason":"Independent second country review: Sugarcane honey is prepared syrup, including Indian, Brazilian, Paraguayan, Spanish miel de cana and Southern American cane-syrup traditions."}
 {"id":"Q11892106","verdict":"keep","countries":["FI"],"reason":"countries empty; Finnish salmiakki"}
-{"id":"Q1189231","verdict":"keep"}
+{"id":"Q1189231","verdict":"keep","countries":["AT","IT","DE","JP","PL","AR","UY"],"reason":"Independent second country review: Breaded cutlets include schnitzel, cotoletta, tonkatsu and Polish kotlet as well as Argentine and Uruguayan milanesa; added AR and UY."}
 {"id":"Q118929559","verdict":"keep","countries":["TR"],"reason":"countries empty; Turkish bread"}
 {"id":"Q11893103","verdict":"keep","countries":["FI"],"reason":"countries empty; Finnish bread"}
 {"id":"Q118944641","verdict":"keep","countries":["VN"],"reason":"countries empty; Vietnamese dish"}
@@ -232,8 +232,8 @@
 {"id":"Q11950904","verdict":"keep","countries":["ES"],"reason":"countries empty; Catalan entree"}
 {"id":"Q119520770","verdict":"keep"}
 {"id":"Q119520979","verdict":"keep"}
-{"id":"Q119527495","verdict":"keep"}
-{"id":"Q1195276","verdict":"keep"}
+{"id":"Q119527495","verdict":"keep","countries":["GB"],"reason":"Yum yum twisted doughnut is a British bakery item."}
+{"id":"Q1195276","verdict":"keep","countries":["DE","GB","US"],"reason":"Modern birthday cakes have German, British and American celebratory traditions."}
 {"id":"Q1195290","verdict":"keep"}
 {"id":"Q11952927","verdict":"keep","countries":["ES"],"reason":"countries empty; Spanish confection"}
 {"id":"Q119535389","verdict":"keep"}
@@ -255,14 +255,14 @@
 {"id":"Q119605527","verdict":"keep","countries":["US"],"reason":"countries empty; New York pastry"}
 {"id":"Q119608124","verdict":"keep"}
 {"id":"Q1196125","verdict":"keep"}
-{"id":"Q11961672","verdict":"keep"}
-{"id":"Q11962286","verdict":"keep"}
+{"id":"Q11961672","verdict":"keep","countries":["US","CA"],"reason":"North American blueberry jam belongs to American and Canadian preserving traditions."}
+{"id":"Q11962286","verdict":"keep","countries":["GB","FR","DE","SE"],"reason":"Raspberry jam has British, French, German and Swedish preserving traditions."}
 {"id":"Q1196289","verdict":"keep"}
 {"id":"Q11969230","verdict":"keep"}
 {"id":"Q1197104","verdict":"keep"}
 {"id":"Q119722087","verdict":"keep","countries":["CZ"],"reason":"Czech chocolate cake; FR was wrong"}
 {"id":"Q119724198","verdict":"keep"}
-{"id":"Q1197400","verdict":"keep"}
+{"id":"Q1197400","verdict":"keep","countries":["FR"],"reason":"Crouton is an established French bread preparation."}
 {"id":"Q119778178","verdict":"keep"}
 {"id":"Q119788537","verdict":"keep"}
 {"id":"Q119788538","verdict":"keep"}
@@ -273,11 +273,11 @@
 {"id":"Q119819391","verdict":"keep"}
 {"id":"Q119820710","verdict":"keep","countries":["BR"],"reason":"countries empty; Amazon porridge"}
 {"id":"Q119820716","verdict":"keep","countries":["BR"],"reason":"countries empty; Brazilian dish"}
-{"id":"Q119828752","verdict":"keep"}
+{"id":"Q119828752","verdict":"keep","countries":["PL","UA","IL","US"],"reason":"Independent second country review: Jewish braided babka has Polish and Ukrainian Ashkenazi roots plus Israeli and American traditions; added UA."}
 {"id":"Q119863250","verdict":"keep"}
 {"id":"Q119868237","verdict":"keep"}
 {"id":"Q119894990","verdict":"keep","countries":["GB"],"reason":"countries empty; British cake"}
-{"id":"Q119898571","verdict":"keep","reason":"Prepared chocolate confection in small pieces, not plain raw ingredient"}
+{"id":"Q119898571","verdict":"keep","reason":"Chocolate drops/chips have established American baking association.","countries":["US"]}
 {"id":"Q119906402","verdict":"remove","reason":"essential oil, not a food dish"}
 {"id":"Q119908354","verdict":"remove","reason":"essential oil, not a food dish"}
 {"id":"Q119909667","verdict":"keep"}
@@ -295,6 +295,6 @@
 {"id":"Q12007500","verdict":"keep"}
 {"id":"Q1200915","verdict":"keep"}
 {"id":"Q120096","verdict":"keep"}
-{"id":"Q120174787","verdict":"keep"}
+{"id":"Q120174787","verdict":"keep","countries":["LA","TH"],"reason":"Ant-egg soup has Lao and northeastern Thai traditions."}
 {"id":"Q120176394","verdict":"keep","countries":["US"],"reason":"countries empty; Southern US snack"}
 {"id":"Q12017928","verdict":"keep"}

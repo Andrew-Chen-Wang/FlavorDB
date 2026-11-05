@@ -1,4 +1,4 @@
-{"id":"Q6301925","verdict":"keep"}
+{"id":"Q6301925","verdict":"keep","reason":"Jubilee chicken explicitly celebrates British royal jubilees.","countries":["GB"]}
 {"id":"Q6302328","verdict":"keep","countries":["LU"],"reason":"Luxembourgish dish; countries were empty"}
 {"id":"Q6304924","verdict":"keep"}
 {"id":"Q63118359","verdict":"keep","countries":["NL"],"reason":"Dutch snack; countries were empty"}
@@ -6,9 +6,9 @@
 {"id":"Q63255906","verdict":"keep"}
 {"id":"Q63256449","verdict":"keep"}
 {"id":"Q632850","verdict":"keep"}
-{"id":"Q63347864","verdict":"keep"}
+{"id":"Q63347864","verdict":"keep","reason":"Anchovy sauces include British, Italian and French sauces and common Vietnamese, Thai and Korean fermented anchovy sauces.","countries":["GB","IT","FR","VN","TH","KR"]}
 {"id":"Q633615","verdict":"keep"}
-{"id":"Q63368126","verdict":"keep"}
+{"id":"Q63368126","verdict":"keep","reason":"Rollo names the takeaway wrap associated with Australian and Finnish food, rather than its Korean transcription.","countries":["AU","FI"]}
 {"id":"Q6343342","verdict":"keep","countries":["IN"],"reason":"Kerala dish; countries were empty"}
 {"id":"Q6343722","verdict":"keep"}
 {"id":"Q63439786","verdict":"keep","countries":["IT"],"reason":"northern Italian dish; countries were empty"}
@@ -35,13 +35,13 @@
 {"id":"Q63525671","verdict":"keep"}
 {"id":"Q63525686","verdict":"keep"}
 {"id":"Q63525694","verdict":"keep"}
-{"id":"Q635999","verdict":"keep"}
+{"id":"Q635999","verdict":"keep","reason":"Cooked fruit compote has French, German, Polish, Austrian and British dessert traditions, distinct from a drink.","countries":["FR","DE","PL","AT","GB"]}
 {"id":"Q636242","verdict":"keep","countries":["DE"],"reason":"German dish; countries were empty"}
-{"id":"Q63626","verdict":"keep"}
-{"id":"Q6363439","verdict":"keep"}
-{"id":"Q6367928","verdict":"keep"}
-{"id":"Q6374193","verdict":"keep"}
-{"id":"Q637463","verdict":"keep"}
+{"id":"Q63626","verdict":"keep","reason":"Deche is the Chiloé Chilean potato preparation.","countries":["CL"]}
+{"id":"Q6363439","verdict":"keep","reason":"Kanjika is an Indian rice preparation identified as a dish here.","countries":["IN"]}
+{"id":"Q6367928","verdict":"keep","reason":"Karah parshad is shared Sikh food of Indian and Pakistani Punjab.","countries":["IN","PK"]}
+{"id":"Q6374193","verdict":"keep","reason":"Kasha varnishkes is Ashkenazi food with Polish, Ukrainian, American and Israeli associations.","countries":["PL","US","IL","UA"]}
+{"id":"Q637463","verdict":"keep","reason":"Frozen custard is an American-associated frozen dessert.","countries":["US"]}
 {"id":"Q6374730","verdict":"keep"}
 {"id":"Q6374981","verdict":"keep","countries":["PK"],"reason":"Pakistani dish; countries were empty"}
 {"id":"Q6377352","verdict":"keep"}
@@ -58,12 +58,12 @@
 {"id":"Q6393299","verdict":"keep"}
 {"id":"Q6394874","verdict":"keep","countries":["IN"],"reason":"Indian sweet; countries were empty"}
 {"id":"Q6395436","verdict":"keep"}
-{"id":"Q63956134","verdict":"keep"}
+{"id":"Q63956134","verdict":"keep","reason":"Tuna tartare is a prepared raw-fish dish associated with American and French fine dining.","countries":["US","FR"]}
 {"id":"Q63974883","verdict":"keep","countries":["GR"],"reason":"Greek (Corfu) dish; countries were empty"}
-{"id":"Q63974888","verdict":"keep"}
-{"id":"Q63974891","verdict":"keep"}
-{"id":"Q63974895","verdict":"keep"}
-{"id":"Q63974897","verdict":"keep"}
+{"id":"Q63974888","verdict":"keep","reason":"Fish bianco is a Corfiot Greek dish.","countries":["GR"]}
+{"id":"Q63974891","verdict":"keep","reason":"Veal fricando is a Corfiot Greek preparation.","countries":["GR"]}
+{"id":"Q63974895","verdict":"keep","reason":"Zorka is a Corfiot Greek pie.","countries":["GR"]}
+{"id":"Q63974897","verdict":"keep","reason":"Sikomaida is a Corfiot Greek fig sweet.","countries":["GR"]}
 {"id":"Q6398629","verdict":"keep"}
 {"id":"Q6398992","verdict":"keep"}
 {"id":"Q63993923","verdict":"keep"}
@@ -73,14 +73,14 @@
 {"id":"Q6401206","verdict":"keep","countries":["IN"],"reason":"Indian cheese dish; countries were empty"}
 {"id":"Q6401568","verdict":"keep"}
 {"id":"Q64025364","verdict":"keep"}
-{"id":"Q64027420","verdict":"keep"}
-{"id":"Q6403206","verdict":"keep"}
+{"id":"Q64027420","verdict":"keep","reason":"Bismarck-Eiche is a plausible German pastry, as the viennoiserie classification supports.","countries":["DE"]}
+{"id":"Q6403206","verdict":"keep","reason":"Khushka rice is shared Indian and Pakistani food.","countries":["IN","PK"]}
 {"id":"Q6403489","verdict":"keep"}
 {"id":"Q6404116","verdict":"keep"}
 {"id":"Q64043245","verdict":"keep","countries":["CN"],"reason":"Chinese scallion pancake; countries were empty"}
 {"id":"Q6405076","verdict":"keep"}
 {"id":"Q6406382","verdict":"keep"}
-{"id":"Q64065384","verdict":"keep"}
+{"id":"Q64065384","verdict":"remove","reason":"Calf liver is described as an organ ingredient without any preparation or recipe."}
 {"id":"Q6406630","verdict":"keep","countries":["ES"],"reason":"Galician dish; countries were empty"}
 {"id":"Q64068239","verdict":"remove","reason":"branded packaged product (Ritter Sport chocolate)"}
 {"id":"Q6407655","verdict":"keep","countries":["GB"],"reason":"Scottish pie; countries were empty"}
@@ -92,8 +92,8 @@
 {"id":"Q6413862","verdict":"keep"}
 {"id":"Q64149140","verdict":"keep"}
 {"id":"Q64149261","verdict":"keep"}
-{"id":"Q64166152","verdict":"keep"}
-{"id":"Q64166194","verdict":"keep"}
+{"id":"Q64166152","verdict":"keep","reason":"Bison burgers are associated with American and Canadian cooking.","countries":["US","CA"]}
+{"id":"Q64166194","verdict":"keep","reason":"Fried chicken wings have common American, Chinese, Korean, Thai and Japanese preparations.","countries":["US","CN","KR","TH","JP"]}
 {"id":"Q6416946","verdict":"keep"}
 {"id":"Q6418060","verdict":"keep"}
 {"id":"Q641945","verdict":"keep","countries":["GR"],"reason":"Ancient Greek dish; countries were empty"}
@@ -115,18 +115,18 @@
 {"id":"Q6434112","verdict":"keep"}
 {"id":"Q64343255","verdict":"keep","countries":["IN","BD"],"reason":"Bengali sweet; countries were empty"}
 {"id":"Q64343260","verdict":"keep"}
-{"id":"Q64343274","verdict":"keep"}
+{"id":"Q64343274","verdict":"keep","reason":"White bonde of Kamarpukur is an Indian Bengali confection.","countries":["IN"]}
 {"id":"Q64343301","verdict":"keep","countries":["IN","BD"],"reason":"Bengali snack; countries were empty"}
 {"id":"Q64348067","verdict":"keep","countries":["IN","BD"],"reason":"Bengali sweet; countries were empty"}
-{"id":"Q64348073","verdict":"keep"}
+{"id":"Q64348073","verdict":"keep","reason":"Murki is a Bengali rice sweet shared India and Bangladesh.","countries":["IN","BD"]}
 {"id":"Q64358326","verdict":"keep"}
 {"id":"Q643633","verdict":"keep","countries":["ES"],"reason":"Spanish sweet; countries were empty"}
 {"id":"Q64364273","verdict":"keep"}
-{"id":"Q6436687","verdict":"keep"}
-{"id":"Q6436724","verdict":"keep"}
+{"id":"Q6436687","verdict":"remove","reason":"Krembanan is the Nidar packaged banana chocolate brand."}
+{"id":"Q6436724","verdict":"keep","reason":"Cremeschnitte is a shared Central European and Balkan cream-slice pastry.","countries":["AT","SI","HR","RS","RO","DE","CH","HU","BG","BA","MK"]}
 {"id":"Q6436743","verdict":"keep"}
 {"id":"Q64392032","verdict":"keep"}
-{"id":"Q643995","verdict":"keep"}
+{"id":"Q643995","verdict":"remove","reason":"Skirt steak here denotes a beef cut without recipe or preparation."}
 {"id":"Q6441202","verdict":"keep"}
 {"id":"Q6441843","verdict":"keep"}
 {"id":"Q6441849","verdict":"keep"}
@@ -149,21 +149,21 @@
 {"id":"Q64667651","verdict":"keep"}
 {"id":"Q6469786","verdict":"keep"}
 {"id":"Q6469877","verdict":"keep"}
-{"id":"Q64700257","verdict":"keep"}
+{"id":"Q64700257","verdict":"keep","reason":"Leche rizada is a Spanish frozen milk dessert.","countries":["ES"]}
 {"id":"Q6470962","verdict":"keep"}
 {"id":"Q6471877","verdict":"keep"}
-{"id":"Q6473288","verdict":"keep"}
+{"id":"Q6473288","verdict":"keep","reason":"Lahndi is traditional Pashtun preserved meat shared Afghanistan and Pakistan.","countries":["AF","PK"]}
 {"id":"Q6473713","verdict":"keep"}
 {"id":"Q64743077","verdict":"keep"}
-{"id":"Q64760509","verdict":"keep"}
+{"id":"Q64760509","verdict":"keep","reason":"Bittersweet chocolate is a manufactured edible chocolate product, not a plain raw ingredient.","countries":["FR","BE","CH","US"]}
 {"id":"Q6478911","verdict":"keep"}
-{"id":"Q6481050","verdict":"keep"}
+{"id":"Q6481050","verdict":"keep","reason":"Lamb fries is an established American name for prepared fried testicles, so the organ ingredient does not invalidate the dish.","countries":["US"]}
 {"id":"Q64831532","verdict":"keep"}
 {"id":"Q64832758","verdict":"keep"}
 {"id":"Q64864188","verdict":"keep","countries":["BR"],"reason":"Brazilian dessert; countries were empty"}
 {"id":"Q6487583","verdict":"keep"}
 {"id":"Q648822","verdict":"keep"}
-{"id":"Q649043","verdict":"keep"}
+{"id":"Q649043","verdict":"keep","reason":"Shoestring potatoes include French and American fries and Brazilian and Portuguese batata palha.","countries":["FR","US","BR","PT"]}
 {"id":"Q6493","verdict":"keep"}
 {"id":"Q649535","verdict":"keep"}
 {"id":"Q6497093","verdict":"remove","reason":"a pastry pattern, not a dish (lattice)"}
@@ -171,8 +171,8 @@
 {"id":"Q64989889","verdict":"keep"}
 {"id":"Q6499081","verdict":"keep"}
 {"id":"Q6499669","verdict":"keep"}
-{"id":"Q6501598","verdict":"keep"}
-{"id":"Q6501890","verdict":"keep"}
+{"id":"Q6501598","verdict":"remove","reason":"Sirloin steak here is explicitly a loin cut without recipe or cooking preparation."}
+{"id":"Q6501890","verdict":"keep","reason":"Casserole is a recognized prepared-food style with French, American and British traditions.","countries":["FR","US","GB"]}
 {"id":"Q6503900","verdict":"keep","countries":["JP"],"reason":"Japanese wagashi; countries were empty"}
 {"id":"Q65041957","verdict":"keep","countries":["BD","IN"],"reason":"Second opinion: Bengali aloor chop is shared across Bangladesh and India"}
 {"id":"Q65043034","verdict":"keep"}
@@ -189,12 +189,12 @@
 {"id":"Q65051309","verdict":"keep","countries":["CN"],"reason":"Chinese dish; countries were empty"}
 {"id":"Q65051772","verdict":"keep","countries":["CN"],"reason":"Shaanxi noodle dish; countries were empty"}
 {"id":"Q65052606","verdict":"keep"}
-{"id":"Q65054415","verdict":"keep"}
+{"id":"Q65054415","verdict":"remove","reason":"Conveyor belt hot pot identifies a restaurant serving arrangement rather than one dish."}
 {"id":"Q65057632","verdict":"keep","countries":["US"],"reason":"Madison, Wisconsin bread; countries were empty"}
-{"id":"Q65058271","verdict":"keep"}
+{"id":"Q65058271","verdict":"keep","reason":"Jewish rye bread has American deli, Polish Jewish and Israeli associations.","countries":["US","PL","IL"]}
 {"id":"Q65059020","verdict":"keep"}
 {"id":"Q65059194","verdict":"keep"}
-{"id":"Q65059258","verdict":"keep"}
+{"id":"Q65059258","verdict":"keep","reason":"Chicken under a brick includes Italian pollo al mattone and Georgian tabaka traditions.","countries":["IT","GE"]}
 {"id":"Q65059324","verdict":"keep"}
 {"id":"Q65059348","verdict":"keep"}
 {"id":"Q65059692","verdict":"keep"}
@@ -252,21 +252,21 @@
 {"id":"Q65132424","verdict":"keep"}
 {"id":"Q65132461","verdict":"keep"}
 {"id":"Q65132586","verdict":"keep"}
-{"id":"Q65145678","verdict":"keep"}
-{"id":"Q651462","verdict":"keep"}
+{"id":"Q65145678","verdict":"keep","reason":"Sispa is a French Guianese cassava-coconut preparation.","countries":["GF"]}
+{"id":"Q651462","verdict":"keep","reason":"Couverture is manufactured chocolate with added cocoa butter, a prepared confection rather than a plain raw ingredient.","countries":["FR","BE","CH"]}
 {"id":"Q65150941","verdict":"keep"}
 {"id":"Q65151728","verdict":"keep"}
 {"id":"Q65153051","verdict":"keep","countries":["RU","UA","BY"],"reason":"Mannik semolina cake is shared Russian, Ukrainian and Belarusian cookery."}
 {"id":"Q65153692","verdict":"keep"}
-{"id":"Q6515767","verdict":"keep"}
-{"id":"Q6516224","verdict":"keep"}
+{"id":"Q6515767","verdict":"keep","reason":"Murza is a plausible Belarusian dish name with no contrary cuisine evidence.","countries":["BY"]}
+{"id":"Q6516224","verdict":"keep","reason":"Potato and leek soup is associated with British and French cooking.","countries":["GB","FR"]}
 {"id":"Q65163168","verdict":"keep"}
 {"id":"Q65163701","verdict":"keep"}
 {"id":"Q6516633","verdict":"remove","reason":"branded packaged product (Toy chewing gum)"}
 {"id":"Q65194563","verdict":"remove","reason":"Second opinion: bread in Finland is a regional overview, not one dish"}
 {"id":"Q65194685","verdict":"keep","countries":["SE"],"reason":"Swedish candy; countries were empty"}
 {"id":"Q65205156","verdict":"keep"}
-{"id":"Q65205169","verdict":"keep"}
+{"id":"Q65205169","verdict":"keep","reason":"The Catalan Napoleons name supplies the country fallback for this otherwise unspecified dish entry.","countries":["ES"]}
 {"id":"Q65208584","verdict":"keep"}
 {"id":"Q65209211","verdict":"keep","countries":["ID"],"reason":"Indonesian dish; countries were empty"}
 {"id":"Q65209835","verdict":"keep","countries":["ID"],"reason":"Indonesian rice dish; countries were empty"}
@@ -279,7 +279,7 @@
 {"id":"Q65211932","verdict":"keep"}
 {"id":"Q65213454","verdict":"keep"}
 {"id":"Q65213460","verdict":"keep"}
-{"id":"Q6521356","verdict":"keep"}
+{"id":"Q6521356","verdict":"keep","reason":"This lemon drop is British and American candy, not a drink.","countries":["GB","US"]}
 {"id":"Q6521359","verdict":"keep"}
 {"id":"Q6521367","verdict":"keep"}
 {"id":"Q65213789","verdict":"keep"}
@@ -296,5 +296,5 @@
 {"id":"Q65236023","verdict":"keep"}
 {"id":"Q65236098","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
 {"id":"Q65236447","verdict":"keep","countries":["NO"],"reason":"Norwegian bread; countries were empty"}
-{"id":"Q65238329","verdict":"keep"}
+{"id":"Q65238329","verdict":"keep","reason":"Kashi dofu is a Japanese acorn-starch jelly.","countries":["JP"]}
 {"id":"Q65238841","verdict":"keep","countries":["FI"],"reason":"Finnish fish dish; countries were empty"}

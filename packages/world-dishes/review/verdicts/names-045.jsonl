@@ -4,27 +4,27 @@
 {"id":"Q5102127","verdict":"keep"}
 {"id":"Q5102129","verdict":"keep"}
 {"id":"Q5102345","verdict":"keep"}
-{"id":"Q5102594","verdict":"keep"}
-{"id":"Q5103586","verdict":"keep"}
+{"id":"Q5102594","verdict":"keep","reason":"This chivito is explicitly Argentine goat meat, not the Uruguayan sandwich.","countries":["AR"]}
+{"id":"Q5103586","verdict":"keep","reason":"Chocolate-covered raisins have a recognized American confectionery association.","countries":["US"]}
 {"id":"Q5103596","verdict":"keep"}
-{"id":"Q5103643","verdict":"keep"}
-{"id":"Q5103646","verdict":"keep"}
+{"id":"Q5103643","verdict":"keep","reason":"Chocolate almonds are established American sweets and French dragées.","countries":["US","FR"]}
+{"id":"Q5103646","verdict":"keep","reason":"The chocolate biscuit identity is well established in British baking.","countries":["GB"]}
 {"id":"Q5103652","verdict":"keep"}
 {"id":"Q5103653","verdict":"keep"}
 {"id":"Q5103654","verdict":"keep"}
 {"id":"Q5103662","verdict":"keep"}
 {"id":"Q5103667","verdict":"keep"}
-{"id":"Q5103668","verdict":"keep","reason":"Second opinion: chocolate pudding is an identifiable prepared dessert"}
-{"id":"Q5103669","verdict":"keep"}
+{"id":"Q5103668","verdict":"keep","reason":"Both American custard and British steamed chocolate puddings fit the generic entry.","countries":["US","GB"]}
+{"id":"Q5103669","verdict":"keep","reason":"Chocolate tart belongs to the French tart tradition.","countries":["FR"]}
 {"id":"Q510387","verdict":"keep"}
 {"id":"Q5104057","verdict":"keep"}
 {"id":"Q5104308","verdict":"keep"}
-{"id":"Q51051035","verdict":"keep"}
+{"id":"Q51051035","verdict":"keep","reason":"Smurfentaart is a Belgian prepared cake, despite its borrowed character name.","countries":["BE"]}
 {"id":"Q5105172","verdict":"keep","countries":["GB"],"reason":"Chorley is an English cake; countries were empty"}
 {"id":"Q510521","verdict":"keep"}
 {"id":"Q5105498","verdict":"keep"}
 {"id":"Q5105519","verdict":"keep"}
-{"id":"Q5105636","verdict":"keep"}
+{"id":"Q5105636","verdict":"keep","reason":"Chremslach is an Ashkenazi Passover preparation with German, Polish, Israeli and American Jewish traditions.","countries":["IL","PL","DE","US"]}
 {"id":"Q51127905","verdict":"keep"}
 {"id":"Q5115955","verdict":"keep"}
 {"id":"Q5117388","verdict":"keep"}
@@ -35,8 +35,8 @@
 {"id":"Q5120184","verdict":"keep"}
 {"id":"Q5120346","verdict":"keep"}
 {"id":"Q5123542","verdict":"keep"}
-{"id":"Q5125438","verdict":"keep"}
-{"id":"Q5125439","verdict":"keep"}
+{"id":"Q5125438","verdict":"remove","reason":"This is the liquid released by clams, described as an ingredient rather than a prepared dish; no recipe is supplied."}
+{"id":"Q5125439","verdict":"keep","reason":"Clam pasta sauce belongs to Italian and Italian-American cooking.","countries":["IT","US"]}
 {"id":"Q5125440","verdict":"keep"}
 {"id":"Q5125441","verdict":"keep"}
 {"id":"Q5125470","verdict":"keep","countries":["US"],"reason":"Italian-American seafood dish; countries were empty"}
@@ -63,19 +63,19 @@
 {"id":"Q5167072","verdict":"keep","countries":["US"],"reason":"American cookie pie; countries were empty"}
 {"id":"Q5167105","verdict":"keep"}
 {"id":"Q5167429","verdict":"keep"}
-{"id":"Q51684958","verdict":"keep"}
-{"id":"Q5169969","verdict":"keep"}
+{"id":"Q51684958","verdict":"keep","reason":"The Catalan cachap name identifies a regional Spanish confection.","countries":["ES"]}
+{"id":"Q5169969","verdict":"keep","reason":"This cordial is chocolate-filled confectionery, not a beverage; American and French associations fit.","countries":["US","FR"]}
 {"id":"Q5171046","verdict":"keep"}
 {"id":"Q5171047","verdict":"keep"}
 {"id":"Q5171049","verdict":"keep"}
 {"id":"Q5171054","verdict":"keep"}
-{"id":"Q5171058","verdict":"keep"}
-{"id":"Q5171116","verdict":"keep"}
+{"id":"Q5171058","verdict":"keep","reason":"Cooked corn on the cob is established in American and Mexican food traditions.","countries":["US","MX"]}
+{"id":"Q5171116","verdict":"keep","reason":"Corned-beef sandwiches have recognized traditions in all four listed places.","countries":["US","GB","IE","HK"]}
 {"id":"Q5171854","verdict":"keep"}
 {"id":"Q517394","verdict":"keep"}
 {"id":"Q5175528","verdict":"keep"}
 {"id":"Q5175547","verdict":"keep"}
-{"id":"Q5175921","verdict":"keep"}
+{"id":"Q5175921","verdict":"keep","reason":"Cornmeal and okra coo-coo is tied to Barbados and Trinidad and Tobago.","countries":["BB","TT"]}
 {"id":"Q5178059","verdict":"keep","countries":["BE"],"reason":"Belgian pastry; countries were empty"}
 {"id":"Q5179420","verdict":"keep"}
 {"id":"Q5179571","verdict":"keep"}
@@ -89,23 +89,23 @@
 {"id":"Q5182787","verdict":"keep"}
 {"id":"Q5183356","verdict":"keep"}
 {"id":"Q5183359","verdict":"keep","countries":["GB","IE"],"reason":"Second opinion: cream crackers have British and Irish traditions."}
-{"id":"Q5183361","verdict":"keep"}
-{"id":"Q5183373","verdict":"keep","reason":"Second opinion: creamed honey is a deliberately prepared spread, not plain raw honey"}
-{"id":"Q5183375","verdict":"keep"}
+{"id":"Q5183361","verdict":"keep","reason":"Cream horns are shared Austrian, German, Italian and British pastries.","countries":["AT","DE","IT","GB"]}
+{"id":"Q5183373","verdict":"keep","reason":"Creamed honey is a deliberately prepared spread with North American associations.","countries":["US","CA"]}
+{"id":"Q5183375","verdict":"keep","reason":"The description explicitly identifies this as an American breakfast.","countries":["US"]}
 {"id":"Q5184120","verdict":"keep"}
 {"id":"Q5185785","verdict":"keep"}
-{"id":"Q5186001","verdict":"keep"}
+{"id":"Q5186001","verdict":"keep","reason":"Fruit crisp is a North American named dessert.","countries":["US","CA"]}
 {"id":"Q518601","verdict":"keep"}
 {"id":"Q5186074","verdict":"keep","countries":["PH"],"reason":"Filipino dish; countries were empty"}
 {"id":"Q5186076","verdict":"keep"}
 {"id":"Q5186077","verdict":"keep"}
 {"id":"Q51882025","verdict":"keep","countries":["BR"],"reason":"Brazilian sandwich; countries were empty"}
 {"id":"Q5188689","verdict":"keep"}
-{"id":"Q5189136","verdict":"keep"}
+{"id":"Q5189136","verdict":"keep","reason":"Crow stew is a real preparation associated with American and Lithuanian crow-eating traditions.","countries":["US","LT"]}
 {"id":"Q5189826","verdict":"keep"}
 {"id":"Q5189867","verdict":"keep"}
-{"id":"Q5190246","verdict":"keep","reason":"Second opinion: pastry crust is prepared food; being a component does not make it a raw ingredient"}
-{"id":"Q5190257","verdict":"keep"}
+{"id":"Q5190246","verdict":"keep","reason":"Prepared pie crust is integral to British and American pie traditions.","countries":["GB","US"]}
+{"id":"Q5190257","verdict":"keep","reason":"Crustless sandwich bread also has a strong Japanese sandwich association.","countries":["GB","US","JP"]}
 {"id":"Q5191461","verdict":"keep","countries":["FR"],"reason":"French soup; countries were empty"}
 {"id":"Q5192112","verdict":"keep"}
 {"id":"Q5192125","verdict":"keep","countries":["US"],"reason":"Cuban-American sandwich; countries were empty"}
@@ -113,7 +113,7 @@
 {"id":"Q5192531","verdict":"keep"}
 {"id":"Q5194622","verdict":"keep"}
 {"id":"Q5194698","verdict":"remove","reason":"category (cured fish in general), not one dish"}
-{"id":"Q5194699","verdict":"keep"}
+{"id":"Q5194699","verdict":"keep","reason":"Cured salmon is a prepared food shared in Nordic and Russian traditions.","countries":["NO","SE","DK","FI","RU"]}
 {"id":"Q5194921","verdict":"keep","countries":["ES"],"reason":"Galician stew; countries were empty"}
 {"id":"Q5195226","verdict":"keep"}
 {"id":"Q5195230","verdict":"keep"}
@@ -123,15 +123,15 @@
 {"id":"Q519753","verdict":"keep"}
 {"id":"Q519761","verdict":"keep"}
 {"id":"Q5202905","verdict":"keep","countries":["PE"],"reason":"Peruvian chifa dish; countries were empty"}
-{"id":"Q5202956","verdict":"keep"}
-{"id":"Q5202957","verdict":"keep"}
+{"id":"Q5202956","verdict":"keep","reason":"The description explicitly places cơm hến in Huế, Vietnam.","countries":["VN"]}
+{"id":"Q5202957","verdict":"keep","reason":"The description identifies cơm nắm as Vietnamese rice food.","countries":["VN"]}
 {"id":"Q5202958","verdict":"keep"}
 {"id":"Q5202964","verdict":"keep"}
 {"id":"Q5202996","verdict":"keep"}
 {"id":"Q5203376","verdict":"keep"}
 {"id":"Q5203707","verdict":"keep","countries":["PE"],"reason":"Peruvian shrimp chowder; countries were empty"}
 {"id":"Q520598","verdict":"keep"}
-{"id":"Q5207448","verdict":"keep"}
+{"id":"Q5207448","verdict":"keep","reason":"Dabby-doughs is a recognizable British regional pastry name.","countries":["GB"]}
 {"id":"Q5207457","verdict":"keep"}
 {"id":"Q5208692","verdict":"keep"}
 {"id":"Q5208800","verdict":"keep"}
@@ -140,8 +140,8 @@
 {"id":"Q5211509","verdict":"keep"}
 {"id":"Q5216031","verdict":"keep"}
 {"id":"Q5227816","verdict":"keep","countries":["US"],"reason":"New Orleans dish; countries were empty"}
-{"id":"Q523224","verdict":"keep","reason":"Second opinion: cooked rice is prepared food, not a technique"}
-{"id":"Q5233479","verdict":"keep"}
+{"id":"Q523224","verdict":"keep","reason":"This is cooked rather than raw rice; the identified East and South Asian staple associations are reasonable.","countries":["CN","JP","KR","IN"]}
+{"id":"Q5233479","verdict":"keep","reason":"David Eyre’s pancake is the named American pancake associated with Hawaii.","countries":["US"]}
 {"id":"Q52376734","verdict":"keep"}
 {"id":"Q52378255","verdict":"keep"}
 {"id":"Q52406","verdict":"keep"}
@@ -151,11 +151,11 @@
 {"id":"Q5249501","verdict":"remove","reason":"practice (removing crab claws), not a dish"}
 {"id":"Q524966","verdict":"keep"}
 {"id":"Q5250962","verdict":"keep"}
-{"id":"Q5253615","verdict":"keep"}
-{"id":"Q5253850","verdict":"keep"}
+{"id":"Q5253615","verdict":"keep","reason":"Delele is a shared southern African okra preparation in the listed countries.","countries":["ZM","ZW","BW","MW"]}
+{"id":"Q5253850","verdict":"remove","reason":"Deli Choices denotes the McDonald’s sandwich product line."}
 {"id":"Q5254291","verdict":"keep","countries":["US"],"reason":"New York steak preparation; countries were empty"}
 {"id":"Q5254542","verdict":"keep"}
-{"id":"Q5254978","verdict":"keep"}
+{"id":"Q5254978","verdict":"keep","reason":"Mint here is prepared candy, with established British and American confectionery traditions.","countries":["GB","US"]}
 {"id":"Q525586","verdict":"remove","reason":"branded snack cake (Twinkie)"}
 {"id":"Q5257848","verdict":"keep","countries":["MY","ID","SG"],"reason":"Second opinion: the Johorean noodle soup is mee rebus; retain its shared Malaysia, Indonesia and Singapore countries.","name":"Mee rebus"}
 {"id":"Q5257857","verdict":"keep"}
@@ -166,7 +166,7 @@
 {"id":"Q5262436","verdict":"keep"}
 {"id":"Q5262528","verdict":"keep"}
 {"id":"Q5265045","verdict":"keep"}
-{"id":"Q5265049","verdict":"keep"}
+{"id":"Q5265049","verdict":"keep","reason":"The fruit, gelatin and cream dessert salad is characteristically American.","countries":["US"]}
 {"id":"Q5265837","verdict":"keep"}
 {"id":"Q5267251","verdict":"keep"}
 {"id":"Q5267360","verdict":"keep","countries":["US"],"reason":"American Southern dish; countries were empty"}
@@ -174,7 +174,7 @@
 {"id":"Q5267591","verdict":"keep","countries":["GB"],"reason":"English pie; countries were empty"}
 {"id":"Q5269476","verdict":"keep","countries":["IN"],"reason":"Gujarati bread; countries were empty"}
 {"id":"Q527321","verdict":"keep","countries":["ES"],"reason":"Catalan flatbread; countries were empty"}
-{"id":"Q5274381","verdict":"keep"}
+{"id":"Q5274381","verdict":"keep","reason":"Fazuelos belongs to these Sephardic Purim pastry traditions.","countries":["IL","TR","GR","MA"]}
 {"id":"Q527616","verdict":"keep"}
 {"id":"Q5276598","verdict":"keep"}
 {"id":"Q5277707","verdict":"keep"}
@@ -200,14 +200,14 @@
 {"id":"Q53014370","verdict":"keep","countries":["MA","IT","US","TR","GR"],"reason":"Second opinion: stuffed artichokes also have established Turkish and Greek preparations."}
 {"id":"Q5302283","verdict":"keep","countries":["CN"],"reason":"Wuhan breakfast dish; countries were empty"}
 {"id":"Q5304700","verdict":"keep"}
-{"id":"Q5305336","verdict":"keep"}
+{"id":"Q5305336","verdict":"keep","reason":"The Chinese dragon tiger phoenix meat dish is explicitly identified.","countries":["CN"]}
 {"id":"Q5305996","verdict":"keep"}
 {"id":"Q5309356","verdict":"keep","countries":["CN"],"reason":"Zhejiang dish; countries were empty"}
 {"id":"Q5309357","verdict":"keep"}
-{"id":"Q5309466","verdict":"keep"}
+{"id":"Q5309466","verdict":"remove","reason":"The supplied entry says raw whole-muscle cut and gives no curing or preparation: it cannot be reinterpreted as dry-cured ham."}
 {"id":"Q5311489","verdict":"keep"}
 {"id":"Q5311497","verdict":"keep"}
-{"id":"Q5311505","verdict":"keep"}
+{"id":"Q5311505","verdict":"keep","reason":"Duckanoo is Jamaican and also associated with Antigua and Barbuda Caribbean dumpling traditions.","countries":["JM","AG"]}
 {"id":"Q5317422","verdict":"keep"}
 {"id":"Q5317729","verdict":"keep"}
 {"id":"Q5319091","verdict":"keep","countries":["CA","US"],"reason":"Second opinion: Western sushi roll associated with Canada and the United States"}
@@ -219,7 +219,7 @@
 {"id":"Q5331853","verdict":"keep","countries":["CN","JP"],"reason":"Second opinion: chili shrimp has Chinese and Japanese chuka traditions."}
 {"id":"Q533210","verdict":"keep","countries":["DE","AT"],"reason":"Second opinion: Schupfnudeln belong to German and Austrian cuisines"}
 {"id":"Q5332994","verdict":"remove","reason":"branded chewing gum"}
-{"id":"Q5338306","verdict":"keep"}
+{"id":"Q5338306","verdict":"keep","reason":"Edinburgh rock is explicitly Scottish confectionery.","countries":["GB"]}
 {"id":"Q534023","verdict":"keep"}
 {"id":"Q534043","verdict":"keep"}
 {"id":"Q534126","verdict":"keep"}
@@ -229,15 +229,15 @@
 {"id":"Q5347835","verdict":"keep"}
 {"id":"Q5347858","verdict":"keep"}
 {"id":"Q5347939","verdict":"keep","countries":["US"],"reason":"American breakfast dish; countries were empty"}
-{"id":"Q5347941","verdict":"keep"}
+{"id":"Q5347941","verdict":"keep","reason":"Eggs and brains has recognized American Southern and British preparations.","countries":["US","GB"]}
 {"id":"Q53560342","verdict":"keep","countries":["FR"],"reason":"Provencal dish; countries were empty"}
 {"id":"Q53581962","verdict":"keep","countries":["DE","AT","CH"],"reason":"Second opinion: Käsesalat is shared across German, Austrian and Swiss cooking."}
 {"id":"Q5358451","verdict":"keep","countries":["KR"],"reason":"Korean confection; countries were empty"}
 {"id":"Q5359207","verdict":"keep"}
-{"id":"Q5360014","verdict":"keep"}
+{"id":"Q5360014","verdict":"keep","reason":"Fried tofu puffs are prepared foods shared by Chinese and Southeast Asian Chinese cooking.","countries":["CN","MY","SG"]}
 {"id":"Q5361233","verdict":"keep"}
 {"id":"Q5361273","verdict":"keep"}
-{"id":"Q53619707","verdict":"keep"}
+{"id":"Q53619707","verdict":"keep","reason":"The sfoglia ingredient identifies Italian egg pasta.","countries":["IT"]}
 {"id":"Q5363430","verdict":"keep"}
 {"id":"Q5364840","verdict":"keep"}
 {"id":"Q5365279","verdict":"keep"}
@@ -251,8 +251,8 @@
 {"id":"Q5368786","verdict":"keep","countries":["KR"],"reason":"Korean rice cake; countries were empty"}
 {"id":"Q5369082","verdict":"keep","countries":["KR"],"reason":"Korean fish preparation; countries were empty"}
 {"id":"Q5369089","verdict":"keep","countries":["KR"],"reason":"Korean duck stew; countries were empty"}
-{"id":"Q5369104","verdict":"keep"}
-{"id":"Q53698181","verdict":"keep"}
+{"id":"Q5369104","verdict":"keep","reason":"The description explicitly identifies Korean dried squid stir-fry.","countries":["KR"]}
+{"id":"Q53698181","verdict":"keep","reason":"The supplied description identifies Chinese grilled cold noodles.","countries":["CN"]}
 {"id":"Q5369868","verdict":"keep"}
 {"id":"Q5371164","verdict":"keep","countries":["HK"],"reason":"Hong Kong fried rice; countries were empty"}
 {"id":"Q5371177","verdict":"keep"}
@@ -264,16 +264,16 @@
 {"id":"Q5372471","verdict":"remove","reason":"category (Japanese Western-style confectionery), not one dish"}
 {"id":"Q5373825","verdict":"keep"}
 {"id":"Q5376675","verdict":"keep"}
-{"id":"Q5377413","verdict":"keep"}
+{"id":"Q5377413","verdict":"keep","reason":"Engagement Chicken is explicitly an American named recipe.","countries":["US"]}
 {"id":"Q53844640","verdict":"keep","countries":["NL"],"reason":"Dutch sandwich; countries were empty"}
 {"id":"Q5389704","verdict":"keep","countries":["CN"],"reason":"Yunnan rice cake; countries were empty"}
-{"id":"Q5390330","verdict":"keep"}
+{"id":"Q5390330","verdict":"keep","reason":"Tongue toast is a historic American and British open sandwich.","countries":["US","GB"]}
 {"id":"Q5390483","verdict":"keep"}
-{"id":"Q5391979","verdict":"keep"}
+{"id":"Q5391979","verdict":"keep","reason":"Gul-gukbap is explicitly Korean oyster rice soup.","countries":["KR"]}
 {"id":"Q53925330","verdict":"keep"}
 {"id":"Q53927047","verdict":"keep"}
 {"id":"Q539429","verdict":"keep"}
-{"id":"Q5395422","verdict":"keep"}
+{"id":"Q5395422","verdict":"keep","reason":"Decorated erotic sponge cakes are recognizable celebration cakes; the English-language baking associations are reasonable.","countries":["US","GB"]}
 {"id":"Q5396381","verdict":"keep"}
 {"id":"Q5400740","verdict":"keep"}
 {"id":"Q540171","verdict":"keep"}
@@ -295,6 +295,6 @@
 {"id":"Q542046","verdict":"keep"}
 {"id":"Q5420610","verdict":"keep","reason":"Second opinion: pottage is an identifiable traditional prepared stew"}
 {"id":"Q54222942","verdict":"keep","countries":["IT"],"reason":"Italian risotto; countries were empty"}
-{"id":"Q54223338","verdict":"keep"}
-{"id":"Q5422785","verdict":"keep"}
+{"id":"Q54223338","verdict":"keep","reason":"Salmon pizza includes the American smoked-salmon pizza style and Italian variants.","countries":["US","IT"]}
+{"id":"Q5422785","verdict":"remove","reason":"The entry describes unlaid eggs inside a newly slaughtered chicken and supplies no prepared dish or recipe."}
 {"id":"Q542283","verdict":"keep"}

@@ -5,7 +5,7 @@
 {"id":"Q7212986","verdict":"keep"}
 {"id":"Q7214426","verdict":"keep"}
 {"id":"Q7215544","verdict":"keep"}
-{"id":"Q7216960","verdict":"keep","reason":"Entry explicitly includes dishes cooked in clay pots as well as cookware; retain plausible prepared dish."}
+{"id":"Q7216960","verdict":"keep","reason":"Second check: Clay-pot shaguo dishes belong to Chinese cuisine.","countries":["CN"]}
 {"id":"Q7217773","verdict":"keep","countries":["RO"],"reason":"Romanian meat dish; countries were empty"}
 {"id":"Q722002","verdict":"keep"}
 {"id":"Q7220505","verdict":"keep","countries":["HK"],"reason":"Hong Kong beef dish; countries were empty"}
@@ -25,7 +25,7 @@
 {"id":"Q7230368","verdict":"keep"}
 {"id":"Q7231310","verdict":"keep"}
 {"id":"Q7232139","verdict":"keep"}
-{"id":"Q7232702","verdict":"keep"}
+{"id":"Q7232702","verdict":"keep","countries":["LK"],"reason":"Second check: Portuguese asado is a Sri Lankan dish; Portuguese influence alone does not establish it as commonly Portuguese cuisine."}
 {"id":"Q7232800","verdict":"keep"}
 {"id":"Q7234749","verdict":"keep","countries":["NO"],"reason":"Norwegian potato bread; countries were empty"}
 {"id":"Q7234785","verdict":"keep"}
@@ -47,7 +47,7 @@
 {"id":"Q7258891","verdict":"keep"}
 {"id":"Q7259285","verdict":"keep"}
 {"id":"Q7260511","verdict":"keep"}
-{"id":"Q7261610","verdict":"keep"}
+{"id":"Q7261610","verdict":"keep","countries":["PE"],"reason":"Second check: Purtumute is the Chachapoyas bean and maize dish of Peru."}
 {"id":"Q7261960","verdict":"keep","countries":["NP"],"reason":"Nepali candy; countries were empty"}
 {"id":"Q7262811","verdict":"keep"}
 {"id":"Q7264577","verdict":"keep"}
@@ -71,8 +71,8 @@
 {"id":"Q729292","verdict":"keep","name":"Pretuziano delle Colline Teramane","reason":"removed PDO designation from name"}
 {"id":"Q7295192","verdict":"keep"}
 {"id":"Q7296297","verdict":"keep"}
-{"id":"Q7299696","verdict":"keep"}
-{"id":"Q73021048","verdict":"keep"}
+{"id":"Q7299696","verdict":"keep","countries":["US"],"reason":"Second check: Razzleberry mixed-berry pie is an American pie."}
+{"id":"Q73021048","verdict":"remove","reason":"Second check: bread cubes are explicitly a food ingredient; the entry does not identify toasted or seasoned croutons or give a recipe."}
 {"id":"Q7304713","verdict":"keep"}
 {"id":"Q7305283","verdict":"keep"}
 {"id":"Q7305369","verdict":"keep"}
@@ -88,22 +88,22 @@
 {"id":"Q7318504","verdict":"keep"}
 {"id":"Q731971","verdict":"remove","reason":"drink (fruit brandy, pálinka)"}
 {"id":"Q732","verdict":"keep"}
-{"id":"Q7321536","verdict":"keep"}
+{"id":"Q7321536","verdict":"keep","countries":["GB"],"reason":"Second check: This English-named rhubarb tart follows the British rhubarb-tart tradition."}
 {"id":"Q7322232","verdict":"keep","countries":["NO"],"reason":"Norwegian meat roll; countries were empty"}
-{"id":"Q7323065","verdict":"keep"}
+{"id":"Q7323065","verdict":"keep","countries":["LK","IN","BD"],"reason":"Second check: Rice and curry is a common Sri Lankan and wider South Asian meal."}
 {"id":"Q7323066","verdict":"keep","countries":["JM"],"reason":"Jamaican-style rice and peas; countries were empty"}
-{"id":"Q7323073","verdict":"keep"}
-{"id":"Q7324076","verdict":"keep"}
+{"id":"Q7323073","verdict":"keep","countries":["JP","CN","TW","TH"],"reason":"Second check: Rice crackers have established Japanese, Chinese, Taiwanese and Thai traditions."}
+{"id":"Q7324076","verdict":"keep","countries":["MY","PH"],"reason":"Second check: Daen semur belongs to Bajau cooking across Sabah and the southern Philippines."}
 {"id":"Q733196","verdict":"keep"}
 {"id":"Q73337","verdict":"keep"}
 {"id":"Q7334640","verdict":"keep"}
 {"id":"Q733844","verdict":"keep"}
-{"id":"Q733855","verdict":"keep"}
+{"id":"Q733855","verdict":"keep","countries":["CN","BT","NP"],"reason":"Second check: Torma are Tibetan Buddhist flour-and-butter offerings shared across Tibet, Bhutan and Nepal."}
 {"id":"Q7339905","verdict":"keep","countries":["GB"],"reason":"Welsh lamb dish; countries were empty"}
-{"id":"Q7339907","verdict":"keep"}
-{"id":"Q7339908","verdict":"keep"}
+{"id":"Q7339907","verdict":"keep","countries":["CN","PH","ES","PT","CU"],"reason":"Second check: Whole roast pig has strong Chinese, Filipino, Iberian and Cuban associations."}
+{"id":"Q7339908","verdict":"keep","countries":["RS"],"reason":"Second check: The entry explicitly identifies Serbian roast piglet."}
 {"id":"Q734527","verdict":"keep"}
-{"id":"Q7346087","verdict":"keep"}
+{"id":"Q7346087","verdict":"keep","countries":["IN"],"reason":"Second check: Peshte zik is Ladakhi pastry from India, not Albanian."}
 {"id":"Q7348639","verdict":"keep"}
 {"id":"Q734978","verdict":"keep"}
 {"id":"Q7354260","verdict":"keep"}
@@ -125,8 +125,8 @@
 {"id":"Q7370537","verdict":"keep"}
 {"id":"Q7370546","verdict":"keep"}
 {"id":"Q7371070","verdict":"keep","countries":["MY"],"reason":"Penang laksa; countries were empty"}
-{"id":"Q73738953","verdict":"keep"}
-{"id":"Q73740055","verdict":"keep"}
+{"id":"Q73738953","verdict":"keep","countries":["US","GB","DE","NL"],"reason":"Second check: Apple fritters have established American, British, German and Dutch versions."}
+{"id":"Q73740055","verdict":"keep","countries":["NL"],"reason":"Second check: Appelbeignet is the Dutch apple fritter served at New Year."}
 {"id":"Q73740415","verdict":"keep","countries":["FR"],"reason":"French beignets aux pommes; countries were empty"}
 {"id":"Q73755","verdict":"keep"}
 {"id":"Q7375707","verdict":"keep","countries":["CN"],"reason":"Chinese pork dish; countries were empty"}
@@ -147,16 +147,16 @@
 {"id":"Q7395368","verdict":"keep","countries":["MY"],"reason":"Malay fried rice; countries were empty"}
 {"id":"Q7395374","verdict":"keep"}
 {"id":"Q7395806","verdict":"keep"}
-{"id":"Q7396316","verdict":"keep"}
+{"id":"Q7396316","verdict":"keep","countries":["IQ"],"reason":"Second check: Sabounee belongs to Iraqi filled-pasta cooking."}
 {"id":"Q7396619","verdict":"keep"}
 {"id":"Q7398299","verdict":"keep","countries":["KR"],"reason":"Korean salad; countries were empty"}
 {"id":"Q7399325","verdict":"keep"}
 {"id":"Q7402697","verdict":"keep","countries":["PK"],"reason":"Balochi/Pakistani dish; countries were empty"}
 {"id":"Q7404293","verdict":"keep"}
-{"id":"Q7405551","verdict":"keep"}
-{"id":"Q7405554","verdict":"keep"}
-{"id":"Q7405557","verdict":"keep"}
-{"id":"Q7405791","verdict":"keep"}
+{"id":"Q7405551","verdict":"keep","countries":["US","CA"],"reason":"Second check: Salmon burgers are associated with North American Pacific salmon cooking."}
+{"id":"Q7405554","verdict":"keep","countries":["CA"],"reason":"Second check: Salmon pie is an established French-Canadian savoury pie."}
+{"id":"Q7405557","verdict":"keep","countries":["FR"],"reason":"Second check: Salmon tartare follows French tartare preparation."}
+{"id":"Q7405791","verdict":"keep","countries":["US"],"reason":"Second check: Salt-rising bread is an Appalachian American bread."}
 {"id":"Q7406015","verdict":"keep"}
 {"id":"Q7409623","verdict":"keep"}
 {"id":"Q7413072","verdict":"keep"}
@@ -173,66 +173,66 @@
 {"id":"Q742186","verdict":"keep"}
 {"id":"Q742224","verdict":"keep"}
 {"id":"Q7423529","verdict":"keep"}
-{"id":"Q742385","verdict":"keep"}
+{"id":"Q742385","verdict":"keep","countries":["CH"],"reason":"Second check: White chocolate has an established Swiss confectionery association."}
 {"id":"Q7424615","verdict":"keep"}
 {"id":"Q7425852","verdict":"keep"}
 {"id":"Q7425966","verdict":"keep"}
 {"id":"Q7425996","verdict":"keep"}
 {"id":"Q7427591","verdict":"keep"}
-{"id":"Q7427595","verdict":"keep"}
-{"id":"Q7431773","verdict":"keep"}
-{"id":"Q7433929","verdict":"keep"}
+{"id":"Q7427595","verdict":"keep","countries":["GB","AU","NZ","US"],"reason":"Second check: Sausage sandwiches are established in British, Australian, New Zealand and American cooking."}
+{"id":"Q7431773","verdict":"keep","countries":["PL","DE","RU"],"reason":"Second check: Schmaltz herring belongs to Ashkenazi preserved-herring traditions of eastern and central Europe."}
+{"id":"Q7433929","verdict":"keep","countries":["ES"],"reason":"Second check: Carrilleras are Spanish braised cheeks."}
 {"id":"Q7434366","verdict":"keep"}
 {"id":"Q7435554","verdict":"keep"}
 {"id":"Q743714","verdict":"keep"}
 {"id":"Q7438301","verdict":"keep"}
 {"id":"Q7438660","verdict":"keep"}
 {"id":"Q7438806","verdict":"keep"}
-{"id":"Q7439103","verdict":"keep"}
-{"id":"Q7439403","verdict":"keep"}
+{"id":"Q7439103","verdict":"keep","countries":["GB","US"],"reason":"Second check: Screwball is a British and American frozen confection."}
+{"id":"Q7439403","verdict":"keep","countries":["GB"],"reason":"Second check: The entry identifies the West Riding of Yorkshire bread roll."}
 {"id":"Q7439696","verdict":"keep","countries":["ID"],"reason":"Indonesian soto; countries were empty"}
 {"id":"Q7439701","verdict":"keep"}
 {"id":"Q7440353","verdict":"keep"}
 {"id":"Q7440367","verdict":"keep","countries":["CN"],"reason":"Chinese seafood dish; countries were empty"}
 {"id":"Q7440625","verdict":"keep"}
 {"id":"Q7442044","verdict":"keep"}
-{"id":"Q7443933","verdict":"keep"}
+{"id":"Q7443933","verdict":"keep","countries":["MY"],"reason":"Second check: Kinoring bakas is a Sabah traditional soup."}
 {"id":"Q74441736","verdict":"keep"}
 {"id":"Q7446149","verdict":"keep"}
 {"id":"Q74462045","verdict":"keep"}
 {"id":"Q74465700","verdict":"keep"}
 {"id":"Q7447375","verdict":"keep"}
 {"id":"Q7448729","verdict":"keep"}
-{"id":"Q7448821","verdict":"keep"}
+{"id":"Q7448821","verdict":"keep","countries":["MK","BG","RS"],"reason":"Second check: Selsko meso is shared Balkan pork-and-mushroom stew."}
 {"id":"Q74495320","verdict":"keep"}
 {"id":"Q7450022","verdict":"keep"}
 {"id":"Q7452135","verdict":"keep"}
-{"id":"Q7456013","verdict":"keep"}
-{"id":"Q7456014","verdict":"keep"}
+{"id":"Q7456013","verdict":"keep","countries":["CN"],"reason":"Second check: Sesame seed cake is retained as an East Asian sesame confection, with Chinese association."}
+{"id":"Q7456014","verdict":"keep","countries":["US","CN"],"reason":"Second check: Sesame chicken is Chinese-American restaurant cooking."}
 {"id":"Q7457147","verdict":"keep"}
 {"id":"Q7458108","verdict":"keep"}
-{"id":"Q7458111","verdict":"keep"}
+{"id":"Q7458111","verdict":"keep","countries":["RU","IR","AZ"],"reason":"Second check: Sevruga caviar belongs to Caspian prepared-caviar traditions."}
 {"id":"Q7459736","verdict":"keep"}
-{"id":"Q7459894","verdict":"keep"}
+{"id":"Q7459894","verdict":"keep","countries":["CN","TW"],"reason":"Second check: Shacha beef belongs to Chinese and Taiwanese cooking."}
 {"id":"Q7462729","verdict":"keep"}
 {"id":"Q747119","verdict":"keep"}
 {"id":"Q747302","verdict":"keep"}
-{"id":"Q747457","verdict":"keep"}
+{"id":"Q747457","verdict":"keep","countries":["ES","PT","AR","CL","BO","PE","EC","CO","VE","PY","UY","MX","PH"],"reason":"Second check: Empanadas have established Iberian, Latin American and Filipino traditions."}
 {"id":"Q747543","verdict":"keep","countries":["ES"],"reason":"Spanish potato dish; countries were empty"}
 {"id":"Q7476075","verdict":"keep"}
-{"id":"Q74829570","verdict":"keep"}
+{"id":"Q74829570","verdict":"keep","countries":["SE","FR"],"reason":"Second check: The Swedish timbal is related to the French molded timbale preparation."}
 {"id":"Q7487184","verdict":"keep"}
 {"id":"Q7487537","verdict":"keep","countries":["IN","PK"],"reason":"South Asian kebab; countries were empty"}
 {"id":"Q7489821","verdict":"keep"}
-{"id":"Q7491078","verdict":"keep"}
+{"id":"Q7491078","verdict":"keep","countries":["CN","TW","JP","KR","PH","MY","ID","US"],"reason":"Second check: Shaved-ice desserts have established East and Southeast Asian and Hawaiian associations."}
 {"id":"Q7492817","verdict":"keep"}
 {"id":"Q749378","verdict":"keep"}
-{"id":"Q74957013","verdict":"keep"}
+{"id":"Q74957013","verdict":"keep","countries":["FR","IT"],"reason":"Second check: Chestnut soup has established French and Italian traditions."}
 {"id":"Q7496557","verdict":"keep","reason":"Shikashika is a prepared shaved-ice treat; ambiguous drink description does not justify removing this edible ice dessert."}
 {"id":"Q7498930","verdict":"keep"}
 {"id":"Q7504005","verdict":"keep","countries":["US"],"reason":"Chicago dish; countries were empty"}
 {"id":"Q7504007","verdict":"keep"}
-{"id":"Q7504010","verdict":"keep"}
+{"id":"Q7504010","verdict":"keep","countries":["CN","TH","VN"],"reason":"Second check: Shrimp balls belong to Chinese and Southeast Asian cooking."}
 {"id":"Q7504448","verdict":"keep"}
 {"id":"Q7505632","verdict":"keep"}
 {"id":"Q75110171","verdict":"remove","reason":"mythical food, not a real dish"}
@@ -242,7 +242,7 @@
 {"id":"Q752388","verdict":"keep"}
 {"id":"Q7524569","verdict":"keep"}
 {"id":"Q7525342","verdict":"keep"}
-{"id":"Q7530248","verdict":"keep"}
+{"id":"Q7530248","verdict":"keep","countries":["IN","PK","BD"],"reason":"Second check: Paya is a shared South Asian trotter soup or curry."}
 {"id":"Q7535269","verdict":"keep"}
 {"id":"Q7535893","verdict":"keep"}
 {"id":"Q7535940","verdict":"keep","countries":["IE"],"reason":"Irish stew; countries were empty"}
@@ -250,13 +250,13 @@
 {"id":"Q7540240","verdict":"keep"}
 {"id":"Q7541332","verdict":"keep"}
 {"id":"Q7541369","verdict":"keep","countries":["US"],"reason":"Colorado burger; countries were empty"}
-{"id":"Q7541951","verdict":"keep"}
+{"id":"Q7541951","verdict":"keep","countries":["GB"],"reason":"Second check: The named low-yeast Slow Bread is retained as an English-language bread preparation with British association."}
 {"id":"Q7542234","verdict":"keep"}
 {"id":"Q7545525","verdict":"keep"}
-{"id":"Q7545923","verdict":"keep"}
-{"id":"Q7546879","verdict":"keep"}
+{"id":"Q7545923","verdict":"keep","countries":["US"],"reason":"Second check: Savory smoked-salmon cheesecake is associated with American cheesecake adaptations."}
+{"id":"Q7546879","verdict":"keep","countries":["US"],"reason":"Second check: Snack cakes are an established American small-cake preparation."}
 {"id":"Q7547731","verdict":"keep"}
-{"id":"Q7547736","verdict":"keep"}
+{"id":"Q7547736","verdict":"keep","countries":["GB"],"reason":"Second check: Snickers pie is a British dessert recipe using the candy as an ingredient, not the packaged candy itself."}
 {"id":"Q7548366","verdict":"keep"}
 {"id":"Q7548429","verdict":"keep"}
 {"id":"Q755372","verdict":"keep","countries":["PL"],"reason":"Polish makowiec; countries were empty"}
@@ -271,7 +271,7 @@
 {"id":"Q7565043","verdict":"keep"}
 {"id":"Q7565044","verdict":"keep"}
 {"id":"Q7565048","verdict":"keep","countries":["US"],"reason":"Southern US bean dish; countries were empty"}
-{"id":"Q7565056","verdict":"keep"}
+{"id":"Q7565056","verdict":"keep","countries":["US"],"reason":"Second check: entry specifically identifies Italian-American soup; ancestral Italian influence does not establish a separate Italian national association."}
 {"id":"Q7565082","verdict":"keep"}
 {"id":"Q756800","verdict":"keep"}
 {"id":"Q7570025","verdict":"keep"}
@@ -282,11 +282,11 @@
 {"id":"Q7573059","verdict":"keep"}
 {"id":"Q75761914","verdict":"keep"}
 {"id":"Q7576924","verdict":"keep","countries":["GB","IE"],"reason":"Second opinion: spiced beef has Irish and British traditions"}
-{"id":"Q7576925","verdict":"keep"}
+{"id":"Q7576925","verdict":"keep","countries":["JM"],"reason":"Second check: Spiced bun is associated with Jamaican spiced fruit bun."}
 {"id":"Q7577066","verdict":"keep"}
-{"id":"Q7580785","verdict":"keep"}
+{"id":"Q7580785","verdict":"keep","countries":["FR"],"reason":"Second check: The spring-vegetable soup corresponds to French potage printanier-style cooking."}
 {"id":"Q7581885","verdict":"keep"}
-{"id":"Q7582255","verdict":"keep"}
+{"id":"Q7582255","verdict":"keep","countries":["MX"],"reason":"Second check: Squid cocktail belongs to Mexican chilled seafood-cocktail preparations."}
 {"id":"Q75842745","verdict":"keep","countries":["ES"],"reason":"Catalan cake; countries were empty"}
 {"id":"Q7587445","verdict":"keep","countries":["CA"],"reason":"French-Canadian taffy; countries were empty"}
 {"id":"Q7589550","verdict":"keep"}
@@ -294,7 +294,7 @@
 {"id":"Q7591284","verdict":"keep"}
 {"id":"Q759180","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
 {"id":"Q7597455","verdict":"keep","countries":["JM"],"reason":"Jamaican fritter; countries were empty"}
-{"id":"Q7601283","verdict":"keep"}
+{"id":"Q7601283","verdict":"keep","countries":["GB"],"reason":"Second check: The entry explicitly identifies British star-rock confectionery."}
 {"id":"Q7605234","verdict":"keep"}
 {"id":"Q7605240","verdict":"keep"}
 {"id":"Q7605242","verdict":"keep"}

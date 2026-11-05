@@ -5,18 +5,18 @@
 {"id":"Q890360","verdict":"keep"}
 {"id":"Q89042729","verdict":"keep"}
 {"id":"Q89096394","verdict":"keep"}
-{"id":"Q89133629","verdict":"keep"}
+{"id":"Q89133629","verdict":"keep","countries":["FR","DE"],"reason":"Second check: Hearth-baked bread has established French and German bread traditions."}
 {"id":"Q891358","verdict":"keep"}
-{"id":"Q891437","verdict":"keep"}
+{"id":"Q891437","verdict":"keep","countries":["DE"],"reason":"Second check: Bollenfleisch is a German lamb-and-onion dish."}
 {"id":"Q89189433","verdict":"keep"}
-{"id":"Q89194144","verdict":"keep"}
+{"id":"Q89194144","verdict":"keep","countries":["RE","FR"],"reason":"Second check: strawberry-guava jam is especially associated with Reunion; retain France and identify Reunion explicitly."}
 {"id":"Q89214317","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian dish"}
-{"id":"Q892249","verdict":"keep"}
+{"id":"Q892249","verdict":"keep","countries":["FR","DE"],"reason":"Second check: Macaire potatoes derive from French pommes Macaire and are established in German cooking."}
 {"id":"Q892899","verdict":"remove","reason":"chain-restaurant menu item (Jack in the Box)"}
 {"id":"Q892952","verdict":"keep"}
 {"id":"Q893306","verdict":"keep"}
 {"id":"Q893318","verdict":"keep"}
-{"id":"Q89366273","verdict":"keep"}
+{"id":"Q89366273","verdict":"keep","countries":["PL"],"reason":"Second check: Dereń kiszony is Polish pickled cornelian cherry."}
 {"id":"Q89370832","verdict":"keep"}
 {"id":"Q89402220","verdict":"keep"}
 {"id":"Q894045","verdict":"keep"}
@@ -34,32 +34,32 @@
 {"id":"Q8962920","verdict":"keep"}
 {"id":"Q8963686","verdict":"keep","countries":["SE"],"reason":"countries were empty; Swedish dish"}
 {"id":"Q896508","verdict":"keep"}
-{"id":"Q89677726","verdict":"keep"}
+{"id":"Q89677726","verdict":"keep","countries":["FR","GB"],"reason":"Second check: Raspberry tarts have established French and British pastry associations."}
 {"id":"Q897096","verdict":"keep","countries":["DE"],"reason":"countries were empty; Swabian dish"}
 {"id":"Q89741283","verdict":"keep"}
-{"id":"Q898835","verdict":"keep","reason":"Second opinion: Dutch-process cocoa is a manufactured cocoa preparation, not a plain raw ingredient"}
+{"id":"Q898835","verdict":"remove","reason":"Second check: Dutch-process cocoa describes alkalized cocoa powder and its processing, a baking ingredient without a dish recipe."}
 {"id":"Q89889766","verdict":"keep"}
 {"id":"Q899218","verdict":"keep"}
-{"id":"Q899561","verdict":"keep"}
+{"id":"Q899561","verdict":"keep","countries":["GB"],"reason":"Second check: The English-named roast corresponds to the established British roast-meat meal."}
 {"id":"Q8998667","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese candy"}
 {"id":"Q899882","verdict":"keep"}
 {"id":"Q89998432","verdict":"remove","reason":"category of confections (Christmas sweets), not one dish"}
-{"id":"Q89999446","verdict":"keep"}
-{"id":"Q89999451","verdict":"keep"}
-{"id":"Q89999455","verdict":"keep"}
-{"id":"Q89999458","verdict":"keep"}
-{"id":"Q89999656","verdict":"keep"}
-{"id":"Q89999678","verdict":"keep"}
-{"id":"Q89999771","verdict":"keep"}
-{"id":"Q89999776","verdict":"keep"}
-{"id":"Q89999795","verdict":"keep"}
-{"id":"Q89999799","verdict":"keep"}
-{"id":"Q89999884","verdict":"keep"}
-{"id":"Q89999895","verdict":"keep"}
-{"id":"Q90000103","verdict":"keep"}
-{"id":"Q90000772","verdict":"keep"}
-{"id":"Q90000932","verdict":"keep"}
-{"id":"Q90001011","verdict":"keep"}
+{"id":"Q89999446","verdict":"keep","countries":["FR","GB"],"reason":"Second check: Fruit jam has established French and British preserving traditions."}
+{"id":"Q89999451","verdict":"keep","countries":["PT"],"reason":"Second check: Vegetable jams have an established Portuguese sweet-preserve tradition."}
+{"id":"Q89999455","verdict":"keep","countries":["FR","AT"],"reason":"Second check: Apricot jam has established French preserving and Austrian pastry associations."}
+{"id":"Q89999458","verdict":"keep","countries":["SE","FI"],"reason":"Second check: Bilberry jam belongs to Nordic berry preserving traditions."}
+{"id":"Q89999656","verdict":"keep","countries":["CN"],"reason":"Second check: Lychee jam is assigned to Chinese lychee-fruit preserving cuisine."}
+{"id":"Q89999678","verdict":"keep","countries":["IN"],"reason":"Second check: Mango jam has an established Indian preserving association."}
+{"id":"Q89999771","verdict":"keep","countries":["FR","PT"],"reason":"Second check: Melon jam has French and Portuguese preserving associations."}
+{"id":"Q89999776","verdict":"keep","countries":["FR"],"reason":"Second check: Mirabelle jam is strongly associated with Lorraine in France."}
+{"id":"Q89999795","verdict":"keep","countries":["GB"],"reason":"Second check: The generic English mixed-berry jam is assigned to British preserving cuisine."}
+{"id":"Q89999799","verdict":"keep","countries":["GB"],"reason":"Second check: The generic English mixed-fruit jam is assigned to British preserving cuisine."}
+{"id":"Q89999884","verdict":"keep","countries":["PT","BR"],"reason":"Second check: Pumpkin jam has established Portuguese and Brazilian traditions."}
+{"id":"Q89999895","verdict":"keep","countries":["GB"],"reason":"Second check: Rhubarb jam is established in British preserving cuisine."}
+{"id":"Q90000103","verdict":"keep","countries":["IN"],"reason":"Second check: Tropical-fruit jam is retained with an Indian tropical-fruit preserving association."}
+{"id":"Q90000772","verdict":"keep","countries":["US"],"reason":"Second check: Grape jam is established in American preserving cuisine."}
+{"id":"Q90000932","verdict":"keep","countries":["SE","FI"],"reason":"Second check: Berry jam has established Swedish and Finnish traditions."}
+{"id":"Q90001011","verdict":"keep","countries":["FR"],"reason":"Second check: Clementine jam is associated with French citrus preserving cuisine."}
 {"id":"Q9002202","verdict":"keep"}
 {"id":"Q900440","verdict":"keep"}
 {"id":"Q9012336","verdict":"keep"}
@@ -74,21 +74,21 @@
 {"id":"Q90331615","verdict":"keep"}
 {"id":"Q9033787","verdict":"keep","countries":["MX"],"reason":"countries were empty; described as Mexican dish"}
 {"id":"Q9034677","verdict":"keep"}
-{"id":"Q903997","verdict":"keep","countries":["TR"],"reason":"country was EG; simit is Turkish"}
-{"id":"Q904018","verdict":"keep"}
-{"id":"Q90410085","verdict":"keep"}
-{"id":"Q90410092","verdict":"keep"}
-{"id":"Q90410134","verdict":"keep"}
+{"id":"Q903997","verdict":"keep","countries":["TR","GR","CY","BG"],"reason":"Simit is the shared sesame-ring bread of Turkey, Greece, Cyprus and Bulgaria; Egypt in the imported metadata is incorrect."}
+{"id":"Q904018","verdict":"keep","countries":["GB","FR"],"reason":"Second check: Frumenty belongs to medieval British and French grain-porridge traditions."}
+{"id":"Q90410085","verdict":"keep","countries":["US","GB","DE","IT"],"reason":"Second check: gluten-free bread is established in American, British, German and Italian dietary baking, not uniquely American."}
+{"id":"Q90410092","verdict":"keep","countries":["US","GB","DE","IT"],"reason":"Second check: sliced gluten-free bread is established in American, British, German and Italian dietary baking."}
+{"id":"Q90410134","verdict":"keep","countries":["FR"],"reason":"Second check: Part-baked bread is assigned to French bread preparation."}
 {"id":"Q904155","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean dish"}
 {"id":"Q90416374","verdict":"keep"}
 {"id":"Q904625","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean dish"}
 {"id":"Q9046749","verdict":"keep"}
-{"id":"Q9049129","verdict":"keep"}
+{"id":"Q9049129","verdict":"keep","countries":["PT"],"reason":"Second check: Negalho is a Portuguese offal preparation."}
 {"id":"Q905135","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean dish"}
-{"id":"Q9052023","verdict":"keep"}
+{"id":"Q9052023","verdict":"keep","countries":["ES"],"reason":"Second check: Oliaigu is the Menorcan soup of Spain."}
 {"id":"Q905204","verdict":"keep"}
 {"id":"Q9052149","verdict":"keep","countries":["ES"],"reason":"countries were empty; Almeria cuisine"}
-{"id":"Q9053","verdict":"keep"}
+{"id":"Q9053","verdict":"keep","countries":["GB"],"reason":"Second check: Pudding is strongly associated with British savory and sweet cooking."}
 {"id":"Q9054806","verdict":"keep"}
 {"id":"Q9054907","verdict":"keep"}
 {"id":"Q9054939","verdict":"keep"}
@@ -96,7 +96,7 @@
 {"id":"Q9055174","verdict":"keep","countries":["PT"],"reason":"countries were empty; Portuguese dish"}
 {"id":"Q905527","verdict":"keep"}
 {"id":"Q9056687","verdict":"keep"}
-{"id":"Q9056689","verdict":"keep"}
+{"id":"Q9056689","verdict":"keep","countries":["IT"],"reason":"Second check: Alphabet pasta is an Italian shaped-pasta preparation."}
 {"id":"Q9056693","verdict":"keep"}
 {"id":"Q9056699","verdict":"keep"}
 {"id":"Q9058863","verdict":"keep"}
@@ -109,7 +109,7 @@
 {"id":"Q907723","verdict":"keep","countries":["DE"],"reason":"countries were empty; Bremen dish"}
 {"id":"Q9077681","verdict":"keep"}
 {"id":"Q907849","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean dish"}
-{"id":"Q9078985","verdict":"keep"}
+{"id":"Q9078985","verdict":"keep","countries":["ES"],"reason":"Second check: Sopa boba is the Spanish humble soup made from leftovers."}
 {"id":"Q9078988","verdict":"keep"}
 {"id":"Q9078990","verdict":"keep","countries":["ES"],"reason":"countries were empty; Majorcan soup"}
 {"id":"Q9079488","verdict":"keep"}
@@ -130,7 +130,7 @@
 {"id":"Q910515","verdict":"keep","countries":["MO"],"reason":"countries were empty; described as Macanese dish"}
 {"id":"Q910996","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean dish"}
 {"id":"Q911117","verdict":"keep"}
-{"id":"Q91159287","verdict":"keep"}
+{"id":"Q91159287","verdict":"keep","countries":["FR","RU"],"reason":"Second check: Pancake layer cakes have established French crêpe-cake and Russian blini-cake associations."}
 {"id":"Q91227121","verdict":"keep"}
 {"id":"Q91294657","verdict":"keep"}
 {"id":"Q913411","verdict":"keep","countries":["NO"],"reason":"countries were empty; Norwegian dish"}
@@ -139,13 +139,13 @@
 {"id":"Q9166037","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish dish"}
 {"id":"Q9166039","verdict":"keep"}
 {"id":"Q917043","verdict":"keep"}
-{"id":"Q9174337","verdict":"keep"}
+{"id":"Q9174337","verdict":"keep","countries":["LT","PL"],"reason":"Second check: Samogitian potato blini are Lithuanian, also established in Polish cooking."}
 {"id":"Q917646","verdict":"keep"}
 {"id":"Q9180753","verdict":"keep"}
 {"id":"Q918148","verdict":"keep"}
 {"id":"Q918216","verdict":"keep"}
 {"id":"Q9182865","verdict":"keep"}
-{"id":"Q9185291","verdict":"keep"}
+{"id":"Q9185291","verdict":"keep","countries":["DO","CU","HT","VE","CO"],"reason":"Second check: Cazabe cassava flatbread has established Caribbean and northern South American traditions."}
 {"id":"Q9189882","verdict":"keep"}
 {"id":"Q91903691","verdict":"keep"}
 {"id":"Q91908928","verdict":"keep"}
@@ -153,7 +153,7 @@
 {"id":"Q92054361","verdict":"keep","countries":["FR"],"reason":"countries were empty; Fecamp salad"}
 {"id":"Q920940","verdict":"keep"}
 {"id":"Q921706","verdict":"keep"}
-{"id":"Q92180702","verdict":"keep"}
+{"id":"Q92180702","verdict":"keep","countries":["RU","GE"],"reason":"Second check: Fyddžyn belongs to Ossetian meat-pie traditions across Russia and Georgia."}
 {"id":"Q922429","verdict":"keep"}
 {"id":"Q922721","verdict":"keep","countries":["NL"],"reason":"countries were empty; described as Dutch bread"}
 {"id":"Q92298243","verdict":"keep","countries":["PE"],"reason":"countries were empty; Peruvian biscuit"}
@@ -161,19 +161,19 @@
 {"id":"Q923490","verdict":"keep"}
 {"id":"Q923729","verdict":"keep"}
 {"id":"Q924689","verdict":"keep"}
-{"id":"Q9249339","verdict":"keep"}
+{"id":"Q9249339","verdict":"remove","reason":"Second check: Dębniak is a Polish oak-associated mead, a drink rather than a dish."}
 {"id":"Q925359","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese lou mei dish"}
 {"id":"Q925398","verdict":"keep"}
-{"id":"Q92570320","verdict":"keep"}
+{"id":"Q92570320","verdict":"remove","reason":"Second check: The entry describes raw monofloral bee honey, with no recipe or prepared dish."}
 {"id":"Q9260110","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish potato dish"}
-{"id":"Q926500","verdict":"keep"}
+{"id":"Q926500","verdict":"keep","countries":["GR","TR","CN","IN"],"reason":"Second check: Sesame-and-honey candy has established eastern Mediterranean, Chinese and Indian traditions."}
 {"id":"Q926532","verdict":"keep"}
-{"id":"Q9266","verdict":"keep"}
+{"id":"Q9266","verdict":"keep","countries":["FR","IT","GR"],"reason":"Second check: Salad has established French, Italian and Greek prepared-food traditions."}
 {"id":"Q92743758","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese senbei"}
 {"id":"Q927451","verdict":"keep"}
-{"id":"Q927904","verdict":"keep"}
+{"id":"Q927904","verdict":"keep","countries":["GB"],"reason":"Second check: Toffee is an established British confection."}
 {"id":"Q927982","verdict":"keep"}
-{"id":"Q9282304","verdict":"keep"}
+{"id":"Q9282304","verdict":"keep","countries":["PL","RU","LT"],"reason":"Second check: Pickled mushrooms have strong Polish, Russian and Lithuanian associations."}
 {"id":"Q9284035","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish potato dish"}
 {"id":"Q9287233","verdict":"keep"}
 {"id":"Q929364","verdict":"keep"}
@@ -182,9 +182,9 @@
 {"id":"Q930514","verdict":"keep"}
 {"id":"Q930630","verdict":"keep"}
 {"id":"Q93126485","verdict":"keep"}
-{"id":"Q931367","verdict":"keep"}
+{"id":"Q931367","verdict":"keep","countries":["DE","US"],"reason":"Second check: Fruit butter is established in German and American preserving traditions."}
 {"id":"Q93145436","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian bread"}
-{"id":"Q93149118","verdict":"keep"}
+{"id":"Q93149118","verdict":"keep","countries":["US","GB"],"reason":"Second check: Dinner rolls are established American and British breads."}
 {"id":"Q9324242","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish Christmas dish"}
 {"id":"Q93258309","verdict":"keep"}
 {"id":"Q933433","verdict":"keep","countries":["GR","TR","AL"],"reason":"Second opinion: grilled offal kokoretsi has Greek, Turkish and Albanian associations"}
@@ -199,26 +199,26 @@
 {"id":"Q9356605","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese sushi"}
 {"id":"Q935807","verdict":"keep"}
 {"id":"Q935937","verdict":"keep"}
-{"id":"Q9361623","verdict":"keep"}
+{"id":"Q9361623","verdict":"keep","countries":["IT"],"reason":"Second check: Tripolini is Italian shaped pasta."}
 {"id":"Q9362605","verdict":"keep"}
 {"id":"Q936620","verdict":"keep"}
 {"id":"Q9366979","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese sushi"}
-{"id":"Q937013","verdict":"keep"}
+{"id":"Q937013","verdict":"remove","reason":"Second check: Bouillon cube is an industrial packaged stock product rather than a distinct prepared dish."}
 {"id":"Q93718042","verdict":"keep"}
 {"id":"Q93725616","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian dish"}
 {"id":"Q9373906","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish Christmas Eve soup"}
 {"id":"Q937960","verdict":"keep"}
 {"id":"Q938300","verdict":"keep"}
 {"id":"Q938386","verdict":"keep"}
-{"id":"Q9384666","verdict":"keep"}
+{"id":"Q9384666","verdict":"keep","countries":["CN"],"reason":"Second check: Chinese wanzi (丸子) is a recognized prepared ball-food dish family, analogous to meatballs; ingredient variants do not alone make it a non-dish."}
 {"id":"Q9384742","verdict":"keep"}
 {"id":"Q938506","verdict":"keep"}
 {"id":"Q9386405","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish soup"}
-{"id":"Q938682","verdict":"keep"}
+{"id":"Q938682","verdict":"keep","countries":["ES","AR","UY","PE","CL","BO","EC","CO"],"reason":"Second check: Alfajores have established Spanish and Latin American confectionery traditions."}
 {"id":"Q9391156","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish potato dish"}
 {"id":"Q9392144","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish soup"}
 {"id":"Q9392148","verdict":"remove","reason":"category term for soup in Japanese cuisine (shirumono), not one dish"}
-{"id":"Q9394546","verdict":"keep"}
+{"id":"Q9394546","verdict":"remove","reason":"Second check: Beef uterus is described only as raw offal, with no recipe or preparation."}
 {"id":"Q9394846","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish potato dish"}
 {"id":"Q9396921","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish dish"}
 {"id":"Q939735","verdict":"keep"}
@@ -227,7 +227,7 @@
 {"id":"Q941004","verdict":"keep"}
 {"id":"Q941068","verdict":"keep"}
 {"id":"Q941101","verdict":"keep"}
-{"id":"Q941518","verdict":"keep"}
+{"id":"Q941518","verdict":"keep","countries":["GB","FR","IT"],"reason":"Second check: Comfits belong to British, French and Italian sugar-coated confectionery traditions."}
 {"id":"Q94199292","verdict":"remove","reason":"restaurant-specific menu item (Royal Street Bananas Foster crepe)"}
 {"id":"Q94199914","verdict":"keep"}
 {"id":"Q94200211","verdict":"keep"}
@@ -237,31 +237,31 @@
 {"id":"Q94205988","verdict":"keep"}
 {"id":"Q94207661","verdict":"keep"}
 {"id":"Q94208532","verdict":"keep"}
-{"id":"Q94218682","verdict":"keep"}
-{"id":"Q94263420","verdict":"keep"}
+{"id":"Q94218682","verdict":"keep","countries":["US"],"reason":"Second check: Vegan gumbo is a Louisiana American adaptation of gumbo."}
+{"id":"Q94263420","verdict":"keep","countries":["FI","SE"],"reason":"Second check: Straw bread belongs to Nordic famine-bread traditions."}
 {"id":"Q94279818","verdict":"keep"}
 {"id":"Q94328264","verdict":"remove","reason":"drink (sweet potato shochu liquor)"}
 {"id":"Q94342530","verdict":"keep"}
 {"id":"Q94347107","verdict":"keep","countries":["ZA"],"reason":"countries were empty; described as South African food"}
-{"id":"Q943696","verdict":"keep"}
+{"id":"Q943696","verdict":"keep","countries":["CN","NP","IN"],"reason":"Second check: Thenthuk is Tibetan hand-pulled noodle soup shared with Himalayan Nepal and India."}
 {"id":"Q94449001","verdict":"keep"}
 {"id":"Q945096","verdict":"keep","countries":["BA","RS","HR","ME","MK","SI"],"reason":"Ćevapi has shared Bosnian, Serbian, Croatian, Montenegrin, Macedonian and Slovenian culinary traditions."}
 {"id":"Q94524005","verdict":"keep"}
 {"id":"Q94531971","verdict":"keep"}
-{"id":"Q945475","verdict":"keep"}
+{"id":"Q945475","verdict":"keep","countries":["NL","US","GB"],"reason":"Second check: Coleslaw has Dutch roots and established American and British associations."}
 {"id":"Q945669","verdict":"keep"}
-{"id":"Q94642761","verdict":"keep"}
+{"id":"Q94642761","verdict":"keep","countries":["US","MX"],"reason":"Second check: Corn salads have established American and Mexican associations."}
 {"id":"Q94642789","verdict":"keep"}
 {"id":"Q94702029","verdict":"keep"}
 {"id":"Q94719064","verdict":"keep"}
-{"id":"Q94835","verdict":"keep"}
+{"id":"Q94835","verdict":"keep","countries":["MY","SG","ID","PH"],"reason":"Second check: Coconut jam has established Malaysian, Singaporean, Indonesian and Filipino traditions."}
 {"id":"Q948460","verdict":"keep"}
 {"id":"Q948994","verdict":"keep"}
 {"id":"Q94928110","verdict":"keep"}
 {"id":"Q94968509","verdict":"keep"}
-{"id":"Q94970885","verdict":"keep"}
+{"id":"Q94970885","verdict":"keep","countries":["SA"],"reason":"Second check: Dibyaza is a Hejazi Saudi dried-fruit dessert."}
 {"id":"Q95000248","verdict":"remove","reason":"branded packaged product (Mazapan de la Rosa)"}
-{"id":"Q950470","verdict":"keep"}
+{"id":"Q950470","verdict":"keep","countries":["IT","ES","PT"],"reason":"Second check: Garum belongs to ancient Roman and Iberian fermented-fish sauce traditions."}
 {"id":"Q951187","verdict":"keep"}
 {"id":"Q951361","verdict":"keep"}
 {"id":"Q951525","verdict":"keep"}
@@ -271,13 +271,13 @@
 {"id":"Q952366","verdict":"keep"}
 {"id":"Q953065","verdict":"keep"}
 {"id":"Q953395","verdict":"keep"}
-{"id":"Q9534887","verdict":"keep"}
+{"id":"Q9534887","verdict":"keep","countries":["TW"],"reason":"Second check: 卜鴨肉 is a Taiwanese duck preparation."}
 {"id":"Q954266","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean rice cake"}
 {"id":"Q95433527","verdict":"keep","countries":["SK","CZ"],"reason":"countries were empty; Slovak and Czech dessert"}
-{"id":"Q954627","verdict":"keep"}
-{"id":"Q955779","verdict":"keep"}
+{"id":"Q954627","verdict":"keep","countries":["NL","ID","ZA"],"reason":"Second check: The description explicitly identifies Dutch, Indonesian and South African pancakes."}
+{"id":"Q955779","verdict":"keep","countries":["DE","AT"],"reason":"Second check: Krapfen are established German and Austrian fried pastries."}
 {"id":"Q956024","verdict":"keep"}
-{"id":"Q9560748","verdict":"keep"}
+{"id":"Q9560748","verdict":"keep","countries":["BR"],"reason":"Second check: Aberém is an Afro-Brazilian maize preparation."}
 {"id":"Q956379","verdict":"keep"}
 {"id":"Q95639929","verdict":"keep"}
 {"id":"Q956595","verdict":"keep"}
@@ -285,7 +285,7 @@
 {"id":"Q95692894","verdict":"keep"}
 {"id":"Q9576217","verdict":"keep"}
 {"id":"Q95799197","verdict":"remove","reason":"fruit cultivar (melon variety), not a dish"}
-{"id":"Q9580084","verdict":"keep"}
+{"id":"Q9580084","verdict":"keep","countries":["IN","PT"],"reason":"Second check: The entry explicitly identifies Indo-Portuguese achar."}
 {"id":"Q958759","verdict":"keep"}
 {"id":"Q959390","verdict":"remove","reason":"religious practice (sharing consecrated bread), not a dish"}
 {"id":"Q95950155","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese roasted sweet potato"}
@@ -293,8 +293,8 @@
 {"id":"Q95974446","verdict":"keep"}
 {"id":"Q95974685","verdict":"remove","reason":"restaurant-specific menu item (Mar-a-Lago turkey burger)"}
 {"id":"Q95974737","verdict":"keep"}
-{"id":"Q95974747","verdict":"keep"}
-{"id":"Q95980535","verdict":"keep"}
+{"id":"Q95974747","verdict":"keep","countries":["US","CA"],"reason":"Second check: Turkey soup is established in North American leftover-turkey cooking."}
+{"id":"Q95980535","verdict":"remove","reason":"Second check: Muakis identifies a named commercial chocolate farton product rather than an unbranded dish."}
 {"id":"Q95985516","verdict":"keep"}
 {"id":"Q95990169","verdict":"keep"}
-{"id":"Q95994107","verdict":"keep"}
+{"id":"Q95994107","verdict":"keep","countries":["DE","AT"],"reason":"Second check: Nut torte has established German and Austrian baking associations."}

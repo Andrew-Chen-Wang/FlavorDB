@@ -8,7 +8,7 @@
 {"id":"Q837480","verdict":"keep"}
 {"id":"Q837620","verdict":"keep"}
 {"id":"Q837647","verdict":"keep"}
-{"id":"Q83788660","verdict":"keep"}
+{"id":"Q83788660","verdict":"keep","countries":["RU"],"reason":"Second check: Esperanto rusa patkuko means Russian pancake; the entry identifies blini."}
 {"id":"Q838462","verdict":"keep","countries":["MO"],"reason":"countries were empty; Macanese dish"}
 {"id":"Q839910","verdict":"keep"}
 {"id":"Q840448","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese noodles"}
@@ -27,25 +27,25 @@
 {"id":"Q844314","verdict":"remove","reason":"category (siu mei, Cantonese roast meats), not one dish"}
 {"id":"Q844466","verdict":"keep"}
 {"id":"Q84457858","verdict":"keep"}
-{"id":"Q84458251","verdict":"keep"}
+{"id":"Q84458251","verdict":"keep","countries":["IT","US"],"reason":"Second check: Sheet-pan pizza has established Italian and Italian-American forms."}
 {"id":"Q84509996","verdict":"keep"}
 {"id":"Q845361","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean dessert"}
 {"id":"Q845367","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean dish"}
 {"id":"Q845376","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean-Chinese noodle dish"}
-{"id":"Q84561780","verdict":"keep"}
+{"id":"Q84561780","verdict":"keep","countries":["JP"],"reason":"Second check: Azuki bean ice cream is an established Japanese ice-cream flavor."}
 {"id":"Q84561781","verdict":"remove","reason":"category (azuki bean based food), not one dish"}
-{"id":"Q84561796","verdict":"keep"}
+{"id":"Q84561796","verdict":"keep","countries":["GB"],"reason":"Second check: This English-named blackberry ice cream follows British berry-dessert cooking."}
 {"id":"Q84564532","verdict":"keep"}
-{"id":"Q84573706","verdict":"keep"}
-{"id":"Q84573720","verdict":"keep"}
+{"id":"Q84573706","verdict":"keep","countries":["US"],"reason":"Second check: Blueberry ice cream has an established American berry-dessert association."}
+{"id":"Q84573720","verdict":"keep","countries":["FR","US"],"reason":"Second check: Caramel ice cream has established French and American associations."}
 {"id":"Q84578333","verdict":"keep"}
 {"id":"Q8459791","verdict":"keep"}
-{"id":"Q84598217","verdict":"keep"}
+{"id":"Q84598217","verdict":"keep","countries":["US","MX"],"reason":"Second check: Chili burritos belong to Mexican-American border cooking."}
 {"id":"Q84602282","verdict":"keep"}
 {"id":"Q846310","verdict":"keep"}
 {"id":"Q846581","verdict":"keep"}
 {"id":"Q846849","verdict":"keep"}
-{"id":"Q847245","verdict":"keep"}
+{"id":"Q847245","verdict":"keep","countries":["KR"],"reason":"Second check: Hobak-juk is explicitly Korean pumpkin porridge."}
 {"id":"Q84725313","verdict":"remove","reason":"carrot plant variety, not a dish"}
 {"id":"Q84761085","verdict":"keep"}
 {"id":"Q847652","verdict":"keep"}
@@ -54,7 +54,7 @@
 {"id":"Q84871014","verdict":"keep"}
 {"id":"Q848957","verdict":"keep"}
 {"id":"Q849058","verdict":"keep"}
-{"id":"Q84955182","verdict":"keep"}
+{"id":"Q84955182","verdict":"keep","countries":["PE"],"reason":"Second check: Timpusca is an Arequipa soup of Peru."}
 {"id":"Q849816","verdict":"keep"}
 {"id":"Q851245","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian stew"}
 {"id":"Q851714","verdict":"keep"}
@@ -69,7 +69,7 @@
 {"id":"Q855130","verdict":"keep"}
 {"id":"Q855373","verdict":"keep"}
 {"id":"Q855481","verdict":"keep"}
-{"id":"Q855956","verdict":"keep"}
+{"id":"Q855956","verdict":"keep","countries":["IE","DE","US"],"reason":"Second check: Potato bread has established Irish, German and American traditions."}
 {"id":"Q856034","verdict":"keep","countries":["FR","DE"],"reason":"Second opinion: Bibeleskaes is associated with Alsace and Alemannic German cooking, not Luxembourg alone"}
 {"id":"Q85630768","verdict":"keep"}
 {"id":"Q856330","verdict":"keep"}
@@ -77,12 +77,12 @@
 {"id":"Q856899","verdict":"keep"}
 {"id":"Q85735249","verdict":"keep"}
 {"id":"Q85739611","verdict":"keep"}
-{"id":"Q85742197","verdict":"keep"}
+{"id":"Q85742197","verdict":"keep","countries":["TR","GR","BG"],"reason":"Second check: Apio belongs to Balkan Sephardic celery-root cooking, especially Turkey, Greece and Bulgaria."}
 {"id":"Q85743298","verdict":"keep","countries":["IL"],"reason":"countries were empty; Israelite origin"}
 {"id":"Q85744456","verdict":"keep"}
 {"id":"Q85745394","verdict":"keep","countries":["US"],"reason":"countries were empty; American pasta dish"}
 {"id":"Q85745501","verdict":"keep","countries":["FR"],"reason":"countries were empty; French pastry"}
-{"id":"Q85747391","verdict":"keep"}
+{"id":"Q85747391","verdict":"keep","countries":["ES","TR","GR"],"reason":"Second check: Sephardic biscochos retain Spanish and eastern Mediterranean diaspora associations."}
 {"id":"Q85748333","verdict":"keep"}
 {"id":"Q85748980","verdict":"keep"}
 {"id":"Q85749574","verdict":"keep"}
@@ -91,7 +91,7 @@
 {"id":"Q85753239","verdict":"keep"}
 {"id":"Q85754826","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean food truck dish"}
 {"id":"Q85755689","verdict":"keep"}
-{"id":"Q85757492","verdict":"keep"}
+{"id":"Q85757492","verdict":"keep","countries":["US"],"reason":"Second check: Doughnut sandwiches are an American sandwich adaptation."}
 {"id":"Q85758017","verdict":"keep","countries":["IL"],"reason":"countries were empty; Jewish holiday cookie"}
 {"id":"Q85760630","verdict":"keep"}
 {"id":"Q85762176","verdict":"keep"}
@@ -107,7 +107,7 @@
 {"id":"Q85775540","verdict":"keep"}
 {"id":"Q85784501","verdict":"keep"}
 {"id":"Q85787805","verdict":"keep"}
-{"id":"Q85789410","verdict":"keep"}
+{"id":"Q85789410","verdict":"keep","countries":["PL","RU"],"reason":"Second check: Noodle latkes belong to eastern European Ashkenazi cooking."}
 {"id":"Q85789437","verdict":"keep"}
 {"id":"Q85790786","verdict":"keep"}
 {"id":"Q85792108","verdict":"remove","reason":"spice (PDO paprika), ingredient not a dish"}
@@ -117,12 +117,12 @@
 {"id":"Q85800897","verdict":"keep"}
 {"id":"Q85801047","verdict":"keep"}
 {"id":"Q85801250","verdict":"keep"}
-{"id":"Q85801694","verdict":"keep"}
-{"id":"Q85802587","verdict":"keep"}
+{"id":"Q85801694","verdict":"keep","countries":["US"],"reason":"Second check: Smoked brisket is an established American barbecue dish."}
+{"id":"Q85802587","verdict":"keep","countries":["US"],"reason":"Second check: Spicy chicken sandwiches are associated with American fried-chicken sandwich cooking."}
 {"id":"Q85810239","verdict":"keep"}
 {"id":"Q85811088","verdict":"keep"}
 {"id":"Q85814488","verdict":"keep"}
-{"id":"Q85818437","verdict":"keep"}
+{"id":"Q85818437","verdict":"keep","countries":["IQ"],"reason":"Second check: Alkaseba is retained as an Iraqi sesame confection."}
 {"id":"Q858339","verdict":"keep"}
 {"id":"Q858345","verdict":"keep"}
 {"id":"Q85850163","verdict":"keep","countries":["FR"],"reason":"countries were empty; French dessert"}
@@ -133,13 +133,13 @@
 {"id":"Q85869105","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese korokke"}
 {"id":"Q85869180","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese miso soup"}
 {"id":"Q85876025","verdict":"keep"}
-{"id":"Q85877207","verdict":"keep"}
+{"id":"Q85877207","verdict":"keep","countries":["ES"],"reason":"Second check: Romesco de peix is Catalan fish stew from Spain."}
 {"id":"Q85878430","verdict":"remove","reason":"fruit (Fenghua peach variety), not a dish"}
-{"id":"Q85881727","verdict":"keep"}
+{"id":"Q85881727","verdict":"keep","countries":["JP"],"reason":"Second check: Mizu manjū is Japanese kudzu-based confectionery."}
 {"id":"Q85882121","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese snack"}
 {"id":"Q85882288","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese bread"}
 {"id":"Q85882742","verdict":"keep","countries":["CN"],"reason":"countries were empty; Shandong congee"}
-{"id":"Q85884749","verdict":"keep"}
+{"id":"Q85884749","verdict":"keep","countries":["JP"],"reason":"Second check: Tori chūka is Japanese chicken noodle soup."}
 {"id":"Q85884814","verdict":"keep"}
 {"id":"Q859553","verdict":"keep"}
 {"id":"Q85967652","verdict":"keep"}
@@ -147,13 +147,13 @@
 {"id":"Q85972545","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean fried chicken"}
 {"id":"Q85973066","verdict":"keep"}
 {"id":"Q85979768","verdict":"keep"}
-{"id":"Q85983197","verdict":"keep"}
+{"id":"Q85983197","verdict":"keep","countries":["CN","HK"],"reason":"Second check: Dragon-and-phoenix soup has Cantonese Chinese and Hong Kong associations despite the Japanese label."}
 {"id":"Q85991120","verdict":"keep","countries":["UA"],"reason":"countries were empty; Hutsul cheese"}
 {"id":"Q85992204","verdict":"keep"}
 {"id":"Q85996689","verdict":"keep"}
 {"id":"Q859981","verdict":"keep"}
 {"id":"Q85998157","verdict":"keep"}
-{"id":"Q86004645","verdict":"keep"}
+{"id":"Q86004645","verdict":"keep","countries":["IN","PK"],"reason":"Second check: Dhoda is shared Punjabi milk-and-grain confectionery."}
 {"id":"Q86006763","verdict":"keep"}
 {"id":"Q860170","verdict":"keep"}
 {"id":"Q86056865","verdict":"keep"}
@@ -166,7 +166,7 @@
 {"id":"Q862557","verdict":"keep"}
 {"id":"Q862595","verdict":"keep"}
 {"id":"Q862974","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean tteok"}
-{"id":"Q863626","verdict":"keep"}
+{"id":"Q863626","verdict":"keep","countries":["CZ","SK","AT","HU","PL"],"reason":"Second check: Fruit-filled dumplings have established central European traditions."}
 {"id":"Q863794","verdict":"keep","countries":["MX","US"],"reason":"Second opinion: chili con carne is commonly associated with both Mexican and Tex-Mex American cooking"}
 {"id":"Q863966","verdict":"keep","countries":["GB"],"reason":"countries were empty; British biscuit"}
 {"id":"Q864154","verdict":"keep"}
@@ -177,7 +177,7 @@
 {"id":"Q865790","verdict":"keep"}
 {"id":"Q86605265","verdict":"keep"}
 {"id":"Q866153","verdict":"remove","reason":"category (frozen dessert), not one dish"}
-{"id":"Q86660144","verdict":"keep"}
+{"id":"Q86660144","verdict":"keep","countries":["RU","UA"],"reason":"Second check: This entry explicitly describes Soviet sherbet confectionery, associated with Russia and Ukraine."}
 {"id":"Q86660323","verdict":"keep","countries":["TT"],"reason":"countries were empty; Trinidadian dish"}
 {"id":"Q86661082","verdict":"keep"}
 {"id":"Q86661713","verdict":"keep","countries":["RU"],"reason":"countries were empty; Russian pirog"}
@@ -188,7 +188,7 @@
 {"id":"Q86665833","verdict":"keep","countries":["IT"],"reason":"countries were empty; Pesaro pizza"}
 {"id":"Q86666132","verdict":"keep"}
 {"id":"Q86666208","verdict":"keep","countries":["RU"],"reason":"countries were empty; Russian porridge"}
-{"id":"Q86670785","verdict":"keep"}
+{"id":"Q86670785","verdict":"keep","countries":["IT"],"reason":"Second check: Zuppa mitonata is an Italian bread soup."}
 {"id":"Q866714","verdict":"keep"}
 {"id":"Q86672413","verdict":"keep"}
 {"id":"Q86674159","verdict":"keep"}
@@ -197,8 +197,8 @@
 {"id":"Q86675115","verdict":"keep"}
 {"id":"Q86675276","verdict":"keep"}
 {"id":"Q86683737","verdict":"keep","countries":["BJ"],"reason":"countries were empty; Fon dish from Benin"}
-{"id":"Q86685906","verdict":"keep"}
-{"id":"Q86723752","verdict":"keep"}
+{"id":"Q86685906","verdict":"keep","countries":["PL"],"reason":"Second check: Kuyavian sugar-beet spread is Polish fjut."}
+{"id":"Q86723752","verdict":"keep","countries":["RU"],"reason":"Second check: khaan is the Yakut/Sakha blood sausage of Russia, not an Indian dish."}
 {"id":"Q86729367","verdict":"remove","reason":"festival/ritual, not a dish"}
 {"id":"Q86732805","verdict":"keep"}
 {"id":"Q86734341","verdict":"remove","reason":"honey (ingredient), not a dish"}
@@ -207,7 +207,7 @@
 {"id":"Q86737140","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese wagashi"}
 {"id":"Q86740452","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese zoni"}
 {"id":"Q86740899","verdict":"keep"}
-{"id":"Q86744144","verdict":"keep"}
+{"id":"Q86744144","verdict":"keep","countries":["JP"],"reason":"Second check: The description explicitly identifies Miyazu, Kyoto curry yakisoba."}
 {"id":"Q867610","verdict":"keep"}
 {"id":"Q868184","verdict":"keep"}
 {"id":"Q86846384","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pastry"}
@@ -236,13 +236,13 @@
 {"id":"Q872939","verdict":"keep"}
 {"id":"Q8729741","verdict":"keep","countries":["JP","US"],"reason":"Chocolate-covered bananas have Japanese and American culinary traditions."}
 {"id":"Q87316441","verdict":"keep"}
-{"id":"Q873336","verdict":"keep"}
-{"id":"Q87340113","verdict":"keep"}
-{"id":"Q873699","verdict":"keep"}
+{"id":"Q873336","verdict":"keep","countries":["CN","HK"],"reason":"Second check: Shrimp toast is Cantonese dim sum with Chinese and Hong Kong associations."}
+{"id":"Q87340113","verdict":"keep","countries":["ES"],"reason":"Second check: Figa albardada is a Valencian battered fig sweet."}
+{"id":"Q873699","verdict":"keep","countries":["KR"],"reason":"Second check: Gangjeong is traditional Korean confectionery."}
 {"id":"Q87408425","verdict":"keep","countries":["CZ"],"reason":"countries were empty; Czech confection"}
 {"id":"Q874397","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese sushi"}
 {"id":"Q874626","verdict":"keep","countries":["DE","DK"],"reason":"Snysk is associated with Schleswig and Southern Jutland on both sides of the German-Danish border."}
-{"id":"Q87482943","verdict":"keep"}
+{"id":"Q87482943","verdict":"keep","countries":["PL","UA","RU"],"reason":"Second check: Layered wafer cakes have established Polish, Ukrainian and Russian traditions."}
 {"id":"Q875287","verdict":"keep"}
 {"id":"Q875363","verdict":"keep"}
 {"id":"Q87590","verdict":"keep"}
@@ -251,20 +251,20 @@
 {"id":"Q876624","verdict":"keep"}
 {"id":"Q876740","verdict":"keep","countries":["IT","AT"],"reason":"Schlutzkrapfen belongs to South Tyrolean and Austrian Tyrolean traditions."}
 {"id":"Q876781","verdict":"keep"}
-{"id":"Q876814","verdict":"keep"}
+{"id":"Q876814","verdict":"keep","countries":["AT"],"reason":"Second check: Fleckerl is explicitly an Austrian noodle preparation."}
 {"id":"Q876823","verdict":"keep"}
 {"id":"Q87741042","verdict":"keep"}
 {"id":"Q877538","verdict":"keep"}
 {"id":"Q8776319","verdict":"keep","countries":["ES"],"reason":"countries were empty; Catalan salad"}
-{"id":"Q87768625","verdict":"keep"}
-{"id":"Q87769626","verdict":"keep"}
-{"id":"Q87777671","verdict":"keep"}
+{"id":"Q87768625","verdict":"keep","countries":["CN","HK"],"reason":"Second check: Fried wontons belong to Chinese and Hong Kong cooking."}
+{"id":"Q87769626","verdict":"keep","countries":["KR","CN"],"reason":"Second check: Rajogi is explicitly Korean-Chinese chicken."}
+{"id":"Q87777671","verdict":"keep","countries":["CN","TW"],"reason":"Second check: Boiled jiaozi are Chinese and Taiwanese dumplings."}
 {"id":"Q877913","verdict":"keep"}
 {"id":"Q877957","verdict":"keep"}
 {"id":"Q878318","verdict":"keep"}
 {"id":"Q87834609","verdict":"keep"}
 {"id":"Q87840119","verdict":"keep"}
-{"id":"Q878624","verdict":"keep"}
+{"id":"Q878624","verdict":"keep","countries":["CN","TW","HK","JP","KR","VN","TH","ID","MY","SG","IN","LK"],"reason":"Second check: retain East and Southeast Asian congee traditions and include established Indian kanji and Sri Lankan kanda associations."}
 {"id":"Q878765","verdict":"keep"}
 {"id":"Q879074","verdict":"keep"}
 {"id":"Q879133","verdict":"keep"}
@@ -277,17 +277,17 @@
 {"id":"Q880562","verdict":"keep"}
 {"id":"Q88079420","verdict":"keep"}
 {"id":"Q88106294","verdict":"keep"}
-{"id":"Q881582","verdict":"keep"}
+{"id":"Q881582","verdict":"keep","countries":["FR","ES"],"reason":"Second check: Nun’s puffs are French and Spanish fried pastry sweets."}
 {"id":"Q882576","verdict":"keep"}
-{"id":"Q882630","verdict":"keep"}
+{"id":"Q882630","verdict":"keep","countries":["DE"],"reason":"Second check: Blauer Heinrich is a German regional soup."}
 {"id":"Q883002","verdict":"keep"}
 {"id":"Q883031","verdict":"keep"}
 {"id":"Q88359674","verdict":"keep"}
 {"id":"Q883938","verdict":"keep"}
 {"id":"Q884055","verdict":"remove","reason":"bitters liqueur (drink), not a dish"}
 {"id":"Q88462839","verdict":"keep"}
-{"id":"Q884785","verdict":"keep","reason":"Second opinion: baking chocolate is prepared chocolate, not a plain raw ingredient"}
-{"id":"Q884787","verdict":"keep"}
+{"id":"Q884785","verdict":"keep","reason":"Second check: Baking chocolate is prepared chocolate with Swiss, French and American confectionery associations; not a raw unprocessed ingredient.","countries":["CH","FR","US"]}
+{"id":"Q884787","verdict":"keep","countries":["DE"],"reason":"Second check: Wurstebrot is the German blood-and-grain sausage preparation."}
 {"id":"Q885593","verdict":"keep"}
 {"id":"Q886378","verdict":"keep"}
 {"id":"Q886824","verdict":"keep"}

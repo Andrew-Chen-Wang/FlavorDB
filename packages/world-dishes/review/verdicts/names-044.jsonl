@@ -1,13 +1,13 @@
-{"id":"Q4876267","verdict":"keep"}
+{"id":"Q4876267","verdict":"keep","reason":"Bean salad is a recognizable American picnic salad; no specific competing version is identified.","countries":["US"]}
 {"id":"Q48763011","verdict":"keep"}
 {"id":"Q48767364","verdict":"keep"}
 {"id":"Q48767392","verdict":"keep"}
 {"id":"Q48767667","verdict":"keep"}
-{"id":"Q48767872","verdict":"keep"}
+{"id":"Q48767872","verdict":"keep","reason":"Onion cake includes German Zwiebelkuchen, Swiss onion tart and Alsatian onion cake traditions.","countries":["DE","CH","FR"]}
 {"id":"Q4877036","verdict":"keep"}
-{"id":"Q48774226","verdict":"keep"}
+{"id":"Q48774226","verdict":"keep","reason":"Pheasant breast under a glass dome belongs to French and American fine dining.","countries":["FR","US"]}
 {"id":"Q48780108","verdict":"keep"}
-{"id":"Q48780422","verdict":"keep"}
+{"id":"Q48780422","verdict":"keep","reason":"Féroce is the Martinican avocado, chilli and saltfish preparation.","countries":["MQ"]}
 {"id":"Q48781104","verdict":"keep"}
 {"id":"Q48781446","verdict":"keep"}
 {"id":"Q48781818","verdict":"keep","countries":["ES"],"reason":"Spanish confection; countries were empty"}
@@ -23,7 +23,7 @@
 {"id":"Q48804758","verdict":"keep"}
 {"id":"Q48806470","verdict":"keep","countries":["IT"],"reason":"Lombard pasta dish; countries were empty"}
 {"id":"Q48807708","verdict":"keep"}
-{"id":"Q48808067","verdict":"keep"}
+{"id":"Q48808067","verdict":"keep","reason":"Pamparito is an Italian traditional bread, consistent with the supplied Italian name.","countries":["IT"]}
 {"id":"Q48808634","verdict":"keep"}
 {"id":"Q48808777","verdict":"keep"}
 {"id":"Q48808894","verdict":"keep","countries":["IT"],"reason":"Italian liver dish; countries were empty"}
@@ -36,7 +36,7 @@
 {"id":"Q48812916","verdict":"keep"}
 {"id":"Q48813642","verdict":"keep"}
 {"id":"Q48814046","verdict":"keep","countries":["IT"],"reason":"Italian confection; countries were empty"}
-{"id":"Q48816551","verdict":"keep","countries":[],"reason":"Second opinion: pizza by the slice is a generic serving form, not specific to the United States."}
+{"id":"Q48816551","verdict":"keep","countries":["IT","US"],"reason":"A prepared pizza slice belongs to Italian al taglio and American slice traditions."}
 {"id":"Q4882157","verdict":"keep"}
 {"id":"Q4882503","verdict":"keep","countries":["GB"],"reason":"British bun; countries were empty"}
 {"id":"Q48832937","verdict":"keep"}
@@ -45,7 +45,7 @@
 {"id":"Q48852221","verdict":"keep"}
 {"id":"Q48853185","verdict":"keep"}
 {"id":"Q48855094","verdict":"keep"}
-{"id":"Q48865290","verdict":"keep"}
+{"id":"Q48865290","verdict":"keep","reason":"Coal-fired pizza denotes the American coal-oven pizza style.","countries":["US"]}
 {"id":"Q4886748","verdict":"keep"}
 {"id":"Q48876884","verdict":"keep","countries":["BR"],"reason":"Brazilian dish; countries were empty"}
 {"id":"Q48877725","verdict":"keep"}
@@ -53,22 +53,22 @@
 {"id":"Q48880901","verdict":"keep"}
 {"id":"Q4891611","verdict":"remove","reason":"Second opinion: Berger Cookies are a marketed bakery brand; https://www.bergercookies.com/"}
 {"id":"Q48916161","verdict":"keep"}
-{"id":"Q4891863","verdict":"keep"}
+{"id":"Q4891863","verdict":"keep","reason":"Sancoche also has a well-established Trinidadian soup tradition; the supplied description is multinational.","countries":["DO","CO","VE","PA","EC","PR","TT"]}
 {"id":"Q4892695","verdict":"keep"}
 {"id":"Q48927763","verdict":"keep","countries":["TW"],"reason":"Taiwanese dish; countries were empty"}
 {"id":"Q4892972","verdict":"keep"}
-{"id":"Q48935221","verdict":"keep"}
+{"id":"Q48935221","verdict":"keep","reason":"Red peach kueh belongs to Teochew Chinese and Singaporean/Malaysian Chinese food traditions.","countries":["CN","SG","MY"]}
 {"id":"Q48941010","verdict":"keep"}
 {"id":"Q4894109","verdict":"keep"}
 {"id":"Q48965290","verdict":"keep"}
 {"id":"Q489703","verdict":"keep"}
 {"id":"Q4897051","verdict":"keep","countries":["FR"],"reason":"French almond biscuit; countries were empty"}
 {"id":"Q4897474","verdict":"keep","countries":["ES"],"reason":"Catalan dish; countries were empty"}
-{"id":"Q48976623","verdict":"keep"}
-{"id":"Q48988376","verdict":"keep"}
+{"id":"Q48976623","verdict":"keep","reason":"Cube or honey toast is commonly tied to Taiwan and Japanese Shibuya toast.","countries":["TW","JP"]}
+{"id":"Q48988376","verdict":"keep","reason":"Cheese crackers are prepared crackers; the American snack association is reasonable.","countries":["US"]}
 {"id":"Q4899060","verdict":"keep"}
 {"id":"Q48998769","verdict":"keep"}
-{"id":"Q49001494","verdict":"keep"}
+{"id":"Q49001494","verdict":"keep","reason":"Dragon’s Breath here is the prepared liquid-nitrogen cereal dessert associated with the United States.","countries":["US"]}
 {"id":"Q4900263","verdict":"keep","countries":["TR"],"reason":"Turkish dish; countries were empty"}
 {"id":"Q4902207","verdict":"keep","countries":["BD","IN","PK","NP"],"reason":"Second opinion: bhurta is shared across Bangladesh, India, Pakistan and Nepal."}
 {"id":"Q4903057","verdict":"keep","countries":["PH","ID"],"reason":"Bibingka is a Filipino rice cake, also made in Indonesia; ID alone was incomplete"}
@@ -77,7 +77,7 @@
 {"id":"Q49053694","verdict":"keep","countries":["VN"],"reason":"Vietnamese condiment; countries were empty"}
 {"id":"Q4907305","verdict":"keep"}
 {"id":"Q490759","verdict":"keep","countries":["KR"],"reason":"Korean food; countries were empty"}
-{"id":"Q49077107","verdict":"keep"}
+{"id":"Q49077107","verdict":"keep","reason":"Futomaki is a thick Japanese makizushi roll.","countries":["JP"]}
 {"id":"Q49095039","verdict":"keep"}
 {"id":"Q491222","verdict":"keep"}
 {"id":"Q4913849","verdict":"keep"}
@@ -92,11 +92,11 @@
 {"id":"Q4918871","verdict":"keep"}
 {"id":"Q4919380","verdict":"keep","countries":["UY"],"reason":"Uruguayan pastry; countries were empty"}
 {"id":"Q4920036","verdict":"keep"}
-{"id":"Q4920451","verdict":"keep"}
+{"id":"Q4920451","verdict":"keep","reason":"Black bullets are recognizable British peppermint confectionery; the entry does not identify a particular manufacturer.","countries":["GB"]}
 {"id":"Q4920553","verdict":"keep"}
 {"id":"Q4921064","verdict":"remove","reason":"branded candy (Black Jack chew brand)"}
-{"id":"Q4921072","verdict":"keep"}
-{"id":"Q4922265","verdict":"keep"}
+{"id":"Q4921072","verdict":"keep","reason":"Red tortoise cakes have established Chinese, Taiwanese and Southeast Asian Chinese traditions.","countries":["CN","TW","SG","MY","ID"]}
+{"id":"Q4922265","verdict":"keep","reason":"Sweet black bean paste belongs to the named East Asian confectionery traditions.","countries":["CN","KR","JP"]}
 {"id":"Q4922403","verdict":"keep","countries":["PL"],"reason":"Polish dumplings (czarne kluski); countries were empty"}
 {"id":"Q4922421","verdict":"keep"}
 {"id":"Q4922468","verdict":"keep"}
@@ -111,8 +111,8 @@
 {"id":"Q4926393","verdict":"keep","countries":["CA"],"reason":"Canadian cheese; countries were empty"}
 {"id":"Q492642","verdict":"keep"}
 {"id":"Q4927055","verdict":"keep","countries":["GB"],"reason":"British smoked herring; countries were empty"}
-{"id":"Q4927898","verdict":"keep"}
-{"id":"Q4929458","verdict":"keep"}
+{"id":"Q4927898","verdict":"keep","reason":"Blood soup is also established in Chinese, Thai, Philippine and Lithuanian cuisines; its generic identity should not imply one origin.","countries":["PL","SE","FI","DE","VN","CN","TH","PH","LT"]}
+{"id":"Q4929458","verdict":"keep","reason":"Blue moon here is the Midwestern American ice cream, not a drink.","countries":["US"]}
 {"id":"Q4931669","verdict":"keep"}
 {"id":"Q493749","verdict":"keep"}
 {"id":"Q493784","verdict":"keep","countries":["KR"],"reason":"Korean dessert; countries were empty"}
@@ -126,7 +126,7 @@
 {"id":"Q4939975","verdict":"keep"}
 {"id":"Q4940616","verdict":"keep"}
 {"id":"Q4940768","verdict":"keep"}
-{"id":"Q4941719","verdict":"keep"}
+{"id":"Q4941719","verdict":"keep","reason":"The reassembled boneless fish preparation is consistent with the Chinese boneless-fish dish.","countries":["CN"]}
 {"id":"Q4943588","verdict":"keep"}
 {"id":"Q4944137","verdict":"keep"}
 {"id":"Q4944190","verdict":"keep"}
@@ -137,19 +137,19 @@
 {"id":"Q4950113","verdict":"keep"}
 {"id":"Q4950130","verdict":"keep"}
 {"id":"Q4959183","verdict":"keep"}
-{"id":"Q4959186","verdict":"keep"}
+{"id":"Q4959186","verdict":"keep","reason":"The filled bread identity supports American bread bowls and the supplied coffin-bread Taiwanese alias.","countries":["US","TW"]}
 {"id":"Q4959488","verdict":"keep"}
 {"id":"Q4959490","verdict":"keep"}
 {"id":"Q4966940","verdict":"keep","countries":["GB"],"reason":"Scottish pie; countries were empty"}
 {"id":"Q4968516","verdict":"keep"}
 {"id":"Q496999","verdict":"keep","countries":["KR"],"reason":"Korean snack; countries were empty"}
 {"id":"Q4971792","verdict":"keep"}
-{"id":"Q49737","verdict":"keep"}
-{"id":"Q4975393","verdict":"keep"}
+{"id":"Q49737","verdict":"keep","reason":"Modern cotton candy has a strong American confectionery association.","countries":["US"]}
+{"id":"Q4975393","verdict":"keep","reason":"Brose is Scottish oat porridge.","countries":["GB"]}
 {"id":"Q4976066","verdict":"keep"}
 {"id":"Q4976072","verdict":"keep"}
 {"id":"Q4976354","verdict":"keep"}
-{"id":"Q4979804","verdict":"keep"}
+{"id":"Q4979804","verdict":"remove","reason":"Brussels cookies identifies the branded Pepperidge Farm product, so removal stands."}
 {"id":"Q4982700","verdict":"keep"}
 {"id":"Q4983108","verdict":"keep"}
 {"id":"Q4983569","verdict":"keep"}
@@ -170,10 +170,10 @@
 {"id":"Q4997403","verdict":"keep"}
 {"id":"Q4997935","verdict":"keep"}
 {"id":"Q4998037","verdict":"keep","countries":["KR"],"reason":"Korean tteok; countries were empty"}
-{"id":"Q5002831","verdict":"keep"}
+{"id":"Q5002831","verdict":"keep","reason":"Butter brickle is an established American toffee and ice cream preparation beyond the original trademark.","countries":["US"]}
 {"id":"Q5002838","verdict":"keep"}
 {"id":"Q5003018","verdict":"keep","countries":["US"],"reason":"American pie; countries were empty"}
-{"id":"Q5003051","verdict":"keep"}
+{"id":"Q5003051","verdict":"keep","reason":"The description explicitly locates the buttery bread roll in Aberdeen.","countries":["GB"]}
 {"id":"Q500445","verdict":"keep"}
 {"id":"Q5004793","verdict":"keep"}
 {"id":"Q5004794","verdict":"keep"}
@@ -190,21 +190,21 @@
 {"id":"Q5006522","verdict":"remove","reason":"branded candy (C. Howard's brand)"}
 {"id":"Q500708","verdict":"keep"}
 {"id":"Q5015278","verdict":"keep"}
-{"id":"Q5015296","verdict":"keep"}
+{"id":"Q5015296","verdict":"keep","reason":"Cabbie claw is the Scottish dried fish dish.","countries":["GB"]}
 {"id":"Q5015370","verdict":"keep"}
 {"id":"Q5015379","verdict":"keep","countries":["BR"],"reason":"Brazilian dish; countries were empty"}
 {"id":"Q5015592","verdict":"keep"}
 {"id":"Q5016033","verdict":"keep"}
 {"id":"Q5016036","verdict":"keep"}
 {"id":"Q5016731","verdict":"keep","countries":["NL"],"reason":"Second opinion: Kaapse raasdonders is a Dutch pea dish, not Cape Malay; https://www.keurslager.nl/recepten/hollandse-rijsttafel-met-raasdonders-en-spek/"}
-{"id":"Q5017201","verdict":"keep"}
-{"id":"Q5017984","verdict":"keep"}
+{"id":"Q5017201","verdict":"keep","reason":"Cafreal is commonly tied to Goa and its Mozambican chicken-preparation roots.","countries":["IN","MZ"]}
+{"id":"Q5017984","verdict":"keep","reason":"Goat-milk cajeta is the Mexican confection.","countries":["MX"]}
 {"id":"Q5018040","verdict":"keep"}
 {"id":"Q5019102","verdict":"keep"}
 {"id":"Q5019109","verdict":"keep"}
 {"id":"Q5019110","verdict":"keep"}
 {"id":"Q5019112","verdict":"keep"}
-{"id":"Q5019561","verdict":"keep"}
+{"id":"Q5019561","verdict":"keep","reason":"Calf’s liver and bacon is an established British named dish.","countries":["GB"]}
 {"id":"Q5020186","verdict":"keep"}
 {"id":"Q50218623","verdict":"keep","countries":["HR","RS","BA","MK"],"reason":"Second opinion: bajadera cake is shared across Croatian, Serbian, Bosnian and Macedonian cooking."}
 {"id":"Q502405","verdict":"keep"}
@@ -221,7 +221,7 @@
 {"id":"Q503494","verdict":"keep"}
 {"id":"Q50352830","verdict":"keep"}
 {"id":"Q5038482","verdict":"keep","countries":["GB"],"reason":"Welsh soup; countries were empty"}
-{"id":"Q5043851","verdict":"keep"}
+{"id":"Q5043851","verdict":"keep","reason":"The description explicitly identifies Mexican carne de chango.","countries":["MX"]}
 {"id":"Q5043855","verdict":"keep","countries":["NI"],"reason":"Nicaraguan dish; countries were empty"}
 {"id":"Q5044066","verdict":"keep"}
 {"id":"Q5046165","verdict":"keep"}
@@ -249,7 +249,7 @@
 {"id":"Q50663373","verdict":"keep"}
 {"id":"Q5066400","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries were empty"}
 {"id":"Q5067730","verdict":"keep"}
-{"id":"Q5068113","verdict":"keep"}
+{"id":"Q5068113","verdict":"keep","reason":"Chaira/chairo is an Andean soup shared by Bolivia and Peru.","countries":["BO","PE"]}
 {"id":"Q5068362","verdict":"keep","countries":["IN"],"reason":"Kerala shrimp dish; countries were empty"}
 {"id":"Q5068377","verdict":"keep"}
 {"id":"Q5068592","verdict":"keep"}
@@ -259,35 +259,35 @@
 {"id":"Q5072752","verdict":"keep"}
 {"id":"Q5072761","verdict":"keep"}
 {"id":"Q5072910","verdict":"keep"}
-{"id":"Q5073431","verdict":"keep"}
+{"id":"Q5073431","verdict":"keep","reason":"The supplied description explicitly identifies a Korean glutinous rice cake.","countries":["KR"]}
 {"id":"Q507591","verdict":"keep","countries":["NL"],"reason":"Dutch cookie; countries were empty"}
 {"id":"Q50825931","verdict":"keep"}
 {"id":"Q50835686","verdict":"keep"}
-{"id":"Q5084201","verdict":"keep"}
+{"id":"Q5084201","verdict":"keep","reason":"Charleston red rice is explicitly tied to South Carolina and Georgia.","countries":["US"]}
 {"id":"Q50862300","verdict":"keep"}
 {"id":"Q5089395","verdict":"keep"}
 {"id":"Q5089399","verdict":"keep"}
 {"id":"Q5089400","verdict":"keep"}
 {"id":"Q5089402","verdict":"keep"}
-{"id":"Q5089403","verdict":"keep"}
+{"id":"Q5089403","verdict":"keep","reason":"Cheese pudding is a recognized British savoury pudding.","countries":["GB"]}
 {"id":"Q5089446","verdict":"keep"}
 {"id":"Q5089539","verdict":"keep","countries":["TM","IR"],"reason":"Second opinion: Turkmen dish also associated with Iranian Turkmen cuisine; https://visitiran.ir/cuisine/chegdermeh"}
 {"id":"Q5090157","verdict":"keep"}
 {"id":"Q50914259","verdict":"keep"}
-{"id":"Q5092519","verdict":"keep","countries":[],"reason":"Second opinion: cherry pie is a generic pie with international traditions, not specific to the United States."}
-{"id":"Q5094872","verdict":"keep"}
+{"id":"Q5092519","verdict":"keep","countries":["US","GB","DE"],"reason":"Cherry-filled pies are established in the listed American, British and German baking traditions."}
+{"id":"Q5094872","verdict":"keep","reason":"The description identifies chhena jalebi as an Indian dessert.","countries":["IN"]}
 {"id":"Q5094874","verdict":"keep","countries":["IN"],"reason":"Odisha fish dish; countries were empty"}
-{"id":"Q5094956","verdict":"keep"}
-{"id":"Q5096240","verdict":"keep"}
-{"id":"Q5096259","verdict":"keep"}
+{"id":"Q5094956","verdict":"remove","reason":"Chhota haazri names an early light meal service rather than one prepared dish."}
+{"id":"Q5096240","verdict":"keep","reason":"Italian-American cuisine explicitly places Chicken French in the United States.","countries":["US"]}
+{"id":"Q5096259","verdict":"keep","reason":"Chicken Maryland has named American, Australian and British preparations.","countries":["US","AU","GB"]}
 {"id":"Q5096277","verdict":"keep"}
-{"id":"Q5096283","verdict":"keep"}
+{"id":"Q5096283","verdict":"keep","reason":"Chicken and chips is an established British and Irish takeaway meal.","countries":["GB","IE"]}
 {"id":"Q5096287","verdict":"keep"}
-{"id":"Q5096288","verdict":"keep"}
+{"id":"Q5096288","verdict":"keep","reason":"The Lowcountry cuisine description places chicken bog in the United States.","countries":["US"]}
 {"id":"Q5096289","verdict":"keep"}
-{"id":"Q5096293","verdict":"keep"}
+{"id":"Q5096293","verdict":"keep","reason":"The named chicken balls include Chinese and British/Canadian Chinese takeaway versions.","countries":["CN","GB","CA"]}
 {"id":"Q5096299","verdict":"keep"}
-{"id":"Q5096323","verdict":"keep"}
+{"id":"Q5096323","verdict":"keep","reason":"Chicken salad has recognized American and British traditions.","countries":["US","GB"]}
 {"id":"Q5097538","verdict":"keep"}
 {"id":"Q509835","verdict":"keep"}
 {"id":"Q5098719","verdict":"keep"}
@@ -295,6 +295,6 @@
 {"id":"Q5098938","verdict":"keep"}
 {"id":"Q5098941","verdict":"keep"}
 {"id":"Q5099038","verdict":"keep"}
-{"id":"Q5099176","verdict":"keep"}
+{"id":"Q5099176","verdict":"keep","reason":"The description explicitly identifies Sinaloan Mexican chilorio.","countries":["MX"]}
 {"id":"Q5099374","verdict":"keep"}
 {"id":"Q5099514","verdict":"keep"}

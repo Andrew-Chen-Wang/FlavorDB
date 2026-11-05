@@ -1,28 +1,28 @@
 {"id":"Q12563760","verdict":"keep"}
 {"id":"Q12564210","verdict":"keep"}
-{"id":"Q125660200","verdict":"keep"}
-{"id":"Q125661541","verdict":"keep"}
+{"id":"Q125660200","verdict":"keep","countries":["DZ"],"reason":"Khobz ed dar is Algerian home bread."}
+{"id":"Q125661541","verdict":"keep","countries":["DZ","TN"],"reason":"Palouza is a Maghrebi starch pudding."}
 {"id":"Q125681425","verdict":"keep","countries":["AZ"],"reason":"countries were empty; Azerbaijani cookie"}
 {"id":"Q12568984","verdict":"keep","countries":["UZ","KZ"],"reason":"Central Asian rice and offal sausage, particularly Uzbek hasip"}
 {"id":"Q12569086","verdict":"keep","countries":["RU"],"reason":"countries were empty; Buryat dish (Russia)"}
 {"id":"Q12569285","verdict":"keep"}
 {"id":"Q125700998","verdict":"keep"}
 {"id":"Q12570482","verdict":"keep"}
-{"id":"Q12571403","verdict":"keep"}
+{"id":"Q12571403","verdict":"keep","countries":["RU"],"reason":"Independent second country review: Ugre identifies Tatar/Bashkir noodle soup, Russia; broad Central Asian noodle analogy did not justify Uzbekistan and Tajikistan."}
 {"id":"Q12572081","verdict":"keep","countries":["RU"],"reason":"countries were empty; Bashkir dish (Russia)"}
 {"id":"Q125728421","verdict":"keep"}
 {"id":"Q125730878","verdict":"keep"}
 {"id":"Q125738914","verdict":"keep","countries":["IT"],"reason":"countries were empty; Sicilian pasta dish"}
 {"id":"Q12574039","verdict":"keep"}
-{"id":"Q125744517","verdict":"keep"}
+{"id":"Q125744517","verdict":"keep","countries":["FR"],"reason":"Chiffonnade de jambon is a French sliced-ham preparation."}
 {"id":"Q125744524","verdict":"keep","countries":["DZ"],"reason":"countries were empty; Algerian dish"}
 {"id":"Q125747968","verdict":"keep","countries":["FR"],"reason":"countries were empty; Normandy dish"}
-{"id":"Q125749843","verdict":"keep"}
+{"id":"Q125749843","verdict":"keep","countries":["FR"],"reason":"Coudenou is a French white-pudding preparation."}
 {"id":"Q12574985","verdict":"keep"}
 {"id":"Q125750003","verdict":"keep"}
-{"id":"Q12575016","verdict":"keep"}
-{"id":"Q125750575","verdict":"keep"}
-{"id":"Q12575407","verdict":"keep"}
+{"id":"Q12575016","verdict":"keep","countries":["KZ","KG"],"reason":"Qarta is prepared horse intestine in Kazakh and Kyrgyz cuisine."}
+{"id":"Q125750575","verdict":"keep","countries":["DZ"],"reason":"Hamama couscous is an Algerian herb couscous."}
+{"id":"Q12575407","verdict":"keep","countries":["KZ"],"reason":"Kimay is a Kazakh beef preparation."}
 {"id":"Q125754246","verdict":"keep"}
 {"id":"Q125762872","verdict":"keep"}
 {"id":"Q125768378","verdict":"keep","countries":["PH"],"reason":"countries were empty; Filipino dish"}
@@ -31,7 +31,7 @@
 {"id":"Q12578785","verdict":"keep"}
 {"id":"Q12579156","verdict":"keep"}
 {"id":"Q125797909","verdict":"keep"}
-{"id":"Q125801330","verdict":"keep"}
+{"id":"Q125801330","verdict":"keep","countries":["IN"],"reason":"Bangude pulimunchi is explicitly Mangalorean."}
 {"id":"Q1258151","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian pastry"}
 {"id":"Q125823765","verdict":"remove","reason":"drinking cup (object), not food"}
 {"id":"Q12583445","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean dish"}
@@ -49,16 +49,16 @@
 {"id":"Q125891711","verdict":"keep"}
 {"id":"Q125891722","verdict":"keep"}
 {"id":"Q125891751","verdict":"keep"}
-{"id":"Q125893923","verdict":"keep"}
-{"id":"Q125895553","verdict":"keep"}
+{"id":"Q125893923","verdict":"keep","countries":["CH","DE","AT"],"reason":"Nusszopf is shared Swiss German and Austrian nut-filled bread."}
+{"id":"Q125895553","verdict":"keep","countries":["ES"],"reason":"Caldo de zorra is a Spanish soup."}
 {"id":"Q125905146","verdict":"keep"}
-{"id":"Q12590788","verdict":"keep"}
+{"id":"Q12590788","verdict":"keep","countries":["KR"],"reason":"Dadaegi is Korean seasoning paste."}
 {"id":"Q12591047","verdict":"keep"}
 {"id":"Q125911836","verdict":"keep"}
 {"id":"Q1259136","verdict":"keep","countries":["IE"],"reason":"countries were empty; Irish blood sausage"}
 {"id":"Q12591784","verdict":"keep"}
 {"id":"Q125919992","verdict":"keep"}
-{"id":"Q125921077","verdict":"keep"}
+{"id":"Q125921077","verdict":"keep","countries":["FR"],"reason":"Montansier is a French pastry."}
 {"id":"Q12593188","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean dish"}
 {"id":"Q12593636","verdict":"keep"}
 {"id":"Q125941414","verdict":"keep"}
@@ -67,13 +67,13 @@
 {"id":"Q125947773","verdict":"keep","countries":["FR"],"reason":"countries were empty; French pastry"}
 {"id":"Q125961310","verdict":"remove","reason":"citrus cultivar (orange variety), not a dish"}
 {"id":"Q125963115","verdict":"remove","reason":"citrus hybrid (fruit), not a dish"}
-{"id":"Q125992703","verdict":"keep"}
+{"id":"Q125992703","verdict":"keep","countries":["UG","KE","ZA"],"reason":"Fried termites are prepared food in eastern and southern African cuisines."}
 {"id":"Q12599371","verdict":"keep"}
 {"id":"Q12599538","verdict":"keep","countries":["KR"],"reason":"countries were empty; Jeju (Korea) dish"}
-{"id":"Q125996418","verdict":"keep"}
-{"id":"Q125999569","verdict":"keep"}
+{"id":"Q125996418","verdict":"keep","countries":["GB"],"reason":"Savoury pudding has its clear culinary association with British puddings."}
+{"id":"Q125999569","verdict":"keep","countries":["IT","FR","GB"],"reason":"Custard pudding includes Italian budino and French and British custard traditions."}
 {"id":"Q12600103","verdict":"keep"}
-{"id":"Q126044669","verdict":"keep"}
+{"id":"Q126044669","verdict":"keep","countries":["MW"],"reason":"Mkhwani is the Malawian pumpkin-leaf dish."}
 {"id":"Q126076817","verdict":"keep"}
 {"id":"Q12608980","verdict":"keep"}
 {"id":"Q126091181","verdict":"keep"}
@@ -81,71 +81,71 @@
 {"id":"Q126107460","verdict":"keep"}
 {"id":"Q126163056","verdict":"keep"}
 {"id":"Q12616544","verdict":"remove","reason":"category of ritual dishes (jesa), not one dish"}
-{"id":"Q126171749","verdict":"keep"}
+{"id":"Q126171749","verdict":"keep","countries":["RU"],"reason":"Syakanya is explicitly Mordovian cuisine."}
 {"id":"Q126174164","verdict":"keep","countries":["US"],"reason":"countries were empty; American cake"}
 {"id":"Q12618468","verdict":"keep"}
 {"id":"Q126190581","verdict":"keep"}
-{"id":"Q12619366","verdict":"keep"}
-{"id":"Q12620637","verdict":"keep"}
+{"id":"Q12619366","verdict":"keep","countries":["KR"],"reason":"Chodubutang is Korean tofu soup."}
+{"id":"Q12620637","verdict":"keep","countries":["KR"],"reason":"Kongnamulguk is Korean soybean-sprout soup despite its Japanese label."}
 {"id":"Q12621434","verdict":"keep"}
-{"id":"Q1262538","verdict":"keep"}
+{"id":"Q1262538","verdict":"keep","countries":["GB","AU"],"reason":"Sherbet powder is a British and Australian confection."}
 {"id":"Q12627962","verdict":"remove","reason":"herb spirit (liquor), a drink"}
 {"id":"Q126282439","verdict":"keep"}
 {"id":"Q126284886","verdict":"keep"}
-{"id":"Q12631969","verdict":"keep"}
+{"id":"Q12631969","verdict":"keep","countries":["HR","RS"],"reason":"Gužvara cake belongs to Croatian and Serbian baking."}
 {"id":"Q12632250","verdict":"keep"}
 {"id":"Q126328858","verdict":"keep","countries":["NO"],"reason":"countries were empty; Norwegian dish"}
 {"id":"Q12632900","verdict":"keep"}
 {"id":"Q12633056","verdict":"keep"}
-{"id":"Q12634585","verdict":"keep"}
-{"id":"Q12634793","verdict":"keep"}
-{"id":"Q126364815","verdict":"keep"}
+{"id":"Q12634585","verdict":"keep","countries":["BA"],"reason":"Kljukusa is explicitly Bosnian."}
+{"id":"Q12634793","verdict":"keep","countries":["HR"],"reason":"Kotlovina is explicitly Croatian."}
+{"id":"Q126364815","verdict":"keep","countries":["PL","RU","CZ"],"reason":"Mushroom broth is associated with eastern and central European mushroom soups."}
 {"id":"Q126370082","verdict":"keep"}
 {"id":"Q12640393","verdict":"keep"}
 {"id":"Q126434266","verdict":"keep"}
-{"id":"Q1265899","verdict":"keep"}
-{"id":"Q126598260","verdict":"keep"}
-{"id":"Q126598273","verdict":"keep"}
-{"id":"Q1266715","verdict":"keep"}
-{"id":"Q126681364","verdict":"keep"}
-{"id":"Q126709310","verdict":"keep"}
+{"id":"Q1265899","verdict":"keep","countries":["DE"],"reason":"Lachsschinken is German cured pork loin."}
+{"id":"Q126598260","verdict":"keep","countries":["IN"],"reason":"Mango soup is grounded in the Indian mango-soup tradition represented by the adjacent specific version."}
+{"id":"Q126598273","verdict":"keep","countries":["IN"],"reason":"The Gujarati mango soup is Indian."}
+{"id":"Q1266715","verdict":"keep","countries":["DE","CH"],"reason":"Winzerschnitten is a German-speaking winegrower bread preparation."}
+{"id":"Q126681364","verdict":"keep","countries":["FR"],"reason":"Manqué is a French cake."}
+{"id":"Q126709310","verdict":"keep","countries":["JP"],"reason":"Lacto ice is the Japanese frozen-dessert category."}
 {"id":"Q126718176","verdict":"keep"}
-{"id":"Q126736819","verdict":"keep"}
+{"id":"Q126736819","verdict":"keep","countries":["CN"],"reason":"Zao gao is Chinese jujube cake."}
 {"id":"Q1267766","verdict":"keep"}
 {"id":"Q126777","verdict":"keep"}
 {"id":"Q126783792","verdict":"keep"}
 {"id":"Q1268122","verdict":"keep"}
-{"id":"Q12681999","verdict":"keep"}
+{"id":"Q12681999","verdict":"keep","countries":["MY","ID"],"reason":"Acar timun is Malay and Indonesian cucumber pickle."}
 {"id":"Q12682917","verdict":"keep"}
 {"id":"Q12684230","verdict":"keep"}
 {"id":"Q12684337","verdict":"keep"}
-{"id":"Q1268555","verdict":"keep"}
-{"id":"Q126856764","verdict":"keep"}
+{"id":"Q1268555","verdict":"keep","countries":["DE","CH"],"reason":"Rose-hip jam is explicitly common to Germany and Switzerland."}
+{"id":"Q126856764","verdict":"keep","countries":["IT"],"reason":"Sbriciolata is explicitly Italian."}
 {"id":"Q12686079","verdict":"keep"}
-{"id":"Q126862111","verdict":"keep"}
+{"id":"Q126862111","verdict":"keep","countries":["FR"],"reason":"Petits cailloux is a French amuse-bouche."}
 {"id":"Q126874473","verdict":"keep"}
-{"id":"Q126888623","verdict":"keep"}
+{"id":"Q126888623","verdict":"keep","countries":["KH"],"reason":"Lort cha is explicitly Cambodian Chinese cuisine."}
 {"id":"Q12690604","verdict":"keep"}
 {"id":"Q12690611","verdict":"keep"}
-{"id":"Q12690615","verdict":"keep"}
-{"id":"Q12690618","verdict":"keep"}
+{"id":"Q12690615","verdict":"keep","countries":["MY"],"reason":"Kuih bom is a Malaysian sesame-ball sweet."}
+{"id":"Q12690618","verdict":"keep","countries":["MY"],"reason":"Bunga pudak is explicitly from Kedah Malaysia."}
 {"id":"Q12690622","verdict":"keep"}
-{"id":"Q12690624","verdict":"keep"}
-{"id":"Q126906240","verdict":"keep"}
+{"id":"Q12690624","verdict":"keep","countries":["MY"],"reason":"Kuih kosui is explicitly Malaysian."}
+{"id":"Q126906240","verdict":"keep","countries":["SE","FI"],"reason":"Chewing resin confection belongs to Swedish and Finnish traditions."}
 {"id":"Q12690627","verdict":"keep"}
 {"id":"Q12690634","verdict":"keep"}
 {"id":"Q126907616","verdict":"keep"}
 {"id":"Q126910292","verdict":"keep"}
 {"id":"Q12691235","verdict":"keep"}
-{"id":"Q126914195","verdict":"keep"}
-{"id":"Q126919465","verdict":"keep"}
-{"id":"Q126938440","verdict":"keep"}
-{"id":"Q126943933","verdict":"keep"}
+{"id":"Q126914195","verdict":"keep","countries":["SE"],"reason":"Widerbergare is a Swedish roast-beef sandwich."}
+{"id":"Q126919465","verdict":"keep","countries":["JP","KR"],"reason":"Bacon-wrapped enoki is associated with Japanese and Korean cooking."}
+{"id":"Q126938440","verdict":"keep","countries":["JP"],"reason":"Hashiriimochi is Japanese wagashi."}
+{"id":"Q126943933","verdict":"keep","countries":["KR"],"reason":"Hobak-yeot is Korean pumpkin candy."}
 {"id":"Q126946571","verdict":"keep"}
 {"id":"Q126956532","verdict":"keep"}
 {"id":"Q126961970","verdict":"keep"}
-{"id":"Q12698743","verdict":"keep"}
-{"id":"Q12700644","verdict":"keep"}
+{"id":"Q12698743","verdict":"keep","countries":["MY"],"reason":"Chicken rice balls are a Malaccan Peranakan preparation."}
+{"id":"Q12700644","verdict":"keep","countries":["MY"],"reason":"Pinaasakan is a Sabah Kadazandusun dish."}
 {"id":"Q12701417","verdict":"keep"}
 {"id":"Q127037926","verdict":"keep"}
 {"id":"Q1270535","verdict":"keep"}
@@ -153,13 +153,13 @@
 {"id":"Q12709593","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian-origin pasta dish"}
 {"id":"Q12711188","verdict":"keep"}
 {"id":"Q1271177","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
-{"id":"Q12713735","verdict":"keep"}
+{"id":"Q12713735","verdict":"keep","countries":["NO"],"reason":"Betasuppe is Norwegian soup."}
 {"id":"Q12713819","verdict":"keep"}
 {"id":"Q12715233","verdict":"keep"}
 {"id":"Q12716458","verdict":"keep"}
-{"id":"Q127164636","verdict":"keep"}
-{"id":"Q127165110","verdict":"keep"}
-{"id":"Q12717245","verdict":"keep"}
+{"id":"Q127164636","verdict":"keep","countries":["FI"],"reason":"Loimulohi is explicitly Finnish."}
+{"id":"Q127165110","verdict":"keep","countries":["BY"],"reason":"Tauk anitsa is a Belarusian potato mash."}
+{"id":"Q12717245","verdict":"keep","countries":["US","CA"],"reason":"American pancakes are shared United States and Canadian breakfast food."}
 {"id":"Q127256854","verdict":"keep"}
 {"id":"Q127271189","verdict":"keep"}
 {"id":"Q12728629","verdict":"remove","reason":"Frupt denotes broad non-fasting dairy meat and egg foods, not a single dish"}
@@ -169,47 +169,47 @@
 {"id":"Q127344987","verdict":"remove","reason":"branded packaged candy (AirHeads multi-pack)"}
 {"id":"Q127345419","verdict":"remove","reason":"branded packaged candy (AirHeads multi-pack)"}
 {"id":"Q12738131","verdict":"keep","countries":["RO"],"reason":"countries were empty; Romanian dish"}
-{"id":"Q127388","verdict":"keep"}
+{"id":"Q127388","verdict":"keep","countries":["CZ","SK"],"reason":"Veka is Czech and Slovak white bread."}
 {"id":"Q12740865","verdict":"keep","countries":["RO"],"reason":"countries were empty; Romanian preserve"}
 {"id":"Q127420779","verdict":"keep"}
-{"id":"Q127420982","verdict":"keep"}
-{"id":"Q127420994","verdict":"keep"}
+{"id":"Q127420982","verdict":"keep","countries":["FR"],"reason":"Tarte vigneronne is French winegrower tart."}
+{"id":"Q127420994","verdict":"keep","countries":["FR"],"reason":"Chinon wine jam is French."}
 {"id":"Q127433632","verdict":"keep"}
-{"id":"Q127434113","verdict":"keep"}
+{"id":"Q127434113","verdict":"keep","countries":["RU","UA"],"reason":"Vesna salad is a Soviet Russian and Ukrainian preparation."}
 {"id":"Q12743560","verdict":"keep"}
 {"id":"Q12744663","verdict":"keep","countries":["RS"],"reason":"countries were empty; Serbian dish"}
 {"id":"Q127460400","verdict":"keep"}
-{"id":"Q127477120","verdict":"keep"}
-{"id":"Q127505297","verdict":"keep"}
+{"id":"Q127477120","verdict":"keep","countries":["NG"],"reason":"The entry explicitly describes Nigerian barbecue."}
+{"id":"Q127505297","verdict":"keep","countries":["CH"],"reason":"Anischräbeli are Swiss anise biscuits."}
 {"id":"Q127505622","verdict":"keep"}
-{"id":"Q127509818","verdict":"keep"}
-{"id":"Q127513241","verdict":"keep"}
-{"id":"Q127513534","verdict":"keep"}
-{"id":"Q127514863","verdict":"keep"}
+{"id":"Q127509818","verdict":"keep","countries":["FR"],"reason":"Salade vosgienne is a Vosges French salad."}
+{"id":"Q127513241","verdict":"remove","reason":"Independent second country review: Honeydew honey is plain bee-produced honey, no preparation recipe supplied; removal stands.","countries":[]}
+{"id":"Q127513534","verdict":"keep","countries":["NG"],"reason":"Bean porridge is explicitly Nigerian."}
+{"id":"Q127514863","verdict":"keep","countries":["IT"],"reason":"Mafalda is Sicilian Italian bread."}
 {"id":"Q12752003","verdict":"keep"}
 {"id":"Q127532457","verdict":"keep"}
 {"id":"Q1275331","verdict":"remove","reason":"ingredient article (cut of beef), not a dish"}
-{"id":"Q1275345","verdict":"keep"}
-{"id":"Q12754541","verdict":"keep"}
+{"id":"Q1275345","verdict":"keep","countries":["AT"],"reason":"Schöberl is Austrian soup garnish."}
+{"id":"Q12754541","verdict":"keep","countries":["ME","RS"],"reason":"Lenja pita is explicitly Montenegrin and Serbian."}
 {"id":"Q1275518","verdict":"keep"}
-{"id":"Q12757321","verdict":"keep"}
-{"id":"Q12758929","verdict":"keep"}
+{"id":"Q12757321","verdict":"keep","countries":["RS"],"reason":"Plazma cake is a Serbian biscuit-based cake, not the biscuit brand page itself."}
+{"id":"Q12758929","verdict":"keep","countries":["RS"],"reason":"Slavski kolač is explicitly Serbian celebration bread."}
 {"id":"Q127599395","verdict":"keep"}
 {"id":"Q127606236","verdict":"keep"}
 {"id":"Q12761030","verdict":"keep"}
 {"id":"Q127685020","verdict":"keep"}
 {"id":"Q127685368","verdict":"keep"}
 {"id":"Q127688644","verdict":"keep"}
-{"id":"Q12777734","verdict":"keep"}
+{"id":"Q12777734","verdict":"keep","countries":["SK"],"reason":"Independent second country review: Treszka names Slovak treska cod-and-mayonnaise salad; Hungarian transliteration did not establish Hungary."}
 {"id":"Q12784236","verdict":"keep"}
 {"id":"Q12785386","verdict":"keep"}
 {"id":"Q12785648","verdict":"keep"}
-{"id":"Q1278785","verdict":"keep"}
+{"id":"Q1278785","verdict":"keep","countries":["NL"],"reason":"Kibbeling is explicitly Dutch fried fish."}
 {"id":"Q1278788","verdict":"keep"}
-{"id":"Q1278795","verdict":"keep"}
+{"id":"Q1278795","verdict":"keep","countries":["DE"],"reason":"Potthucke is a German potato casserole."}
 {"id":"Q127975406","verdict":"keep"}
 {"id":"Q12799268","verdict":"keep"}
-{"id":"Q128006259","verdict":"keep"}
+{"id":"Q128006259","verdict":"keep","countries":["IN"],"reason":"Dal pitha is explicitly Bihari."}
 {"id":"Q128034120","verdict":"remove","reason":"branded candy (Trolli)"}
 {"id":"Q12806195","verdict":"keep"}
 {"id":"Q12806669","verdict":"keep"}
@@ -223,27 +223,27 @@
 {"id":"Q12812820","verdict":"keep"}
 {"id":"Q12812924","verdict":"keep"}
 {"id":"Q12812990","verdict":"keep"}
-{"id":"Q12813066","verdict":"keep"}
-{"id":"Q12814360","verdict":"keep"}
+{"id":"Q12813066","verdict":"keep","countries":["TR"],"reason":"Şevketibostan yemeği is explicitly Turkish."}
+{"id":"Q12814360","verdict":"keep","countries":["HU","SI"],"reason":"Fumu is a traditional bread of the Hungarian Slovenian border area."}
 {"id":"Q12817265","verdict":"keep"}
 {"id":"Q12821","verdict":"keep"}
-{"id":"Q12822374","verdict":"keep"}
-{"id":"Q128239140","verdict":"keep"}
+{"id":"Q12822374","verdict":"keep","countries":["UZ"],"reason":"Gijda is Uzbek bread."}
+{"id":"Q128239140","verdict":"keep","countries":["DE"],"reason":"Naute has a German confectionery label as the available regional fallback."}
 {"id":"Q12824052","verdict":"keep"}
-{"id":"Q128257664","verdict":"keep"}
-{"id":"Q12827502","verdict":"keep"}
-{"id":"Q12829823","verdict":"keep"}
+{"id":"Q128257664","verdict":"keep","countries":["IT"],"reason":"The spaghetti dish is Italian pasta."}
+{"id":"Q12827502","verdict":"keep","countries":["UZ"],"reason":"Miyoncha is an Uzbek dessert."}
+{"id":"Q12829823","verdict":"keep","countries":["UZ","TJ"],"reason":"Patir is shared Uzbek and Tajik bread."}
 {"id":"Q12835574","verdict":"keep"}
 {"id":"Q12837200","verdict":"keep"}
 {"id":"Q12838065","verdict":"keep"}
-{"id":"Q1283824","verdict":"keep"}
-{"id":"Q12839883","verdict":"keep"}
+{"id":"Q1283824","verdict":"keep","countries":["VN"],"reason":"Nộm is explicitly Vietnamese salad."}
+{"id":"Q12839883","verdict":"keep","countries":["AZ","TR"],"reason":"Azeri herb kuku has Azerbaijani and the stated Turkish recipe associations."}
 {"id":"Q12841103","verdict":"keep"}
-{"id":"Q12844474","verdict":"keep"}
-{"id":"Q12845074","verdict":"keep"}
-{"id":"Q12845878","verdict":"keep"}
-{"id":"Q12848581","verdict":"keep"}
-{"id":"Q12848613","verdict":"keep"}
+{"id":"Q12844474","verdict":"keep","countries":["AZ"],"reason":"Gogal is Azerbaijani pastry despite the Arabic label."}
+{"id":"Q12845074","verdict":"keep","countries":["TR"],"reason":"Salçalı biftek is explicitly Turkish."}
+{"id":"Q12845878","verdict":"keep","countries":["AZ"],"reason":"Soyutma is explicitly Azerbaijani."}
+{"id":"Q12848581","verdict":"keep","countries":["AZ"],"reason":"The strawberry pie is the Azerbaijani-named version."}
+{"id":"Q12848613","verdict":"keep","countries":["RU"],"reason":"Chudu is a Dagestani stuffed flatbread."}
 {"id":"Q1284887","verdict":"keep"}
 {"id":"Q12849581","verdict":"keep"}
 {"id":"Q12850403","verdict":"keep"}
@@ -256,13 +256,13 @@
 {"id":"Q128713376","verdict":"keep"}
 {"id":"Q12874138","verdict":"keep"}
 {"id":"Q128752600","verdict":"keep"}
-{"id":"Q1287602","verdict":"keep"}
+{"id":"Q1287602","verdict":"keep","countries":["PL","DE"],"reason":"Liegnitzer Bomben has Silesian Polish and German baking ties."}
 {"id":"Q128791403","verdict":"keep"}
 {"id":"Q1287919","verdict":"keep"}
-{"id":"Q128803497","verdict":"keep"}
-{"id":"Q128804541","verdict":"keep"}
-{"id":"Q12880652","verdict":"keep"}
-{"id":"Q12880790","verdict":"keep"}
+{"id":"Q128803497","verdict":"keep","countries":["ES"],"reason":"Pastas de pescado has Spanish naming as the available recipe fallback."}
+{"id":"Q128804541","verdict":"remove","reason":"Independent second country review: Hot soup defines only serving temperature and a grouping rather than a particular dish; removal stands.","countries":[]}
+{"id":"Q12880652","verdict":"keep","countries":["GR"],"reason":"Manitaropita is Greek mushroom pie."}
+{"id":"Q12880790","verdict":"keep","countries":["CY"],"reason":"Mahalepi is explicitly Cypriot."}
 {"id":"Q12881337","verdict":"keep"}
 {"id":"Q12884619","verdict":"keep"}
 {"id":"Q12884882","verdict":"keep"}

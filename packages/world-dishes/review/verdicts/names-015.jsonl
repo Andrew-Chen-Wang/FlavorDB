@@ -10,10 +10,10 @@
 {"id":"Q12033864","verdict":"keep"}
 {"id":"Q12033904","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech biscuits"}
 {"id":"Q12037401","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech confection"}
-{"id":"Q120378681","verdict":"keep"}
+{"id":"Q120378681","verdict":"keep","countries":["BR"],"reason":"Ensopado de turu is Brazilian Amazonian shipworm stew."}
 {"id":"Q1203893","verdict":"keep"}
 {"id":"Q12038988","verdict":"keep"}
-{"id":"Q120391804","verdict":"keep"}
+{"id":"Q120391804","verdict":"keep","countries":["PH","TH","JP"],"reason":"Fried chicken skin has Filipino, Thai and Japanese snack traditions."}
 {"id":"Q120394663","verdict":"keep","countries":["CN"],"reason":"countries empty; Chinese soup"}
 {"id":"Q120395550","verdict":"keep","countries":["GB"],"reason":"countries empty; British Chinese dish"}
 {"id":"Q120400795","verdict":"keep","countries":["ES"],"reason":"countries empty; Spanish fries"}
@@ -23,7 +23,7 @@
 {"id":"Q120422413","verdict":"keep"}
 {"id":"Q12044493","verdict":"keep","countries":["FR"],"reason":"countries empty; French salad"}
 {"id":"Q12045473","verdict":"keep","countries":["AT"],"reason":"countries empty; Austrian torte"}
-{"id":"Q12045578","verdict":"keep"}
+{"id":"Q12045578","verdict":"keep","countries":["US","IL"],"reason":"Cooked beef brisket has American barbecue and Jewish Israeli traditions."}
 {"id":"Q1204605","verdict":"keep"}
 {"id":"Q120471689","verdict":"keep","reason":"Bissau-Guinean chicken dish, not Spanish","countries":["GW"]}
 {"id":"Q12047663","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech snack"}
@@ -39,11 +39,11 @@
 {"id":"Q1205609","verdict":"keep"}
 {"id":"Q12056671","verdict":"keep"}
 {"id":"Q12058996","verdict":"keep"}
-{"id":"Q120598334","verdict":"keep"}
+{"id":"Q120598334","verdict":"keep","countries":["AF","PK"],"reason":"Maghzi nut halva has Afghan and Pakistani associations."}
 {"id":"Q120599590","verdict":"keep","countries":["IN"],"reason":"countries empty; Kerala dish"}
 {"id":"Q120600488","verdict":"keep"}
 {"id":"Q12061056","verdict":"keep"}
-{"id":"Q120640342","verdict":"keep"}
+{"id":"Q120640342","verdict":"keep","countries":["FR"],"reason":"Francillon salad is the French Dumas potato-and-mussel salad."}
 {"id":"Q120648396","verdict":"keep"}
 {"id":"Q120648586","verdict":"keep"}
 {"id":"Q120669355","verdict":"keep"}
@@ -51,18 +51,18 @@
 {"id":"Q120682642","verdict":"keep"}
 {"id":"Q12070251","verdict":"keep","reason":"Shared East African collard-green preparation","countries":["KE","TZ","UG"]}
 {"id":"Q120703855","verdict":"keep","countries":["US"],"reason":"countries empty; American cookie"}
-{"id":"Q12071938","verdict":"keep"}
+{"id":"Q12071938","verdict":"keep","countries":["FR","IT","US"],"reason":"Vanilla ice cream has established French, Italian and American traditions."}
 {"id":"Q1207626","verdict":"keep"}
 {"id":"Q120766622","verdict":"remove","reason":"fictional video-game material"}
 {"id":"Q1207732","verdict":"keep"}
-{"id":"Q120783890","verdict":"keep"}
-{"id":"Q1208221","verdict":"keep"}
+{"id":"Q120783890","verdict":"keep","countries":["JP"],"reason":"Bell castella is Japanese suzu kasutera."}
+{"id":"Q1208221","verdict":"remove","countries":[],"reason":"Independent second country review: Rolled oats are uncooked cereal flakes and a plain culinary ingredient; no recipe is supplied, unlike cooked porridge."}
 {"id":"Q120824242","verdict":"keep","countries":["IN"],"reason":"countries empty; Rajasthani dish"}
 {"id":"Q120829140","verdict":"keep"}
-{"id":"Q120831995","verdict":"keep"}
+{"id":"Q120831995","verdict":"keep","countries":["IT"],"reason":"Fedde del Cancelliere is Sicilian confectionery."}
 {"id":"Q120841934","verdict":"remove","reason":"Ukanshin ryori denotes royal banquet cuisine, rather than one dish."}
 {"id":"Q12084278","verdict":"keep"}
-{"id":"Q12085692","verdict":"keep"}
+{"id":"Q12085692","verdict":"keep","countries":["RU","BY"],"reason":"Burachinka is an East Slavic beet-based dish, Russian and Belarusian ties."}
 {"id":"Q120860928","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
 {"id":"Q120867636","verdict":"remove","reason":"Ryukyu gashi is the collective tradition of Ryukyuan confectionery, rather than one dish."}
 {"id":"Q120878037","verdict":"keep"}
@@ -89,15 +89,15 @@
 {"id":"Q12106077","verdict":"keep"}
 {"id":"Q12107189","verdict":"keep"}
 {"id":"Q121075973","verdict":"keep"}
-{"id":"Q121076628","verdict":"keep"}
+{"id":"Q121076628","verdict":"keep","countries":["IL","PL","MA","IQ"],"reason":"Sabbath stew has Israeli, Ashkenazi Polish, Moroccan and Iraqi Jewish traditions."}
 {"id":"Q121085597","verdict":"keep"}
 {"id":"Q121089786","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean porridge"}
-{"id":"Q12109320","verdict":"keep"}
+{"id":"Q12109320","verdict":"keep","countries":["RU","BY","UA"],"reason":"Kulaga porridge belongs to shared East Slavic traditions."}
 {"id":"Q121096316","verdict":"keep"}
 {"id":"Q121115158","verdict":"keep","countries":["US"],"reason":"countries empty; Southern US dish"}
 {"id":"Q1211297","verdict":"keep"}
 {"id":"Q121133789","verdict":"keep"}
-{"id":"Q121140766","verdict":"keep"}
+{"id":"Q121140766","verdict":"keep","countries":["FR"],"reason":"Blonde chocolate was developed in French chocolate-making."}
 {"id":"Q121157049","verdict":"keep"}
 {"id":"Q121157575","verdict":"keep"}
 {"id":"Q121162872","verdict":"keep"}
@@ -115,7 +115,7 @@
 {"id":"Q121438054","verdict":"remove","reason":"2023 event, not a dish"}
 {"id":"Q121483583","verdict":"keep","countries":["UA"],"reason":"countries empty; Ukrainian soup"}
 {"id":"Q121544620","verdict":"keep"}
-{"id":"Q12156539","verdict":"keep"}
+{"id":"Q12156539","verdict":"keep","countries":["IL","MA","IQ"],"reason":"Hamin has Israeli and Sephardi/Mizrahi Moroccan and Iraqi Jewish traditions."}
 {"id":"Q12158729","verdict":"keep"}
 {"id":"Q12159935","verdict":"keep"}
 {"id":"Q121600417","verdict":"keep"}
@@ -123,7 +123,7 @@
 {"id":"Q121601792","verdict":"keep","countries":["DE"],"reason":"countries empty; German dish"}
 {"id":"Q12160988","verdict":"keep","countries":["UA"],"reason":"countries empty; Ukrainian porridge"}
 {"id":"Q12162645","verdict":"keep"}
-{"id":"Q121632964","verdict":"keep","reason":"Dried pasta is not exclusively Catalan or Spanish"}
+{"id":"Q121632964","verdict":"keep","reason":"Dried pasta has established Italian culinary association despite Catalan naming.","countries":["IT"]}
 {"id":"Q121686412","verdict":"keep"}
 {"id":"Q121695915","verdict":"keep"}
 {"id":"Q1216990","verdict":"keep","countries":["ES"],"reason":"countries empty; Navarrese dish"}
@@ -134,12 +134,12 @@
 {"id":"Q121757100","verdict":"keep"}
 {"id":"Q121788204","verdict":"keep"}
 {"id":"Q121788679","verdict":"keep","countries":["ES"],"reason":"countries empty; Spanish confection"}
-{"id":"Q121791577","verdict":"keep"}
+{"id":"Q121791577","verdict":"keep","countries":["DZ"],"reason":"Chbah es safra is Algerian sweet tajine."}
 {"id":"Q12179369","verdict":"keep"}
 {"id":"Q121804925","verdict":"keep","countries":["CN"],"reason":"countries empty; Suzhou mooncake"}
 {"id":"Q121811773","verdict":"remove","reason":"article about bread in folk beliefs, not a dish"}
 {"id":"Q121832765","verdict":"keep"}
-{"id":"Q12184379","verdict":"keep"}
+{"id":"Q12184379","verdict":"remove","countries":[],"reason":"Independent second country review: Sparse Arabic label al-burai does not identify a placeable dish; provisional Sudan attribution has no support and Arabic alone has no dominant country."}
 {"id":"Q1218450","verdict":"keep"}
 {"id":"Q121858197","verdict":"keep"}
 {"id":"Q121862998","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
@@ -156,27 +156,27 @@
 {"id":"Q12195766","verdict":"keep"}
 {"id":"Q12197801","verdict":"keep"}
 {"id":"Q12199101","verdict":"keep","countries":["EH","MR"],"reason":"countries empty; Western Saharan dish"}
-{"id":"Q121994113","verdict":"keep"}
+{"id":"Q121994113","verdict":"keep","countries":["IQ","IL"],"reason":"Tbeet is Iraqi Jewish Sabbath rice and chicken."}
 {"id":"Q12200","verdict":"keep"}
 {"id":"Q122017831","verdict":"keep","countries":["ES"],"reason":"countries empty; Spanish recipe"}
-{"id":"Q12203234","verdict":"keep"}
+{"id":"Q12203234","verdict":"keep","countries":["IQ","SA","IL"],"reason":"Meat-stuffed dates have Iraqi, Arabian and Israeli cooking traditions."}
 {"id":"Q122045403","verdict":"keep","countries":["IN"],"reason":"countries empty; Kerala dessert"}
 {"id":"Q12208569","verdict":"keep"}
 {"id":"Q12208571","verdict":"keep"}
 {"id":"Q12212000","verdict":"keep"}
-{"id":"Q12212197","verdict":"keep"}
-{"id":"Q12213597","verdict":"keep"}
+{"id":"Q12212197","verdict":"keep","countries":["IQ","TR"],"reason":"Eggplant dolma belongs to Iraqi and Turkish traditions."}
+{"id":"Q12213597","verdict":"keep","countries":["EG","PS","JO","SY"],"reason":"Independent second country review: Lentil and ruqaq bread preparation also belongs to Palestinian, Jordanian and Syrian cooking, not Egypt alone."}
 {"id":"Q12214836","verdict":"keep"}
-{"id":"Q122154","verdict":"keep"}
-{"id":"Q122167947","verdict":"keep"}
+{"id":"Q122154","verdict":"keep","countries":["KR","JP","CN","US"],"reason":"Puffed rice cakes have Korean, Japanese, Chinese and American snack traditions."}
+{"id":"Q122167947","verdict":"keep","countries":["BO"],"reason":"Jawita is a Bolivian empanada."}
 {"id":"Q12218191","verdict":"keep","countries":["LB","SY"],"reason":"countries empty; Levantine stew"}
 {"id":"Q12218486","verdict":"keep"}
-{"id":"Q12219244","verdict":"keep"}
+{"id":"Q12219244","verdict":"keep","countries":["FI","SE","IR","TR"],"reason":"Spinach soup has Finnish, Swedish, Iranian and Turkish traditions."}
 {"id":"Q12220257","verdict":"keep"}
 {"id":"Q12220420","verdict":"keep","reason":"Shared Levantine fish and rice dish","countries":["LB","SY","PS","JO"]}
 {"id":"Q1222099","verdict":"keep"}
 {"id":"Q12221610","verdict":"keep"}
-{"id":"Q12221948","verdict":"keep"}
+{"id":"Q12221948","verdict":"keep","countries":["IQ"],"reason":"Meat torpedo croquettes are an Iraqi Arabic recipe form."}
 {"id":"Q122228524","verdict":"keep"}
 {"id":"Q122237047","verdict":"keep","countries":["IN","BD"],"reason":"countries empty; Bengali dish"}
 {"id":"Q122237637","verdict":"keep","countries":["BD"],"reason":"countries empty; Dhaka dish"}
@@ -188,7 +188,7 @@
 {"id":"Q12224442","verdict":"keep"}
 {"id":"Q12224780","verdict":"keep","reason":"Arikah is shared southern Arabian preparation","countries":["YE","SA"]}
 {"id":"Q122258938","verdict":"keep","countries":["JP"],"reason":"countries empty; Ogasawara cuisine"}
-{"id":"Q12227158","verdict":"keep"}
+{"id":"Q12227158","verdict":"remove","reason":"Independent second country review: Christ-thorn honey is a plain animal ingredient with no preparation recipe; removal is consistent with raw-ingredient rule.","countries":[]}
 {"id":"Q122292341","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese confection"}
 {"id":"Q122295640","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
 {"id":"Q12230290","verdict":"keep"}
@@ -209,7 +209,7 @@
 {"id":"Q12236278","verdict":"keep","countries":["PS"],"reason":"countries empty; Nablus dish"}
 {"id":"Q122362951","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
 {"id":"Q12236379","verdict":"keep","countries":["EG"],"reason":"countries empty; Egyptian dish"}
-{"id":"Q122370317","verdict":"keep"}
+{"id":"Q122370317","verdict":"keep","countries":["JP"],"reason":"Tanuki cake is Japanese bakery confectionery."}
 {"id":"Q122370327","verdict":"keep"}
 {"id":"Q12237734","verdict":"keep"}
 {"id":"Q12238558","verdict":"keep"}
@@ -221,12 +221,12 @@
 {"id":"Q12243625","verdict":"keep"}
 {"id":"Q12244460","verdict":"keep"}
 {"id":"Q1224461","verdict":"keep"}
-{"id":"Q12244832","verdict":"keep"}
+{"id":"Q12244832","verdict":"keep","countries":["EG"],"reason":"Negresco chicken pasta is an Egyptian creamy baked-pasta dish."}
 {"id":"Q122451068","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
-{"id":"Q122453617","verdict":"keep"}
+{"id":"Q122453617","verdict":"keep","countries":["US","FR"],"reason":"Beggars purse stuffed crepe has American restaurant and French crepe associations."}
 {"id":"Q122514382","verdict":"keep"}
 {"id":"Q122528692","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese korokke"}
-{"id":"Q1225577","verdict":"keep","reason":"Generic dill potatoes; German label alone insufficient for German-only override"}
+{"id":"Q1225577","verdict":"keep","reason":"Independent second country review: Dill potatoes are shared German, Swedish, Danish and Austrian cooking; added Austrian association.","countries":["DE","SE","DK","AT"]}
 {"id":"Q12259249","verdict":"keep"}
 {"id":"Q122599104","verdict":"keep"}
 {"id":"Q122609155","verdict":"keep","countries":["BO"],"reason":"countries empty; Bolivian food"}
@@ -235,7 +235,7 @@
 {"id":"Q12264276","verdict":"keep","reason":"Palatschinke family shared across Central Europe and Balkans","countries":["AT","CZ","SK","HU","RO","HR","RS","SI","BA"]}
 {"id":"Q122644102","verdict":"keep"}
 {"id":"Q122650685","verdict":"keep","countries":["TH"],"reason":"countries empty; Thai dish"}
-{"id":"Q1226539","verdict":"keep"}
+{"id":"Q1226539","verdict":"keep","countries":["DE","CH","AT"],"reason":"Spelt bread has German, Swiss and Austrian traditions."}
 {"id":"Q122659569","verdict":"keep"}
 {"id":"Q122662498","verdict":"keep","countries":["CA"],"reason":"countries empty; Canadian confection"}
 {"id":"Q1226651","verdict":"keep"}
@@ -251,10 +251,10 @@
 {"id":"Q122746645","verdict":"keep"}
 {"id":"Q12275182","verdict":"keep"}
 {"id":"Q122759178","verdict":"keep"}
-{"id":"Q122762284","verdict":"keep"}
+{"id":"Q122762284","verdict":"keep","countries":["KR"],"reason":"Sparse Korean-script dish entry; Korean name-language is last-resort version association."}
 {"id":"Q122780671","verdict":"keep","countries":["DE"],"reason":"countries empty; German pastry"}
-{"id":"Q122780717","verdict":"keep"}
-{"id":"Q122780744","verdict":"keep","reason":"Generic walnut bread; French label alone insufficient for French-only override"}
+{"id":"Q122780717","verdict":"keep","countries":["CH"],"reason":"Haslikuchen is Swiss Hasli cake."}
+{"id":"Q122780744","verdict":"keep","reason":"Pain aux noix has French and Swiss walnut-bread traditions.","countries":["FR","CH"]}
 {"id":"Q122782077","verdict":"keep"}
 {"id":"Q1227853","verdict":"keep"}
 {"id":"Q122790013","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
@@ -281,9 +281,9 @@
 {"id":"Q12290687","verdict":"keep","countries":["BG"],"reason":"countries empty; Bulgarian dish"}
 {"id":"Q12290688","verdict":"keep","countries":["BG"],"reason":"countries empty; Bulgarian dish"}
 {"id":"Q122915710","verdict":"keep"}
-{"id":"Q122917163","verdict":"keep"}
+{"id":"Q122917163","verdict":"keep","countries":["GB","US","FR","DE"],"reason":"Homemade bread follows established British, American, French and German bread-baking traditions."}
 {"id":"Q12291791","verdict":"keep","countries":["BG"],"reason":"countries empty; Bulgarian dish"}
-{"id":"Q122921187","verdict":"keep","reason":"Generic onion bread; German label alone insufficient for German-only override"}
+{"id":"Q122921187","verdict":"keep","reason":"Zwiebelbrot is German onion bread.","countries":["DE"]}
 {"id":"Q12292267","verdict":"keep"}
 {"id":"Q122925646","verdict":"keep"}
 {"id":"Q12293376","verdict":"keep","countries":["BG"],"reason":"countries empty; Bulgarian dish"}
@@ -291,10 +291,10 @@
 {"id":"Q12293790","verdict":"keep"}
 {"id":"Q122938110","verdict":"keep","countries":["UA"],"reason":"countries empty; Ukrainian noodles"}
 {"id":"Q122940800","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
-{"id":"Q122948159","verdict":"keep"}
+{"id":"Q122948159","verdict":"keep","countries":["TH","BR"],"reason":"Stuffed pineapple has Thai pineapple-rice and Brazilian savory stuffed-fruit traditions."}
 {"id":"Q122948483","verdict":"keep","countries":["NG"],"reason":"countries empty; Nigerian food"}
 {"id":"Q122956346","verdict":"keep"}
-{"id":"Q122957244","verdict":"keep"}
-{"id":"Q12295770","verdict":"keep"}
+{"id":"Q122957244","verdict":"keep","countries":["CN"],"reason":"Egg fried rice has established Chinese culinary association."}
+{"id":"Q12295770","verdict":"keep","countries":["CN","TR","MX","SE"],"reason":"Meatball soup has Chinese, Turkish, Mexican and Swedish traditions."}
 {"id":"Q122958910","verdict":"keep"}
 {"id":"Q122960549","verdict":"keep"}

@@ -1,4 +1,4 @@
-{"id":"Q11481915","verdict":"keep"}
+{"id":"Q11481915","verdict":"keep","countries":["JP"],"reason":"Hibameshi is Japanese seasoned rice."}
 {"id":"Q114839857","verdict":"keep","countries":["TH"],"reason":"Thai dish; countries were empty"}
 {"id":"Q11484234","verdict":"keep","countries":["JP"],"reason":"Japanese dish; countries were empty"}
 {"id":"Q11484441","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
@@ -10,8 +10,8 @@
 {"id":"Q11489261","verdict":"keep"}
 {"id":"Q11489657","verdict":"keep"}
 {"id":"Q11489671","verdict":"keep","countries":["JP"],"reason":"Japanese donburi; countries were empty"}
-{"id":"Q114905118","verdict":"keep"}
-{"id":"Q114924","verdict":"keep"}
+{"id":"Q114905118","verdict":"keep","countries":["ES"],"reason":"Sparse bread entry; Bisalto name suggests Spanish-language version, last-resort association."}
+{"id":"Q114924","verdict":"keep","countries":["US","IT"],"reason":"T-bone/porterhouse steak has American steakhouse and Italian bistecca traditions."}
 {"id":"Q114932667","verdict":"keep","countries":["NL"],"reason":"Dutch speculaas biscuit; countries were empty"}
 {"id":"Q114962926","verdict":"keep"}
 {"id":"Q11496877","verdict":"keep"}
@@ -25,8 +25,8 @@
 {"id":"Q11499534","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
 {"id":"Q1150150","verdict":"keep"}
 {"id":"Q115016178","verdict":"keep"}
-{"id":"Q115016236","verdict":"keep"}
-{"id":"Q11501703","verdict":"keep"}
+{"id":"Q115016236","verdict":"keep","countries":["IN","BD"],"reason":"Labangalatika is a shared Bengali sweet."}
+{"id":"Q11501703","verdict":"keep","countries":["JP"],"reason":"Shinkoyaki is the Asahikawa grilled chicken dish."}
 {"id":"Q11502783","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
 {"id":"Q11502972","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
 {"id":"Q115033296","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries were empty"}
@@ -47,7 +47,7 @@
 {"id":"Q1151092","verdict":"keep"}
 {"id":"Q11511882","verdict":"keep","countries":["JP"],"reason":"second opinion: kobujime is also the prepared kombu-cured fish dish of Toyama, documented by Japan's traditional food directory"}
 {"id":"Q11511884","verdict":"keep"}
-{"id":"Q11512091","verdict":"keep"}
+{"id":"Q11512091","verdict":"keep","countries":["JP"],"reason":"Myogata ham is a Japanese regional ham."}
 {"id":"Q11512298","verdict":"remove","reason":"branded packaged product (Meiji Probio Yogurt R-1)"}
 {"id":"Q115125851","verdict":"keep"}
 {"id":"Q115131840","verdict":"keep","countries":["KR"],"reason":"Korean doughnut; countries were empty"}
@@ -55,12 +55,12 @@
 {"id":"Q115141348","verdict":"keep"}
 {"id":"Q115142470","verdict":"keep"}
 {"id":"Q11514494","verdict":"keep","countries":["JP"],"reason":"Japanese tsukudani-style dish; countries were empty"}
-{"id":"Q11514495","verdict":"keep"}
-{"id":"Q115147923","verdict":"keep"}
+{"id":"Q11514495","verdict":"keep","countries":["JP"],"reason":"Shigure hamaguri is Japanese simmered clam preparation."}
+{"id":"Q115147923","verdict":"keep","countries":["GB","NL","DE","SE","NO","DK"],"reason":"Smoked herring has established British, Dutch, German and Nordic traditions."}
 {"id":"Q115149470","verdict":"keep","countries":["FR"],"reason":"Berlingot de Berck is French; countries were empty"}
 {"id":"Q115152134","verdict":"keep","countries":["NO","SE"],"reason":"second opinion: havreflarn are shared Norwegian and Swedish oat cookies"}
 {"id":"Q11516405","verdict":"keep","countries":["JP"],"reason":"Japanese confection; countries were empty"}
-{"id":"Q115164521","verdict":"keep"}
+{"id":"Q115164521","verdict":"keep","countries":["PL"],"reason":"Sztufada is Polish braised meat."}
 {"id":"Q115164693","verdict":"keep","countries":["RU"],"reason":"Russian stew; countries were empty"}
 {"id":"Q115165283","verdict":"remove","reason":"cooking technique (pot roasting), not a dish"}
 {"id":"Q115166223","verdict":"keep","countries":["DE"],"reason":"German potato dumpling; countries were empty"}
@@ -68,7 +68,7 @@
 {"id":"Q11517913","verdict":"keep","countries":["JP"],"reason":"Japanese shigureni; countries were empty"}
 {"id":"Q11517915","verdict":"keep","countries":["JP"],"reason":"Japanese dengaku; countries were empty"}
 {"id":"Q11517918","verdict":"keep"}
-{"id":"Q115188364","verdict":"keep"}
+{"id":"Q115188364","verdict":"keep","countries":["GM","SN"],"reason":"Benachin/been cin is Gambian and Senegalese one-pot rice."}
 {"id":"Q115193624","verdict":"keep"}
 {"id":"Q115193731","verdict":"keep"}
 {"id":"Q115193750","verdict":"keep"}
@@ -77,27 +77,27 @@
 {"id":"Q115205825","verdict":"keep","countries":["DE"],"reason":"German bread roll; countries were empty"}
 {"id":"Q11521610","verdict":"keep"}
 {"id":"Q11521612","verdict":"keep","countries":["JP"],"reason":"Japanese sushi; countries were empty"}
-{"id":"Q115217655","verdict":"keep"}
+{"id":"Q115217655","verdict":"keep","countries":["TR","GR","LB","SY","IL","PS","RO","BG","RU","UA"],"reason":"Independent second country review: Eggplant salad includes Turkish and Greek salads, Levantine spreads, Romanian and Bulgarian salads and eastern European caviar; broadened shared associations."}
 {"id":"Q115259290","verdict":"keep","countries":["TR"],"reason":"Turkish pastry from Maras; countries were empty"}
 {"id":"Q11527297","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
-{"id":"Q1152783","verdict":"keep"}
+{"id":"Q1152783","verdict":"keep","countries":["SE","DK","NO","IS","FO","FI"],"reason":"Independent second country review: Nordic fried pastry klenät includes Swedish-Finnish tradition as well as klejner and kleinur; added FI."}
 {"id":"Q1152821","verdict":"keep"}
-{"id":"Q11528422","verdict":"keep"}
+{"id":"Q11528422","verdict":"keep","countries":["JP"],"reason":"Tundabun is Okinawan banquet food."}
 {"id":"Q115294063","verdict":"keep"}
 {"id":"Q11529950","verdict":"keep","countries":["JP"],"reason":"Japanese sushi; countries were empty"}
 {"id":"Q115301187","verdict":"keep"}
 {"id":"Q115304508","verdict":"keep","countries":["FI"],"reason":"Finnish rye bread; countries were empty"}
-{"id":"Q115315058","verdict":"keep"}
-{"id":"Q115353571","verdict":"keep"}
+{"id":"Q115315058","verdict":"keep","countries":["PT"],"reason":"Biscoito twice-baked sea bread has Portuguese maritime association."}
+{"id":"Q115353571","verdict":"keep","countries":["FR","HU","DE"],"reason":"Savory egg-coated bread has French toast, Hungarian bundas kenyer and German traditions."}
 {"id":"Q11535612","verdict":"keep","countries":["JP"],"reason":"Japanese mochi; countries were empty"}
 {"id":"Q115356237","verdict":"keep"}
 {"id":"Q11535786","verdict":"keep"}
 {"id":"Q11536097","verdict":"keep"}
 {"id":"Q11536098","verdict":"keep","countries":["JP"],"reason":"Japanese manju; countries were empty"}
 {"id":"Q11536457","verdict":"keep","countries":["JP"],"reason":"Japanese miso soup; countries were empty"}
-{"id":"Q11537649","verdict":"keep"}
+{"id":"Q11537649","verdict":"keep","countries":["JP"],"reason":"Kippan is explicitly Okinawan confectionery."}
 {"id":"Q11537667","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
-{"id":"Q115377291","verdict":"keep"}
+{"id":"Q115377291","verdict":"keep","countries":["FR"],"reason":"French tuna omelette version; dominant dish-name language fallback."}
 {"id":"Q115380402","verdict":"remove","reason":"branded candy (Kirstein Blockmalz), not a dish"}
 {"id":"Q11538228","verdict":"keep","countries":["JP"],"reason":"Japanese nabe; countries were empty"}
 {"id":"Q11538239","verdict":"keep","countries":["JP"],"reason":"Japanese rice dish; countries were empty"}
@@ -106,7 +106,7 @@
 {"id":"Q11538971","verdict":"keep","countries":["CN"],"reason":"Sichuan dish; countries were empty"}
 {"id":"Q11540467","verdict":"remove","reason":"second opinion: saogashi groups bar-shaped wagashi such as yokan and uiro, not one dish"}
 {"id":"Q1154164","verdict":"keep"}
-{"id":"Q11542213","verdict":"keep"}
+{"id":"Q11542213","verdict":"keep","countries":["JP"],"reason":"Shibetsu yokan is Japanese local confectionery."}
 {"id":"Q1154225","verdict":"keep"}
 {"id":"Q11542761","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
 {"id":"Q115450440","verdict":"keep","countries":["DE"],"reason":"German soup; countries were empty"}
@@ -127,18 +127,18 @@
 {"id":"Q11550577","verdict":"keep","countries":["JP"],"reason":"Japanese donburi; countries were empty"}
 {"id":"Q11550988","verdict":"remove","reason":"second opinion: Edo three sushi groups three historical sushi shops/styles, not one dish"}
 {"id":"Q11551104","verdict":"keep"}
-{"id":"Q115512140","verdict":"keep"}
+{"id":"Q115512140","verdict":"keep","countries":["TR","GR","BG","RO","HU","IT","ES","US","MX"],"reason":"Independent second country review: Stuffed sweet peppers are shared Turkish, Balkan, Italian, Spanish, American and Mexican food; previous list omitted major associations."}
 {"id":"Q115515499","verdict":"keep"}
 {"id":"Q115518680","verdict":"keep"}
 {"id":"Q115519518","verdict":"keep"}
 {"id":"Q11552547","verdict":"keep"}
-{"id":"Q11554312","verdict":"keep"}
+{"id":"Q11554312","verdict":"keep","countries":["US","GB","DE","AT","HU","MX","PH","CN"],"reason":"Independent second country review: Cracklings are prepared fat-skin snacks; Chinese oil-residue name adds CN to the named European, American and Filipino traditions."}
 {"id":"Q11554329","verdict":"keep"}
 {"id":"Q11554370","verdict":"keep","countries":["CN","JP","KR"],"reason":"second opinion: retain Chinese, Japanese-Chinese and Korean-Chinese associations of oil-dressed fried chicken, as described in the dish metadata"}
 {"id":"Q115549260","verdict":"keep"}
 {"id":"Q115549787","verdict":"keep","countries":["KR"],"reason":"Korean rice dish; countries were empty"}
 {"id":"Q115550020","verdict":"keep"}
-{"id":"Q11555357","verdict":"keep"}
+{"id":"Q11555357","verdict":"keep","countries":["JP"],"reason":"Named miso preparation belongs to Japanese cuisine."}
 {"id":"Q11555424","verdict":"keep"}
 {"id":"Q11556392","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
 {"id":"Q11556400","verdict":"keep","countries":["JP"],"reason":"Japanese miso; countries were empty"}
@@ -149,7 +149,7 @@
 {"id":"Q11559815","verdict":"keep"}
 {"id":"Q11559819","verdict":"keep","countries":["JP"],"reason":"Japanese gyudon; countries were empty"}
 {"id":"Q11559843","verdict":"keep","countries":["JP"],"reason":"Japanese yokan; countries were empty"}
-{"id":"Q115607763","verdict":"keep","reason":"second opinion: bean paste is prepared food, not a plain raw bean ingredient"}
+{"id":"Q115607763","verdict":"keep","reason":"Bean pastes have established Chinese, Japanese and Korean culinary traditions.","countries":["CN","JP","KR"]}
 {"id":"Q115607987","verdict":"keep"}
 {"id":"Q115610227","verdict":"keep"}
 {"id":"Q115615436","verdict":"keep"}
@@ -157,23 +157,23 @@
 {"id":"Q115618375","verdict":"remove","reason":"product category (tortilla and wrap bread), not a dish"}
 {"id":"Q115618379","verdict":"remove","reason":"product category (candy covered fruit), not a dish"}
 {"id":"Q115619093","verdict":"remove","reason":"category (ice cream novelty), not a dish"}
-{"id":"Q115619132","verdict":"keep"}
+{"id":"Q115619132","verdict":"keep","countries":["CN","JP","KR","VN","TH"],"reason":"Sticky rice cakes belong to shared East and Southeast Asian traditions."}
 {"id":"Q115619224","verdict":"remove","reason":"product category (ice cream and frozen yogurt), not a dish"}
-{"id":"Q115626192","verdict":"keep"}
+{"id":"Q115626192","verdict":"keep","countries":["GB","IE","RU","SE","FI","NO"],"reason":"Oatmeal porridge has established British, Irish, Russian and Nordic ties."}
 {"id":"Q11562894","verdict":"keep"}
 {"id":"Q11562975","verdict":"keep","countries":["JP"],"reason":"Japanese manju; countries were empty"}
 {"id":"Q11563737","verdict":"keep","countries":["JP"],"reason":"Japanese rice dish; countries were empty"}
 {"id":"Q11564080","verdict":"keep","countries":["JP"],"reason":"Japanese nabe; countries were empty"}
 {"id":"Q115641438","verdict":"remove","reason":"dining custom (couvert), not a dish"}
 {"id":"Q11564153","verdict":"keep"}
-{"id":"Q11565590","verdict":"keep"}
+{"id":"Q11565590","verdict":"keep","countries":["JP"],"reason":"Tsukemono steak is the Hida Japanese pickled-vegetable dish."}
 {"id":"Q11565716","verdict":"keep"}
 {"id":"Q1156634","verdict":"keep"}
 {"id":"Q115663659","verdict":"keep"}
 {"id":"Q11566510","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
 {"id":"Q1156703","verdict":"remove","reason":"second opinion: Dachhase is a nickname for a domestic cat, not the German pastry claimed by the first reviewer"}
 {"id":"Q11567137","verdict":"keep","countries":["JP"],"reason":"Japanese senbei; countries were empty"}
-{"id":"Q11567617","verdict":"keep"}
+{"id":"Q11567617","verdict":"keep","countries":["JP"],"reason":"This grilled eggplant entry is explicitly classified as yakimono."}
 {"id":"Q11567618","verdict":"keep"}
 {"id":"Q11567619","verdict":"keep"}
 {"id":"Q11567620","verdict":"keep"}
@@ -195,11 +195,11 @@
 {"id":"Q11570019","verdict":"keep"}
 {"id":"Q115700524","verdict":"keep"}
 {"id":"Q11570067","verdict":"keep","countries":["JP"],"reason":"Japanese senbei; countries were empty"}
-{"id":"Q115702169","verdict":"keep"}
+{"id":"Q115702169","verdict":"keep","countries":["PL","BG","LT","RU","ES"],"reason":"Cucumber soup has Polish, Bulgarian, Lithuanian, Russian and Spanish traditions."}
 {"id":"Q11570229","verdict":"keep","countries":["JP"],"reason":"Japanese mochi; countries were empty"}
 {"id":"Q11570320","verdict":"keep"}
 {"id":"Q11570322","verdict":"keep"}
-{"id":"Q115708671","verdict":"keep"}
+{"id":"Q115708671","verdict":"keep","countries":["FR"],"reason":"Generic omelette follows established French culinary association."}
 {"id":"Q115714347","verdict":"keep"}
 {"id":"Q115714743","verdict":"keep"}
 {"id":"Q115714993","verdict":"keep"}
@@ -216,8 +216,8 @@
 {"id":"Q11574384","verdict":"keep"}
 {"id":"Q11574395","verdict":"keep","countries":["JP"],"reason":"Japanese caramel; countries were empty"}
 {"id":"Q11574427","verdict":"keep"}
-{"id":"Q115754730","verdict":"keep"}
-{"id":"Q115766697","verdict":"keep"}
+{"id":"Q115754730","verdict":"keep","countries":["BE"],"reason":"Onze-Lieve-Vrouw guimauves are Belgian religious-shaped marshmallows."}
+{"id":"Q115766697","verdict":"keep","countries":["RU"],"reason":"Explicit Chechen cuisine association, Russia."}
 {"id":"Q11576725","verdict":"keep","countries":["JP"],"reason":"Japanese nabe; countries were empty"}
 {"id":"Q1157710","verdict":"keep","countries":["JP"],"reason":"Japanese natto dish; countries were empty"}
 {"id":"Q1157769","verdict":"keep"}
@@ -226,23 +226,23 @@
 {"id":"Q115791834","verdict":"keep"}
 {"id":"Q11579290","verdict":"keep","countries":["JP"],"reason":"Japanese dashi; countries were empty"}
 {"id":"Q11579516","verdict":"keep","countries":["JP"],"reason":"Japanese seafood stew; countries were empty"}
-{"id":"Q1157952","verdict":"keep"}
+{"id":"Q1157952","verdict":"keep","countries":["CZ","SK"],"reason":"Livance pancakes are Czech and Slovak."}
 {"id":"Q11579832","verdict":"keep","countries":["JP"],"reason":"Japanese monaka; countries were empty"}
-{"id":"Q115798940","verdict":"keep"}
+{"id":"Q115798940","verdict":"keep","countries":["VE"],"reason":"Independent second country review: Pan camaleon is Venezuelan sweet bread; Spanish-language name did not justify Spain."}
 {"id":"Q11579948","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
-{"id":"Q115799674","verdict":"keep"}
+{"id":"Q115799674","verdict":"keep","countries":["IT","US"],"reason":"Rum-raisin ice cream has Italian gelato and American ice-cream traditions."}
 {"id":"Q11580081","verdict":"keep","countries":["JP"],"reason":"Japanese dango; countries were empty"}
 {"id":"Q115800879","verdict":"keep","countries":["IT"],"reason":"Italian pasta dish; countries were empty"}
-{"id":"Q115801829","verdict":"keep"}
+{"id":"Q115801829","verdict":"keep","countries":["GB"],"reason":"Balmoral chicken is a Scottish dish."}
 {"id":"Q115801864","verdict":"keep"}
-{"id":"Q115801972","verdict":"keep"}
+{"id":"Q115801972","verdict":"keep","countries":["US"],"reason":"Possum pie is explicitly American, especially Arkansas."}
 {"id":"Q115802607","verdict":"keep","countries":["IT"],"reason":"Sicilian pasta dish; countries were empty"}
 {"id":"Q115802819","verdict":"keep","countries":["GU","MP"],"reason":"second opinion: estufao belongs to shared Chamorro food traditions of the Mariana Islands"}
 {"id":"Q115802987","verdict":"keep","countries":["GU","MP"],"reason":"second opinion: tinaktak is Chamorro/Mariana Islands food, not Filipino"}
 {"id":"Q11580315","verdict":"keep","countries":["JP"],"reason":"Japanese curry; countries were empty"}
 {"id":"Q115804031","verdict":"keep"}
 {"id":"Q115804147","verdict":"keep","countries":["GU","MP"],"reason":"second opinion: kaddon pika belongs to shared Chamorro food traditions of the Mariana Islands"}
-{"id":"Q11580451","verdict":"keep"}
+{"id":"Q11580451","verdict":"keep","countries":["JP"],"reason":"White sweet bean paste is Japanese shiroan."}
 {"id":"Q11580511","verdict":"keep"}
 {"id":"Q11581336","verdict":"keep"}
 {"id":"Q115814329","verdict":"keep"}
@@ -272,7 +272,7 @@
 {"id":"Q11598630","verdict":"keep","countries":["JP"],"reason":"Japanese chikuwa; countries were empty"}
 {"id":"Q11599096","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
 {"id":"Q11599871","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
-{"id":"Q116007922","verdict":"keep"}
+{"id":"Q116007922","verdict":"keep","countries":["CH"],"reason":"Soupe de chalet is the Swiss Gruyere mountain soup."}
 {"id":"Q116008541","verdict":"keep"}
 {"id":"Q116009562","verdict":"keep","countries":["TH"],"reason":"Thai curry; countries were empty"}
 {"id":"Q11602513","verdict":"keep"}

@@ -1,5 +1,5 @@
 {"id":"wikibooks:turkish-dolma-pilav","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ATurkish_Dolma_Pilav","status":"ok"}]}
-{"id":"wikibooks:turmeric-chicken-and-asparagus-stir-fry","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ATurmeric_Chicken_and_Asparagus_Stir-Fry","status":"ok"}]}
+{"id":"wikibooks:turmeric-chicken-and-asparagus-stir-fry","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ATurmeric_Chicken_and_Asparagus_Stir-Fry","status":"ok"}],"countries":["US"],"reason":"The source explicitly identifies United States origin and the New York Times recipe adaptation."}
 {"id":"wikibooks:turon-filipino-plantain-spring-rolls","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ATuron_(Filipino_Plantain_Spring_Rolls)","status":"ok"}]}
 {"id":"wikibooks:tuscan-bean-soup","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ATuscan_Bean_Soup","status":"ok"}]}
 {"id":"wikibooks:tuscan-mushroom-risotto","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ATuscan_Mushroom_Risotto","status":"ok"}]}
@@ -13,7 +13,7 @@
 {"id":"wikibooks:tvorog-russian-farmer-cheese","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ATvorog_(Russian_Farmer_Cheese)","status":"ok"}]}
 {"id":"wikibooks:twice-baked-potatoes-i","verdict":"keep","name":"Twice-Baked Potatoes","reason":"Remove cookbook variant numbering.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ATwice-Baked_Potatoes_I","status":"ok"}]}
 {"id":"wikibooks:twice-baked-potatoes-ii","verdict":"keep","name":"Twice-Baked Potatoes","reason":"Remove cookbook variant numbering.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ATwice-Baked_Potatoes_II","status":"ok"}]}
-{"id":"wikibooks:two-ingredient-brownies","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ATwo-Ingredient_Brownies","status":"ok"}]}
+{"id":"wikibooks:two-ingredient-brownies","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ATwo-Ingredient_Brownies","status":"ok"}],"countries":["US"],"reason":"Brownies have an established American association and this version explicitly adapts American Tasty."}
 {"id":"wikibooks:tyropita-greek-cheese-pie","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ATyropita_(Greek_Cheese_Pie)","status":"ok"}]}
 {"id":"wikibooks:ugali-maize-porridge","verdict":"keep","countries":["KE","TZ"],"reason":"Source explicitly ties this maize porridge to Kenya and Tanzania.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AUgali_(Maize_Porridge)","status":"ok"}]}
 {"id":"wikibooks:ugali-rwandan-cornmeal-porridge","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AUgali_(Rwandan_Cornmeal_Porridge)","status":"ok"}]}
