@@ -1,6 +1,6 @@
-{"id":"wikibooks-de:gulasch-grundrezept","verdict":"keep","countries":["HU"],"reason":"added HU; source says Gulasch originates in Hungary","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Gulasch_Grundrezept","status":"ok"}]}
-{"id":"wikibooks-de:gulaschsuppe","verdict":"keep","countries":["HU"],"reason":"added HU; Hungarian gulyás soup","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Gulaschsuppe","status":"ok"}]}
-{"id":"wikibooks-de:gulaschsuppe-scharf","verdict":"keep","countries":["HU"],"reason":"added HU; Hungarian-style goulash soup","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Gulaschsuppe_scharf","status":"ok"}]}
+{"id":"wikibooks-de:gulasch-grundrezept","verdict":"keep","countries":["HU","AT","DE","CZ","SK"],"reason":"Shared Hungarian and Central European goulash tradition","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Gulasch_Grundrezept","status":"ok"}]}
+{"id":"wikibooks-de:gulaschsuppe","verdict":"keep","countries":["HU","AT","DE"],"reason":"Goulash soup is tied to Hungary, Austria and Germany","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Gulaschsuppe","status":"ok"}]}
+{"id":"wikibooks-de:gulaschsuppe-scharf","verdict":"keep","countries":["HU","AT","DE"],"reason":"Goulash soup is tied to Hungary, Austria and Germany","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Gulaschsuppe_scharf","status":"ok"}]}
 {"id":"wikibooks-de:gurkensalat","verdict":"keep","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Gurkensalat","status":"ok"}]}
 {"id":"wikibooks-de:gute-laune-drink","verdict":"remove","reason":"drink (milk and strawberry smoothie)"}
 {"id":"wikibooks-de:gyros-pfanne-mit-tomaten-zwiebeln-und-pfirsich","verdict":"keep","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Gyros_Pfanne_mit_Tomaten%2C_Zwiebeln_und_Pfirsich","status":"ok"}]}
@@ -17,7 +17,7 @@
 {"id":"wikibooks-de:hefeteig","verdict":"keep","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Hefeteig","status":"ok"}]}
 {"id":"wikibooks-de:heißes-wasser","verdict":"remove","reason":"technique page (how to heat water), not a dish"}
 {"id":"wikibooks-de:hering-blau","verdict":"keep","countries":["DE"],"reason":"added DE; German classic (Blaukochen)","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Hering_blau","status":"ok"}]}
-{"id":"wikibooks-de:hering-unter-dem-pelzmantel","verdict":"keep","countries":["RU"],"reason":"added RU; Russian herring salad","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Hering_unter_dem_Pelzmantel","status":"ok"}]}
+{"id":"wikibooks-de:hering-unter-dem-pelzmantel","verdict":"keep","countries":["RU","UA","BY"],"reason":"Shared former Soviet layered herring salad, including Russian, Ukrainian and Belarusian cooking","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Hering_unter_dem_Pelzmantel","status":"ok"}]}
 {"id":"wikibooks-de:heringssalat","verdict":"keep","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Heringssalat","status":"ok"}]}
 {"id":"wikibooks-de:heringsstipp","verdict":"keep","countries":["DE"],"reason":"added DE; Bergisches Land and Lower Rhine dish","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Heringsstipp","status":"ok"}]}
 {"id":"wikibooks-de:hildabrötchen","verdict":"keep","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Hildabr%C3%B6tchen","status":"ok"}]}
