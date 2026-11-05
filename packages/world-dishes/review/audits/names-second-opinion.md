@@ -310,3 +310,9 @@ Manually reread each selected name override against its original batch entry; fo
 | r-463.jsonl | wikibooks:apple-pie-i | Apple Pie | Apple Pie | Confirmed: removes only the cookbook recipe variant numeral. |
 | r-463.jsonl | wikibooks:apple-pie-ii | Apple Pie | Apple Pie | Confirmed: removes only the cookbook recipe variant numeral. |
 | r-464.jsonl | wikibooks:arambasici-croatian-sour-cabbage-rolls | Arambašići (Croatian Sour Cabbage Rolls) | Arambašići (Croatian Sour Cabbage Rolls) | Confirmed: original description encodes Arambašići with Croatian š and ć; override restores those letters. |
+
+## Final first-pass production check
+
+After all 675 verdict files were completed (final production commit `9cad20c`), an exact file/id/name inventory found **304 current name overrides, all covered by this manual second opinion**, and **0 unaudited or changed override values**. Both Apple Pie entries in r-463 and the Croatian Arambašići spelling in r-464 are included above.
+
+The ledger records 306 audited targets: 304 retained name overrides and two reversed overrides. Three original decisions changed: retain the chef-specific Gordon Ramsay's Beef Wellington; identify Tahu aci rather than its generic tahu goreng parent; retain the source spelling Burgonya Orlay-módra rather than the unsupported Orly correction. Later changes to a final override value require another targeted reread.
