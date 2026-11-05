@@ -271,3 +271,10 @@ Manually reread each selected name override against its original batch entry; fo
 | r-462.jsonl | wikibooks:anzac-biscuits-ii | Anzac Biscuits | Anzac Biscuits | Confirmed: removes only the recipe variant numeral from the original name. |
 | r-497.jsonl | wikibooks:cuban-sandwich-i | Cuban Sandwich | Cuban Sandwich | Confirmed: removes only the recipe variant numeral from the original name. |
 | r-497.jsonl | wikibooks:cuban-sandwich-ii | Cuban Sandwich | Cuban Sandwich | Confirmed: removes only the recipe variant numeral from the original name. |
+| r-378.jsonl | wikibooks-pt:arroz-de-forno-cru | Arroz de forno cru | Arroz de forno cru | Confirmed: punctuation cleanup retains the Portuguese name and raw-rice preparation qualifier. |
+| r-378.jsonl | wikibooks-pt:atum-rhalahdo | Atum ralado | Atum ralado | Confirmed: ralado is the Portuguese spelling explicitly used for tuna in the raw ingredients. |
+| r-498.jsonl | wikibooks:curry-chicken-i | Curry Chicken | Curry Chicken | Confirmed: removes only cookbook recipe enumeration from the original dish name. |
+| r-498.jsonl | wikibooks:curry-chicken-ii | Curry Chicken | Curry Chicken | Confirmed: removes only cookbook recipe enumeration from the original dish name. |
+| r-499.jsonl | wikibooks:deep-fried-urad-and-rice-flour-dough-balls-murukku | Murukku | Murukku | Confirmed: retains the source dish name Murukku while dropping the misleading dough-balls gloss. |
+| r-524.jsonl | wikibooks:hummus-i | Hummus | Hummus | Confirmed: removes only cookbook recipe enumeration from the original dish name. |
+| r-524.jsonl | wikibooks:hummus-iii | Hummus | Hummus | Confirmed: removes only cookbook recipe enumeration from the original dish name. |
