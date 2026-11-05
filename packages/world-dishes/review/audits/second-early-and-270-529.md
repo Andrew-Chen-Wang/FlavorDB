@@ -2,7 +2,7 @@
 
 Audited every remove verdict and countries override in these files against the actual batch entry and its full available raw source. Names are being checked separately. No content judgments were automated.
 
-Completed: r-212, r-215, r-218, r-221, r-224, r-230, r-236, r-242, r-247, r-248, r-250 through r-299, r-301 through r-305, r-440 through r-457, r-460, r-461, r-470 through r-487, r-490 through r-495, r-497, r-498, r-500 through r-523 (r-523 has no remove or countries targets), r-525 through r-529.
+Completed: r-212, r-215, r-218, r-221, r-224, r-230, r-236, r-242, r-247, r-248, r-250 through r-299, r-301 through r-305, r-440 through r-457, r-459 through r-461, r-470 through r-487, r-490 through r-495, r-497, r-498, r-500 through r-523 (r-523 has no remove or countries targets), r-525 through r-529.
 
 Corrections committed:
 - r-455: include Poland for charlotte/szarlotka; the source explicitly includes a Warsaw variant.
