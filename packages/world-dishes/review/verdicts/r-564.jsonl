@@ -1,0 +1,19 @@
+{"id":"wikibooks:pepper-crusted-chicken","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APepper-Crusted_Chicken","status":"ok"}]}
+{"id":"wikibooks:pepper-crusted-flank-steak","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APepper_Crusted_Flank_Steak","status":"ok"}]}
+{"id":"wikibooks:pepper-soda","verdict":"remove","reason":"Carbonated soft drink","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APepper_Soda","status":"ok"}]}
+{"id":"wikibooks:peppercorn-strip-steaks-with-cognac-cream-sauce","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APeppercorn_Strip_Steaks_with_Cognac_Cream_Sauce","status":"ok"}]}
+{"id":"wikibooks:pepperoni-pasta-salad","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APepperoni_Pasta_Salad","status":"ok"}]}
+{"id":"wikibooks:percolator-punch","verdict":"remove","reason":"Hot fruit juice punch beverage","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APercolator_Punch","status":"ok"}]}
+{"id":"wikibooks:perfect-three-course-dinner","verdict":"remove","reason":"Menu for several dishes; extracted recipe is only its bread component","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APerfect_Three_Course_Dinner","status":"drop","reason":"Menu page, extracted bread is not a dish called Perfect Three Course Dinner"}]}
+{"id":"wikibooks:persian-apple-dessert","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APersian_Apple_Dessert","status":"ok"}]}
+{"id":"wikibooks:persian-rice-with-pistachio-sauce","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APersian_Rice_with_Pistachio_Sauce","status":"ok"}]}
+{"id":"wikibooks:peruvian-molded-rice-arroz-tapado","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APeruvian_Molded_Rice_(Arroz_Tapado)","status":"ok"}]}
+{"id":"wikibooks:pesto-i","verdict":"keep","name":"Pesto","reason":"Remove recipe variant number","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APesto_I","status":"ok"}]}
+{"id":"wikibooks:pesto-ii","verdict":"keep","name":"Pesto","reason":"Remove recipe variant number","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APesto_II","status":"ok"}]}
+{"id":"wikibooks:pezzetti-di-cavallo-italian-horse-and-tomato","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APezzetti_di_Cavallo_(Italian_Horse_and_Tomato)","status":"ok"}]}
+{"id":"wikibooks:ph-b-vietnamese-beef-noodle-soup","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APh%E1%BB%9F_B%C3%B2_(Vietnamese_Beef_Noodle_Soup)","status":"ok"}]}
+{"id":"wikibooks:ph-g-vietnamese-chicken-noodle-soup","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APh%E1%BB%9F_G%C3%A0_(Vietnamese_Chicken_Noodle_Soup)","status":"ok"}]}
+{"id":"wikibooks:philly-cheesesteak","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APhilly_Cheesesteak","status":"ok"}]}
+{"id":"wikibooks:phulourie-split-pea-fritters","verdict":"keep","countries":["IN","TT","GY","SR"],"reason":"Split-pea phulourie is associated with Indo-Caribbean cooking as well as its Indian roots","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APhulourie_(Split_Pea_Fritters)","status":"ok"}]}
+{"id":"wikibooks:pi-on-spanish-stovetop-pot-pie","verdict":"keep","countries":["PR"],"reason":"Piñon is a Puerto Rican layered plantain and meat dish","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APi%C3%B1on_(Spanish_Stovetop_Pot_Pie)","status":"ok"}]}
+{"id":"wikibooks:piadina-thin-italian-flatbread","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APiadina_(Thin_Italian_Flatbread)","status":"ok"}]}
