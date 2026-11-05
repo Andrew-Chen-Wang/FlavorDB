@@ -3,7 +3,7 @@
 {"id":"Q125660200","verdict":"keep"}
 {"id":"Q125661541","verdict":"keep"}
 {"id":"Q125681425","verdict":"keep","countries":["AZ"],"reason":"countries were empty; Azerbaijani cookie"}
-{"id":"Q12568984","verdict":"keep","countries":["KZ"],"reason":"countries were empty; Kazakh sausage"}
+{"id":"Q12568984","verdict":"keep","countries":["UZ","KZ"],"reason":"Central Asian rice and offal sausage, particularly Uzbek hasip"}
 {"id":"Q12569086","verdict":"keep","countries":["RU"],"reason":"countries were empty; Buryat dish (Russia)"}
 {"id":"Q12569285","verdict":"keep"}
 {"id":"Q125700998","verdict":"keep"}
@@ -36,7 +36,7 @@
 {"id":"Q125823765","verdict":"remove","reason":"drinking cup (object), not food"}
 {"id":"Q12583445","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean dish"}
 {"id":"Q12584589","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean bread"}
-{"id":"Q12584598","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese dessert"}
+{"id":"Q12584598","verdict":"keep","countries":["CN","KR"],"reason":"Chinese sweet with explicit Korean Chinese cuisine association"}
 {"id":"Q125848063","verdict":"keep","countries":["BR"],"reason":"countries were empty; Brazilian dish"}
 {"id":"Q1258510","verdict":"keep"}
 {"id":"Q12585924","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean snack"}
@@ -162,7 +162,7 @@
 {"id":"Q12717245","verdict":"keep"}
 {"id":"Q127256854","verdict":"keep"}
 {"id":"Q127271189","verdict":"keep"}
-{"id":"Q12728629","verdict":"keep","countries":["RO"],"reason":"countries were empty; Romanian dish"}
+{"id":"Q12728629","verdict":"remove","reason":"Frupt denotes broad non-fasting dairy meat and egg foods, not a single dish"}
 {"id":"Q12729772","verdict":"keep","countries":["RO"],"reason":"countries were empty; Romanian dish"}
 {"id":"Q127316296","verdict":"keep"}
 {"id":"Q127344726","verdict":"remove","reason":"branded packaged candy (AirHeads multi-pack)"}

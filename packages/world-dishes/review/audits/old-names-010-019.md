@@ -12,6 +12,7 @@ In progress. Original batch inputs are absent. This audit reads each targeted ve
 | names-015 | 118 | Complete |
 | names-016 | 78 | Complete |
 | names-017 | 52 | Complete |
+| names-018 | 73 | Complete |
 
 names-010 corrections: restored zuke as prepared marinated fish; fixed Japanese pressed ham and Russian/Ukrainian kotleta countries; preserved Persian/Turkish/Cypriot as well as Levantine muhallebi ties; removed three overlooked branded products (Puyoman, Mamador, Peasen).
 
@@ -38,3 +39,5 @@ names-015: corrected Cafriela from ES to GW; restored shared countries for East 
 names-016: retained Timor-Leste in shared Lusophone feijoada associations, corrected papo-seco to Portugal, expanded liver-dumpling soup ties. Raw honey, salt, vegetables and museum-object removals upheld. Sources: https://tradicional.dgadr.gov.pt/pt/cat/pao-e-produtos-de-panificacao/327-paozinho ; https://visiteasttimor.com/id/makanan-timor-leste/ .
 
 names-017: corrected Swiss zigouille-moustique, Tunisian Ain sbaniouria and Japanese Nagoya Taiwan dishes; added Russia to Dalan, removed unsupported generic country inferences. Sources: https://les-amis-du-patrimoine-de-lens.ch/files/769/ami-14.pdf ; https://www.cuisinetunisienne.tn/ain-sbaniouria/ ; https://rakuzo.dkdining.com/nagoyanishiki/en/blog/6651/ ; https://www.nagoya-info.jp/en/gourmet/?s_genre%5B%5D=40 .
+
+names-018: added Uzbek hasip and Korean-Chinese sweet associations; removed frupt as broad Orthodox non-fasting food category. Branded candy, drinks and raw-fruit/oxtail removals upheld. Sources: https://api.unilibrary.uz/storage/PublisherResourceFile/315763/images/1684835481.pdf ; https://www.dictionarroman.ro/?c=frupt .
