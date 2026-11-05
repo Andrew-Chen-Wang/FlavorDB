@@ -2,7 +2,7 @@
 
 Audited every remove verdict and countries override in these files against the actual batch entry and its full available raw source. Names are being checked separately. No content judgments were automated.
 
-Completed: r-212, r-215, r-218, r-221, r-224, r-230, r-236, r-242, r-247, r-248, r-250 through r-299, r-301 through r-305, r-440 through r-457, r-459 through r-529 (r-523 has no remove or countries targets).
+Completed: r-212, r-215, r-218, r-221, r-224, r-230, r-236, r-242, r-247, r-248, r-250 through r-299, r-301 through r-305, r-440 through r-529 (r-523 has no remove or countries targets).
 
 Corrections committed:
 - r-467: include Italy for béchamel/besciamella, alongside France and Beeton’s British preparation.
@@ -14,4 +14,4 @@ Corrections committed:
 
 r-300 cannot yet be audited because its actual batch file is absent.
 
-Remaining assigned files will be added only after their actual entries have been read.
+All assigned remove/countries audits are complete except r-300, whose actual batch file is absent. Batches r-306 through r-319 were reassigned to the checker worker and are recorded separately.
