@@ -47,7 +47,7 @@
 {"id":"Q56292893","verdict":"remove","reason":"raw ingredient (brown shrimp flesh), not a prepared dish"}
 {"id":"Q56294997","verdict":"keep"}
 {"id":"Q56295002","verdict":"keep"}
-{"id":"Q56295510","verdict":"keep","countries":["DE"],"reason":"German dish; countries were empty"}
+{"id":"Q56295510","verdict":"keep"}
 {"id":"Q56296735","verdict":"keep"}
 {"id":"Q56297456","verdict":"keep"}
 {"id":"Q56297683","verdict":"keep"}
@@ -55,7 +55,7 @@
 {"id":"Q56299640","verdict":"keep"}
 {"id":"Q56299804","verdict":"keep"}
 {"id":"Q56299924","verdict":"keep"}
-{"id":"Q56299959","verdict":"keep","countries":["PT"],"reason":"Portuguese rice dessert; countries were empty"}
+{"id":"Q56299959","verdict":"keep","countries":["PT","BR"],"reason":"Second opinion: arroz doce is associated with Portugal and Brazil"}
 {"id":"Q56300018","verdict":"keep"}
 {"id":"Q56300140","verdict":"keep"}
 {"id":"Q56307726","verdict":"keep"}
@@ -114,7 +114,7 @@
 {"id":"Q56413424","verdict":"keep"}
 {"id":"Q56413999","verdict":"keep"}
 {"id":"Q56416642","verdict":"keep"}
-{"id":"Q56422976","verdict":"keep","countries":["UA"],"reason":"Ukrainian dish; countries were empty"}
+{"id":"Q56422976","verdict":"keep"}
 {"id":"Q564271","verdict":"keep"}
 {"id":"Q5642869","verdict":"keep"}
 {"id":"Q5643056","verdict":"keep"}
@@ -167,7 +167,7 @@
 {"id":"Q5663370","verdict":"keep"}
 {"id":"Q5663825","verdict":"keep"}
 {"id":"Q5663872","verdict":"keep","countries":["ES"],"reason":"Spanish dish; countries were empty"}
-{"id":"Q56650496","verdict":"keep","countries":["RO"],"reason":"Romanian dish; countries were empty"}
+{"id":"Q56650496","verdict":"keep","countries":["RO","MD"],"reason":"Second opinion: ardei umpluti is shared Romanian and Moldovan food"}
 {"id":"Q5665969","verdict":"keep","countries":["IR"],"reason":"Persian pastry; countries were empty"}
 {"id":"Q5666489","verdict":"keep"}
 {"id":"Q5668956","verdict":"keep","countries":["ES"],"reason":"Catalan dish; countries were empty"}
@@ -198,7 +198,7 @@
 {"id":"Q5684686","verdict":"keep"}
 {"id":"Q5684811","verdict":"keep"}
 {"id":"Q5687118","verdict":"keep"}
-{"id":"Q5687757","verdict":"keep","countries":["IN"],"reason":"Indian dish; countries were empty"}
+{"id":"Q5687757","verdict":"keep","countries":["IN","PK"],"reason":"Second opinion: palak paneer is shared across Indian and Pakistani cuisines"}
 {"id":"Q56877598","verdict":"keep"}
 {"id":"Q56884785","verdict":"keep"}
 {"id":"Q56893397","verdict":"keep"}
@@ -291,7 +291,7 @@
 {"id":"Q5764438","verdict":"keep","countries":["MX"],"reason":"Mexican tamal; countries were empty"}
 {"id":"Q5764649","verdict":"keep"}
 {"id":"Q5765263","verdict":"keep","countries":["EC"],"reason":"Ecuadorian chaulafán; CN was wrong"}
-{"id":"Q57656613","verdict":"remove","reason":"ingredient product (dark chocolate chips), not a dish"}
+{"id":"Q57656613","verdict":"keep","reason":"Second opinion: dark chocolate chips are prepared chocolate, not a plain raw ingredient"}
 {"id":"Q57659729","verdict":"keep"}
 {"id":"Q5766170","verdict":"keep","countries":["CR"],"reason":"Costa Rican dish; countries were empty"}
 {"id":"Q5766593","verdict":"keep"}

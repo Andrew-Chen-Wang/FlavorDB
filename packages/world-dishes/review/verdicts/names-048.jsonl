@@ -39,7 +39,7 @@
 {"id":"Q5832771","verdict":"keep"}
 {"id":"Q58339033","verdict":"keep"}
 {"id":"Q58339162","verdict":"keep"}
-{"id":"Q5834056","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q5834056","verdict":"keep"}
 {"id":"Q5834058","verdict":"keep"}
 {"id":"Q5834310","verdict":"keep"}
 {"id":"Q5834964","verdict":"keep"}
@@ -57,7 +57,7 @@
 {"id":"Q5849978","verdict":"keep"}
 {"id":"Q5851184","verdict":"keep","countries":["IR"],"reason":"added countries"}
 {"id":"Q5851361","verdict":"keep"}
-{"id":"Q5853667","verdict":"keep","countries":["HR"],"reason":"added countries"}
+{"id":"Q5853667","verdict":"keep","countries":["HR","RS","BA","ME","MK","SI"],"reason":"Second opinion: stuffed peppers are shared across Balkan cuisines"}
 {"id":"Q5854461","verdict":"keep","countries":["AR"],"reason":"added countries"}
 {"id":"Q5857706","verdict":"keep"}
 {"id":"Q5858980","verdict":"keep","countries":["IR"],"reason":"added countries"}
@@ -164,7 +164,7 @@
 {"id":"Q597159","verdict":"keep"}
 {"id":"Q5972737","verdict":"keep","countries":["ES"],"reason":"added countries"}
 {"id":"Q5975010","verdict":"keep","countries":["IT"],"reason":"added countries"}
-{"id":"Q5977888","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q5977888","verdict":"keep","countries":["PE"],"reason":"Second opinion: llunca de gallina is a soup from Ancash, Peru, not Spain"}
 {"id":"Q597836","verdict":"keep"}
 {"id":"Q5978632","verdict":"keep"}
 {"id":"Q5978645","verdict":"keep"}
@@ -188,7 +188,7 @@
 {"id":"Q6002018","verdict":"keep"}
 {"id":"Q6002629","verdict":"keep"}
 {"id":"Q60030154","verdict":"keep","countries":["KR"],"reason":"added countries"}
-{"id":"Q6004351","verdict":"keep","countries":["IN"],"reason":"added countries"}
+{"id":"Q6004351","verdict":"keep","countries":["IN","PK"],"reason":"Second opinion: suji ka halwa is shared across India and Pakistan"}
 {"id":"Q6005710","verdict":"keep"}
 {"id":"Q6006053","verdict":"keep"}
 {"id":"Q6006788","verdict":"keep"}
@@ -208,9 +208,9 @@
 {"id":"Q6013161","verdict":"keep"}
 {"id":"Q6013354","verdict":"keep"}
 {"id":"Q6013649","verdict":"keep"}
-{"id":"Q6013660","verdict":"keep","countries":["ES"],"reason":"added countries"}
-{"id":"Q6013663","verdict":"keep","countries":["ES"],"reason":"added countries"}
-{"id":"Q6013667","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q6013660","verdict":"remove","reason":"Second opinion: plain regional honey with no recipe is a raw ingredient"}
+{"id":"Q6013663","verdict":"remove","reason":"Second opinion: plain regional honey with no recipe is a raw ingredient"}
+{"id":"Q6013667","verdict":"remove","reason":"Second opinion: plain regional honey with no recipe is a raw ingredient"}
 {"id":"Q6013710","verdict":"keep"}
 {"id":"Q6013719","verdict":"keep"}
 {"id":"Q6015002","verdict":"keep"}
@@ -275,7 +275,7 @@
 {"id":"Q6051251","verdict":"keep"}
 {"id":"Q605277","verdict":"keep"}
 {"id":"Q6052975","verdict":"keep"}
-{"id":"Q60544188","verdict":"keep","countries":["DE"],"reason":"added countries"}
+{"id":"Q60544188","verdict":"keep","countries":["AT"],"reason":"Second opinion: Maschinrostbraten is an Austrian beef dish"}
 {"id":"Q605444","verdict":"keep"}
 {"id":"Q6056817","verdict":"keep","countries":["ES"],"reason":"added countries"}
 {"id":"Q6057938","verdict":"keep","countries":["TR"],"reason":"added countries"}

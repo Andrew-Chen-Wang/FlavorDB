@@ -33,7 +33,7 @@
 {"id":"Q765257","verdict":"keep"}
 {"id":"Q7654273","verdict":"keep"}
 {"id":"Q7654664","verdict":"remove","reason":"branded candy (Swedish Fish)"}
-{"id":"Q7654910","verdict":"keep","countries":["CA"],"reason":"countries were empty; Canadian candy"}
+{"id":"Q7654910","verdict":"remove","reason":"Second opinion: Swedish Berries is a marketed Maynards candy product"}
 {"id":"Q765540","verdict":"keep"}
 {"id":"Q7655635","verdict":"keep"}
 {"id":"Q7655664","verdict":"keep"}
@@ -64,7 +64,7 @@
 {"id":"Q7694989","verdict":"keep"}
 {"id":"Q7695520","verdict":"keep"}
 {"id":"Q769635","verdict":"keep"}
-{"id":"Q7705355","verdict":"keep","countries":["FI"],"reason":"countries were empty; Finnish liquorice"}
+{"id":"Q7705355","verdict":"remove","reason":"Second opinion: Terva Leijona is a marketed candy product"}
 {"id":"Q7706778","verdict":"keep"}
 {"id":"Q7709195","verdict":"remove","reason":"grouping (Thai salads), not one dish"}
 {"id":"Q7709199","verdict":"keep"}
@@ -92,7 +92,7 @@
 {"id":"Q778396","verdict":"keep"}
 {"id":"Q7784272","verdict":"remove","reason":"branded cookie (Girl Scout Thin Mints)"}
 {"id":"Q7796150","verdict":"keep","countries":["IN"],"reason":"countries were empty; Kerala dish"}
-{"id":"Q77965820","verdict":"keep","countries":["SE"],"reason":"countries were empty; Swedish dish"}
+{"id":"Q77965820","verdict":"keep"}
 {"id":"Q7799573","verdict":"keep"}
 {"id":"Q7799954","verdict":"keep"}
 {"id":"Q7800152","verdict":"keep"}
@@ -122,7 +122,7 @@
 {"id":"Q78210944","verdict":"keep"}
 {"id":"Q7824331","verdict":"remove","reason":"branded candy (Tootsie Pops)"}
 {"id":"Q7824729","verdict":"remove","reason":"raw cut of meat (ingredient), not a dish"}
-{"id":"Q7824875","verdict":"keep","countries":["TR"],"reason":"countries were empty; Istanbul meze"}
+{"id":"Q7824875","verdict":"keep","countries":["TR","AM"],"reason":"Second opinion: topik is an Armenian dish also associated with Turkey"}
 {"id":"Q7825094","verdict":"keep","countries":["MX"],"reason":"countries were empty; Veracruz dish"}
 {"id":"Q7825801","verdict":"keep"}
 {"id":"Q782709","verdict":"keep"}
@@ -167,7 +167,7 @@
 {"id":"Q7912524","verdict":"remove","reason":"branded candy (Valomilk)"}
 {"id":"Q7914788","verdict":"keep"}
 {"id":"Q79148257","verdict":"keep","countries":["GB"],"reason":"countries were empty; English cheese"}
-{"id":"Q791790","verdict":"remove","reason":"cooking technique (fricassee method), not a dish"}
+{"id":"Q791790","verdict":"keep","reason":"Second opinion: fricassee is an identifiable prepared ragout as well as a cooking method"}
 {"id":"Q7918342","verdict":"keep"}
 {"id":"Q7918345","verdict":"remove","reason":"category (vegetable dishes), not one dish"}
 {"id":"Q7919751","verdict":"keep"}
@@ -204,7 +204,7 @@
 {"id":"Q8051909","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese bean paste"}
 {"id":"Q8051963","verdict":"keep","countries":["IE"],"reason":"countries were empty; Irish confection"}
 {"id":"Q8052488","verdict":"keep"}
-{"id":"Q805344","verdict":"remove","reason":"cooking technique (ballotine), not a dish"}
+{"id":"Q805344","verdict":"keep","reason":"Second opinion: ballotine is a prepared stuffed poultry dish, not merely a technique"}
 {"id":"Q8053485","verdict":"keep"}
 {"id":"Q8053692","verdict":"keep"}
 {"id":"Q8055450","verdict":"remove","reason":"branded fruit jellies (York)"}
@@ -248,7 +248,7 @@
 {"id":"Q8191952","verdict":"keep"}
 {"id":"Q8193769","verdict":"keep"}
 {"id":"Q8194132","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese ramen"}
-{"id":"Q8196212","verdict":"keep","countries":["TR"],"reason":"countries were empty; Turkish pastry"}
+{"id":"Q8196212","verdict":"keep","countries":["TR","GR","BG","BA","RS","AL","MK"],"reason":"Second opinion: borek is shared across Turkish and Balkan cuisines"}
 {"id":"Q8205076","verdict":"keep"}
 {"id":"Q8205079","verdict":"keep"}
 {"id":"Q8205081","verdict":"keep","countries":["ES"],"reason":"countries were empty; Catalan dish"}
@@ -273,7 +273,7 @@
 {"id":"Q8265768","verdict":"remove","reason":"anatomical body part, not a dish"}
 {"id":"Q82753397","verdict":"keep"}
 {"id":"Q829243","verdict":"keep"}
-{"id":"Q829977","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"Q829977","verdict":"keep","countries":["AT"],"reason":"Second opinion: Besoffener Kapuziner is an Austrian dessert; https://austria-forum.org/af/Heimatlexikon/Besoffener_Kapuziner"}
 {"id":"Q83120337","verdict":"keep"}
 {"id":"Q83131350","verdict":"keep"}
 {"id":"Q831381","verdict":"keep"}

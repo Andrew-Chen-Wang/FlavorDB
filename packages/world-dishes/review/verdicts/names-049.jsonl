@@ -55,7 +55,7 @@
 {"id":"Q60775555","verdict":"keep"}
 {"id":"Q60776436","verdict":"keep"}
 {"id":"Q60776617","verdict":"keep"}
-{"id":"Q60776626","verdict":"remove","reason":"fish marinating method, a technique page not a dish"}
+{"id":"Q60776626","verdict":"keep","reason":"Second opinion: Saikyoyaki is prepared miso-marinated grilled fish; https://www.nsouzai-kyoukai.or.jp/grilled-miso-marinated-fish/"}
 {"id":"Q6077919","verdict":"keep"}
 {"id":"Q60785285","verdict":"keep"}
 {"id":"Q60785507","verdict":"keep","countries":["NP"],"reason":"added countries"}
@@ -108,7 +108,7 @@
 {"id":"Q6095240","verdict":"keep"}
 {"id":"Q60964496","verdict":"keep"}
 {"id":"Q60968350","verdict":"keep"}
-{"id":"Q60968355","verdict":"keep","countries":["SE"],"reason":"added countries"}
+{"id":"Q60968355","verdict":"remove","reason":"Second opinion: raw diced lamb sold for stew, with no recipe; https://svensktkott.se/om-kott/styckdetaljer/lamm/grytbitar-tarnatstrimlat/"}
 {"id":"Q60970570","verdict":"keep"}
 {"id":"Q60974738","verdict":"keep","countries":["RU"],"reason":"SU is not a valid current code; Soviet-era Russian sauce"}
 {"id":"Q60977870","verdict":"keep"}
@@ -160,7 +160,7 @@
 {"id":"Q6112632","verdict":"keep"}
 {"id":"Q61127179","verdict":"keep"}
 {"id":"Q61127980","verdict":"keep"}
-{"id":"Q61128129","verdict":"keep","countries":["BA"],"reason":"added countries"}
+{"id":"Q61128129","verdict":"keep","countries":["BA","RS"],"reason":"Second opinion: salcici has Bosnian and Serbian traditions, including Serbian dessert metadata"}
 {"id":"Q61128132","verdict":"keep"}
 {"id":"Q61129128","verdict":"keep"}
 {"id":"Q61134376","verdict":"keep"}
@@ -194,7 +194,7 @@
 {"id":"Q6132927","verdict":"keep"}
 {"id":"Q61355028","verdict":"keep"}
 {"id":"Q61355424","verdict":"keep","countries":["IN","BD"],"reason":"added countries"}
-{"id":"Q61356432","verdict":"remove","reason":"generic bread slice, not a dish"}
+{"id":"Q61356432","verdict":"keep","reason":"Second opinion: a slice of prepared bread is food, not a plain raw ingredient"}
 {"id":"Q61357071","verdict":"keep"}
 {"id":"Q61359762","verdict":"keep","countries":["IN"],"reason":"added countries"}
 {"id":"Q61359888","verdict":"keep","countries":["BD"],"reason":"added countries"}
@@ -236,7 +236,7 @@
 {"id":"Q6154033","verdict":"keep","countries":["KR"],"reason":"added countries"}
 {"id":"Q6155199","verdict":"keep","countries":["MX"],"reason":"added countries"}
 {"id":"Q61579505","verdict":"keep"}
-{"id":"Q61581272","verdict":"keep","countries":["AR"],"reason":"added countries"}
+{"id":"Q61581272","verdict":"keep","countries":["AR","BO"],"reason":"Second opinion: tucumana empanadas are associated with Argentina and Bolivia"}
 {"id":"Q61612","verdict":"keep"}
 {"id":"Q6169641","verdict":"keep"}
 {"id":"Q6169928","verdict":"keep"}
@@ -244,7 +244,7 @@
 {"id":"Q6171844","verdict":"keep","countries":["ES"],"reason":"added countries"}
 {"id":"Q617216","verdict":"keep"}
 {"id":"Q61743260","verdict":"keep"}
-{"id":"Q61750516","verdict":"keep","countries":["CA"],"reason":"added countries"}
+{"id":"Q61750516","verdict":"keep","countries":["CA","FR"],"reason":"Second opinion: tartine is associated with French and Quebec cuisines"}
 {"id":"Q61767137","verdict":"keep"}
 {"id":"Q6176869","verdict":"keep"}
 {"id":"Q6176900","verdict":"keep"}
@@ -257,7 +257,7 @@
 {"id":"Q618910","verdict":"keep"}
 {"id":"Q6189326","verdict":"keep","countries":["KR"],"reason":"added countries"}
 {"id":"Q6189729","verdict":"keep"}
-{"id":"Q61905778","verdict":"keep","countries":["DE"],"reason":"added countries"}
+{"id":"Q61905778","verdict":"keep","countries":["CH"],"reason":"Second opinion: Baumerfladen is from Bauma in Switzerland, not Germany"}
 {"id":"Q6192002","verdict":"keep"}
 {"id":"Q6192074","verdict":"keep"}
 {"id":"Q6192335","verdict":"keep"}
@@ -282,7 +282,7 @@
 {"id":"Q623550","verdict":"keep"}
 {"id":"Q623923","verdict":"keep"}
 {"id":"Q624004","verdict":"keep"}
-{"id":"Q62419125","verdict":"keep","countries":["DE"],"reason":"added countries"}
+{"id":"Q62419125","verdict":"keep","countries":["AT"],"reason":"Second opinion: Schottsuppe is an Austrian soup"}
 {"id":"Q624391","verdict":"keep","countries":["DE"],"reason":"added countries"}
 {"id":"Q625539","verdict":"keep"}
 {"id":"Q625825","verdict":"keep","countries":[],"reason":"UA was wrong; custard is a generic preparation with no single origin"}

@@ -70,7 +70,7 @@
 {"id":"Q855373","verdict":"keep"}
 {"id":"Q855481","verdict":"keep"}
 {"id":"Q855956","verdict":"keep"}
-{"id":"Q856034","verdict":"keep","countries":["LU"],"reason":"countries were empty; Bibbeleskaes is Luxembourgish"}
+{"id":"Q856034","verdict":"keep","countries":["FR","DE"],"reason":"Second opinion: Bibeleskaes is associated with Alsace and Alemannic German cooking, not Luxembourg alone"}
 {"id":"Q85630768","verdict":"keep"}
 {"id":"Q856330","verdict":"keep"}
 {"id":"Q8567266","verdict":"keep"}
@@ -158,7 +158,7 @@
 {"id":"Q860170","verdict":"keep"}
 {"id":"Q86056865","verdict":"keep"}
 {"id":"Q86066688","verdict":"keep"}
-{"id":"Q860808","verdict":"remove","reason":"ingredient (smoke-dried jalapeno), not a dish"}
+{"id":"Q860808","verdict":"keep","reason":"Second opinion: chipotle is deliberately smoke-dried prepared food, not a plain raw pepper"}
 {"id":"Q860985","verdict":"remove","reason":"cut of meat (ingredient), not a dish"}
 {"id":"Q861189","verdict":"keep"}
 {"id":"Q861304","verdict":"keep"}
@@ -167,7 +167,7 @@
 {"id":"Q862595","verdict":"keep"}
 {"id":"Q862974","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean tteok"}
 {"id":"Q863626","verdict":"keep"}
-{"id":"Q863794","verdict":"keep","countries":["US"],"reason":"described as American stew; MX was wrong"}
+{"id":"Q863794","verdict":"keep","countries":["MX","US"],"reason":"Second opinion: chili con carne is commonly associated with both Mexican and Tex-Mex American cooking"}
 {"id":"Q863966","verdict":"keep","countries":["GB"],"reason":"countries were empty; British biscuit"}
 {"id":"Q864154","verdict":"keep"}
 {"id":"Q865004","verdict":"keep","countries":["MA","DZ","TN"],"reason":"countries were empty; Maghreb stew"}
@@ -286,7 +286,7 @@
 {"id":"Q883938","verdict":"keep"}
 {"id":"Q884055","verdict":"remove","reason":"bitters liqueur (drink), not a dish"}
 {"id":"Q88462839","verdict":"keep"}
-{"id":"Q884785","verdict":"remove","reason":"ingredient (baking chocolate), not a dish"}
+{"id":"Q884785","verdict":"keep","reason":"Second opinion: baking chocolate is prepared chocolate, not a plain raw ingredient"}
 {"id":"Q884787","verdict":"keep"}
 {"id":"Q885593","verdict":"keep"}
 {"id":"Q886378","verdict":"keep"}
