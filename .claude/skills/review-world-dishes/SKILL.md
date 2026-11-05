@@ -60,7 +60,8 @@ ones and write the corrected line back. Known mistakes so far:
   (cheeses, sausages, cured meats); remove a plain raw ingredient only when the page is about the
   ingredient and has no recipe.
 
-FlavorDB takes no side on where a dish comes from: a disputed dish lists every country it's commonly
+Every kept dish must have at least one country (the order for choosing one is in `INSTRUCTIONS.md`),
+and the build enforces it. FlavorDB takes no side on where a dish comes from: a disputed dish lists every country it's commonly
 tied to.
 
 ## 4. Apply

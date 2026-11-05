@@ -26,11 +26,18 @@ to write your results.
 2. **Fix obvious data errors**, only when you're confident:
    - `name`: if the name is garbled, has wiki markup, a trailing number, a namespace prefix, or is a
      sentence rather than a name. Keep the dish's own language and spelling; don't translate.
-   - `countries`: ISO 3166-1 alpha-2 codes. Only change them when the current list is clearly wrong
-     or empty and you know where the dish is from. FlavorDB doesn't take sides in origin disputes: list
-     every country the dish is commonly said to belong to. Judge the dish itself, never the language
-     of the cookbook it came from: a Thai curry in the Italian cookbook is TH, and a generic dish that
-     isn't tied to any place (e.g. "fruit salad", "pancakes with jam") gets no country.
+   - `countries`: ISO 3166-1 alpha-2 codes. **Every kept dish must end up with at least one
+     country.** Change the list when it's clearly wrong, and fill it when it's empty. FlavorDB doesn't
+     take sides in origin disputes: list every country the dish is commonly said to belong to (a dish
+     can be multinational). Choose, in this order:
+     1. Where the dish is from or commonly said to belong. Judge the dish itself, not the cookbook's
+        language: a Thai curry in the Italian cookbook is TH.
+     2. A generic dish with no single origin ("fruit salad", "pancakes with jam", a home-style stew):
+        the country whose cooking this version comes from, as the recipe, description or cuisine shows.
+        A Hungarian home recipe from the Hungarian cookbook is HU; a HowToCook home recipe is CN.
+     3. Last resort, when nothing else tells you: the country the name's language points to, when one
+        country clearly dominates (a Hungarian or Polish name → HU or PL).
+        If a dish can't be placed at all, it's almost certainly not a real dish: remove it and say why.
 3. **Each recipe** (`### Recipe N`): compare the _Extracted ingredients_ and _Extracted steps_ with the
    _Raw source page_ underneath.
    - `ok`: the extraction faithfully has the ingredients and the method (small formatting
