@@ -1,0 +1,25 @@
+{"id":"wikibooks:peanut-brittle","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APeanut_Brittle","status":"ok"}]}
+{"id":"wikibooks:peanut-butter-banana-oatmeal","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APeanut_Butter_Banana_Oatmeal","status":"ok"}]}
+{"id":"wikibooks:peanut-butter-banana-smoothie","verdict":"remove","reason":"Peanut butter and banana smoothie drink","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APeanut_Butter_Banana_Smoothie","status":"ok"}]}
+{"id":"wikibooks:peanut-butter-cookies","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APeanut_Butter_Cookies","status":"ok"}]}
+{"id":"wikibooks:peanut-butter-cookies-egg-free","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APeanut_Butter_Cookies_(Egg-Free)","status":"ok"}]}
+{"id":"wikibooks:peanut-butter-fudge","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APeanut_Butter_Fudge","status":"ok"}]}
+{"id":"wikibooks:peanut-butter-pie","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APeanut_Butter_Pie","status":"ok"}]}
+{"id":"wikibooks:peanut-chicken-stir-fry","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APeanut_Chicken_Stir-Fry","status":"ok"}]}
+{"id":"wikibooks:peanut-curry-sauce","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APeanut_Curry_Sauce","status":"ok"}]}
+{"id":"wikibooks:peanut-milk","verdict":"remove","reason":"Plant milk beverage","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APeanut_Milk","status":"ok"}]}
+{"id":"wikibooks:peanut-sauce-saus-kacang","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APeanut_Sauce_(Saus_Kacang)","status":"ok"}]}
+{"id":"wikibooks:peanut-sauce-vegan","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APeanut_Sauce_(Vegan)","status":"ok"}]}
+{"id":"wikibooks:pear-and-almond-smoothie-vegan","verdict":"remove","reason":"Pear smoothie drink","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APear_and_Almond_Smoothie_(Vegan)","status":"ok"}]}
+{"id":"wikibooks:pear-chutney","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APear_Chutney","status":"ok"}]}
+{"id":"wikibooks:pear-cranberry-crisp","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APear-Cranberry_Crisp","status":"ok"}]}
+{"id":"wikibooks:pear-pie","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APear_Pie","status":"ok"}]}
+{"id":"wikibooks:peas-supreme","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APeas_Supreme","status":"ok"}]}
+{"id":"wikibooks:pecan-blondies","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APecan_Blondies","status":"ok"}]}
+{"id":"wikibooks:pecan-spinach-pasta","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APecan_Spinach_Pasta","status":"ok"}]}
+{"id":"wikibooks:pecan-sweet-potatoes","verdict":"keep","countries":["US"],"reason":"Southern American sweet potato casserole with pecan topping","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APecan_Sweet_Potatoes","status":"ok"}]}
+{"id":"wikibooks:pedernales-river-chili","verdict":"keep","countries":["US"],"reason":"Named Texas chili recipe","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APedernales_River_Chili","status":"fixed","reason":"Restore kg unit lost from template","ingredients":["4 lbs (1.8 kg) coarse-ground meat (venison preferred)","1 large onion, chopped","2 cloves garlic, finely chopped","1 teaspoon dried oregano (preferable to fresh oregano, which grows wild in central Texas)","1 teaspoon powdered cumin","6 teaspoons chili powder (or more, to taste)","2 cans (16-oz/500g) whole tomatoes","Salt to taste","2 cups (470 ml) hot water"],"steps":["Brown meat, onion, and garlic in a large skillet.","Add rest of ingredients and bring to a boil. Lower heat, cover, and simmer for about an hour.","Skim off grease."]}]}
+{"id":"wikibooks:penne-alla-casa-penne-in-creamy-tomato-sauce","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APenne_alla_Casa_(Penne_in_Creamy_Tomato_Sauce)","status":"ok"}]}
+{"id":"wikibooks:penne-with-hearty-meat-sauce","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APenne_with_Hearty_Meat_Sauce","status":"ok"}]}
+{"id":"wikibooks:pennsylvania-pot-pie","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APennsylvania_Pot_Pie","status":"ok"}]}
+{"id":"wikibooks:pepes-ikan-indonesian-steamed-fish","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APepes_Ikan_(Indonesian_Steamed_Fish)","status":"ok"}]}
