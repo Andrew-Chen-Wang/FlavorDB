@@ -1,4 +1,4 @@
-# Existing verdict input recovery (in progress)
+# Existing verdict input recovery and second opinion
 
 The supplied archive contains the 378 pending batch inputs. Original inputs for 297 previously
 reviewed verdict files are absent. No tracked batch inputs or fetch cache were found in the
@@ -24,7 +24,7 @@ the linked sources again; newly fetched pages might have changed since import.
 Before the second opinion, the absent-input verdict files contained 1,166 remove verdicts and 7,080
 country overrides. These are the starting audit counts, not completed audit totals.
 
-## Known-error locations
+## Known-error locations in the baseline snapshot
 
 - Tırşik çorbası: Q6083159, `data/dishes-06.jsonl:858`, `verdicts/names-049.jsonl:76`.
   Reversed the erroneous removal as directed by the user; the original reason mistook the poisonous
@@ -57,11 +57,11 @@ and r-215 has 35, each around 69–77 KB). The available build-batches script de
 60-entry scheme and cannot reproduce those boundaries. Without the raw cache, original recipe
 batch boundaries and source text cannot be independently reconstructed.
 
-## Second-opinion progress
+## First audit checkpoint (historical)
 
 Reread every remove verdict and country override against the complete recovered metadata entry in
 `names-000` through `names-004`: 904 targeted entries. This is metadata review; no absent raw source
-is claimed to have been read. Remaining files are still pending second opinion.
+is claimed to have been read. The remaining files were pending at that checkpoint; the final status below supersedes it.
 
 Corrections include restoring Gukbap, Korean hot bar, Jeotgal, and Akidi as prepared foods; removing
 the branded Kexchoklad product and five Bengali fruit/tea drinks previously retained as dishes;
@@ -120,3 +120,9 @@ It verifies missing, unexpected, duplicate, and positional IDs, accepting only t
 variants. This proves global coverage and order when it passes; it does not prove absent original
 recipe batch boundaries. Run it again after all pending workers finish. At implementation time,
 all 17,530 name verdicts matched the baseline exactly, while recipe verdicts were still pending.
+
+## Final status
+
+All older removal and country targets were subsequently reread against complete recovered metadata entries, and all name overrides were independently checked. Coverage ledgers are in `audits/` and `old-recipes-120-159.md`. Name ranges 020–039 covered 1,904 targets (164 corrected verdict lines); 040–058 covered 1,390 targets (123 corrected lines). All 31,832 baseline IDs now have exactly one ordered verdict; the persisted positional manifest covers all 675 batches. This proves global coverage and order, not the missing original raw text or original recipe batch boundaries.
+
+Twenty-seven live raw pages were recovered to close missing recipe-status gaps; those supplemental checks are explicitly identified as live recovery. No absent original snapshot is claimed to have been read. All kept imported recipes now have exactly one source-matched status.

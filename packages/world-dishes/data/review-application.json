@@ -1,0 +1,12 @@
+{
+  "verdictHash": "f4331511907ab9bfe1d4b44cd57a26219a8bf5f11a42280bf529a6a695c47b9d",
+  "outputHash": "abcc3585cffc8972012d69a9f62013a43321188c7245f78e3134afb0055bdb9c",
+  "counts": {
+    "removed": 1682,
+    "emptied": 47,
+    "renamed": 303,
+    "countriesChanged": 9079,
+    "recipesFixed": 1855,
+    "recipesDropped": 73
+  }
+}

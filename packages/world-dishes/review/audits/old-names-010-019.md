@@ -2,18 +2,18 @@
 
 Completed all ten assigned batches (1,032 existing remove/countries targets). Original batch inputs are absent. This audit reads each targeted verdict and the full reconstructed metadata entry from the checked-in data, rather than claiming access to the original batch/source. These dishes have no imported recipes. Target selection is mechanical (explicit remove or countries field); every editorial decision is made by reading.
 
-| Batch | Targets reread | Status |
-|---|---:|---|
-| names-010 | 106 | Complete |
-| names-011 | 151 | Complete |
-| names-012 | 152 | Complete |
-| names-013 | 117 | Complete |
-| names-014 | 141 | Complete |
-| names-015 | 118 | Complete |
-| names-016 | 78 | Complete |
-| names-017 | 52 | Complete |
-| names-018 | 73 | Complete |
-| names-019 | 44 | Complete |
+| Batch     | Targets reread | Status   |
+| --------- | -------------: | -------- |
+| names-010 |            106 | Complete |
+| names-011 |            151 | Complete |
+| names-012 |            152 | Complete |
+| names-013 |            117 | Complete |
+| names-014 |            141 | Complete |
+| names-015 |            118 | Complete |
+| names-016 |             78 | Complete |
+| names-017 |             52 | Complete |
+| names-018 |             73 | Complete |
+| names-019 |             44 | Complete |
 
 names-010 corrections: restored zuke as prepared marinated fish; fixed Japanese pressed ham and Russian/Ukrainian kotleta countries; preserved Persian/Turkish/Cypriot as well as Levantine muhallebi ties; removed three overlooked branded products (Puyoman, Mamador, Peasen).
 
