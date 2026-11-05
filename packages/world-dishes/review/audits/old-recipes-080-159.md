@@ -21,3 +21,4 @@ Original batch raw sources are unavailable. This audit reads every remove/countr
 - r-096: audited all 27 remove/countries targets. Cleared generic vinegar cabbage and pressure-cooker rabbit; three cocktail removals upheld. Cocho retained as thick toasted-flour food, not removed for being served in a cup.
 - r-097: audited all 9 countries targets. Expanded pit curanto to Argentina alongside Chile; other dish associations upheld.
 - r-098: audited all 17 remove/countries targets. Cleared three generic salad attributions; expanded Russian salad to Russia alongside Spain. Barley beverage removal retained based on original reviewer explicit source description; recovered cream-like method alone is ambiguous.
+- r-099: audited all 14 remove/countries targets. Expanded both cheese fondues to France alongside Switzerland. Tea extract and fernet cocktail removals upheld.
