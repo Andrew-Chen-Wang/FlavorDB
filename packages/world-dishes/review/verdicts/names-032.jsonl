@@ -24,7 +24,7 @@
 {"id":"Q20278692","verdict":"keep"}
 {"id":"Q2028136","verdict":"keep"}
 {"id":"Q202946","verdict":"keep"}
-{"id":"Q202989","verdict":"keep","countries":["IT"],"reason":"PAT listing is Italian; removed PT and RO"}
+{"id":"Q202989","verdict":"keep","countries":["IT","PT","RO"],"reason":"Second opinion: chocolate salami has Italian, Portuguese and Romanian traditions; the PAT listing does not erase the shared ties."}
 {"id":"Q203176","verdict":"keep"}
 {"id":"Q2035996","verdict":"keep","countries":["NL"],"reason":"Dutch salad; countries were empty"}
 {"id":"Q20383132","verdict":"keep"}
@@ -93,9 +93,9 @@
 {"id":"Q20625135","verdict":"keep"}
 {"id":"Q2063761","verdict":"keep"}
 {"id":"Q20639978","verdict":"keep"}
-{"id":"Q20639980","verdict":"remove","reason":"branded product (Hershey's Kisses)"}
+{"id":"Q20639980","verdict":"keep","reason":"Second opinion: kisses is a generic confectionery name broader than the Hershey brand (https://en.wikipedia.org/wiki/Kisses_%28confectionery%29)."}
 {"id":"Q20644870","verdict":"keep"}
-{"id":"Q2064491","verdict":"keep","countries":["DE"],"reason":"German packed lunch bread; countries were empty"}
+{"id":"Q2064491","verdict":"keep","countries":[],"reason":"Second opinion: generic packed bread or sandwich; the German label does not establish a country."}
 {"id":"Q20645113","verdict":"remove","reason":"category (köfte dishes in general), not one dish"}
 {"id":"Q20645147","verdict":"keep","countries":["TR"],"reason":"Turkish meatball from Tekirdag; countries were empty"}
 {"id":"Q20645434","verdict":"remove","reason":"chewing gum, not a dish"}
@@ -113,7 +113,7 @@
 {"id":"Q207104","verdict":"keep"}
 {"id":"Q20714247","verdict":"keep"}
 {"id":"Q20714587","verdict":"keep","countries":["US"],"reason":"American pie; countries were empty"}
-{"id":"Q2071540","verdict":"keep","countries":["NL"],"reason":"Dutch candy; countries were empty"}
+{"id":"Q2071540","verdict":"remove","reason":"Second opinion: Lange Jan is a branded Fruittella candy (https://www.perfettivanmelle.nl/onze-merken/)."}
 {"id":"Q207220","verdict":"keep"}
 {"id":"Q20724435","verdict":"keep"}
 {"id":"Q20726175","verdict":"keep"}
@@ -148,7 +148,7 @@
 {"id":"Q2082513","verdict":"keep","countries":["NL"],"reason":"Dutch pastry; countries were empty"}
 {"id":"Q20826672","verdict":"keep"}
 {"id":"Q2083470","verdict":"keep"}
-{"id":"Q2083501","verdict":"keep","countries":["NL"],"reason":"Dutch meat salad; countries were empty"}
+{"id":"Q2083501","verdict":"keep","countries":[],"reason":"Second opinion: generic meat salad; a Dutch label alone does not establish a country."}
 {"id":"Q2084500","verdict":"keep","countries":["DE"],"reason":"Palatinate dish; countries were empty"}
 {"id":"Q20847867","verdict":"keep","countries":["HK"],"reason":"Hong Kong street food; countries were empty"}
 {"id":"Q20851509","verdict":"keep"}
@@ -172,10 +172,10 @@
 {"id":"Q20899172","verdict":"keep"}
 {"id":"Q20917544","verdict":"remove","reason":"branded candy product"}
 {"id":"Q20918234","verdict":"keep","countries":["FI"],"reason":"Finnish dish; countries were empty"}
-{"id":"Q20919276","verdict":"keep","countries":["FI"],"reason":"Finnish sandwich; countries were empty"}
+{"id":"Q20919276","verdict":"keep","countries":[],"reason":"Second opinion: generic hot sandwich; a Finnish label alone does not establish a country."}
 {"id":"Q20920934","verdict":"keep","countries":["US"],"reason":"San Francisco sourdough; countries were empty"}
 {"id":"Q20921881","verdict":"keep"}
-{"id":"Q20921887","verdict":"keep","countries":["ES"],"reason":"Spanish dish; countries were empty"}
+{"id":"Q20921887","verdict":"keep","countries":[],"reason":"Second opinion: generic braised quail; a Spanish label alone does not establish a country."}
 {"id":"Q20921898","verdict":"keep"}
 {"id":"Q20921917","verdict":"keep"}
 {"id":"Q20921925","verdict":"keep"}
@@ -209,7 +209,7 @@
 {"id":"Q20987994","verdict":"keep"}
 {"id":"Q20988782","verdict":"keep","countries":["EG"],"reason":"Egyptian dessert; countries were empty"}
 {"id":"Q20988817","verdict":"keep"}
-{"id":"Q21002167","verdict":"keep","countries":["ES"],"reason":"Catalan preserve; countries were empty"}
+{"id":"Q21002167","verdict":"keep","countries":[],"reason":"Second opinion: generic fruit in syrup; a Catalan label alone does not establish a country."}
 {"id":"Q21004069","verdict":"keep"}
 {"id":"Q21005946","verdict":"keep"}
 {"id":"Q21007833","verdict":"keep"}
@@ -285,7 +285,7 @@
 {"id":"Q2134477","verdict":"keep"}
 {"id":"Q2135193","verdict":"keep"}
 {"id":"Q2136770","verdict":"keep"}
-{"id":"Q2138741","verdict":"keep","countries":["NL"],"reason":"Dutch stew; countries were empty"}
+{"id":"Q2138741","verdict":"keep","countries":["GR"],"reason":"Second opinion: kokinisto is Greek tomato stew, not Dutch (https://www.mezes-malia.gr/catalog/menu-2024.pdf)."}
 {"id":"Q2139026","verdict":"keep"}
 {"id":"Q2139778","verdict":"keep","countries":["BE"],"reason":"Ghent cookie; countries were empty"}
 {"id":"Q21402490","verdict":"keep"}

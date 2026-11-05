@@ -47,7 +47,7 @@
 {"id":"Q21709993","verdict":"keep","countries":["TH"],"reason":"Thai yam salad; countries were empty"}
 {"id":"Q217446","verdict":"keep"}
 {"id":"Q21781581","verdict":"keep"}
-{"id":"Q2178599","verdict":"keep","countries":["DE"],"reason":"German smoked eel; countries were empty"}
+{"id":"Q2178599","verdict":"keep","countries":[],"reason":"Second opinion: generic smoked eel, not a specifically German preparation."}
 {"id":"Q21809695","verdict":"keep"}
 {"id":"Q21810151","verdict":"keep","countries":["AT"],"reason":"Austrian soup; countries were empty"}
 {"id":"Q21816983","verdict":"keep","countries":["DK"],"reason":"Danish cake; countries were empty"}
@@ -80,7 +80,7 @@
 {"id":"Q22122965","verdict":"keep","countries":["JP"],"reason":"Japanese fish sauce; countries were empty"}
 {"id":"Q22123108","verdict":"keep","countries":["JP"],"reason":"Akita miso; countries were empty"}
 {"id":"Q22123615","verdict":"keep","countries":["JP"],"reason":"Japanese narezushi; countries were empty"}
-{"id":"Q22123729","verdict":"keep","countries":["JP"],"reason":"Japanese vegetable; countries were empty"}
+{"id":"Q22123729","verdict":"remove","reason":"Second opinion: Katahira akane is a raw turnip cultivar, not a prepared dish; no recipe (https://www.pref.nara.lg.jp/n118/8048.html)."}
 {"id":"Q22123780","verdict":"keep","countries":["JP"],"reason":"Japanese fish sauce; countries were empty"}
 {"id":"Q22123918","verdict":"remove","reason":"branded packaged product (Cup Noodles)"}
 {"id":"Q22124115","verdict":"keep"}
@@ -144,10 +144,10 @@
 {"id":"Q2248563","verdict":"keep","countries":["CH"],"reason":"Swiss chocolate coin; countries were empty"}
 {"id":"Q2248655","verdict":"keep","countries":["DE"],"reason":"Hamburg Finkenwerder dish; countries were empty"}
 {"id":"Q2250838","verdict":"keep","countries":["DE"],"reason":"German pretzel roll; countries were empty"}
-{"id":"Q2251212","verdict":"keep","countries":["HR"],"reason":"Croatian fish stew per description; removed IT"}
+{"id":"Q2251212","verdict":"keep","countries":["HR","IT","ME"],"reason":"Second opinion: brudet/brodetto is shared Adriatic fish stew; retain the Italian tie alongside Croatia and Montenegro."}
 {"id":"Q2251745","verdict":"remove","reason":"category (baked goods in general), not one dish"}
 {"id":"Q2252452","verdict":"keep"}
-{"id":"Q2253377","verdict":"keep","countries":["US"],"reason":"American cookie; countries were empty"}
+{"id":"Q2253377","verdict":"keep","countries":[],"reason":"Second opinion: this entry describes two-tone dough cookies, not the American iced black-and-white cookie; no country established."}
 {"id":"Q2253902","verdict":"keep"}
 {"id":"Q2254128","verdict":"keep","countries":["NL"],"reason":"Dutch pastry; countries were empty"}
 {"id":"Q2255016","verdict":"keep"}
@@ -159,7 +159,7 @@
 {"id":"Q22570090","verdict":"keep"}
 {"id":"Q2258011","verdict":"keep","countries":["DE"],"reason":"German pastry; countries were empty"}
 {"id":"Q2258053","verdict":"keep"}
-{"id":"Q22583433","verdict":"keep","countries":["SG","MY"],"reason":"Singaporean/Malaysian noodle dish; description said Indonesian, added MY"}
+{"id":"Q22583433","verdict":"keep","countries":["SG","MY","ID"],"reason":"Second opinion: retain the Indonesian association stated by the dish description alongside Singapore and Malaysia."}
 {"id":"Q2259868","verdict":"keep"}
 {"id":"Q22620","verdict":"keep"}
 {"id":"Q2265797","verdict":"keep"}
@@ -251,7 +251,7 @@
 {"id":"Q22984333","verdict":"keep","countries":["ES"],"reason":"Catalan guiso; countries were empty"}
 {"id":"Q23000048","verdict":"keep"}
 {"id":"Q23004","verdict":"keep"}
-{"id":"Q23005886","verdict":"keep","countries":["DE"],"reason":"Herrnhut cookie; countries were empty"}
+{"id":"Q23005886","verdict":"keep","countries":["NL"],"reason":"Second opinion: hernhutter cookies are a Zeist specialty, not German merely because of the religious community name (https://rutgerbakt.nl/koek-recepten/hernhuttertjes-koekjes-recept/)."}
 {"id":"Q23007309","verdict":"keep"}
 {"id":"Q23008804","verdict":"keep","countries":["NL"],"reason":"Dutch oblietjie; countries were empty"}
 {"id":"Q23015","verdict":"keep"}
@@ -267,11 +267,11 @@
 {"id":"Q2304005","verdict":"keep"}
 {"id":"Q2304082","verdict":"keep"}
 {"id":"Q2306472","verdict":"keep"}
-{"id":"Q2306704","verdict":"keep","countries":["DE"],"reason":"German soup; countries were empty"}
+{"id":"Q2306704","verdict":"keep","countries":["CH"],"reason":"Second opinion: Spanisch-Suppe is a historic Swiss dish (https://blog.nationalmuseum.ch/2018/01/von-der-spanischen-suppe-zum-potpourri/)."}
 {"id":"Q2306706","verdict":"keep","countries":["DE"],"reason":"Westphalian stew; countries were empty"}
 {"id":"Q2307239","verdict":"keep"}
 {"id":"Q23074345","verdict":"keep","countries":["TW"],"reason":"Taiwanese braised meat sauce; countries were empty"}
-{"id":"Q2308008","verdict":"keep","countries":["IT"],"reason":"Italian bread roll; countries were empty"}
+{"id":"Q2308008","verdict":"keep","countries":[],"reason":"Second opinion: an Esperanto label meaning Italian roll is insufficient to establish a particular national preparation."}
 {"id":"Q2308313","verdict":"keep"}
 {"id":"Q2308332","verdict":"keep"}
 {"id":"Q2311032","verdict":"keep","countries":["DE"],"reason":"German dish; countries were empty"}
@@ -282,7 +282,7 @@
 {"id":"Q2330783","verdict":"keep"}
 {"id":"Q2333140","verdict":"keep"}
 {"id":"Q2334489","verdict":"keep"}
-{"id":"Q2334705","verdict":"keep","countries":["NL"],"reason":"Dutch dish; countries were empty"}
+{"id":"Q2334705","verdict":"keep","countries":["BA","RS","ME"],"reason":"Second opinion: boranije is Balkan green-bean stew, not Dutch; shared regional preparation (https://www.cbc-mne-alb.org/tacka-custom/tacka-media/2022/10/Gorska-trpezaa.pdf)."}
 {"id":"Q2336063","verdict":"keep","countries":["IE"],"reason":"Irish bread; countries were empty"}
 {"id":"Q2338350","verdict":"keep"}
 {"id":"Q2338530","verdict":"keep"}
@@ -295,6 +295,6 @@
 {"id":"Q2346339","verdict":"keep","countries":["PL"],"reason":"Szczecin dish; countries were empty"}
 {"id":"Q234646","verdict":"keep"}
 {"id":"Q2350308","verdict":"keep"}
-{"id":"Q2351313","verdict":"keep","countries":["NL"],"reason":"Dutch bread; countries were empty"}
+{"id":"Q2351313","verdict":"keep","countries":[],"reason":"Second opinion: generic wheat bread; the Dutch name does not establish a national association."}
 {"id":"Q235169","verdict":"keep"}
 {"id":"Q2353020","verdict":"keep","countries":["US"],"reason":"Italian-American cookie; countries were empty"}
