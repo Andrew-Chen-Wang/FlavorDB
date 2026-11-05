@@ -16,3 +16,4 @@
 {"id":"Q5728279","verdict":"keep","countries":["ES","VE"],"reason":"countries were empty; bienmesabe is a Canarian dessert and is also made in Venezuela","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FBienmesabe","status":"ok"},{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FBienmesabe","status":"ok"}]}
 {"id":"Q5731577","verdict":"keep","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FBollo_Maim%C3%B3n","status":"ok"}]}
 {"id":"Q57332578","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FTarator","status":"ok"},{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FTarator","status":"ok"}]}
+{"id":"Q573516","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ABubble_and_Squeak","status":"ok"}]}
