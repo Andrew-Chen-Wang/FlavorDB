@@ -51,7 +51,7 @@
 {"id":"Q48877725","verdict":"keep"}
 {"id":"Q4887922","verdict":"keep"}
 {"id":"Q48880901","verdict":"keep"}
-{"id":"Q4891611","verdict":"keep","countries":["US"],"reason":"American cookie; countries were empty"}
+{"id":"Q4891611","verdict":"remove","reason":"Second opinion: Berger Cookies are a marketed bakery brand; https://www.bergercookies.com/"}
 {"id":"Q48916161","verdict":"keep"}
 {"id":"Q4891863","verdict":"keep"}
 {"id":"Q4892695","verdict":"keep"}
@@ -161,7 +161,7 @@
 {"id":"Q4992035","verdict":"keep"}
 {"id":"Q4992511","verdict":"keep","countries":["MO"],"reason":"Macanese dish; countries were empty"}
 {"id":"Q4994057","verdict":"keep"}
-{"id":"Q4995419","verdict":"keep","countries":["JP"],"reason":"Japanese candy; countries were empty"}
+{"id":"Q4995419","verdict":"remove","reason":"Second opinion: dagashi is a category of inexpensive Japanese candies, not one prepared food"}
 {"id":"Q4996483","verdict":"remove","reason":"category of confectionery, not one dish"}
 {"id":"Q4996510","verdict":"keep"}
 {"id":"Q4996659","verdict":"keep"}
@@ -196,7 +196,7 @@
 {"id":"Q5015592","verdict":"keep"}
 {"id":"Q5016033","verdict":"keep"}
 {"id":"Q5016036","verdict":"keep"}
-{"id":"Q5016731","verdict":"keep","countries":["ZA"],"reason":"Cape Malay dish; countries were empty"}
+{"id":"Q5016731","verdict":"keep","countries":["NL"],"reason":"Second opinion: Kaapse raasdonders is a Dutch pea dish, not Cape Malay; https://www.keurslager.nl/recepten/hollandse-rijsttafel-met-raasdonders-en-spek/"}
 {"id":"Q5017201","verdict":"keep"}
 {"id":"Q5017984","verdict":"keep"}
 {"id":"Q5018040","verdict":"keep"}
@@ -271,7 +271,7 @@
 {"id":"Q5089402","verdict":"keep"}
 {"id":"Q5089403","verdict":"keep"}
 {"id":"Q5089446","verdict":"keep"}
-{"id":"Q5089539","verdict":"keep","countries":["TM"],"reason":"Turkmen dish; countries were empty"}
+{"id":"Q5089539","verdict":"keep","countries":["TM","IR"],"reason":"Second opinion: Turkmen dish also associated with Iranian Turkmen cuisine; https://visitiran.ir/cuisine/chegdermeh"}
 {"id":"Q5090157","verdict":"keep"}
 {"id":"Q50914259","verdict":"keep"}
 {"id":"Q5092519","verdict":"keep","countries":["US"],"reason":"American pie; countries were empty"}
