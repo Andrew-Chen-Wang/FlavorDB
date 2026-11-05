@@ -20,7 +20,7 @@
 {"id":"Q2382108","verdict":"keep","countries":["DE"],"reason":"German dish; added country"}
 {"id":"Q23824434","verdict":"keep","countries":["PL"],"reason":"Polish bagel; added country"}
 {"id":"Q2383068","verdict":"keep"}
-{"id":"Q2383238","verdict":"keep","countries":["FR"],"reason":"French poultry term; added country"}
+{"id":"Q2383238","verdict":"remove","reason":"Second opinion: poularde is a fattened chicken ingredient, not a prepared poultry dish; no recipe."}
 {"id":"Q2386515","verdict":"keep","countries":["BE"],"reason":"Liege specialty; added country"}
 {"id":"Q2386967","verdict":"keep"}
 {"id":"Q2387911","verdict":"keep"}
@@ -30,7 +30,7 @@
 {"id":"Q23907623","verdict":"keep"}
 {"id":"Q2391342","verdict":"keep"}
 {"id":"Q2391835","verdict":"keep","countries":["BE"],"reason":"Belgian candy; added country"}
-{"id":"Q23925811","verdict":"keep","countries":["TH"],"reason":"description says Hong Kong, but boat noodles are a Thai dish; set TH"}
+{"id":"Q23925811","verdict":"keep","countries":["HK"],"reason":"Second opinion: the batch identifies a Hong Kong noodle dish; the translated English label is insufficient to substitute a Thai dish."}
 {"id":"Q23930009","verdict":"keep"}
 {"id":"Q2393807","verdict":"keep"}
 {"id":"Q2394623","verdict":"keep","countries":["NL"],"reason":"Dutch sweet bread; added country"}
@@ -80,18 +80,18 @@
 {"id":"Q2436674","verdict":"keep","countries":["GB"],"reason":"English biscuit; added country"}
 {"id":"Q2440538","verdict":"keep"}
 {"id":"Q244495","verdict":"keep"}
-{"id":"Q244496","verdict":"keep","countries":["AT"],"reason":"Austro-Bohemian sweet dish; added country"}
+{"id":"Q244496","verdict":"keep","countries":["AT","CZ"],"reason":"Second opinion: description explicitly identifies the Austro-Bohemian tradition; include both ties."}
 {"id":"Q2444993","verdict":"keep"}
 {"id":"Q2445410","verdict":"keep","countries":["IN"],"reason":"Hyderabadi dish; added country"}
 {"id":"Q244589","verdict":"keep","countries":["DE"],"reason":"Swabian dish; added country"}
-{"id":"Q244609","verdict":"keep","countries":["DE"],"reason":"German dish; added country"}
+{"id":"Q244609","verdict":"keep","countries":["AT","DE"],"reason":"Second opinion: Zwiebelrostbraten belongs to Austrian and southern German traditions."}
 {"id":"Q24460908","verdict":"keep"}
 {"id":"Q244611","verdict":"keep"}
 {"id":"Q2446322","verdict":"keep"}
 {"id":"Q24471421","verdict":"keep","countries":["DE"],"reason":"German dish; added country"}
 {"id":"Q2449874","verdict":"keep"}
 {"id":"Q2450914","verdict":"keep"}
-{"id":"Q2451334","verdict":"keep","countries":["NL"],"reason":"Dutch soup; added country"}
+{"id":"Q2451334","verdict":"keep","countries":["NL","FR"],"reason":"Second opinion: retain both the French and Dutch ties explicitly stated in the description."}
 {"id":"Q2451463","verdict":"keep"}
 {"id":"Q24517","verdict":"keep","countries":["ES","MX"],"reason":"Spanish/Mexican sugar figure; added countries"}
 {"id":"Q2452555","verdict":"keep"}
@@ -114,7 +114,7 @@
 {"id":"Q2476143","verdict":"keep","countries":["NL"],"reason":"Zeeland pastry; added country"}
 {"id":"Q2476688","verdict":"keep"}
 {"id":"Q2478397","verdict":"keep"}
-{"id":"Q2478703","verdict":"keep","countries":["IN"],"reason":"South Asian dish; added country"}
+{"id":"Q2478703","verdict":"keep","countries":["IN","BD","PK","NP"],"reason":"Second opinion: khichri is a shared South Asian rice-and-lentil dish, including India, Bangladesh, Pakistan and Nepal."}
 {"id":"Q2479287","verdict":"keep"}
 {"id":"Q2481743","verdict":"keep"}
 {"id":"Q2481820","verdict":"keep","countries":["BE"],"reason":"Belgian dessert; added country"}
@@ -170,7 +170,7 @@
 {"id":"Q2491452","verdict":"remove","reason":"branded packaged product (pasta line named after confiscated land)"}
 {"id":"Q249169","verdict":"keep"}
 {"id":"Q24929136","verdict":"keep","countries":["FR"],"reason":"French PGI ham; added country"}
-{"id":"Q24929320","verdict":"keep","countries":["FR"],"reason":"French tart; added country"}
+{"id":"Q24929320","verdict":"keep","countries":["CA"],"reason":"Second opinion: tarte à la farlouche is Quebecois, not French because of its language (https://fr.wiktionary.org/wiki/tarte_%C3%A0_la_farlouche)."}
 {"id":"Q24930064","verdict":"keep"}
 {"id":"Q249310","verdict":"keep"}
 {"id":"Q24931479","verdict":"keep"}
@@ -186,7 +186,7 @@
 {"id":"Q24942317","verdict":"keep"}
 {"id":"Q24942522","verdict":"keep"}
 {"id":"Q24943843","verdict":"keep"}
-{"id":"Q24944177","verdict":"keep","countries":["PL"],"reason":"Polish carp dish; added country"}
+{"id":"Q24944177","verdict":"remove","reason":"Second opinion: Karp zatorski is a raw regional carp sold live, not a prepared dish; no recipe (https://zator.pl/mfiles/1053/28/0/z/karp-zatorski-specyfikacja.pdf)."}
 {"id":"Q24944198","verdict":"keep"}
 {"id":"Q24944426","verdict":"keep"}
 {"id":"Q24944542","verdict":"keep"}
@@ -210,7 +210,7 @@
 {"id":"Q2495784","verdict":"keep"}
 {"id":"Q24960939","verdict":"keep"}
 {"id":"Q249873","verdict":"keep"}
-{"id":"Q24993896","verdict":"keep","countries":["NZ"],"reason":"New Zealand cake; added country"}
+{"id":"Q24993896","verdict":"keep","countries":["CA"],"reason":"Second opinion: Queen Elizabeth cake is commonly associated with Canada (https://www.redpathsugar.com/recipes/queen-elizabeth-cake)."}
 {"id":"Q24993926","verdict":"keep"}
 {"id":"Q24993955","verdict":"keep","countries":["GB"],"reason":"Scottish bread roll; added country"}
 {"id":"Q25000110","verdict":"keep"}
@@ -228,7 +228,7 @@
 {"id":"Q2500956","verdict":"keep","countries":["TZ"],"reason":"Tanzanian dish; added country"}
 {"id":"Q2501196","verdict":"keep"}
 {"id":"Q250170","verdict":"keep","countries":["TR"],"reason":"Turkish pastry; added country"}
-{"id":"Q25019736","verdict":"keep","countries":["AZ"],"reason":"Azerbaijani name and dish; CL was wrong"}
+{"id":"Q25019736","verdict":"keep","countries":["CL"],"reason":"Second opinion: preserve the supplied Chile association; an Azerbaijani translation alone cannot replace it with Azerbaijan."}
 {"id":"Q250271","verdict":"keep"}
 {"id":"Q25038426","verdict":"keep"}
 {"id":"Q25039790","verdict":"keep"}
@@ -285,7 +285,7 @@
 {"id":"Q2510412","verdict":"keep"}
 {"id":"Q25105527","verdict":"keep","countries":["CN"],"reason":"Chinese soup; added country"}
 {"id":"Q25105721","verdict":"keep"}
-{"id":"Q25110268","verdict":"keep","countries":["FI"],"reason":"Finnish fish stew; added country"}
+{"id":"Q25110268","verdict":"keep","countries":["FI","US","CA"],"reason":"Second opinion: mojakka has Finnish and Finnish-American/Canadian traditions (https://siirtolaisuusinstituutti.fi/wp-content/uploads/2019/12/t-03-isbn-978-952-7167-61-8-transnational-finnish-mobilities-proceedings-of-finnforum-xi.pdf)."}
 {"id":"Q25110703","verdict":"keep","countries":["TH"],"reason":"Thai curry; added country"}
 {"id":"Q25111357","verdict":"keep","countries":["TH"],"reason":"Thai noodle dish; added country"}
 {"id":"Q2511137","verdict":"keep"}
@@ -297,4 +297,4 @@
 {"id":"Q251265","verdict":"keep"}
 {"id":"Q251521","verdict":"keep"}
 {"id":"Q25171586","verdict":"keep","countries":["GB"],"reason":"English dish; added country"}
-{"id":"Q2517913","verdict":"keep","countries":["DK"],"reason":"Danish dessert; added country"}
+{"id":"Q2517913","verdict":"keep","countries":["NO","DK","SE","FI"],"reason":"Second opinion: this is a shared Scandinavian apple-and-cream dessert, prominently Norwegian, with Danish, Swedish and Finnish versions (https://en.wikipedia.org/wiki/Tilsl%C3%B8rte_bondepiker)."}
