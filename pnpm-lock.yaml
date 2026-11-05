@@ -300,6 +300,9 @@ importers:
 
   packages/world-dishes:
     devDependencies:
+      '@flavor-db/seed-data':
+        specifier: workspace:*
+        version: link:../seed-data
       '@types/node':
         specifier: 'catalog:'
         version: 25.9.1
