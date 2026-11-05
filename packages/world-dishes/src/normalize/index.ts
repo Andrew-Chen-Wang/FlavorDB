@@ -9,6 +9,7 @@ import { loadWikibooks } from "./wikibooks"
 import { loadBranded, loadWikidata } from "./wikidata"
 import { reviewDishes } from "./quality"
 import { reviewReport } from "./report"
+import { applyVerdicts, loadVerdicts, verdictReport } from "./review"
 
 const DATA_DIR = path.join(import.meta.dirname, "..", "..", "data")
 const SHARD_SIZE = 2500
@@ -21,9 +22,17 @@ const merged = mergeDishes(wikidata, [...wikibooks, ...howtocook, ...cookbooks])
 
 // Review pass: clean every recipe, drop what isn't a dish, fold duplicates. See data/REVIEW.md.
 const review = reviewDishes(merged, loadBranded(CACHE_DIR))
-const dishes = review.dishes.toSorted((a, b) => a.id.localeCompare(b.id))
+const verdicts = loadVerdicts(review.dishes)
+const applied = applyVerdicts(review.dishes, verdicts)
+const dishes = applied.dishes.toSorted((a, b) => a.id.localeCompare(b.id))
+const manualReport = verdictReport(
+  applied.counts,
+  verdicts,
+  "Applied during `pnpm run build-data` after automatic cleanup and merging.",
+)
 
 mkdirSync(DATA_DIR, { recursive: true })
+rmSync(path.join(DATA_DIR, "review-application.json"), { force: true })
 for (const f of readdirSync(DATA_DIR)) if (f.endsWith(".jsonl")) rmSync(path.join(DATA_DIR, f))
 for (let i = 0; i < dishes.length; i += SHARD_SIZE) {
   const shard = dishes.slice(i, i + SHARD_SIZE)
@@ -72,6 +81,9 @@ const stats = [
     .map(([c, n]) => `| ${c} | ${n} |`),
   "",
 ].join("\n")
-writeFileSync(path.join(DATA_DIR, "STATS.md"), stats)
-writeFileSync(path.join(DATA_DIR, "REVIEW.md"), reviewReport(review))
+writeFileSync(path.join(DATA_DIR, "STATS.md"), `${stats}\n${manualReport}`)
+writeFileSync(
+  path.join(DATA_DIR, "REVIEW.md"),
+  `${reviewReport({ ...review, dishes })}\n${manualReport}`,
+)
 console.log(stats)
