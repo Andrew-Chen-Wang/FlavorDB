@@ -77,23 +77,38 @@ export function WorldDishView({ dish }: { dish: WorldDish }) {
               <p className={"mt-4 text-[15px] text-ink-3"}>Cuisine: {dish.cuisines.join(", ")}</p>
             )}
           </div>
-          {dish.image && (
+          {(dish.image ?? dish.imageUrl) && (
             <figure className={"min-w-0 flex-[1_1_360px]"}>
               {/* oxlint-disable-next-line nextjs/no-img-element -- Commons thumbnails, sized by URL */}
               <img
-                src={commonsThumb(dish.image, 800)}
+                src={dish.image ? commonsThumb(dish.image, 800) : dish.imageUrl}
                 alt={dish.name}
                 className={"aspect-[4/3] w-full rounded-[20px] object-cover"}
               />
               <figcaption className={"mt-2 text-[13px] text-ink-3"}>
-                Image:{" "}
-                <a
-                  href={commonsPage(dish.image)}
-                  className={"underline underline-offset-2 hover:text-chili"}
-                >
-                  Wikimedia Commons
-                </a>{" "}
-                (see the file page for author and license)
+                {dish.image ? (
+                  <>
+                    Photo:{" "}
+                    <a
+                      href={commonsPage(dish.image)}
+                      className={"underline underline-offset-2 hover:text-chili"}
+                    >
+                      Wikimedia Commons
+                    </a>{" "}
+                    (see the file page for author and license)
+                  </>
+                ) : (
+                  <>
+                    Photo:{" "}
+                    <a
+                      href={dish.imageFrom ?? "https://github.com/Anduin2017/HowToCook"}
+                      className={"underline underline-offset-2 hover:text-chili"}
+                    >
+                      HowToCook
+                    </a>{" "}
+                    (Unlicense, public domain)
+                  </>
+                )}
               </figcaption>
             </figure>
           )}

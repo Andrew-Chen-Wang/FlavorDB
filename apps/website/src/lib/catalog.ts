@@ -22,7 +22,7 @@ export type CatalogEntry = {
   localName?: string
   countries: string[]
   description?: string
-  /** A Wikimedia Commons file name */
+  /** A Wikimedia Commons file name, or a full URL */
   image?: string
   hasRecipe: boolean
   haystack: string
@@ -91,7 +91,7 @@ function load() {
           ...(zh ? { localName: zh } : {}),
           countries: dish.countries,
           ...(dish.description ? { description: dish.description } : {}),
-          ...(dish.image ? { image: dish.image } : {}),
+          ...(dish.image || dish.imageUrl ? { image: dish.image ?? dish.imageUrl } : {}),
           hasRecipe: dish.recipes.length > 0,
           haystack,
         }

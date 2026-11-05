@@ -4,7 +4,11 @@ import { cn } from "@website/lib/utils"
 export const commonsThumb = (file: string, width = 480) =>
   `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(file)}?width=${width}`
 
-/** A dish photo from Wikimedia Commons, over a placeholder pattern while it loads or when there's none. */
+/** A Commons file name, or a full URL for photos hosted elsewhere. */
+const photoSrc = (file: string, width: number) =>
+  /^https?:\/\//.test(file) ? file : commonsThumb(file, width)
+
+/** A dish photo, over a placeholder pattern while it loads or when there's none. */
 export function DishPhoto({
   file,
   width,
@@ -21,7 +25,7 @@ export function DishPhoto({
       {file && (
         // oxlint-disable-next-line nextjs/no-img-element -- Commons thumbnails, sized by URL
         <img
-          src={commonsThumb(file, width)}
+          src={photoSrc(file, width)}
           alt={""}
           loading={"lazy"}
           className={"absolute inset-0 h-full w-full object-cover"}
