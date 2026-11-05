@@ -73,7 +73,7 @@
 {"id":"Q60825499","verdict":"keep","countries":["CO"],"reason":"added countries"}
 {"id":"Q6082957","verdict":"keep"}
 {"id":"Q6083004","verdict":"keep"}
-{"id":"Q6083159","verdict":"remove","reason":"description is about a poisonous plant, not a dish"}
+{"id":"Q6083159","verdict":"keep","reason":"second opinion: real prepared soup (Tırşik çorbası), as identified in the review instructions"}
 {"id":"Q6083488","verdict":"keep","countries":["AR"],"reason":"added countries"}
 {"id":"Q6083515","verdict":"keep"}
 {"id":"Q60836556","verdict":"keep"}

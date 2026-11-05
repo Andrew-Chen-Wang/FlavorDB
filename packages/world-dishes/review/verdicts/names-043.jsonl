@@ -288,7 +288,7 @@
 {"id":"Q48752050","verdict":"keep"}
 {"id":"Q48752482","verdict":"keep"}
 {"id":"Q48753429","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
-{"id":"Q48754335","verdict":"remove","reason":"not food: title of an artwork (Errotendes Madchen, a painting), mislabelled as dish"}
+{"id":"Q48754335","verdict":"keep","reason":"second opinion: real prepared dessert (Errötendes Mädchen), as identified in the review instructions"}
 {"id":"Q48754738","verdict":"keep"}
 {"id":"Q48755607","verdict":"keep"}
 {"id":"Q48756009","verdict":"keep"}
