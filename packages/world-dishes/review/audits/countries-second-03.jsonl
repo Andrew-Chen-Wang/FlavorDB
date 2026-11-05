@@ -1,0 +1,538 @@
+{"batch":"names-022","position":1,"id":"Q135442115","countries":["IN","PK","BD"],"verdict":"keep","reason":"Potato curry is shared South Asian food; no narrower recipe is supplied."}
+{"batch":"names-022","position":4,"id":"Q135446912","countries":["US"],"verdict":"keep","reason":"Banana/date breakfast cookies fit American breakfast baking."}
+{"batch":"names-022","position":28,"id":"Q135642191","countries":["DE","GB","US"],"verdict":"keep","reason":"Coffee-flavored cake covers established German, British and American cakes."}
+{"batch":"names-022","position":38,"id":"Q135683547","countries":["DE","DK","SE","NO","FI"],"verdict":"keep","reason":"Milchreis name and explicit Nordic cuisine support German and Nordic ties."}
+{"batch":"names-022","position":39,"id":"Q135718733","countries":["US"],"verdict":"keep","reason":"Reverse removal: a bite-sized cake is plausible prepared cake, not evidence of a nonfood category; American cake-bite convention provides placement."}
+{"batch":"names-022","position":45,"id":"Q135742149","countries":["IN","LK","TH"],"verdict":"keep","reason":"Pork curry has Indian, Sri Lankan and Thai versions."}
+{"batch":"names-022","position":50,"id":"Q135826759","countries":[],"verdict":"remove","reason":"Lamb offal is plain ingredient metadata with no preparation."}
+{"batch":"names-022","position":51,"id":"Q135827096","countries":[],"verdict":"remove","reason":"Goat offal is plain ingredient metadata with no preparation."}
+{"batch":"names-022","position":57,"id":"Q135840981","countries":["JP"],"verdict":"keep","reason":"Vegan sushi retains Japanese sushi identity."}
+{"batch":"names-022","position":58,"id":"Q135841346","countries":["TL"],"verdict":"keep","reason":"Tukir is Timorese bamboo-cooked food."}
+{"batch":"names-022","position":59,"id":"Q13584745","countries":["SE"],"verdict":"keep","reason":"Veal Oscar is Swedish named veal preparation."}
+{"batch":"names-022","position":61,"id":"Q135908643","countries":["ZA","MZ"],"verdict":"keep","reason":"Tsonga Xinghwimbi belongs across South Africa and Mozambique."}
+{"batch":"names-022","position":73,"id":"Q135943559","countries":["DE","PL","RU","UA"],"verdict":"keep","reason":"Stewed cabbage has these established central/eastern European traditions."}
+{"batch":"names-022","position":78,"id":"Q135980010","countries":["GB","AU","NZ"],"verdict":"keep","reason":"Minced meat pies have British and Australasian ties."}
+{"batch":"names-022","position":79,"id":"Q135981036","countries":["ET"],"verdict":"keep","reason":"Oromo Cumboo belongs to Ethiopian cooking."}
+{"batch":"names-022","position":80,"id":"Q135989767","countries":["TR","IR","IN","PK"],"verdict":"keep","reason":"Chicken kebab has Turkish, Iranian and South Asian ties; doner metadata reinforces Turkey."}
+{"batch":"names-022","position":88,"id":"Q136086697","countries":["IT"],"verdict":"keep","reason":"Unbranded imitation hazelnut spread follows Italian chocolate-hazelnut preparation."}
+{"batch":"names-022","position":89,"id":"Q136087023","countries":[],"verdict":"remove","reason":"Residual legume water is an ingredient without a recipe."}
+{"batch":"names-022","position":91,"id":"Q136087103","countries":["LB","SY","PS","IL","JO"],"verdict":"keep","reason":"Mashed chickpea porridge fits shared Levantine chickpea cooking; no narrower origin supplied."}
+{"batch":"names-022","position":92,"id":"Q136087963","countries":["IT"],"verdict":"keep","reason":"Shtridhelat is Arbëreshë pasta in Italy."}
+{"batch":"names-022","position":93,"id":"Q136089368","countries":["US"],"verdict":"keep","reason":"Pulled chicken burger follows American barbecue sandwiches; no named brand."}
+{"batch":"names-022","position":96,"id":"Q1361086","countries":["GB","CH"],"verdict":"keep","reason":"Chocolate bar is prepared confectionery with British and Swiss ties, not inherently branded."}
+{"batch":"names-022","position":131,"id":"Q136319879","countries":["CO","VE"],"verdict":"keep","reason":"Wayuu Shira kaa ula spans Colombia and Venezuela."}
+{"batch":"names-022","position":136,"id":"Q136346177","countries":["CN","GB"],"verdict":"keep","reason":"Char siu and sweet-sour Jar jow reflect Chinese and British Chinese food."}
+{"batch":"names-022","position":137,"id":"Q136346682","countries":["IT"],"verdict":"keep","reason":"Tomato mozzarella basil sandwich preserves Caprese Italian identity."}
+{"batch":"names-022","position":139,"id":"Q136358191","countries":["DE"],"verdict":"keep","reason":"German Tortenmumie nut cake supports DE fallback."}
+{"batch":"names-022","position":140,"id":"Q136361024","countries":["BD","IN"],"verdict":"keep","reason":"Pholar is Bengali fruit preparation shared across Bengal."}
+{"batch":"names-022","position":145,"id":"Q136387693","countries":["DE","AT"],"verdict":"keep","reason":"Gingerbread hearts have German and Austrian confectionery ties."}
+{"batch":"names-022","position":154,"id":"Q136416797","countries":["AE"],"verdict":"keep","reason":"Camel milk chocolate has Emirati confectionery ties."}
+{"batch":"names-022","position":156,"id":"Q136420774","countries":["US"],"verdict":"keep","reason":"Tuna melt is an American sandwich."}
+{"batch":"names-022","position":157,"id":"Q13642570","countries":["NL","BE"],"verdict":"keep","reason":"Dutch-language yeast bread supports Netherlands and Dutch-speaking Belgium."}
+{"batch":"names-022","position":160,"id":"Q136440414","countries":["PK","IN"],"verdict":"keep","reason":"Explicit Sindhi cuisine spans Pakistan and India."}
+{"batch":"names-022","position":164,"id":"Q13644850","countries":["PK","IR","IN","AZ","AM","GE"],"verdict":"keep","reason":"Description explicitly enumerates all six murabba traditions."}
+{"batch":"names-022","position":166,"id":"Q136472281","countries":["NL"],"verdict":"keep","reason":"Cantenaar is Dutch cheese, a prepared named product."}
+{"batch":"names-022","position":186,"id":"Q136513295","countries":["ES"],"verdict":"keep","reason":"Tapas classification places these baked zucchini slices in Spanish cuisine."}
+{"batch":"names-022","position":190,"id":"Q136523566","countries":["UA"],"verdict":"keep","reason":"Smidyn cabbage is Ukrainian regional prepared food."}
+{"batch":"names-022","position":191,"id":"Q136523624","countries":["ES","FR"],"verdict":"keep","reason":"Basque Artopil maize dessert belongs across the Spanish/French Basque region."}
+{"batch":"names-022","position":194,"id":"Q136527600","countries":["US","GB"],"verdict":"keep","reason":"Strawberry salad fits American and British prepared salads."}
+{"batch":"names-022","position":201,"id":"Q136564522","countries":["CA"],"verdict":"keep","reason":"Confetti squares are Canadian dessert bars."}
+{"batch":"names-022","position":202,"id":"Q1365868","countries":[],"verdict":"remove","reason":"Description explicitly identifies unprepared pork belly cut, with no recipe."}
+{"batch":"names-022","position":265,"id":"Q137164363","countries":["US","GB"],"verdict":"keep","reason":"Coconut cookies fit American and British baking; prepared cookies stay."}
+{"batch":"names-022","position":274,"id":"Q137251497","countries":[],"verdict":"remove","reason":"Goat loin is explicitly a raw meat cut with no recipe."}
+{"batch":"names-022","position":280,"id":"Q137303325","countries":["TW"],"verdict":"keep","reason":"Stone slab barbecue has Taiwanese Indigenous culinary ties."}
+{"batch":"names-022","position":282,"id":"Q137361963","countries":["FM"],"verdict":"keep","reason":"Pihlohlo mwehng is Pohnpeian dessert in Micronesia."}
+{"batch":"names-022","position":296,"id":"Q137476970","countries":["CZ"],"verdict":"keep","reason":"Czech Ančka soup name supports Czech placement."}
+{"batch":"names-023","position":4,"id":"Q137593679","countries":["LB","SY","IL","PS"],"verdict":"keep","reason":"Chickpea wraps fit the shared Levantine wrap tradition."}
+{"batch":"names-023","position":5,"id":"Q137602246","countries":["CH","US"],"verdict":"keep","reason":"Soaked oats connect Swiss muesli and modern American overnight-oat breakfast."}
+{"batch":"names-023","position":30,"id":"Q137734212","countries":["RU","FI","PL"],"verdict":"keep","reason":"Cabbage pies are shared Russian, Finnish and Polish preparations."}
+{"batch":"names-023","position":31,"id":"Q137734312","countries":["GR"],"verdict":"keep","reason":"Panspermia is Greek mixed-grain porridge."}
+{"batch":"names-023","position":33,"id":"Q137778889","countries":["GB","FR"],"verdict":"keep","reason":"Oblong western loaf fits British and French bread traditions."}
+{"batch":"names-023","position":34,"id":"Q137785263","countries":["US"],"verdict":"keep","reason":"Frozen salad is the American frozen salad preparation."}
+{"batch":"names-023","position":58,"id":"Q137804829","countries":["US"],"verdict":"keep","reason":"Icebox cookies are American refrigerator cookies."}
+{"batch":"names-023","position":60,"id":"Q137807970","countries":["FR"],"verdict":"keep","reason":"Sautéed leek has French vegetable preparation ties; no narrower version supplied."}
+{"batch":"names-023","position":62,"id":"Q137810203","countries":["UA"],"verdict":"keep","reason":"Ufaq as is Crimean Tatar food associated with Crimea."}
+{"batch":"names-023","position":73,"id":"Q137826011","countries":["FI"],"verdict":"keep","reason":"Finnish Kaalisalaatti identifies Finnish cabbage salad."}
+{"batch":"names-023","position":75,"id":"Q137826013","countries":["FI"],"verdict":"keep","reason":"Sienimuhennos is Finnish mushroom stew."}
+{"batch":"names-023","position":77,"id":"Q137826015","countries":["FI"],"verdict":"keep","reason":"Kantarellikeitto identifies Finnish chanterelle soup."}
+{"batch":"names-023","position":82,"id":"Q137826023","countries":["RU","FI"],"verdict":"keep","reason":"Russian-style herring has Russian and Finnish ties."}
+{"batch":"names-023","position":85,"id":"Q137826226","countries":["FI"],"verdict":"keep","reason":"Fantasiakakku is a Finnish named decorated cake."}
+{"batch":"names-023","position":94,"id":"Q137826251","countries":["FI"],"verdict":"keep","reason":"Vuokaleipä is Finnish tin bread."}
+{"batch":"names-023","position":106,"id":"Q137862828","countries":[],"verdict":"remove","reason":"Specific Wikipedia Day sculpture cake is an individual commemorative artwork, not a dish type."}
+{"batch":"names-023","position":134,"id":"Q13798201","countries":["NL","BE"],"verdict":"keep","reason":"Dutch poppy-seed bread supports Dutch-speaking Netherlands and Belgium."}
+{"batch":"names-023","position":138,"id":"Q138011108","countries":["GB"],"verdict":"keep","reason":"Baked beans pizza is a British adaptation."}
+{"batch":"names-023","position":140,"id":"Q138024294","countries":["US"],"verdict":"keep","reason":"Pickle pizza is an American pizza variation."}
+{"batch":"names-023","position":141,"id":"Q138024534","countries":["BR"],"verdict":"keep","reason":"Café com mistura denotes Brazilian coffee with accompanying foods, a meal rather than coffee alone."}
+{"batch":"names-023","position":143,"id":"Q1380492","countries":["DE"],"verdict":"keep","reason":"Gefillde are Saarland potato dumplings."}
+{"batch":"names-023","position":144,"id":"Q138076358","countries":["JP"],"verdict":"keep","reason":"Grilled onigiri are Japanese rice balls."}
+{"batch":"names-023","position":145,"id":"Q138132161","countries":["PE"],"verdict":"keep","reason":"Chiriuchu is Cusco Peruvian festive food."}
+{"batch":"names-023","position":163,"id":"Q138330528","countries":["ID","CH"],"verdict":"keep","reason":"Mah Mee is Indonesian-derived noodle cooking established in Switzerland."}
+{"batch":"names-023","position":167,"id":"Q13840832","countries":["CN","FR","GB"],"verdict":"keep","reason":"Hard-boiled eggs are cooked prepared food; these Chinese, French and British traditions are valid."}
+{"batch":"names-023","position":172,"id":"Q138479165","countries":["MX","US"],"verdict":"keep","reason":"Soft tacos belong to Mexican and American taco traditions."}
+{"batch":"names-023","position":178,"id":"Q138542087","countries":["GB","AU","NZ"],"verdict":"keep","reason":"Layered strawberry cream meringue fits British and Australasian desserts."}
+{"batch":"names-023","position":179,"id":"Q138542172","countries":["BR"],"verdict":"keep","reason":"Condensed milk peanut pé de moça is Brazilian candy."}
+{"batch":"names-023","position":180,"id":"Q138542190","countries":["BR"],"verdict":"keep","reason":"Cheese with syruped plum fits Brazilian dessert preparation."}
+{"batch":"names-023","position":181,"id":"Q138542191","countries":["BR","PT"],"verdict":"keep","reason":"Portuguese named sweet and Brazilian condensed-milk variation support both ties."}
+{"batch":"names-023","position":185,"id":"Q138542196","countries":["BR"],"verdict":"keep","reason":"Dehydrated taro leaf cake corresponds to Brazilian taioba baking."}
+{"batch":"names-023","position":192,"id":"Q138542203","countries":["BR","PT"],"verdict":"keep","reason":"Toasted sliced sponge cake has Portuguese and Brazilian biscuit traditions."}
+{"batch":"names-023","position":196,"id":"Q138542207","countries":["BR"],"verdict":"keep","reason":"Seasoned black-bean broth cups are Brazilian caldinho."}
+{"batch":"names-023","position":202,"id":"Q138542213","countries":["BR"],"verdict":"keep","reason":"Cinnamon barbecue pineapple is Brazilian churrasco accompaniment."}
+{"batch":"names-023","position":203,"id":"Q138542214","countries":["BR","PT"],"verdict":"keep","reason":"Vinegar-oil pearl potatoes have Brazilian and Portuguese preserved-food ties."}
+{"batch":"names-023","position":204,"id":"Q138542215","countries":["BR","PT"],"verdict":"keep","reason":"Potato vinaigrette is established in Portuguese and Brazilian salads."}
+{"batch":"names-023","position":205,"id":"Q138542216","countries":["BR","IT"],"verdict":"keep","reason":"Tomato-pepper sautéed eggplant has Italian and Brazilian versions."}
+{"batch":"names-023","position":206,"id":"Q138542217","countries":["BR","RU","PL"],"verdict":"keep","reason":"Cold cooked beetroot salad has Brazilian and eastern European ties."}
+{"batch":"names-023","position":207,"id":"Q138542218","countries":["BR","FR"],"verdict":"keep","reason":"Garlic-onion sautéed carrots fit Brazilian and French side dishes."}
+{"batch":"names-023","position":208,"id":"Q138542219","countries":["BR","MX"],"verdict":"keep","reason":"Sautéed chayote has Brazilian and Mexican vegetable traditions."}
+{"batch":"names-023","position":209,"id":"Q138542220","countries":["BR","IT"],"verdict":"keep","reason":"Fried breaded cauliflower has Brazilian and Italian ties."}
+{"batch":"names-023","position":210,"id":"Q138542221","countries":["BR"],"verdict":"keep","reason":"Seasoned black-eyed peas fit Brazilian feijão-fradinho preparation."}
+{"batch":"names-023","position":211,"id":"Q138542222","countries":["BR","RU"],"verdict":"keep","reason":"Potato vegetable mayonnaise salad links Brazilian maionese and Russian salad."}
+{"batch":"names-023","position":212,"id":"Q138542223","countries":["MX","US","BR"],"verdict":"keep","reason":"Preserved chili hot sauce is established Mexican, American and Brazilian prepared condiment."}
+{"batch":"names-023","position":213,"id":"Q138542224","countries":["BR","ES","IT"],"verdict":"keep","reason":"Charcoal grilled peppers have Brazilian and Mediterranean ties."}
+{"batch":"names-023","position":214,"id":"Q138542225","countries":["IT","BR"],"verdict":"keep","reason":"Soft polenta with sauce has Italian and Brazilian traditions."}
+{"batch":"names-023","position":215,"id":"Q138542226","countries":["BR"],"verdict":"keep","reason":"Pumpkin purée served with dried meat specifically fits Brazilian cooking."}
+{"batch":"names-023","position":216,"id":"Q138542227","countries":["BR","IN"],"verdict":"keep","reason":"Garlic-onion sautéed okra has Brazilian and Indian versions."}
+{"batch":"names-023","position":217,"id":"Q138542229","countries":["BR","FR"],"verdict":"keep","reason":"Sautéed green beans fit Brazilian and French vegetable sides."}
+{"batch":"names-023","position":219,"id":"Q138542231","countries":["BR","TR"],"verdict":"keep","reason":"Mixed meat vegetable skewers have Brazilian barbecue and Turkish kebab ties."}
+{"batch":"names-023","position":220,"id":"Q138542232","countries":["IT","BR"],"verdict":"keep","reason":"Tuscan sausage connects Italian sausage and Brazilian linguiça toscana barbecue."}
+{"batch":"names-023","position":221,"id":"Q138542233","countries":["BR","AR","UY"],"verdict":"keep","reason":"Charcoal slow-roasted lamb shoulder fits southern South American barbecue."}
+{"batch":"names-023","position":222,"id":"Q138542234","countries":["PT","ES","BR"],"verdict":"keep","reason":"Tomato squid rice has Portuguese, Spanish and Brazilian ties."}
+{"batch":"names-023","position":223,"id":"Q138542235","countries":["PT","ES","BR"],"verdict":"keep","reason":"Shrimp/squid seafood rice has Iberian and Brazilian traditions."}
+{"batch":"names-023","position":224,"id":"Q138542236","countries":["IT","BR"],"verdict":"keep","reason":"Seafood spaghetti has Italian and Brazilian pasta ties."}
+{"batch":"names-023","position":225,"id":"Q138542237","countries":["BR","PT"],"verdict":"keep","reason":"Chilled seafood vinaigrette fits Brazilian and Portuguese preparations."}
+{"batch":"names-023","position":226,"id":"Q138542238","countries":["US","FR","CN"],"verdict":"keep","reason":"Steamed oysters have established American, French and Chinese seafood traditions."}
+{"batch":"names-023","position":227,"id":"Q138542239","countries":["BR"],"verdict":"keep","reason":"White fish with creamy shrimp sauce fits Brazilian fish preparation."}
+{"batch":"names-023","position":228,"id":"Q138542240","countries":["IT","PT","BR"],"verdict":"keep","reason":"Cold seasoned cooked seafood salad has Italian, Portuguese and Brazilian ties."}
+{"batch":"names-023","position":245,"id":"Q1386897","countries":["DE"],"verdict":"keep","reason":"Töttchen is Westphalian German meat dish."}
+{"batch":"names-023","position":264,"id":"Q138690929","countries":["JP"],"verdict":"keep","reason":"Kabocha roasted as seasoned slices fits Japanese squash cooking."}
+{"batch":"names-023","position":285,"id":"Q138811","countries":["GB","NL","FI","SE","DK"],"verdict":"keep","reason":"Licorice candy is prepared confectionery with British, Dutch and Nordic ties."}
+{"batch":"names-023","position":289,"id":"Q138849335","countries":["US","CA"],"verdict":"keep","reason":"Zucchini muffins are North American baking."}
+{"batch":"names-023","position":290,"id":"Q138849361","countries":["JP"],"verdict":"keep","reason":"Karaage, teriyaki and egg metadata identifies Japanese preparation; no explicit brand evidence here."}
+{"batch":"names-023","position":296,"id":"Q138950054","countries":["GB"],"verdict":"keep","reason":"Despite hoagie label, tortilla fries and döner description identifies Scottish takeaway wrap."}
+{"batch":"names-023","position":297,"id":"Q138950659","countries":["DE","US"],"verdict":"keep","reason":"Sugar diorama eggs are German and American Easter confectionery, edible prepared sweets."}
+{"batch":"names-024","position":3,"id":"Q139071793","countries":["IN","LK","BD","TH"],"verdict":"keep","reason":"Fish curry has South Asian and Thai established traditions."}
+{"batch":"names-024","position":4,"id":"Q139072490","countries":["IN","PK","LK","TH"],"verdict":"keep","reason":"Vegetable curry has Indian, Pakistani, Sri Lankan and Thai versions."}
+{"batch":"names-024","position":5,"id":"Q139105458","countries":["GB","IN"],"verdict":"keep","reason":"Candied caraway comfits have British and Indian confectionery ties."}
+{"batch":"names-024","position":26,"id":"Q1393435","countries":["DE"],"verdict":"keep","reason":"Salzkuchen is German regional savory cake/bread."}
+{"batch":"names-024","position":31,"id":"Q139408916","countries":["CN"],"verdict":"keep","reason":"Henan steamed vegetable name explicitly places dish in China."}
+{"batch":"names-024","position":32,"id":"Q139409102","countries":["CN"],"verdict":"keep","reason":"Carp baked-noodle dish is Chinese Henan cooking."}
+{"batch":"names-024","position":34,"id":"Q139414293","countries":["GB"],"verdict":"keep","reason":"Description explicitly dates chewettes to England."}
+{"batch":"names-024","position":35,"id":"Q139439156","countries":["CN"],"verdict":"keep","reason":"Pounded chili century egg is explicitly Hunan cuisine."}
+{"batch":"names-024","position":36,"id":"Q139439477","countries":["CN"],"verdict":"keep","reason":"Chinese shengcuan meatball soup supports CN."}
+{"batch":"names-024","position":39,"id":"Q139472819","countries":["CN"],"verdict":"keep","reason":"Description explicitly identifies Chinese fried meatballs."}
+{"batch":"names-024","position":40,"id":"Q139497890","countries":["DE"],"verdict":"keep","reason":"Quenu cake has only German metadata, so German fallback is warranted."}
+{"batch":"names-024","position":43,"id":"Q139503554","countries":["GB","US"],"verdict":"keep","reason":"Crispy potatoes have British and American prepared-potato ties."}
+{"batch":"names-024","position":45,"id":"Q139505285","countries":["JP"],"verdict":"keep","reason":"Tamago sando explicitly Japanese egg salad sandwich."}
+{"batch":"names-024","position":46,"id":"Q139551259","countries":["SE"],"verdict":"keep","reason":"Swedish potato-leek soup title places this version in Sweden."}
+{"batch":"names-024","position":50,"id":"Q139582297","countries":["LB","SY","PS","JO"],"verdict":"keep","reason":"Madlouqa is explicitly Levantine qishta dessert shared across region."}
+{"batch":"names-024","position":75,"id":"Q139770134","countries":["ES"],"verdict":"keep","reason":"Catalan hearts-of-palm salad title supports Spanish Catalan version."}
+{"batch":"names-024","position":76,"id":"Q1397738","countries":["DE","AT"],"verdict":"keep","reason":"Lenten pretzels have German and Austrian traditions."}
+{"batch":"names-024","position":78,"id":"Q139809866","countries":["LS","ZA"],"verdict":"keep","reason":"Motoho is Basotho fermented sorghum food across Lesotho and South Africa; entry does not establish drink-only use."}
+{"batch":"names-024","position":96,"id":"Q13986541","countries":["CZ"],"verdict":"keep","reason":"Kahuda is Czech seasoned curd preparation."}
+{"batch":"names-024","position":99,"id":"Q139885834","countries":["US","AU"],"verdict":"keep","reason":"Dolly Varden cake has American layer-cake and Australian doll-cake traditions."}
+{"batch":"names-024","position":101,"id":"Q139890497","countries":["JP"],"verdict":"keep","reason":"Udo ramen Japanese name identifies Japanese noodle dish."}
+{"batch":"names-024","position":105,"id":"Q139915904","countries":["US"],"verdict":"keep","reason":"Description explicitly says Buffalo New York pizza."}
+{"batch":"names-024","position":111,"id":"Q139976172","countries":["US"],"verdict":"keep","reason":"Description explicitly says American layer cake."}
+{"batch":"names-024","position":114,"id":"Q140010226","countries":["JP"],"verdict":"keep","reason":"Mukōzuke includes real kaiseki hors doeuvre meaning, so retain Japanese dish despite tableware homonym."}
+{"batch":"names-024","position":116,"id":"Q140068316","countries":["GB","IE"],"verdict":"keep","reason":"Brown-bread ice cream has British and Irish dessert ties."}
+{"batch":"names-024","position":117,"id":"Q140069747","countries":["IT"],"verdict":"keep","reason":"Cato globi explicitly ancient Roman cheesecake dumplings."}
+{"batch":"names-024","position":118,"id":"Q140157702","countries":["US"],"verdict":"keep","reason":"Description and soul-food cuisine explicitly place cooked chitlins in southern US."}
+{"batch":"names-024","position":119,"id":"Q140159539","countries":["AE","OM","BH","QA","SA","KW"],"verdict":"keep","reason":"Khabeesa is a shared Gulf sweet, not confined to one Arabic-speaking country."}
+{"batch":"names-024","position":120,"id":"Q140159693","countries":["EG","LB","SY","PS"],"verdict":"keep","reason":"Malban confection has Egyptian and Levantine ties."}
+{"batch":"names-024","position":124,"id":"Q1401956","countries":["DE"],"verdict":"keep","reason":"German Feinkostsalat supports German prepared deli salad version."}
+{"batch":"names-024","position":125,"id":"Q140197903","countries":["DE","AT","CH"],"verdict":"keep","reason":"Anise cookies have German, Austrian and Swiss traditions."}
+{"batch":"names-024","position":126,"id":"Q140199021","countries":["JP"],"verdict":"keep","reason":"Japanese eel-bone senbei is prepared snack; product classification alone is not brand proof."}
+{"batch":"names-024","position":129,"id":"Q140291446","countries":["US","DE"],"verdict":"keep","reason":"Beer brat connects American beer-brat preparation and German bratwurst."}
+{"batch":"names-024","position":133,"id":"Q140331989","countries":["IT","GR","TR","GE"],"verdict":"keep","reason":"Eggplant rolls have Italian, Greek, Turkish and Georgian ties."}
+{"batch":"names-024","position":134,"id":"Q140411644","countries":["CN"],"verdict":"keep","reason":"Description explicitly identifies Chaoshan snack."}
+{"batch":"names-024","position":135,"id":"Q140418822","countries":["US","GB"],"verdict":"keep","reason":"Checkerboard cake is American and British baking."}
+{"batch":"names-024","position":137,"id":"Q140423317","countries":["PL"],"verdict":"keep","reason":"Polish metadata and meat-dish classification support retaining plausible named dish under PL fallback."}
+{"batch":"names-024","position":139,"id":"Q140430995","countries":["PH"],"verdict":"keep","reason":"Description explicitly identifies Filipino fried hatchling street food."}
+{"batch":"names-024","position":142,"id":"Q140444348","countries":["FI"],"verdict":"keep","reason":"Tirripaisti is Finnish pork preparation."}
+{"batch":"names-024","position":143,"id":"Q140444349","countries":["RU","FI"],"verdict":"keep","reason":"Venäjän Kulitsa names Russian kulich in Finnish baking context."}
+{"batch":"names-024","position":144,"id":"Q140444350","countries":["FI"],"verdict":"keep","reason":"Palvimakkara is Finnish smoked sausage."}
+{"batch":"names-024","position":145,"id":"Q140444352","countries":["FI"],"verdict":"keep","reason":"Finnish Shanghai-taco version should not be assigned China just from adapted name."}
+{"batch":"names-024","position":146,"id":"Q140444353","countries":["FI"],"verdict":"keep","reason":"Lanttukukko is Finnish swede-filled bread."}
+{"batch":"names-024","position":150,"id":"Q140455658","countries":["TH","KH","VN"],"verdict":"keep","reason":"Stuffed wings have Thai, Cambodian and Vietnamese ties."}
+{"batch":"names-024","position":152,"id":"Q140471515","countries":["AR"],"verdict":"keep","reason":"Description explicitly identifies Argentine sorrentinos."}
+{"batch":"names-024","position":156,"id":"Q140502350","countries":["GB","US"],"verdict":"keep","reason":"Topped baked-fruit dessert fits British and American crumble/cobbler traditions."}
+{"batch":"names-024","position":157,"id":"Q140518956","countries":["SE","FI","FR"],"verdict":"keep","reason":"Crayfish soups have Nordic and French traditions."}
+{"batch":"names-024","position":158,"id":"Q140520554","countries":["NG"],"verdict":"keep","reason":"Explicit Igbo soup identifies Nigerian cooking."}
+{"batch":"names-024","position":159,"id":"Q140520817","countries":["SE"],"verdict":"keep","reason":"Swedish wholemeal bread name supports Sweden for this generic bread version."}
+{"batch":"names-024","position":160,"id":"Q140521127","countries":["FR","IS","US"],"verdict":"keep","reason":"Lobster soup has French, Icelandic and American established traditions."}
+{"batch":"names-024","position":161,"id":"Q140521514","countries":["FR"],"verdict":"keep","reason":"French frozen flan cake name supports French version."}
+{"batch":"names-024","position":168,"id":"Q140589660","countries":["NL","BE"],"verdict":"keep","reason":"Café Noir describes coffee-iced biscuit type with Dutch/Belgian ties; entry names no manufacturer."}
+{"batch":"names-024","position":170,"id":"Q140611219","countries":["US","GB"],"verdict":"keep","reason":"Birds-nest pudding has American and British dessert traditions."}
+{"batch":"names-025","position":41,"id":"Q140695130","countries":["US","IT"],"verdict":"keep","reason":"Zucchini noodles are modern American adaptation of Italian spaghetti."}
+{"batch":"names-025","position":43,"id":"Q140698473","countries":["JP"],"verdict":"keep","reason":"Sanzokuyaki is Japanese mountain-bandit-style chicken."}
+{"batch":"names-025","position":44,"id":"Q140700947","countries":["JP","PT"],"verdict":"keep","reason":"Keiran sōmen is Japanese nanban egg-thread sweet derived from Portuguese fios de ovos."}
+{"batch":"names-025","position":50,"id":"Q1408240","countries":["DE"],"verdict":"keep","reason":"Generic ready-made soup is a prepared preserved food, no brand specified; German name supports DE version."}
+{"batch":"names-025","position":52,"id":"Q140907498","countries":["US"],"verdict":"keep","reason":"Pull-apart doughnut fits American doughnut baking."}
+{"batch":"names-025","position":57,"id":"Q140946891","countries":["CL"],"verdict":"keep","reason":"Description explicitly identifies Chilean bread."}
+{"batch":"names-025","position":59,"id":"Q14096039","countries":["IN"],"verdict":"keep","reason":"Rishta Khatayi is a South Asian named pastry with Indian ties."}
+{"batch":"names-025","position":60,"id":"Q140995939","countries":["CN"],"verdict":"keep","reason":"Chinese curry beef noodle soup title supports China."}
+{"batch":"names-025","position":69,"id":"Q141111492","countries":["DE","CH"],"verdict":"keep","reason":"Laubfrösche spinach parcels have German and Swiss ties."}
+{"batch":"names-025","position":79,"id":"Q141163288","countries":["SE"],"verdict":"keep","reason":"Swedish spaghetti gratin name identifies Swedish adaptation."}
+{"batch":"names-025","position":85,"id":"Q141247327","countries":["IT","GB"],"verdict":"keep","reason":"Lemon ice cream has Italian gelato and British ice-cream traditions."}
+{"batch":"names-025","position":94,"id":"Q141293713","countries":[],"verdict":"remove","reason":"Lourdes pilgrim timbale has aluminium ingredient and vessel identity, not edible timbale."}
+{"batch":"names-025","position":98,"id":"Q141369422","countries":["NL"],"verdict":"keep","reason":"Description explicitly says Dutch marzipan-cream pastry."}
+{"batch":"names-025","position":99,"id":"Q141369742","countries":["SE"],"verdict":"keep","reason":"Vetebröd is Swedish wheat sweet bread."}
+{"batch":"names-025","position":102,"id":"Q141385046","countries":["NL"],"verdict":"keep","reason":"Description explicitly identifies Dutch brittle biscuit."}
+{"batch":"names-025","position":104,"id":"Q141385805","countries":["SE","DK","NO","FI"],"verdict":"keep","reason":"Scandinavian pickled beetroot mayonnaise spread has Nordic ties."}
+{"batch":"names-025","position":107,"id":"Q141436297","countries":["US"],"verdict":"keep","reason":"Death muffin remains plausible named muffin with no explicit brand or fictional evidence; US muffin fallback."}
+{"batch":"names-025","position":111,"id":"Q141467374","countries":["CZ"],"verdict":"keep","reason":"Czech cream ice cream name supports Czech version."}
+{"batch":"names-025","position":112,"id":"Q141483840","countries":["CN","GB"],"verdict":"keep","reason":"Candied ginger is processed confection with Chinese and British ties."}
+{"batch":"names-025","position":118,"id":"Q141556520","countries":["GB"],"verdict":"keep","reason":"Orange chips are British battered potato chips."}
+{"batch":"names-025","position":132,"id":"Q141577768","countries":["ID"],"verdict":"keep","reason":"Ares is Indonesian banana-stem dish."}
+{"batch":"names-025","position":142,"id":"Q141657659","countries":["DE"],"verdict":"keep","reason":"German named meat-dish metadata supports DE fallback."}
+{"batch":"names-025","position":144,"id":"Q141665896","countries":["TR"],"verdict":"keep","reason":"Description explicitly identifies Turkish feet/tripe soup."}
+{"batch":"names-025","position":145,"id":"Q141666592","countries":["TR"],"verdict":"keep","reason":"Sinop walnut mantı is Turkish regional dumpling."}
+{"batch":"names-025","position":148,"id":"Q141698603","countries":["FR","IT","CN"],"verdict":"keep","reason":"Stuffed chicken has established French, Italian and Chinese traditions."}
+{"batch":"names-025","position":150,"id":"Q141735302","countries":["DE","AT"],"verdict":"keep","reason":"Creamed vegetables are established German/Austrian Rahmgemüse."}
+{"batch":"names-025","position":156,"id":"Q141754097","countries":["US","GB"],"verdict":"keep","reason":"Twice-baked potatoes have American and British ties."}
+{"batch":"names-025","position":164,"id":"Q141776651","countries":["GB"],"verdict":"keep","reason":"Snail porridge is a British modern culinary preparation."}
+{"batch":"names-025","position":168,"id":"Q141871453","countries":["GA"],"verdict":"keep","reason":"Nkumu andza is Gabonese leaf dish."}
+{"batch":"names-025","position":169,"id":"Q141871473","countries":["GA"],"verdict":"keep","reason":"Into is Gabonese prepared food, not placed in France from French label."}
+{"batch":"names-025","position":174,"id":"Q141880665","countries":["GB","SE","FI"],"verdict":"keep","reason":"Mashed swede has British, Swedish and Finnish traditions."}
+{"batch":"names-025","position":182,"id":"Q141917269","countries":["TH","KH","VN","PH","MY","ID"],"verdict":"keep","reason":"Fermented fish paste is prepared condiment shared across Southeast Asia."}
+{"batch":"names-025","position":205,"id":"Q141970603","countries":["IT"],"verdict":"keep","reason":"Cariton is Italian regional dessert."}
+{"batch":"names-025","position":216,"id":"Q1423008","countries":["DE"],"verdict":"keep","reason":"German tomato toadstool garnish is prepared food, not actual poisonous mushroom."}
+{"batch":"names-025","position":217,"id":"Q1423571","countries":["DE"],"verdict":"keep","reason":"Restaurationsbrot is German open sandwich preparation."}
+{"batch":"names-025","position":218,"id":"Q1423725","countries":["DE","PL","CN","JP"],"verdict":"keep","reason":"Cucumber salad has central European and East Asian traditions."}
+{"batch":"names-025","position":219,"id":"Q1426038","countries":["IT"],"verdict":"keep","reason":"Tyropatinam is ancient Roman egg-milk preparation."}
+{"batch":"names-025","position":221,"id":"Q1426283","countries":["DE"],"verdict":"keep","reason":"Flachswickel is German twisted pastry."}
+{"batch":"names-025","position":224,"id":"Q1428477","countries":["RU"],"verdict":"keep","reason":"Russian toadstool-shaped egg dish is edible presentation, not mushroom ingredient."}
+{"batch":"names-025","position":225,"id":"Q14289397","countries":["NL","BE"],"verdict":"keep","reason":"Dutch raisin bread belongs to Netherlands and Belgium."}
+{"batch":"names-025","position":229,"id":"Q1432535","countries":["CN","US","FR","PL"],"verdict":"keep","reason":"Chicken soup has Chinese, American, French and Polish traditions."}
+{"batch":"names-025","position":234,"id":"Q14333256","countries":["TR","GR"],"verdict":"keep","reason":"Sesame bread rolls have Turkish and Greek baking ties."}
+{"batch":"names-025","position":238,"id":"Q14363592","countries":["IT","DE","PT","ES"],"verdict":"keep","reason":"Bread soup has Italian, German, Portuguese and Spanish traditions."}
+{"batch":"names-025","position":240,"id":"Q1444936","countries":["DE"],"verdict":"keep","reason":"Description identifies Frankfurt marzipan biscuit."}
+{"batch":"names-025","position":242,"id":"Q1448660","countries":["LV"],"verdict":"keep","reason":"Pantāga is Latvian egg dish."}
+{"batch":"names-025","position":244,"id":"Q1451438","countries":["DE"],"verdict":"keep","reason":"German Fratzen potato dish supports DE."}
+{"batch":"names-025","position":245,"id":"Q14517051","countries":["NL","BE"],"verdict":"keep","reason":"Dutch fruit bread name supports Netherlands and Belgium."}
+{"batch":"names-025","position":246,"id":"Q1451832","countries":["DE"],"verdict":"keep","reason":"Schlotfeger is German pastry."}
+{"batch":"names-025","position":250,"id":"Q14528540","countries":["NL","BE"],"verdict":"keep","reason":"Dutch sunflower seed bread supports Netherlands and Belgium."}
+{"batch":"names-025","position":251,"id":"Q14528707","countries":["NL"],"verdict":"keep","reason":"Zuidlaarderbol is Dutch regional fruit bread."}
+{"batch":"names-025","position":256,"id":"Q1456217","countries":["DE"],"verdict":"keep","reason":"Honey-salt bread has German named baking ties."}
+{"batch":"names-025","position":263,"id":"Q14635923","countries":["ID"],"verdict":"keep","reason":"Description explicitly identifies Indonesian prepared soil snack; unusual ingredient does not make it nonfood."}
+{"batch":"names-025","position":265,"id":"Q14650718","countries":["GB","US","DE"],"verdict":"keep","reason":"Whole-wheat bread has British, American and German traditions."}
+{"batch":"names-025","position":271,"id":"Q14700806","countries":["IT","US"],"verdict":"keep","reason":"Scooped ice cream is prepared frozen food with Italian and American traditions."}
+{"batch":"names-025","position":272,"id":"Q1470812","countries":["SE","FI","DK","HU"],"verdict":"keep","reason":"Fruit soup is established Nordic and Hungarian dish."}
+{"batch":"names-025","position":274,"id":"Q1471200","countries":["DE"],"verdict":"keep","reason":"Franconian flour dumpling name explicitly identifies German region."}
+{"batch":"names-025","position":275,"id":"Q1472342","countries":["DE"],"verdict":"keep","reason":"Fasnetsküchle are German carnival pastries."}
+{"batch":"names-025","position":279,"id":"Q1474369","countries":["AT","DE","CH"],"verdict":"keep","reason":"Funkenküchlein belong to Alpine Austrian, German and Swiss festival baking."}
+{"batch":"names-025","position":294,"id":"Q14907198","countries":["FR","DE","PL"],"verdict":"keep","reason":"Meat roulades have French, German and Polish ties."}
+{"batch":"names-025","position":296,"id":"Q14914664","countries":["HU","SE","FI","KR"],"verdict":"keep","reason":"Cold sweet soups have Hungarian, Nordic and Korean traditions."}
+{"batch":"names-026","position":14,"id":"Q1498378","countries":["PL","DE","IL","US"],"verdict":"keep","reason":"Chopped liver is Ashkenazi Jewish prepared pâté with eastern European, Israeli and American ties."}
+{"batch":"names-026","position":16,"id":"Q1499559","countries":["FR","GB"],"verdict":"keep","reason":"Fruit jellies are prepared confectionery with French and British traditions."}
+{"batch":"names-026","position":20,"id":"Q15014447","countries":["CN","JP","KR"],"verdict":"keep","reason":"Cold noodles have Chinese, Japanese and Korean traditions."}
+{"batch":"names-026","position":21,"id":"Q1501889","countries":["FR","GB","US"],"verdict":"keep","reason":"White wheat bread has French, British and American baking traditions."}
+{"batch":"names-026","position":30,"id":"Q15062624","countries":["CN","SG","MY"],"verdict":"keep","reason":"Stir-fried rice noodles have Chinese, Singaporean and Malaysian ties."}
+{"batch":"names-026","position":39,"id":"Q15121455","countries":["ES","FR","CZ","SK"],"verdict":"keep","reason":"Garlic soup has Iberian, French, Czech and Slovak traditions."}
+{"batch":"names-026","position":41,"id":"Q1512964","countries":["PL","DE","IL","US"],"verdict":"keep","reason":"Jewish potato latkes belong to Ashkenazi Polish/German and Israeli/American cooking."}
+{"batch":"names-026","position":44,"id":"Q15149436","countries":["CN","JP","KR"],"verdict":"keep","reason":"Asian rice cakes have Chinese, Japanese and Korean traditions."}
+{"batch":"names-026","position":71,"id":"Q1526667","countries":["AT"],"verdict":"keep","reason":"Girardirostbraten is Austrian named roast beef."}
+{"batch":"names-026","position":72,"id":"Q152834","countries":["FR","GB","US"],"verdict":"keep","reason":"Fruit salad is prepared mixed fruit with French, British and American ties."}
+{"batch":"names-026","position":81,"id":"Q15340455","countries":["CN"],"verdict":"keep","reason":"Smoked egg has Chinese prepared-egg tradition."}
+{"batch":"names-026","position":84,"id":"Q1536337","countries":["JP"],"verdict":"keep","reason":"Description explicitly identifies Japanese tempura-shrimp rice ball."}
+{"batch":"names-026","position":96,"id":"Q1543722","countries":["LV"],"verdict":"keep","reason":"Grey peas denotes Latvian prepared pea dish."}
+{"batch":"names-026","position":99,"id":"Q154482","countries":["GB","IE","FR","DE","ES","PL","KR","CN","PT","IT"],"verdict":"keep","reason":"Blood sausage also has well-established Chinese, Portuguese and Italian traditions; expand incomplete list, retain existing shared ties."}
+{"batch":"names-026","position":102,"id":"Q1548693","countries":["DE"],"verdict":"keep","reason":"Großer Hans is northern German pudding/dumpling."}
+{"batch":"names-026","position":104,"id":"Q1550301","countries":["US","GB","CH"],"verdict":"keep","reason":"Lemon meringue pie has American, British and Swiss-associated historical ties."}
+{"batch":"names-026","position":106,"id":"Q1551242","countries":["US","GB"],"verdict":"keep","reason":"Candy cigarettes are unbranded confection type with American and British ties."}
+{"batch":"names-026","position":112,"id":"Q1554726","countries":["PL"],"verdict":"keep","reason":"Placek is Polish cake despite German metadata."}
+{"batch":"names-026","position":113,"id":"Q15548160","countries":["CN","FR","DE"],"verdict":"keep","reason":"Roast duck has Chinese, French and German culinary ties."}
+{"batch":"names-026","position":125,"id":"Q1563014","countries":["DE"],"verdict":"keep","reason":"Snirtjebraten is East Frisian German pork dish."}
+{"batch":"names-026","position":127,"id":"Q1563684","countries":["DE"],"verdict":"keep","reason":"Candy-filled shells are German Schleckmuscheln confection type."}
+{"batch":"names-026","position":142,"id":"Q15695438","countries":["FR"],"verdict":"keep","reason":"Cider confit is prepared French jelly condiment, not cider drink."}
+{"batch":"names-026","position":148,"id":"Q15715760","countries":["PL","UA","RU","IL","US"],"verdict":"keep","reason":"Jewish filled blintzes have eastern European, Israeli and American ties."}
+{"batch":"names-026","position":160,"id":"Q1578239","countries":["DK","DE","GB","US"],"verdict":"keep","reason":"Chocolate-coated marshmallow treats have Danish, German, British and American traditions."}
+{"batch":"names-026","position":164,"id":"Q15789810","countries":["DE","AT"],"verdict":"keep","reason":"Nettle spinach is prepared German/Austrian greens dish, not raw nettle ingredient."}
+{"batch":"names-026","position":177,"id":"Q15839499","countries":["DE","AT","HU"],"verdict":"keep","reason":"Paprika schnitzel has German, Austrian and Hungarian ties."}
+{"batch":"names-026","position":178,"id":"Q15839804","countries":["AT"],"verdict":"keep","reason":"Description explicitly identifies Viennese fish dish; Paulaner name is not sufficient brand evidence."}
+{"batch":"names-026","position":182,"id":"Q15845514","countries":["DZ"],"verdict":"keep","reason":"Halwat tabaa is Algerian stamped biscuit/cake."}
+{"batch":"names-026","position":186,"id":"Q1584798","countries":["DE","AT","CZ"],"verdict":"keep","reason":"Parsley potatoes have German, Austrian and Czech traditions."}
+{"batch":"names-026","position":200,"id":"Q15893577","countries":[],"verdict":"remove","reason":"Lamb brisket identifies plain meat cut; no cooking method or prepared description is supplied."}
+{"batch":"names-026","position":203,"id":"Q15894455","countries":["TW"],"verdict":"keep","reason":"Shrimp omelette is a Taiwanese street-food preparation."}
+{"batch":"names-026","position":211,"id":"Q15900078","countries":["TW"],"verdict":"keep","reason":"Sliced tomato platter is Taiwanese prepared dish rather than raw tomato species."}
+{"batch":"names-026","position":238,"id":"Q15949258","countries":["TW","HK"],"verdict":"keep","reason":"Stir-fried instant noodles have Taiwanese and Hong Kong ties; no packaged brand named."}
+{"batch":"names-026","position":253,"id":"Q15985102","countries":["FR","US"],"verdict":"keep","reason":"Chocolate-covered fruit is prepared dessert with French and American confectionery ties."}
+{"batch":"names-026","position":259,"id":"Q1603166","countries":["DE","DK","SE"],"verdict":"keep","reason":"Twist bread has German and Nordic campfire bread traditions."}
+{"batch":"names-027","position":44,"id":"Q1614358","countries":["DE"],"verdict":"keep","reason":"Artificial honey is prepared invert-sugar confection/syrup, not raw ingredient; German named preparation."}
+{"batch":"names-027","position":51,"id":"Q1616787","countries":["DE"],"verdict":"keep","reason":"Hexenkerze is plausible German named prepared dish under language fallback."}
+{"batch":"names-027","position":64,"id":"Q1621633","countries":["DE","AT"],"verdict":"keep","reason":"Ham rolls have German and Austrian ties."}
+{"batch":"names-027","position":69,"id":"Q16242013","countries":["US","CA"],"verdict":"keep","reason":"Church-window multicolored confection has American and Canadian traditions."}
+{"batch":"names-027","position":77,"id":"Q1625130","countries":["US"],"verdict":"keep","reason":"Cottage ham is American cured pork shoulder preparation."}
+{"batch":"names-027","position":90,"id":"Q16305809","countries":["ID","MY","VN","CN"],"verdict":"keep","reason":"Prawn crackers have Indonesian, Malaysian, Vietnamese and Chinese traditions."}
+{"batch":"names-027","position":107,"id":"Q16351737","countries":["CA","AL"],"verdict":"keep","reason":"Name explicitly describes Canadian pork preparation in Albanian version, supporting both ties."}
+{"batch":"names-027","position":125,"id":"Q1642089","countries":[],"verdict":"remove","reason":"One specific royal wedding cake is individual event object rather than dish type."}
+{"batch":"names-027","position":126,"id":"Q16421026","countries":["DE"],"verdict":"keep","reason":"Lumma classified as dish with German name, supporting last-resort German placement."}
+{"batch":"names-027","position":128,"id":"Q16422576","countries":["IS"],"verdict":"keep","reason":"Icelandic dill potato name supports Iceland."}
+{"batch":"names-027","position":133,"id":"Q16466775","countries":["TR","LB","SY","PS","EG"],"verdict":"keep","reason":"Muhallabia is shared Turkish, Levantine and Egyptian milk pudding."}
+{"batch":"names-027","position":143,"id":"Q16484916","countries":["PL","LT"],"verdict":"keep","reason":"Arkas has Polish-Lithuanian sweet milk preparation ties."}
+{"batch":"names-027","position":145,"id":"Q16489179","countries":["ES"],"verdict":"keep","reason":"Description explicitly says Alicante tuna recipe."}
+{"batch":"names-027","position":151,"id":"Q16492670","countries":["BR"],"verdict":"keep","reason":"Apa is Brazilian named prepared food."}
+{"batch":"names-027","position":162,"id":"Q16497397","countries":["BR"],"verdict":"keep","reason":"Beijos de dona dondon is Brazilian confection."}
+{"batch":"names-027","position":166,"id":"Q1650115","countries":["US","DE"],"verdict":"keep","reason":"Sprouted grain bread has American and German baking traditions."}
+{"batch":"names-027","position":167,"id":"Q16501664","countries":["VE"],"verdict":"keep","reason":"Galleta de goma is Venezuelan cookie."}
+{"batch":"names-027","position":170,"id":"Q16521494","countries":["HU"],"verdict":"keep","reason":"Lebbencs is Hungarian pasta."}
+{"batch":"names-027","position":175,"id":"Q16525446","countries":["DZ","MA"],"verdict":"keep","reason":"Aghroum is shared Algerian and Moroccan Amazigh bread."}
+{"batch":"names-027","position":176,"id":"Q16525449","countries":["DZ"],"verdict":"keep","reason":"Aghroum akouran is Algerian Kabyle galette."}
+{"batch":"names-027","position":177,"id":"Q16531859","countries":["DZ"],"verdict":"keep","reason":"Batata kbab is Algerian potato dish."}
+{"batch":"names-027","position":180,"id":"Q16533662","countries":["DZ"],"verdict":"keep","reason":"Bounarine is Algerian preparation, not French from metadata language."}
+{"batch":"names-027","position":183,"id":"Q16534180","countries":["LU"],"verdict":"keep","reason":"Brotgrompern name and potato-curd-ham description fit Luxembourg cooking."}
+{"batch":"names-027","position":199,"id":"Q16550306","countries":["IT","GR","RU","PL","GB"],"verdict":"keep","reason":"Easter cakes are actual prepared festive cakes with Italian, Greek, Russian, Polish and British traditions."}
+{"batch":"names-027","position":222,"id":"Q16586408","countries":["SE","NO","RU","IR"],"verdict":"keep","reason":"Kaviar alone does not identify only Scandinavian roe spread; include core Russian and Iranian caviar ties alongside Nordic preparation."}
+{"batch":"names-027","position":230,"id":"Q1660010","countries":["DE","AT","CH","US"],"verdict":"keep","reason":"Christmas cookies are prepared seasonal pastries with German-speaking and American traditions."}
+{"batch":"names-027","position":249,"id":"Q16635693","countries":["EG","IT","GR"],"verdict":"keep","reason":"Broad bean soup has Egyptian, Italian and Greek traditions."}
+{"batch":"names-027","position":251,"id":"Q16636380","countries":["ES","FR","MX"],"verdict":"keep","reason":"Egg-milk vanilla flan has Spanish, French and Mexican ties."}
+{"batch":"names-027","position":260,"id":"Q1664470","countries":["CY"],"verdict":"keep","reason":"Luntza is Cypriot cured pork product, a named prepared food."}
+{"batch":"names-027","position":261,"id":"Q16648183","countries":["DZ"],"verdict":"keep","reason":"Sweet kafta is Algerian confection rather than generic meat kofta."}
+{"batch":"names-027","position":277,"id":"Q16670586","countries":["FR"],"verdict":"keep","reason":"Polka is French cake."}
+{"batch":"names-027","position":288,"id":"Q16679171","countries":["DZ"],"verdict":"keep","reason":"Algerian Arabic tchicha soup supports Algeria."}
+{"batch":"names-027","position":294,"id":"Q16682389","countries":["US"],"verdict":"keep","reason":"Oatmeal-raisin drop cookies are American baking."}
+{"batch":"names-027","position":295,"id":"Q16683197","countries":["TN","DZ"],"verdict":"keep","reason":"Judges-ear pastry has Tunisian and Algerian traditions."}
+{"batch":"names-028","position":2,"id":"Q1671107","countries":[],"verdict":"remove","reason":"Mad honey is naturally occurring psychoactive honey, not prepared dish; no recipe supplied."}
+{"batch":"names-028","position":29,"id":"Q16834380","countries":["YE","SA"],"verdict":"keep","reason":"Aseed has Yemeni and Saudi Arabian food traditions despite sparse fish-dish classification."}
+{"batch":"names-028","position":33,"id":"Q16836532","countries":["DZ"],"verdict":"keep","reason":"Fennel with lamb is Algerian preparation."}
+{"batch":"names-028","position":40,"id":"Q16844050","countries":["KR"],"verdict":"keep","reason":"Bogeo is Korean pufferfish soup preparation."}
+{"batch":"names-028","position":42,"id":"Q16847095","countries":["US"],"verdict":"keep","reason":"Broccoli slaw is American coleslaw adaptation."}
+{"batch":"names-028","position":55,"id":"Q16861033","countries":["GB"],"verdict":"keep","reason":"Triple-cooked chips are British potato preparation."}
+{"batch":"names-028","position":74,"id":"Q16880108","countries":["US","BS","JM","HN","BZ"],"verdict":"keep","reason":"Description explicitly places conch soup in Florida Keys and Caribbean; listed Caribbean traditions fit."}
+{"batch":"names-028","position":79,"id":"Q16887568","countries":["MX","US","GB"],"verdict":"keep","reason":"Seafood cocktail is edible seafood dish with Mexican, American and British ties, not alcoholic drink."}
+{"batch":"names-028","position":84,"id":"Q16896963","countries":["CN"],"verdict":"keep","reason":"Five-nuts wedding pastry is Chinese baking."}
+{"batch":"names-028","position":85,"id":"Q1689772","countries":["CH"],"verdict":"keep","reason":"Correct DE to CH: Stuck is the St Gallen Swiss pastry, not German just because German language."}
+{"batch":"names-028","position":96,"id":"Q16911615","countries":[],"verdict":"remove","reason":"Palate cleanser is meal function covering different dishes, not one identifiable dish."}
+{"batch":"names-028","position":104,"id":"Q16918839","countries":["BS"],"verdict":"keep","reason":"Duff is Bahamian boiled/steamed dessert."}
+{"batch":"names-028","position":106,"id":"Q16926266","countries":[],"verdict":"remove","reason":"Tong sui shop identifies food establishment, not dessert soup itself."}
+{"batch":"names-028","position":113,"id":"Q16933312","countries":["GR","IT","TR","ES"],"verdict":"keep","reason":"Stuffed squid has Greek, Italian, Turkish and Spanish traditions."}
+{"batch":"names-028","position":115,"id":"Q16934214","countries":["TR"],"verdict":"keep","reason":"Sheeps sorrel soup has Turkish regional ties."}
+{"batch":"names-028","position":116,"id":"Q16934667","countries":["IL"],"verdict":"keep","reason":"Zeroa is prepared Passover shankbone with Israeli Jewish culinary ties."}
+{"batch":"names-028","position":139,"id":"Q16965840","countries":["US","DE"],"verdict":"keep","reason":"Clear toy candy belongs to German and Pennsylvania German confectionery."}
+{"batch":"names-028","position":150,"id":"Q16979788","countries":["AU","NZ"],"verdict":"keep","reason":"Musk sticks are Australian and New Zealand sweets."}
+{"batch":"names-028","position":160,"id":"Q16999914","countries":["US","SE"],"verdict":"keep","reason":"Jenny Lind turnip soup has American and Swedish-associated preparation ties; retain shared assignment."}
+{"batch":"names-028","position":165,"id":"Q17003794","countries":["NG"],"verdict":"keep","reason":"Amiedi is Nigerian palm-nut soup."}
+{"batch":"names-028","position":170,"id":"Q17006531","countries":["SY","TR"],"verdict":"keep","reason":"Cherry kebab has Aleppine Syrian and Turkish culinary ties."}
+{"batch":"names-028","position":179,"id":"Q17012850","countries":["US"],"verdict":"keep","reason":"Apple cider cookie is American baking, cider ingredient does not make it drink."}
+{"batch":"names-028","position":180,"id":"Q17013971","countries":["CN"],"verdict":"keep","reason":"Tiger penis soup is Chinese prepared soup; real unusual ingredient does not make it fictional."}
+{"batch":"names-028","position":199,"id":"Q17031556","countries":["TW"],"verdict":"keep","reason":"Herbal catfish stew is Taiwanese street-food preparation."}
+{"batch":"names-028","position":205,"id":"Q17032204","countries":["TW"],"verdict":"keep","reason":"Ko-cha is Yilan Taiwanese fried custard-like food."}
+{"batch":"names-028","position":206,"id":"Q1703243","countries":["PL","DE","IL","US"],"verdict":"keep","reason":"Kreplach are Ashkenazi dumplings with Polish, German, Israeli and American ties."}
+{"batch":"names-028","position":208,"id":"Q1703334","countries":["AT"],"verdict":"keep","reason":"Schaumbrot is Austrian prepared fish dish, not bread inferred from literal name."}
+{"batch":"names-028","position":209,"id":"Q17033393","countries":["CN","IN","NP","BT"],"verdict":"keep","reason":"Tibetan bhatuk noodle soup belongs across Tibetan/Himalayan communities."}
+{"batch":"names-028","position":219,"id":"Q17035461","countries":["TW"],"verdict":"keep","reason":"Grilled bird eggs refer to Taiwanese quail-egg street snack."}
+{"batch":"names-028","position":226,"id":"Q17037938","countries":["IN","PK","BD"],"verdict":"keep","reason":"Egg-centered nargesi kebab is shared South Asian food."}
+{"batch":"names-028","position":230,"id":"Q17038642","countries":["TW","CN"],"verdict":"keep","reason":"Lard-mixed rice has Taiwanese and Chinese ties."}
+{"batch":"names-028","position":231,"id":"Q17039515","countries":["TW"],"verdict":"keep","reason":"Charcoal-grilled sandwiches are Taiwanese breakfast preparation."}
+{"batch":"names-028","position":235,"id":"Q17044047","countries":["CO","CU","PR","DO","EC"],"verdict":"keep","reason":"Plantain soup has Colombian, Caribbean and Ecuadorian traditions."}
+{"batch":"names-028","position":238,"id":"Q17048447","countries":["ES","ZA","ID","LK"],"verdict":"keep","reason":"Yellow spiced rice has Spanish, South African, Indonesian and Sri Lankan traditions."}
+{"batch":"names-028","position":239,"id":"Q170486","countries":["ES","IT","DE","FR","CN"],"verdict":"keep","reason":"Ham is explicitly processed pork leg, so keep as prepared cured product with shared ties."}
+{"batch":"names-028","position":240,"id":"Q17048976","countries":["JP"],"verdict":"keep","reason":"Crab-meat ice cream has Japanese specialty dessert ties."}
+{"batch":"names-028","position":244,"id":"Q1704982","countries":["GR","TR","RU","AZ","IR"],"verdict":"keep","reason":"Qurabiya has Greek, Turkish, Tatar Russian, Azerbaijani and Iranian ties."}
+{"batch":"names-028","position":250,"id":"Q17051646","countries":["PL","UA","IL","US"],"verdict":"keep","reason":"Ptcha is Ashkenazi aspic with eastern European, Israeli and American ties."}
+{"batch":"names-028","position":252,"id":"Q17052123","countries":["DE","US","IL"],"verdict":"keep","reason":"Description explicitly identifies German Jewish buns also established in American and Israeli baking."}
+{"batch":"names-028","position":256,"id":"Q17053542","countries":["SG","MY"],"verdict":"keep","reason":"Sambal stingray belongs to Singapore and Malaysia."}
+{"batch":"names-028","position":269,"id":"Q17064469","countries":["RS","HR","BA","SI","HU"],"verdict":"keep","reason":"Čvarci are shared Balkan and Hungarian pork cracklings, a prepared food."}
+{"batch":"names-028","position":272,"id":"Q17065965","countries":["TW"],"verdict":"keep","reason":"Angelica duck is Taiwanese herbal duck preparation."}
+{"batch":"names-028","position":273,"id":"Q17066200","countries":["CN"],"verdict":"keep","reason":"Soft eel is Huaiyang Chinese cuisine."}
+{"batch":"names-028","position":287,"id":"Q17082973","countries":["DE","DK","NO","SE"],"verdict":"keep","reason":"Marzipan pigs have German and Nordic confectionery ties."}
+{"batch":"names-029","position":5,"id":"Q17105567","countries":["US"],"verdict":"keep","reason":"Sweet potato fries are established American prepared potatoes."}
+{"batch":"names-029","position":6,"id":"Q17105624","countries":["US"],"verdict":"keep","reason":"Garlic ice cream is associated with American garlic-festival cooking."}
+{"batch":"names-029","position":13,"id":"Q17113207","countries":["US"],"verdict":"keep","reason":"Carrot cake cookies are American cookie adaptation."}
+{"batch":"names-029","position":14,"id":"Q17115908","countries":["US","DE"],"verdict":"keep","reason":"Bacon cakes have American and German savory baking ties."}
+{"batch":"names-029","position":15,"id":"Q17115910","countries":["MX","VE","CU"],"verdict":"keep","reason":"Shredded beef has Mexican, Venezuelan and Cuban preparations."}
+{"batch":"names-029","position":17,"id":"Q17116044","countries":["US"],"verdict":"keep","reason":"Fudge cookies are American baking."}
+{"batch":"names-029","position":18,"id":"Q17116069","countries":["US","JP"],"verdict":"keep","reason":"Grape ice cream has American and Japanese frozen-dessert ties."}
+{"batch":"names-029","position":19,"id":"Q17116096","countries":["GB","US","FR"],"verdict":"keep","reason":"Hard candy is prepared boiled sugar confection with British, American and French traditions."}
+{"batch":"names-029","position":22,"id":"Q17116114","countries":["GB"],"verdict":"keep","reason":"Horsebread is historical British mixed-grain bread, also eaten by people."}
+{"batch":"names-029","position":24,"id":"Q17116267","countries":["US"],"verdict":"keep","reason":"Lemon stick has American Baltimore confectionery ties."}
+{"batch":"names-029","position":25,"id":"Q17116283","countries":["DE","US"],"verdict":"keep","reason":"Limburger sandwiches have German and American ties."}
+{"batch":"names-029","position":27,"id":"Q17118710","countries":["CA"],"verdict":"keep","reason":"Tiger tail ice cream is Canadian."}
+{"batch":"names-029","position":28,"id":"Q17118853","countries":["US"],"verdict":"keep","reason":"Oyster ice cream is historical American savory ice cream."}
+{"batch":"names-029","position":29,"id":"Q17118912","countries":["IT","IR","US"],"verdict":"keep","reason":"Pistachio ice cream has Italian, Iranian and American ties."}
+{"batch":"names-029","position":30,"id":"Q17119210","countries":["UA"],"verdict":"keep","reason":"Rosolnyk is Ukrainian pickle soup."}
+{"batch":"names-029","position":31,"id":"Q17119263","countries":["JP","CA","US"],"verdict":"keep","reason":"Smoked scallops are processed prepared seafood with Japanese and North American ties."}
+{"batch":"names-029","position":32,"id":"Q17119279","countries":["US"],"verdict":"keep","reason":"Spaghetti tacos are American fusion food; fictional television association does not negate real preparation."}
+{"batch":"names-029","position":34,"id":"Q17119302","countries":["IN","GB","US"],"verdict":"keep","reason":"Sugar candy is prepared confection with Indian, British and American traditions."}
+{"batch":"names-029","position":35,"id":"Q17119324","countries":["US"],"verdict":"keep","reason":"Tiger tail doughnut is American doughnut preparation."}
+{"batch":"names-029","position":36,"id":"Q17119353","countries":["US"],"verdict":"keep","reason":"West Indies crab salad is Alabama American preparation, not placed in Caribbean by name alone."}
+{"batch":"names-029","position":39,"id":"Q17142904","countries":["US","CA"],"verdict":"keep","reason":"Poppyseed muffins are American and Canadian baking."}
+{"batch":"names-029","position":43,"id":"Q17162482","countries":["CN"],"verdict":"keep","reason":"Description explicitly identifies Shanghai pork chop with rice cakes."}
+{"batch":"names-029","position":47,"id":"Q17166373","countries":["CN"],"verdict":"keep","reason":"Mung bean wedding pastry is Chinese confection."}
+{"batch":"names-029","position":52,"id":"Q17175691","countries":["FR","TN"],"verdict":"keep","reason":"Casse-croûte sandwiches have French and Tunisian ties."}
+{"batch":"names-029","position":56,"id":"Q17192072","countries":["JP"],"verdict":"keep","reason":"Ariran ramen is Japanese regional ramen, despite Korean-sounding name."}
+{"batch":"names-029","position":57,"id":"Q17192558","countries":["FR","GB"],"verdict":"keep","reason":"Candied angelica is prepared confection with French and British ties."}
+{"batch":"names-029","position":80,"id":"Q1721876","countries":["MX","CH"],"verdict":"keep","reason":"Chocolate liquor is processed cocoa mass, not alcoholic drink or plain raw cocoa bean; Mexican/Swiss chocolate ties."}
+{"batch":"names-029","position":105,"id":"Q17230138","countries":["JP","FR"],"verdict":"keep","reason":"Brûlée French toast links Japanese adaptation and French toast tradition."}
+{"batch":"names-029","position":110,"id":"Q17232939","countries":["JP"],"verdict":"keep","reason":"Baked chocolate Japanese name identifies prepared Japanese chocolate."}
+{"batch":"names-029","position":114,"id":"Q1725983","countries":["DE"],"verdict":"keep","reason":"Rauchemaad is Erzgebirge German potato dish."}
+{"batch":"names-029","position":126,"id":"Q1730287","countries":["DE"],"verdict":"keep","reason":"Schokolinsen are German chocolate dragées, no brand named."}
+{"batch":"names-029","position":128,"id":"Q173265","countries":["US","GB"],"verdict":"keep","reason":"Potato chips have American and British ties; real cooked snack."}
+{"batch":"names-029","position":149,"id":"Q17425887","countries":["CN"],"verdict":"keep","reason":"Lotus paste wedding pastry is Chinese baking."}
+{"batch":"names-029","position":155,"id":"Q17482572","countries":["DK"],"verdict":"keep","reason":"Danish UFO pizza name supports Danish adaptation."}
+{"batch":"names-029","position":159,"id":"Q17499197","countries":["CN"],"verdict":"keep","reason":"Oil-poached freshwater fish name identifies Chinese fish preparation."}
+{"batch":"names-029","position":160,"id":"Q17499496","countries":["CN"],"verdict":"keep","reason":"Caul-fat steamed shad identifies Chinese fish preparation."}
+{"batch":"names-029","position":161,"id":"Q17499568","countries":["CN"],"verdict":"keep","reason":"Tofu-steamed freshwater fish identifies Chinese preparation."}
+{"batch":"names-029","position":164,"id":"Q17501980","countries":["JP"],"verdict":"keep","reason":"Aspic classification distinguishes Japanese nikogori food from nigori sake drink."}
+{"batch":"names-029","position":166,"id":"Q17520921","countries":["BY"],"verdict":"keep","reason":"Belarusian open-pie name supports Belarus version."}
+{"batch":"names-029","position":177,"id":"Q1757352","countries":["US","CN"],"verdict":"keep","reason":"Fermented soy yogurt is prepared food with American plant-food and Chinese soy traditions."}
+{"batch":"names-029","position":179,"id":"Q17582679","countries":["CN","MY","SG"],"verdict":"keep","reason":"Birds-nest soup has Chinese, Malaysian and Singaporean traditions."}
+{"batch":"names-029","position":201,"id":"Q17635231","countries":["DZ"],"verdict":"keep","reason":"Algerian Arabic named dish supports Algerian placement."}
+{"batch":"names-029","position":205,"id":"Q17637181","countries":["FR"],"verdict":"keep","reason":"Président is French chocolate cake, not cheese brand given cake metadata."}
+{"batch":"names-029","position":216,"id":"Q1769523","countries":["FR","GB"],"verdict":"keep","reason":"Fondant is prepared icing/confection with French and British ties."}
+{"batch":"names-029","position":220,"id":"Q1772368","countries":["DE","AT"],"verdict":"keep","reason":"Vegetarian schnitzel adapts German and Austrian schnitzel traditions."}
+{"batch":"names-029","position":221,"id":"Q1774328","countries":["DE"],"verdict":"keep","reason":"Kliebensuppe is German milk soup."}
+{"batch":"names-029","position":225,"id":"Q17750349","countries":["NO"],"verdict":"keep","reason":"Biffsnadder is Norwegian beef preparation."}
+{"batch":"names-029","position":226,"id":"Q17767877","countries":["NO"],"verdict":"keep","reason":"Description explicitly identifies Norwegian Queen Maud dessert."}
+{"batch":"names-029","position":227,"id":"Q17769231","countries":["NO"],"verdict":"keep","reason":"Eggehakk is Norwegian chopped egg preparation."}
+{"batch":"names-029","position":229,"id":"Q1777113","countries":["DE"],"verdict":"keep","reason":"Knieper is German regional cabbage preparation."}
+{"batch":"names-029","position":231,"id":"Q1777339","countries":["DE"],"verdict":"keep","reason":"Knockepott is northern German stew."}
+{"batch":"names-029","position":235,"id":"Q1781099","countries":["US","AU"],"verdict":"keep","reason":"Surf and turf is explicitly US dish with established Australian ties."}
+{"batch":"names-029","position":243,"id":"Q1790280","countries":["DE"],"verdict":"keep","reason":"Krusta is East German pizza-like dish."}
+{"batch":"names-029","position":244,"id":"Q1790741","countries":["DE"],"verdict":"keep","reason":"Krüstchen is German schnitzel sandwich/egg preparation."}
+{"batch":"names-029","position":249,"id":"Q1791505","countries":[],"verdict":"remove","reason":"Kullerpfirsich is a peach sparkling-wine drink, not edible dessert despite dish classification."}
+{"batch":"names-029","position":252,"id":"Q1795470","countries":["GB","US"],"verdict":"keep","reason":"Cheese straws have British and American savory pastry traditions."}
+{"batch":"names-029","position":254,"id":"Q1796292","countries":["DE","RU"],"verdict":"keep","reason":"Königsberg marzipan has historical German and current Kaliningrad Russian ties."}
+{"batch":"names-029","position":257,"id":"Q1798420","countries":["DE"],"verdict":"keep","reason":"Snuten un Poten is northern German pork snout/trotter dish."}
+{"batch":"names-029","position":268,"id":"Q1799855","countries":["GB"],"verdict":"keep","reason":"Fruit curd is British prepared dessert spread."}
+{"batch":"names-029","position":279,"id":"Q18001674","countries":["NL"],"verdict":"keep","reason":"Chipolata pudding is Dutch fruit/custard dessert, not Bahamian duff or sausage."}
+{"batch":"names-029","position":281,"id":"Q18011767","countries":["IT"],"verdict":"keep","reason":"Brodo is Italian broth regardless Dutch metadata label."}
+{"batch":"names-029","position":282,"id":"Q18012354","countries":["FR","GB"],"verdict":"keep","reason":"Cauliflower soup has French and British traditions."}
+{"batch":"names-029","position":283,"id":"Q18012356","countries":["US","GB"],"verdict":"keep","reason":"Broccoli soup has American and British ties."}
+{"batch":"names-029","position":284,"id":"Q1801946","countries":["TR","BG","IR","IN"],"verdict":"keep","reason":"Rose petal jam has Turkish, Bulgarian, Iranian and Indian traditions."}
+{"batch":"names-029","position":286,"id":"Q18027552","countries":["DE","SE"],"verdict":"keep","reason":"Strindberg steak has German and Swedish preparation ties."}
+{"batch":"names-029","position":290,"id":"Q1807598","countries":["DE","AT","CH"],"verdict":"keep","reason":"Lye rolls have German, Austrian and Swiss baking ties."}
+{"batch":"names-029","position":295,"id":"Q1810059","countries":["FR"],"verdict":"keep","reason":"French Le Pitchou name supports French fallback for plausible named dish despite German metadata."}
+{"batch":"names-030","position":8,"id":"Q18145066","countries":["FR","US"],"verdict":"keep","reason":"Cream asparagus soup has French and American ties."}
+{"batch":"names-030","position":16,"id":"Q18169525","countries":["NL"],"verdict":"keep","reason":"Polonaise meringue pastry is Dutch, not Polish merely from name."}
+{"batch":"names-030","position":18,"id":"Q18187839","countries":["CN","FR","VN"],"verdict":"keep","reason":"Nougat chinois includes Vietnamese sesame-peanut confection commonly sold under French name; add VN to existing CN/FR."}
+{"batch":"names-030","position":25,"id":"Q1827035","countries":["TR","IN","EG","GR"],"verdict":"keep","reason":"Lentil soup has Turkish, Indian, Egyptian and Greek traditions."}
+{"batch":"names-030","position":37,"id":"Q18332174","countries":["SE"],"verdict":"keep","reason":"Swedish Restriktionsrätt name identifies Swedish prepared dish."}
+{"batch":"names-030","position":39,"id":"Q18336577","countries":[],"verdict":"remove","reason":"Anzu-bō is a named packaged Japanese confection product."}
+{"batch":"names-030","position":41,"id":"Q18338265","countries":["US"],"verdict":"keep","reason":"Steak burger is American sandwich preparation."}
+{"batch":"names-030","position":44,"id":"Q18343677","countries":["TH","VN","CN","PH"],"verdict":"keep","reason":"Pork blood soup has Thai, Vietnamese, Chinese and Filipino traditions."}
+{"batch":"names-030","position":49,"id":"Q18349210","countries":["US","FR"],"verdict":"keep","reason":"Cream broccoli soup has American and French traditions."}
+{"batch":"names-030","position":54,"id":"Q183599","countries":["TR","IR","IN","PK","GR","LB","SY","IL","PS","RU","UA"],"verdict":"keep","reason":"Halva includes sunflower-seed forms explicitly in ingredients; add Russian and Ukrainian traditions alongside existing shared countries."}
+{"batch":"names-030","position":58,"id":"Q18388465","countries":["PL","RU","UA"],"verdict":"keep","reason":"Pickle soup belongs to Polish, Russian and Ukrainian cooking."}
+{"batch":"names-030","position":59,"id":"Q18388530","countries":["US"],"verdict":"keep","reason":"Pig wing is American prepared pork-shank dish."}
+{"batch":"names-030","position":64,"id":"Q18392315","countries":["DE"],"verdict":"keep","reason":"German fries are German pan-fried potato preparation."}
+{"batch":"names-030","position":65,"id":"Q18392504","countries":["CA","US"],"verdict":"keep","reason":"Persian doughnut refers North American pastry, not Iranian origin inferred from name."}
+{"batch":"names-030","position":69,"id":"Q18404521","countries":["KG","KZ"],"verdict":"keep","reason":"Dungan ashlan-fu has Kyrgyz and Kazakh ties."}
+{"batch":"names-030","position":70,"id":"Q18409302","countries":["RU","KZ","KG"],"verdict":"keep","reason":"Talkan is traditional prepared roasted-grain food shared by Russian Turkic, Kazakh and Kyrgyz communities."}
+{"batch":"names-030","position":77,"id":"Q18425077","countries":["RU"],"verdict":"keep","reason":"Marinated mushrooms with pine cone fit Russian preserved mushroom preparation."}
+{"batch":"names-030","position":79,"id":"Q1842635","countries":["US","GB"],"verdict":"keep","reason":"Vanilla wafer is unbranded prepared biscuit type with American and British ties."}
+{"batch":"names-030","position":84,"id":"Q18450657","countries":[],"verdict":"remove","reason":"Swedish glassdrink is ice-cream drink, excluded despite dessert classification."}
+{"batch":"names-030","position":85,"id":"Q18450786","countries":["SE"],"verdict":"keep","reason":"Swedish lamb-saddle preparation supports Sweden."}
+{"batch":"names-030","position":86,"id":"Q18452355","countries":["SE"],"verdict":"keep","reason":"Oxhare is Swedish beef preparation."}
+{"batch":"names-030","position":87,"id":"Q18454935","countries":["SE","FI","DK"],"verdict":"keep","reason":"Small plätt pancakes have shared Nordic ties."}
+{"batch":"names-030","position":89,"id":"Q18456023","countries":[],"verdict":"remove","reason":"Saikoro caramel is named packaged confection brand."}
+{"batch":"names-030","position":97,"id":"Q18464639","countries":["TM"],"verdict":"keep","reason":"Ishlykly is Turkmen meat pie."}
+{"batch":"names-030","position":98,"id":"Q18465111","countries":["BR"],"verdict":"keep","reason":"Chuvisco is Brazilian egg confection."}
+{"batch":"names-030","position":107,"id":"Q18467298","countries":["BR"],"verdict":"keep","reason":"Cajuada is Brazilian cashew confection."}
+{"batch":"names-030","position":116,"id":"Q18483622","countries":["BR","PT"],"verdict":"keep","reason":"Portuguese-language griddled salmon has Brazilian and Portuguese cooking ties."}
+{"batch":"names-030","position":117,"id":"Q18485223","countries":["MT"],"verdict":"keep","reason":"Widows soup is Maltese vegetable-cheese soup."}
+{"batch":"names-030","position":125,"id":"Q18499554","countries":["BR","AR"],"verdict":"keep","reason":"Baby beef is Brazilian/Argentine prepared steak tradition, not necessarily raw young-animal ingredient."}
+{"batch":"names-030","position":126,"id":"Q18499683","countries":["BR"],"verdict":"keep","reason":"Bananada is Brazilian cooked banana-sugar sweet."}
+{"batch":"names-030","position":128,"id":"Q18500743","countries":["BR"],"verdict":"keep","reason":"Bolinho de frango is Brazilian chicken fritter."}
+{"batch":"names-030","position":132,"id":"Q185457","countries":["DE","RU"],"verdict":"keep","reason":"Meat salad has German and Russian prepared-salad traditions."}
+{"batch":"names-030","position":133,"id":"Q18547489","countries":["GR"],"verdict":"keep","reason":"Description explicitly identifies Thasos ancient Greek fish sauce."}
+{"batch":"names-030","position":136,"id":"Q18558342","countries":["TN","DZ"],"verdict":"keep","reason":"Malsouka is prepared North African pastry sheet with Tunisian and Algerian ties."}
+{"batch":"names-030","position":150,"id":"Q1862619","countries":["LB","SY","PS","JO","IQ","SA"],"verdict":"keep","reason":"Round leavened khubz is shared Levantine, Iraqi and Saudi bread."}
+{"batch":"names-030","position":154,"id":"Q186385","countries":["RU","IR","AZ"],"verdict":"keep","reason":"Salt-cured sturgeon roe is prepared caviar with Russian, Iranian and Azerbaijani ties."}
+{"batch":"names-030","position":164,"id":"Q186817","countries":["GB","RU","CN"],"verdict":"keep","reason":"Boiled cereal porridge has British, Russian and Chinese traditions."}
+{"batch":"names-030","position":171,"id":"Q18693843","countries":[],"verdict":"remove","reason":"Pax is a named Swedish packaged candy product."}
+{"batch":"names-030","position":193,"id":"Q1875794","countries":["GB","JP"],"verdict":"keep","reason":"Aerated chocolate is unbranded processed confection type with British and Japanese ties."}
+{"batch":"names-030","position":197,"id":"Q1883153","countries":["US","BE"],"verdict":"keep","reason":"Toast waffles connect American toaster waffles and Belgian waffle traditions."}
+{"batch":"names-030","position":200,"id":"Q1884503","countries":["GB","US"],"verdict":"keep","reason":"Veggie burgers have British and American ties."}
+{"batch":"names-030","position":201,"id":"Q1885418","countries":["DE","FR"],"verdict":"keep","reason":"Cockchafer soup is real German/French insect soup, not fictional food."}
+{"batch":"names-030","position":205,"id":"Q1886310","countries":["SG","MY","TH"],"verdict":"keep","reason":"Mee siam has Singaporean, Malaysian and Thai-linked traditions."}
+{"batch":"names-030","position":207,"id":"Q1886522","countries":["TN","DZ","LY"],"verdict":"keep","reason":"Makroudh is shared Tunisian, Algerian and Libyan date-semolina pastry."}
+{"batch":"names-030","position":222,"id":"Q18948079","countries":["DK"],"verdict":"keep","reason":"Bakskuld is Danish salted/dried fish preparation."}
+{"batch":"names-030","position":226,"id":"Q1906552","countries":["DE"],"verdict":"keep","reason":"Marzipan potatoes are German confection, not raw potato ingredient."}
+{"batch":"names-030","position":227,"id":"Q1907985","countries":["GH","NG","SN","GM"],"verdict":"keep","reason":"Peanut soup has Ghanaian, Nigerian, Senegalese and Gambian traditions; listed West African pepper supports region."}
+{"batch":"names-030","position":231,"id":"Q1915612","countries":["DZ","MA","TN"],"verdict":"keep","reason":"Méchoui whole roast lamb has Algerian, Moroccan and Tunisian traditions."}
+{"batch":"names-030","position":241,"id":"Q1926063","countries":["CH"],"verdict":"keep","reason":"Metzgete is Swiss slaughter-feast preparation."}
+{"batch":"names-030","position":242,"id":"Q192783","countries":["US","NL","DE","PL"],"verdict":"keep","reason":"Doughnuts have American, Dutch, German and Polish traditions."}
+{"batch":"names-030","position":249,"id":"Q1934450","countries":["DE"],"verdict":"keep","reason":"Milchnudeln are German sweet milk noodles."}
+{"batch":"names-030","position":250,"id":"Q1934489","countries":["PL","DE","RU"],"verdict":"keep","reason":"Milk soup has Polish, German and Russian traditions."}
+{"batch":"names-030","position":251,"id":"Q1934690","countries":[],"verdict":"remove","reason":"Sea cucumber as food describes flesh ingredient with no preparation or recipe supplied."}
+{"batch":"names-030","position":252,"id":"Q19358405","countries":["CN","HK","LK"],"verdict":"keep","reason":"Coconut buns have Chinese/Hong Kong and Sri Lankan traditions."}
+{"batch":"names-030","position":259,"id":"Q19376103","countries":["JP"],"verdict":"keep","reason":"Soufflé cheesecake is Japanese cheesecake preparation."}
+{"batch":"names-030","position":261,"id":"Q19378476","countries":["GB","US"],"verdict":"keep","reason":"Dinner rolls are British and American baking."}
+{"batch":"names-030","position":263,"id":"Q19380788","countries":[],"verdict":"remove","reason":"M identifies Norwegian packaged candy brand, not generic dish."}
+{"batch":"names-030","position":268,"id":"Q19390528","countries":["GB","DE"],"verdict":"keep","reason":"Gooseberry jam has British and German preserve traditions."}
+{"batch":"names-030","position":271,"id":"Q195","countries":["MX","CH","BE","FR","GB"],"verdict":"keep","reason":"Chocolate is processed prepared food with Mexican and major European confectionery ties."}
+{"batch":"names-030","position":273,"id":"Q1953925","countries":["GB","DE","FR"],"verdict":"keep","reason":"Cooked mashed fruit/vegetables are prepared food with British, German and French traditions."}
+{"batch":"names-030","position":275,"id":"Q19544049","countries":["FR"],"verdict":"keep","reason":"Salted butter caramel is Breton French confection despite Spanish label."}
+{"batch":"names-030","position":277,"id":"Q19562553","countries":["DK"],"verdict":"keep","reason":"Surrib is Danish pickled pork preparation."}
+{"batch":"names-030","position":279,"id":"Q19570968","countries":["GB","US"],"verdict":"keep","reason":"Banana custard has British and American dessert traditions."}
+{"batch":"names-030","position":285,"id":"Q19573431","countries":["NG","GH","SL","LR"],"verdict":"keep","reason":"Okra soup has Nigerian, Ghanaian, Sierra Leonean and Liberian traditions."}
+{"batch":"names-030","position":289,"id":"Q19602320","countries":[],"verdict":"remove","reason":"Flower honey is plain honey ingredient, no recipe."}
+{"batch":"names-030","position":290,"id":"Q19602338","countries":[],"verdict":"remove","reason":"Forest honey is plain honey ingredient, no recipe."}
+{"batch":"names-031","position":8,"id":"Q1967823","countries":["US","CN"],"verdict":"keep","reason":"Spare ribs has dish classification and established American/Chinese cooked-rib identity; sparse entry does not explicitly describe raw cut only."}
+{"batch":"names-031","position":17,"id":"Q19702771","countries":[],"verdict":"remove","reason":"Bergen Cookies identifies the packaged biscuit brand, not Norwegian Bergen regional cookie preparation; reverse keep."}
+{"batch":"names-031","position":19,"id":"Q19704410","countries":["FI"],"verdict":"keep","reason":"Kasvissosekeitto is Finnish puréed vegetable soup."}
+{"batch":"names-031","position":22,"id":"Q19707923","countries":["FI"],"verdict":"keep","reason":"Ohraryynipuuro is Finnish barley porridge."}
+{"batch":"names-031","position":109,"id":"Q19799381","countries":["SE"],"verdict":"keep","reason":"Strutglass is Swedish ice-cream cone preparation."}
+{"batch":"names-031","position":131,"id":"Q1988612","countries":["GR","IT","US"],"verdict":"keep","reason":"Bean soup has Greek, Italian and American traditions."}
+{"batch":"names-031","position":132,"id":"Q19887142","countries":["GB","IE","US"],"verdict":"keep","reason":"Potato cakes are actual prepared cake-shaped potatoes with British, Irish and American ties."}
+{"batch":"names-031","position":145,"id":"Q19921797","countries":["PL","RU","UA"],"verdict":"keep","reason":"Dried fruit mixture is processed prepared food with eastern European compote/fruit traditions."}
+{"batch":"names-031","position":147,"id":"Q1993557","countries":["DE","US"],"verdict":"keep","reason":"Multigrain bread has German and American baking ties."}
+{"batch":"names-031","position":160,"id":"Q19950730","countries":["MX"],"verdict":"keep","reason":"Description explicitly identifies Mexican bolillo sandwich torta."}
+{"batch":"names-031","position":191,"id":"Q20013195","countries":["CN","JP","KR","IN"],"verdict":"keep","reason":"Description explicitly says cooked rice; retain as prepared food with Asian traditions."}
+{"batch":"names-031","position":196,"id":"Q20022277","countries":["CO","NI","CR","PA","HN","JM"],"verdict":"keep","reason":"Afro-Caribbean coconut seafood rondón has Colombian and Central American/Caribbean traditions."}
+{"batch":"names-031","position":201,"id":"Q20027","countries":["IT"],"verdict":"keep","reason":"Wheat vermicelli is Italian prepared pasta, not Chinese rice noodles inferred from translation."}
+{"batch":"names-031","position":210,"id":"Q20033866","countries":["PL","IL"],"verdict":"keep","reason":"Polish charoset mousse belongs to Polish Jewish and Israeli food traditions."}
+{"batch":"names-031","position":224,"id":"Q20043331","countries":["TR"],"verdict":"keep","reason":"Ekmek is Turkish bread."}
+{"batch":"names-031","position":227,"id":"Q20047","countries":["US","MX","ES"],"verdict":"keep","reason":"Alphabet pasta soup has American, Mexican and Spanish traditions."}
+{"batch":"names-031","position":230,"id":"Q2005160","countries":["PL","IL"],"verdict":"keep","reason":"Purim walnut-honey nunt has Polish Jewish and Israeli ties."}
+{"batch":"names-031","position":248,"id":"Q20063132","countries":["TW"],"verdict":"keep","reason":"Da diao shao is Taiwanese shaped baked street snack."}
+{"batch":"names-031","position":254,"id":"Q20083188","countries":["JP"],"verdict":"keep","reason":"Japanese vegetable paste name supports Japanese version."}
+{"batch":"names-031","position":261,"id":"Q2009326","countries":["GB"],"verdict":"keep","reason":"Butterscotch is British brown-sugar butter confection."}
+{"batch":"names-031","position":262,"id":"Q20097569","countries":["UA"],"verdict":"keep","reason":"Ukrainian yabchanka is prepared apple soup/dessert."}
+{"batch":"names-031","position":277,"id":"Q20106022","countries":["ES"],"verdict":"keep","reason":"Catalan baked potato-tomato name supports Spanish Catalan version."}
+{"batch":"names-031","position":282,"id":"Q20106267","countries":["ES","FR"],"verdict":"keep","reason":"Catalan cooked snails have Spanish and French Catalan ties."}
+{"batch":"names-032","position":4,"id":"Q2013640","countries":["DE","AT","CH"],"verdict":"keep","reason":"Ox muzzle salad has German, Austrian and Swiss traditions."}
+{"batch":"names-032","position":7,"id":"Q20162674","countries":["BR","IN"],"verdict":"keep","reason":"Pineapple marmalade is prepared preserve with Brazilian and Indian ties."}
+{"batch":"names-032","position":8,"id":"Q20162694","countries":["FR","AT","DE"],"verdict":"keep","reason":"Apricot marmalade has French, Austrian and German traditions."}
+{"batch":"names-032","position":11,"id":"Q20182339","countries":["DE"],"verdict":"keep","reason":"Eiweißbrot is German protein bread."}
+{"batch":"names-032","position":12,"id":"Q20182561","countries":["DE","AT"],"verdict":"keep","reason":"Quark pastries have German and Austrian baking ties."}
+{"batch":"names-032","position":14,"id":"Q20182897","countries":["IL","TR","GR"],"verdict":"keep","reason":"Explicit Sephardic stew identifies Israeli, Turkish and Greek Jewish sofrito, not Spanish sauce homonym."}
+{"batch":"names-032","position":25,"id":"Q2028136","countries":["DE","IT"],"verdict":"keep","reason":"Candied orange peel is prepared German/Italian confection, not raw peel."}
+{"batch":"names-032","position":26,"id":"Q202946","countries":[],"verdict":"remove","reason":"Metcalfa honey is a honey ingredient type without preparation or recipe."}
+{"batch":"names-032","position":36,"id":"Q20423491","countries":["KW","IQ","BH"],"verdict":"keep","reason":"Mutabbaq samak rice-fish dish has Kuwaiti, Iraqi and Bahraini ties."}
+{"batch":"names-032","position":49,"id":"Q20460303","countries":["US"],"verdict":"keep","reason":"Corn pudding is American prepared corn dish."}
+{"batch":"names-032","position":51,"id":"Q2047314","countries":["IL"],"verdict":"keep","reason":"Maror is named Jewish Passover ritual food with Israeli ties, rather than unqualified raw plant entry."}
+{"batch":"names-032","position":52,"id":"Q2048003","countries":["FR","IT"],"verdict":"keep","reason":"Pastry cream is prepared French/Italian custard."}
+{"batch":"names-032","position":54,"id":"Q2048777","countries":["NL"],"verdict":"keep","reason":"Casinobrood is Dutch shaped sandwich bread."}
+{"batch":"names-032","position":61,"id":"Q2052399","countries":["FR","AT"],"verdict":"keep","reason":"Pariser schnitzel has French and Austrian cutlet preparation ties."}
+{"batch":"names-032","position":70,"id":"Q2056262","countries":["DE"],"verdict":"keep","reason":"German parsnip purée name supports German version."}
+{"batch":"names-032","position":77,"id":"Q20583405","countries":["TR","IR","AZ"],"verdict":"keep","reason":"Walnut kuku has explicit Turkish identity and related Iranian/Azerbaijani kuku traditions."}
+{"batch":"names-032","position":95,"id":"Q20639978","countries":["GB","DE"],"verdict":"keep","reason":"Boiled sugar drops are prepared British/German confection type."}
+{"batch":"names-032","position":96,"id":"Q20639980","countries":["US","GB"],"verdict":"keep","reason":"Kisses is generic confection type, not explicitly branded Hershey product; American and British ties."}
+{"batch":"names-032","position":98,"id":"Q2064491","countries":["DE","AT","CH"],"verdict":"keep","reason":"Description identifies homemade packed sandwich meal with German-speaking countries ties."}
+{"batch":"names-032","position":112,"id":"Q20706218","countries":["US"],"verdict":"keep","reason":"Diamond-ring-shaped candy remains plausible unbranded confection with American novelty-candy ties."}
+{"batch":"names-032","position":113,"id":"Q207104","countries":["IL","IT","GR"],"verdict":"keep","reason":"Sacramental bread remains edible prepared religious bread with Levantine, Italian and Greek Christian traditions."}
+{"batch":"names-032","position":151,"id":"Q2083501","countries":["NL","BE"],"verdict":"keep","reason":"Dutch-language meat salad supports Netherlands/Belgium version."}
+{"batch":"names-032","position":162,"id":"Q208729","countries":["FR","IT","ES","IR"],"verdict":"keep","reason":"Nougat has French, Italian, Spanish and Iranian traditions."}
+{"batch":"names-032","position":164,"id":"Q20876496","countries":["ES"],"verdict":"keep","reason":"Terrassa named confection explicitly places Catalan preparation in Spain."}
+{"batch":"names-032","position":169,"id":"Q2089240","countries":["GB","IE","US"],"verdict":"keep","reason":"Description explicitly porridge, not raw oats; British, Irish and American ties."}
+{"batch":"names-032","position":175,"id":"Q20919276","countries":["FI"],"verdict":"keep","reason":"Finnish warm sandwich name supports Finnish version."}
+{"batch":"names-032","position":178,"id":"Q20921887","countries":["ES"],"verdict":"keep","reason":"Spanish stewed quail name supports Spanish version."}
+{"batch":"names-032","position":191,"id":"Q20970577","countries":["HK","JP"],"verdict":"keep","reason":"Flower-of-love nigiri links Hong Kong sushi adaptation and Japanese sushi identity."}
+{"batch":"names-032","position":196,"id":"Q20980111","countries":["MX"],"verdict":"keep","reason":"Description explicitly identifies Mexican casserole."}
+{"batch":"names-032","position":212,"id":"Q21002167","countries":["ES"],"verdict":"keep","reason":"Catalan fruit-in-syrup preserve supports Spanish Catalan version."}
+{"batch":"names-032","position":215,"id":"Q21007833","countries":["DE","HU","RO","LT","PL","CZ"],"verdict":"keep","reason":"Spit cakes have German, Hungarian, Romanian, Lithuanian, Polish and Czech traditions."}
+{"batch":"names-032","position":216,"id":"Q21009183","countries":["FR"],"verdict":"keep","reason":"Troyes-style pork tongues explicitly identify French regional preparation."}
+{"batch":"names-032","position":217,"id":"Q2101181","countries":["ES"],"verdict":"keep","reason":"Explicit Galician octopus dish places preparation in Spain."}
+{"batch":"names-032","position":218,"id":"Q21012658","countries":["MX"],"verdict":"keep","reason":"Description explicitly identifies Mexican stuffed corn dumpling."}
+{"batch":"names-032","position":226,"id":"Q2105597","countries":["DE"],"verdict":"keep","reason":"Poschweck is Aachen German festive bread."}
+{"batch":"names-032","position":230,"id":"Q21061471","countries":["GB"],"verdict":"keep","reason":"Pope Ladies are English regional buns."}
+{"batch":"names-032","position":234,"id":"Q2106765","countries":["FR","GB"],"verdict":"keep","reason":"Medieval orange-shaped pork preparation has French and English historical ties."}
+{"batch":"names-032","position":238,"id":"Q21080963","countries":["GB","US"],"verdict":"keep","reason":"Sandwich bread has British and American baking ties."}
+{"batch":"names-032","position":250,"id":"Q211361","countries":["IL"],"verdict":"keep","reason":"Matzah is Jewish unleavened bread with Israeli ties; Egypt-only prior attribution would confuse Exodus narrative with culinary identification."}
+{"batch":"names-032","position":251,"id":"Q21156490","countries":["FR","GB","DE","IT"],"verdict":"keep","reason":"Chocolate eggs are unbranded confection type with French, British, German and Italian Easter traditions."}
+{"batch":"names-032","position":264,"id":"Q2121057","countries":["FR","IT"],"verdict":"keep","reason":"Glacé cherries are prepared French/Italian candied fruit."}
+{"batch":"names-032","position":280,"id":"Q21263086","countries":["ES"],"verdict":"keep","reason":"Description explicitly identifies Catalan bread."}
+{"batch":"names-032","position":281,"id":"Q21282957","countries":["NO","SE","DK"],"verdict":"keep","reason":"Finskepinner have Norwegian and neighboring Scandinavian baking ties, not Finland inferred from name."}
+{"batch":"names-032","position":287,"id":"Q2136770","countries":["DE"],"verdict":"keep","reason":"Reformation buns are German festival pastries."}
+{"batch":"names-032","position":293,"id":"Q2140466","countries":["FR","DE","IT"],"verdict":"keep","reason":"Buckwheat cakes have French, German and Italian traditions."}

@@ -2,59 +2,59 @@
 {"id":"Q17103699","verdict":"keep"}
 {"id":"Q1710389","verdict":"keep"}
 {"id":"Q17104228","verdict":"keep"}
-{"id":"Q17105567","verdict":"keep"}
-{"id":"Q17105624","verdict":"keep"}
+{"id":"Q17105567","verdict":"keep","countries":["US"],"reason":"Sweet potato fries are an established American preparation."}
+{"id":"Q17105624","verdict":"keep","countries":["US"],"reason":"Garlic ice cream is associated with American garlic-festival cooking."}
 {"id":"Q17107577","verdict":"keep","countries":["US"],"reason":"Hawaiian dish; countries were empty"}
 {"id":"Q17107651","verdict":"keep"}
 {"id":"Q17109441","verdict":"keep"}
 {"id":"Q17109463","verdict":"keep"}
 {"id":"Q17110181","verdict":"keep"}
 {"id":"Q17110849","verdict":"keep","countries":["MW"],"reason":"Malawian dish; countries were empty"}
-{"id":"Q17113207","verdict":"keep"}
-{"id":"Q17115908","verdict":"keep"}
-{"id":"Q17115910","verdict":"keep"}
+{"id":"Q17113207","verdict":"keep","countries":["US"],"reason":"Carrot cake cookies belong to American baking."}
+{"id":"Q17115908","verdict":"keep","countries":["US","DE"],"reason":"Bacon cakes have American and German savory-baking traditions."}
+{"id":"Q17115910","verdict":"keep","countries":["MX","VE","CU"],"reason":"Shredded beef has established Mexican, Venezuelan and Cuban preparations."}
 {"id":"Q17115947","verdict":"keep","countries":["US"],"reason":"American sandwich; countries were empty"}
-{"id":"Q17116044","verdict":"keep"}
-{"id":"Q17116069","verdict":"keep"}
-{"id":"Q17116096","verdict":"keep"}
+{"id":"Q17116044","verdict":"keep","countries":["US"],"reason":"Fudge cookies belong to American baking."}
+{"id":"Q17116069","verdict":"keep","countries":["US","JP"],"reason":"Grape ice cream has American and Japanese frozen-dessert traditions."}
+{"id":"Q17116096","verdict":"keep","countries":["GB","US","FR"],"reason":"Hard candy has established British, American and French confectionery traditions."}
 {"id":"Q17116102","verdict":"remove","reason":"branded packaged product (Holsum sliced bread)"}
 {"id":"Q17116108","verdict":"keep"}
-{"id":"Q17116114","verdict":"keep"}
+{"id":"Q17116114","verdict":"keep","countries":["GB"],"reason":"Horsebread is historical English mixed-grain bread."}
 {"id":"Q17116189","verdict":"keep","countries":["CM"],"reason":"Cameroonian dish; countries were empty"}
-{"id":"Q17116267","verdict":"keep"}
-{"id":"Q17116283","verdict":"keep"}
+{"id":"Q17116267","verdict":"keep","countries":["US"],"reason":"Lemon sticks are associated with Baltimore American confectionery."}
+{"id":"Q17116283","verdict":"keep","countries":["DE","US"],"reason":"Limburger sandwiches have German and German-American traditions."}
 {"id":"Q17116309","verdict":"remove","reason":"branded packaged confection (Love Hearts)"}
-{"id":"Q17118710","verdict":"keep"}
-{"id":"Q17118853","verdict":"keep"}
-{"id":"Q17118912","verdict":"keep"}
-{"id":"Q17119210","verdict":"keep"}
-{"id":"Q17119263","verdict":"keep"}
-{"id":"Q17119279","verdict":"keep"}
+{"id":"Q17118710","verdict":"keep","countries":["CA"],"reason":"Tiger tail ice cream is Canadian."}
+{"id":"Q17118853","verdict":"keep","countries":["US"],"reason":"Oyster ice cream is a historical American preparation."}
+{"id":"Q17118912","verdict":"keep","countries":["IT","IR","US"],"reason":"Pistachio ice cream has Italian, Iranian and American traditions."}
+{"id":"Q17119210","verdict":"keep","countries":["UA"],"reason":"Rosolnyk is a Ukrainian pickle soup."}
+{"id":"Q17119263","verdict":"keep","countries":["JP","CA","US"],"reason":"Smoked scallops have Japanese and North American traditions."}
+{"id":"Q17119279","verdict":"keep","countries":["US"],"reason":"Spaghetti tacos are an American fusion dish."}
 {"id":"Q17119288","verdict":"keep"}
-{"id":"Q17119302","verdict":"keep"}
-{"id":"Q17119324","verdict":"keep"}
-{"id":"Q17119353","verdict":"keep"}
+{"id":"Q17119302","verdict":"keep","countries":["IN","GB","US"],"reason":"Sugar candy has established Indian, British and American confectionery traditions."}
+{"id":"Q17119324","verdict":"keep","countries":["US"],"reason":"Tiger tail donuts belong to American doughnut baking."}
+{"id":"Q17119353","verdict":"keep","countries":["US"],"reason":"West Indies salad is an Alabama American crab salad."}
 {"id":"Q17122679","verdict":"keep","countries":["DE"],"reason":"German bratwurst; countries were empty"}
 {"id":"Q17137076","verdict":"keep","countries":["NL","BE"],"reason":"Dutch and Belgian pastry; countries were empty"}
-{"id":"Q17142904","verdict":"keep"}
+{"id":"Q17142904","verdict":"keep","countries":["US","CA"],"reason":"Poppyseed muffins belong to American and Canadian baking."}
 {"id":"Q17143425","verdict":"keep"}
 {"id":"Q1715200","verdict":"keep"}
 {"id":"Q17156648","verdict":"keep","countries":["TR"],"reason":"Turkish bun; countries were empty"}
-{"id":"Q17162482","verdict":"keep"}
+{"id":"Q17162482","verdict":"keep","countries":["CN"],"reason":"The description explicitly identifies Shanghai pork chops and rice cakes."}
 {"id":"Q17164012","verdict":"keep"}
 {"id":"Q17164276","verdict":"keep"}
 {"id":"Q17165588","verdict":"keep"}
-{"id":"Q17166373","verdict":"keep"}
+{"id":"Q17166373","verdict":"keep","countries":["CN"],"reason":"Mung-bean wedding pastry belongs to Chinese baking."}
 {"id":"Q17173204","verdict":"remove","reason":"Second opinion: the name means generic soup, a category rather than one dish; the name is meaningful, not nonsense."}
 {"id":"Q17173262","verdict":"keep"}
 {"id":"Q17174348","verdict":"keep"}
 {"id":"Q17174620","verdict":"keep"}
-{"id":"Q17175691","verdict":"keep","reason":"Casse-croute is a generic snack/sandwich term; no specific Quebec origin is established."}
+{"id":"Q17175691","verdict":"keep","reason":"Casse-croute sandwiches have French and Tunisian traditions.","countries":["FR","TN"]}
 {"id":"Q17190268","verdict":"keep"}
 {"id":"Q17190893","verdict":"keep"}
 {"id":"Q17191020","verdict":"keep","countries":["JP"],"reason":"Japanese porridge; countries were empty"}
-{"id":"Q17192072","verdict":"keep"}
-{"id":"Q17192558","verdict":"keep"}
+{"id":"Q17192072","verdict":"keep","countries":["JP"],"reason":"Ariran ramen is a Japanese regional ramen preparation."}
+{"id":"Q17192558","verdict":"keep","countries":["FR","GB"],"reason":"Candied angelica has French and British confectionery traditions."}
 {"id":"Q17192593","verdict":"keep","countries":["JP"],"reason":"Okinawan dish; countries were empty"}
 {"id":"Q17193194","verdict":"keep","countries":["JP"],"reason":"Japanese dish; countries were empty"}
 {"id":"Q17194099","verdict":"keep","countries":["JP"],"reason":"Japanese confection; countries were empty"}
@@ -77,7 +77,7 @@
 {"id":"Q17216893","verdict":"keep","countries":["JP"],"reason":"Japanese sushi; countries were empty"}
 {"id":"Q17217665","verdict":"keep","countries":["JP"],"reason":"Japanese higashi; countries were empty"}
 {"id":"Q17218215","verdict":"keep","countries":["JP"],"reason":"Japanese bread; countries were empty"}
-{"id":"Q1721876","verdict":"keep"}
+{"id":"Q1721876","verdict":"keep","countries":["MX","CH"],"reason":"Pure cocoa mass is a processed chocolate preparation with Mexican and Swiss chocolate traditions."}
 {"id":"Q17218908","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
 {"id":"Q17219214","verdict":"keep"}
 {"id":"Q17219570","verdict":"keep"}
@@ -102,16 +102,16 @@
 {"id":"Q17228743","verdict":"keep","countries":["JP"],"reason":"Japanese ame; countries were empty"}
 {"id":"Q17228947","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
 {"id":"Q17229022","verdict":"keep"}
-{"id":"Q17230138","verdict":"keep","countries":[],"reason":"Second opinion: brulee French toast is not established as specifically Japanese by its Japanese wording."}
+{"id":"Q17230138","verdict":"keep","countries":["JP","FR"],"reason":"Brulee French toast is a Japanese adaptation of French toast."}
 {"id":"Q17230213","verdict":"keep","countries":["JP"],"reason":"Japanese nanbangashi; countries were empty"}
 {"id":"Q17230219","verdict":"keep"}
 {"id":"Q17231508","verdict":"remove","reason":"instant noodle product (cup yakisoba)"}
 {"id":"Q17232463","verdict":"keep"}
-{"id":"Q17232939","verdict":"keep","countries":[],"reason":"Second opinion: baked chocolate is generic; Japanese wording does not establish origin."}
+{"id":"Q17232939","verdict":"keep","countries":["JP"],"reason":"Yaki chocolate is a Japanese baked chocolate preparation."}
 {"id":"Q17238884","verdict":"keep","countries":["JP"],"reason":"Japanese confectionery; countries were empty"}
 {"id":"Q17240129","verdict":"keep"}
 {"id":"Q17255569","verdict":"keep"}
-{"id":"Q1725983","verdict":"keep"}
+{"id":"Q1725983","verdict":"keep","countries":["DE"],"reason":"Rauchemaad is an Erzgebirge German potato dish."}
 {"id":"Q1726195","verdict":"keep"}
 {"id":"Q17271258","verdict":"keep","countries":["TR"],"reason":"Turkish Easter bun; countries were empty"}
 {"id":"Q17271604","verdict":"keep"}
@@ -123,9 +123,9 @@
 {"id":"Q17278742","verdict":"keep","countries":["TR"],"reason":"Turkish guveč; countries were empty"}
 {"id":"Q17279856","verdict":"keep"}
 {"id":"Q17280693","verdict":"keep"}
-{"id":"Q1730287","verdict":"keep"}
+{"id":"Q1730287","verdict":"keep","countries":["DE"],"reason":"Schokolinse names German chocolate dragees."}
 {"id":"Q17318793","verdict":"keep"}
-{"id":"Q173265","verdict":"keep"}
+{"id":"Q173265","verdict":"keep","countries":["US","GB"],"reason":"Potato chips have established American and British traditions."}
 {"id":"Q17326924","verdict":"keep"}
 {"id":"Q1734633","verdict":"keep","countries":["AT"],"reason":"Austrian dish; countries were empty"}
 {"id":"Q1735171","verdict":"keep"}
@@ -146,24 +146,24 @@
 {"id":"Q17415166","verdict":"keep"}
 {"id":"Q1741570","verdict":"keep"}
 {"id":"Q1742211","verdict":"keep"}
-{"id":"Q17425887","verdict":"keep"}
+{"id":"Q17425887","verdict":"keep","countries":["CN"],"reason":"Lotus-seed wedding pastry belongs to Chinese baking."}
 {"id":"Q1743404","verdict":"keep"}
 {"id":"Q17451766","verdict":"keep"}
 {"id":"Q174539","verdict":"keep"}
 {"id":"Q1746803","verdict":"remove","reason":"generic category (pastry), not a specific dish"}
 {"id":"Q1747162","verdict":"keep","countries":["DE"],"reason":"German dish; countries were empty"}
-{"id":"Q17482572","verdict":"keep"}
+{"id":"Q17482572","verdict":"keep","countries":["DK"],"reason":"The Danish name identifies this UFO pizza preparation."}
 {"id":"Q17485383","verdict":"keep"}
 {"id":"Q17492677","verdict":"keep"}
 {"id":"Q1749682","verdict":"keep","countries":["NL"],"reason":"Dutch herring dish; countries were empty"}
-{"id":"Q17499197","verdict":"keep"}
-{"id":"Q17499496","verdict":"keep"}
-{"id":"Q17499568","verdict":"keep"}
+{"id":"Q17499197","verdict":"keep","countries":["CN"],"reason":"Oil-poached freshwater fish is a Chinese preparation."}
+{"id":"Q17499496","verdict":"keep","countries":["CN"],"reason":"Caul-fat steamed shad is a Chinese fish preparation."}
+{"id":"Q17499568","verdict":"keep","countries":["CN"],"reason":"Tofu-steamed freshwater fish is a Chinese preparation."}
 {"id":"Q17499646","verdict":"remove","reason":"generic category (tea snacks), not a specific dish"}
 {"id":"Q1750077","verdict":"keep"}
-{"id":"Q17501980","verdict":"keep"}
+{"id":"Q17501980","verdict":"keep","countries":["JP"],"reason":"This aspic entry identifies Japanese nikogori rather than nigori sake."}
 {"id":"Q175123","verdict":"keep"}
-{"id":"Q17520921","verdict":"keep","countries":[],"reason":"Second opinion: open pie is generic; Belarusian wording does not establish national origin."}
+{"id":"Q17520921","verdict":"keep","countries":["BY"],"reason":"The Belarusian name identifies this open pie version."}
 {"id":"Q1752442","verdict":"keep","countries":["DE"],"reason":"German smoked-fish dish; countries were empty"}
 {"id":"Q1753265","verdict":"keep"}
 {"id":"Q1753513","verdict":"keep"}
@@ -174,9 +174,9 @@
 {"id":"Q175595","verdict":"keep"}
 {"id":"Q1756296","verdict":"keep"}
 {"id":"Q1756465","verdict":"keep"}
-{"id":"Q1757352","verdict":"keep"}
+{"id":"Q1757352","verdict":"keep","countries":["US","CN"],"reason":"Soy yogurt has American plant-based and Chinese soy-food traditions."}
 {"id":"Q1757401","verdict":"keep","countries":["IS"],"reason":"Icelandic dish; countries were empty"}
-{"id":"Q17582679","verdict":"keep"}
+{"id":"Q17582679","verdict":"keep","countries":["CN","MY","SG"],"reason":"Birds nest soup belongs to Chinese, Malaysian and Singaporean cooking."}
 {"id":"Q1758911","verdict":"keep"}
 {"id":"Q17590922","verdict":"keep"}
 {"id":"Q17591252","verdict":"keep","countries":["ES"],"reason":"Spanish dish; countries were empty"}
@@ -198,11 +198,11 @@
 {"id":"Q17632071","verdict":"keep"}
 {"id":"Q17634293","verdict":"keep"}
 {"id":"Q17634577","verdict":"keep"}
-{"id":"Q17635231","verdict":"keep"}
+{"id":"Q17635231","verdict":"keep","countries":["DZ"],"reason":"The Algerian Arabic name identifies this preparation."}
 {"id":"Q17635661","verdict":"keep"}
 {"id":"Q17635889","verdict":"keep"}
 {"id":"Q17636964","verdict":"keep"}
-{"id":"Q17637181","verdict":"keep"}
+{"id":"Q17637181","verdict":"keep","countries":["FR"],"reason":"President is a French chocolate cake."}
 {"id":"Q17638083","verdict":"keep"}
 {"id":"Q17638841","verdict":"keep","reason":"Second opinion: Saint-Feuillien is a named Belgian beer-washed cheese, retained under the named cheese rule (https://www.apaqw.be/fr/laureat-coq-de-cristal-2019fromage-pate-molle-et-croute-lavee)."}
 {"id":"Q17639757","verdict":"keep"}
@@ -213,26 +213,26 @@
 {"id":"Q17652279","verdict":"keep"}
 {"id":"Q17680151","verdict":"keep"}
 {"id":"Q176927","verdict":"keep"}
-{"id":"Q1769523","verdict":"keep"}
+{"id":"Q1769523","verdict":"keep","countries":["FR","GB"],"reason":"Fondant icing belongs to French and British confectionery."}
 {"id":"Q177","verdict":"keep"}
 {"id":"Q177166","verdict":"keep"}
 {"id":"Q1772090","verdict":"keep"}
-{"id":"Q1772368","verdict":"keep"}
-{"id":"Q1774328","verdict":"keep"}
+{"id":"Q1772368","verdict":"keep","countries":["DE","AT"],"reason":"Vegetarian schnitzel adapts German and Austrian schnitzel cooking."}
+{"id":"Q1774328","verdict":"keep","countries":["DE"],"reason":"Kliebensuppe is a German milk soup."}
 {"id":"Q17747125","verdict":"keep"}
 {"id":"Q17747219","verdict":"keep"}
 {"id":"Q17747240","verdict":"keep"}
-{"id":"Q17750349","verdict":"keep"}
-{"id":"Q17767877","verdict":"keep"}
-{"id":"Q17769231","verdict":"keep"}
+{"id":"Q17750349","verdict":"keep","countries":["NO"],"reason":"Biffsnadder is a Norwegian beef dish."}
+{"id":"Q17767877","verdict":"keep","countries":["NO"],"reason":"The description explicitly identifies a Norwegian dessert."}
+{"id":"Q17769231","verdict":"keep","countries":["NO"],"reason":"Eggehakk is a Norwegian chopped-egg preparation."}
 {"id":"Q1776997","verdict":"keep"}
-{"id":"Q1777113","verdict":"keep"}
+{"id":"Q1777113","verdict":"keep","countries":["DE"],"reason":"Knieper is a German regional cabbage preparation."}
 {"id":"Q177727","verdict":"keep"}
-{"id":"Q1777339","verdict":"keep"}
+{"id":"Q1777339","verdict":"keep","countries":["DE"],"reason":"Knockepott is a northern German stew."}
 {"id":"Q1779559","verdict":"keep"}
 {"id":"Q177998","verdict":"remove","reason":"thickening agent (polysaccharide), not a dish"}
 {"id":"Q178","verdict":"keep","countries":["IT"],"reason":"Pasta is an established prepared staple food, rather than merely a list of dishes."}
-{"id":"Q1781099","verdict":"keep"}
+{"id":"Q1781099","verdict":"keep","countries":["US","AU"],"reason":"Surf and turf has established American and Australian traditions."}
 {"id":"Q1781865","verdict":"keep"}
 {"id":"Q1784786","verdict":"keep"}
 {"id":"Q1786572","verdict":"keep","countries":["NO"],"reason":"Norwegian meal; countries were empty"}
@@ -240,21 +240,21 @@
 {"id":"Q1787956","verdict":"keep","countries":["AT","DE"],"reason":"Second opinion: include Austrian Krenfleisch alongside German ties, rather than judging its German-language name as Germany alone."}
 {"id":"Q1788872","verdict":"remove","reason":"medicated tablet, not food"}
 {"id":"Q178899","verdict":"remove","reason":"drink (spirit)"}
-{"id":"Q1790280","verdict":"keep"}
-{"id":"Q1790741","verdict":"keep"}
+{"id":"Q1790280","verdict":"keep","countries":["DE"],"reason":"Krusta is a German pizza-like preparation."}
+{"id":"Q1790741","verdict":"keep","countries":["DE"],"reason":"Krustchen is a German schnitzel-and-egg preparation."}
 {"id":"Q1790835","verdict":"keep"}
 {"id":"Q1790839","verdict":"keep"}
 {"id":"Q1791453","verdict":"keep"}
 {"id":"Q1791462","verdict":"keep"}
-{"id":"Q1791505","verdict":"keep"}
+{"id":"Q1791505","verdict":"remove","reason":"remove: Kullerpfirsich is a peach-in-sparkling-wine drink."}
 {"id":"Q1795426","verdict":"keep","countries":["AT"],"reason":"Austrian dumpling; countries were empty"}
 {"id":"Q1795457","verdict":"keep"}
-{"id":"Q1795470","verdict":"keep"}
+{"id":"Q1795470","verdict":"keep","countries":["GB","US"],"reason":"Cheese straws have British and American baking traditions."}
 {"id":"Q1795580","verdict":"keep"}
-{"id":"Q1796292","verdict":"keep"}
+{"id":"Q1796292","verdict":"keep","countries":["DE","RU"],"reason":"Konigsberg marzipan has historical German and present-day Kaliningrad Russian ties."}
 {"id":"Q1797415","verdict":"remove","reason":"vegetable variety (carrot cultivar), not a dish"}
 {"id":"Q1798180","verdict":"keep","countries":["DE","CH"],"reason":"Second opinion: Magenbrot is associated with both northern Switzerland and southern Germany (https://www.srf.ch/news/wirtschaft/an-chilbi-und-weihnachtsmarkt-das-suesse-nischengeschaeft-mit-dem-magenbrot)."}
-{"id":"Q1798420","verdict":"keep"}
+{"id":"Q1798420","verdict":"keep","countries":["DE"],"reason":"Snuten un Poten is a northern German pork preparation."}
 {"id":"Q17986779","verdict":"keep","countries":["BE"],"reason":"Belgian dish; countries were empty"}
 {"id":"Q17990295","verdict":"keep","countries":["JP"],"reason":"Japanese canned bread; countries were empty"}
 {"id":"Q17992361","verdict":"keep"}
@@ -265,7 +265,7 @@
 {"id":"Q17997301","verdict":"keep"}
 {"id":"Q17998371","verdict":"keep"}
 {"id":"Q17998502","verdict":"keep"}
-{"id":"Q1799855","verdict":"keep"}
+{"id":"Q1799855","verdict":"keep","countries":["GB"],"reason":"Fruit curd is a British dessert spread."}
 {"id":"Q17998552","verdict":"keep"}
 {"id":"Q17998681","verdict":"keep"}
 {"id":"Q17998685","verdict":"keep"}
@@ -276,23 +276,23 @@
 {"id":"Q17999715","verdict":"keep"}
 {"id":"Q17999717","verdict":"keep"}
 {"id":"Q17999853","verdict":"keep"}
-{"id":"Q18001674","verdict":"keep"}
+{"id":"Q18001674","verdict":"keep","countries":["NL"],"reason":"Chipolata pudding is a Dutch dessert."}
 {"id":"Q1800458","verdict":"keep"}
-{"id":"Q18011767","verdict":"keep"}
-{"id":"Q18012354","verdict":"keep"}
-{"id":"Q18012356","verdict":"keep"}
-{"id":"Q1801946","verdict":"keep"}
+{"id":"Q18011767","verdict":"keep","countries":["IT"],"reason":"Brodo is Italian broth."}
+{"id":"Q18012354","verdict":"keep","countries":["FR","GB"],"reason":"Cauliflower soup has French and British traditions."}
+{"id":"Q18012356","verdict":"keep","countries":["US","GB"],"reason":"Broccoli soup has American and British traditions."}
+{"id":"Q1801946","verdict":"keep","countries":["TR","BG","IR","IN"],"reason":"Rose petal jam has Turkish, Bulgarian, Iranian and Indian traditions."}
 {"id":"Q18020974","verdict":"keep","countries":["CN"],"reason":"Anfu ham, China; countries were empty"}
-{"id":"Q18027552","verdict":"keep"}
+{"id":"Q18027552","verdict":"keep","countries":["DE","SE"],"reason":"Strindberg steak belongs to German and Swedish beef preparations."}
 {"id":"Q18043321","verdict":"keep"}
 {"id":"Q1805687","verdict":"remove","reason":"drink (distilled spirit)"}
 {"id":"Q18061506","verdict":"remove","countries":["CZ"],"reason":"Second opinion: Vizovicke pecivo consists of inedible decorative dough ornaments (https://www.vizovicke.cz/recept.html)."}
-{"id":"Q1807598","verdict":"keep"}
+{"id":"Q1807598","verdict":"keep","countries":["DE","AT","CH"],"reason":"Lye rolls belong to German, Austrian and Swiss baking."}
 {"id":"Q1808216","verdict":"keep","countries":["NL"],"reason":"Dutch pastry; countries were empty"}
 {"id":"Q18086964","verdict":"keep","countries":["NL"],"reason":"Dutch cookie from Gorinchem; countries were empty"}
 {"id":"Q18088945","verdict":"remove","reason":"generic word (cake/cookie) rather than a specific dish"}
 {"id":"Q1809371","verdict":"keep"}
-{"id":"Q1810059","verdict":"keep"}
+{"id":"Q1810059","verdict":"keep","countries":["FR"],"reason":"Le Pitchou names a French preparation."}
 {"id":"Q1810575","verdict":"keep"}
 {"id":"Q1810638","verdict":"keep"}
 {"id":"Q18111280","verdict":"keep"}

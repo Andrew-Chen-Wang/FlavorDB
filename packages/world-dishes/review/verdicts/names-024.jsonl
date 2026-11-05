@@ -1,8 +1,8 @@
 {"id":"Q139005874","verdict":"remove","reason":"branded packaged product (Bay-kara)"}
 {"id":"Q139008367","verdict":"keep"}
-{"id":"Q139071793","verdict":"keep"}
-{"id":"Q139072490","verdict":"keep"}
-{"id":"Q139105458","verdict":"keep"}
+{"id":"Q139071793","verdict":"keep","countries":["IN","LK","BD","TH"],"reason":"Fish curry is shared Indian, Sri Lankan, Bangladeshi and Thai cooking."}
+{"id":"Q139072490","verdict":"keep","countries":["IN","PK","LK","TH"],"reason":"Vegetable curries have established South Asian and Thai traditions."}
+{"id":"Q139105458","verdict":"keep","countries":["GB","IN"],"reason":"Caraway comfits have British and Indian sugar-confection traditions."}
 {"id":"Q139118951","verdict":"remove","reason":"raw vegetable (onion variety), not a dish"}
 {"id":"Q139118953","verdict":"remove","reason":"raw vegetable (onion variety), not a dish"}
 {"id":"Q139130853","verdict":"keep"}
@@ -23,31 +23,31 @@
 {"id":"Q139295999","verdict":"remove","reason":"branded product (Bay Gyoza)"}
 {"id":"Q139296393","verdict":"remove","reason":"branded product"}
 {"id":"Q139326060","verdict":"remove","reason":"branded product (Bay-kara)"}
-{"id":"Q1393435","verdict":"keep"}
+{"id":"Q1393435","verdict":"keep","countries":["DE"],"reason":"Salzkuchen is a German savory cake or bread."}
 {"id":"Q139344209","verdict":"keep"}
 {"id":"Q139352694","verdict":"keep"}
 {"id":"Q139377324","verdict":"keep"}
 {"id":"Q139377873","verdict":"keep"}
-{"id":"Q139408916","verdict":"keep","reason":"Second opinion: Henan steamed vegetables is a plausible regional prepared dish; no source demonstrates it is merely an index or category."}
-{"id":"Q139409102","verdict":"keep"}
+{"id":"Q139408916","verdict":"keep","reason":"Henan steamed vegetables name their Chinese regional preparation.","countries":["CN"]}
+{"id":"Q139409102","verdict":"keep","countries":["CN"],"reason":"Carp with baked noodles is a Henan Chinese dish."}
 {"id":"Q139413840","verdict":"keep"}
-{"id":"Q139414293","verdict":"keep"}
-{"id":"Q139439156","verdict":"keep"}
-{"id":"Q139439477","verdict":"keep"}
+{"id":"Q139414293","verdict":"keep","countries":["GB"],"reason":"The description explicitly identifies historical English pastries."}
+{"id":"Q139439156","verdict":"keep","countries":["CN"],"reason":"The entry explicitly identifies Hunan cooking."}
+{"id":"Q139439477","verdict":"keep","countries":["CN"],"reason":"Shengcuan wanzi is Chinese meatball soup."}
 {"id":"Q139449422","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian pasta dish"}
 {"id":"Q1394677","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese rice bowl"}
-{"id":"Q139472819","verdict":"keep"}
-{"id":"Q139497890","verdict":"keep"}
+{"id":"Q139472819","verdict":"keep","countries":["CN"],"reason":"The description explicitly identifies Chinese fried meatballs."}
+{"id":"Q139497890","verdict":"keep","countries":["DE"],"reason":"Quenu is listed as a German-language named cake; use the name-language fallback."}
 {"id":"Q139500157","verdict":"keep","countries":["GE"],"reason":"countries were empty; Georgian pie from Guria"}
 {"id":"Q139501650","verdict":"keep"}
-{"id":"Q139503554","verdict":"keep"}
+{"id":"Q139503554","verdict":"keep","countries":["GB","US"],"reason":"Crispy potatoes are established British and American potato cooking."}
 {"id":"Q139503993","verdict":"keep"}
-{"id":"Q139505285","verdict":"keep"}
-{"id":"Q139551259","verdict":"keep"}
+{"id":"Q139505285","verdict":"keep","countries":["JP"],"reason":"The description explicitly identifies a Japanese egg sandwich."}
+{"id":"Q139551259","verdict":"keep","countries":["SE"],"reason":"The Swedish name identifies this potato-leek soup version."}
 {"id":"Q139556341","verdict":"keep","countries":["GB"],"reason":"countries were empty; English pie"}
 {"id":"Q139569390","verdict":"keep"}
 {"id":"Q139579958","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian soup"}
-{"id":"Q139582297","verdict":"keep"}
+{"id":"Q139582297","verdict":"keep","countries":["LB","SY","PS","JO"],"reason":"Madlouqa is a shared Levantine semolina-and-cream sweet."}
 {"id":"Q139585697","verdict":"keep"}
 {"id":"Q139585819","verdict":"keep"}
 {"id":"Q139587337","verdict":"keep"}
@@ -72,10 +72,10 @@
 {"id":"Q139761682","verdict":"keep","countries":["GB"],"reason":"countries were empty; English game pie"}
 {"id":"Q139761797","verdict":"keep"}
 {"id":"Q139761836","verdict":"keep","countries":["GB"],"reason":"countries were empty; British raised pie"}
-{"id":"Q139770134","verdict":"keep","countries":[],"reason":"Second opinion: hearts-of-palm salad is generic; Catalan wording alone does not establish Spanish origin."}
-{"id":"Q1397738","verdict":"keep"}
+{"id":"Q139770134","verdict":"keep","countries":["ES"],"reason":"The Catalan name identifies this hearts-of-palm salad version."}
+{"id":"Q1397738","verdict":"keep","countries":["DE","AT"],"reason":"Fastenbrezel belongs to German and Austrian Lenten baking."}
 {"id":"Q139802375","verdict":"keep"}
-{"id":"Q139809866","verdict":"keep"}
+{"id":"Q139809866","verdict":"keep","countries":["LS","ZA"],"reason":"Motoho is a Basotho sorghum porridge of Lesotho and South Africa."}
 {"id":"Q139816409","verdict":"keep"}
 {"id":"Q139816842","verdict":"keep"}
 {"id":"Q139816855","verdict":"keep"}
@@ -93,81 +93,81 @@
 {"id":"Q139855677","verdict":"keep"}
 {"id":"Q139856083","verdict":"keep"}
 {"id":"Q139856415","verdict":"keep"}
-{"id":"Q13986541","verdict":"keep"}
+{"id":"Q13986541","verdict":"keep","countries":["CZ"],"reason":"Kahuda is a Czech curd preparation."}
 {"id":"Q139881211","verdict":"keep"}
 {"id":"Q139882113","verdict":"keep"}
-{"id":"Q139885834","verdict":"keep"}
+{"id":"Q139885834","verdict":"keep","countries":["US","AU"],"reason":"Dolly Varden cake has American layer-cake and Australian celebration-cake traditions."}
 {"id":"Q139890123","verdict":"keep"}
-{"id":"Q139890497","verdict":"keep"}
+{"id":"Q139890497","verdict":"keep","countries":["JP"],"reason":"Udoramen is a Japanese noodle preparation."}
 {"id":"Q139892680","verdict":"keep"}
 {"id":"Q139905696","verdict":"keep"}
 {"id":"Q139907614","verdict":"keep"}
-{"id":"Q139915904","verdict":"keep"}
+{"id":"Q139915904","verdict":"keep","countries":["US"],"reason":"The description explicitly identifies Buffalo New York pizza."}
 {"id":"Q139934067","verdict":"remove","reason":"packaged instant stock/bouillon product, not a dish"}
 {"id":"Q139947647","verdict":"keep"}
 {"id":"Q139960699","verdict":"keep"}
 {"id":"Q139961898","verdict":"keep","countries":["IN","PK"],"reason":"Kashmiri harisse belongs to shared Kashmiri cuisine."}
 {"id":"Q139963953","verdict":"keep","countries":["GU","MP"],"reason":"Chamorro red rice is associated with Guam and Northern Mariana Islands."}
-{"id":"Q139976172","verdict":"keep"}
+{"id":"Q139976172","verdict":"keep","countries":["US"],"reason":"The description identifies an American layer cake."}
 {"id":"Q139997460","verdict":"keep"}
 {"id":"Q139997901","verdict":"keep"}
-{"id":"Q140010226","verdict":"keep"}
+{"id":"Q140010226","verdict":"keep","countries":["JP"],"reason":"Mukozuke is explicitly a Japanese kaiseki course."}
 {"id":"Q140042843","verdict":"keep"}
-{"id":"Q140068316","verdict":"keep"}
-{"id":"Q140069747","verdict":"keep"}
-{"id":"Q140157702","verdict":"keep"}
-{"id":"Q140159539","verdict":"keep"}
-{"id":"Q140159693","verdict":"keep"}
+{"id":"Q140068316","verdict":"keep","countries":["GB","IE"],"reason":"Brown bread ice cream has British and Irish traditions."}
+{"id":"Q140069747","verdict":"keep","countries":["IT"],"reason":"The description identifies ancient Roman globi."}
+{"id":"Q140157702","verdict":"keep","countries":["US"],"reason":"The description explicitly identifies Southern American chitlins."}
+{"id":"Q140159539","verdict":"keep","countries":["AE","OM","BH","QA","SA","KW"],"reason":"Khabeesa is a shared Gulf sweet."}
+{"id":"Q140159693","verdict":"keep","countries":["EG","LB","SY","PS"],"reason":"Malban has Egyptian and Levantine confectionery traditions."}
 {"id":"Q140164594","verdict":"keep","countries":["KP"],"reason":"countries were empty; North Korean dish"}
 {"id":"Q1401891","verdict":"remove","reason":"category of baked goods (viennoiserie), not one dish"}
 {"id":"Q140192769","verdict":"keep"}
-{"id":"Q1401956","verdict":"keep"}
-{"id":"Q140197903","verdict":"keep"}
-{"id":"Q140199021","verdict":"keep"}
+{"id":"Q1401956","verdict":"keep","countries":["DE"],"reason":"Feinkostsalat names a German deli salad preparation."}
+{"id":"Q140197903","verdict":"keep","countries":["DE","AT","CH"],"reason":"Anise cookies have shared German, Austrian and Swiss baking traditions."}
+{"id":"Q140199021","verdict":"keep","countries":["JP"],"reason":"The Japanese name and eel-bone cracker preparation identify Japan."}
 {"id":"Q140247979","verdict":"remove","reason":"raw lamb meat, ingredient rather than a dish"}
 {"id":"Q140289332","verdict":"keep"}
-{"id":"Q140291446","verdict":"keep"}
+{"id":"Q140291446","verdict":"keep","countries":["US","DE"],"reason":"Beer brats have American and German sausage traditions."}
 {"id":"Q140298634","verdict":"keep"}
 {"id":"Q140308670","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese katsudon from Chichibu"}
 {"id":"Q140309389","verdict":"keep"}
-{"id":"Q140331989","verdict":"keep"}
-{"id":"Q140411644","verdict":"keep"}
-{"id":"Q140418822","verdict":"keep"}
+{"id":"Q140331989","verdict":"keep","countries":["IT","GR","TR","GE"],"reason":"Eggplant rolls have established Italian, Greek, Turkish and Georgian traditions."}
+{"id":"Q140411644","verdict":"keep","countries":["CN"],"reason":"The description explicitly identifies a Chaoshan snack."}
+{"id":"Q140418822","verdict":"keep","countries":["US","GB"],"reason":"Checkerboard cakes have American and British baking traditions."}
 {"id":"Q140419602","verdict":"keep"}
-{"id":"Q140423317","verdict":"keep"}
+{"id":"Q140423317","verdict":"keep","countries":["PL"],"reason":"The Polish name metadata supplies the last-resort country for this meat dish."}
 {"id":"Q140425649","verdict":"keep"}
-{"id":"Q140430995","verdict":"keep"}
+{"id":"Q140430995","verdict":"keep","countries":["PH"],"reason":"The description explicitly identifies Filipino fried chicks."}
 {"id":"Q140435739","verdict":"keep","countries":["ID"],"reason":"countries were empty; Kalimantan cake"}
 {"id":"Q140444347","verdict":"keep","countries":["FI"],"reason":"countries were empty; Finnish dish"}
-{"id":"Q140444348","verdict":"keep"}
-{"id":"Q140444349","verdict":"keep"}
-{"id":"Q140444350","verdict":"keep"}
-{"id":"Q140444352","verdict":"keep"}
-{"id":"Q140444353","verdict":"keep"}
+{"id":"Q140444348","verdict":"keep","countries":["FI"],"reason":"Tirripaisti is a Finnish pork preparation."}
+{"id":"Q140444349","verdict":"keep","countries":["RU","FI"],"reason":"Venajan kulitsa identifies Russian Easter bread in Finnish cooking."}
+{"id":"Q140444350","verdict":"keep","countries":["FI"],"reason":"Palvimakkara is Finnish smoked sausage."}
+{"id":"Q140444352","verdict":"keep","countries":["FI"],"reason":"Shanghai-taco is a Finnish named fusion preparation."}
+{"id":"Q140444353","verdict":"keep","countries":["FI"],"reason":"Lanttukukko is Finnish rutabaga-filled bread."}
 {"id":"Q140447303","verdict":"remove","reason":"topic page on pies in Pennsylvania, not a dish"}
 {"id":"Q140454149","verdict":"keep"}
 {"id":"Q140454228","verdict":"remove","reason":"raw honey product, not a dish"}
-{"id":"Q140455658","verdict":"keep"}
+{"id":"Q140455658","verdict":"keep","countries":["TH","KH","VN"],"reason":"Stuffed chicken wings have established Thai, Cambodian and Vietnamese traditions."}
 {"id":"Q140469754","verdict":"remove","reason":"company/enterprise, not a dish"}
-{"id":"Q140471515","verdict":"keep"}
+{"id":"Q140471515","verdict":"keep","countries":["AR"],"reason":"The description explicitly identifies Argentine sorrentinos."}
 {"id":"Q140473442","verdict":"keep","countries":["IT"],"reason":"countries were empty; Sardinian farinata"}
 {"id":"Q140474028","verdict":"keep"}
 {"id":"Q140475304","verdict":"keep"}
-{"id":"Q140502350","verdict":"keep"}
-{"id":"Q140518956","verdict":"keep"}
-{"id":"Q140520554","verdict":"keep"}
-{"id":"Q140520817","verdict":"keep"}
-{"id":"Q140521127","verdict":"keep"}
-{"id":"Q140521514","verdict":"keep"}
+{"id":"Q140502350","verdict":"keep","countries":["GB","US"],"reason":"Topped baked fruit desserts belong to British crumble and American crisp traditions."}
+{"id":"Q140518956","verdict":"keep","countries":["SE","FI","FR"],"reason":"Crayfish soups have Swedish, Finnish and French traditions."}
+{"id":"Q140520554","verdict":"keep","countries":["NG"],"reason":"The description explicitly identifies Igbo soup."}
+{"id":"Q140520817","verdict":"keep","countries":["SE"],"reason":"The Swedish name identifies this wholegrain bread version."}
+{"id":"Q140521127","verdict":"keep","countries":["FR","IS","US"],"reason":"Lobster soups have French, Icelandic and American traditions."}
+{"id":"Q140521514","verdict":"keep","countries":["FR"],"reason":"The French name identifies this frozen flan version."}
 {"id":"Q140523122","verdict":"keep"}
 {"id":"Q140528272","verdict":"keep","countries":["MX"],"reason":"countries were empty; Mexican dessert"}
 {"id":"Q140528708","verdict":"keep"}
 {"id":"Q1405557","verdict":"keep","countries":["AT","DE"],"reason":"Second opinion: Schmarrn is associated with Austria and Bavaria in Germany, as the description states."}
 {"id":"Q140578443","verdict":"keep","name":"Dolmadakia","reason":"name had a Cyrillic letter in it"}
 {"id":"Q140586135","verdict":"remove","reason":"category of ritual breads, not one dish"}
-{"id":"Q140589660","verdict":"keep"}
+{"id":"Q140589660","verdict":"keep","countries":["NL","BE"],"reason":"Cafe Noir coffee-iced biscuits belong to Dutch and Belgian biscuit traditions."}
 {"id":"Q140597616","verdict":"keep"}
-{"id":"Q140611219","verdict":"keep"}
+{"id":"Q140611219","verdict":"keep","countries":["US","GB"],"reason":"Birds nest pudding has American and British pudding traditions."}
 {"id":"Q140621167","verdict":"keep","countries":["UA"],"reason":"countries were empty; Ukrainian Christmas cookies"}
 {"id":"Q140635489","verdict":"keep"}
 {"id":"Q140642111","verdict":"remove","reason":"raw fresh meat (PGI), ingredient not a dish"}

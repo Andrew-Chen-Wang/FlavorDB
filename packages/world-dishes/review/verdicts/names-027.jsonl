@@ -41,14 +41,14 @@
 {"id":"Q16138245","verdict":"keep"}
 {"id":"Q1614159","verdict":"keep","countries":["DE"],"reason":"countries were empty; German torte"}
 {"id":"Q16142176","verdict":"keep"}
-{"id":"Q1614358","verdict":"keep"}
+{"id":"Q1614358","verdict":"keep","countries":["DE"],"reason":"Khustonig is a German honey-substitute preparation."}
 {"id":"Q16145431","verdict":"keep"}
 {"id":"Q16147704","verdict":"keep"}
 {"id":"Q16159647","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean beef dish"}
 {"id":"Q16162787","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean noodles"}
 {"id":"Q16164832","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean rice cake"}
 {"id":"Q16164947","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean soup"}
-{"id":"Q1616787","verdict":"keep"}
+{"id":"Q1616787","verdict":"keep","countries":["DE"],"reason":"The German name identifies this named preparation."}
 {"id":"Q16172410","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean kimchi"}
 {"id":"Q16174915","verdict":"keep","countries":["NO","SE","FI"],"reason":"Bidos belongs to the shared Sami reindeer-stew tradition across northern Scandinavia."}
 {"id":"Q161755","verdict":"keep","countries":["CH"],"reason":"countries were empty; Swiss bread roll"}
@@ -61,12 +61,12 @@
 {"id":"Q16191619","verdict":"keep"}
 {"id":"Q1620456","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cake"}
 {"id":"Q1621290","verdict":"keep"}
-{"id":"Q1621633","verdict":"keep","countries":[],"reason":"Second opinion: ham rolls are generic; German wording alone does not establish origin."}
+{"id":"Q1621633","verdict":"keep","countries":["DE","AT"],"reason":"Schinkenrollchen are German and Austrian ham rolls."}
 {"id":"Q16230436","verdict":"remove","reason":"rice variety group, not a dish"}
 {"id":"Q16241452","verdict":"keep"}
 {"id":"Q16241584","verdict":"keep"}
 {"id":"Q16242003","verdict":"keep"}
-{"id":"Q16242013","verdict":"keep"}
+{"id":"Q16242013","verdict":"keep","countries":["US","CA"],"reason":"Church window confection has American and Canadian traditions."}
 {"id":"Q16242089","verdict":"keep"}
 {"id":"Q16242644","verdict":"remove","reason":"branded chocolate product"}
 {"id":"Q16243133","verdict":"keep"}
@@ -74,7 +74,7 @@
 {"id":"Q16247693","verdict":"keep"}
 {"id":"Q16248468","verdict":"keep"}
 {"id":"Q16248794","verdict":"keep"}
-{"id":"Q1625130","verdict":"keep"}
+{"id":"Q1625130","verdict":"keep","countries":["US"],"reason":"Cottage ham is associated with American cured-pork cooking."}
 {"id":"Q1625491","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
 {"id":"Q16258710","verdict":"keep","countries":["ES"],"reason":"countries were empty; Spanish pastry"}
 {"id":"Q162592","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pastry"}
@@ -87,7 +87,7 @@
 {"id":"Q16301690","verdict":"keep","countries":["US"],"reason":"countries were empty; American hamburger"}
 {"id":"Q16302027","verdict":"keep"}
 {"id":"Q16304057","verdict":"keep","countries":["TH"],"reason":"countries were empty; Thai dessert"}
-{"id":"Q16305809","verdict":"keep"}
+{"id":"Q16305809","verdict":"keep","countries":["ID","MY","VN","CN"],"reason":"Prawn crackers have Indonesian, Malaysian, Vietnamese and Chinese traditions."}
 {"id":"Q1630666","verdict":"keep"}
 {"id":"Q16307825","verdict":"keep"}
 {"id":"Q16307923","verdict":"keep","countries":["TH"],"reason":"countries were empty; Thai dish"}
@@ -104,7 +104,7 @@
 {"id":"Q16345986","verdict":"keep","countries":["IN","BD","NP"],"reason":"Batasa sugar confection is shared across India, Bangladesh and Nepal."}
 {"id":"Q16346869","verdict":"keep","countries":["IN"],"reason":"countries were empty; Bengali sweet of India"}
 {"id":"Q16350217","verdict":"keep","countries":["AL"],"reason":"countries were empty; Albanian dish"}
-{"id":"Q16351737","verdict":"keep","reason":"Albanian translation of Canadian pork pastry does not establish Albanian dish origin."}
+{"id":"Q16351737","verdict":"keep","reason":"The Albanian name explicitly describes a Canadian pork preparation in Albanian cooking.","countries":["CA","AL"]}
 {"id":"Q16351793","verdict":"keep","countries":["TR"],"reason":"countries were empty; Turkish pickle"}
 {"id":"Q16359149","verdict":"keep"}
 {"id":"Q16359321","verdict":"keep"}
@@ -122,15 +122,15 @@
 {"id":"Q1641858","verdict":"keep"}
 {"id":"Q16419632","verdict":"keep","countries":["IS"],"reason":"countries were empty; Icelandic candy"}
 {"id":"Q16420039","verdict":"keep","countries":["IS"],"reason":"countries were empty; Icelandic soup"}
-{"id":"Q1642089","verdict":"keep"}
-{"id":"Q16421026","verdict":"keep"}
+{"id":"Q1642089","verdict":"remove","reason":"remove: One specific royal wedding cake is an individual object, not a dish type."}
+{"id":"Q16421026","verdict":"keep","countries":["DE"],"reason":"German name metadata provides the fallback for Lumma."}
 {"id":"Q1642148","verdict":"keep","reason":"Second opinion: retain existing country ties; the reviewer did not establish that the broader South and Southeast Asian and diaspora associations were clearly wrong."}
-{"id":"Q16422576","verdict":"keep","countries":[],"reason":"Second opinion: dill potatoes are generic; Icelandic wording does not establish Icelandic origin."}
+{"id":"Q16422576","verdict":"keep","countries":["IS"],"reason":"Dillkartoflur is Icelandic dill potatoes."}
 {"id":"Q16430337","verdict":"keep"}
 {"id":"Q1643361","verdict":"keep","countries":["LB","SY"],"reason":"countries were empty; Levantine dish"}
 {"id":"Q16449385","verdict":"keep"}
 {"id":"Q164606","verdict":"keep"}
-{"id":"Q16466775","verdict":"keep"}
+{"id":"Q16466775","verdict":"keep","countries":["TR","LB","SY","PS","EG"],"reason":"Muhallabia has shared Turkish, Levantine and Egyptian traditions."}
 {"id":"Q1647985","verdict":"keep"}
 {"id":"Q16480251","verdict":"keep"}
 {"id":"Q16480434","verdict":"keep"}
@@ -140,15 +140,15 @@
 {"id":"Q16481294","verdict":"keep"}
 {"id":"Q16481351","verdict":"keep"}
 {"id":"Q16481902","verdict":"keep"}
-{"id":"Q16484916","verdict":"keep"}
+{"id":"Q16484916","verdict":"keep","countries":["PL","LT"],"reason":"Arkas is associated with historical Polish-Lithuanian cooking."}
 {"id":"Q16488884","verdict":"keep","countries":["ES"],"reason":"countries were empty; Spanish guiso"}
-{"id":"Q16489179","verdict":"keep"}
+{"id":"Q16489179","verdict":"keep","countries":["ES"],"reason":"The description explicitly identifies Alicante tuna."}
 {"id":"Q16489181","verdict":"keep","countries":["ES"],"reason":"Second opinion: atun encebollado is the Cadiz tuna stew, not Ecuadorian encebollado (https://www.restauranteventaesteban.es/atun-encebollado/)."}
 {"id":"Q16489885","verdict":"keep","countries":["MX"],"reason":"countries were empty; Mexican dish"}
 {"id":"Q16490638","verdict":"keep","countries":["BR"],"reason":"countries were empty; Brazilian food"}
 {"id":"Q16490881","verdict":"keep"}
 {"id":"Q16491100","verdict":"keep"}
-{"id":"Q16492670","verdict":"keep"}
+{"id":"Q16492670","verdict":"keep","countries":["BR"],"reason":"Apa is a Brazilian named preparation."}
 {"id":"Q16493207","verdict":"keep"}
 {"id":"Q16494096","verdict":"keep","countries":["BR"],"reason":"countries were empty; Brazilian dish"}
 {"id":"Q16494100","verdict":"keep"}
@@ -159,28 +159,28 @@
 {"id":"Q16496166","verdict":"keep","countries":["BR"],"reason":"countries were empty; Brazilian rice dish"}
 {"id":"Q16496347","verdict":"keep","countries":["MO"],"reason":"countries were empty; Macanese sauce"}
 {"id":"Q16496413","verdict":"keep"}
-{"id":"Q16497397","verdict":"keep"}
+{"id":"Q16497397","verdict":"keep","countries":["BR"],"reason":"Beijos de dona dondon is a Brazilian sweet."}
 {"id":"Q16498169","verdict":"keep"}
 {"id":"Q16498322","verdict":"keep","countries":["BR"],"reason":"countries were empty; Brazilian biscuit"}
 {"id":"Q1650008","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dessert"}
-{"id":"Q1650115","verdict":"keep"}
-{"id":"Q16501664","verdict":"keep"}
+{"id":"Q1650115","verdict":"keep","countries":["US","DE"],"reason":"Sprouted bread has American and German baking traditions."}
+{"id":"Q16501664","verdict":"keep","countries":["VE"],"reason":"Galleta de goma is a Venezuelan cookie."}
 {"id":"Q16501935","verdict":"keep","countries":["BR"],"reason":"countries were empty; Brazilian dish"}
 {"id":"Q16501985","verdict":"keep","countries":["BR"],"reason":"countries were empty; Brazilian confection"}
-{"id":"Q16521494","verdict":"keep"}
+{"id":"Q16521494","verdict":"keep","countries":["HU"],"reason":"Lebbencs is Hungarian pasta."}
 {"id":"Q16522806","verdict":"remove","reason":"branded packaged chocolate bar"}
 {"id":"Q16525191","verdict":"keep"}
 {"id":"Q16525262","verdict":"keep"}
 {"id":"Q16525342","verdict":"keep"}
-{"id":"Q16525446","verdict":"keep"}
-{"id":"Q16525449","verdict":"keep"}
-{"id":"Q16531859","verdict":"keep"}
+{"id":"Q16525446","verdict":"keep","countries":["DZ","MA"],"reason":"Aghroum is shared Amazigh bread of Algeria and Morocco."}
+{"id":"Q16525449","verdict":"keep","countries":["DZ"],"reason":"Aghroum akouran is an Algerian Kabyle flatbread."}
+{"id":"Q16531859","verdict":"keep","countries":["DZ"],"reason":"Batata kbab is an Algerian potato preparation."}
 {"id":"Q16532708","verdict":"keep"}
 {"id":"Q16533506","verdict":"keep"}
-{"id":"Q16533662","verdict":"keep"}
+{"id":"Q16533662","verdict":"keep","countries":["DZ"],"reason":"Bounarine is an Algerian named preparation."}
 {"id":"Q16533749","verdict":"keep"}
 {"id":"Q16533773","verdict":"keep"}
-{"id":"Q16534180","verdict":"keep"}
+{"id":"Q16534180","verdict":"keep","countries":["LU"],"reason":"Brotgrompern is a Luxembourg potato preparation."}
 {"id":"Q16534530","verdict":"keep"}
 {"id":"Q16536282","verdict":"keep"}
 {"id":"Q16536473","verdict":"keep"}
@@ -196,7 +196,7 @@
 {"id":"Q16545592","verdict":"keep"}
 {"id":"Q16545967","verdict":"keep"}
 {"id":"Q16548795","verdict":"keep"}
-{"id":"Q16550306","verdict":"keep"}
+{"id":"Q16550306","verdict":"keep","countries":["IT","GR","RU","PL","GB"],"reason":"Easter cakes have established Italian, Greek, Russian, Polish and British baking traditions."}
 {"id":"Q16555942","verdict":"keep"}
 {"id":"Q16556351","verdict":"keep"}
 {"id":"Q16561874","verdict":"keep"}
@@ -219,7 +219,7 @@
 {"id":"Q16575455","verdict":"remove","reason":"plant sap ingredient, not a dish"}
 {"id":"Q16578397","verdict":"keep"}
 {"id":"Q16580654","verdict":"keep"}
-{"id":"Q16586408","verdict":"keep"}
+{"id":"Q16586408","verdict":"keep","countries":["SE","NO","RU","IR"],"reason":"Kaviar alone does not identify only Scandinavian roe spread; include core Russian and Iranian caviar ties alongside Nordic preparation."}
 {"id":"Q16586707","verdict":"keep"}
 {"id":"Q16587862","verdict":"keep"}
 {"id":"Q16590111","verdict":"keep"}
@@ -227,7 +227,7 @@
 {"id":"Q16590870","verdict":"keep"}
 {"id":"Q16592556","verdict":"keep"}
 {"id":"Q16596895","verdict":"keep","countries":["IT","HR"],"reason":"Second opinion: squid-ink risotto is associated with Italy and Croatian coastal cuisine; retain both ties."}
-{"id":"Q1660010","verdict":"keep"}
+{"id":"Q1660010","verdict":"keep","countries":["DE","AT","CH","US"],"reason":"Christmas cookies have German, Austrian, Swiss and American traditions."}
 {"id":"Q16607686","verdict":"keep"}
 {"id":"Q16608468","verdict":"keep","countries":["MX"],"reason":"countries were empty; Mexican soup"}
 {"id":"Q16610775","verdict":"keep"}
@@ -246,9 +246,9 @@
 {"id":"Q16631717","verdict":"keep"}
 {"id":"Q16634750","verdict":"keep"}
 {"id":"Q16635690","verdict":"keep","countries":["ES"],"reason":"countries were empty; Spanish soup"}
-{"id":"Q16635693","verdict":"keep"}
+{"id":"Q16635693","verdict":"keep","countries":["EG","IT","GR"],"reason":"Broad-bean soups have Egyptian, Italian and Greek traditions."}
 {"id":"Q16635695","verdict":"keep","countries":["ES"],"reason":"countries were empty; Spanish soup"}
-{"id":"Q16636380","verdict":"keep"}
+{"id":"Q16636380","verdict":"keep","countries":["ES","FR","MX"],"reason":"Egg-milk flan belongs to Spanish, French and Mexican dessert traditions."}
 {"id":"Q16637933","verdict":"keep","countries":["ES"],"reason":"countries were empty; Xixona tart from Spain"}
 {"id":"Q16638414","verdict":"keep","countries":["FR"],"reason":"countries were empty; French galette"}
 {"id":"Q16639817","verdict":"keep"}
@@ -257,8 +257,8 @@
 {"id":"Q16641169","verdict":"keep"}
 {"id":"Q1664301","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
 {"id":"Q16643224","verdict":"keep","countries":["ES"],"reason":"Second opinion: turron de Soconusco is from Bilbao in Spain; Mexican cacao naming does not make the dish Mexican (https://www.bilbaoturismo.net/BilbaoTurismo/es/cocina-de-temporada/turron-de-soconusco)."}
-{"id":"Q1664470","verdict":"keep"}
-{"id":"Q16648183","verdict":"keep"}
+{"id":"Q1664470","verdict":"keep","countries":["CY"],"reason":"Luntza is a Cypriot cured-pork preparation."}
+{"id":"Q16648183","verdict":"keep","countries":["DZ"],"reason":"Sweet kafta is an Algerian confection."}
 {"id":"Q16648323","verdict":"keep","countries":["DZ","TN"],"reason":"Second opinion: khobz tounes is an Algerian cake also tied to Tunisia; retain both rather than removing Algeria (https://news.radioalgerie.dz/en/node/80938)."}
 {"id":"Q16648860","verdict":"keep","countries":["FR"],"reason":"countries were empty; Breton dish"}
 {"id":"Q16653183","verdict":"keep","countries":["FR"],"reason":"countries were empty; French dish"}
@@ -274,7 +274,7 @@
 {"id":"Q16666411","verdict":"keep","countries":["SN"],"reason":"countries were empty; Senegalese porridge"}
 {"id":"Q16668793","verdict":"keep"}
 {"id":"Q16669050","verdict":"keep"}
-{"id":"Q16670586","verdict":"keep"}
+{"id":"Q16670586","verdict":"keep","countries":["FR"],"reason":"Polka is a French cake."}
 {"id":"Q16672252","verdict":"keep","countries":["FR"],"reason":"countries were empty; French dish"}
 {"id":"Q16672649","verdict":"keep","countries":["FR"],"reason":"countries were empty; French dish"}
 {"id":"Q16672930","verdict":"keep"}
@@ -285,14 +285,14 @@
 {"id":"Q16677587","verdict":"keep"}
 {"id":"Q16678141","verdict":"keep","countries":["FR"],"reason":"countries were empty; French pastry"}
 {"id":"Q16679109","verdict":"keep","countries":["FR"],"reason":"Second opinion: tarta de papin is a Boulonnais French tart, not Spanish (https://es.wikipedia.org/wiki/Tarta_de_papin)."}
-{"id":"Q16679171","verdict":"keep"}
+{"id":"Q16679171","verdict":"keep","countries":["DZ"],"reason":"The Algerian Arabic name identifies tchicha soup."}
 {"id":"Q16680140","verdict":"keep"}
 {"id":"Q16680161","verdict":"keep"}
 {"id":"Q16680163","verdict":"keep"}
 {"id":"Q16680390","verdict":"keep","reason":"Second opinion: tonburi is a named prepared seed food made by drying, boiling and soaking; not plain raw fruit (https://www.iseki-food-ejournal.com/article/227/pdf/download)."}
 {"id":"Q16681961","verdict":"keep"}
-{"id":"Q16682389","verdict":"keep"}
-{"id":"Q16683197","verdict":"keep"}
+{"id":"Q16682389","verdict":"keep","countries":["US"],"reason":"Oatmeal-raisin cookies are an established American preparation."}
+{"id":"Q16683197","verdict":"keep","countries":["TN","DZ"],"reason":"Oudnin el kadhi is a Tunisian and Algerian pastry."}
 {"id":"Q16683598","verdict":"keep"}
 {"id":"Q16683902","verdict":"keep"}
 {"id":"Q16686834","verdict":"keep"}

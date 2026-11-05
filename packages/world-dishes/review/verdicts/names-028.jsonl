@@ -1,5 +1,5 @@
 {"id":"Q16706914","verdict":"keep"}
-{"id":"Q1671107","verdict":"keep"}
+{"id":"Q1671107","verdict":"remove","reason":"remove: Mad honey is a raw honey ingredient with no recipe."}
 {"id":"Q1671818","verdict":"keep","countries":["IT"],"reason":"Sicilian dish; countries were empty"}
 {"id":"Q16724480","verdict":"keep","countries":["CN"],"reason":"Cantonese dish; countries were empty"}
 {"id":"Q16726108","verdict":"keep"}
@@ -26,20 +26,20 @@
 {"id":"Q16826630","verdict":"keep","countries":["PL"],"reason":"Polish confectionery; countries were empty"}
 {"id":"Q16828019","verdict":"keep","countries":["GR","TR"],"reason":"Aegean dish; countries were empty"}
 {"id":"Q16834113","verdict":"keep"}
-{"id":"Q16834380","verdict":"keep"}
+{"id":"Q16834380","verdict":"keep","countries":["YE","SA"],"reason":"Aseed is a Yemeni and Arabian preparation."}
 {"id":"Q16834748","verdict":"keep","countries":["GR","TR"],"reason":"Papoutsaki is Greek and Turkish; countries were empty"}
 {"id":"Q16836241","verdict":"keep"}
 {"id":"Q16836245","verdict":"keep"}
-{"id":"Q16836532","verdict":"keep"}
+{"id":"Q16836532","verdict":"keep","countries":["DZ"],"reason":"Fennel with lamb is an Algerian preparation."}
 {"id":"Q1683716","verdict":"keep"}
 {"id":"Q16837973","verdict":"keep","countries":["GB","US"],"reason":"English and North American funeral biscuit; countries were empty"}
 {"id":"Q16839272","verdict":"keep","countries":["TR"],"reason":"Salad made commonly in Turkey; countries were empty"}
 {"id":"Q16840771","verdict":"keep"}
 {"id":"Q16841290","verdict":"keep"}
 {"id":"Q16843658","verdict":"keep"}
-{"id":"Q16844050","verdict":"keep"}
+{"id":"Q16844050","verdict":"keep","countries":["KR"],"reason":"Bogeo is Korean pufferfish soup."}
 {"id":"Q16845173","verdict":"keep"}
-{"id":"Q16847095","verdict":"keep"}
+{"id":"Q16847095","verdict":"keep","countries":["US"],"reason":"Broccoli slaw is an American coleslaw adaptation."}
 {"id":"Q1684741","verdict":"remove","reason":"drink (Swiss schnapps)"}
 {"id":"Q16847884","verdict":"keep"}
 {"id":"Q1684997","verdict":"keep"}
@@ -52,7 +52,7 @@
 {"id":"Q16858710","verdict":"keep","countries":["BA","HR","RS"],"reason":"Balkan pastry; countries were empty"}
 {"id":"Q16860933","verdict":"keep","countries":["PL"],"reason":"Polish potato pancakes; countries were empty"}
 {"id":"Q16861024","verdict":"keep"}
-{"id":"Q16861033","verdict":"keep"}
+{"id":"Q16861033","verdict":"keep","countries":["GB"],"reason":"Triple-cooked chips are a British potato preparation."}
 {"id":"Q16861199","verdict":"keep"}
 {"id":"Q16861482","verdict":"keep"}
 {"id":"Q16864399","verdict":"keep","countries":["GE"],"reason":"Georgian bread; countries were empty"}
@@ -71,18 +71,18 @@
 {"id":"Q16879307","verdict":"keep"}
 {"id":"Q16879510","verdict":"keep","countries":["ID"],"reason":"Indonesian noodle dish; countries were empty"}
 {"id":"Q16880089","verdict":"keep","countries":["MM"],"reason":"Burmese dish; countries were empty"}
-{"id":"Q16880108","verdict":"keep"}
+{"id":"Q16880108","verdict":"keep","countries":["US","BS","JM","HN","BZ"],"reason":"Conch soup belongs to Florida, Bahamian, Jamaican and Central American Caribbean cooking."}
 {"id":"Q16882435","verdict":"keep"}
 {"id":"Q16882443","verdict":"keep","countries":["MX"],"reason":"Mexican dish; countries were empty"}
 {"id":"Q16886629","verdict":"keep"}
 {"id":"Q16886847","verdict":"keep","countries":["EC"],"reason":"Ecuadorian roast pig; ES was wrong"}
-{"id":"Q16887568","verdict":"keep"}
+{"id":"Q16887568","verdict":"keep","countries":["MX","US","GB"],"reason":"Seafood cocktails have Mexican, American and British traditions."}
 {"id":"Q16888187","verdict":"keep"}
 {"id":"Q16888499","verdict":"keep"}
 {"id":"Q16894181","verdict":"keep"}
 {"id":"Q1689540","verdict":"keep","countries":["PL"],"reason":"Polish dish; countries were empty"}
-{"id":"Q16896963","verdict":"keep"}
-{"id":"Q1689772","verdict":"keep"}
+{"id":"Q16896963","verdict":"keep","countries":["CN"],"reason":"Five-nuts pastry is a Chinese wedding pastry."}
+{"id":"Q1689772","verdict":"keep","countries":["CH"],"reason":"Correct DE to CH: Stuck is the St Gallen Swiss pastry, not German just because German language."}
 {"id":"Q16897790","verdict":"keep"}
 {"id":"Q16900667","verdict":"keep","countries":["MX"],"reason":"Yucatecan dish; countries were empty"}
 {"id":"Q16901399","verdict":"keep"}
@@ -93,7 +93,7 @@
 {"id":"Q16909052","verdict":"keep"}
 {"id":"Q16910416","verdict":"keep","countries":["RO","MD"],"reason":"Romanian and Moldovan dish; countries were empty"}
 {"id":"Q16910822","verdict":"keep"}
-{"id":"Q16911615","verdict":"keep"}
+{"id":"Q16911615","verdict":"remove","reason":"remove: Palate cleanser is a function or category of foods rather than one dish."}
 {"id":"Q16911670","verdict":"keep","countries":["IN"],"reason":"Indian dish; countries were empty"}
 {"id":"Q16913644","verdict":"keep"}
 {"id":"Q1691624","verdict":"keep","countries":["PL"],"reason":"Nysa gingerbread, Poland; countries were empty"}
@@ -101,19 +101,19 @@
 {"id":"Q16917396","verdict":"keep","countries":["CU"],"reason":"Cuban dish; countries were empty"}
 {"id":"Q16917687","verdict":"keep"}
 {"id":"Q16917893","verdict":"keep"}
-{"id":"Q16918839","verdict":"keep"}
+{"id":"Q16918839","verdict":"keep","countries":["BS"],"reason":"Duff is a Bahamian steamed dessert."}
 {"id":"Q16926259","verdict":"keep"}
-{"id":"Q16926266","verdict":"keep"}
+{"id":"Q16926266","verdict":"remove","reason":"remove: Tong sui shop identifies an establishment category rather than a dish."}
 {"id":"Q16926310","verdict":"keep","countries":["MO","IN","PT"],"reason":"Second opinion: the metadata explicitly identifies both Luso-Indian and Macanese cuisine, so retain those ties."}
 {"id":"Q16927617","verdict":"keep","countries":["US"],"reason":"Louisiana Creole dish; countries were empty"}
 {"id":"Q16929887","verdict":"keep","countries":["SE"],"reason":"Swedish dish; countries were empty"}
 {"id":"Q16930441","verdict":"keep"}
 {"id":"Q16930486","verdict":"keep","countries":["JP"],"reason":"Okinawan dish; countries were empty"}
 {"id":"Q16931986","verdict":"keep"}
-{"id":"Q16933312","verdict":"keep"}
+{"id":"Q16933312","verdict":"keep","countries":["GR","IT","TR","ES"],"reason":"Stuffed squid has Greek, Italian, Turkish and Spanish traditions."}
 {"id":"Q16934063","verdict":"keep"}
-{"id":"Q16934214","verdict":"keep"}
-{"id":"Q16934667","verdict":"keep","reason":"Second opinion: zeroa is an actual prepared roasted shankbone food on the Seder plate; ritual use does not make prepared food a non-food object."}
+{"id":"Q16934214","verdict":"keep","countries":["TR"],"reason":"Sheeps sorrel soup is a Turkish regional soup."}
+{"id":"Q16934667","verdict":"keep","reason":"Zeroa is a prepared Jewish Passover shankbone with Israeli ties.","countries":["IL"]}
 {"id":"Q16934675","verdict":"keep"}
 {"id":"Q16935343","verdict":"keep","countries":["US"],"reason":"American candy; countries were empty"}
 {"id":"Q16935381","verdict":"keep","countries":["SN","GM"],"reason":"West African dish; countries were empty"}
@@ -136,7 +136,7 @@
 {"id":"Q16962929","verdict":"keep"}
 {"id":"Q16963428","verdict":"keep"}
 {"id":"Q16963468","verdict":"keep"}
-{"id":"Q16965840","verdict":"keep"}
+{"id":"Q16965840","verdict":"keep","countries":["US","DE"],"reason":"Clear toy candy belongs to Pennsylvania German and German confectionery."}
 {"id":"Q16966417","verdict":"keep","countries":["RS"],"reason":"Serbian dish; countries were empty"}
 {"id":"Q16969131","verdict":"keep"}
 {"id":"Q16969652","verdict":"keep"}
@@ -147,7 +147,7 @@
 {"id":"Q16975890","verdict":"keep"}
 {"id":"Q16976976","verdict":"keep"}
 {"id":"Q16979517","verdict":"keep"}
-{"id":"Q16979788","verdict":"keep"}
+{"id":"Q16979788","verdict":"keep","countries":["AU","NZ"],"reason":"Musk sticks are Australian and New Zealand sweets."}
 {"id":"Q16982762","verdict":"keep","countries":["GB"],"reason":"Grimsby smoked fish, England; countries were empty"}
 {"id":"Q16983167","verdict":"keep"}
 {"id":"Q16984727","verdict":"keep"}
@@ -157,17 +157,17 @@
 {"id":"Q16999470","verdict":"keep"}
 {"id":"Q16999502","verdict":"keep"}
 {"id":"Q1699954","verdict":"keep","countries":["DE"],"reason":"German viennoiserie; countries were empty"}
-{"id":"Q16999914","verdict":"keep"}
+{"id":"Q16999914","verdict":"keep","countries":["US","SE"],"reason":"Jenny Lind soup is an American preparation named for the Swedish singer."}
 {"id":"Q17000111","verdict":"keep"}
 {"id":"Q170014","verdict":"remove","reason":"drink (wedang is a spiced herbal drink)"}
 {"id":"Q17002268","verdict":"keep"}
 {"id":"Q170037","verdict":"keep"}
-{"id":"Q17003794","verdict":"keep"}
+{"id":"Q17003794","verdict":"keep","countries":["NG"],"reason":"Amiedi is a Nigerian palm-nut soup."}
 {"id":"Q17003967","verdict":"keep","countries":["CN"],"reason":"Tibetan noodle soup; countries were empty"}
 {"id":"Q170049","verdict":"keep"}
 {"id":"Q17005230","verdict":"keep"}
 {"id":"Q17005444","verdict":"keep"}
-{"id":"Q17006531","verdict":"keep"}
+{"id":"Q17006531","verdict":"keep","countries":["SY","TR"],"reason":"Cherry kebab belongs to Aleppine Syrian and Turkish cooking."}
 {"id":"Q17006976","verdict":"keep","countries":["CN"],"reason":"Shanghai dish; countries were empty"}
 {"id":"Q17008466","verdict":"keep"}
 {"id":"Q17009101","verdict":"keep"}
@@ -176,8 +176,8 @@
 {"id":"Q17009401","verdict":"keep"}
 {"id":"Q17010544","verdict":"keep"}
 {"id":"Q17011735","verdict":"keep"}
-{"id":"Q17012850","verdict":"keep"}
-{"id":"Q17013971","verdict":"keep"}
+{"id":"Q17012850","verdict":"keep","countries":["US"],"reason":"Apple cider cookies belong to American baking."}
+{"id":"Q17013971","verdict":"keep","countries":["CN"],"reason":"The Chinese name identifies this soup preparation."}
 {"id":"Q17016362","verdict":"keep"}
 {"id":"Q17017114","verdict":"keep","countries":["NP"],"reason":"Newar dish of Nepal; countries were empty"}
 {"id":"Q17017948","verdict":"keep"}
@@ -196,17 +196,17 @@
 {"id":"Q17029057","verdict":"keep","countries":["CN"],"reason":"Chinese flatbread; countries were empty"}
 {"id":"Q17029217","verdict":"keep"}
 {"id":"Q17030355","verdict":"keep","countries":["CN"],"reason":"Chinese savory pocket; countries were empty"}
-{"id":"Q17031556","verdict":"keep"}
+{"id":"Q17031556","verdict":"keep","countries":["TW"],"reason":"Herbal catfish stew is an established Taiwanese preparation."}
 {"id":"Q17031582","verdict":"keep"}
 {"id":"Q17031594","verdict":"keep"}
 {"id":"Q17031604","verdict":"keep","countries":["TW"],"reason":"Taiwanese cookie; countries were empty"}
 {"id":"Q17031681","verdict":"keep"}
 {"id":"Q17032101","verdict":"keep","countries":["CN"],"reason":"Naxi bread of Yunnan; countries were empty"}
-{"id":"Q17032204","verdict":"keep"}
-{"id":"Q1703243","verdict":"keep"}
+{"id":"Q17032204","verdict":"keep","countries":["TW"],"reason":"Ko-cha is a Yilan Taiwanese preparation."}
+{"id":"Q1703243","verdict":"keep","countries":["PL","DE","IL","US"],"reason":"Kreplach belong to Ashkenazi Jewish Polish, German, Israeli and American cooking."}
 {"id":"Q17033067","verdict":"keep"}
-{"id":"Q1703334","verdict":"keep"}
-{"id":"Q17033393","verdict":"keep"}
+{"id":"Q1703334","verdict":"keep","countries":["AT"],"reason":"Schaumbrot is an Austrian fish preparation."}
+{"id":"Q17033393","verdict":"keep","countries":["CN","IN","NP","BT"],"reason":"The Tibetan noodle soup belongs to Tibetan communities across China and the Himalayas."}
 {"id":"Q17034005","verdict":"keep","countries":["CN"],"reason":"Chinese dish; countries were empty"}
 {"id":"Q17034032","verdict":"keep","countries":["CN"],"reason":"Chinese dish; countries were empty"}
 {"id":"Q17034242","verdict":"keep"}
@@ -216,44 +216,44 @@
 {"id":"Q17035169","verdict":"keep","countries":["TW"],"reason":"Taiwanese night-market dish; countries were empty"}
 {"id":"Q17035180","verdict":"keep","countries":["TW"],"reason":"Taiwanese fried fish; countries were empty"}
 {"id":"Q17035434","verdict":"keep"}
-{"id":"Q17035461","verdict":"keep"}
+{"id":"Q17035461","verdict":"keep","countries":["TW"],"reason":"Grilled quail eggs are a Taiwanese street-food preparation."}
 {"id":"Q17035616","verdict":"keep"}
 {"id":"Q17035622","verdict":"keep","countries":["CN"],"reason":"Chinese scallion pancake; countries were empty"}
 {"id":"Q1703574","verdict":"keep","countries":["NO"],"reason":"Norwegian Christmas dish; countries were empty"}
 {"id":"Q17035779","verdict":"keep","countries":["CN"],"reason":"Chinese dish; countries were empty"}
 {"id":"Q17035821","verdict":"keep","countries":["CN","TW"],"reason":"Ginger duck has Quanzhou and Taiwanese associations."}
 {"id":"Q17035957","verdict":"keep","countries":["TW"],"reason":"Taiwanese dish; countries were empty"}
-{"id":"Q17037938","verdict":"keep"}
+{"id":"Q17037938","verdict":"keep","countries":["IN","PK","BD"],"reason":"Nargesi kebab belongs to shared South Asian cooking."}
 {"id":"Q1703796","verdict":"keep"}
 {"id":"Q17038368","verdict":"keep"}
 {"id":"Q17038483","verdict":"keep","countries":["GB"],"reason":"Victorian English pie; countries were empty"}
-{"id":"Q17038642","verdict":"keep"}
-{"id":"Q17039515","verdict":"keep"}
+{"id":"Q17038642","verdict":"keep","countries":["TW","CN"],"reason":"Rice mixed with lard has Taiwanese and Chinese traditions."}
+{"id":"Q17039515","verdict":"keep","countries":["TW"],"reason":"Charcoal grilled sandwiches are an established Taiwanese preparation."}
 {"id":"Q17040557","verdict":"keep"}
 {"id":"Q17040892","verdict":"keep"}
 {"id":"Q17040910","verdict":"keep"}
-{"id":"Q17044047","verdict":"keep"}
+{"id":"Q17044047","verdict":"keep","countries":["CO","CU","PR","DO","EC"],"reason":"Plantain soups have Colombian, Cuban, Puerto Rican, Dominican and Ecuadorian traditions."}
 {"id":"Q17044517","verdict":"keep"}
 {"id":"Q17047960","verdict":"keep"}
-{"id":"Q17048447","verdict":"keep"}
-{"id":"Q170486","verdict":"keep"}
-{"id":"Q17048976","verdict":"keep"}
+{"id":"Q17048447","verdict":"keep","countries":["ES","ZA","ID","LK"],"reason":"Yellow rice has Spanish, South African, Indonesian and Sri Lankan traditions."}
+{"id":"Q170486","verdict":"keep","countries":["ES","IT","DE","FR","CN"],"reason":"Prepared ham has Spanish, Italian, German, French and Chinese traditions."}
+{"id":"Q17048976","verdict":"keep","countries":["JP"],"reason":"Crab ice cream is associated with Japanese seafood ice-cream preparations."}
 {"id":"Q17049500","verdict":"keep"}
 {"id":"Q17049518","verdict":"keep"}
 {"id":"Q17049555","verdict":"keep"}
-{"id":"Q1704982","verdict":"keep"}
+{"id":"Q1704982","verdict":"keep","countries":["GR","TR","RU","AZ","IR"],"reason":"Qurabiya cookies have Greek, Turkish, Tatar Russian, Azerbaijani and Iranian traditions."}
 {"id":"Q17050214","verdict":"keep"}
 {"id":"Q17050490","verdict":"keep"}
 {"id":"Q17050599","verdict":"keep"}
 {"id":"Q17050727","verdict":"keep"}
 {"id":"Q17051280","verdict":"keep","countries":["IN"],"reason":"Indian sweet dish; countries were empty"}
-{"id":"Q17051646","verdict":"keep"}
+{"id":"Q17051646","verdict":"keep","countries":["PL","UA","IL","US"],"reason":"Ptcha belongs to eastern European Jewish, Israeli and American cooking."}
 {"id":"Q17051739","verdict":"keep","countries":["DE","NL","DK"],"reason":"Second opinion: Pfeffernusse spice cookies are commonly tied to Germany, Netherlands and Denmark."}
-{"id":"Q17052123","verdict":"keep"}
+{"id":"Q17052123","verdict":"keep","countries":["DE","US","IL"],"reason":"The description identifies German Jewish buns, also established in American and Israeli baking."}
 {"id":"Q17052769","verdict":"keep","countries":["CN"],"reason":"Chinese noodle dish; countries were empty"}
 {"id":"Q17052971","verdict":"keep"}
 {"id":"Q17053386","verdict":"keep"}
-{"id":"Q17053542","verdict":"keep"}
+{"id":"Q17053542","verdict":"keep","countries":["SG","MY"],"reason":"Sambal stingray belongs to Singaporean and Malaysian cooking."}
 {"id":"Q17053738","verdict":"keep"}
 {"id":"Q17054040","verdict":"keep"}
 {"id":"Q17054148","verdict":"keep"}
@@ -266,11 +266,11 @@
 {"id":"Q17063709","verdict":"keep","countries":["TH"],"reason":"Thai salad; countries were empty"}
 {"id":"Q17063877","verdict":"keep","countries":["PH"],"reason":"Filipino fermented fish condiment; countries were empty"}
 {"id":"Q17064154","verdict":"keep"}
-{"id":"Q17064469","verdict":"keep"}
+{"id":"Q17064469","verdict":"keep","countries":["RS","HR","BA","SI","HU"],"reason":"Cvarci have shared Balkan and Hungarian pork-crackling traditions."}
 {"id":"Q17064971","verdict":"keep"}
 {"id":"Q17065342","verdict":"keep"}
-{"id":"Q17065965","verdict":"keep"}
-{"id":"Q17066200","verdict":"keep"}
+{"id":"Q17065965","verdict":"keep","countries":["TW"],"reason":"Angelica duck is a Taiwanese herbal preparation."}
+{"id":"Q17066200","verdict":"keep","countries":["CN"],"reason":"Soft eel is a Huaiyang Chinese preparation."}
 {"id":"Q17067155","verdict":"keep"}
 {"id":"Q17067218","verdict":"keep","countries":["GB"],"reason":"Medieval English dish; countries were empty"}
 {"id":"Q17068380","verdict":"keep","countries":["IN","BD"],"reason":"Labanga latika belongs to shared Bengali confectionery traditions."}
@@ -284,7 +284,7 @@
 {"id":"Q17079448","verdict":"keep","countries":["AW","CW"],"reason":"Aruban and Curacaoan dish; countries were empty"}
 {"id":"Q17081227","verdict":"keep","countries":["IN"],"reason":"South Indian side dish; countries were empty"}
 {"id":"Q17081569","verdict":"keep","countries":["AF"],"reason":"Afghan soup; countries were empty"}
-{"id":"Q17082973","verdict":"keep"}
+{"id":"Q17082973","verdict":"keep","countries":["DE","DK","NO","SE"],"reason":"Marzipan pigs have German and Nordic confectionery traditions."}
 {"id":"Q17083201","verdict":"keep"}
 {"id":"Q17083249","verdict":"keep"}
 {"id":"Q17084248","verdict":"keep"}

@@ -19,11 +19,11 @@
 {"id":"Q1047978","verdict":"keep"}
 {"id":"Q1048130","verdict":"keep"}
 {"id":"Q1048282","verdict":"keep"}
-{"id":"Q104829714","verdict":"keep"}
+{"id":"Q104829714","verdict":"keep","countries":["PH"],"reason":"Putugal is Filipino rice-cake dessert."}
 {"id":"Q104829719","verdict":"keep","countries":["SG","MY"],"reason":"Singaporean/Malaysian cake, countries empty"}
 {"id":"Q104829802","verdict":"keep"}
 {"id":"Q104830799","verdict":"keep"}
-{"id":"Q104834952","verdict":"keep"}
+{"id":"Q104834952","verdict":"keep","countries":["TR","GR","IL"],"reason":"Ravikos is Sephardic spinach food associated with Turkey, Greece and Israel."}
 {"id":"Q104836072","verdict":"keep","countries":["US"],"reason":"Appalachian dish, countries empty"}
 {"id":"Q104842957","verdict":"keep","countries":["NL"],"reason":"Bittergarnituur is a prepared Dutch platter of fried bar snacks, so retain it as a dish."}
 {"id":"Q104844158","verdict":"keep"}
@@ -31,41 +31,41 @@
 {"id":"Q1048496","verdict":"keep","countries":["RU"],"reason":"Russian soup, countries empty"}
 {"id":"Q104852303","verdict":"keep"}
 {"id":"Q104853749","verdict":"keep","countries":["GB"],"reason":"English cake, countries empty"}
-{"id":"Q104853763","verdict":"keep"}
+{"id":"Q104853763","verdict":"keep","countries":["GR","TR","US"],"reason":"Watermelon salad has established Greek, Turkish and American versions; no narrower version is supplied."}
 {"id":"Q104855730","verdict":"keep","countries":["GB"],"reason":"Victorian dish, countries empty"}
 {"id":"Q104856047","verdict":"keep","countries":["US"],"reason":"American bread, countries empty"}
-{"id":"Q104856718","verdict":"keep"}
-{"id":"Q104857695","verdict":"keep"}
+{"id":"Q104856718","verdict":"keep","countries":["LK"],"reason":"Lavariya is Sri Lankan rice-flour sweet."}
+{"id":"Q104857695","verdict":"keep","countries":["GB"],"reason":"The description explicitly calls Love in disguise British."}
 {"id":"Q104858644","verdict":"keep","countries":["US"],"reason":"American dish, countries empty"}
-{"id":"Q104858815","verdict":"keep","countries":[],"reason":"second opinion: white cake is a generic cake style without a specific national association"}
+{"id":"Q104858815","verdict":"keep","countries":["US"],"reason":"Yolk-free white layer cake is associated with American baking."}
 {"id":"Q104862279","verdict":"remove","reason":"article on pies in American cuisine, not a dish"}
 {"id":"Q104864044","verdict":"keep"}
-{"id":"Q104881657","verdict":"keep"}
-{"id":"Q104887477","verdict":"keep"}
+{"id":"Q104881657","verdict":"keep","countries":["FR"],"reason":"Retain the identified surrealist meal under its French surrealist culinary association; the artistic shape does not itself make it inedible."}
+{"id":"Q104887477","verdict":"keep","countries":["DE"],"reason":"Babbeler is Bremen German confectionery."}
 {"id":"Q1049425","verdict":"keep"}
-{"id":"Q10495802","verdict":"keep","reason":"Breaded fish pieces are prepared food, but the Swedish name alone does not establish Swedish origin."}
+{"id":"Q10495802","verdict":"keep","reason":"The Swedish fiskpanetter name identifies this breaded-fish version.","countries":["SE"]}
 {"id":"Q104960372","verdict":"keep","countries":["FI"],"reason":"Finnish bread, countries empty"}
 {"id":"Q10497217","verdict":"keep"}
-{"id":"Q104974761","verdict":"keep","reason":"Prepared roe-deer saddle; its Swedish label does not establish a uniquely Swedish dish."}
+{"id":"Q104974761","verdict":"keep","reason":"Rådjurssadel supplies a Swedish prepared roe-deer-saddle version.","countries":["SE"]}
 {"id":"Q1049852","verdict":"keep"}
-{"id":"Q10498613","verdict":"keep"}
+{"id":"Q10498613","verdict":"keep","countries":["FR"],"reason":"French roll retains its named French bread association."}
 {"id":"Q10499378","verdict":"keep"}
 {"id":"Q10499831","verdict":"keep"}
 {"id":"Q10500003","verdict":"keep","countries":["TW"],"reason":"Taiwanese soup, countries empty"}
 {"id":"Q10500606","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
 {"id":"Q105006109","verdict":"keep"}
-{"id":"Q10500884","verdict":"keep","reason":"Minced-meat patties are prepared food; no basis here for assigning only Sweden."}
+{"id":"Q10500884","verdict":"keep","reason":"Färsbiff identifies the Swedish minced-meat patty version.","countries":["SE"]}
 {"id":"Q10501315","verdict":"keep"}
 {"id":"Q105015387","verdict":"keep"}
 {"id":"Q10501568","verdict":"keep","countries":["CZ"],"reason":"Czech ham, countries empty"}
 {"id":"Q10501838","verdict":"keep","countries":["VN"],"reason":"Vietnamese dish, countries empty"}
 {"id":"Q10502922","verdict":"keep","countries":["CZ"],"reason":"Czech fried bread, countries empty"}
 {"id":"Q10503582","verdict":"remove","reason":"branded chocolate bar (Fazer)"}
-{"id":"Q105045810","verdict":"keep"}
-{"id":"Q105045860","verdict":"keep"}
+{"id":"Q105045810","verdict":"keep","countries":["US"],"reason":"Soy burger follows American vegetarian burger cooking; it is a generic prepared patty, not a brand."}
+{"id":"Q105045860","verdict":"keep","countries":["US"],"reason":"Simulated-chicken noodle soup follows the American chicken-noodle-soup version."}
 {"id":"Q10505302","verdict":"remove","reason":"stick object, not a dish"}
 {"id":"Q105064017","verdict":"keep"}
-{"id":"Q10506671","verdict":"keep","reason":"Pacifier-shaped candy is a prepared confection, but the Norwegian name is not country evidence."}
+{"id":"Q10506671","verdict":"keep","reason":"Godterismokk is a Norwegian-named candy form, supplying last-resort country association.","countries":["NO"]}
 {"id":"Q105077405","verdict":"keep","countries":["SE","DK"],"reason":"Othello cake is associated with both Swedish and Danish baking."}
 {"id":"Q105094284","verdict":"keep","countries":["CZ"],"reason":"Czech soup, countries empty"}
 {"id":"Q10509612","verdict":"keep","countries":["SE"],"reason":"Swedish cake, countries empty"}
@@ -95,13 +95,13 @@
 {"id":"Q1052461","verdict":"keep"}
 {"id":"Q1052469","verdict":"keep"}
 {"id":"Q10525017","verdict":"remove","reason":"Hockeypulver is a branded powdered-liquorice candy product."}
-{"id":"Q105264416","verdict":"keep"}
+{"id":"Q105264416","verdict":"keep","countries":["ES"],"reason":"San Blas is Spanish anise feast-day cake."}
 {"id":"Q1052815","verdict":"keep"}
 {"id":"Q105288154","verdict":"keep"}
-{"id":"Q1053103","verdict":"keep"}
+{"id":"Q1053103","verdict":"keep","countries":["US"],"reason":"Pumpkin quick bread is associated with American baking."}
 {"id":"Q105318869","verdict":"remove","reason":"generic term for hot food, not one dish"}
 {"id":"Q105322599","verdict":"remove","reason":"chewing gum product, not a dish"}
-{"id":"Q10532369","verdict":"keep"}
+{"id":"Q10532369","verdict":"keep","countries":["TW"],"reason":"豆簽羹 is Taiwanese bean-strip thick soup."}
 {"id":"Q10532500","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
 {"id":"Q10532570","verdict":"keep"}
 {"id":"Q105333550","verdict":"keep","countries":["FR"],"reason":"French salad, countries empty"}
@@ -111,25 +111,25 @@
 {"id":"Q10535460","verdict":"keep","countries":["SE"],"reason":"Swedish dessert, countries empty"}
 {"id":"Q10535659","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
 {"id":"Q105359471","verdict":"keep","countries":["FR"],"reason":"French dish, countries empty"}
-{"id":"Q105361351","verdict":"keep"}
+{"id":"Q105361351","verdict":"keep","countries":["NL","DE","NO","SE","DK","RU","PL","FI","IS"],"reason":"Salted herring is shared preserved food across Dutch, German, Nordic, Russian and Polish traditions."}
 {"id":"Q105396963","verdict":"keep"}
-{"id":"Q10540862","verdict":"keep"}
+{"id":"Q10540862","verdict":"keep","countries":["DE","SE","JP","US","FR"],"reason":"Strawberry-and-cream sponge cake includes French fraisier alongside German, Swedish, Japanese and American forms."}
 {"id":"Q105411167","verdict":"keep"}
 {"id":"Q10541947","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
-{"id":"Q10542015","verdict":"keep","reason":"Yeasted pancakes are a prepared dish, but the Swedish label is not sufficient country evidence."}
-{"id":"Q10542033","verdict":"keep"}
-{"id":"Q10542408","verdict":"keep"}
+{"id":"Q10542015","verdict":"keep","reason":"The Swedish name identifies this yeasted-pancake version.","countries":["SE"]}
+{"id":"Q10542033","verdict":"remove","reason":"Jätten is a commercial biscuit product rather than generic dish.","countries":[]}
+{"id":"Q10542408","verdict":"keep","countries":["SE","FI","DK","NO"],"reason":"Coffee bread and coffee-break pastries have established Nordic baking associations."}
 {"id":"Q10542917","verdict":"keep"}
 {"id":"Q105429471","verdict":"keep","countries":["KP","KR"],"reason":"Chogyetang is a shared Korean cold chicken soup associated with both Koreas."}
 {"id":"Q10543810","verdict":"keep","countries":["SE"],"reason":"Swedish bread, countries empty"}
-{"id":"Q10544140","verdict":"keep"}
+{"id":"Q10544140","verdict":"remove","reason":"Karuselli is commercial Finnish candy rather than a generic identified sweet.","countries":[]}
 {"id":"Q1054430","verdict":"remove","reason":"Gianchetti are juvenile whitebait, a raw seafood ingredient with no recipe here."}
 {"id":"Q10544495","verdict":"keep"}
 {"id":"Q10545209","verdict":"remove","reason":"second opinion: Kexchoklad is a Cloetta branded wafer bar"}
 {"id":"Q10546582","verdict":"keep"}
 {"id":"Q10546944","verdict":"keep"}
 {"id":"Q10547054","verdict":"keep"}
-{"id":"Q10547680","verdict":"keep"}
+{"id":"Q10547680","verdict":"keep","countries":["SE"],"reason":"The Swedish name supplies a country version for prepared imitation caviar."}
 {"id":"Q105480600","verdict":"keep"}
 {"id":"Q105480717","verdict":"keep"}
 {"id":"Q105481008","verdict":"keep"}
@@ -145,7 +145,7 @@
 {"id":"Q105499976","verdict":"keep"}
 {"id":"Q105501273","verdict":"keep"}
 {"id":"Q105502227","verdict":"keep"}
-{"id":"Q105502704","verdict":"keep"}
+{"id":"Q105502704","verdict":"keep","countries":["TH","VN","ID","PH","MY"],"reason":"The description explicitly identifies Southeast Asian roasted-corn street food, shared by these regional traditions."}
 {"id":"Q105508520","verdict":"keep"}
 {"id":"Q10551237","verdict":"keep"}
 {"id":"Q105513845","verdict":"keep"}
@@ -160,7 +160,7 @@
 {"id":"Q105528411","verdict":"keep"}
 {"id":"Q105529039","verdict":"keep"}
 {"id":"Q105529161","verdict":"keep"}
-{"id":"Q10553438","verdict":"keep"}
+{"id":"Q10553438","verdict":"keep","countries":["DK","FI","SE","NL"],"reason":"Liquorice pipes are generic shaped confectionery with Danish, Finnish, Swedish and Dutch associations."}
 {"id":"Q105535583","verdict":"keep"}
 {"id":"Q105535632","verdict":"keep"}
 {"id":"Q1055395","verdict":"keep"}
@@ -172,7 +172,7 @@
 {"id":"Q105561074","verdict":"keep"}
 {"id":"Q105578604","verdict":"remove","reason":"topic on Swedish desserts, not one dish"}
 {"id":"Q105588044","verdict":"keep"}
-{"id":"Q105590538","verdict":"keep"}
+{"id":"Q105590538","verdict":"keep","countries":["VE","CO","GT","NI"],"reason":"Huevo chimbo is shared by Venezuelan, Colombian, Guatemalan and Nicaraguan sweet traditions."}
 {"id":"Q1055940","verdict":"keep"}
 {"id":"Q105594480","verdict":"keep"}
 {"id":"Q105616883","verdict":"keep"}
@@ -184,7 +184,7 @@
 {"id":"Q10564295","verdict":"keep"}
 {"id":"Q105643832","verdict":"keep","countries":["IT"],"reason":"Italian bread roll, countries empty"}
 {"id":"Q10564512","verdict":"keep","countries":["CN"],"reason":"Chinese noodle dish, countries empty"}
-{"id":"Q105646100","verdict":"keep"}
+{"id":"Q105646100","verdict":"keep","countries":["DE"],"reason":"Rotweinbrot is German red-wine bread."}
 {"id":"Q105647365","verdict":"keep"}
 {"id":"Q10564738","verdict":"keep"}
 {"id":"Q105653979","verdict":"keep","countries":["IN"],"reason":"Indian sweet, countries empty"}

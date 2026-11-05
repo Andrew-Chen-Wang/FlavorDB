@@ -7,7 +7,7 @@ type Decision = Target & { verdict: "keep" | "remove"; countries?: string[]; rea
 type Snapshot = {
   baseline: string
   batches: Record<string, Omit<Target, "batch">[]>
-  groups: Record<string, { batches: string[]; targets: number }>
+  groups: Record<string, { batches: string[]; targets: number; extraTargets?: Target[] }>
 }
 const review = import.meta.dirname
 const snapshot = JSON.parse(
@@ -63,7 +63,7 @@ if (dataOnly) {
   for (const [group, assignment] of Object.entries(snapshot.groups).toSorted(([a], [b]) =>
     a.localeCompare(b),
   )) {
-    const expected = assignment.batches.flatMap((batch) =>
+    const expected = assignment.extraTargets ?? assignment.batches.flatMap((batch) =>
       (snapshot.batches[batch] ?? []).map((target) => ({ batch, ...target })),
     )
     total += expected.length

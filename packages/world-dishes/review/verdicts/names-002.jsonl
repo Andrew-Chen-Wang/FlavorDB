@@ -44,13 +44,13 @@
 {"id":"Q105659035","verdict":"keep","countries":["BD","IN"],"reason":"Bengali chhenchki dish, countries empty"}
 {"id":"Q105659038","verdict":"keep","countries":["BD","IN"],"reason":"Bengali chhenchki dish, countries empty"}
 {"id":"Q105659040","verdict":"keep","countries":["BD","IN"],"reason":"Bengali chhenchki dish, countries empty"}
-{"id":"Q105659044","verdict":"keep"}
+{"id":"Q105659044","verdict":"keep","countries":["BD","IN"],"reason":"The chhenchki kind identifies Bengali preparation shared by Bangladesh and India."}
 {"id":"Q105659047","verdict":"keep","countries":["BD","IN"],"reason":"Bengali chhenchki dish, countries empty"}
-{"id":"Q105659354","verdict":"keep"}
+{"id":"Q105659354","verdict":"keep","countries":["CH"],"reason":"Gipfel supplies the Swiss bakery identity for this braided bread."}
 {"id":"Q105659501","verdict":"keep"}
-{"id":"Q105660619","verdict":"keep"}
+{"id":"Q105660619","verdict":"keep","countries":["US"],"reason":"Oat-pulp cookie is retained as an American-style oatmeal-cookie and oat-milk reuse version."}
 {"id":"Q10566528","verdict":"keep"}
-{"id":"Q10567040","verdict":"keep"}
+{"id":"Q10567040","verdict":"keep","countries":["CN","HK"],"reason":"Gaizai crackers are Cantonese biscuits associated with Guangdong and Hong Kong."}
 {"id":"Q10567075","verdict":"keep","countries":["TW"],"reason":"Taiwanese dish, countries empty"}
 {"id":"Q10567133","verdict":"keep","countries":["TW"],"reason":"Taiwanese dish, countries empty"}
 {"id":"Q105671386","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
@@ -174,11 +174,11 @@
 {"id":"Q105671772","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q105671817","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q10567313","verdict":"keep","countries":["TW"],"reason":"Taiwanese street food, countries empty"}
-{"id":"Q10567403","verdict":"keep"}
+{"id":"Q10567403","verdict":"keep","countries":["TW"],"reason":"龍鳳腿 identifies Taiwanese fried street food."}
 {"id":"Q105674767","verdict":"keep","countries":["IN"],"reason":"Thalassery (Kerala) dish, countries empty"}
-{"id":"Q105674909","verdict":"keep"}
+{"id":"Q105674909","verdict":"keep","countries":["BD","IN"],"reason":"Kaliya is shared Bengali rich-curry preparation."}
 {"id":"Q105675486","verdict":"keep","countries":["AT","IT"],"reason":"Tyrolean bread belongs to the shared Austrian and Italian Tyrol region."}
-{"id":"Q105675701","verdict":"keep"}
+{"id":"Q105675701","verdict":"keep","countries":["DE","AT"],"reason":"Poppy-cheese pastry sticks have German and Austrian bakery associations."}
 {"id":"Q1056769","verdict":"keep"}
 {"id":"Q105685268","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q105685290","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
@@ -210,22 +210,22 @@
 {"id":"Q105685662","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q105685663","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q105685664","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
-{"id":"Q105686321","verdict":"keep"}
-{"id":"Q105686326","verdict":"keep"}
-{"id":"Q105687149","verdict":"keep"}
+{"id":"Q105686321","verdict":"keep","countries":["US"],"reason":"Refrigerator cookies are American icebox cookies."}
+{"id":"Q105686326","verdict":"keep","countries":["US"],"reason":"Pinwheel icebox cookies belong to American cookie baking."}
+{"id":"Q105687149","verdict":"keep","countries":["DE"],"reason":"The German mustard-twist name supplies last-resort bakery country association."}
 {"id":"Q105687297","verdict":"keep"}
-{"id":"Q105688475","verdict":"keep"}
-{"id":"Q105700896","verdict":"keep"}
+{"id":"Q105688475","verdict":"keep","countries":["DE"],"reason":"Sonnenblumenkernbrot is established German sunflower-seed bread."}
+{"id":"Q105700896","verdict":"keep","countries":["DE","AT"],"reason":"The red-cabbage pastry spiral name fits German and Austrian savoury baking."}
 {"id":"Q10570326","verdict":"keep","countries":["SE"],"reason":"Swedish fish dish, countries empty"}
 {"id":"Q105709751","verdict":"remove","reason":"second opinion: bel er sarbat is a bael-fruit drink, not a dish"}
-{"id":"Q10571218","verdict":"keep"}
-{"id":"Q105720218","verdict":"keep"}
+{"id":"Q10571218","verdict":"keep","countries":["SE"],"reason":"Retain the Swedish named candy form with Swedish last-resort language association."}
+{"id":"Q105720218","verdict":"keep","countries":["JP","FR","US"],"reason":"Chocolate cheese tarts have Japanese cheese-tart and French/American pastry associations."}
 {"id":"Q105721637","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q105721780","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
-{"id":"Q105721866","verdict":"keep"}
-{"id":"Q105722416","verdict":"keep"}
+{"id":"Q105721866","verdict":"keep","countries":["US","FR"],"reason":"Pumpkin tart retains American pumpkin-baking and French tart associations."}
+{"id":"Q105722416","verdict":"keep","countries":["CH","DE"],"reason":"Muesli bread rolls have Swiss and German bakery associations."}
 {"id":"Q105724270","verdict":"keep","countries":["AL"],"reason":"Albanian dish, countries empty"}
-{"id":"Q105724774","verdict":"keep"}
+{"id":"Q105724774","verdict":"keep","countries":["FR","ES","IT","GB","PT"],"reason":"Almond tarts include French, Spanish, Italian, British Bakewell and Portuguese almond-tart traditions."}
 {"id":"Q105724832","verdict":"keep"}
 {"id":"Q105727877","verdict":"keep"}
 {"id":"Q105742167","verdict":"keep"}
@@ -237,7 +237,7 @@
 {"id":"Q105754070","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q105754147","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q10575585","verdict":"keep"}
-{"id":"Q105761964","verdict":"keep"}
+{"id":"Q105761964","verdict":"keep","countries":["AT","DE"],"reason":"Kaiserschnitzel has Austrian and German schnitzel associations."}
 {"id":"Q105761993","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q1057649","verdict":"keep"}
 {"id":"Q10578820","verdict":"keep"}
@@ -246,11 +246,11 @@
 {"id":"Q105809316","verdict":"keep"}
 {"id":"Q105812795","verdict":"keep"}
 {"id":"Q105819446","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
-{"id":"Q105822342","verdict":"keep"}
-{"id":"Q105847250","verdict":"keep"}
-{"id":"Q10585216","verdict":"keep"}
-{"id":"Q10585919","verdict":"keep"}
-{"id":"Q10586818","verdict":"keep"}
+{"id":"Q105822342","verdict":"keep","countries":["BD","IN"],"reason":"Retain the named Mashi rice preparation with its South Asian country associations."}
+{"id":"Q105847250","verdict":"keep","countries":["US"],"reason":"Fruit pizza is an American circular fruit-topped dessert."}
+{"id":"Q10585216","verdict":"keep","countries":["SE"],"reason":"Milanopinne is Swedish pastry; the Milan reference does not establish Italian origin."}
+{"id":"Q10585919","verdict":"keep","countries":["SE"],"reason":"Mintkyssar are Swedish peppermint confections."}
+{"id":"Q10586818","verdict":"keep","countries":["SE","DE","GB","US"],"reason":"Soft gingerbread cakes have Swedish, German, British and American baking traditions."}
 {"id":"Q105882584","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q105882587","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q105882588","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}

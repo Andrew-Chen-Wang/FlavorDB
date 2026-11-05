@@ -6,46 +6,46 @@
 {"id":"Q25220508","verdict":"remove","reason":"brand of sweets"}
 {"id":"Q25220535","verdict":"keep"}
 {"id":"Q25220557","verdict":"keep"}
-{"id":"Q25220562","verdict":"keep"}
-{"id":"Q25220878","verdict":"keep"}
+{"id":"Q25220562","verdict":"keep","countries":["GB"],"reason":"Cheese and tomato sandwich is an established British sandwich."}
+{"id":"Q25220878","verdict":"keep","countries":["ES","FR"],"reason":"Chilled melon soup is established Spanish and French fruit-soup cooking."}
 {"id":"Q25221268","verdict":"keep","countries":["CZ"],"reason":"Czech open sandwich; added country"}
 {"id":"Q25221462","verdict":"keep","countries":["IT"],"reason":"Italian soup; added country"}
 {"id":"Q25221573","verdict":"keep"}
 {"id":"Q25221673","verdict":"keep","countries":["US"],"reason":"Italian-American roll; added country"}
-{"id":"Q25221878","verdict":"keep"}
+{"id":"Q25221878","verdict":"keep","countries":["CK","PF"],"reason":"Poke is the cooked fruit-and-starch dessert of the Cook Islands and French Polynesia, not Hawaiian fish poke."}
 {"id":"Q25223099","verdict":"keep"}
-{"id":"Q25223685","verdict":"keep"}
+{"id":"Q25223685","verdict":"keep","countries":["IT"],"reason":"Puls is the farro porridge of ancient Rome."}
 {"id":"Q2524291","verdict":"keep"}
 {"id":"Q2527136","verdict":"keep","countries":["TN","LY"],"reason":"Second opinion: bsisa has Tunisian and Libyan traditions."}
 {"id":"Q25302535","verdict":"keep","countries":["IN"],"reason":"Bengali sweet; added country"}
 {"id":"Q25302577","verdict":"keep"}
 {"id":"Q25302803","verdict":"keep"}
-{"id":"Q2530462","verdict":"keep"}
+{"id":"Q2530462","verdict":"keep","countries":["NL"],"reason":"Christoffel pastry is a Dutch meringue and chocolate-mousse pastry."}
 {"id":"Q253209","verdict":"keep"}
 {"id":"Q25327061","verdict":"keep"}
 {"id":"Q25327105","verdict":"keep"}
 {"id":"Q2533856","verdict":"keep"}
 {"id":"Q25339635","verdict":"keep","countries":["US"],"reason":"Second opinion: Texas Tommy is a Philadelphia-area American hot dog (https://relishridley.com/menu/relish-401-macdade-boulevard)."}
-{"id":"Q2535744","verdict":"keep","countries":[],"reason":"Second opinion: generic malt bread; a Dutch label alone does not establish a country."}
-{"id":"Q25377559","verdict":"keep"}
+{"id":"Q2535744","verdict":"keep","countries":["NL","BE"],"reason":"Second opinion: moutbrood is Dutch-language malt bread shared by the Netherlands and Belgium."}
+{"id":"Q25377559","verdict":"keep","countries":["US","CA"],"reason":"Granola bars are established North American snack confections."}
 {"id":"Q25380201","verdict":"keep","countries":["FR"],"reason":"Second opinion: grand brown stock belongs to the French classical cooking repertoire; German translation does not make it German."}
 {"id":"Q25381365","verdict":"keep"}
 {"id":"Q25381779","verdict":"keep"}
 {"id":"Q25383130","verdict":"keep","countries":["SN"],"reason":"Senegalese soup; added country"}
 {"id":"Q25383277","verdict":"keep"}
-{"id":"Q25386716","verdict":"keep"}
+{"id":"Q25386716","verdict":"keep","countries":["BB","TT","BS"],"reason":"Pig foot souse is a prepared pickled-pork dish of Barbados, Trinidad and Tobago, and the Bahamas."}
 {"id":"Q25387730","verdict":"keep","countries":["TH"],"reason":"Thai-Chinese noodle dish; added country"}
 {"id":"Q25388438","verdict":"keep"}
 {"id":"Q25388495","verdict":"keep"}
 {"id":"Q25388744","verdict":"keep"}
 {"id":"Q25388871","verdict":"keep","countries":["PL","DE"],"reason":"Second opinion: Warmbrunn pastry has historical German/Silesian and current Polish regional ties."}
-{"id":"Q25388897","verdict":"keep"}
+{"id":"Q25388897","verdict":"keep","countries":["TN"],"reason":"Doigts de Fatma are Tunisian stuffed pastry fingers."}
 {"id":"Q25389845","verdict":"keep","countries":["RU"],"reason":"Russian croutons; added country"}
 {"id":"Q253899","verdict":"keep","countries":["AT"],"reason":"Austrian dish; added country"}
 {"id":"Q25395624","verdict":"keep"}
 {"id":"Q25404221","verdict":"keep"}
-{"id":"Q25405067","verdict":"keep","countries":[],"reason":"Second opinion: generic pork-head preparation; a Spanish label alone does not establish Spain."}
-{"id":"Q25409651","verdict":"keep"}
+{"id":"Q25405067","verdict":"keep","countries":["ES","MX"],"reason":"Cabeza de cerdo is a prepared pork-head dish in Spanish and Mexican cooking; the entry identifies a pork dish."}
+{"id":"Q25409651","verdict":"remove","countries":[],"reason":"Peixinho is presented as a beef cut, without a recipe or specific cooked preparation."}
 {"id":"Q25410968","verdict":"keep"}
 {"id":"Q25412980","verdict":"keep","countries":["PL"],"reason":"Polish pastry; added country"}
 {"id":"Q25413607","verdict":"keep"}
@@ -55,7 +55,7 @@
 {"id":"Q25429699","verdict":"keep"}
 {"id":"Q25429735","verdict":"keep","countries":["PT","BR"],"reason":"Second opinion: bom-bocado has Portuguese and Brazilian confection traditions."}
 {"id":"Q25431007","verdict":"keep","countries":["BR"],"reason":"Parana dish; added country"}
-{"id":"Q2545009","verdict":"keep"}
+{"id":"Q2545009","verdict":"keep","countries":["GB"],"reason":"Liquorice allsorts are a British mixed liquorice confection."}
 {"id":"Q25450904","verdict":"keep"}
 {"id":"Q25452130","verdict":"remove","reason":"branded packaged meat-alternative product"}
 {"id":"Q25452135","verdict":"keep"}
@@ -87,22 +87,22 @@
 {"id":"Q2550270","verdict":"keep","countries":["BE"],"reason":"Belgian specialty; added country"}
 {"id":"Q255048","verdict":"keep"}
 {"id":"Q25512128","verdict":"keep","countries":["ES"],"reason":"Galician sweet; added country"}
-{"id":"Q2551579","verdict":"keep","countries":[],"reason":"Second opinion: remove parenthetical disambiguator; generic water soup is not established as exclusively German.","name":"Wassersuppe"}
+{"id":"Q2551579","verdict":"keep","countries":["DE","AT"],"reason":"Wassersuppe is a German and Austrian simple soup preparation.","name":"Wassersuppe"}
 {"id":"Q25520186","verdict":"keep","countries":["UZ"],"reason":"Uzbek dish; added country"}
-{"id":"Q25525331","verdict":"keep"}
-{"id":"Q25528989","verdict":"keep"}
+{"id":"Q25525331","verdict":"keep","countries":["UZ","TJ"],"reason":"Shavla is an Uzbek and Tajik rice porridge dish."}
+{"id":"Q25528989","verdict":"keep","countries":["UZ","TJ"],"reason":"Khalvaytar is a Central Asian flour-halva preparation associated with Uzbekistan and Tajikistan."}
 {"id":"Q25536192","verdict":"keep"}
-{"id":"Q25536638","verdict":"keep","countries":[],"reason":"Second opinion: generic crocodile-shaped meat pie; Azerbaijani label alone does not establish a country."}
+{"id":"Q25536638","verdict":"keep","countries":["AZ"],"reason":"The Azerbaijani title describes a crocodile-shaped meat pie; the supplied name provides the cuisine anchor."}
 {"id":"Q25537158","verdict":"keep"}
 {"id":"Q25537356","verdict":"keep"}
 {"id":"Q2553796","verdict":"keep","countries":["DE"],"reason":"Hessian dish; added country"}
 {"id":"Q2553843","verdict":"keep","countries":["DE"],"reason":"Hessian sausage; added country"}
-{"id":"Q25538525","verdict":"keep"}
+{"id":"Q25538525","verdict":"keep","countries":["IN","PK"],"reason":"Doli roti is the fermented Punjabi bread shared across India and Pakistan."}
 {"id":"Q25542894","verdict":"keep"}
 {"id":"Q25543169","verdict":"keep"}
 {"id":"Q25551956","verdict":"keep","countries":["IN"],"reason":"South Indian tiffin; added country"}
 {"id":"Q2555488","verdict":"keep"}
-{"id":"Q25557652","verdict":"keep"}
+{"id":"Q25557652","verdict":"keep","countries":["GB"],"reason":"Bulls-eye is a British peppermint boiled sweet."}
 {"id":"Q25558267","verdict":"keep","countries":["GB"],"reason":"Welsh pudding; added country"}
 {"id":"Q2555906","verdict":"keep","countries":["NL"],"reason":"Dutch cookie; added country"}
 {"id":"Q25563576","verdict":"keep","countries":["AL"],"reason":"Albanian dish; added country"}
@@ -128,28 +128,28 @@
 {"id":"Q2563471","verdict":"keep"}
 {"id":"Q25640114","verdict":"keep","countries":["NL"],"reason":"Limburg vlaai; added country"}
 {"id":"Q25640280","verdict":"keep"}
-{"id":"Q25640342","verdict":"keep","countries":[],"reason":"Second opinion: endive with cracklings has no established country in the original entry."}
+{"id":"Q25640342","verdict":"keep","countries":["NL","BE"],"reason":"Endive with cracklings is established Dutch and Flemish vegetable cooking."}
 {"id":"Q25640379","verdict":"keep"}
-{"id":"Q25640396","verdict":"keep"}
+{"id":"Q25640396","verdict":"keep","countries":["FR"],"reason":"Chicken ragout is a French stew preparation."}
 {"id":"Q25640423","verdict":"keep","countries":["NL"],"reason":"Limburg vlaai; added country"}
 {"id":"Q25640478","verdict":"remove","reason":"drink (bitters liqueur)"}
-{"id":"Q25640559","verdict":"keep"}
-{"id":"Q25640632","verdict":"keep"}
+{"id":"Q25640559","verdict":"keep","countries":["NL","BE"],"reason":"Boumsjpek is a Limburgish prepared dish, spanning Dutch and Belgian Limburg."}
+{"id":"Q25640632","verdict":"keep","countries":["NL","BE"],"reason":"Klopsjènk is a Limburgish dish, associated with Dutch and Belgian Limburg."}
 {"id":"Q25643944","verdict":"keep","countries":["IN","BD"],"reason":"Second opinion: alu bhaja is shared Bengali cooking in India and Bangladesh."}
 {"id":"Q25643982","verdict":"keep","countries":["IN"],"reason":"Odisha sweet; added country"}
 {"id":"Q2564638","verdict":"keep"}
 {"id":"Q2565281","verdict":"keep"}
-{"id":"Q25659210","verdict":"keep"}
+{"id":"Q25659210","verdict":"keep","countries":["NO","SE","FI"],"reason":"The Northern Sami gumposat belongs to Sami cooking across Norway, Sweden and Finland."}
 {"id":"Q2565922","verdict":"keep"}
 {"id":"Q256622","verdict":"keep"}
 {"id":"Q25662717","verdict":"keep","countries":["PH"],"reason":"Filipino dish; added country"}
 {"id":"Q25673308","verdict":"keep","countries":["CN","IN","NP","BT"],"reason":"Second opinion: Tibetan Losar food belongs to the shared Tibetan cultural region."}
 {"id":"Q25674234","verdict":"keep"}
 {"id":"Q25679113","verdict":"keep"}
-{"id":"Q25679249","verdict":"keep"}
+{"id":"Q25679249","verdict":"keep","countries":["FI","SE","NO"],"reason":"Lingonberry pie is established Finnish, Swedish and Norwegian baking."}
 {"id":"Q25681686","verdict":"keep","countries":["NL"],"reason":"Dutch-Limburgish pastry; added country"}
 {"id":"Q25681718","verdict":"keep","countries":["NL"],"reason":"Dutch dish; added country"}
-{"id":"Q25685948","verdict":"keep"}
+{"id":"Q25685948","verdict":"keep","countries":["BO","PE"],"reason":"The Aymara kaya phuthi belongs to Andean Aymara cooking in Bolivia and Peru."}
 {"id":"Q25687438","verdict":"keep","countries":["RU"],"reason":"Erzya dish, Russia; added country"}
 {"id":"Q2568765","verdict":"keep"}
 {"id":"Q25688465","verdict":"keep"}
@@ -158,7 +158,7 @@
 {"id":"Q25695452","verdict":"keep"}
 {"id":"Q25697201","verdict":"keep"}
 {"id":"Q25700572","verdict":"keep"}
-{"id":"Q25702519","verdict":"keep"}
+{"id":"Q25702519","verdict":"keep","countries":["CW","AW","BQ"],"reason":"Second opinion: tentalaria is a Dutch Caribbean nut confection associated with Curacao, Aruba and Bonaire, not specifically Surinamese."}
 {"id":"Q25703460","verdict":"keep","countries":["RU"],"reason":"Lak dish, Dagestan; added country"}
 {"id":"Q25704086","verdict":"keep","countries":["ZA"],"reason":"Zulu dish; added country"}
 {"id":"Q25704451","verdict":"keep"}
@@ -170,7 +170,7 @@
 {"id":"Q258279","verdict":"keep"}
 {"id":"Q25842375","verdict":"remove","reason":"overview article of street food, not one dish"}
 {"id":"Q258455","verdict":"keep"}
-{"id":"Q2585262","verdict":"keep"}
+{"id":"Q2585262","verdict":"keep","countries":["NL"],"reason":"Although named Swedish white bread, the entry explicitly identifies this as Dutch bread."}
 {"id":"Q2587663","verdict":"keep"}
 {"id":"Q259100","verdict":"keep"}
 {"id":"Q2591051","verdict":"keep"}
@@ -181,7 +181,7 @@
 {"id":"Q2595324","verdict":"keep"}
 {"id":"Q259550","verdict":"keep"}
 {"id":"Q2595950","verdict":"keep"}
-{"id":"Q2597970","verdict":"keep","countries":[],"reason":"Second opinion: generic salmon salad; Dutch label alone does not establish a national dish."}
+{"id":"Q2597970","verdict":"keep","countries":["NL","BE"],"reason":"Second opinion: zalmsalade is Dutch-language salmon salad shared by Dutch and Belgian cooking."}
 {"id":"Q259874","verdict":"keep","countries":["SG","MY","TH","ID"],"reason":"Second opinion: curry puffs have Singaporean, Malaysian, Thai and Indonesian traditions."}
 {"id":"Q25997959","verdict":"keep"}
 {"id":"Q2599893","verdict":"keep"}
@@ -234,7 +234,7 @@
 {"id":"Q2640746","verdict":"keep","countries":["RU"],"reason":"Tatar dish; added country"}
 {"id":"Q2641023","verdict":"keep","countries":["RU","KZ"],"reason":"Tatar and Bashkir pastry; added RU"}
 {"id":"Q2641073","verdict":"remove","reason":"Second opinion: Ganda Ham is a commercial ham brand, not a generic regional ham (https://www.ganda.be/wp-content/uploads/2023/09/0120_ganda_ham_kort.pdf)."}
-{"id":"Q2641090","verdict":"keep"}
+{"id":"Q2641090","verdict":"keep","countries":["RU","JP"],"reason":"Red caviar is prepared fish roe with established Russian and Japanese associations."}
 {"id":"Q2642060","verdict":"keep","countries":["BR","PT"],"reason":"Broa is also Portuguese; added country"}
 {"id":"Q264215","verdict":"keep"}
 {"id":"Q2643588","verdict":"keep","countries":["HK"],"reason":"Hong Kong bun; added country"}
@@ -250,7 +250,7 @@
 {"id":"Q2659824","verdict":"keep","countries":["PE","CU","PR","CO"],"reason":"Second opinion: papa rellena has Peruvian, Cuban, Puerto Rican and Colombian traditions."}
 {"id":"Q2662315","verdict":"keep"}
 {"id":"Q2663339","verdict":"keep","countries":["DE"],"reason":"German soup; added country"}
-{"id":"Q2663499","verdict":"keep"}
+{"id":"Q2663499","verdict":"keep","countries":["NL"],"reason":"Schoten is a Dutch bread roll."}
 {"id":"Q2663815","verdict":"keep"}
 {"id":"Q266529","verdict":"remove","reason":"generic category term (Mehlspeise), not one dish"}
 {"id":"Q266540","verdict":"keep"}
@@ -275,10 +275,10 @@
 {"id":"Q267554","verdict":"keep"}
 {"id":"Q26769086","verdict":"keep","countries":["CN"],"reason":"Chinese mooncake; added country"}
 {"id":"Q26769088","verdict":"keep"}
-{"id":"Q267726","verdict":"keep"}
+{"id":"Q267726","verdict":"keep","countries":["IT","GR","RU","UA","BG","RO"],"reason":"Easter bread has established Italian, Greek, Russian, Ukrainian, Bulgarian and Romanian traditions."}
 {"id":"Q267763","verdict":"keep"}
-{"id":"Q2678876","verdict":"keep","countries":[],"reason":"Second opinion: generic farmers omelette; Dutch label alone does not establish a country."}
-{"id":"Q26791887","verdict":"keep"}
+{"id":"Q2678876","verdict":"keep","countries":["NL","BE"],"reason":"Second opinion: boerenomelet is a Dutch-language farmers omelette shared by the Netherlands and Belgium."}
+{"id":"Q26791887","verdict":"keep","countries":["GB","US"],"reason":"Sweet pie is a prepared pastry with established British and American traditions."}
 {"id":"Q2679937","verdict":"keep"}
 {"id":"Q26806341","verdict":"keep"}
 {"id":"Q268114","verdict":"keep"}
@@ -286,15 +286,15 @@
 {"id":"Q26857408","verdict":"keep","countries":["JP"],"reason":"Japanese dish; added country"}
 {"id":"Q26857710","verdict":"keep","countries":["RU"],"reason":"Chechen dish; added country"}
 {"id":"Q2687127","verdict":"keep"}
-{"id":"Q26877711","verdict":"keep","countries":[],"reason":"Second opinion: generic milk jam; the German label alone does not establish Germany."}
-{"id":"Q2688167","verdict":"keep"}
+{"id":"Q26877711","verdict":"keep","countries":["FR","AR","UY"],"reason":"Milk confiture is French confiture de lait and the Argentine and Uruguayan dulce de leche tradition."}
+{"id":"Q2688167","verdict":"keep","countries":["IN","PK","BD","NP","LK"],"reason":"Indian bread is the broad South Asian prepared-flatbread tradition shared across these countries."}
 {"id":"Q26884006","verdict":"keep"}
-{"id":"Q26884481","verdict":"keep"}
+{"id":"Q26884481","verdict":"keep","countries":["NL","BE"],"reason":"Pletskeskook is a Limburgish biscuit cake of Dutch and Belgian Limburg."}
 {"id":"Q268857","verdict":"keep"}
 {"id":"Q26897677","verdict":"keep"}
 {"id":"Q2691193","verdict":"keep","countries":["NL"],"reason":"Dutch porridge; added country"}
 {"id":"Q26928862","verdict":"keep","countries":["NL"],"reason":"Dutch bread; added country"}
-{"id":"Q26936785","verdict":"keep"}
+{"id":"Q26936785","verdict":"remove","countries":[],"reason":"Unplaceable entry: only the ambiguous name Macha and confectionery classification are supplied; no language, description, recipe or regional evidence identifies this particular food."}
 {"id":"Q26936786","verdict":"keep"}
 {"id":"Q26936803","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish; added countries"}
 {"id":"Q2695207","verdict":"keep","countries":["FR"],"reason":"French pastry; added country"}

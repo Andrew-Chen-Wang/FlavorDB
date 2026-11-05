@@ -12,7 +12,7 @@
 {"id":"Q4381008","verdict":"keep"}
 {"id":"Q4381357","verdict":"keep"}
 {"id":"Q4381782","verdict":"keep"}
-{"id":"Q4382275","verdict":"keep"}
+{"id":"Q4382275","verdict":"keep","countries":["US","GB"],"reason":"Pot pie is an established American and British savory pie."}
 {"id":"Q4383705","verdict":"keep"}
 {"id":"Q4384100","verdict":"keep"}
 {"id":"Q4385016","verdict":"keep"}
@@ -30,54 +30,54 @@
 {"id":"Q44080298","verdict":"keep","countries":["IN"],"reason":"countries were empty; sweet of Bengal"}
 {"id":"Q440884","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pork dish"}
 {"id":"Q44130098","verdict":"keep","countries":["IN"],"reason":"countries were empty; Bengali sweet"}
-{"id":"Q4413207","verdict":"keep"}
-{"id":"Q44192309","verdict":"keep"}
+{"id":"Q4413207","verdict":"keep","countries":["SE"],"reason":"Nävgröt is explicitly Värmland Swedish porridge."}
+{"id":"Q44192309","verdict":"keep","countries":["MX"],"reason":"Aporreadillo is explicitly Mexican."}
 {"id":"Q4421267","verdict":"keep"}
 {"id":"Q4425232","verdict":"remove","reason":"drink (Polish blackcurrant vodka liqueur), not a dish"}
 {"id":"Q4425569","verdict":"keep"}
-{"id":"Q4426758","verdict":"keep"}
-{"id":"Q4430349","verdict":"keep"}
+{"id":"Q4426758","verdict":"keep","countries":["CN","KR","JP"],"reason":"Fermented bean paste is established Chinese, Korean and Japanese preparation."}
+{"id":"Q4430349","verdict":"keep","countries":["RU"],"reason":"Sochivo is the Russian ritual grain dish."}
 {"id":"Q443962","verdict":"keep"}
-{"id":"Q4443389","verdict":"keep"}
+{"id":"Q4443389","verdict":"keep","countries":["FR"],"reason":"Strasbourg pie is French Alsatian pâté pastry."}
 {"id":"Q4445281","verdict":"keep"}
-{"id":"Q4448062","verdict":"keep"}
+{"id":"Q4448062","verdict":"keep","countries":["FR","CH","US"],"reason":"Cheese soup is established French, Swiss and American cooking."}
 {"id":"Q44506308","verdict":"keep"}
 {"id":"Q4451119","verdict":"keep"}
 {"id":"Q4452497","verdict":"keep"}
 {"id":"Q44541","verdict":"keep"}
 {"id":"Q4456752","verdict":"keep"}
-{"id":"Q4462874","verdict":"keep"}
+{"id":"Q4462874","verdict":"remove","countries":[],"reason":"Three Pies identifies a ritual arrangement of existing Ossetian pies, rather than a distinct recipe or dish."}
 {"id":"Q446578","verdict":"keep"}
 {"id":"Q447296","verdict":"keep"}
-{"id":"Q448043","verdict":"keep"}
+{"id":"Q448043","verdict":"keep","countries":["IS"],"reason":"Hangikjöt is Icelandic smoked lamb."}
 {"id":"Q44835923","verdict":"remove","reason":"category (product classification 'cookies, not crackers'), not one dish"}
 {"id":"Q44843044","verdict":"remove","reason":"category (product classification 'chocolate and chocolate products'), not one dish"}
-{"id":"Q449011","verdict":"keep"}
+{"id":"Q449011","verdict":"keep","countries":["US","CH"],"reason":"Instant soup is a prepared convenience food with American and Swiss industrial-soup associations."}
 {"id":"Q44909552","verdict":"keep"}
 {"id":"Q4493304","verdict":"keep"}
-{"id":"Q449506","verdict":"keep"}
-{"id":"Q4497819","verdict":"keep"}
+{"id":"Q449506","verdict":"remove","countries":[],"reason":"Goat meat is raw meat from an animal, with no recipe or specified preparation."}
+{"id":"Q4497819","verdict":"keep","countries":["RU"],"reason":"Khinkal is associated with Dagestani and North Caucasian cooking in Russia."}
 {"id":"Q4499369","verdict":"keep"}
 {"id":"Q4499565","verdict":"keep","countries":["AR"],"reason":"countries were empty; description says Argentinean dish"}
 {"id":"Q4501320","verdict":"keep"}
-{"id":"Q4502669","verdict":"keep"}
+{"id":"Q4502669","verdict":"keep","countries":["RU"],"reason":"Khychyn is the Karachay-Balkar filled flatbread of Russia’s North Caucasus."}
 {"id":"Q4503220","verdict":"keep","countries":["ES"],"reason":"countries were empty; Toledo, Spain"}
 {"id":"Q4506424","verdict":"keep"}
 {"id":"Q4506872","verdict":"keep"}
-{"id":"Q451039","verdict":"keep"}
-{"id":"Q45136345","verdict":"keep"}
+{"id":"Q451039","verdict":"keep","countries":["DE"],"reason":"Leipziger Allerlei is the German Leipzig vegetable dish."}
+{"id":"Q45136345","verdict":"keep","countries":["CA"],"reason":"Paillasson de l’Isle d’Orléans is explicitly Quebec cheese."}
 {"id":"Q4515956","verdict":"keep","countries":["ES"],"reason":"countries were empty; Spanish stew"}
 {"id":"Q4516114","verdict":"remove","reason":"branded product (Chipwich ice cream sandwich brand)"}
-{"id":"Q45164783","verdict":"keep"}
+{"id":"Q45164783","verdict":"keep","countries":["DK"],"reason":"Postej is Danish meat, liver or fish pâté."}
 {"id":"Q4516736","verdict":"keep"}
 {"id":"Q4517033","verdict":"keep"}
-{"id":"Q4518649","verdict":"keep"}
+{"id":"Q4518649","verdict":"keep","countries":["RU","IR"],"reason":"Beluga caviar is a prepared roe delicacy with Russian and Iranian Caspian traditions."}
 {"id":"Q4520152","verdict":"keep"}
 {"id":"Q4522744","verdict":"keep"}
 {"id":"Q452383","verdict":"keep"}
 {"id":"Q4526137","verdict":"keep"}
 {"id":"Q453174","verdict":"keep"}
-{"id":"Q4531863","verdict":"keep"}
+{"id":"Q4531863","verdict":"keep","countries":["NL"],"reason":"Slavink is Dutch bacon-wrapped minced meat."}
 {"id":"Q45344116","verdict":"keep"}
 {"id":"Q4535039","verdict":"keep"}
 {"id":"Q453741","verdict":"keep"}
@@ -85,18 +85,18 @@
 {"id":"Q4544654","verdict":"keep"}
 {"id":"Q4545971","verdict":"keep"}
 {"id":"Q4550892","verdict":"remove","reason":"packaged product (N.K. Hurst 15 bean soup mix)"}
-{"id":"Q4560594","verdict":"keep"}
+{"id":"Q4560594","verdict":"keep","countries":["SE","NO","DK","FI"],"reason":"Layered cream cake is explicitly Nordic and established in Swedish, Norwegian, Danish and Finnish baking."}
 {"id":"Q457255","verdict":"keep"}
-{"id":"Q45746754","verdict":"keep"}
+{"id":"Q45746754","verdict":"keep","countries":["IT"],"reason":"Risotto col puntèl is Italian Mantuan rice cooking."}
 {"id":"Q45790414","verdict":"keep"}
 {"id":"Q45809044","verdict":"keep","countries":["IN","PK","BD","NP"],"reason":"Second opinion: kheer is shared Indian, Pakistani, Bangladeshi and Nepali rice pudding."}
 {"id":"Q45849","verdict":"keep"}
-{"id":"Q4589121","verdict":"keep"}
-{"id":"Q45901803","verdict":"keep"}
-{"id":"Q45912917","verdict":"keep"}
+{"id":"Q4589121","verdict":"keep","countries":["NO"],"reason":"Boknafisk is Norwegian semi-dried fish."}
+{"id":"Q45901803","verdict":"keep","countries":["KR"],"reason":"Chapssal doughnut is explicitly Korean glutinous-rice doughnut."}
+{"id":"Q45912917","verdict":"remove","countries":[],"reason":"Cocoa here is explicitly an intermediate flavoring/ingredient preceding chocolate, not a distinct finished dish."}
 {"id":"Q46070600","verdict":"keep"}
 {"id":"Q4609537","verdict":"remove","reason":"event (2007 food contamination scare), not a dish"}
-{"id":"Q461919","verdict":"keep"}
+{"id":"Q461919","verdict":"keep","countries":["JP"],"reason":"Kurume ramen is Japanese regional tonkotsu ramen."}
 {"id":"Q46208","verdict":"keep"}
 {"id":"Q46324654","verdict":"keep"}
 {"id":"Q46349219","verdict":"keep"}
@@ -108,7 +108,7 @@
 {"id":"Q4652020","verdict":"remove","reason":"animal silage fodder, not food for people"}
 {"id":"Q4661429","verdict":"keep"}
 {"id":"Q46623421","verdict":"keep"}
-{"id":"Q4667156","verdict":"keep"}
+{"id":"Q4667156","verdict":"keep","countries":["GB"],"reason":"Abernethy biscuit is a Scottish biscuit."}
 {"id":"Q46705956","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch speculaas biscuit"}
 {"id":"Q4670754","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese candy"}
 {"id":"Q46707672","verdict":"keep"}
@@ -117,21 +117,21 @@
 {"id":"Q467545","verdict":"keep"}
 {"id":"Q4675762","verdict":"keep"}
 {"id":"Q46811683","verdict":"keep"}
-{"id":"Q4683966","verdict":"keep"}
+{"id":"Q4683966","verdict":"keep","countries":["MX"],"reason":"Adobada is explicitly Mexican pork cooking."}
 {"id":"Q4684013","verdict":"keep"}
 {"id":"Q4689116","verdict":"keep"}
 {"id":"Q4689119","verdict":"keep"}
 {"id":"Q46925983","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch confectionery"}
-{"id":"Q4698754","verdict":"keep"}
+{"id":"Q4698754","verdict":"keep","countries":["US"],"reason":"Second opinion: airline chicken is a recognized American restaurant chicken preparation, and this entry explicitly calls it a food dish rather than merely raw meat."}
 {"id":"Q4699128","verdict":"keep"}
-{"id":"Q46995215","verdict":"keep"}
+{"id":"Q46995215","verdict":"keep","countries":["PL"],"reason":"The Rusyn title explicitly identifies Polish borscht."}
 {"id":"Q4699691","verdict":"keep"}
 {"id":"Q4699709","verdict":"keep"}
 {"id":"Q4700271","verdict":"keep"}
-{"id":"Q47002773","verdict":"keep"}
-{"id":"Q47004156","verdict":"keep"}
+{"id":"Q47002773","verdict":"keep","countries":["IT"],"reason":"Chestnut tagliatelle is Italian chestnut-flour pasta."}
+{"id":"Q47004156","verdict":"keep","countries":["JP"],"reason":"Nabari gyujiru is Japanese Iga-beef soup."}
 {"id":"Q47004974","verdict":"keep"}
-{"id":"Q47005562","verdict":"keep"}
+{"id":"Q47005562","verdict":"keep","countries":["PS","JO","LB","SY","IL"],"reason":"Second opinion: mfarakeh also belongs to shared Israeli Levantine cooking."}
 {"id":"Q47005642","verdict":"keep"}
 {"id":"Q4701369","verdict":"keep"}
 {"id":"Q4701955","verdict":"keep"}
@@ -141,9 +141,9 @@
 {"id":"Q47038431","verdict":"keep"}
 {"id":"Q470519","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese rice cake"}
 {"id":"Q4705519","verdict":"keep"}
-{"id":"Q47089226","verdict":"keep"}
+{"id":"Q47089226","verdict":"keep","countries":["KR"],"reason":"Sukhoe is Korean blanched seafood, vegetable or offal preparation."}
 {"id":"Q4720543","verdict":"keep"}
-{"id":"Q473108","verdict":"keep"}
+{"id":"Q473108","verdict":"keep","countries":["DE"],"reason":"Ammerländer Schinken is explicitly North German ham."}
 {"id":"Q473202","verdict":"keep"}
 {"id":"Q47325100","verdict":"keep","countries":["FR"],"reason":"countries were empty; Far Breton, Brittany"}
 {"id":"Q473271","verdict":"keep"}
@@ -157,60 +157,60 @@
 {"id":"Q4741197","verdict":"keep"}
 {"id":"Q4742021","verdict":"keep"}
 {"id":"Q47452383","verdict":"keep","countries":["BE"],"reason":"countries were empty; Brussels biscuit"}
-{"id":"Q47454216","verdict":"keep"}
+{"id":"Q47454216","verdict":"keep","countries":["UA"],"reason":"Smazhenyna is explicitly Ukrainian meat cooking."}
 {"id":"Q4745436","verdict":"keep"}
 {"id":"Q4745482","verdict":"keep"}
 {"id":"Q4745483","verdict":"keep"}
-{"id":"Q47457751","verdict":"keep"}
+{"id":"Q47457751","verdict":"keep","countries":["UA"],"reason":"Puhkeniki is explicitly Ukrainian cooking."}
 {"id":"Q47458616","verdict":"keep"}
-{"id":"Q47464157","verdict":"keep"}
+{"id":"Q47464157","verdict":"keep","countries":["US"],"reason":"Barbecue sandwich is established American barbecue cooking."}
 {"id":"Q47465227","verdict":"keep"}
 {"id":"Q4746811","verdict":"keep"}
-{"id":"Q47471931","verdict":"keep"}
-{"id":"Q47471957","verdict":"keep"}
-{"id":"Q47472036","verdict":"keep"}
-{"id":"Q47472060","verdict":"keep"}
-{"id":"Q47472068","verdict":"keep"}
-{"id":"Q47472092","verdict":"keep"}
-{"id":"Q47472117","verdict":"keep"}
-{"id":"Q47472139","verdict":"keep"}
-{"id":"Q47472145","verdict":"keep"}
-{"id":"Q47472160","verdict":"keep"}
+{"id":"Q47471931","verdict":"keep","countries":["ES","IT"],"reason":"Chorizo pizza combines Spanish sausage and Italian pizza cooking."}
+{"id":"Q47471957","verdict":"keep","countries":["IT"],"reason":"Tuna pizza is an established Italian pizza topping."}
+{"id":"Q47472036","verdict":"keep","countries":["US","GB"],"reason":"Raspberry pie is established American and British fruit-pie baking."}
+{"id":"Q47472060","verdict":"keep","countries":["BR","PH"],"reason":"Papaya jam is established Brazilian and Filipino preserve cooking."}
+{"id":"Q47472068","verdict":"keep","countries":["FR","GB"],"reason":"Pear jam is established French and British preserve cooking."}
+{"id":"Q47472092","verdict":"keep","countries":["US"],"reason":"Lemon soy yogurt is a prepared flavored alternative in American vegan-food cooking."}
+{"id":"Q47472117","verdict":"keep","countries":["FR"],"reason":"Ham croissant is a French filled pastry."}
+{"id":"Q47472139","verdict":"keep","countries":["FR","DE"],"reason":"Cherry jam is established French and German preserve cooking."}
+{"id":"Q47472145","verdict":"keep","countries":["US"],"reason":"Cherry soy yogurt is a prepared flavored alternative in American vegan-food cooking."}
+{"id":"Q47472160","verdict":"keep","countries":["FR"],"reason":"Chocolate croissant belongs to French pastry cooking."}
 {"id":"Q47472163","verdict":"remove","reason":"category (generic 'chocolate dessert'), not one dish"}
-{"id":"Q47472171","verdict":"keep"}
+{"id":"Q47472171","verdict":"keep","countries":["IT"],"reason":"Bolognese pizza combines Italian pizza and Bolognese sauce."}
 {"id":"Q4748563","verdict":"keep"}
 {"id":"Q47487417","verdict":"keep"}
-{"id":"Q47489422","verdict":"keep"}
+{"id":"Q47489422","verdict":"keep","countries":["RS"],"reason":"Tain is explicitly Serbian military bread."}
 {"id":"Q4750734","verdict":"keep"}
-{"id":"Q47508606","verdict":"keep"}
+{"id":"Q47508606","verdict":"keep","countries":["IT"],"reason":"Beef ravioli is Italian filled pasta."}
 {"id":"Q4751737","verdict":"keep"}
-{"id":"Q4752767","verdict":"keep"}
+{"id":"Q4752767","verdict":"keep","countries":["GB"],"reason":"Anchovy essence is an established British prepared fish sauce."}
 {"id":"Q47527989","verdict":"keep"}
 {"id":"Q47530595","verdict":"remove","reason":"category (generic 'savoury pie'), not one dish"}
 {"id":"Q4754537","verdict":"keep"}
-{"id":"Q4764932","verdict":"keep"}
-{"id":"Q4765302","verdict":"keep"}
-{"id":"Q4765304","verdict":"keep"}
+{"id":"Q4764932","verdict":"keep","countries":["US","GB"],"reason":"Animal crackers are established American and British shaped biscuits."}
+{"id":"Q4765302","verdict":"keep","countries":["GB"],"reason":"Aniseed balls are British boiled sweets."}
+{"id":"Q4765304","verdict":"keep","countries":["GB"],"reason":"Aniseed twists are British boiled sweets."}
 {"id":"Q477248","verdict":"remove","reason":"category (generic 'pastry'), not one dish"}
-{"id":"Q4773001","verdict":"keep"}
+{"id":"Q4773001","verdict":"keep","countries":["RU"],"reason":"Qistibi is explicitly Bashkir, Tatar and Udmurt flatbread, associated with Russia."}
 {"id":"Q4774679","verdict":"keep"}
 {"id":"Q4779197","verdict":"keep"}
-{"id":"Q4781270","verdict":"keep"}
-{"id":"Q4781271","verdict":"keep"}
-{"id":"Q4781285","verdict":"keep"}
+{"id":"Q4781270","verdict":"keep","countries":["GB"],"reason":"Apple drops are explicitly British confectionery."}
+{"id":"Q4781271","verdict":"keep","countries":["US","CA"],"reason":"Apple crisp is established American and Canadian fruit dessert cooking."}
+{"id":"Q4781285","verdict":"keep","countries":["HU","SE","DK"],"reason":"Apple soup is established Hungarian, Swedish and Danish fruit-soup cooking."}
 {"id":"Q4782215","verdict":"remove","reason":"branded product (Apteekin salmiakki liquorice brand)"}
 {"id":"Q4783300","verdict":"remove","reason":"category (salad dishes within Arabic cuisine), not one dish"}
 {"id":"Q4784160","verdict":"keep"}
-{"id":"Q4784939","verdict":"keep"}
-{"id":"Q4793849","verdict":"keep"}
-{"id":"Q4794069","verdict":"keep"}
+{"id":"Q4784939","verdict":"keep","countries":["GB"],"reason":"Arbroath smokie is explicitly Scottish smoked haddock."}
+{"id":"Q4793849","verdict":"keep","countries":["NL","BE"],"reason":"Second opinion: maaltijdsalade is Dutch-language meal salad shared with Belgian cooking."}
+{"id":"Q4794069","verdict":"keep","countries":["GB"],"reason":"Army and Navy sweets are traditional British boiled sweets."}
 {"id":"Q4796280","verdict":"keep"}
 {"id":"Q4796283","verdict":"keep"}
 {"id":"Q4796545","verdict":"keep"}
 {"id":"Q48034588","verdict":"keep"}
 {"id":"Q4803469","verdict":"keep"}
 {"id":"Q4804429","verdict":"keep"}
-{"id":"Q4804467","verdict":"keep"}
+{"id":"Q4804467","verdict":"keep","countries":["MX"],"reason":"Cochinita pibil is explicitly Mexican Yucatán pork."}
 {"id":"Q4806808","verdict":"remove","reason":"category (East Asian soups in general), not one dish"}
 {"id":"Q4807004","verdict":"keep"}
 {"id":"Q4811596","verdict":"keep"}
@@ -221,51 +221,51 @@
 {"id":"Q4822264","verdict":"keep"}
 {"id":"Q4822464","verdict":"keep"}
 {"id":"Q4822751","verdict":"keep"}
-{"id":"Q4822752","verdict":"keep"}
-{"id":"Q4823701","verdict":"keep"}
-{"id":"Q4831844","verdict":"keep"}
+{"id":"Q4822752","verdict":"keep","countries":["AF"],"reason":"Ashak is explicitly Afghan dumpling cooking."}
+{"id":"Q4823701","verdict":"keep","countries":["TR"],"reason":"Şekerpare is explicitly Turkish dessert."}
+{"id":"Q4831844","verdict":"keep","countries":["IT","SE","TR","CN"],"reason":"Meatballs have established Italian, Swedish, Turkish and Chinese dish traditions."}
 {"id":"Q4833324","verdict":"keep"}
 {"id":"Q4833482","verdict":"keep"}
 {"id":"Q4833788","verdict":"keep"}
 {"id":"Q4838117","verdict":"keep"}
-{"id":"Q4838284","verdict":"keep"}
+{"id":"Q4838284","verdict":"remove","countries":[],"reason":"Baby Gaga is a specific branded restaurant ice-cream product."}
 {"id":"Q4838579","verdict":"keep"}
-{"id":"Q4838580","verdict":"keep"}
+{"id":"Q4838580","verdict":"keep","countries":["PR"],"reason":"Bacalaíto is explicitly Puerto Rican seafood cooking."}
 {"id":"Q4838581","verdict":"keep"}
 {"id":"Q4838584","verdict":"keep"}
 {"id":"Q4838586","verdict":"keep"}
-{"id":"Q4839946","verdict":"keep"}
-{"id":"Q4839949","verdict":"keep"}
-{"id":"Q4839950","verdict":"keep"}
+{"id":"Q4839946","verdict":"keep","countries":["US","GB"],"reason":"Bacon ice cream is established American and British experimental dessert cooking."}
+{"id":"Q4839949","verdict":"keep","countries":["GB","US"],"reason":"Bacon soup is established British and American cooking."}
+{"id":"Q4839950","verdict":"keep","countries":["US"],"reason":"Bacon sundae is an American prepared dessert type, beyond individual branded versions."}
 {"id":"Q4839953","verdict":"keep"}
 {"id":"Q48405301","verdict":"keep"}
-{"id":"Q4841270","verdict":"keep"}
+{"id":"Q4841270","verdict":"keep","countries":["KR"],"reason":"Baeksuk is Korean boiled meat soup."}
 {"id":"Q4841448","verdict":"keep","countries":["IN"],"reason":"countries were empty; Telangana, India"}
 {"id":"Q4842073","verdict":"keep"}
-{"id":"Q4843156","verdict":"keep"}
+{"id":"Q4843156","verdict":"keep","countries":["KH"],"reason":"Bai pong moan is explicitly Cambodian egg soup."}
 {"id":"Q4843243","verdict":"keep"}
-{"id":"Q484528","verdict":"keep"}
+{"id":"Q484528","verdict":"keep","countries":["KR"],"reason":"Hwangnam bread is explicitly South Korean red-bean pastry."}
 {"id":"Q4845303","verdict":"keep"}
 {"id":"Q4848884","verdict":"keep"}
 {"id":"Q4849055","verdict":"keep"}
-{"id":"Q4849349","verdict":"keep"}
+{"id":"Q4849349","verdict":"keep","countries":["GB"],"reason":"Bakewell pudding is explicitly from Bakewell, England."}
 {"id":"Q4850247","verdict":"keep"}
 {"id":"Q4850672","verdict":"keep"}
 {"id":"Q4850911","verdict":"keep"}
 {"id":"Q48512589","verdict":"keep"}
 {"id":"Q4853511","verdict":"keep"}
-{"id":"Q4853859","verdict":"keep"}
-{"id":"Q4853862","verdict":"keep"}
+{"id":"Q4853859","verdict":"keep","countries":["US"],"reason":"Banana boat is an established American campfire banana dessert."}
+{"id":"Q4853862","verdict":"keep","countries":["PH"],"reason":"Banana cue is explicitly Filipino banana skewer."}
 {"id":"Q4855649","verdict":"keep"}
 {"id":"Q4856836","verdict":"keep"}
-{"id":"Q4857446","verdict":"keep"}
-{"id":"Q4859633","verdict":"keep"}
-{"id":"Q4861163","verdict":"keep"}
-{"id":"Q4861253","verdict":"keep"}
+{"id":"Q4857446","verdict":"keep","countries":["TW"],"reason":"Chhoah-peng is Taiwanese shaved ice."}
+{"id":"Q4859633","verdict":"keep","countries":["US","RS"],"reason":"Barberton chicken is explicitly Serbian-American fried chicken."}
+{"id":"Q4861163","verdict":"keep","countries":["FI","NO","SE","GB"],"reason":"Barley bread is established Finnish, Norwegian, Swedish and British baking."}
+{"id":"Q4861253","verdict":"keep","countries":["GB"],"reason":"Barm cake is explicitly from North West England."}
 {"id":"Q4868531","verdict":"keep"}
 {"id":"Q4868733","verdict":"keep"}
 {"id":"Q4869727","verdict":"keep"}
-{"id":"Q48724049","verdict":"keep"}
+{"id":"Q48724049","verdict":"keep","countries":["IN","PK","BD"],"reason":"Tomato chutney is established Indian, Pakistani and Bangladeshi cooking."}
 {"id":"Q48730021","verdict":"keep","countries":["BD","IN"],"reason":"Second opinion: Bengali mustard sauce is associated with both Bangladesh and India"}
 {"id":"Q48730981","verdict":"keep"}
 {"id":"Q48731366","verdict":"remove","reason":"Second opinion: Pakistani breads is a grouping of breads, not one dish"}
@@ -275,26 +275,26 @@
 {"id":"Q48744234","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese nabemono"}
 {"id":"Q48744745","verdict":"keep"}
 {"id":"Q48744747","verdict":"keep"}
-{"id":"Q48744876","verdict":"keep"}
-{"id":"Q48745423","verdict":"keep"}
+{"id":"Q48744876","verdict":"remove","countries":[],"reason":"Momotarō identifies a branded Japanese ice lolly."}
+{"id":"Q48745423","verdict":"keep","countries":["JP"],"reason":"Ranzan spicy-offal yakisoba is a Japanese regional noodle dish."}
 {"id":"Q48745707","verdict":"keep"}
 {"id":"Q48746044","verdict":"keep"}
-{"id":"Q48746468","verdict":"keep"}
+{"id":"Q48746468","verdict":"remove","countries":[],"reason":"Sky identifies a branded ice-cream product rather than a generic dessert."}
 {"id":"Q48748447","verdict":"keep"}
 {"id":"Q48749228","verdict":"keep"}
-{"id":"Q48750480","verdict":"keep"}
-{"id":"Q48751627","verdict":"keep"}
-{"id":"Q48751767","verdict":"keep"}
+{"id":"Q48750480","verdict":"keep","countries":["JP"],"reason":"Horusoba is Japanese regional offal yakisoba."}
+{"id":"Q48751627","verdict":"keep","countries":["JP"],"reason":"Hannō suiton is a Japanese regional dumpling dish."}
+{"id":"Q48751767","verdict":"keep","countries":["JP"],"reason":"Miso potatoes are Japanese Chichibu fried-potato cooking."}
 {"id":"Q48752050","verdict":"keep"}
-{"id":"Q48752482","verdict":"keep"}
+{"id":"Q48752482","verdict":"remove","countries":[],"reason":"Kaiko no Ōkoku identifies a specific branded silkworm-shaped souvenir confection."}
 {"id":"Q48753429","verdict":"keep","countries":["DE","AT"],"reason":"Second opinion: liver spaetzle has German and Austrian traditions."}
-{"id":"Q48754335","verdict":"keep","reason":"second opinion: real prepared dessert (Errötendes Mädchen), as identified in the review instructions"}
-{"id":"Q48754738","verdict":"keep"}
-{"id":"Q48755607","verdict":"keep"}
-{"id":"Q48756009","verdict":"keep"}
+{"id":"Q48754335","verdict":"keep","reason":"Errötendes Mädchen is a real German dessert; retain with DE as explicitly requested.","countries":["DE"]}
+{"id":"Q48754738","verdict":"keep","countries":["JP"],"reason":"Nbushī is an Okinawan vegetable preparation."}
+{"id":"Q48755607","verdict":"keep","countries":["MQ","GP"],"reason":"Banana gratin is established French Caribbean cooking in Martinique and Guadeloupe."}
+{"id":"Q48756009","verdict":"keep","countries":["CA"],"reason":"Poutine à trou is the Acadian apple pastry of Canada."}
 {"id":"Q48758222","verdict":"keep"}
 {"id":"Q48758790","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese yokan"}
-{"id":"Q48760475","verdict":"keep"}
+{"id":"Q48760475","verdict":"keep","countries":["JP"],"reason":"Pasan is an Okinawan Japanese confection."}
 {"id":"Q48762320","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese sushi"}
-{"id":"Q4876256","verdict":"keep"}
+{"id":"Q4876256","verdict":"keep","countries":["MY"],"reason":"Bean sprouts chicken is the Malaysian Ipoh chicken dish."}
 {"id":"Q4876265","verdict":"keep"}

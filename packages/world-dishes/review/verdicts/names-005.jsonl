@@ -18,8 +18,8 @@
 {"id":"Q107683155","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107683778","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107683974","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
-{"id":"Q107689195","verdict":"keep"}
-{"id":"Q107693925","verdict":"keep"}
+{"id":"Q107689195","verdict":"keep","countries":["CN"],"reason":"Chinese glutinous rice preparation."}
+{"id":"Q107693925","verdict":"keep","countries":["JP","KR","CN"],"reason":"Red bean rice is common in Japanese, Korean and Chinese cuisines."}
 {"id":"Q107695269","verdict":"remove","reason":"generic category (cooked grain / meal), not one dish"}
 {"id":"Q107695675","verdict":"keep"}
 {"id":"Q107718213","verdict":"keep","reason":"Second opinion: shrimp-topped pizza is a prepared dish; plural wording alone does not justify removal."}
@@ -35,7 +35,7 @@
 {"id":"Q107736395","verdict":"keep"}
 {"id":"Q107739566","verdict":"keep"}
 {"id":"Q107739770","verdict":"keep","countries":["PH"],"reason":"Filipino ice cream; country added"}
-{"id":"Q107745950","verdict":"keep"}
+{"id":"Q107745950","verdict":"keep","countries":["FR"],"reason":"French historical cinnamon broth."}
 {"id":"Q107749708","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107749848","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107749866","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
@@ -61,48 +61,48 @@
 {"id":"Q107813858","verdict":"keep"}
 {"id":"Q107817229","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q1078202","verdict":"keep","countries":["GB"],"reason":"Welsh cake; country added"}
-{"id":"Q107832448","verdict":"keep"}
+{"id":"Q107832448","verdict":"keep","countries":["NG"],"reason":"Ayamase is a Nigerian pepper stew."}
 {"id":"Q107834828","verdict":"keep"}
 {"id":"Q107835198","verdict":"keep"}
 {"id":"Q107836323","verdict":"keep","countries":["NG"],"reason":"Yoruba Nigerian dish; country added"}
-{"id":"Q107840688","verdict":"keep"}
-{"id":"Q107841628","verdict":"keep"}
+{"id":"Q107840688","verdict":"keep","countries":["GB","IE","FR","US"],"reason":"Beef stew is a common dish across these cuisines."}
+{"id":"Q107841628","verdict":"keep","countries":["NG","GH"],"reason":"Entry identifies the West African tomato and pepper chicken stew."}
 {"id":"Q107846503","verdict":"keep","countries":["NG"],"reason":"Nigerian Idoma soup; country added"}
-{"id":"Q107848316","verdict":"keep"}
+{"id":"Q107848316","verdict":"keep","countries":["NG"],"reason":"Efik fisherman soup from southern Nigeria."}
 {"id":"Q107850256","verdict":"keep"}
-{"id":"Q10785085","verdict":"keep"}
-{"id":"Q107851208","verdict":"keep"}
-{"id":"Q107852688","verdict":"keep"}
+{"id":"Q10785085","verdict":"keep","countries":["FR","GB","US"],"reason":"Filled pastry turnovers are commonly associated with these cuisines."}
+{"id":"Q107851208","verdict":"keep","countries":["NG"],"reason":"Kokoro is the Nigerian cornmeal snack."}
+{"id":"Q107852688","verdict":"keep","countries":["NG"],"reason":"Entry specifically describes Nigerian plantain chips."}
 {"id":"Q107854227","verdict":"keep"}
 {"id":"Q107855294","verdict":"keep","countries":["NG"],"reason":"Nigerian bread; country added"}
-{"id":"Q107855662","verdict":"keep"}
-{"id":"Q107856275","verdict":"keep"}
-{"id":"Q107856453","verdict":"keep"}
-{"id":"Q107856648","verdict":"keep"}
-{"id":"Q107856750","verdict":"keep"}
-{"id":"Q107857284","verdict":"keep"}
-{"id":"Q107857783","verdict":"keep"}
-{"id":"Q107858798","verdict":"keep"}
-{"id":"Q107859176","verdict":"keep"}
-{"id":"Q107859307","verdict":"keep"}
-{"id":"Q107859343","verdict":"keep"}
+{"id":"Q107855662","verdict":"keep","countries":["NG"],"reason":"Ijaw plantain and bean preparation."}
+{"id":"Q107856275","verdict":"keep","countries":["NG"],"reason":"Entry explicitly identifies Nigerian cocoyam and palm oil."}
+{"id":"Q107856453","verdict":"keep","countries":["NG"],"reason":"Nigerian fried yam with egg sauce."}
+{"id":"Q107856648","verdict":"keep","countries":["NG","GH"],"reason":"Garden egg sauce is shared by Nigerian and Ghanaian cooking."}
+{"id":"Q107856750","verdict":"keep","countries":["NG"],"reason":"Specific Efik native jollof variation."}
+{"id":"Q107857284","verdict":"keep","countries":["NG"],"reason":"Nigerian popcorn and peanut snack."}
+{"id":"Q107857783","verdict":"keep","countries":["NG"],"reason":"Nigerian dough wrapped boiled egg snack."}
+{"id":"Q107858798","verdict":"keep","countries":["NG"],"reason":"Nigerian seasoned beef skewer snack."}
+{"id":"Q107859176","verdict":"keep","countries":["NG"],"reason":"Plateau Nigerian fonio pottage."}
+{"id":"Q107859307","verdict":"keep","countries":["NG","NE"],"reason":"Hausa steamed wheat bread shared across Nigeria and Niger."}
+{"id":"Q107859343","verdict":"keep","countries":["NG"],"reason":"Eastern Nigerian steamed corn pudding."}
 {"id":"Q107862812","verdict":"keep"}
-{"id":"Q107862861","verdict":"keep"}
-{"id":"Q107862875","verdict":"keep"}
-{"id":"Q107862891","verdict":"keep"}
-{"id":"Q107862910","verdict":"keep"}
-{"id":"Q107862948","verdict":"keep"}
-{"id":"Q107862970","verdict":"keep"}
-{"id":"Q107863024","verdict":"keep"}
-{"id":"Q107863049","verdict":"keep"}
-{"id":"Q107863092","verdict":"keep"}
-{"id":"Q107863177","verdict":"keep"}
+{"id":"Q107862861","verdict":"keep","countries":["NG","NE"],"reason":"Hausa rice and bean dish shared across Nigeria and Niger."}
+{"id":"Q107862875","verdict":"keep","countries":["NG"],"reason":"Nigerian cow tail pepper soup."}
+{"id":"Q107862891","verdict":"keep","countries":["NG"],"reason":"Entry describes northern Nigerian spicy fish balls."}
+{"id":"Q107862910","verdict":"keep","countries":["NG","NE"],"reason":"Hausa roasted grain and nut confection shared across Nigeria and Niger."}
+{"id":"Q107862948","verdict":"keep","countries":["NG"],"reason":"Entry identifies northern Nigerian moringa salad."}
+{"id":"Q107862970","verdict":"keep","countries":["NG","NE"],"reason":"Hausa dried meat preparation shared across Nigeria and Niger."}
+{"id":"Q107863024","verdict":"keep","countries":["NG"],"reason":"Entry identifies northern Nigerian flour confection."}
+{"id":"Q107863049","verdict":"keep","countries":["NG"],"reason":"Nigerian coated fried yam preparation."}
+{"id":"Q107863092","verdict":"keep","countries":["NG"],"reason":"Entry identifies Nigerian garnished liver sauce."}
+{"id":"Q107863177","verdict":"keep","countries":["NG"],"reason":"Entry describes Nigerian mashed yam balls."}
 {"id":"Q107863246","verdict":"remove","reason":"drink (smoothie), not a dish"}
-{"id":"Q107863271","verdict":"keep"}
-{"id":"Q107863313","verdict":"keep"}
-{"id":"Q107863353","verdict":"keep"}
-{"id":"Q107864321","verdict":"keep"}
-{"id":"Q107870318","verdict":"keep"}
+{"id":"Q107863271","verdict":"keep","countries":["NG"],"reason":"Sweet potato pottage fits Nigerian root pottage cuisine."}
+{"id":"Q107863313","verdict":"keep","countries":["NG","GH","SN","GN","ML"],"reason":"Fonio jollof belongs to shared West African grain cookery."}
+{"id":"Q107863353","verdict":"keep","countries":["NG"],"reason":"Entry identifies Nigerian fried buns."}
+{"id":"Q107864321","verdict":"keep","countries":["FR","GP","MQ"],"reason":"Coconut flan is associated with French and French Caribbean cooking."}
+{"id":"Q107870318","verdict":"keep","countries":["FR","GB","IT"],"reason":"Pear tarts are established across these pastry cuisines."}
 {"id":"Q107870567","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107871390","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107871531","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
@@ -110,10 +110,10 @@
 {"id":"Q107879852","verdict":"keep"}
 {"id":"Q107885744","verdict":"keep","countries":["JP"],"reason":"Japanese karaage; country added"}
 {"id":"Q107891975","verdict":"keep","countries":["FR"],"reason":"French pastry; country added"}
-{"id":"Q10794259","verdict":"keep"}
-{"id":"Q10796543","verdict":"keep"}
+{"id":"Q10794259","verdict":"keep","countries":["VN"],"reason":"Vietnamese eel noodle soup."}
+{"id":"Q10796543","verdict":"keep","countries":["VN"],"reason":"Southern Vietnamese fermented crab preparation."}
 {"id":"Q10796544","verdict":"keep"}
-{"id":"Q10796545","verdict":"keep"}
+{"id":"Q10796545","verdict":"keep","countries":["VN"],"reason":"Northern Vietnamese crab sauce."}
 {"id":"Q10796546","verdict":"keep"}
 {"id":"Q10796548","verdict":"keep"}
 {"id":"Q10796549","verdict":"keep"}
@@ -127,7 +127,7 @@
 {"id":"Q108030523","verdict":"remove","reason":"brand product (Heura plant-based meat)"}
 {"id":"Q108035185","verdict":"keep","countries":["JP"],"reason":"Japanese dish; country added"}
 {"id":"Q108047543","verdict":"keep"}
-{"id":"Q108047762","verdict":"keep"}
+{"id":"Q108047762","verdict":"keep","countries":["IT"],"reason":"Pennoni is an Italian pasta form."}
 {"id":"Q108058576","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108058590","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108059251","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
@@ -147,8 +147,8 @@
 {"id":"Q108059536","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108063900","verdict":"keep"}
 {"id":"Q108063948","verdict":"keep"}
-{"id":"Q108065409","verdict":"keep","countries":[],"reason":"Second opinion: generic cream ice cream; German wording alone does not establish a country."}
-{"id":"Q108065444","verdict":"keep","countries":[],"reason":"Second opinion: generic milk ice cream; German wording alone does not establish a country."}
+{"id":"Q108065409","verdict":"keep","countries":["DE"],"reason":"German cream ice cream category."}
+{"id":"Q108065444","verdict":"keep","countries":["DE"],"reason":"German milk ice cream category."}
 {"id":"Q108067365","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108067369","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108067379","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
@@ -158,7 +158,7 @@
 {"id":"Q108086096","verdict":"keep","countries":["AT","DE"],"reason":"Second opinion: meat dumplings are associated with Austrian as well as German cuisine."}
 {"id":"Q108088119","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108095007","verdict":"keep","countries":["NL"],"reason":"Dutch dish; country added"}
-{"id":"Q108099796","verdict":"keep"}
+{"id":"Q108099796","verdict":"keep","countries":["DE","AT","CH"],"reason":"Braided pastry is shared by German speaking cuisines."}
 {"id":"Q108112946","verdict":"keep"}
 {"id":"Q108120915","verdict":"keep"}
 {"id":"Q108122335","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
@@ -174,7 +174,7 @@
 {"id":"Q108130715","verdict":"remove","reason":"chain-restaurant menu item (Torikizoku burger)"}
 {"id":"Q108170369","verdict":"keep"}
 {"id":"Q108170525","verdict":"keep"}
-{"id":"Q108178857","verdict":"keep"}
+{"id":"Q108178857","verdict":"keep","countries":["IN","MM"],"reason":"Naga rice and vegetable dish spans the Naga regions of India and Myanmar."}
 {"id":"Q108181168","verdict":"keep"}
 {"id":"Q108197336","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108206760","verdict":"remove","reason":"generic category (street food in a country), not one dish"}
@@ -188,14 +188,14 @@
 {"id":"Q108234722","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108296002","verdict":"keep"}
 {"id":"Q108304103","verdict":"keep","countries":["BG"],"reason":"Bulgarian dish; country added"}
-{"id":"Q108304231","verdict":"keep"}
-{"id":"Q108305832","verdict":"keep"}
+{"id":"Q108304231","verdict":"keep","countries":["US"],"reason":"Popcorn shrimp is an American fried shrimp dish."}
+{"id":"Q108305832","verdict":"keep","countries":["FR","GB"],"reason":"Milk toffee has British confectionery associations as well as the French named version."}
 {"id":"Q108306128","verdict":"keep"}
 {"id":"Q108311076","verdict":"keep"}
 {"id":"Q108311129","verdict":"keep"}
 {"id":"Q108315407","verdict":"keep"}
 {"id":"Q108327562","verdict":"remove","reason":"topic (pizza culture of New York City), not one dish"}
-{"id":"Q108331164","verdict":"keep"}
+{"id":"Q108331164","verdict":"keep","countries":["FR","RU","UA"],"reason":"Baton breads are associated with French and eastern European baking."}
 {"id":"Q108364789","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108364830","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108364888","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
@@ -207,7 +207,7 @@
 {"id":"Q108368935","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108375974","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q1083840","verdict":"keep","countries":["GB","PK"],"reason":"Second opinion: balti is commonly tied to Birmingham and Pakistani cuisine; preserve both associations."}
-{"id":"Q108387469","verdict":"keep"}
+{"id":"Q108387469","verdict":"keep","countries":["FR","US"],"reason":"Strawberries Romanoff has French and American restaurant associations."}
 {"id":"Q108394942","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108395190","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q108395259","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}

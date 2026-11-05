@@ -5,7 +5,7 @@
 {"id":"Q1962115","verdict":"keep"}
 {"id":"Q1963961","verdict":"remove","reason":"branded packaged product (Hematogen nutrition bar)"}
 {"id":"Q19646375","verdict":"keep"}
-{"id":"Q1967823","verdict":"keep"}
+{"id":"Q1967823","verdict":"keep","countries":["US","CN"],"reason":"Prepared spare ribs have American barbecue and Chinese cooking traditions."}
 {"id":"Q1968074","verdict":"remove","reason":"alcoholic drink (liquor)"}
 {"id":"Q1968771","verdict":"keep"}
 {"id":"Q19689781","verdict":"keep","countries":["JP"],"reason":"added country: Japanese dish"}
@@ -14,12 +14,12 @@
 {"id":"Q1969648","verdict":"keep","countries":["NL"],"reason":"added country: Amsterdam onion"}
 {"id":"Q19696604","verdict":"keep","countries":["LA"],"reason":"added country: Lao salad"}
 {"id":"Q19702102","verdict":"keep"}
-{"id":"Q19702771","verdict":"keep"}
+{"id":"Q19702771","verdict":"remove","reason":"Bergen Cookies identifies the packaged biscuit brand, not Norwegian Bergen regional cookie preparation; reverse keep."}
 {"id":"Q19704261","verdict":"keep","countries":["FI"],"reason":"added country: Finnish pastry"}
-{"id":"Q19704410","verdict":"keep","countries":[],"reason":"Second opinion: pureed vegetable soup is generic, not assigned Finland from its Finnish wording."}
+{"id":"Q19704410","verdict":"keep","countries":["FI"],"reason":"Kasvissosekeitto is Finnish pureed vegetable soup."}
 {"id":"Q19704479","verdict":"keep","countries":["FI","SE"],"reason":"Oat-lace biscuits have Finnish and Swedish baking traditions."}
 {"id":"Q19706789","verdict":"keep","countries":["FI"],"reason":"added country: Finnish fish dish"}
-{"id":"Q19707923","verdict":"keep","reason":"Barley-grain porridge is generic; Finnish wording alone does not establish national origin."}
+{"id":"Q19707923","verdict":"keep","reason":"Ohraryynipuuro is Finnish barley porridge.","countries":["FI"]}
 {"id":"Q19709840","verdict":"keep","countries":["FI"],"reason":"added country: Finnish bread"}
 {"id":"Q19709871","verdict":"keep"}
 {"id":"Q19711295","verdict":"keep"}
@@ -106,7 +106,7 @@
 {"id":"Q1979013","verdict":"keep","countries":["NL"],"reason":"added country: Deventer gingerbread"}
 {"id":"Q1979684","verdict":"keep"}
 {"id":"Q197969","verdict":"keep"}
-{"id":"Q19799381","verdict":"keep"}
+{"id":"Q19799381","verdict":"keep","countries":["SE"],"reason":"The Swedish name identifies ice cream in a cone."}
 {"id":"Q19803309","verdict":"keep"}
 {"id":"Q19803312","verdict":"keep"}
 {"id":"Q1980783","verdict":"keep","countries":["NL"],"reason":"added country: Dutch candy"}
@@ -128,8 +128,8 @@
 {"id":"Q1987316","verdict":"remove","reason":"ingredient (wheat flour), not a dish"}
 {"id":"Q19875130","verdict":"keep"}
 {"id":"Q198788","verdict":"keep"}
-{"id":"Q1988612","verdict":"keep"}
-{"id":"Q19887142","verdict":"keep"}
+{"id":"Q1988612","verdict":"keep","countries":["GR","IT","US"],"reason":"Bean soup has established Greek, Italian and American traditions."}
+{"id":"Q19887142","verdict":"keep","countries":["GB","IE","US"],"reason":"Potato cakes have British, Irish and American traditions."}
 {"id":"Q1988957","verdict":"keep","countries":["NL","BE"],"reason":"Worstenbrood sausage rolls have Dutch and Belgian traditions."}
 {"id":"Q1988970","verdict":"keep"}
 {"id":"Q19891138","verdict":"keep","countries":["PK"],"reason":"added country: Pakistani dish"}
@@ -142,9 +142,9 @@
 {"id":"Q19898963","verdict":"keep"}
 {"id":"Q19903564","verdict":"keep"}
 {"id":"Q19910927","verdict":"keep","countries":["RU"],"reason":"added country: Mordovian pancake (Russia)"}
-{"id":"Q19921797","verdict":"keep"}
+{"id":"Q19921797","verdict":"keep","countries":["PL","RU","UA"],"reason":"Mixed dried fruit preparations have Polish, Russian and Ukrainian traditions."}
 {"id":"Q19933360","verdict":"keep"}
-{"id":"Q1993557","verdict":"keep"}
+{"id":"Q1993557","verdict":"keep","countries":["DE","US"],"reason":"Multigrain bread has German and American baking traditions."}
 {"id":"Q19936058","verdict":"keep"}
 {"id":"Q19938094","verdict":"keep"}
 {"id":"Q199401","verdict":"keep"}
@@ -157,7 +157,7 @@
 {"id":"Q19947359","verdict":"keep"}
 {"id":"Q19947459","verdict":"keep","countries":["FR"],"reason":"added country: Savoy cake"}
 {"id":"Q19949631","verdict":"keep"}
-{"id":"Q19950730","verdict":"keep"}
+{"id":"Q19950730","verdict":"keep","countries":["MX"],"reason":"The description explicitly identifies the Mexican sandwich."}
 {"id":"Q19951699","verdict":"keep","countries":["FR"],"reason":"added country: Provencal dish"}
 {"id":"Q19952","verdict":"keep"}
 {"id":"Q1995435","verdict":"keep"}
@@ -188,17 +188,17 @@
 {"id":"Q20009814","verdict":"keep"}
 {"id":"Q20009815","verdict":"keep"}
 {"id":"Q20009834","verdict":"keep"}
-{"id":"Q20013195","verdict":"keep"}
+{"id":"Q20013195","verdict":"keep","countries":["CN","JP","KR","IN"],"reason":"Plain cooked rice has Chinese, Japanese, Korean and Indian staple-food traditions."}
 {"id":"Q20016","verdict":"keep"}
 {"id":"Q20017159","verdict":"keep"}
 {"id":"Q20017300","verdict":"keep","countries":["JP"],"reason":"added country: Japanese sweet bread"}
 {"id":"Q20019","verdict":"keep"}
-{"id":"Q20022277","verdict":"keep"}
+{"id":"Q20022277","verdict":"keep","countries":["CO","NI","CR","PA","HN","JM"],"reason":"Rondon belongs to Afro-Caribbean cooking across Colombia, Central America and Jamaica."}
 {"id":"Q20023","verdict":"keep"}
 {"id":"Q20024","verdict":"keep"}
 {"id":"Q20024826","verdict":"keep"}
 {"id":"Q20026","verdict":"keep"}
-{"id":"Q20027","verdict":"keep"}
+{"id":"Q20027","verdict":"keep","countries":["IT"],"reason":"Wheat vermicelli is an Italian pasta."}
 {"id":"Q2002721","verdict":"keep"}
 {"id":"Q20029","verdict":"keep"}
 {"id":"Q20031","verdict":"keep"}
@@ -207,7 +207,7 @@
 {"id":"Q20033650","verdict":"keep","countries":["PL"],"reason":"added country: Polish dish"}
 {"id":"Q20033796","verdict":"keep","countries":["PL"],"reason":"added country: Polish sausage"}
 {"id":"Q20033797","verdict":"keep"}
-{"id":"Q20033866","verdict":"keep"}
+{"id":"Q20033866","verdict":"keep","countries":["PL","IL"],"reason":"This charoset mousse belongs to Polish Jewish and Israeli cooking."}
 {"id":"Q20034","verdict":"keep"}
 {"id":"Q20034048","verdict":"remove","reason":"Second opinion: Piekny Jas z Doliny Dunajca is the raw regional bean ingredient (https://www.paczkaodrolnika.pl/news/261/Fasola-Piekny-Jas-z-Doliny-Dunajca)."}
 {"id":"Q20034088","verdict":"keep"}
@@ -221,13 +221,13 @@
 {"id":"Q20039423","verdict":"keep","countries":["JP"],"reason":"added country: Japanese rice dish"}
 {"id":"Q20041","verdict":"keep"}
 {"id":"Q20043","verdict":"keep"}
-{"id":"Q20043331","verdict":"keep"}
+{"id":"Q20043331","verdict":"keep","countries":["TR"],"reason":"Ekmek is Turkish bread."}
 {"id":"Q20044","verdict":"keep"}
 {"id":"Q20046","verdict":"keep"}
-{"id":"Q20047","verdict":"keep"}
+{"id":"Q20047","verdict":"keep","countries":["US","MX","ES"],"reason":"Alphabet soup has American, Mexican and Spanish traditions."}
 {"id":"Q20048","verdict":"keep"}
 {"id":"Q20051","verdict":"keep"}
-{"id":"Q2005160","verdict":"keep"}
+{"id":"Q2005160","verdict":"keep","countries":["PL","IL"],"reason":"Nunt is an Ashkenazi Jewish Purim confection with Polish and Israeli ties."}
 {"id":"Q200527","verdict":"keep"}
 {"id":"Q20052814","verdict":"keep","countries":["BR"],"reason":"Second opinion: bolo baeta is a Brazilian cake from Paraiba, not Portuguese."}
 {"id":"Q20052841","verdict":"keep"}
@@ -245,21 +245,21 @@
 {"id":"Q20061","verdict":"keep"}
 {"id":"Q20061165","verdict":"keep"}
 {"id":"Q20061544","verdict":"keep","countries":["BR"],"reason":"added country: Brazilian dish"}
-{"id":"Q20063132","verdict":"keep"}
+{"id":"Q20063132","verdict":"keep","countries":["TW"],"reason":"Dadiaoshao is a Taiwanese novelty cake preparation."}
 {"id":"Q20064322","verdict":"keep"}
 {"id":"Q2007076","verdict":"keep","countries":["DE"],"reason":"added country: Nuremberg dish"}
 {"id":"Q20075421","verdict":"keep"}
 {"id":"Q20081987","verdict":"keep"}
 {"id":"Q20083166","verdict":"keep"}
-{"id":"Q20083188","verdict":"keep"}
+{"id":"Q20083188","verdict":"keep","countries":["JP"],"reason":"The Japanese name identifies this vegetable paste version."}
 {"id":"Q20085174","verdict":"keep"}
 {"id":"Q20088993","verdict":"keep"}
 {"id":"Q2009256","verdict":"keep"}
 {"id":"Q20092696","verdict":"keep"}
 {"id":"Q20093085","verdict":"keep"}
 {"id":"Q20093206","verdict":"keep","countries":["UA"],"reason":"added country: Ukrainian Easter pie"}
-{"id":"Q2009326","verdict":"keep"}
-{"id":"Q20097569","verdict":"keep"}
+{"id":"Q2009326","verdict":"keep","countries":["GB"],"reason":"Butterscotch is a British confection."}
+{"id":"Q20097569","verdict":"keep","countries":["UA"],"reason":"Yabchanka is a Ukrainian apple preparation."}
 {"id":"Q20099097","verdict":"keep"}
 {"id":"Q20102965","verdict":"keep","countries":["ES"],"reason":"added country: Catalan dish"}
 {"id":"Q20103300","verdict":"keep","countries":["ES"],"reason":"added country: Catalan confectionery"}
@@ -274,12 +274,12 @@
 {"id":"Q20105841","verdict":"keep","countries":["ES"],"reason":"added country: Catalan dish"}
 {"id":"Q20105863","verdict":"keep","countries":["ES"],"reason":"added country: Catalan bread"}
 {"id":"Q20106004","verdict":"keep","countries":["ES"],"reason":"added country: Catalan cake"}
-{"id":"Q20106022","verdict":"keep","countries":[],"reason":"Second opinion: oven potatoes with tomatoes is generic; Catalan wording alone does not establish origin."}
+{"id":"Q20106022","verdict":"keep","countries":["ES"],"reason":"The Catalan name identifies this baked tomato-potato version."}
 {"id":"Q20106042","verdict":"keep","countries":["ES"],"reason":"added country: Catalan cuisine"}
 {"id":"Q20106091","verdict":"keep","countries":["ES"],"reason":"added country: Catalan dish"}
 {"id":"Q20106127","verdict":"keep","countries":["ES"],"reason":"added country: Catalan dish"}
 {"id":"Q20106265","verdict":"keep","countries":["ES"],"reason":"added country: Catalan dessert"}
-{"id":"Q20106267","verdict":"keep","countries":[],"reason":"Second opinion: cooked snails is generic; Catalan wording alone does not establish origin."}
+{"id":"Q20106267","verdict":"keep","countries":["ES","FR"],"reason":"Cooked snails belong to Spanish and French Catalan traditions."}
 {"id":"Q20106371","verdict":"keep","countries":["ES"],"reason":"added country: Catalan dessert"}
 {"id":"Q20106375","verdict":"keep","countries":["ES"],"reason":"added country: Catalan cake"}
 {"id":"Q20106816","verdict":"keep"}

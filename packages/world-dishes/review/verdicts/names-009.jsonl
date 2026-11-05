@@ -2,7 +2,7 @@
 {"id":"Q11174861","verdict":"keep","countries":["CN"],"reason":"added country: Chinese dish"}
 {"id":"Q11174862","verdict":"keep"}
 {"id":"Q11174939","verdict":"keep"}
-{"id":"Q111753184","verdict":"keep","reason":"Key-shaped challah is an Ashkenazi Jewish diaspora custom; this entry does not justify assigning Israel alone."}
+{"id":"Q111753184","verdict":"keep","reason":"Key shaped challah belongs to Ashkenazi Jewish baking across these communities.","countries":["IL","PL","UA","US"]}
 {"id":"Q11175394","verdict":"keep"}
 {"id":"Q111755418","verdict":"keep"}
 {"id":"Q11175566","verdict":"keep"}
@@ -18,25 +18,25 @@
 {"id":"Q11180598","verdict":"keep","countries":["TW"],"reason":"龍珠 is the Taiwanese fried squid-mouth snack, not a country attribution inferred from Chinese script."}
 {"id":"Q111817407","verdict":"keep"}
 {"id":"Q1118196","verdict":"keep","countries":["GR"],"reason":"added country: Greek dish"}
-{"id":"Q111834905","verdict":"keep"}
+{"id":"Q111834905","verdict":"keep","countries":["RU","UA"],"reason":"Liver cake is associated with Russian and Ukrainian cooking."}
 {"id":"Q111835885","verdict":"keep"}
-{"id":"Q111836983","verdict":"keep"}
+{"id":"Q111836983","verdict":"keep","countries":["GB","US"],"reason":"Two slice filled sandwich has established British and American associations."}
 {"id":"Q111844932","verdict":"keep"}
 {"id":"Q11190199","verdict":"keep"}
 {"id":"Q111904334","verdict":"keep"}
-{"id":"Q111907435","verdict":"keep","reason":"Belegtes Brot means generic topped/open bread; German wording alone does not establish a country."}
+{"id":"Q111907435","verdict":"keep","reason":"German speaking open sandwich tradition.","countries":["DE","AT","CH"]}
 {"id":"Q111913166","verdict":"keep"}
 {"id":"Q111913468","verdict":"keep"}
 {"id":"Q111914087","verdict":"keep"}
 {"id":"Q111917546","verdict":"keep","countries":["BR"],"reason":"added country: Brazilian cake"}
 {"id":"Q111917727","verdict":"keep","countries":["BR","AR","UY"],"reason":"The milk-and-egg ambrosia dessert is shared by Brazil, Argentina and Uruguay."}
 {"id":"Q111919719","verdict":"keep"}
-{"id":"Q111934811","verdict":"keep"}
+{"id":"Q111934811","verdict":"keep","countries":["RU"],"reason":"Perm regional Russian pastries."}
 {"id":"Q111938080","verdict":"keep"}
 {"id":"Q111940065","verdict":"keep"}
 {"id":"Q1119435","verdict":"keep"}
 {"id":"Q111971806","verdict":"keep","countries":["BR"],"reason":"added country: Brazilian moqueca"}
-{"id":"Q111981894","verdict":"keep"}
+{"id":"Q111981894","verdict":"keep","countries":["US"],"reason":"American bun and patty burger form."}
 {"id":"Q111981908","verdict":"keep"}
 {"id":"Q111981913","verdict":"keep"}
 {"id":"Q111986756","verdict":"keep"}
@@ -50,17 +50,17 @@
 {"id":"Q112117050","verdict":"keep","countries":["JP"],"reason":"added country: Japanese lunch dish"}
 {"id":"Q112118165","verdict":"keep"}
 {"id":"Q112136957","verdict":"keep"}
-{"id":"Q112156900","verdict":"keep"}
+{"id":"Q112156900","verdict":"keep","countries":["US","GB"],"reason":"Vegan burgers have established American and British associations."}
 {"id":"Q112167282","verdict":"keep","countries":["PR"],"reason":"added country: Puerto Rican ice pop"}
 {"id":"Q112173562","verdict":"keep"}
 {"id":"Q112176644","verdict":"keep"}
 {"id":"Q112176713","verdict":"keep","countries":["TR"],"reason":"added country: Turkish halva"}
 {"id":"Q112182363","verdict":"keep"}
-{"id":"Q112182375","verdict":"keep"}
+{"id":"Q112182375","verdict":"keep","countries":["ID"],"reason":"Entry explicitly identifies Indonesian sroto."}
 {"id":"Q112184857","verdict":"keep"}
 {"id":"Q112185001","verdict":"keep","countries":["PY"],"reason":"added country: Paraguayan tortilla"}
-{"id":"Q112230094","verdict":"keep"}
-{"id":"Q112230360","verdict":"keep"}
+{"id":"Q112230094","verdict":"keep","countries":["GN"],"reason":"Guinean tuber stew."}
+{"id":"Q112230360","verdict":"keep","countries":["GN"],"reason":"Entry explicitly identifies Guinean rice doughnut."}
 {"id":"Q112230389","verdict":"keep"}
 {"id":"Q112232699","verdict":"keep"}
 {"id":"Q112233469","verdict":"keep"}
@@ -75,11 +75,11 @@
 {"id":"Q112261855","verdict":"keep","countries":["NP","IN"],"reason":"Sherpa goyang fermented vegetables have established Nepalese and Sikkimese associations."}
 {"id":"Q11229708","verdict":"keep"}
 {"id":"Q112325694","verdict":"keep"}
-{"id":"Q112338749","verdict":"keep"}
-{"id":"Q112339256","verdict":"keep"}
+{"id":"Q112338749","verdict":"keep","countries":["ES","FR"],"reason":"Basque blood and intestine preparation shared across Spain and France."}
+{"id":"Q112339256","verdict":"keep","countries":["US"],"reason":"American Depression era water pie."}
 {"id":"Q11235217","verdict":"keep","countries":["JP"],"reason":"added country: Japanese ramen"}
 {"id":"Q11235970","verdict":"keep","countries":["JP"],"reason":"added country: Japanese curry"}
-{"id":"Q11236775","verdict":"keep"}
+{"id":"Q11236775","verdict":"keep","countries":["JP"],"reason":"Japanese Laputa inspired egg toast."}
 {"id":"Q11238659","verdict":"keep"}
 {"id":"Q11239619","verdict":"remove","reason":"brand of ice cream (PINO)"}
 {"id":"Q112404922","verdict":"keep"}
@@ -148,22 +148,22 @@
 {"id":"Q112610072","verdict":"keep"}
 {"id":"Q11261020","verdict":"keep","countries":["JP"],"reason":"added country: Japanese egg dish"}
 {"id":"Q11261069","verdict":"keep"}
-{"id":"Q11261071","verdict":"keep","reason":"Generic shrimp ball entry gives no Japanese-specific identity or national evidence."}
+{"id":"Q11261071","verdict":"keep","reason":"Shrimp balls belong to Chinese and regional Chinese cooking.","countries":["CN","TW","HK"]}
 {"id":"Q11261190","verdict":"keep","countries":["JP"],"reason":"added country: Japanese arare"}
 {"id":"Q11261191","verdict":"keep","countries":["JP"],"reason":"added country: Japanese wagashi"}
 {"id":"Q11261365","verdict":"keep","countries":["JP"],"reason":"added country: Japanese beika"}
 {"id":"Q11261398","verdict":"keep","countries":["JP"],"reason":"added country: Japanese yakisoba"}
 {"id":"Q11261467","verdict":"keep"}
-{"id":"Q11261489","verdict":"keep"}
+{"id":"Q11261489","verdict":"keep","countries":["JP"],"reason":"Japanese puffed rice confection."}
 {"id":"Q11261499","verdict":"keep"}
 {"id":"Q11261779","verdict":"keep"}
-{"id":"Q11261791","verdict":"keep"}
+{"id":"Q11261791","verdict":"keep","countries":["JP"],"reason":"Entry explicitly identifies Japanese noodle dish."}
 {"id":"Q11261814","verdict":"keep","countries":["JP"],"reason":"added country: Japanese ice cream"}
 {"id":"Q11261837","verdict":"keep"}
 {"id":"Q11261883","verdict":"keep"}
 {"id":"Q11262341","verdict":"keep"}
 {"id":"Q11262545","verdict":"keep","countries":["JP"],"reason":"added country: Japanese curry rice"}
-{"id":"Q11262599","verdict":"keep"}
+{"id":"Q11262599","verdict":"keep","countries":["JP"],"reason":"Oyabe regional Japanese ramen."}
 {"id":"Q11263059","verdict":"keep"}
 {"id":"Q11263421","verdict":"keep","countries":["JP"],"reason":"added country: Japanese mochi"}
 {"id":"Q11263584","verdict":"keep","countries":["JP"],"reason":"added country: Japanese dango"}
@@ -264,7 +264,7 @@
 {"id":"Q11271556","verdict":"keep","countries":["JP"],"reason":"added country: Japanese tamagoyaki"}
 {"id":"Q11271585","verdict":"keep","countries":["JP"],"reason":"added country: Japanese nabemono"}
 {"id":"Q11271624","verdict":"keep"}
-{"id":"Q11271682","verdict":"keep"}
+{"id":"Q11271682","verdict":"keep","countries":["JP"],"reason":"Okinawan egg confection."}
 {"id":"Q11271920","verdict":"keep"}
 {"id":"Q11272076","verdict":"keep","countries":["JP"],"reason":"added country: Japanese kanroni"}
 {"id":"Q11272080","verdict":"keep","countries":["JP"],"reason":"added country: Japanese nabemono"}
@@ -278,12 +278,12 @@
 {"id":"Q11272921","verdict":"keep","countries":["JP"],"reason":"added country: Japanese manju"}
 {"id":"Q112730001","verdict":"keep"}
 {"id":"Q11273150","verdict":"keep"}
-{"id":"Q11273229","verdict":"keep"}
+{"id":"Q11273229","verdict":"keep","countries":["GB"],"reason":"British charcoal biscuit tradition."}
 {"id":"Q11273314","verdict":"remove","reason":"packaged cup noodle product"}
 {"id":"Q11273473","verdict":"keep"}
-{"id":"Q11273516","verdict":"keep"}
+{"id":"Q11273516","verdict":"keep","countries":["JP"],"reason":"Yamagata regional offal ramen."}
 {"id":"Q11273518","verdict":"keep","countries":["JP"],"reason":"added country: Japanese nabemono"}
-{"id":"Q11273547","verdict":"keep"}
+{"id":"Q11273547","verdict":"keep","countries":["JP"],"reason":"Japanese mackerel sushi preparation."}
 {"id":"Q11273560","verdict":"keep","countries":["JP"],"reason":"added country: Japanese parfait"}
 {"id":"Q11273633","verdict":"keep"}
 {"id":"Q11273790","verdict":"keep"}
@@ -296,5 +296,5 @@
 {"id":"Q11274144","verdict":"keep","countries":["JP"],"reason":"added country: Japanese rakugan"}
 {"id":"Q11274474","verdict":"keep","countries":["JP"],"reason":"added country: Japanese mochi"}
 {"id":"Q11274488","verdict":"keep"}
-{"id":"Q11274510","verdict":"keep"}
+{"id":"Q11274510","verdict":"keep","countries":["JP"],"reason":"Seasoned chopped fish with ginger and miso is Japanese namero, not an unprepared raw ingredient."}
 {"id":"Q11274596","verdict":"keep"}

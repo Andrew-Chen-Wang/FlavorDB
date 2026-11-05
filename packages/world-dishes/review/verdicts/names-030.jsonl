@@ -5,7 +5,7 @@
 {"id":"Q18128673","verdict":"keep"}
 {"id":"Q1813527","verdict":"keep"}
 {"id":"Q181418","verdict":"keep"}
-{"id":"Q18145066","verdict":"keep"}
+{"id":"Q18145066","verdict":"keep","countries":["FR","US"],"reason":"Cream of asparagus soup has French and American traditions."}
 {"id":"Q18149982","verdict":"keep"}
 {"id":"Q18150258","verdict":"keep"}
 {"id":"Q1815545","verdict":"keep","countries":["DE"],"reason":"added country: Leipzig dish"}
@@ -13,16 +13,16 @@
 {"id":"Q181572","verdict":"remove","reason":"ingredient explanation (chili pepper), not a dish"}
 {"id":"Q1815839","verdict":"keep"}
 {"id":"Q18164838","verdict":"keep"}
-{"id":"Q18169525","verdict":"keep"}
+{"id":"Q18169525","verdict":"keep","countries":["NL"],"reason":"Polonaise is a Dutch meringue pastry."}
 {"id":"Q1817903","verdict":"keep"}
-{"id":"Q18187839","verdict":"keep"}
+{"id":"Q18187839","verdict":"keep","countries":["CN","FR","VN"],"reason":"Nougat chinois includes Vietnamese sesame-peanut confection commonly sold under French name; add VN to existing CN/FR."}
 {"id":"Q1819455","verdict":"keep"}
 {"id":"Q18201801","verdict":"keep"}
 {"id":"Q18202791","verdict":"keep"}
 {"id":"Q1820454","verdict":"keep","reason":"Panko is a prepared Japanese breadcrumb product, not a plain raw ingredient."}
 {"id":"Q18219998","verdict":"keep","countries":["HK","TW"],"reason":"added countries: Hong Kong and Taiwanese dish"}
 {"id":"Q1823666","verdict":"keep","countries":["NL"],"reason":"added country: Groningen cake"}
-{"id":"Q1827035","verdict":"keep"}
+{"id":"Q1827035","verdict":"keep","countries":["TR","IN","EG","GR"],"reason":"Lentil soups have Turkish, Indian, Egyptian and Greek traditions."}
 {"id":"Q1827530","verdict":"keep","countries":["DE"],"reason":"added country: Lippe pastry"}
 {"id":"Q18276594","verdict":"keep"}
 {"id":"Q18285591","verdict":"keep"}
@@ -34,59 +34,59 @@
 {"id":"Q18291301","verdict":"keep","countries":["SE"],"reason":"added country: Swedish fläskpannkaka"}
 {"id":"Q182940","verdict":"remove","reason":"category (course of a meal), not one dish"}
 {"id":"Q1833211","verdict":"keep","countries":["NL"],"reason":"added country: Dutch dessert"}
-{"id":"Q18332174","verdict":"keep"}
+{"id":"Q18332174","verdict":"keep","countries":["SE"],"reason":"The Swedish name supplies the country fallback for this preparation."}
 {"id":"Q18335617","verdict":"keep"}
-{"id":"Q18336577","verdict":"keep"}
+{"id":"Q18336577","verdict":"remove","reason":"remove: Anzu-bo is a branded packaged apricot snack."}
 {"id":"Q18337173","verdict":"keep"}
-{"id":"Q18338265","verdict":"keep"}
+{"id":"Q18338265","verdict":"keep","countries":["US"],"reason":"Steak burgers are an American sandwich preparation."}
 {"id":"Q18339078","verdict":"keep"}
 {"id":"Q18343466","verdict":"keep"}
-{"id":"Q18343677","verdict":"keep"}
+{"id":"Q18343677","verdict":"keep","countries":["TH","VN","CN","PH"],"reason":"Pork-blood soups have Thai, Vietnamese, Chinese and Filipino traditions."}
 {"id":"Q18343984","verdict":"keep"}
 {"id":"Q18344221","verdict":"keep"}
 {"id":"Q18344267","verdict":"keep"}
 {"id":"Q18344618","verdict":"keep"}
-{"id":"Q18349210","verdict":"keep"}
+{"id":"Q18349210","verdict":"keep","countries":["US","FR"],"reason":"Cream of broccoli soup has American and French traditions."}
 {"id":"Q18354045","verdict":"keep"}
 {"id":"Q18355112","verdict":"keep"}
 {"id":"Q18355332","verdict":"keep"}
 {"id":"Q18358623","verdict":"keep"}
-{"id":"Q183599","verdict":"keep"}
+{"id":"Q183599","verdict":"keep","countries":["TR","IR","IN","PK","GR","LB","SY","IL","PS","RU","UA"],"reason":"Halva includes sunflower-seed forms explicitly in ingredients; add Russian and Ukrainian traditions alongside existing shared countries."}
 {"id":"Q18384393","verdict":"keep","countries":["JP"],"reason":"added country: Japanese dish"}
 {"id":"Q18386680","verdict":"keep"}
 {"id":"Q18388431","verdict":"keep"}
-{"id":"Q18388465","verdict":"keep"}
-{"id":"Q18388530","verdict":"keep"}
+{"id":"Q18388465","verdict":"keep","countries":["PL","RU","UA"],"reason":"Pickle soups have Polish, Russian and Ukrainian traditions."}
+{"id":"Q18388530","verdict":"keep","countries":["US"],"reason":"Pig wings are an American pork-shank preparation."}
 {"id":"Q18388803","verdict":"keep"}
 {"id":"Q18388807","verdict":"keep"}
 {"id":"Q18389634","verdict":"keep"}
 {"id":"Q18391184","verdict":"keep"}
-{"id":"Q18392315","verdict":"keep"}
-{"id":"Q18392504","verdict":"keep"}
+{"id":"Q18392315","verdict":"keep","countries":["DE"],"reason":"German fries identify German pan-fried potatoes."}
+{"id":"Q18392504","verdict":"keep","countries":["CA","US"],"reason":"Persian doughnuts are a Canadian and American bakery preparation."}
 {"id":"Q18392972","verdict":"keep"}
 {"id":"Q18393991","verdict":"keep","countries":["GT"],"reason":"added country: Guatemalan dish"}
 {"id":"Q18400196","verdict":"remove","reason":"ingredient (cereal variety), not a dish"}
-{"id":"Q18404521","verdict":"keep"}
-{"id":"Q18409302","verdict":"keep","reason":"Talkan is a named traditional roasted grain preparation, consistent with prepared-product rule."}
+{"id":"Q18404521","verdict":"keep","countries":["KG","KZ"],"reason":"Ashlan-fu belongs to Dungan cooking in Kyrgyzstan and Kazakhstan."}
+{"id":"Q18409302","verdict":"keep","reason":"Talkan is a prepared roasted-grain food of Turkic communities in Russia and Central Asia.","countries":["RU","KZ","KG"]}
 {"id":"Q18412283","verdict":"keep","countries":["ES"],"reason":"added country: Donostia pintxos"}
 {"id":"Q18412855","verdict":"keep","countries":["DE"],"reason":"added country: German dish"}
 {"id":"Q18415236","verdict":"keep","countries":["FR"],"reason":"added country: French pastry"}
 {"id":"Q18416565","verdict":"remove","reason":"essential oil, not a food dish"}
 {"id":"Q18417726","verdict":"keep","countries":["ES"],"reason":"added country: Spanish dish"}
 {"id":"Q18424481","verdict":"keep","countries":["PL"],"reason":"added country: Polish dish"}
-{"id":"Q18425077","verdict":"keep"}
+{"id":"Q18425077","verdict":"keep","countries":["RU"],"reason":"Marinated mushrooms with pine cones belong to Russian preserved-mushroom cooking."}
 {"id":"Q18426199","verdict":"keep","countries":["SE"],"reason":"added country: Swedish dish"}
-{"id":"Q1842635","verdict":"keep"}
+{"id":"Q1842635","verdict":"keep","countries":["US","GB"],"reason":"Vanilla wafers have American and British biscuit traditions."}
 {"id":"Q184291","verdict":"keep","countries":["DE"],"reason":"added country: German Christmas cake"}
 {"id":"Q18432211","verdict":"keep","countries":["IE"],"reason":"added country: Irish breakfast"}
 {"id":"Q18433958","verdict":"keep"}
 {"id":"Q18435013","verdict":"keep"}
-{"id":"Q18450657","verdict":"keep"}
-{"id":"Q18450786","verdict":"keep"}
-{"id":"Q18452355","verdict":"keep"}
-{"id":"Q18454935","verdict":"keep"}
+{"id":"Q18450657","verdict":"remove","reason":"remove: Glassdrink is an ice-cream drink, outside dish scope."}
+{"id":"Q18450786","verdict":"keep","countries":["SE"],"reason":"The Swedish name identifies this lamb saddle preparation."}
+{"id":"Q18452355","verdict":"keep","countries":["SE"],"reason":"Oxhare is a Swedish meat preparation."}
+{"id":"Q18454935","verdict":"keep","countries":["SE","FI","DK"],"reason":"Small platt pancakes belong to Swedish, Finnish and Danish cooking."}
 {"id":"Q18455759","verdict":"keep"}
-{"id":"Q18456023","verdict":"keep"}
+{"id":"Q18456023","verdict":"remove","reason":"remove: Saikoro caramel is a branded packaged caramel product."}
 {"id":"Q18456279","verdict":"keep"}
 {"id":"Q18456374","verdict":"keep"}
 {"id":"Q18456540","verdict":"keep"}
@@ -94,8 +94,8 @@
 {"id":"Q18459801","verdict":"keep"}
 {"id":"Q18464502","verdict":"keep"}
 {"id":"Q18464582","verdict":"keep","countries":["IN"],"reason":"added country: Goan dish"}
-{"id":"Q18464639","verdict":"keep"}
-{"id":"Q18465111","verdict":"keep"}
+{"id":"Q18464639","verdict":"keep","countries":["TM"],"reason":"Ishlykly is a Turkmen meat pie."}
+{"id":"Q18465111","verdict":"keep","countries":["BR"],"reason":"Chuvisco is a Brazilian egg sweet."}
 {"id":"Q18465171","verdict":"keep","countries":["PT"],"reason":"added country: Portuguese ham"}
 {"id":"Q18465188","verdict":"keep","countries":["PT"],"reason":"added country: Portuguese ham"}
 {"id":"Q18465195","verdict":"keep","countries":["PT"],"reason":"added country: Portuguese ham"}
@@ -104,7 +104,7 @@
 {"id":"Q18466254","verdict":"keep"}
 {"id":"Q18466279","verdict":"keep"}
 {"id":"Q18466285","verdict":"keep"}
-{"id":"Q18467298","verdict":"keep"}
+{"id":"Q18467298","verdict":"keep","countries":["BR"],"reason":"Cajuada is a Brazilian cashew-fruit sweet."}
 {"id":"Q18469720","verdict":"keep"}
 {"id":"Q18470462","verdict":"keep"}
 {"id":"Q18471291","verdict":"keep"}
@@ -113,8 +113,8 @@
 {"id":"Q18474808","verdict":"remove","reason":"Second opinion: Terra Quente honey is plain honey, not a prepared dish; no recipe."}
 {"id":"Q18474824","verdict":"remove","reason":"Second opinion: Parque de Montezinho honey is plain honey, not a prepared dish; no recipe."}
 {"id":"Q18479498","verdict":"keep","countries":["PT"],"reason":"added country: Portuguese dish"}
-{"id":"Q18483622","verdict":"keep","countries":[],"reason":"Second opinion: griddled salmon is generic; Portuguese wording does not establish Portuguese origin."}
-{"id":"Q18485223","verdict":"keep"}
+{"id":"Q18483622","verdict":"keep","countries":["BR","PT"],"reason":"The Portuguese name identifies Brazilian and Portuguese griddle-cooked salmon."}
+{"id":"Q18485223","verdict":"keep","countries":["MT"],"reason":"Widows soup is a Maltese vegetable soup."}
 {"id":"Q18499418","verdict":"keep"}
 {"id":"Q18499420","verdict":"keep"}
 {"id":"Q18499424","verdict":"keep"}
@@ -122,18 +122,18 @@
 {"id":"Q18499428","verdict":"keep"}
 {"id":"Q18499429","verdict":"keep"}
 {"id":"Q18499432","verdict":"keep"}
-{"id":"Q18499554","verdict":"keep"}
-{"id":"Q18499683","verdict":"keep"}
+{"id":"Q18499554","verdict":"keep","countries":["BR","AR"],"reason":"Baby beef as a prepared steak belongs to Brazilian and Argentine steakhouse cooking."}
+{"id":"Q18499683","verdict":"keep","countries":["BR"],"reason":"Bananada is a Brazilian banana preserve."}
 {"id":"Q18500460","verdict":"keep"}
-{"id":"Q18500743","verdict":"keep"}
+{"id":"Q18500743","verdict":"keep","countries":["BR"],"reason":"Bolinho de frango is a Brazilian chicken fritter."}
 {"id":"Q1850311","verdict":"keep","countries":["GB"],"reason":"added country: British roast"}
 {"id":"Q1853883","verdict":"keep"}
 {"id":"Q18542598","verdict":"keep"}
-{"id":"Q185457","verdict":"keep"}
-{"id":"Q18547489","verdict":"keep"}
+{"id":"Q185457","verdict":"keep","countries":["DE","RU"],"reason":"Meat salads have German and Russian traditions."}
+{"id":"Q18547489","verdict":"keep","countries":["GR"],"reason":"The description explicitly identifies ancient Greek Thasian sauce."}
 {"id":"Q1855212","verdict":"keep"}
 {"id":"Q185583","verdict":"keep"}
-{"id":"Q18558342","verdict":"keep"}
+{"id":"Q18558342","verdict":"keep","countries":["TN","DZ"],"reason":"Malsouka sheets belong to Tunisian and Algerian cooking."}
 {"id":"Q1856158","verdict":"remove","reason":"religious sacrament (Holy Communion), not a dish"}
 {"id":"Q18562875","verdict":"remove","reason":"Wikimedia disambiguation page, not a dish"}
 {"id":"Q1858518","verdict":"keep"}
@@ -147,11 +147,11 @@
 {"id":"Q18613289","verdict":"keep","countries":["FR"],"reason":"added country: French cake"}
 {"id":"Q18618696","verdict":"keep"}
 {"id":"Q18623828","verdict":"keep","countries":["DK"],"reason":"added country: Danish pastry"}
-{"id":"Q1862619","verdict":"keep"}
+{"id":"Q1862619","verdict":"keep","countries":["LB","SY","PS","JO","IQ","SA"],"reason":"Khubz is shared Levantine, Iraqi and Arabian bread."}
 {"id":"Q18630622","verdict":"remove","reason":"branded packaged product (Schwedenbombe)"}
 {"id":"Q1863568","verdict":"keep"}
 {"id":"Q1863704","verdict":"keep"}
-{"id":"Q186385","verdict":"keep"}
+{"id":"Q186385","verdict":"keep","countries":["RU","IR","AZ"],"reason":"Salt-cured sturgeon caviar has Russian, Iranian and Azerbaijani traditions."}
 {"id":"Q18638792","verdict":"keep"}
 {"id":"Q18651894","verdict":"keep","countries":["JP"],"reason":"added country: Japanese wagashi"}
 {"id":"Q18653699","verdict":"keep"}
@@ -161,14 +161,14 @@
 {"id":"Q18659653","verdict":"keep","countries":["CN"],"reason":"added country: Sichuan beef dish"}
 {"id":"Q1866826","verdict":"keep"}
 {"id":"Q18671599","verdict":"keep"}
-{"id":"Q186817","verdict":"keep"}
+{"id":"Q186817","verdict":"keep","countries":["GB","RU","CN"],"reason":"Porridge has established British, Russian and Chinese traditions."}
 {"id":"Q1868800","verdict":"keep"}
 {"id":"Q18691420","verdict":"keep","countries":["FI"],"reason":"added country: Finnish casserole"}
 {"id":"Q18692770","verdict":"keep"}
 {"id":"Q18693798","verdict":"remove","reason":"branded packaged candy (Fazer)"}
 {"id":"Q18693799","verdict":"remove","reason":"branded candy (Finlandia marmalade candy brand)"}
 {"id":"Q18693805","verdict":"remove","reason":"branded candy bar (Hopeatoffee)"}
-{"id":"Q18693843","verdict":"keep"}
+{"id":"Q18693843","verdict":"remove","reason":"remove: Pax is a branded packaged Swedish candy."}
 {"id":"Q18693848","verdict":"remove","reason":"Second opinion: Puikula is Fazer branded packaged bread (https://www.fazer.fi/tuotteet/tuotemerkit/fazer-puikula--leivat/)."}
 {"id":"Q18693861","verdict":"remove","reason":"branded chocolate bar (Susu)"}
 {"id":"Q18693973","verdict":"keep"}
@@ -190,21 +190,21 @@
 {"id":"Q18747677","verdict":"keep","countries":["ES"],"reason":"added country: Spanish sausage"}
 {"id":"Q18752052","verdict":"keep"}
 {"id":"Q18755741","verdict":"keep"}
-{"id":"Q1875794","verdict":"keep"}
+{"id":"Q1875794","verdict":"keep","countries":["GB","JP"],"reason":"Aerated chocolate has British and Japanese confectionery traditions."}
 {"id":"Q18758781","verdict":"keep"}
 {"id":"Q18785184","verdict":"keep"}
 {"id":"Q1879648","verdict":"keep","countries":["DE"],"reason":"added country: German soup"}
-{"id":"Q1883153","verdict":"keep"}
+{"id":"Q1883153","verdict":"keep","countries":["US","BE"],"reason":"Toast waffles adapt Belgian waffles in American breakfast cooking."}
 {"id":"Q188420","verdict":"keep"}
 {"id":"Q1884243","verdict":"keep"}
-{"id":"Q1884503","verdict":"keep"}
-{"id":"Q1885418","verdict":"keep"}
+{"id":"Q1884503","verdict":"keep","countries":["GB","US"],"reason":"Veggie burgers have British and American traditions."}
+{"id":"Q1885418","verdict":"keep","countries":["DE","FR"],"reason":"Cockchafer soup has historical German and French traditions."}
 {"id":"Q1885478","verdict":"keep"}
 {"id":"Q1885539","verdict":"keep","countries":["NL"],"reason":"added country: Dutch cookies"}
 {"id":"Q1885761","verdict":"keep","countries":["DE"],"reason":"added country: German ham"}
-{"id":"Q1886310","verdict":"keep"}
+{"id":"Q1886310","verdict":"keep","countries":["SG","MY","TH"],"reason":"Mee siam belongs to Singaporean and Malaysian cooking with Thai ties."}
 {"id":"Q1886359","verdict":"keep","countries":["PL"],"reason":"added country: Polish dish"}
-{"id":"Q1886522","verdict":"keep"}
+{"id":"Q1886522","verdict":"keep","countries":["TN","DZ","LY"],"reason":"Makroudh belongs to Tunisian, Algerian and Libyan pastry traditions."}
 {"id":"Q1886687","verdict":"keep"}
 {"id":"Q1887892","verdict":"keep"}
 {"id":"Q18883046","verdict":"keep"}
@@ -219,16 +219,16 @@
 {"id":"Q18922477","verdict":"keep"}
 {"id":"Q1892832","verdict":"remove","reason":"Second opinion: Koetjesreep is a branded candy bar (https://psinfoodservice.com/brand/14102-koetjesreep/)."}
 {"id":"Q18943775","verdict":"keep","countries":["AL","TR"],"reason":"added countries: Albanian and Turkish cake"}
-{"id":"Q18948079","verdict":"keep"}
+{"id":"Q18948079","verdict":"keep","countries":["DK"],"reason":"Bakskuld is Danish dried salted flatfish."}
 {"id":"Q1897149","verdict":"keep"}
 {"id":"Q18991273","verdict":"keep"}
 {"id":"Q1903137","verdict":"keep","countries":["NL"],"reason":"added country: Dutch candy"}
-{"id":"Q1906552","verdict":"keep"}
-{"id":"Q1907985","verdict":"keep"}
+{"id":"Q1906552","verdict":"keep","countries":["DE"],"reason":"Marzipan potatoes are German confections."}
+{"id":"Q1907985","verdict":"keep","countries":["GH","NG","SN","GM"],"reason":"Peanut soup has established Ghanaian, Nigerian, Senegalese and Gambian traditions."}
 {"id":"Q190921","verdict":"keep"}
 {"id":"Q1911937","verdict":"keep","countries":["NL"],"reason":"added country: Dutch cookie"}
 {"id":"Q1915495","verdict":"keep"}
-{"id":"Q1915612","verdict":"keep"}
+{"id":"Q1915612","verdict":"keep","countries":["DZ","MA","TN"],"reason":"Mechoui is shared Maghrebi roast lamb."}
 {"id":"Q1915701","verdict":"keep","countries":["DE"],"reason":"added country: Mecklenburg dish"}
 {"id":"Q1916756","verdict":"keep"}
 {"id":"Q1916808","verdict":"keep","countries":["BE"],"reason":"added country: Belgian praline"}
@@ -238,56 +238,56 @@
 {"id":"Q1922854","verdict":"keep"}
 {"id":"Q1923394","verdict":"keep"}
 {"id":"Q1925991","verdict":"keep"}
-{"id":"Q1926063","verdict":"keep"}
-{"id":"Q192783","verdict":"keep"}
+{"id":"Q1926063","verdict":"keep","countries":["CH"],"reason":"Metzgete is a Swiss meat preparation."}
+{"id":"Q192783","verdict":"keep","countries":["US","NL","DE","PL"],"reason":"Doughnuts have American, Dutch, German and Polish traditions."}
 {"id":"Q19285580","verdict":"keep","countries":["DE"],"reason":"added country: Hildesheim bread"}
 {"id":"Q1928643","verdict":"keep"}
 {"id":"Q192874","verdict":"keep"}
 {"id":"Q19288105","verdict":"keep","countries":["DE"],"reason":"added country: German dish"}
 {"id":"Q1929741","verdict":"keep","reason":"Second opinion: persipan is prepared confectionery paste analogous to marzipan, not a plain raw ingredient."}
 {"id":"Q1934427","verdict":"keep","countries":["DE"],"reason":"added country: German dish"}
-{"id":"Q1934450","verdict":"keep"}
-{"id":"Q1934489","verdict":"keep"}
-{"id":"Q1934690","verdict":"keep"}
-{"id":"Q19358405","verdict":"keep"}
+{"id":"Q1934450","verdict":"keep","countries":["DE"],"reason":"Milchnudeln is a German milk-noodle dish."}
+{"id":"Q1934489","verdict":"keep","countries":["PL","DE","RU"],"reason":"Milk soups have Polish, German and Russian traditions."}
+{"id":"Q1934690","verdict":"remove","reason":"remove: Sea cucumber flesh is a raw ingredient entry with no recipe."}
+{"id":"Q19358405","verdict":"keep","countries":["CN","HK","LK"],"reason":"Coconut buns have Chinese, Hong Kong and Sri Lankan traditions."}
 {"id":"Q19360381","verdict":"keep","countries":["CN"],"reason":"added country: Chinese snack"}
 {"id":"Q19360382","verdict":"keep","countries":["CN"],"reason":"added country: Chinese snack"}
 {"id":"Q19365769","verdict":"keep"}
 {"id":"Q19366122","verdict":"keep","countries":["ES"],"reason":"added country: Spanish rice dish"}
 {"id":"Q1936949","verdict":"keep"}
 {"id":"Q19374689","verdict":"keep"}
-{"id":"Q19376103","verdict":"keep"}
+{"id":"Q19376103","verdict":"keep","countries":["JP"],"reason":"Souffle-style cheesecake is Japanese cheesecake."}
 {"id":"Q1937652","verdict":"keep"}
-{"id":"Q19378476","verdict":"keep"}
+{"id":"Q19378476","verdict":"keep","countries":["GB","US"],"reason":"Dinner rolls have British and American baking traditions."}
 {"id":"Q19380302","verdict":"keep","countries":["NO"],"reason":"added country: Norwegian dish"}
-{"id":"Q19380788","verdict":"keep"}
+{"id":"Q19380788","verdict":"remove","reason":"remove: M is a branded packaged Norwegian candy."}
 {"id":"Q19380983","verdict":"remove","reason":"branded chocolate bar (Mandelstang)"}
 {"id":"Q19381114","verdict":"keep","countries":["NO"],"reason":"added country: Norwegian marzipan cake"}
 {"id":"Q19385369","verdict":"keep","countries":["IT"],"reason":"added country: Italian pasta"}
 {"id":"Q1938644","verdict":"keep","countries":["DE"],"reason":"added country: German bread"}
-{"id":"Q19390528","verdict":"keep"}
+{"id":"Q19390528","verdict":"keep","countries":["GB","DE"],"reason":"Gooseberry jam has British and German preserve traditions."}
 {"id":"Q1940968","verdict":"keep"}
 {"id":"Q1947038","verdict":"keep","countries":["DE"],"reason":"added country: Northern German dish"}
-{"id":"Q195","verdict":"keep"}
+{"id":"Q195","verdict":"keep","countries":["MX","CH","BE","FR","GB"],"reason":"Chocolate has Mexican origins and established Swiss, Belgian, French and British confectionery traditions."}
 {"id":"Q19515766","verdict":"keep"}
-{"id":"Q1953925","verdict":"keep"}
+{"id":"Q1953925","verdict":"keep","countries":["GB","DE","FR"],"reason":"Cooked fruit or vegetable mash has British, German and French traditions."}
 {"id":"Q1954072","verdict":"keep","countries":["DE"],"reason":"added country: Rhenish dish"}
-{"id":"Q19544049","verdict":"keep"}
+{"id":"Q19544049","verdict":"keep","countries":["FR"],"reason":"Salted butter caramel is a French Breton confection."}
 {"id":"Q19545058","verdict":"keep"}
-{"id":"Q19562553","verdict":"keep"}
+{"id":"Q19562553","verdict":"keep","countries":["DK"],"reason":"Surrib is a Danish sour pork preparation."}
 {"id":"Q1957030","verdict":"keep","countries":["IT","DE"],"reason":"Malaga rum/raisin ice cream is associated with Italian gelato and German ice-cream traditions; Malaga wine does not establish Spanish origin."}
-{"id":"Q19570968","verdict":"keep"}
+{"id":"Q19570968","verdict":"keep","countries":["GB","US"],"reason":"Banana custard has British and American pudding traditions."}
 {"id":"Q19571164","verdict":"keep"}
 {"id":"Q19572039","verdict":"keep"}
 {"id":"Q19572482","verdict":"keep","countries":["TH"],"reason":"added country: Thai dessert"}
 {"id":"Q19572606","verdict":"keep"}
 {"id":"Q19573003","verdict":"keep"}
-{"id":"Q19573431","verdict":"keep"}
+{"id":"Q19573431","verdict":"keep","countries":["NG","GH","SL","LR"],"reason":"Okra soups have Nigerian, Ghanaian, Sierra Leonean and Liberian traditions."}
 {"id":"Q1959504","verdict":"keep"}
 {"id":"Q1959865","verdict":"keep"}
 {"id":"Q1959979","verdict":"keep"}
-{"id":"Q19602320","verdict":"keep"}
-{"id":"Q19602338","verdict":"keep"}
+{"id":"Q19602320","verdict":"remove","reason":"remove: Flower honey is a raw honey ingredient with no recipe."}
+{"id":"Q19602338","verdict":"remove","reason":"remove: Forest honey is a raw honey ingredient with no recipe."}
 {"id":"Q1960279","verdict":"keep"}
 {"id":"Q19604552","verdict":"keep","countries":["TR"],"reason":"added country: Turkish meze"}
 {"id":"Q19605683","verdict":"keep"}

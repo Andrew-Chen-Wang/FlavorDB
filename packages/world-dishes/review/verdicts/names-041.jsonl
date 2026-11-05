@@ -1,6 +1,6 @@
 {"id":"Q3678805","verdict":"keep"}
 {"id":"Q3678813","verdict":"keep"}
-{"id":"Q36808801","verdict":"keep"}
+{"id":"Q36808801","verdict":"keep","countries":["IT"],"reason":"Spinach pasta is established Italian pasta making."}
 {"id":"Q3683263","verdict":"keep","reason":"Second opinion: Colline Salernitane PDO is a named traditional processed olive oil."}
 {"id":"Q3683268","verdict":"keep","reason":"Second opinion: Colline Teatine PDO is a named traditional processed olive oil."}
 {"id":"Q3683276","verdict":"keep","reason":"Second opinion: Colline di Romagna PDO is a named traditional processed olive oil."}
@@ -9,12 +9,12 @@
 {"id":"Q3691827","verdict":"keep"}
 {"id":"Q3693169","verdict":"keep"}
 {"id":"Q3694877","verdict":"keep"}
-{"id":"Q3695900","verdict":"keep"}
-{"id":"Q3696330","verdict":"keep"}
+{"id":"Q3695900","verdict":"remove","countries":[],"reason":"Pork skin is defined as the skin of a pig, with no recipe or preparation; apply the raw-ingredient rule."}
+{"id":"Q3696330","verdict":"keep","countries":["IT"],"reason":"Coviglie are Neapolitan Italian frozen spoon desserts."}
 {"id":"Q3696937","verdict":"keep"}
 {"id":"Q3696938","verdict":"keep"}
 {"id":"Q3696942","verdict":"keep"}
-{"id":"Q3696944","verdict":"keep"}
+{"id":"Q3696944","verdict":"keep","countries":["IT"],"reason":"Hazelnut spread is an established Italian confectionery preparation, independent of any brand."}
 {"id":"Q3696945","verdict":"keep"}
 {"id":"Q3696961","verdict":"keep"}
 {"id":"Q3696962","verdict":"keep"}
@@ -27,7 +27,7 @@
 {"id":"Q3699808","verdict":"keep"}
 {"id":"Q3704951","verdict":"keep","countries":["CN"],"reason":"countries were empty; Nanjing salted duck"}
 {"id":"Q370637","verdict":"keep"}
-{"id":"Q370799","verdict":"keep"}
+{"id":"Q370799","verdict":"keep","countries":["US"],"reason":"Freeze-dried ice cream is associated with American space-era food development."}
 {"id":"Q3708874","verdict":"keep"}
 {"id":"Q3711859","verdict":"keep"}
 {"id":"Q3712593","verdict":"keep"}
@@ -48,7 +48,7 @@
 {"id":"Q3746939","verdict":"keep"}
 {"id":"Q3748120","verdict":"keep"}
 {"id":"Q3748124","verdict":"keep"}
-{"id":"Q3748126","verdict":"keep"}
+{"id":"Q3748126","verdict":"keep","countries":["US"],"reason":"Soy cheese is a prepared cheese analogue with established American vegan-food associations."}
 {"id":"Q3748739","verdict":"keep"}
 {"id":"Q375","verdict":"keep"}
 {"id":"Q3751036","verdict":"keep"}
@@ -78,16 +78,16 @@
 {"id":"Q3776096","verdict":"keep"}
 {"id":"Q3776580","verdict":"remove","reason":"honey variety (ingredient), not a dish"}
 {"id":"Q3776725","verdict":"keep"}
-{"id":"Q3776982","verdict":"keep"}
+{"id":"Q3776982","verdict":"keep","countries":["GB","US"],"reason":"Prawn cocktail is established British and American chilled seafood cooking."}
 {"id":"Q3778015","verdict":"keep","countries":["SE"],"reason":"countries were empty; Swedish dish from Norrbotten"}
 {"id":"Q3778467","verdict":"keep"}
-{"id":"Q3782694","verdict":"keep"}
+{"id":"Q3782694","verdict":"keep","countries":["FR","GB","US"],"reason":"Ham and cheese sandwiches are established French, British and American preparations."}
 {"id":"Q378283","verdict":"keep"}
 {"id":"Q37833204","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean dish"}
 {"id":"Q378341","verdict":"keep","countries":["GB","US","CA"],"reason":"Second opinion: macaroni and cheese is associated with British, American and Canadian cuisines"}
 {"id":"Q3784816","verdict":"keep","countries":["BE"],"reason":"countries were empty; Herve cheese is Belgian"}
 {"id":"Q3785698","verdict":"keep"}
-{"id":"Q3799069","verdict":"keep"}
+{"id":"Q3799069","verdict":"keep","countries":["IT","PT","BR"],"reason":"Second opinion: generic seafood salad also has established Portuguese and Brazilian traditions."}
 {"id":"Q3802110","verdict":"keep","reason":"Second opinion: Irpinia Colline dellUfita PDO is a named traditional processed olive oil."}
 {"id":"Q3807565","verdict":"keep"}
 {"id":"Q3814037","verdict":"keep"}
@@ -100,8 +100,8 @@
 {"id":"Q3822761","verdict":"keep"}
 {"id":"Q3823327","verdict":"keep"}
 {"id":"Q3823549","verdict":"keep"}
-{"id":"Q3823969","verdict":"keep"}
-{"id":"Q38247716","verdict":"keep"}
+{"id":"Q3823969","verdict":"keep","countries":["ES"],"reason":"Caldoso is explicitly a Spanish rice dish."}
+{"id":"Q38247716","verdict":"keep","countries":["CN","JP"],"reason":"Lotus-root patties are established Chinese and Japanese preparations."}
 {"id":"Q38247865","verdict":"keep"}
 {"id":"Q3825241","verdict":"keep"}
 {"id":"Q3825584","verdict":"keep","reason":"Second opinion: Laghi Lombardi PDO is a named traditional processed olive oil."}
@@ -113,9 +113,9 @@
 {"id":"Q38266921","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese smoked fish preparation"}
 {"id":"Q3827309","verdict":"keep"}
 {"id":"Q38276179","verdict":"remove","reason":"packaged branded ice cream product, not a dish"}
-{"id":"Q38277888","verdict":"keep"}
+{"id":"Q38277888","verdict":"keep","countries":["JP"],"reason":"Hashimoto omelette has a Japanese name and omelette identity; Japan supplies the required cuisine anchor."}
 {"id":"Q3827928","verdict":"keep"}
-{"id":"Q383284","verdict":"keep"}
+{"id":"Q383284","verdict":"remove","countries":[],"reason":"Afikoman is a ritual portion of an existing matzah, rather than a distinct dish."}
 {"id":"Q38412534","verdict":"keep","countries":["NL"],"reason":"countries were empty; Frisian spice cake"}
 {"id":"Q3841974","verdict":"keep"}
 {"id":"Q3841977","verdict":"keep"}
@@ -138,7 +138,7 @@
 {"id":"Q3852961","verdict":"keep"}
 {"id":"Q3853270","verdict":"keep"}
 {"id":"Q3853320","verdict":"keep"}
-{"id":"Q3853746","verdict":"keep"}
+{"id":"Q3853746","verdict":"keep","countries":["EG","SY","LB","PS","JO"],"reason":"Eggah is shared Egyptian and Levantine egg cooking."}
 {"id":"Q3855995","verdict":"keep"}
 {"id":"Q3857102","verdict":"remove","reason":"PDO honey, a product rather than a dish"}
 {"id":"Q385808","verdict":"keep"}
@@ -182,7 +182,7 @@
 {"id":"Q3893173","verdict":"keep"}
 {"id":"Q3893182","verdict":"keep"}
 {"id":"Q3893185","verdict":"keep"}
-{"id":"Q3893188","verdict":"keep"}
+{"id":"Q3893188","verdict":"keep","countries":["IT"],"reason":"Pane di cena is Italian Sicilian spiced bread."}
 {"id":"Q3893200","verdict":"keep"}
 {"id":"Q3893202","verdict":"keep"}
 {"id":"Q3893215","verdict":"keep"}
@@ -207,7 +207,7 @@
 {"id":"Q3897490","verdict":"keep"}
 {"id":"Q3897491","verdict":"keep"}
 {"id":"Q3897492","verdict":"keep"}
-{"id":"Q3897499","verdict":"keep"}
+{"id":"Q3897499","verdict":"keep","countries":["SE"],"reason":"Bakelse identifies a Swedish individual sweet pastry."}
 {"id":"Q3897500","verdict":"keep"}
 {"id":"Q3897506","verdict":"keep"}
 {"id":"Q3897559","verdict":"keep"}
@@ -225,12 +225,12 @@
 {"id":"Q3902716","verdict":"keep"}
 {"id":"Q39034868","verdict":"keep","countries":["DE"],"reason":"countries were empty; Leipzig banquet soup"}
 {"id":"Q39045630","verdict":"keep"}
-{"id":"Q39046153","verdict":"keep"}
+{"id":"Q39046153","verdict":"keep","countries":["VN","TH","CN"],"reason":"Skewered roasted rat is a real preparation established in Vietnamese, Thai and Chinese cooking."}
 {"id":"Q3904920","verdict":"keep"}
 {"id":"Q3904921","verdict":"keep"}
 {"id":"Q3905339","verdict":"keep"}
 {"id":"Q39053773","verdict":"remove","reason":"a food cart business, not a dish"}
-{"id":"Q39055774","verdict":"keep"}
+{"id":"Q39055774","verdict":"keep","countries":["US","IT"],"reason":"Cherry ice cream has established American and Italian traditions."}
 {"id":"Q3905622","verdict":"keep"}
 {"id":"Q39056765","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese cola chicken"}
 {"id":"Q39057643","verdict":"keep"}
@@ -251,13 +251,13 @@
 {"id":"Q3907811","verdict":"keep"}
 {"id":"Q39082052","verdict":"keep","countries":["PA"],"reason":"countries were empty; Panamanian food"}
 {"id":"Q39086082","verdict":"remove","reason":"category (street food in a country), not one dish"}
-{"id":"Q39087079","verdict":"keep"}
-{"id":"Q39087817","verdict":"keep"}
+{"id":"Q39087079","verdict":"keep","countries":["KR","JP","CN"],"reason":"Salted squid is a preserved seafood preparation established in Korean, Japanese and Chinese cooking."}
+{"id":"Q39087817","verdict":"keep","countries":["US","DE"],"reason":"Beer ice cream is an established American and German beer dessert preparation."}
 {"id":"Q391082","verdict":"keep"}
 {"id":"Q391086","verdict":"keep"}
-{"id":"Q391179","verdict":"keep"}
+{"id":"Q391179","verdict":"keep","countries":["IT","FR"],"reason":"Saint Agatha bread is established Italian and French ritual bread."}
 {"id":"Q3914983","verdict":"keep"}
-{"id":"Q3917542","verdict":"keep","countries":[],"reason":"Second opinion: generic bread made from sifted flour; Dutch wording alone does not establish a country."}
+{"id":"Q3917542","verdict":"keep","countries":["NL","BE"],"reason":"Second opinion: builbrood is Dutch-language sifted-flour bread shared by Dutch and Belgian baking."}
 {"id":"Q3920699","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish dish"}
 {"id":"Q3920714","verdict":"keep","countries":["PL","BY","LT"],"reason":"Second opinion: wereszczaka has Polish, Belarusian and Lithuanian traditions; https://pl.wikisource.org/wiki/Kucharka_litewska_(1913)/Wereszczaka"}
 {"id":"Q3920731","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish dish"}
@@ -271,7 +271,7 @@
 {"id":"Q3924731","verdict":"keep"}
 {"id":"Q3925900","verdict":"keep"}
 {"id":"Q3926046","verdict":"keep"}
-{"id":"Q39262547","verdict":"keep"}
+{"id":"Q39262547","verdict":"keep","countries":["FR","GB","IT"],"reason":"Second opinion: fruit tarts have established British and Italian ties alongside French pastry."}
 {"id":"Q3927078","verdict":"keep"}
 {"id":"Q3929288","verdict":"keep"}
 {"id":"Q392935","verdict":"keep"}

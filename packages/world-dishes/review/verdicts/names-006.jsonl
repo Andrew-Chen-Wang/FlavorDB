@@ -148,8 +148,8 @@
 {"id":"Q108570082","verdict":"keep"}
 {"id":"Q108570447","verdict":"keep"}
 {"id":"Q10857248","verdict":"keep"}
-{"id":"Q108575262","verdict":"keep"}
-{"id":"Q108576689","verdict":"keep"}
+{"id":"Q108575262","verdict":"keep","countries":["BO","PE"],"reason":"Fried ispi is a Lake Titicaca fish preparation shared by Bolivia and Peru."}
+{"id":"Q108576689","verdict":"keep","countries":["JP","CN","TW","HK"],"reason":"Cream filled sweet buns are established in Japanese and Chinese regional bakeries."}
 {"id":"Q10858146","verdict":"keep","countries":["ES"],"reason":"countries empty; Spanish dish (La Rioja)"}
 {"id":"Q108586604","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese korokke"}
 {"id":"Q108595777","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
@@ -291,7 +291,7 @@
 {"id":"Q108698282","verdict":"keep"}
 {"id":"Q108703191","verdict":"keep","countries":["FR"],"reason":"countries empty; French sauce/soup"}
 {"id":"Q108717844","verdict":"keep","countries":["NL","ID"],"reason":"countries empty; Indonesian-Dutch cuisine"}
-{"id":"Q10872500","verdict":"keep"}
+{"id":"Q10872500","verdict":"keep","countries":["FR","AT","IT","JP"],"reason":"Cutlets have established French, Austrian, Italian and Japanese forms."}
 {"id":"Q108744549","verdict":"keep","countries":["ES"],"reason":"countries empty; Majorcan biscuit"}
 {"id":"Q1087577","verdict":"keep"}
 {"id":"Q108759397","verdict":"keep"}

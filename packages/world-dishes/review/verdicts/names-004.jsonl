@@ -12,7 +12,7 @@
 {"id":"Q106981872","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q106981884","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q106981894","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
-{"id":"Q10698666","verdict":"keep","reason":"Retain the soup, but its Swedish name alone does not establish a country."}
+{"id":"Q10698666","verdict":"keep","reason":"Swedish Tuesday-soup name supplies last-resort country association.","countries":["SE"]}
 {"id":"Q106986849","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q10698918","verdict":"keep","countries":["SE"],"reason":"Swedish pastry; country added"}
 {"id":"Q10698992","verdict":"keep"}
@@ -54,9 +54,9 @@
 {"id":"Q107063111","verdict":"keep","countries":["SK"],"reason":"Slovak dessert; country added"}
 {"id":"Q107063815","verdict":"keep","countries":["US"],"reason":"second opinion: French burnt peanuts are an American confection; the name does not establish French origin"}
 {"id":"Q107064408","verdict":"keep"}
-{"id":"Q10706493","verdict":"keep"}
+{"id":"Q10706493","verdict":"keep","countries":["SE"],"reason":"The Swedish pastry label identifies this turban-shaped pastry version."}
 {"id":"Q107064986","verdict":"keep"}
-{"id":"Q10706679","verdict":"keep"}
+{"id":"Q10706679","verdict":"keep","countries":["SE"],"reason":"Tuttul is Swedish flatbread preparation."}
 {"id":"Q107071683","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107071712","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107071820","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
@@ -71,10 +71,10 @@
 {"id":"Q107094509","verdict":"keep","countries":["US"],"reason":"American dessert; country added"}
 {"id":"Q10709601","verdict":"keep"}
 {"id":"Q10710162","verdict":"keep"}
-{"id":"Q107111834","verdict":"keep"}
+{"id":"Q107111834","verdict":"keep","countries":["DE","AT"],"reason":"Quark rolls have German and Austrian bakery associations."}
 {"id":"Q10711327","verdict":"keep"}
-{"id":"Q107123836","verdict":"keep"}
-{"id":"Q107123837","verdict":"keep"}
+{"id":"Q107123836","verdict":"keep","countries":["IL"],"reason":"Beitzah is the prepared ceremonial Passover egg in Israeli Jewish cooking."}
+{"id":"Q107123837","verdict":"remove","reason":"Chazeret identifies the raw seder bitter herb, without preparation or recipe here.","countries":[]}
 {"id":"Q1071353","verdict":"keep"}
 {"id":"Q107144689","verdict":"keep","countries":["LK"],"reason":"Sri Lankan food; country added"}
 {"id":"Q107148053","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
@@ -88,9 +88,9 @@
 {"id":"Q107149615","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107149626","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q10715213","verdict":"keep","countries":["SE"],"reason":"Swedish crispbread; country added"}
-{"id":"Q107158482","verdict":"keep"}
+{"id":"Q107158482","verdict":"keep","countries":["MX","US"],"reason":"Tortilla chips with salsa are shared Mexican and Tex-Mex American appetizer food."}
 {"id":"Q1071614","verdict":"keep"}
-{"id":"Q10716336","verdict":"keep","reason":"Garlic pickled herring is a prepared food shared across Nordic cuisines; the Norwegian label alone is not a country basis."}
+{"id":"Q10716336","verdict":"keep","reason":"Garlic pickled herring has Norwegian, Swedish and Danish forms.","countries":["NO","SE","DK"]}
 {"id":"Q1071699","verdict":"keep","countries":["KR","KP"],"reason":"Jeongol is a shared Korean hot-pot preparation associated with both Koreas."}
 {"id":"Q107174355","verdict":"keep","countries":["HR"],"reason":"Dalmatian fish stew; country added"}
 {"id":"Q107175849","verdict":"keep"}
@@ -99,17 +99,17 @@
 {"id":"Q107203521","verdict":"keep"}
 {"id":"Q107204227","verdict":"keep","countries":["FI"],"reason":"Finnish sausage; country added"}
 {"id":"Q1072093","verdict":"keep"}
-{"id":"Q107213541","verdict":"keep","reason":"Wholegrain rolls are a prepared food; the German label alone does not establish German origin."}
+{"id":"Q107213541","verdict":"keep","reason":"Vollkornbrötchen identifies German/Austrian wholegrain rolls.","countries":["DE","AT"]}
 {"id":"Q1072190","verdict":"keep"}
 {"id":"Q10722961","verdict":"keep"}
-{"id":"Q10723494","verdict":"keep"}
-{"id":"Q107246621","verdict":"keep"}
-{"id":"Q107246736","verdict":"keep"}
+{"id":"Q10723494","verdict":"keep","countries":["ES","MX"],"reason":"Yemas de San Cristóbal belongs to Spanish and Mexican egg-yolk confection traditions."}
+{"id":"Q107246621","verdict":"remove","reason":"The entry expressly describes goat feet as offal and food ingredient, without recipe.","countries":[]}
+{"id":"Q107246736","verdict":"keep","countries":["SE","FI"],"reason":"Roe pancakes have Swedish and Finnish fish-food associations."}
 {"id":"Q10725547","verdict":"keep"}
 {"id":"Q10725554","verdict":"keep"}
-{"id":"Q107262039","verdict":"keep"}
-{"id":"Q107262073","verdict":"keep"}
-{"id":"Q10726534","verdict":"keep"}
+{"id":"Q107262039","verdict":"keep","countries":["DE","GB","FR"],"reason":"The description identifies prepared historical spiced bread used for sauces, with German, British and French associations."}
+{"id":"Q107262073","verdict":"remove","reason":"Rye bread crust is only a component of bread, without separate dish or preparation here.","countries":[]}
+{"id":"Q10726534","verdict":"keep","countries":["SE"],"reason":"Ångbåtsbiff is Swedish beef preparation."}
 {"id":"Q107285110","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107285115","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107285128","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
@@ -180,21 +180,21 @@
 {"id":"Q107287449","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107287463","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107289424","verdict":"remove","reason":"generic category (soup), not one dish"}
-{"id":"Q107290304","verdict":"keep","reason":"second opinion: hot bar is Korean deep-fried fish-cake street food, not a buffet counter"}
+{"id":"Q107290304","verdict":"keep","reason":"Hot bar identifies Korean fried fish-cake street food.","countries":["KR"]}
 {"id":"Q107292775","verdict":"keep","countries":["DO"],"reason":"Dominican dish; country added"}
 {"id":"Q1073041","verdict":"keep"}
-{"id":"Q107304125","verdict":"keep"}
+{"id":"Q107304125","verdict":"keep","countries":["DE","TR"],"reason":"Stuffed cucumber has German and Turkish culinary versions."}
 {"id":"Q107304811","verdict":"keep","countries":["GB"],"reason":"English dish; country added"}
 {"id":"Q107308168","verdict":"keep"}
 {"id":"Q1073115","verdict":"keep","countries":["KR","KP"],"reason":"Dasik is shared Korean traditional confectionery associated with both Koreas."}
 {"id":"Q1073156","verdict":"keep","countries":["KR","KP"],"reason":"White kimchi is associated with both Koreas."}
-{"id":"Q1073174","verdict":"keep","reason":"second opinion: jeotgal is prepared salted and fermented seafood, retained under the prepared-food rule"}
-{"id":"Q107323860","verdict":"keep"}
-{"id":"Q107328806","verdict":"keep"}
-{"id":"Q107330963","verdict":"keep"}
+{"id":"Q1073174","verdict":"keep","reason":"Jeotgal is prepared salted fermented seafood shared across Korean cooking.","countries":["KR","KP"]}
+{"id":"Q107323860","verdict":"keep","countries":["US"],"reason":"The extra-long catering submarine sandwich is American sandwich food."}
+{"id":"Q107328806","verdict":"keep","countries":["US","GB","FI","SE"],"reason":"Fried whitefish has American, British, Finnish and Swedish versions."}
+{"id":"Q107330963","verdict":"keep","countries":["DE"],"reason":"Brizza identifies German pretzel-pizza preparation."}
 {"id":"Q107337960","verdict":"keep"}
 {"id":"Q107345998","verdict":"keep"}
-{"id":"Q107354109","verdict":"keep"}
+{"id":"Q107354109","verdict":"keep","countries":["US"],"reason":"Firecake belongs to historical American camp and military cooking."}
 {"id":"Q107356806","verdict":"keep"}
 {"id":"Q107356825","verdict":"keep"}
 {"id":"Q107356970","verdict":"keep"}
@@ -225,16 +225,16 @@
 {"id":"Q107370151","verdict":"keep","countries":["ES"],"reason":"Valencian food; country added"}
 {"id":"Q107387599","verdict":"keep"}
 {"id":"Q107387621","verdict":"keep"}
-{"id":"Q1073888","verdict":"keep"}
+{"id":"Q1073888","verdict":"keep","countries":["CN","JP","KR","TW"],"reason":"Dried shredded squid is prepared seafood snack shared by these East Asian traditions."}
 {"id":"Q107389580","verdict":"keep"}
 {"id":"Q10740107","verdict":"keep"}
 {"id":"Q107405732","verdict":"keep"}
 {"id":"Q1074136","verdict":"keep"}
-{"id":"Q107413898","verdict":"keep"}
+{"id":"Q107413898","verdict":"keep","countries":["ES"],"reason":"Brascada is Valencian Spanish bocadillo."}
 {"id":"Q107414071","verdict":"keep"}
-{"id":"Q107414102","verdict":"keep"}
-{"id":"Q107414117","verdict":"keep","reason":"second opinion: the linked Akidi entry identifies an Igbo prepared bean dish, not just the raw cowpea"}
-{"id":"Q107414363","verdict":"keep"}
+{"id":"Q107414102","verdict":"keep","countries":["ES"],"reason":"Sobrassada, onion and cheese bocadillo identifies Spanish sandwich despite its Arabic label."}
+{"id":"Q107414117","verdict":"remove","reason":"Cowpea supplies a raw bean name without identifying a prepared version or a recipe; retain ingredient removal.","countries":[]}
+{"id":"Q107414363","verdict":"keep","countries":["ES"],"reason":"Ximet is a Valencian Spanish sandwich."}
 {"id":"Q107416756","verdict":"keep"}
 {"id":"Q10742195","verdict":"keep"}
 {"id":"Q10742199","verdict":"keep","countries":["VN"],"reason":"Vietnamese dish; country added"}
@@ -246,12 +246,12 @@
 {"id":"Q10742230","verdict":"keep","countries":["VN"],"reason":"Vietnamese dish; country added"}
 {"id":"Q10742234","verdict":"keep"}
 {"id":"Q10742235","verdict":"keep"}
-{"id":"Q107424501","verdict":"keep"}
+{"id":"Q107424501","verdict":"keep","countries":["NG"],"reason":"The description expressly identifies Nigerian roasted plantain."}
 {"id":"Q10742887","verdict":"keep"}
 {"id":"Q10742893","verdict":"keep"}
 {"id":"Q10742896","verdict":"keep"}
 {"id":"Q10742901","verdict":"keep"}
-{"id":"Q107434730","verdict":"keep","countries":[],"reason":"second opinion: Rohkostsalat is a generic raw vegetable salad; its German name alone does not establish a country"}
+{"id":"Q107434730","verdict":"keep","countries":["DE"],"reason":"The German name supplies the country version of this prepared raw-vegetable salad."}
 {"id":"Q107449555","verdict":"keep"}
 {"id":"Q107449597","verdict":"keep"}
 {"id":"Q107449672","verdict":"keep"}
@@ -277,7 +277,7 @@
 {"id":"Q10752179","verdict":"keep","countries":["VN"],"reason":"Vietnamese dish; country added"}
 {"id":"Q10752219","verdict":"keep","countries":["BE","NL"],"reason":"second opinion: suikerbonen are traditional birth and baptism sweets in Belgium and parts of the Netherlands"}
 {"id":"Q10752894","verdict":"keep"}
-{"id":"Q107529419","verdict":"keep"}
+{"id":"Q107529419","verdict":"remove","reason":"Rampo Two-Sen Coin senbei is commemorative commercial confectionery.","countries":[]}
 {"id":"Q10753530","verdict":"keep"}
 {"id":"Q1075430","verdict":"keep","countries":["KR","KP"],"reason":"Gomguk is a shared Korean beef soup associated with both Koreas."}
 {"id":"Q1075614","verdict":"keep","countries":["KR"],"reason":"The entry names the generic choco-pie snack cake, not a particular maker or branded product."}
@@ -288,9 +288,9 @@
 {"id":"Q107598863","verdict":"remove","reason":"supermarket sales promotion (meal bundle), not a dish"}
 {"id":"Q107610602","verdict":"keep","countries":["FR"],"reason":"French egg dish; country added"}
 {"id":"Q107612492","verdict":"keep","countries":["JP"],"reason":"Japanese yoshoku dish; country added"}
-{"id":"Q107625293","verdict":"keep","reason":"Stuffed kohlrabi is a prepared dish shared across Central Europe; its German name does not establish a uniquely German association."}
+{"id":"Q107625293","verdict":"keep","reason":"Stuffed kohlrabi is shared German, Austrian and Hungarian cooking.","countries":["DE","AT","HU"]}
 {"id":"Q107636161","verdict":"keep"}
-{"id":"Q107638016","verdict":"keep"}
+{"id":"Q107638016","verdict":"keep","countries":["US"],"reason":"Lobster macaroni and cheese follows American macaroni-and-cheese cooking."}
 {"id":"Q107639054","verdict":"keep"}
 {"id":"Q107645851","verdict":"keep"}
 {"id":"Q107657017","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}

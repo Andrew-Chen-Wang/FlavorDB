@@ -1,7 +1,7 @@
 {"id":"Q108788274","verdict":"remove","reason":"restaurant-specific menu item (Nachos at Maya)"}
 {"id":"Q108794171","verdict":"keep","countries":["KR","KP"],"reason":"Seonji-guk is a shared Korean blood soup associated with both Koreas."}
 {"id":"Q108794274","verdict":"keep","countries":["CN"],"reason":"countries empty; Chinese-origin dish"}
-{"id":"Q108794306","verdict":"keep"}
+{"id":"Q108794306","verdict":"keep","countries":["JP","CN"],"reason":"Japanese Chinese sweet and sour pork."}
 {"id":"Q108794909","verdict":"keep","countries":["AT","CZ"],"reason":"Topfenknoedel is Austrian; added AT"}
 {"id":"Q108798661","verdict":"keep"}
 {"id":"Q108799327","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
@@ -9,7 +9,7 @@
 {"id":"Q108808119","verdict":"keep"}
 {"id":"Q108808122","verdict":"keep"}
 {"id":"Q108808192","verdict":"keep"}
-{"id":"Q10882706","verdict":"keep"}
+{"id":"Q10882706","verdict":"keep","countries":["ES"],"reason":"Spanish named pie; last resort association from its name."}
 {"id":"Q10883503","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese wagashi"}
 {"id":"Q108839458","verdict":"keep"}
 {"id":"Q108841343","verdict":"keep","countries":["DE"],"reason":"countries empty; German wartime bread"}
@@ -18,7 +18,7 @@
 {"id":"Q10889324","verdict":"keep"}
 {"id":"Q108893457","verdict":"keep"}
 {"id":"Q108905093","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean candy"}
-{"id":"Q1089051","verdict":"keep"}
+{"id":"Q1089051","verdict":"keep","countries":["TR","PL","RO","BG","MX","CN"],"reason":"Tripe soups are established across these cuisines."}
 {"id":"Q108919208","verdict":"keep","countries":["MY","ID"],"reason":"countries empty; Penang/Indonesian Chinese dish"}
 {"id":"Q10892132","verdict":"keep","countries":["TW"],"reason":"Second opinion: eight-treasure glass noodles are associated with Yilan, Taiwan."}
 {"id":"Q10892305","verdict":"keep"}
@@ -26,16 +26,16 @@
 {"id":"Q108937158","verdict":"keep","countries":["PE"],"reason":"countries empty; Peruvian dish"}
 {"id":"Q10894961","verdict":"keep"}
 {"id":"Q10895227","verdict":"keep","countries":["CN"],"reason":"countries empty; Chinese soup"}
-{"id":"Q108952861","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
+{"id":"Q108952861","verdict":"keep","countries":["PL"],"reason":"Polish named alternative béchamel potatoes."}
 {"id":"Q108952869","verdict":"keep","countries":["FR"],"reason":"countries empty; French-style potatoes"}
-{"id":"Q108952877","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108952885","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108952893","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108952902","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108952910","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108952919","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108952926","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108952935","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
+{"id":"Q108952877","verdict":"keep","countries":["PL"],"reason":"Polish mashed potato recipe version."}
+{"id":"Q108952885","verdict":"keep","countries":["PL"],"reason":"Polish jacket potato recipe version."}
+{"id":"Q108952893","verdict":"keep","countries":["PL"],"reason":"Polish oven potato recipe version."}
+{"id":"Q108952902","verdict":"keep","countries":["PL"],"reason":"Polish mushroom and potato bake."}
+{"id":"Q108952910","verdict":"keep","countries":["PL"],"reason":"Polish smoked fish potato bake."}
+{"id":"Q108952919","verdict":"keep","countries":["PL"],"reason":"Polish cheese potato bake."}
+{"id":"Q108952926","verdict":"keep","countries":["PL"],"reason":"Polish potato and pork fat preparation."}
+{"id":"Q108952935","verdict":"keep","countries":["PL"],"reason":"Polish potato and herring preparation."}
 {"id":"Q108952943","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
 {"id":"Q108962279","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
 {"id":"Q108962283","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
@@ -44,29 +44,29 @@
 {"id":"Q108962291","verdict":"keep","countries":["PL","CZ","AT","DE"],"reason":"Potato knedle are shared Central European dumplings, associated with Poland, Czechia, Austria and Germany."}
 {"id":"Q108962295","verdict":"keep","countries":["DE"],"reason":"countries empty; Saxon dumplings"}
 {"id":"Q108962297","verdict":"keep","countries":["DE"],"reason":"countries empty; Thuringian dumplings"}
-{"id":"Q108962300","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
-{"id":"Q108962303","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
-{"id":"Q108962306","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
-{"id":"Q108962309","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
-{"id":"Q108962311","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
-{"id":"Q108962313","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
-{"id":"Q108962316","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
-{"id":"Q108962319","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
-{"id":"Q108962322","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
-{"id":"Q108962326","verdict":"keep","reason":"Retain this potato preparation; Polish cookbook wording alone does not establish a country for a generic cutlet, croquette or pâté."}
+{"id":"Q108962300","verdict":"keep","reason":"Polish alternative potato cutlets.","countries":["PL"]}
+{"id":"Q108962303","verdict":"keep","reason":"Polish croquette dough potato cutlets.","countries":["PL"]}
+{"id":"Q108962306","verdict":"keep","reason":"Polish plain potato cutlets.","countries":["PL"]}
+{"id":"Q108962309","verdict":"keep","reason":"Polish stuffed potato cutlets.","countries":["PL"]}
+{"id":"Q108962311","verdict":"keep","reason":"Polish meat filled potato cutlets.","countries":["PL"]}
+{"id":"Q108962313","verdict":"keep","reason":"Polish potato and egg cutlets.","countries":["PL"]}
+{"id":"Q108962316","verdict":"keep","reason":"Polish potato croquette version.","countries":["PL"]}
+{"id":"Q108962319","verdict":"keep","reason":"Polish alternate potato croquettes.","countries":["PL"]}
+{"id":"Q108962322","verdict":"keep","reason":"Polish potato pastries.","countries":["PL"]}
+{"id":"Q108962326","verdict":"keep","reason":"Polish potato pate version.","countries":["PL"]}
 {"id":"Q108962329","verdict":"keep","countries":["PL","UA"],"reason":"Potato pierogi are closely associated with Polish and Ukrainian cuisines."}
 {"id":"Q108962332","verdict":"keep","countries":["PL","UA"],"reason":"Potato-filled pierogi are closely associated with Polish and Ukrainian cuisines."}
-{"id":"Q108962335","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
+{"id":"Q108962335","verdict":"keep","countries":["PL"],"reason":"Polish potato puree version."}
 {"id":"Q108962339","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
 {"id":"Q108962342","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
 {"id":"Q108962345","verdict":"keep","countries":["DE"],"reason":"Second opinion: the dish is explicitly German-style pancakes; judge the dish rather than Polish cookbook language."}
-{"id":"Q108962347","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108962350","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108962353","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108962356","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108962359","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
+{"id":"Q108962347","verdict":"keep","countries":["PL"],"reason":"Polish mayonnaise potato salad."}
+{"id":"Q108962350","verdict":"keep","countries":["PL"],"reason":"Polish alternate potato salad."}
+{"id":"Q108962353","verdict":"keep","countries":["PL"],"reason":"Polish tomato potato salad."}
+{"id":"Q108962356","verdict":"keep","countries":["PL"],"reason":"Polish watercress potato salad."}
+{"id":"Q108962359","verdict":"keep","countries":["PL"],"reason":"Polish sweet potato pancake preparation."}
 {"id":"Q108962362","verdict":"remove","reason":"preface (Slowo wstepne, introductory word) of the potato cookbook, not a dish"}
-{"id":"Q108962365","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
+{"id":"Q108962365","verdict":"keep","countries":["PL"],"reason":"Polish old potatoes prepared like new potatoes."}
 {"id":"Q10896709","verdict":"keep"}
 {"id":"Q108971756","verdict":"keep","countries":["IT"],"reason":"countries empty; Italian gnocchi"}
 {"id":"Q108971759","verdict":"keep","countries":["PL","BY","LT"],"reason":"Potato babka is shared by Polish, Belarusian and Lithuanian cuisines."}
@@ -74,66 +74,66 @@
 {"id":"Q108971768","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
 {"id":"Q108971771","verdict":"keep","countries":["PL","UA","FI","DE"],"reason":"Forshmak has established Polish, Ukrainian, Finnish and German associations."}
 {"id":"Q108971774","verdict":"keep","countries":["FR"],"reason":"countries empty; Lyonnaise potatoes"}
-{"id":"Q108971777","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108971780","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
+{"id":"Q108971777","verdict":"keep","countries":["PL"],"reason":"Polish scooped potato preparation."}
+{"id":"Q108971780","verdict":"keep","countries":["PL"],"reason":"Polish raw fried potato preparation."}
 {"id":"Q108971783","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
 {"id":"Q108971785","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
 {"id":"Q108971788","verdict":"keep","countries":["FR"],"reason":"countries empty; Duchesse potatoes"}
-{"id":"Q108971791","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108971794","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108971797","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108971798","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108971800","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
+{"id":"Q108971791","verdict":"keep","countries":["PL"],"reason":"Polish boiled potato recipe version."}
+{"id":"Q108971794","verdict":"keep","countries":["PL"],"reason":"Polish stuffed potato preparation."}
+{"id":"Q108971797","verdict":"keep","countries":["PL"],"reason":"Polish meat stuffed potatoes."}
+{"id":"Q108971798","verdict":"keep","countries":["PL"],"reason":"Polish mushroom stuffed potatoes."}
+{"id":"Q108971800","verdict":"keep","countries":["PL"],"reason":"Polish ham stuffed potatoes."}
 {"id":"Q108991482","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook section"}
-{"id":"Q108991498","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108991507","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108991515","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q108991525","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
+{"id":"Q108991498","verdict":"keep","countries":["PL"],"reason":"Polish peeled baked potato preparation."}
+{"id":"Q108991507","verdict":"keep","countries":["PL"],"reason":"Polish oil fried potatoes."}
+{"id":"Q108991515","verdict":"keep","countries":["PL"],"reason":"Polish old potatoes prepared like new potatoes."}
+{"id":"Q108991525","verdict":"keep","countries":["PL"],"reason":"Polish mould baked potato dish."}
 {"id":"Q10899266","verdict":"keep"}
 {"id":"Q1089959","verdict":"keep"}
 {"id":"Q109007893","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook section"}
 {"id":"Q109007896","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook section"}
 {"id":"Q1090081","verdict":"keep"}
-{"id":"Q109016652","verdict":"keep"}
+{"id":"Q109016652","verdict":"remove","reason":"Ah Caramel! is a branded Vachon packaged cake.","countries":[]}
 {"id":"Q109017052","verdict":"keep","countries":["BJ"],"reason":"countries empty; Beninese dish"}
 {"id":"Q109017053","verdict":"keep","countries":["BJ"],"reason":"countries empty; Beninese dish"}
 {"id":"Q109017123","verdict":"keep","countries":["PF"],"reason":"countries empty; Tuamotu (French Polynesia) bread"}
-{"id":"Q109017302","verdict":"keep"}
+{"id":"Q109017302","verdict":"keep","countries":["MA"],"reason":"Moroccan pastilla preparation."}
 {"id":"Q109017516","verdict":"keep","countries":["FR"],"reason":"countries empty; French biscuit"}
 {"id":"Q109017584","verdict":"keep","countries":["BJ"],"reason":"countries empty; Beninese dish"}
-{"id":"Q109017628","verdict":"keep"}
-{"id":"Q109017637","verdict":"keep"}
+{"id":"Q109017628","verdict":"keep","countries":["MA"],"reason":"Boubanyta is a Moroccan preparation."}
+{"id":"Q109017637","verdict":"keep","countries":["MA"],"reason":"Boufertouna is associated with Moroccan cooking."}
 {"id":"Q109017674","verdict":"keep","countries":["FR"],"reason":"countries empty; French pastry"}
-{"id":"Q109017702","verdict":"keep","name":"Briquet","reason":"name had wiki disambiguation suffix \"(alimentation)\""}
-{"id":"Q109017738","verdict":"keep"}
+{"id":"Q109017702","verdict":"keep","name":"Briquet","reason":"Northern French miners packed meal.","countries":["FR"]}
+{"id":"Q109017738","verdict":"keep","countries":["CM"],"reason":"Byala is a Cameroonian regional preparation."}
 {"id":"Q109017895","verdict":"remove","reason":"carrot variety (vegetable), not a prepared dish"}
 {"id":"Q109019732","verdict":"keep"}
 {"id":"Q109019813","verdict":"keep","countries":["FR"],"reason":"countries empty; French pastry from Amiens"}
 {"id":"Q109021226","verdict":"keep"}
-{"id":"Q109024081","verdict":"keep"}
-{"id":"Q109036311","verdict":"keep"}
+{"id":"Q109024081","verdict":"remove","reason":"Esperantine is a commercial Marseille chocolate confection.","countries":[]}
+{"id":"Q109036311","verdict":"keep","countries":["MA"],"reason":"Moroccan egg and almond couscous."}
 {"id":"Q109037701","verdict":"keep"}
-{"id":"Q109037735","verdict":"keep"}
+{"id":"Q109037735","verdict":"keep","countries":["FR"],"reason":"Toulouse regional cake."}
 {"id":"Q109037785","verdict":"keep"}
 {"id":"Q109037952","verdict":"keep"}
-{"id":"Q109038040","verdict":"keep"}
-{"id":"Q109038189","verdict":"keep"}
+{"id":"Q109038040","verdict":"keep","countries":["FR"],"reason":"Galopin is a French regional preparation."}
+{"id":"Q109038189","verdict":"keep","countries":["MA","DZ","TN"],"reason":"Okra preparations named gnaouia belong to shared Maghrebi cooking."}
 {"id":"Q109038487","verdict":"keep","countries":["FR"],"reason":"countries empty; French buckwheat porridge"}
 {"id":"Q109038648","verdict":"remove","reason":"Haricot de Soissons is a named bean variety, a raw ingredient with no recipe here."}
 {"id":"Q109039280","verdict":"keep"}
-{"id":"Q109039736","verdict":"keep"}
-{"id":"Q109040741","verdict":"keep"}
+{"id":"Q109039736","verdict":"keep","countries":["FR"],"reason":"Nage is a French culinary preparation."}
+{"id":"Q109040741","verdict":"keep","countries":["MA"],"reason":"Paleppa is a northern Moroccan sweet."}
 {"id":"Q109040805","verdict":"keep","countries":["FR"],"reason":"Second opinion: this French beignet entry refers to Corsican panzarotti, not Italian stuffed panzerotti."}
 {"id":"Q109040989","verdict":"keep","countries":["MA"],"reason":"countries empty; Moroccan dessert"}
 {"id":"Q109041241","verdict":"keep"}
 {"id":"Q109041526","verdict":"keep","countries":["MA"],"reason":"countries empty; Moroccan dish"}
-{"id":"Q109041589","verdict":"keep"}
-{"id":"Q109041733","verdict":"keep"}
-{"id":"Q109041756","verdict":"keep"}
+{"id":"Q109041589","verdict":"keep","countries":["GP","MQ"],"reason":"Kilibibi is French Caribbean confectionery."}
+{"id":"Q109041733","verdict":"keep","countries":["BJ","TG"],"reason":"Kom belongs to Beninese and Togolese fermented corn traditions."}
+{"id":"Q109041756","verdict":"keep","countries":["BJ"],"reason":"Kondogo is a Beninese preparation."}
 {"id":"Q109041767","verdict":"keep","countries":["FR"],"reason":"countries empty; French pastry"}
 {"id":"Q109041787","verdict":"keep","countries":["BJ"],"reason":"countries empty; Fon (Beninese) dish"}
-{"id":"Q109042474","verdict":"keep"}
-{"id":"Q109042573","verdict":"keep"}
+{"id":"Q109042474","verdict":"keep","countries":["FR"],"reason":"Quenieu is a French regional pastry."}
+{"id":"Q109042573","verdict":"keep","countries":["MA"],"reason":"Lamfarchakh is a Moroccan regional preparation."}
 {"id":"Q109042764","verdict":"keep"}
 {"id":"Q109043967","verdict":"keep","countries":["FR"],"reason":"countries empty; French macaron"}
 {"id":"Q109043970","verdict":"keep","countries":["FR"],"reason":"countries empty; French macaron"}
@@ -141,12 +141,12 @@
 {"id":"Q109043993","verdict":"keep","countries":["FR"],"reason":"countries empty; French sauce"}
 {"id":"Q109044011","verdict":"keep","countries":["FR"],"reason":"countries empty; French pastry"}
 {"id":"Q109044260","verdict":"keep","countries":["BJ"],"reason":"countries empty; Fon (Beninese) dish"}
-{"id":"Q109044372","verdict":"keep"}
-{"id":"Q109044541","verdict":"keep"}
-{"id":"Q109044874","verdict":"keep"}
+{"id":"Q109044372","verdict":"keep","countries":["MA"],"reason":"Marchouqa is a Moroccan preparation."}
+{"id":"Q109044541","verdict":"keep","countries":["KM","YT","TZ"],"reason":"Mataba is shared Comorian, Mayotte and East African cassava leaf cookery."}
+{"id":"Q109044874","verdict":"keep","countries":["DZ","TN","MA"],"reason":"Stuffed intestine preparation shared across these Maghrebi cuisines."}
 {"id":"Q109044882","verdict":"keep","countries":["FR"],"reason":"countries empty; soup from Amiens"}
-{"id":"Q109045015","verdict":"keep"}
-{"id":"Q109045435","verdict":"keep"}
+{"id":"Q109045015","verdict":"keep","countries":["MA","ES"],"reason":"Mikaz belongs to northern Moroccan and Spanish migas traditions."}
+{"id":"Q109045435","verdict":"keep","countries":["FR"],"reason":"Normandy bread pudding."}
 {"id":"Q109045443","verdict":"keep"}
 {"id":"Q109045445","verdict":"keep","countries":["BJ"],"reason":"countries empty; Fon (Beninese) dish"}
 {"id":"Q109045517","verdict":"keep"}
@@ -155,35 +155,35 @@
 {"id":"Q109045733","verdict":"keep","countries":["BJ"],"reason":"countries empty; Fon (Beninese) dish"}
 {"id":"Q109046610","verdict":"keep"}
 {"id":"Q109046650","verdict":"keep"}
-{"id":"Q109046795","verdict":"keep"}
+{"id":"Q109046795","verdict":"keep","countries":["TW"],"reason":"Taiwanese indigenous bamboo rice preparation."}
 {"id":"Q109046939","verdict":"remove","reason":"PDO-labelled saffron spice, a raw ingredient rather than a dish"}
 {"id":"Q109071240","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}
 {"id":"Q10908539","verdict":"keep"}
-{"id":"Q109093343","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q109093346","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q109093348","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q109093351","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q109093353","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
+{"id":"Q109093343","verdict":"keep","countries":["PL"],"reason":"Polish herring stuffed potatoes."}
+{"id":"Q109093346","verdict":"keep","countries":["PL"],"reason":"Polish smoked fish stuffed potatoes."}
+{"id":"Q109093348","verdict":"keep","countries":["PL"],"reason":"Polish cheese baked stuffed potatoes."}
+{"id":"Q109093351","verdict":"keep","countries":["PL"],"reason":"Polish skin on baked potatoes."}
+{"id":"Q109093353","verdict":"keep","countries":["PL"],"reason":"Polish peeled baked potatoes."}
 {"id":"Q109093355","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech-style potatoes"}
 {"id":"Q109093358","verdict":"keep","countries":["IT"],"reason":"countries empty; Italian-style potatoes"}
 {"id":"Q109093360","verdict":"keep","countries":["IT"],"reason":"countries empty; Italian-style potatoes"}
-{"id":"Q109093362","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
+{"id":"Q109093362","verdict":"keep","countries":["PL"],"reason":"Polish bechamel potato version."}
 {"id":"Q109093365","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
 {"id":"Q109093367","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
-{"id":"Q109093369","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q109093371","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q109093374","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q109093376","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
-{"id":"Q109093378","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
+{"id":"Q109093369","verdict":"keep","countries":["PL"],"reason":"Polish alternate potato souffle."}
+{"id":"Q109093371","verdict":"keep","countries":["PL"],"reason":"Polish potato souffle version."}
+{"id":"Q109093374","verdict":"keep","countries":["PL"],"reason":"Polish potato and cheese cake."}
+{"id":"Q109093376","verdict":"keep","countries":["PL"],"reason":"Polish elaborate potato puree."}
+{"id":"Q109093378","verdict":"keep","countries":["PL"],"reason":"Polish leek and potato soup."}
 {"id":"Q109093380","verdict":"keep","countries":["PL"],"reason":"countries empty; Polish cookbook recipe"}
-{"id":"Q109093383","verdict":"keep","countries":[],"reason":"Second opinion: generic prepared food; Polish cookbook language alone does not establish a country."}
+{"id":"Q109093383","verdict":"keep","countries":["PL"],"reason":"Polish plain fried potato version."}
 {"id":"Q10909628","verdict":"keep","countries":["TW"],"reason":"Second opinion: pok-bah is the battered pork specialty of Yilan, Taiwan."}
 {"id":"Q10910138","verdict":"keep"}
-{"id":"Q10910301","verdict":"keep"}
+{"id":"Q10910301","verdict":"keep","countries":["ES"],"reason":"Entry explicitly identifies Manchego and Murcia cuisines."}
 {"id":"Q109119426","verdict":"keep","countries":["PE"],"reason":"countries empty; Peruvian locro"}
 {"id":"Q109120573","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}
 {"id":"Q109120592","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}
-{"id":"Q109120684","verdict":"keep"}
+{"id":"Q109120684","verdict":"remove","reason":"Named commercial noodle product rather than a generic dandan dish.","countries":[]}
 {"id":"Q10912397","verdict":"keep"}
 {"id":"Q1091253","verdict":"keep"}
 {"id":"Q10912991","verdict":"keep"}
@@ -194,13 +194,13 @@
 {"id":"Q10916834","verdict":"keep"}
 {"id":"Q109173339","verdict":"keep","countries":["BD","IN"],"reason":"countries empty; Bengali cuisine"}
 {"id":"Q109189164","verdict":"keep"}
-{"id":"Q109191849","verdict":"keep"}
-{"id":"Q10921730","verdict":"keep"}
-{"id":"Q109218875","verdict":"keep"}
-{"id":"Q109236402","verdict":"keep"}
+{"id":"Q109191849","verdict":"keep","countries":["GB","US","FR","IT"],"reason":"Lemon cakes have established baking traditions in these countries."}
+{"id":"Q10921730","verdict":"keep","countries":["TW"],"reason":"Coffee sausage is a Taiwanese specialty sausage."}
+{"id":"Q109218875","verdict":"keep","countries":["US"],"reason":"Crinkle cut fries have an American fast food association."}
+{"id":"Q109236402","verdict":"keep","countries":["US"],"reason":"Batter bread belongs to American baking traditions."}
 {"id":"Q10925229","verdict":"keep","countries":["CN","TW"],"reason":"Four-herb soup is associated with Chinese and Taiwanese cuisines."}
 {"id":"Q109259132","verdict":"remove","reason":"rose flower variety (Taif), not a dish"}
-{"id":"Q109260442","verdict":"keep"}
+{"id":"Q109260442","verdict":"keep","countries":["US","CA"],"reason":"Blueberry pancakes are a North American breakfast dish."}
 {"id":"Q1092662","verdict":"keep"}
 {"id":"Q1092712","verdict":"keep"}
 {"id":"Q109286869","verdict":"keep","countries":["KR","KP"],"reason":"Radish kimchi is shared by both Koreas."}
@@ -228,8 +228,8 @@
 {"id":"Q109313490","verdict":"keep"}
 {"id":"Q10931392","verdict":"keep"}
 {"id":"Q109314192","verdict":"keep","countries":["ES"],"reason":"countries empty; Spanish cured ham (PDO)"}
-{"id":"Q109315182","verdict":"keep"}
-{"id":"Q109325895","verdict":"keep"}
+{"id":"Q109315182","verdict":"keep","countries":["FR"],"reason":"Gwell is Breton fermented milk."}
+{"id":"Q109325895","verdict":"keep","countries":["TR","GR","IL","LB","SY","PS","JO","EG"],"reason":"Tahini halva is shared Turkish, Greek, Levantine and Egyptian confectionery."}
 {"id":"Q109330183","verdict":"keep"}
 {"id":"Q109332108","verdict":"keep"}
 {"id":"Q10934152","verdict":"keep"}
@@ -248,7 +248,7 @@
 {"id":"Q109360335","verdict":"keep","countries":["ID","MY"],"reason":"countries empty; Indonesian and Malaysian rice"}
 {"id":"Q109360343","verdict":"keep","countries":["VN"],"reason":"countries empty; Vietnamese rice"}
 {"id":"Q109361052","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese sukiyaki dish"}
-{"id":"Q109361421","verdict":"keep"}
+{"id":"Q109361421","verdict":"keep","countries":["JP"],"reason":"Okinawan New Year rice confection."}
 {"id":"Q109361900","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese shojin cuisine"}
 {"id":"Q109361903","verdict":"remove","reason":"generic category (deep-fried confection), not one dish"}
 {"id":"Q109362788","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese curry bread"}
@@ -257,7 +257,7 @@
 {"id":"Q10936580","verdict":"keep"}
 {"id":"Q109366527","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese namagashi"}
 {"id":"Q10936666","verdict":"keep","countries":["CN"],"reason":"countries empty; Chinese tofu dish"}
-{"id":"Q109368458","verdict":"keep"}
+{"id":"Q109368458","verdict":"keep","countries":["JP"],"reason":"Okinawan irichi meat preparation."}
 {"id":"Q109368587","verdict":"keep"}
 {"id":"Q109370422","verdict":"remove","reason":"generic course category (side dish), not one dish"}
 {"id":"Q1093768","verdict":"keep"}
@@ -266,20 +266,20 @@
 {"id":"Q109378130","verdict":"keep"}
 {"id":"Q109378829","verdict":"remove","reason":"chain-restaurant menu item (Burger King Whopperitto)"}
 {"id":"Q1093790","verdict":"keep"}
-{"id":"Q109379179","verdict":"keep"}
-{"id":"Q109379269","verdict":"keep"}
+{"id":"Q109379179","verdict":"keep","countries":["US"],"reason":"American avocado BLT variation."}
+{"id":"Q109379269","verdict":"keep","countries":["FR"],"reason":"French saute preparation supplies a reasonable association for this generic cooked onion dish."}
 {"id":"Q109380577","verdict":"remove","reason":"chain-restaurant menu item (Five Guys)"}
-{"id":"Q109380823","verdict":"keep"}
+{"id":"Q109380823","verdict":"keep","countries":["US"],"reason":"American black bean burger preparation."}
 {"id":"Q109380830","verdict":"keep"}
-{"id":"Q109381328","verdict":"keep"}
-{"id":"Q109381386","verdict":"keep"}
-{"id":"Q10938562","verdict":"keep"}
-{"id":"Q109388991","verdict":"keep"}
-{"id":"Q109389957","verdict":"keep"}
+{"id":"Q109381328","verdict":"keep","countries":["US","GB","AU","NZ"],"reason":"Lamb burgers are established across these burger cuisines."}
+{"id":"Q109381386","verdict":"keep","countries":["US"],"reason":"Potato buns have an American sandwich bread association."}
+{"id":"Q10938562","verdict":"keep","countries":["TW"],"reason":"Taiwanese large pancake wrapping a small pancake street snack."}
+{"id":"Q109388991","verdict":"keep","countries":["US","GB","NZ"],"reason":"Venison burgers are associated with these game cooking traditions."}
+{"id":"Q109389957","verdict":"keep","countries":["DE","US"],"reason":"Onion bread has German and American baking traditions."}
 {"id":"Q109391476","verdict":"keep"}
 {"id":"Q109391479","verdict":"keep"}
 {"id":"Q109393756","verdict":"remove","reason":"branded ice cream product (Heartbrand)"}
-{"id":"Q109399388","verdict":"keep"}
+{"id":"Q109399388","verdict":"remove","reason":"Loaf end is a component of bread rather than a separate dish.","countries":[]}
 {"id":"Q109409667","verdict":"keep","countries":["CN","US"],"reason":"Second opinion: honey walnut shrimp is associated with Cantonese and Chinese-American cuisine."}
 {"id":"Q109413627","verdict":"keep"}
 {"id":"Q109414823","verdict":"keep"}

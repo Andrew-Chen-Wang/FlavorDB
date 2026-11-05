@@ -8,26 +8,26 @@
 {"id":"Q100153848","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
 {"id":"Q100235336","verdict":"keep"}
 {"id":"Q1002439","verdict":"keep"}
-{"id":"Q100249834","verdict":"keep"}
+{"id":"Q100249834","verdict":"keep","countries":["IT"],"reason":"Frog frittata retains the Italian identity of its named frittata preparation."}
 {"id":"Q100255577","verdict":"keep"}
 {"id":"Q100255672","verdict":"keep"}
 {"id":"Q100258323","verdict":"keep"}
-{"id":"Q100258324","verdict":"keep"}
+{"id":"Q100258324","verdict":"keep","countries":["YE"],"reason":"Dhamoul is retained as the Yemeni baked preparation identified by its Arabic name."}
 {"id":"Q100258330","verdict":"keep","countries":["YE","IL"],"reason":"Yemeni Jewish bread, countries empty"}
 {"id":"Q100258377","verdict":"keep"}
-{"id":"Q100258624","verdict":"keep"}
+{"id":"Q100258624","verdict":"keep","countries":["LB","SY","PS","JO","TR","IL"],"reason":"Ice-cream kunafa belongs to shared Levantine and Turkish kunafa traditions, including Israeli associations."}
 {"id":"Q100258740","verdict":"keep"}
 {"id":"Q100276607","verdict":"keep"}
-{"id":"Q100276703","verdict":"keep"}
-{"id":"Q100276875","verdict":"keep"}
+{"id":"Q100276703","verdict":"keep","countries":["US","DE","FI","SE"],"reason":"Generic potato casserole has recognized American, German, Finnish and Swedish versions."}
+{"id":"Q100276875","verdict":"keep","countries":["PL","RU","IT","GB","DE","CH"],"reason":"Barley soups include Polish, Russian, Italian, British, German and Swiss regional traditions."}
 {"id":"Q100281422","verdict":"keep"}
 {"id":"Q100285178","verdict":"keep"}
 {"id":"Q1002865","verdict":"keep"}
-{"id":"Q100287557","verdict":"keep"}
+{"id":"Q100287557","verdict":"keep","countries":["US"],"reason":"Portobello-cap mushroom burger follows American vegetarian burger cooking."}
 {"id":"Q100320697","verdict":"keep"}
-{"id":"Q100323254","verdict":"keep"}
+{"id":"Q100323254","verdict":"keep","countries":["CN","JP","TW"],"reason":"Prepared fried tofu has Chinese, Japanese and Taiwanese culinary forms; the Chinese title does not exclude Taiwan."}
 {"id":"Q100327532","verdict":"keep"}
-{"id":"Q100331599","verdict":"keep"}
+{"id":"Q100331599","verdict":"remove","reason":"Kibana is Tsuboya commercial confectionery, rather than a generic traditional sweet.","countries":[]}
 {"id":"Q1004735","verdict":"keep","countries":["RO"],"reason":"Romanian dish, countries empty"}
 {"id":"Q100507578","verdict":"keep"}
 {"id":"Q100507813","verdict":"keep","countries":["US"],"reason":"American pie, countries empty"}
@@ -59,17 +59,17 @@
 {"id":"Q101564403","verdict":"keep"}
 {"id":"Q101564443","verdict":"keep"}
 {"id":"Q1016080","verdict":"keep","countries":["DE"],"reason":"German roast, countries empty"}
-{"id":"Q101611276","verdict":"keep"}
+{"id":"Q101611276","verdict":"keep","countries":["IT","US"],"reason":"Tomato-free white pizza is shared by Italian and Italian-American pizza cooking."}
 {"id":"Q101643769","verdict":"keep"}
 {"id":"Q1017266","verdict":"keep"}
 {"id":"Q101806128","verdict":"keep"}
 {"id":"Q1018075","verdict":"keep"}
 {"id":"Q1018117","verdict":"keep","countries":["DE"],"reason":"German soup, countries empty"}
-{"id":"Q1018138","verdict":"keep"}
+{"id":"Q1018138","verdict":"keep","countries":["AT"],"reason":"Butterschnitzel is Austrian minced-meat schnitzel, matching the minced-patty kinds."}
 {"id":"Q1018934","verdict":"keep","countries":["DE"],"reason":"German dish, countries empty"}
 {"id":"Q101894969","verdict":"keep","countries":["MD","RO"],"reason":"second opinion: zeamă is commonly associated with Moldova as well as Romania"}
-{"id":"Q1019164","verdict":"keep"}
-{"id":"Q1019273","verdict":"keep"}
+{"id":"Q1019164","verdict":"keep","countries":["DE"],"reason":"Bear ham is retained as prepared cured meat; the German name supplies the permitted last-resort association."}
+{"id":"Q1019273","verdict":"keep","countries":["DE"],"reason":"Bätscher is Swabian German baked food."}
 {"id":"Q1019927","verdict":"keep","countries":["BA","RS","HR","ME","MK","BG","AL","TR"],"reason":"Balkan pastry, countries empty"}
 {"id":"Q1020809","verdict":"keep"}
 {"id":"Q1020812","verdict":"keep"}
@@ -99,11 +99,11 @@
 {"id":"Q102404539","verdict":"keep"}
 {"id":"Q102417677","verdict":"keep"}
 {"id":"Q102419432","verdict":"keep"}
-{"id":"Q102428795","verdict":"keep"}
+{"id":"Q102428795","verdict":"keep","countries":["JP","CN","TW","KR","IT"],"reason":"Generic rice balls include Japanese, Chinese, Taiwanese, Korean and Italian forms such as arancini."}
 {"id":"Q1025010","verdict":"keep"}
 {"id":"Q10261324","verdict":"keep"}
-{"id":"Q10262382","verdict":"keep"}
-{"id":"Q1026245","verdict":"keep"}
+{"id":"Q10262382","verdict":"keep","countries":["BR"],"reason":"Cupulate is Brazilian cupuaçu-seed confectionery."}
+{"id":"Q1026245","verdict":"keep","countries":["IT"],"reason":"Calandraca is the Trieste meat-and-potato stew."}
 {"id":"Q10262550","verdict":"keep","countries":["BR"],"reason":"Maranhao dish, countries empty"}
 {"id":"Q10263684","verdict":"remove","reason":"Dadinho is a branded packaged peanut confection"}
 {"id":"Q1026488","verdict":"keep"}
@@ -131,24 +131,24 @@
 {"id":"Q10280830","verdict":"keep","countries":["AO"],"reason":"Angolan dish, countries empty"}
 {"id":"Q10281090","verdict":"keep"}
 {"id":"Q102819468","verdict":"keep","countries":["KR"],"reason":"Korean radish kimchi, countries empty"}
-{"id":"Q10282138","verdict":"keep"}
+{"id":"Q10282138","verdict":"keep","countries":["BR","PT"],"reason":"Figada is prepared fig confection in Portuguese and Brazilian traditions."}
 {"id":"Q10282399","verdict":"keep"}
 {"id":"Q10283146","verdict":"keep"}
 {"id":"Q10283147","verdict":"keep"}
-{"id":"Q10285509","verdict":"keep"}
+{"id":"Q10285509","verdict":"keep","countries":["BR"],"reason":"Portuguese-named frango empanado identifies this Brazilian breaded-chicken version."}
 {"id":"Q10285510","verdict":"keep"}
 {"id":"Q10285512","verdict":"keep","countries":["BR"],"reason":"Brazilian dish, countries empty"}
-{"id":"Q10286658","verdict":"keep"}
+{"id":"Q10286658","verdict":"keep","countries":["BR"],"reason":"The description expressly identifies Brazilian papaya confectionery."}
 {"id":"Q1028754","verdict":"keep"}
 {"id":"Q10288102","verdict":"keep","countries":["BR"],"reason":"Brazilian dish, countries empty"}
 {"id":"Q102887302","verdict":"keep"}
-{"id":"Q10289673","verdict":"keep"}
+{"id":"Q10289673","verdict":"keep","countries":["BR"],"reason":"Ginga com tapioca is the Natal Brazilian fish-and-tapioca specialty."}
 {"id":"Q10296519","verdict":"keep","countries":["CN"],"reason":"Chinese dish, countries empty"}
 {"id":"Q1029851","verdict":"keep"}
-{"id":"Q10298718","verdict":"keep"}
+{"id":"Q10298718","verdict":"keep","countries":["IL","ES","TR"],"reason":"Slow-cooked haminados eggs are shared Sephardic food associated with Israel, Spain and Turkey."}
 {"id":"Q10299545","verdict":"keep"}
 {"id":"Q10303205","verdict":"keep","countries":["TW"],"reason":"Hakka rice cake, countries empty"}
-{"id":"Q10303471","verdict":"keep"}
+{"id":"Q10303471","verdict":"keep","countries":["BR"],"reason":"Ipeté is an Afro-Brazilian yam dish."}
 {"id":"Q10303883","verdict":"keep"}
 {"id":"Q10308013","verdict":"keep"}
 {"id":"Q10313790","verdict":"keep"}
@@ -160,8 +160,8 @@
 {"id":"Q1032101","verdict":"keep"}
 {"id":"Q10323517","verdict":"keep"}
 {"id":"Q10323573","verdict":"remove","reason":"Mandiopã is a branded packaged cassava snack"}
-{"id":"Q10326489","verdict":"keep"}
-{"id":"Q10326759","verdict":"keep"}
+{"id":"Q10326489","verdict":"keep","countries":["BR"],"reason":"Mariola identifies Brazilian fruit confectionery."}
+{"id":"Q10326759","verdict":"keep","countries":["BR","DE"],"reason":"Duck with red cabbage is associated with German and German-Brazilian cooking."}
 {"id":"Q1032806","verdict":"keep"}
 {"id":"Q10328276","verdict":"keep"}
 {"id":"Q10331615","verdict":"keep"}
@@ -188,7 +188,7 @@
 {"id":"Q1034869","verdict":"keep"}
 {"id":"Q10348868","verdict":"keep","countries":["PT"],"reason":"Portuguese dish, countries empty"}
 {"id":"Q10350144","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet, countries empty"}
-{"id":"Q10350703","verdict":"keep"}
+{"id":"Q10350703","verdict":"keep","countries":["BR"],"reason":"Podrão is a Brazilian street-food sandwich."}
 {"id":"Q10350921","verdict":"keep"}
 {"id":"Q1035290","verdict":"keep"}
 {"id":"Q10353556","verdict":"keep"}
@@ -199,7 +199,7 @@
 {"id":"Q10356484","verdict":"keep","countries":["BR"],"reason":"Brazilian dish, countries empty"}
 {"id":"Q10364123","verdict":"keep"}
 {"id":"Q10364125","verdict":"keep","countries":["PT"],"reason":"Portuguese stew, countries empty"}
-{"id":"Q10364735","verdict":"keep"}
+{"id":"Q10364735","verdict":"keep","countries":["PT"],"reason":"The fish roupa velha entry is a Portuguese leftovers preparation."}
 {"id":"Q10365057","verdict":"keep","countries":["BR"],"reason":"Brazilian dish, countries empty"}
 {"id":"Q10367013","verdict":"keep","countries":["PT"],"reason":"Portuguese dish, countries empty"}
 {"id":"Q10368446","verdict":"keep"}
@@ -208,13 +208,13 @@
 {"id":"Q10373410","verdict":"keep","countries":["PT"],"reason":"Portuguese soup, countries empty"}
 {"id":"Q10373413","verdict":"keep"}
 {"id":"Q10373415","verdict":"keep","countries":["MO"],"reason":"Macanese soup, countries empty"}
-{"id":"Q10373448","verdict":"keep"}
+{"id":"Q10373448","verdict":"keep","countries":["PT"],"reason":"Sorda is retained as the named Portuguese regional biscuit."}
 {"id":"Q10374398","verdict":"keep"}
 {"id":"Q10377857","verdict":"keep","countries":["BR"],"reason":"Brazilian dish, countries empty"}
 {"id":"Q1037853","verdict":"keep","countries":["KR"],"reason":"Korean soup, countries empty"}
-{"id":"Q1037909","verdict":"keep","reason":"second opinion: gukbap is a real prepared Korean rice soup, with regional variants"}
+{"id":"Q1037909","verdict":"keep","reason":"Gukbap is prepared rice soup shared across Korean culinary tradition.","countries":["KR","KP"]}
 {"id":"Q10379618","verdict":"keep"}
-{"id":"Q10379641","verdict":"keep"}
+{"id":"Q10379641","verdict":"keep","countries":["TW"],"reason":"Salad boat identifies the Taiwanese fried-bread salad sandwich."}
 {"id":"Q10382382","verdict":"keep","countries":["PT"],"reason":"Portuguese dish, countries empty"}
 {"id":"Q10382383","verdict":"keep","countries":["PT","ES"],"reason":"second opinion: tiborna is associated with Portuguese and Spanish food, as the dish description states"}
 {"id":"Q10384855","verdict":"keep"}
@@ -223,7 +223,7 @@
 {"id":"Q10391691","verdict":"keep"}
 {"id":"Q10392333","verdict":"keep","countries":["CN"],"reason":"Chinese fish dish, countries empty"}
 {"id":"Q10394334","verdict":"keep"}
-{"id":"Q10394373","verdict":"keep"}
+{"id":"Q10394373","verdict":"keep","countries":["BR"],"reason":"Ximango is a Brazilian named baked specialty."}
 {"id":"Q10394386","verdict":"keep","countries":["PY","BR"],"reason":"Xipa also Brazilian per description"}
 {"id":"Q10395380","verdict":"keep"}
 {"id":"Q10396701","verdict":"remove","reason":"cooking technique page, not a dish"}
@@ -245,7 +245,7 @@
 {"id":"Q104125992","verdict":"keep","countries":["FR"],"reason":"French salad, countries empty"}
 {"id":"Q104126307","verdict":"remove","reason":"Romerska bågar is a branded packaged chocolate confection"}
 {"id":"Q104126397","verdict":"remove","reason":"raw fruit, not a dish"}
-{"id":"Q104150541","verdict":"keep"}
+{"id":"Q104150541","verdict":"keep","countries":["CN"],"reason":"Chinese jijing identifies a prepared chicken-flavoured condiment; it is not a plain raw ingredient."}
 {"id":"Q104150562","verdict":"keep"}
 {"id":"Q104153096","verdict":"keep","countries":["DE"],"reason":"German dish, countries empty"}
 {"id":"Q104157105","verdict":"keep"}
@@ -253,16 +253,16 @@
 {"id":"Q104177921","verdict":"keep"}
 {"id":"Q104187885","verdict":"remove","reason":"honey, ingredient not a dish"}
 {"id":"Q10421134","verdict":"keep","countries":["CN"],"reason":"Chinese roast duck, countries empty"}
-{"id":"Q104244533","verdict":"keep"}
+{"id":"Q104244533","verdict":"keep","countries":["IR","RU","AZ"],"reason":"Prepared Persian-sturgeon caviar belongs to Caspian traditions including Iran, Russia and Azerbaijan."}
 {"id":"Q104250487","verdict":"remove","reason":"raw fruit, not a dish"}
 {"id":"Q104250633","verdict":"keep"}
-{"id":"Q104251400","verdict":"keep"}
+{"id":"Q104251400","verdict":"keep","countries":["CN","KR","TH","VN"],"reason":"Mung-bean vermicelli is prepared noodle food shared by Chinese, Korean, Thai and Vietnamese cooking."}
 {"id":"Q104252174","verdict":"keep","countries":["KR"],"reason":"Korean noodles, countries empty"}
 {"id":"Q104252380","verdict":"keep"}
 {"id":"Q10425800","verdict":"remove","reason":"candy brand, branded product"}
 {"id":"Q10429442","verdict":"keep"}
-{"id":"Q10429947","verdict":"keep"}
-{"id":"Q10431700","verdict":"keep"}
+{"id":"Q10429947","verdict":"keep","countries":["SE"],"reason":"Birkabulle is a Swedish bakery pastry."}
+{"id":"Q10431700","verdict":"keep","countries":["FI","SE"],"reason":"Bilberry porridge has established Finnish and Swedish versions."}
 {"id":"Q10433119","verdict":"keep"}
 {"id":"Q10436964","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
 {"id":"Q10437104","verdict":"keep","countries":["SE"],"reason":"Swedish confection, countries empty"}
@@ -271,7 +271,7 @@
 {"id":"Q104381638","verdict":"keep"}
 {"id":"Q104383034","verdict":"keep"}
 {"id":"Q10438666","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
-{"id":"Q10440715","verdict":"keep"}
+{"id":"Q10440715","verdict":"keep","countries":["AO","ST"],"reason":"Calulu is shared by Angola and São Tomé and Príncipe, consistent with Lusophone African description."}
 {"id":"Q1044101","verdict":"keep","countries":["ES"],"reason":"second opinion: carnixulla is the cured sausage of Menorca, Spain"}
 {"id":"Q104412527","verdict":"keep","countries":["IN","BD"],"reason":"Bengali banana blossom paturi shared India and Bangladesh"}
 {"id":"Q104413149","verdict":"remove","reason":"crab leg as ingredient cut, not a dish"}
@@ -288,7 +288,7 @@
 {"id":"Q1046006","verdict":"keep"}
 {"id":"Q104604704","verdict":"keep"}
 {"id":"Q104606037","verdict":"keep"}
-{"id":"Q10461269","verdict":"keep"}
+{"id":"Q10461269","verdict":"keep","countries":["SE"],"reason":"The Swedish cremekex name supplies the last-resort cream-biscuit country version."}
 {"id":"Q104622206","verdict":"keep"}
 {"id":"Q104622587","verdict":"keep"}
 {"id":"Q104629646","verdict":"keep"}

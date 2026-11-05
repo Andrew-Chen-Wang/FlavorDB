@@ -1,18 +1,18 @@
 {"id":"Q3007979","verdict":"keep"}
-{"id":"Q300828","verdict":"keep"}
+{"id":"Q300828","verdict":"keep","countries":["DE"],"reason":"Aal grün is explicitly German eel with Spreewald herb sauce."}
 {"id":"Q30089578","verdict":"keep"}
 {"id":"Q30090683","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
 {"id":"Q300959","verdict":"keep"}
 {"id":"Q3009948","verdict":"keep","countries":["NL"],"reason":"countries empty; Dutch sweet"}
-{"id":"Q30114244","verdict":"keep"}
-{"id":"Q3013199","verdict":"keep"}
+{"id":"Q30114244","verdict":"keep","countries":["TH","LK"],"reason":"Coconut soup is established Thai and Sri Lankan coconut-milk cooking."}
+{"id":"Q3013199","verdict":"keep","countries":["IT","US"],"reason":"Chocolate ice cream has established Italian and American traditions."}
 {"id":"Q3013426","verdict":"keep"}
 {"id":"Q30156774","verdict":"keep"}
 {"id":"Q301587","verdict":"keep"}
 {"id":"Q3016983","verdict":"keep","countries":["FR"],"reason":"countries empty; daube from Nice"}
 {"id":"Q3017018","verdict":"keep"}
-{"id":"Q30186","verdict":"keep"}
-{"id":"Q3019074","verdict":"keep"}
+{"id":"Q30186","verdict":"keep","countries":["US","FR","GB"],"reason":"Chocolate cake has established American, French and British baking traditions."}
+{"id":"Q3019074","verdict":"keep","countries":["NL"],"reason":"Wellington here is a Dutch cookie, not beef Wellington."}
 {"id":"Q3019208","verdict":"keep"}
 {"id":"Q302169","verdict":"keep","countries":["PH","VN","CN","KH"],"reason":"Second opinion: balut also has a Cambodian tradition."}
 {"id":"Q3026484","verdict":"keep"}
@@ -22,13 +22,13 @@
 {"id":"Q3028820","verdict":"keep"}
 {"id":"Q30312707","verdict":"remove","reason":"branded packaged product (Candel toffee brand)"}
 {"id":"Q3031313","verdict":"keep"}
-{"id":"Q30314348","verdict":"keep"}
+{"id":"Q30314348","verdict":"keep","countries":["BR"],"reason":"Banana pasta has an established Brazilian alternative-pasta association."}
 {"id":"Q3032267","verdict":"keep","countries":["BE"],"reason":"countries empty; Belgian spread"}
-{"id":"Q3032281","verdict":"keep"}
+{"id":"Q3032281","verdict":"keep","countries":["NL","US","GB"],"reason":"Raisin bread is established Dutch, American and British sweet bread."}
 {"id":"Q30324437","verdict":"keep"}
-{"id":"Q30324814","verdict":"keep"}
+{"id":"Q30324814","verdict":"keep","countries":["MX","CO"],"reason":"Avocado soup is established Mexican and Colombian cooking."}
 {"id":"Q30324930","verdict":"keep","countries":["GB"],"reason":"countries empty; English pastry"}
-{"id":"Q30325089","verdict":"keep"}
+{"id":"Q30325089","verdict":"keep","countries":["US","MX"],"reason":"Deep-fried avocado is an American and Mexican-inspired appetizer preparation."}
 {"id":"Q30326666","verdict":"keep","countries":["AR","UY","PY","MX","BO"],"reason":"Second opinion: milanesa is shared across Argentina, Uruguay, Paraguay, Mexico and Bolivia."}
 {"id":"Q3032887","verdict":"keep"}
 {"id":"Q3033269","verdict":"keep","name":"Dobara","reason":"name had disambiguation suffix"}
@@ -37,16 +37,16 @@
 {"id":"Q303956","verdict":"remove","reason":"category of appetizers, not one dish"}
 {"id":"Q3041144","verdict":"keep","countries":["IN"],"reason":"countries empty; Indian dish"}
 {"id":"Q3041147","verdict":"keep"}
-{"id":"Q3042221","verdict":"keep"}
+{"id":"Q3042221","verdict":"keep","countries":["DZ"],"reason":"Dziriyat are Algerian almond pastries."}
 {"id":"Q3042471","verdict":"keep"}
 {"id":"Q3043512","verdict":"keep"}
 {"id":"Q3044475","verdict":"keep"}
 {"id":"Q3044741","verdict":"keep"}
-{"id":"Q3045372","verdict":"keep"}
+{"id":"Q3045372","verdict":"keep","countries":["FR"],"reason":"Détrempe is a prepared pastry base in French baking."}
 {"id":"Q3046837","verdict":"keep"}
 {"id":"Q304868","verdict":"keep"}
 {"id":"Q3051278","verdict":"keep","countries":["GB"],"reason":"countries empty; Scottish dish"}
-{"id":"Q3051500","verdict":"keep"}
+{"id":"Q3051500","verdict":"keep","countries":["TH","LA","KH","MY","ID","VN"],"reason":"Second opinion: bamboo-cooked sticky rice also has an established Vietnamese com lam tradition."}
 {"id":"Q3051726","verdict":"keep"}
 {"id":"Q3052288","verdict":"keep"}
 {"id":"Q30524428","verdict":"keep"}
@@ -64,22 +64,22 @@
 {"id":"Q30591503","verdict":"keep","countries":["US"],"reason":"countries empty; American dish"}
 {"id":"Q30593259","verdict":"keep"}
 {"id":"Q3059368","verdict":"keep"}
-{"id":"Q30594208","verdict":"keep"}
+{"id":"Q30594208","verdict":"keep","countries":["ES","PT"],"reason":"The guiso identification anchors cabbage stew to Iberian stew cooking."}
 {"id":"Q30599640","verdict":"keep"}
 {"id":"Q30599785","verdict":"keep"}
 {"id":"Q30599933","verdict":"keep"}
 {"id":"Q30607840","verdict":"keep"}
-{"id":"Q30612547","verdict":"keep"}
+{"id":"Q30612547","verdict":"keep","countries":["US"],"reason":"Sandie is the American shortbread cookie."}
 {"id":"Q3062329","verdict":"keep"}
 {"id":"Q30634372","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean kimchi"}
 {"id":"Q30635290","verdict":"keep"}
 {"id":"Q30635685","verdict":"keep","countries":["LB"],"reason":"countries empty; Lebanese salad"}
-{"id":"Q30635944","verdict":"keep"}
+{"id":"Q30635944","verdict":"keep","countries":["MA"],"reason":"Sweet potato salad is established Moroccan salad cooking, consistent with the Arab-salad description."}
 {"id":"Q30636888","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean jeotgal"}
 {"id":"Q30637566","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean tteok"}
 {"id":"Q3064423","verdict":"keep","countries":["PF"],"reason":"Second opinion: fafaru is a Tahitian/French Polynesian dish (https://www.tahititourisme.com/fafaru-a-challenge-not-to-be-missed/)."}
 {"id":"Q3064595","verdict":"keep","countries":["BE"],"reason":"countries empty; Belgian (Flemish) dish"}
-{"id":"Q30646347","verdict":"keep"}
+{"id":"Q30646347","verdict":"remove","countries":[],"reason":"Ugeoji is explicitly trimmed raw vegetable leaves and stems, not a prepared dish."}
 {"id":"Q30646348","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean soup"}
 {"id":"Q3064798","verdict":"keep"}
 {"id":"Q3064828","verdict":"keep"}
@@ -92,8 +92,8 @@
 {"id":"Q3066921","verdict":"keep","countries":["FR"],"reason":"countries empty; French dish"}
 {"id":"Q30671978","verdict":"keep"}
 {"id":"Q30672119","verdict":"keep"}
-{"id":"Q30672242","verdict":"keep"}
-{"id":"Q30673009","verdict":"keep"}
+{"id":"Q30672242","verdict":"keep","countries":["VN"],"reason":"Phá lấu is explicitly Vietnamese braised offal."}
+{"id":"Q30673009","verdict":"keep","countries":["IN"],"reason":"Mihidana is the Bengali Indian sweet."}
 {"id":"Q30680430","verdict":"keep"}
 {"id":"Q3068074","verdict":"keep"}
 {"id":"Q30681252","verdict":"keep"}
@@ -104,8 +104,8 @@
 {"id":"Q30692629","verdict":"keep","countries":["NP"],"reason":"countries empty; Nepali soup"}
 {"id":"Q30698","verdict":"keep"}
 {"id":"Q3070462","verdict":"keep"}
-{"id":"Q30715784","verdict":"keep"}
-{"id":"Q3072703","verdict":"keep"}
+{"id":"Q30715784","verdict":"keep","countries":["IN"],"reason":"Napham is the fermented fish preparation of Bodo cooking in India."}
+{"id":"Q3072703","verdict":"keep","countries":["FR"],"reason":"Fion is the French Vendée custard tart."}
 {"id":"Q3073449","verdict":"keep","countries":["ES"],"reason":"countries empty; Catalan pie"}
 {"id":"Q30737424","verdict":"keep"}
 {"id":"Q30737843","verdict":"keep"}
@@ -121,10 +121,10 @@
 {"id":"Q30745703","verdict":"keep"}
 {"id":"Q3074713","verdict":"keep"}
 {"id":"Q30748759","verdict":"keep","countries":["FR"],"reason":"countries empty; French pastry"}
-{"id":"Q30749722","verdict":"keep"}
-{"id":"Q3075310","verdict":"keep"}
-{"id":"Q3075365","verdict":"keep"}
-{"id":"Q30765642","verdict":"keep"}
+{"id":"Q30749722","verdict":"keep","countries":["GB"],"reason":"Tennis cake is the British decorated fruitcake."}
+{"id":"Q3075310","verdict":"keep","countries":["FR","CN"],"reason":"Stock is a deliberately prepared cooking base in French and Chinese cuisines."}
+{"id":"Q3075365","verdict":"keep","countries":["FR","US"],"reason":"Molten chocolate cake has established French and American associations."}
+{"id":"Q30765642","verdict":"keep","countries":["RE","MU","IN"],"reason":"Second opinion: Kalou is a Reunionese and Mauritian pastry derived from Indian Tamil cooking; parent independently read https://fr.wikipedia.org/wiki/Kalou_(p%C3%A2tisserie) and https://www.zinfos974.com/bonbon-pipe-doux-la-success-story-dune-patisserie-reunionnaise-a-la-sauce-mauricienne/ . French label does not imply metropolitan France."}
 {"id":"Q3077413","verdict":"keep"}
 {"id":"Q3080069","verdict":"keep"}
 {"id":"Q3080161","verdict":"keep"}
@@ -133,7 +133,7 @@
 {"id":"Q3080606","verdict":"keep","countries":["ES"],"reason":"countries empty; Spanish fried fish"}
 {"id":"Q3081857","verdict":"keep","countries":["GB"],"reason":"countries empty; Welsh stew"}
 {"id":"Q3082973","verdict":"keep"}
-{"id":"Q3087517","verdict":"keep"}
+{"id":"Q3087517","verdict":"keep","countries":["FR"],"reason":"Frescati is the French layered dessert."}
 {"id":"Q3087607","verdict":"remove","reason":"generic category (sweetmeats/confectionery in general), not one dish"}
 {"id":"Q3087626","verdict":"keep","countries":["FR"],"reason":"countries empty; French meat dish"}
 {"id":"Q3087627","verdict":"keep","countries":["FR"],"reason":"countries empty; French dish"}
@@ -147,11 +147,11 @@
 {"id":"Q30889458","verdict":"keep"}
 {"id":"Q30890348","verdict":"keep"}
 {"id":"Q30891233","verdict":"keep","countries":["RU"],"reason":"countries empty; Kalmyk national dish (Russia)"}
-{"id":"Q30897054","verdict":"keep"}
+{"id":"Q30897054","verdict":"remove","countries":[],"reason":"This dragée entry is classified as a dosage form, indicating medication rather than a confection."}
 {"id":"Q30901851","verdict":"keep"}
 {"id":"Q3090471","verdict":"keep","countries":["MA","DZ","TN"],"reason":"countries empty; Maghreb doughnut"}
 {"id":"Q3090473","verdict":"keep"}
-{"id":"Q30908893","verdict":"keep"}
+{"id":"Q30908893","verdict":"keep","countries":["DE"],"reason":"Carrot gingerbread is an established German substitute-era gingerbread preparation."}
 {"id":"Q30912986","verdict":"keep","countries":["NL"],"reason":"countries empty; Dutch pastry"}
 {"id":"Q3091352","verdict":"remove","reason":"Second opinion: this entry identifies the Pastéis de Belém confectionery store and its registered brand, rather than generic pastel de nata (https://pasteisdebelem.pt/en/)."}
 {"id":"Q3091371","verdict":"keep","countries":["CA"],"reason":"countries empty; Quebec dish"}
@@ -159,20 +159,20 @@
 {"id":"Q30919660","verdict":"keep"}
 {"id":"Q30921814","verdict":"keep"}
 {"id":"Q30922465","verdict":"remove","reason":"carrot cultivar (vegetable variety), not a dish"}
-{"id":"Q30923003","verdict":"keep"}
+{"id":"Q30923003","verdict":"keep","countries":["TT","AU"],"reason":"Shark burgers are established in Trinidadian shark-sandwich and Australian shark cooking."}
 {"id":"Q30924177","verdict":"keep"}
 {"id":"Q30925424","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese ramen"}
 {"id":"Q30926481","verdict":"keep"}
 {"id":"Q30926611","verdict":"keep","countries":["AO"],"reason":"countries empty; Angolan dish"}
 {"id":"Q3092677","verdict":"keep","countries":["CN","MY","SG","PH","ID"],"reason":"Second opinion: preserve Philippine and Indonesian ties explicitly identified in the description alongside Chinese, Malaysian and Singaporean traditions."}
 {"id":"Q30927500","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese tantanmen"}
-{"id":"Q30927733","verdict":"keep","countries":[],"reason":"Second opinion: generic Swiss roll under its Icelandic name; language alone does not establish an Icelandic dish."}
+{"id":"Q30927733","verdict":"keep","countries":["IS"],"reason":"Slöngukaka is Icelandic Swiss-roll cake; the Portuguese metadata does not determine its cuisine."}
 {"id":"Q3094706","verdict":"keep"}
 {"id":"Q3094707","verdict":"keep"}
 {"id":"Q3094709","verdict":"keep"}
 {"id":"Q3094712","verdict":"keep"}
-{"id":"Q30947497","verdict":"keep"}
-{"id":"Q3095008","verdict":"keep"}
+{"id":"Q30947497","verdict":"keep","countries":["CN"],"reason":"Goubangzi smoked chicken is explicitly from Liaoning, China."}
+{"id":"Q3095008","verdict":"keep","countries":["KR"],"reason":"Gamja-ongsimi is explicitly Korean potato-dumpling soup."}
 {"id":"Q3095449","verdict":"keep"}
 {"id":"Q30957511","verdict":"keep"}
 {"id":"Q30957551","verdict":"keep"}
@@ -191,10 +191,10 @@
 {"id":"Q3106401","verdict":"keep","countries":["FR"],"reason":"countries empty; French tripe dish"}
 {"id":"Q31073311","verdict":"keep","countries":["ES"],"reason":"countries empty; Catalan dessert"}
 {"id":"Q31076296","verdict":"keep"}
-{"id":"Q31077566","verdict":"keep"}
-{"id":"Q31077570","verdict":"keep"}
-{"id":"Q31077574","verdict":"keep"}
-{"id":"Q31078296","verdict":"keep","countries":[],"reason":"Second opinion: generic Oreo cake under a Norwegian label; no specifically Norwegian dish established."}
+{"id":"Q31077566","verdict":"keep","countries":["IQ"],"reason":"Ibrahimiyya belongs to medieval Baghdadi Arabic cooking."}
+{"id":"Q31077570","verdict":"keep","countries":["IQ"],"reason":"Jurjaniyya belongs to medieval Baghdadi Arabic cooking."}
+{"id":"Q31077574","verdict":"keep","countries":["IQ"],"reason":"Hummadiyya belongs to medieval Baghdadi Arabic cooking."}
+{"id":"Q31078296","verdict":"keep","countries":["NO"],"reason":"Oreokake is the Norwegian home-made Oreo cake, not a branded menu product."}
 {"id":"Q3108252","verdict":"keep"}
 {"id":"Q3108258","verdict":"keep","countries":["US"],"reason":"countries empty; Hawaiian dessert"}
 {"id":"Q31086812","verdict":"keep"}
@@ -203,7 +203,7 @@
 {"id":"Q3109041","verdict":"keep"}
 {"id":"Q31092813","verdict":"keep"}
 {"id":"Q31093402","verdict":"keep"}
-{"id":"Q3111664","verdict":"keep"}
+{"id":"Q3111664","verdict":"keep","countries":["FR"],"reason":"Second opinion: Goumo is a Picard cream-and-sugar pastry filling, independently identified by parent from https://fr.wikipedia.org/wiki/Goumo ; replace the unsupported German label-based guess."}
 {"id":"Q3116770","verdict":"keep"}
 {"id":"Q3116870","verdict":"keep"}
 {"id":"Q31172805","verdict":"keep"}
@@ -213,30 +213,30 @@
 {"id":"Q31173369","verdict":"keep"}
 {"id":"Q31173508","verdict":"keep"}
 {"id":"Q31173765","verdict":"keep"}
-{"id":"Q31177479","verdict":"keep"}
-{"id":"Q31178619","verdict":"keep"}
+{"id":"Q31177479","verdict":"keep","countries":["KR"],"reason":"Saeng-yukhoe is Korean seasoned raw-meat hoe, a prepared dish."}
+{"id":"Q31178619","verdict":"keep","countries":["KR"],"reason":"Geonjin noodles are explicitly South Korean."}
 {"id":"Q31179347","verdict":"keep"}
-{"id":"Q31180459","verdict":"keep"}
-{"id":"Q31181574","verdict":"keep"}
+{"id":"Q31180459","verdict":"keep","countries":["KR"],"reason":"Eoriguljeot is Korean fermented oyster jeotgal."}
+{"id":"Q31181574","verdict":"keep","countries":["RS"],"reason":"Vanilice are Serbian vanilla sandwich cookies."}
 {"id":"Q31185698","verdict":"keep"}
 {"id":"Q31186302","verdict":"remove","reason":"alcoholic spirit (drink)"}
 {"id":"Q31198650","verdict":"keep"}
 {"id":"Q31203818","verdict":"keep"}
-{"id":"Q3120724","verdict":"keep"}
+{"id":"Q3120724","verdict":"keep","countries":["ES"],"reason":"Gulas is the Spanish prepared imitation baby-eel dish."}
 {"id":"Q31213279","verdict":"keep","countries":["BY","UA"],"reason":"Second opinion: lemeshka is shared Belarusian and Ukrainian porridge."}
 {"id":"Q3122402","verdict":"keep"}
 {"id":"Q3122799","verdict":"keep"}
-{"id":"Q3122800","verdict":"keep","countries":[],"reason":"Second opinion: generic white wine cookies; no regional association established in the entry."}
-{"id":"Q3122805","verdict":"keep"}
+{"id":"Q3122800","verdict":"keep","countries":["FR","IT"],"reason":"Second opinion: white wine cookies also have established Italian baking ties."}
+{"id":"Q3122805","verdict":"keep","countries":["FR"],"reason":"The Grenoble walnut-cake label identifies the French walnut cake."}
 {"id":"Q3122808","verdict":"keep","countries":["FR"],"reason":"countries empty; French cake"}
 {"id":"Q3122810","verdict":"keep","countries":["FR"],"reason":"countries empty; French cake from Creuse"}
 {"id":"Q3122812","verdict":"keep","countries":["BE"],"reason":"countries empty; Belgian cake"}
-{"id":"Q3122815","verdict":"keep"}
+{"id":"Q3122815","verdict":"keep","countries":["RE","MU"],"reason":"Gâteau patate is the sweet-potato cake of Réunion and Mauritius."}
 {"id":"Q3122937","verdict":"keep"}
 {"id":"Q3123047","verdict":"keep","countries":["SE","FI","IS","EE"],"reason":"Second opinion: sandwich cake is tied to every cuisine identified in the metadata, not Sweden alone."}
-{"id":"Q3125478","verdict":"keep"}
+{"id":"Q3125478","verdict":"keep","countries":["NL"],"reason":"Jodenkoek is explicitly Dutch shortbread."}
 {"id":"Q3125526","verdict":"keep","countries":["GB"],"reason":"countries empty; smoked haddock is British"}
-{"id":"Q3126044","verdict":"keep","countries":[],"reason":"Second opinion: generic boiled sweet; an English label does not establish Britain."}
+{"id":"Q3126044","verdict":"keep","countries":["GB"],"reason":"Boiled sweets are established British hard confectionery."}
 {"id":"Q312766","verdict":"keep"}
 {"id":"Q31281129","verdict":"keep","countries":["NO"],"reason":"countries empty; Norwegian porridge"}
 {"id":"Q3129784","verdict":"keep"}
@@ -249,7 +249,7 @@
 {"id":"Q3139573","verdict":"keep"}
 {"id":"Q3141050","verdict":"keep"}
 {"id":"Q3141053","verdict":"keep"}
-{"id":"Q3141360","verdict":"keep"}
+{"id":"Q3141360","verdict":"keep","countries":["JP"],"reason":"Kashiwa mochi is Japanese oak-leaf-wrapped mochi."}
 {"id":"Q3141745","verdict":"keep","countries":["TN"],"reason":"countries empty; Tunisian condiment"}
 {"id":"Q3142820","verdict":"keep"}
 {"id":"Q3142822","verdict":"keep"}
@@ -261,7 +261,7 @@
 {"id":"Q314500","verdict":"keep"}
 {"id":"Q314529","verdict":"keep"}
 {"id":"Q314588","verdict":"keep","countries":["DE"],"reason":"countries empty; German pea sausage"}
-{"id":"Q31459063","verdict":"keep"}
+{"id":"Q31459063","verdict":"keep","countries":["UZ","TJ"],"reason":"Parvarda is an Uzbek and Tajik sugar confection."}
 {"id":"Q314612","verdict":"keep","countries":["DE","PL"],"reason":"countries empty; Silesian dish"}
 {"id":"Q3146449","verdict":"keep"}
 {"id":"Q315295","verdict":"keep","countries":["DE"],"reason":"countries empty; Saxon/Thuringian cake"}
@@ -277,7 +277,7 @@
 {"id":"Q3160848","verdict":"keep"}
 {"id":"Q3160850","verdict":"keep","countries":["US"],"reason":"countries empty; American dish"}
 {"id":"Q316244","verdict":"keep","countries":["DE"],"reason":"countries empty; German dish"}
-{"id":"Q316561","verdict":"keep"}
+{"id":"Q316561","verdict":"keep","countries":["FR","US","NL"],"reason":"Second opinion: nonpareil decorative sugar confections also have established Dutch ties, consistent with hagelslag metadata."}
 {"id":"Q31724514","verdict":"keep","countries":["BD","IN"],"reason":"Second opinion: ghanto is shared Bengali vegetable cooking across Bangladesh and India."}
 {"id":"Q31724928","verdict":"keep","countries":["IN","BD"],"reason":"Second opinion: chhenchki is shared Bengali vegetable cooking."}
 {"id":"Q31727595","verdict":"keep","countries":["BD"],"reason":"countries empty; Bengali vegetable dish"}
@@ -296,5 +296,5 @@
 {"id":"Q31830105","verdict":"keep"}
 {"id":"Q31830399","verdict":"remove","reason":"ingredient (banana flower), not a dish"}
 {"id":"Q3183248","verdict":"keep"}
-{"id":"Q3183441","verdict":"keep"}
-{"id":"Q31835050","verdict":"keep"}
+{"id":"Q3183441","verdict":"keep","countries":["CN"],"reason":"Rushan is the Bai cheese from Yunnan, China."}
+{"id":"Q31835050","verdict":"keep","countries":["RU"],"reason":"The Russian tost entry identifies the Russian prepared-toast baked good."}
