@@ -40,7 +40,8 @@ Everything lives in `packages/world-dishes/review/`:
 
 ## 2. Validate
 
-A script may check the *format* (it must not judge content):
+A script may check the _format_ (it must not judge content):
+
 - every line parses as JSON and has `id` and `verdict`;
 - the line count and order match the batch's `## DISH` headings. Match verdicts to dishes **by
   position**. Reviewers sometimes mangle ids: HowToCook ids gain or lose a repeated `:name` suffix, and
@@ -52,6 +53,7 @@ A script may check the *format* (it must not judge content):
 Small models make confident mistakes. Have a stronger model (Sonnet-class) reread, against the batch
 entry, **every `remove` verdict and every `countries` or `name` change**. It should reverse the wrong
 ones and write the corrected line back. Known mistakes so far:
+
 - real dishes removed: Tırşik çorbası, Errötendes Mädchen;
 - countries guessed from the cookbook's language instead of the dish: falafel set to IN;
 - plain ingredients handled inconsistently. Rule: keep prepared foods and named traditional products
