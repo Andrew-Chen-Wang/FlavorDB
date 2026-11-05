@@ -1,0 +1,20 @@
+{"id":"wikibooks:vedhmi-sweet-stuffed-flatbread","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVedhmi_(Sweet_Stuffed_Flatbread)","status":"ok"}]}
+{"id":"wikibooks:vegan-gingerbread-cake","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVegan_Gingerbread_Cake","status":"ok"}]}
+{"id":"wikibooks:vegan-paprika-bratwurst","verdict":"keep","reason":"Experimental source omits hydration and shaping of the gluten and gives no amounts; cannot reconstruct a usable sausage recipe from it.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVegan_Paprika_Bratwurst","status":"drop"}]}
+{"id":"wikibooks:vegan-pate","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVegan_Pate","status":"ok"}]}
+{"id":"wikibooks:vegemite-sandwich","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVegemite_Sandwich","status":"ok"}]}
+{"id":"wikibooks:vegetable-party-sandwiches","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVegetable_Party_Sandwiches","status":"ok"}]}
+{"id":"wikibooks:vegetable-salad","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVegetable_Salad","status":"ok"}]}
+{"id":"wikibooks:vegetable-spring-roll","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVegetable_Spring_Roll","status":"ok"}]}
+{"id":"wikibooks:vegetable-stew-and-dumplings","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVegetable_Stew_and_Dumplings","status":"ok"}]}
+{"id":"wikibooks:vegetable-stuffed-mushrooms","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVegetable_Stuffed_Mushrooms","status":"ok"}]}
+{"id":"wikibooks:vegetarian-rassolnik","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVegetarian_Rassolnik","status":"ok"}]}
+{"id":"wikibooks:vegetarian-soft-tacos","verdict":"keep","countries":["MX","US"],"reason":"Tacos are Mexican, and this flour-tortilla, ground-substitute version is explicitly Southwestern cuisine.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVegetarian_Soft_Tacos","status":"ok"}]}
+{"id":"wikibooks:veggie-pizza","verdict":"keep","countries":["IT","US"],"reason":"This Margherita-inspired pizza is explicitly Italian-American in the source.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVeggie_Pizza","status":"ok"}]}
+{"id":"wikibooks:veggie-salad","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVeggie_Salad","status":"ok"}]}
+{"id":"wikibooks:venetian-soup","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVenetian_Soup","status":"ok"}]}
+{"id":"wikibooks:venison-bolognese-sauce","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVenison_Bolognese_Sauce","status":"ok"}]}
+{"id":"wikibooks:venison-italian-style","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVenison_Italian_Style","status":"ok"}]}
+{"id":"wikibooks:venison-pie","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVenison_Pie","status":"ok"}]}
+{"id":"wikibooks:very-simple-cookies","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVery_Simple_Cookies","status":"ok"}]}
+{"id":"wikibooks:vetkoek-south-african-fried-dough","verdict":"keep","countries":["ZA"],"reason":"Source explicitly identifies vetkoek as South African fried dough.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AVetkoek_(South_African_Fried_Dough)","status":"ok"}]}
