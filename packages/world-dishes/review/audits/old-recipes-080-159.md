@@ -14,3 +14,4 @@ Original batch raw sources are unavailable. This audit reads every remove/countr
 - r-089: audited all 27 remove/countries targets. Cleared generic herb oils and artichokes in oil/vinegar; expanded garrapiñadas to common Latin American associations.
 - r-090: audited all 20 countries targets. Cleared Guatemala for generic baked rice with corn; prior rationale relied only on cookbook categorization.
 - r-091: audited all 22 remove/countries targets. Cleared unsupported single-country attributions on two generic rice puddings, simple chicken rice and pork roast. Beverage removals upheld after reading their serving methods.
+- r-092: audited all 16 remove/countries targets. Cleared four generic preparations; expanded salt cod and crab bagna cauda to common dish associations. Four beverage removals upheld.
