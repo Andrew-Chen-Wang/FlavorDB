@@ -299,3 +299,11 @@ Manually reread each selected name override against its original batch entry; fo
 | r-318.jsonl | wikibooks-ja:ガック | ソイガック | ソイガック | Confirmed against full raw page: ソイガック is the explicit heading and Japanese name for the imported Xôi gấc recipe; original ガック names its ingredient. |
 | r-468.jsonl | wikibooks:baklava-i | Baklava | Baklava | Confirmed: removes only the recipe variant numeral. |
 | r-468.jsonl | wikibooks:baklava-ii | Baklava | Baklava | Confirmed: removes only the recipe variant numeral. |
+| r-319.jsonl | wikibooks-ja:ギロッキ | ジリ (Gigli) | ジリ (Gigli) | Confirmed against full raw page: Gigli.jpg and the lily-shaped pasta description identify gigli; Japanese ジリ corrects the garbled label. |
+| r-469.jsonl | wikibooks:banana-cream-i | Banana Cream | Banana Cream | Confirmed: removes only the cookbook recipe variant numeral. |
+| r-469.jsonl | wikibooks:banana-cream-ii | Banana Cream | Banana Cream | Confirmed: removes only the cookbook recipe variant numeral. |
+| r-469.jsonl | wikibooks:banana-cream-pie-i | Banana Cream Pie | Banana Cream Pie | Confirmed: removes only the cookbook recipe variant numeral. |
+| r-469.jsonl | wikibooks:banana-cream-pie-ii | Banana Cream Pie | Banana Cream Pie | Confirmed: removes only the cookbook recipe variant numeral. |
+| r-469.jsonl | wikibooks:banana-split-i | Banana Split | Banana Split | Confirmed: removes only the cookbook recipe variant numeral. |
+| r-469.jsonl | wikibooks:banana-split-ii | Banana Split | Banana Split | Confirmed: removes only the cookbook recipe variant numeral. |
+| r-469.jsonl | wikibooks:bangladesh-curry | Bangladeshi Chicken Curry | Bangladeshi Chicken Curry | Confirmed: correct demonym and chicken ingredient make the English name precise without changing dish identity. |
