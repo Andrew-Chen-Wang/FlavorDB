@@ -1,6 +1,6 @@
 # Second opinion: older names batches 010–019
 
-In progress. Original batch inputs are absent. This audit reads each targeted verdict and the full reconstructed metadata entry from the checked-in data, rather than claiming access to the original batch/source. These dishes have no imported recipes. Target selection is mechanical (explicit remove or countries field); every editorial decision is made by reading.
+Completed all ten assigned batches (1,032 existing remove/countries targets). Original batch inputs are absent. This audit reads each targeted verdict and the full reconstructed metadata entry from the checked-in data, rather than claiming access to the original batch/source. These dishes have no imported recipes. Target selection is mechanical (explicit remove or countries field); every editorial decision is made by reading.
 
 | Batch | Targets reread | Status |
 |---|---:|---|
@@ -13,6 +13,7 @@ In progress. Original batch inputs are absent. This audit reads each targeted ve
 | names-016 | 78 | Complete |
 | names-017 | 52 | Complete |
 | names-018 | 73 | Complete |
+| names-019 | 44 | Complete |
 
 names-010 corrections: restored zuke as prepared marinated fish; fixed Japanese pressed ham and Russian/Ukrainian kotleta countries; preserved Persian/Turkish/Cypriot as well as Levantine muhallebi ties; removed three overlooked branded products (Puyoman, Mamador, Peasen).
 
@@ -41,3 +42,5 @@ names-016: retained Timor-Leste in shared Lusophone feijoada associations, corre
 names-017: corrected Swiss zigouille-moustique, Tunisian Ain sbaniouria and Japanese Nagoya Taiwan dishes; added Russia to Dalan, removed unsupported generic country inferences. Sources: https://les-amis-du-patrimoine-de-lens.ch/files/769/ami-14.pdf ; https://www.cuisinetunisienne.tn/ain-sbaniouria/ ; https://rakuzo.dkdining.com/nagoyanishiki/en/blog/6651/ ; https://www.nagoya-info.jp/en/gourmet/?s_genre%5B%5D=40 .
 
 names-018: added Uzbek hasip and Korean-Chinese sweet associations; removed frupt as broad Orthodox non-fasting food category. Branded candy, drinks and raw-fruit/oxtail removals upheld. Sources: https://api.unilibrary.uz/storage/PublisherResourceFile/315763/images/1684835481.pdf ; https://www.dictionarroman.ro/?c=frupt .
+
+names-019: restored paksiw as prepared food; expanded hototay, kway chap, krautkrapfen and Kashmir associations; removed raw kimpul tuber with no recipe. Sources: https://www.roots.gov.sg/ich-landing/ich/kway-chap ; https://sec.solaireresort.com/sites/default/files/2026-02/Revised_Filipiniana_Menu_2026.pdf ; https://rri.co.id/voice-of-indonesia/culinary/2627611/kimpul-goes-viral-on-tiktok-reviving-a-traditional-indonesian-tuber .

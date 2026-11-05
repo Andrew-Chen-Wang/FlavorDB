@@ -66,14 +66,14 @@
 {"id":"Q12962178","verdict":"keep"}
 {"id":"Q12964402","verdict":"keep"}
 {"id":"Q12964466","verdict":"keep"}
-{"id":"Q12964781","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese dish"}
+{"id":"Q12964781","verdict":"keep","reason":"Chinese Filipino hototay soup has Philippine association","countries":["CN","PH"]}
 {"id":"Q12964893","verdict":"keep"}
 {"id":"Q129652189","verdict":"keep"}
 {"id":"Q129652201","verdict":"keep"}
 {"id":"Q129652215","verdict":"keep"}
 {"id":"Q12967012","verdict":"keep"}
 {"id":"Q12967213","verdict":"keep"}
-{"id":"Q12969061","verdict":"remove","reason":"cooking technique page (paksiw cooking process), not a dish"}
+{"id":"Q12969061","verdict":"keep","reason":"Paksiw names prepared vinegar-braised dishes as well as a cooking method","countries":["PH"]}
 {"id":"Q12969195","verdict":"keep"}
 {"id":"Q12969316","verdict":"keep"}
 {"id":"Q12969705","verdict":"keep"}
@@ -107,7 +107,7 @@
 {"id":"Q129900296","verdict":"keep"}
 {"id":"Q12997603","verdict":"keep"}
 {"id":"Q129979392","verdict":"keep"}
-{"id":"Q1300076","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian dish"}
+{"id":"Q1300076","verdict":"keep","reason":"Cabbage-filled rolls shared Austrian and southern German traditions","countries":["AT","DE"]}
 {"id":"Q130061821","verdict":"keep"}
 {"id":"Q130097","verdict":"keep"}
 {"id":"Q130101093","verdict":"keep"}
@@ -116,7 +116,7 @@
 {"id":"Q130101956","verdict":"keep"}
 {"id":"Q130125097","verdict":"remove","reason":"overview page of South African street food, not one dish"}
 {"id":"Q13012656","verdict":"keep"}
-{"id":"Q13012696","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese dish"}
+{"id":"Q13012696","verdict":"keep","reason":"Kway chap shared Teochew Chinese and Southeast Asian traditions","countries":["CN","SG","MY","TH"]}
 {"id":"Q13013252","verdict":"keep"}
 {"id":"Q13013257","verdict":"keep"}
 {"id":"Q13013315","verdict":"keep"}
@@ -174,8 +174,8 @@
 {"id":"Q13046295","verdict":"keep"}
 {"id":"Q130465645","verdict":"keep"}
 {"id":"Q13046648","verdict":"keep"}
-{"id":"Q130470526","verdict":"keep","countries":["IN"],"reason":"countries were empty; Wazwan (Kashmir) dish"}
-{"id":"Q130470549","verdict":"keep","countries":["IN"],"reason":"countries were empty; Wazwan (Kashmir) dish"}
+{"id":"Q130470526","verdict":"keep","reason":"Kashmiri rista shared across Kashmir communities","countries":["IN","PK"]}
+{"id":"Q130470549","verdict":"keep","reason":"Kashmiri tabak maaz shared across Kashmir communities","countries":["IN","PK"]}
 {"id":"Q130471891","verdict":"keep"}
 {"id":"Q130472512","verdict":"keep"}
 {"id":"Q130478550","verdict":"keep"}
@@ -279,7 +279,7 @@
 {"id":"Q13093120","verdict":"keep"}
 {"id":"Q13093505","verdict":"keep"}
 {"id":"Q130937219","verdict":"keep"}
-{"id":"Q13094329","verdict":"keep","countries":["ID"],"reason":"countries were empty; Indonesian food"}
+{"id":"Q13094329","verdict":"remove","reason":"Kimpul is a raw starchy tuber ingredient; no recipe"}
 {"id":"Q13094650","verdict":"keep"}
 {"id":"Q13094657","verdict":"keep"}
 {"id":"Q13094672","verdict":"keep"}
