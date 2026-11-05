@@ -1,0 +1,20 @@
+{"id":"wikibooks:christmas-mince-pies-meat-free","verdict":"keep","countries":["GB"],"reason":"British Christmas mince pie tradition","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChristmas_Mince_Pies_(Meat-Free)","status":"ok"}]}
+{"id":"wikibooks:christmas-pudding-i","verdict":"keep","name":"Christmas Pudding","reason":"Remove recipe enumeration suffix","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChristmas_Pudding_I","status":"ok"}]}
+{"id":"wikibooks:christmas-pudding-ii","verdict":"keep","name":"Christmas Pudding","countries":["GB"],"reason":"Remove recipe enumeration; Sussex Christmas pudding","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChristmas_Pudding_II","status":"ok"}]}
+{"id":"wikibooks:chuck-wagon-beans","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChuck_Wagon_Beans","status":"ok"}]}
+{"id":"wikibooks:chukauni-nepalese-potato-salad","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChukauni_(Nepalese_Potato_Salad)","status":"ok"}]}
+{"id":"wikibooks:chunky-cran-apple-bran-muffins","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChunky_Cran_Apple_Bran_Muffins","status":"ok"}]}
+{"id":"wikibooks:chunky-guacamole","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChunky_Guacamole","status":"ok"}]}
+{"id":"wikibooks:chupaqueso","verdict":"keep","reason":"Real usable cooked cheese recipe despite comic inspiration","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChupaqueso","status":"ok"}]}
+{"id":"wikibooks:churri-indian-yogurt-herb-sauce","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChurri_(Indian_Yogurt_Herb_Sauce)","status":"ok"}]}
+{"id":"wikibooks:churros-i","verdict":"keep","name":"Churros","countries":["ES","PT","MX","US"],"reason":"Remove recipe enumeration and include Iberian churro ties","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChurros_I","status":"ok"}]}
+{"id":"wikibooks:chuu-chee-fish","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChuu_Chee_Fish","status":"ok"}]}
+{"id":"wikibooks:cincinnati-style-chili","verdict":"keep","countries":["US"],"reason":"Cincinnati regional chili","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACincinnati-Style_Chili","status":"ok"}]}
+{"id":"wikibooks:cinnamon-braised-chicken-kotopoulo-kapama","verdict":"keep","countries":["GR"],"reason":"Greek kotopoulo kapama","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACinnamon-braised_Chicken_(Kotopoulo_Kapama)","status":"ok"}]}
+{"id":"wikibooks:cinnamon-chicken","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACinnamon_Chicken","status":"ok"}]}
+{"id":"wikibooks:cinnamon-croutons","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACinnamon_Croutons","status":"ok"}]}
+{"id":"wikibooks:cinnamon-glazed-apples","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACinnamon_Glazed_Apples","status":"ok"}]}
+{"id":"wikibooks:cinnamon-rolls","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACinnamon_Rolls","status":"ok"}]}
+{"id":"wikibooks:cioppino-italian-seafood-stew","verdict":"keep","countries":["US"],"reason":"San Francisco Italian American seafood stew","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACioppino_(Italian_Seafood_Stew)","status":"ok"}]}
+{"id":"wikibooks:citrus-energy-drink","verdict":"remove","reason":"Energy beverage","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACitrus_Energy_Drink","status":"ok"}]}
+{"id":"wikibooks:clams-steamed-in-aluminum-foil","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AClams_Steamed_in_Aluminum_Foil","status":"ok"}]}
