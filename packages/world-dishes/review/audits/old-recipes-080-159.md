@@ -17,3 +17,4 @@ Original batch raw sources are unavailable. This audit reads every remove/countr
 - r-092: audited all 16 remove/countries targets. Cleared four generic preparations; expanded salt cod to common dish associations; left crab bagna cauda Italian because crab provenance alone does not establish dish origins. Four beverage removals upheld.
 - r-093: audited all 20 remove/countries targets. Cleared national origin on borage and broccoli; extraction fragments may omit original cooking instructions, so no raw-ingredient removal asserted without raw. Expanded buñuelos and caburé to common ties.
 - r-094: audited all 23 remove/countries targets. Expanded canelones and mondongo to common national ties. Cocktail removals upheld.
+- r-095: audited all 27 remove/countries targets. Expanded ceviche, Mexican carlota and candied chilacayote; cleared generic orange chops. Four drink removals upheld, fish-soup chilcano kept.
