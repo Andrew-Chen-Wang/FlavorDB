@@ -111,3 +111,12 @@ Additional supporting sources:
 - [Taiwan education ministry: fish crisps](https://sutian.moe.edu.tw/zh-hant/su/14303/)
 - [Honey walnut shrimp](https://blog.resy.com/2020/08/the-chinese-american-dish-that-isnt-really/)
 - [Anzu ame confectionery supplier](https://d-kokuya.shop-pro.jp/?mode=f5)
+
+## Independent global coverage checker
+
+`check-coverage.mts` compares the concatenated name and recipe verdicts against the corresponding
+records in the pre-review Git data (default commit `9333faf`), independently of verdict order.
+It verifies missing, unexpected, duplicate, and positional IDs, accepting only the documented ID
+variants. This proves global coverage and order when it passes; it does not prove absent original
+recipe batch boundaries. Run it again after all pending workers finish. At implementation time,
+all 17,530 name verdicts matched the baseline exactly, while recipe verdicts were still pending.
