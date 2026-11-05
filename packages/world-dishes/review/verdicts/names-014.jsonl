@@ -12,7 +12,7 @@
 {"id":"Q1177538","verdict":"keep"}
 {"id":"Q117756407","verdict":"keep"}
 {"id":"Q117767141","verdict":"keep"}
-{"id":"Q117803607","verdict":"keep"}
+{"id":"Q117803607","verdict":"keep","countries":["RU","UA"],"reason":"Keep Darnitsa rye-wheat bread with both Russian and Ukrainian associations explicitly present in the original entry; remove only the obsolete Soviet code."}
 {"id":"Q117813607","verdict":"remove","reason":"medicinal lozenge, not food"}
 {"id":"Q117813626","verdict":"remove","reason":"branded throat pastille product"}
 {"id":"Q117813664","verdict":"remove","reason":"branded chewing gum product"}

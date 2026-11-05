@@ -104,7 +104,7 @@
 {"id":"Q4036160","verdict":"remove","reason":"branded packaged product (Hostess Chocodile)"}
 {"id":"Q4038290","verdict":"keep","countries":["NL"],"reason":"Ulevel is a traditional Dutch sugar confection."}
 {"id":"Q404973","verdict":"keep"}
-{"id":"Q4062939","verdict":"keep"}
+{"id":"Q4062939","verdict":"keep","countries":["RU"],"reason":"Keep Altai honey as a named traditional regional food product, rather than treating the entry as a generic raw ingredient. Its stated Russian regional association supports RU; SU is obsolete."}
 {"id":"Q4068439","verdict":"remove","reason":"drink (Khakas araka spirit), not a dish"}
 {"id":"Q4073388","verdict":"keep"}
 {"id":"Q4077486","verdict":"keep"}
@@ -159,7 +159,7 @@
 {"id":"Q4197759","verdict":"keep"}
 {"id":"Q4197962","verdict":"keep"}
 {"id":"Q4198570","verdict":"keep"}
-{"id":"Q4199077","verdict":"keep"}
+{"id":"Q4199077","verdict":"keep","countries":["RU","UA","BY"],"reason":"Keep squash caviar, the cooked zucchini, carrot and tomato spread commonly associated with Russian, Ukrainian and Belarusian cooking."}
 {"id":"Q4199436","verdict":"keep"}
 {"id":"Q4200659","verdict":"keep"}
 {"id":"Q4200763","verdict":"keep"}
@@ -237,18 +237,18 @@
 {"id":"Q427226","verdict":"keep"}
 {"id":"Q4273466","verdict":"keep"}
 {"id":"Q42749778","verdict":"keep"}
-{"id":"Q4275510","verdict":"keep"}
+{"id":"Q4275510","verdict":"keep","countries":["RU","UA","BY"],"reason":"Keep makarony po-flotski: the original describes Russian pasta with ground meat, also commonly part of Ukrainian and Belarusian Soviet-derived cooking."}
 {"id":"Q428392","verdict":"keep"}
 {"id":"Q4285984","verdict":"keep"}
 {"id":"Q428621","verdict":"remove","reason":"drink (fruit brandy, pálinka), not a dish"}
 {"id":"Q42894275","verdict":"keep","countries":["FR"],"reason":"countries were empty; French macaron"}
 {"id":"Q42935277","verdict":"keep"}
-{"id":"Q4293923","verdict":"keep"}
+{"id":"Q4293923","verdict":"keep","countries":["RU","UA","BY"],"reason":"Keep Mimosa salad with Russian, Ukrainian and Belarusian associations, each explicitly identified by cuisine in the original layered fish-and-egg salad entry."}
 {"id":"Q429483","verdict":"keep"}
 {"id":"Q429518","verdict":"keep"}
 {"id":"Q43013136","verdict":"keep","countries":["FR"],"reason":"countries were empty; Nice, France"}
 {"id":"Q43013313","verdict":"remove","reason":"Second opinion: Poularde de Bresse is protected fresh poultry, with no recipe here; https://www.inao.gouv.fr/produit/poularde-de-bresse-17456"}
-{"id":"Q4302793","verdict":"keep"}
+{"id":"Q4302793","verdict":"keep","countries":["RU","UZ","KZ","UA"],"reason":"Keep morkovcha as a Koryo-saram carrot salad associated with Uzbekistan and Kazakhstan diaspora cooking and Russian and Ukrainian food traditions; Korean ethnicity does not alone establish either modern Korean state as its country."}
 {"id":"Q43038747","verdict":"keep"}
 {"id":"Q4304396","verdict":"keep","countries":["GB","US","JP"],"reason":"Egg sandwiches are established British, American and Japanese preparations."}
 {"id":"Q4305242","verdict":"keep"}

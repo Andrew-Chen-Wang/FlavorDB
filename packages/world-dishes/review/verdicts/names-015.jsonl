@@ -33,7 +33,7 @@
 {"id":"Q120495847","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese shrimp dish"}
 {"id":"Q120495866","verdict":"keep"}
 {"id":"Q120499220","verdict":"keep","reason":"Preserve recorded Italian pastry association alongside French petit-four tradition","countries":["IT","FR"]}
-{"id":"Q12050379","verdict":"keep"}
+{"id":"Q12050379","verdict":"keep","countries":["RU","UA","BY"],"reason":"Keep the Soviet-style Russian ice-cream sandwich: Russian, Ukrainian and Belarusian ice-cream traditions share this plombir-style preparation."}
 {"id":"Q120512623","verdict":"remove","reason":"fast-food chain menu item"}
 {"id":"Q12054972","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech dish"}
 {"id":"Q1205609","verdict":"keep"}

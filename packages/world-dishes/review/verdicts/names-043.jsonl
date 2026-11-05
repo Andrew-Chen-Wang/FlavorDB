@@ -34,7 +34,7 @@
 {"id":"Q44192309","verdict":"keep","countries":["MX"],"reason":"Aporreadillo is explicitly Mexican."}
 {"id":"Q4421267","verdict":"keep"}
 {"id":"Q4425232","verdict":"remove","reason":"drink (Polish blackcurrant vodka liqueur), not a dish"}
-{"id":"Q4425569","verdict":"keep"}
+{"id":"Q4425569","verdict":"remove","reason":"Remove Snezhok: this specific sweet cultured-milk preparation is a fermented milk drink. Its yogurt classification does not make it a spoonable yogurt dish; the review excludes nonalcoholic drinks."}
 {"id":"Q4426758","verdict":"keep","countries":["CN","KR","JP"],"reason":"Fermented bean paste is established Chinese, Korean and Japanese preparation."}
 {"id":"Q4430349","verdict":"keep","countries":["RU"],"reason":"Sochivo is the Russian ritual grain dish."}
 {"id":"Q443962","verdict":"keep"}
@@ -100,7 +100,7 @@
 {"id":"Q46208","verdict":"keep"}
 {"id":"Q46324654","verdict":"keep"}
 {"id":"Q46349219","verdict":"keep"}
-{"id":"Q463872","verdict":"keep"}
+{"id":"Q463872","verdict":"keep","countries":["DE"],"reason":"Keep Ketwurst: the original explicitly identifies the GDR hot dog of bockwurst, ketchup and bread roll, whose modern country is Germany."}
 {"id":"Q464545","verdict":"keep"}
 {"id":"Q4646989","verdict":"keep"}
 {"id":"Q464826","verdict":"keep"}

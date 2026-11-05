@@ -138,8 +138,8 @@
 {"id":"Q11260432","verdict":"keep","countries":["JP"],"reason":"added country: Japanese rice dish"}
 {"id":"Q11260433","verdict":"keep"}
 {"id":"Q11260435","verdict":"keep"}
-{"id":"Q112605733","verdict":"keep"}
-{"id":"Q112606123","verdict":"keep"}
+{"id":"Q112605733","verdict":"keep","countries":["RU","UA","BY"],"reason":"Keep vitamin salad: the cucumber, apple, carrot and smetana preparation belongs to shared Russian, Ukrainian and Belarusian everyday Soviet-derived cooking; replace the historical state with these common modern associations."}
+{"id":"Q112606123","verdict":"keep","countries":["RU","UA","BY"],"reason":"Keep kapusta provansal: sauerkraut with cranberries or lingonberries is a Russian, Ukrainian and Belarusian prepared salad; the Provençal epithet does not establish French provenance."}
 {"id":"Q11260635","verdict":"keep"}
 {"id":"Q11260648","verdict":"keep","countries":["JP"],"reason":"added country: Japanese inarizushi"}
 {"id":"Q11260815","verdict":"keep"}

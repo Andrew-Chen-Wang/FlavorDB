@@ -43,10 +43,10 @@ Loaded 31832 dish verdicts from 675 files.
 
 | Review change                                                       | Count |
 | ------------------------------------------------------------------- | ----: |
-| Dishes removed                                                      |  1844 |
+| Dishes removed                                                      |  1845 |
 | …because their last recipe was dropped and they have no Wikidata ID |    48 |
 | Dishes renamed                                                      |   314 |
-| Countries changed                                                   | 19070 |
+| Countries changed                                                   | 19081 |
 | Recipes fixed                                                       |  1857 |
 | Recipes dropped                                                     |    81 |
 
@@ -61,7 +61,10 @@ Follow-ups: import the additional recipes on pages such as brigadeiro, Castagnac
 All 10,394 previously countryless kept entries and two special cases were read in full from
 their supplied original entries and raw excerpts, then independently reread (10,396 records
 per pass). The second pass corrected 643 decisions. The final follow-up removes 186 entries;
-all 29,988 output dishes have countries (zero countryless dishes). Build and data integrity
+all 29,987 output dishes have countries (zero countryless dishes). Build and data integrity
 checks enforce this invariant. Two continent-only African recipes retain explicitly provisional
 country lists with user approval; see `review/README.md`. Counts above are from a fresh
 application to baseline `9333faf`, using shared code directly because the fetch cache is absent.
+
+A separate two-reader check of 12 obsolete SU/DD country-code entries assigned modern
+countries to 11 foods and removed Snezhok as a fermented milk drink. Existing XK denotes Kosovo.
