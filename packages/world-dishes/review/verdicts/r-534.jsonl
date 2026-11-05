@@ -16,3 +16,6 @@
 {"id":"wikibooks:kuwese-u-logo-nigerian-fried-cassava","verdict":"keep","countries":["NG"],"reason":"Source identifies the Tiv fried cassava preparation in Nigeria.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AKuwese_U_Logo_(Nigerian_Fried_Cassava)","status":"ok"}]}
 {"id":"wikibooks:kwacoco-cameroonian-steamed-taro-bundles","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AKwacoco_(Cameroonian_Steamed_Taro_Bundles)","status":"ok"}]}
 {"id":"wikibooks:kwado-nigerian-cassava-flour-salad","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AKwado_(Nigerian_Cassava_Flour_Salad)","status":"ok"}]}
+{"id":"wikibooks:kwek-kwek-deep-fried-quail-eggs","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AKwek-Kwek_(Deep-Fried_Quail_Eggs)","status":"ok"}]}
+{"id":"wikibooks:kyopulo-eggplant-with-peppers-and-tomatoes","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AKyopulo_(Eggplant_with_Peppers_and_Tomatoes)","status":"ok"}]}
+{"id":"wikibooks:kyselo-czech-sourdough-mushroom-soup","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AKyselo_(Czech_Sourdough_Mushroom_Soup)","status":"ok"}]}
