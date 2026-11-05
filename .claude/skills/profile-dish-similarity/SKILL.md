@@ -25,6 +25,7 @@ All of it is in `packages/seed-data/src/`:
     bitter, umami, heat, numbing), 20% flavor notes and 10% form graph.
 
 What the user asked for, and what to preserve:
+
 - "Made the same way" means it looks similar and goes through a similar process (stir-fried noodles
   match stir-fried noodles from any culture), whatever it tastes like.
 - "Tastes alike" starts from the main ingredient (a noodle dish tastes most like other noodle dishes),
@@ -35,7 +36,7 @@ What the user asked for, and what to preserve:
 1. **form**: the leaf of `FORM_GRAPH` that matches how it's served. If none fits, add a leaf with the
    right parents rather than forcing it. A stir-fried dish of pieces is `stir-fried-pieces`, not
    `pieces-in-sauce`.
-2. **base**: what the dish *is*. For noodle dishes, list only the noodle (the most specific kind:
+2. **base**: what the dish _is_. For noodle dishes, list only the noodle (the most specific kind:
    `round-rice-noodles`, `flat-rice-noodles`, `alkaline-noodles`…), not the toppings. For other dishes,
    list one or two main ingredients.
 3. **steps**: the defining steps, in order (e.g. `soak → stir-fry`, `make-dough → fill → wrap → steam`).
@@ -45,6 +46,7 @@ What the user asked for, and what to preserve:
    strongly each taste registers. Be honest about heat; mild dishes shouldn't match fiery ones.
 
 For a world link:
+
 - check the id exists in `packages/world-dishes/data/dishes-*.jsonl`;
 - give it `name`, `localName` (in its own script) and `countries`;
 - don't add one that duplicates a curated dish.
