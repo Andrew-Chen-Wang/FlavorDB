@@ -37,3 +37,4 @@ Original batch raw sources are unavailable. This audit reads every remove/countr
 - r-112: audited all 15 remove/countries targets. Corrected sauce américaine to France; expanded aioli and salbutes; cleared generic hazelnut sauce. Wine drink removal upheld.
 - r-113: audited all 18 remove/countries targets. Cleared generic onion sardines; expanded chorba and fuchifu to shared ties. Pisco cocktail removal upheld.
 - r-114: audited all 16 remove/countries targets. Expanded tabbouleh and chipilín tamales to common shared ties. Three beverage removals upheld.
+- r-115: audited all 17 countries targets. Expanded porteño tiramisù to Italy alongside Argentina; regional named sweets and dishes upheld.
