@@ -16,7 +16,7 @@
 {"id":"Q19702102","verdict":"keep"}
 {"id":"Q19702771","verdict":"keep"}
 {"id":"Q19704261","verdict":"keep","countries":["FI"],"reason":"added country: Finnish pastry"}
-{"id":"Q19704410","verdict":"keep","countries":["FI"],"reason":"added country: Finnish soup"}
+{"id":"Q19704410","verdict":"keep","countries":[],"reason":"Second opinion: pureed vegetable soup is generic, not assigned Finland from its Finnish wording."}
 {"id":"Q19704479","verdict":"keep","countries":["FI"],"reason":"added country: Finnish biscuit"}
 {"id":"Q19706789","verdict":"keep","countries":["FI"],"reason":"added country: Finnish fish dish"}
 {"id":"Q19707923","verdict":"keep","countries":["FI"],"reason":"added country: Finnish porridge"}
@@ -136,7 +136,7 @@
 {"id":"Q19892252","verdict":"keep","countries":["TW"],"reason":"added country: Taiwanese cake"}
 {"id":"Q19893634","verdict":"keep"}
 {"id":"Q19894306","verdict":"keep"}
-{"id":"Q19895414","verdict":"keep","countries":["BD"],"reason":"added country: Bengali curry"}
+{"id":"Q19895414","verdict":"keep","countries":["BD","IN"],"reason":"Second opinion: chingri malai curry is Bengali cuisine shared by Bangladesh and West Bengal, India."}
 {"id":"Q19896348","verdict":"keep"}
 {"id":"Q19898437","verdict":"keep"}
 {"id":"Q19898963","verdict":"keep"}
@@ -152,7 +152,7 @@
 {"id":"Q19943899","verdict":"keep"}
 {"id":"Q19944077","verdict":"keep"}
 {"id":"Q19944109","verdict":"keep"}
-{"id":"Q19947090","verdict":"keep","countries":["PL"],"reason":"added country: Polish dish"}
+{"id":"Q19947090","verdict":"remove","reason":"Second opinion: Lacko apple is a raw regional apple, not a prepared dish (https://www.paczkaodrolnika.pl/news/268/Jablka-lackie)."}
 {"id":"Q19947255","verdict":"keep","countries":["NL"],"reason":"added country: Dutch candy"}
 {"id":"Q19947359","verdict":"keep"}
 {"id":"Q19947459","verdict":"keep","countries":["FR"],"reason":"added country: Savoy cake"}
@@ -209,7 +209,7 @@
 {"id":"Q20033797","verdict":"keep"}
 {"id":"Q20033866","verdict":"keep"}
 {"id":"Q20034","verdict":"keep"}
-{"id":"Q20034048","verdict":"keep","countries":["PL"],"reason":"added country: Polish dish"}
+{"id":"Q20034048","verdict":"remove","reason":"Second opinion: Piekny Jas z Doliny Dunajca is the raw regional bean ingredient (https://www.paczkaodrolnika.pl/news/261/Fasola-Piekny-Jas-z-Doliny-Dunajca)."}
 {"id":"Q20034088","verdict":"keep"}
 {"id":"Q20034136","verdict":"keep","countries":["PL"],"reason":"added country: Polish dish"}
 {"id":"Q20035","verdict":"keep"}
@@ -229,18 +229,18 @@
 {"id":"Q20051","verdict":"keep"}
 {"id":"Q2005160","verdict":"keep"}
 {"id":"Q200527","verdict":"keep"}
-{"id":"Q20052814","verdict":"keep","countries":["PT"],"reason":"added country: Portuguese cake"}
+{"id":"Q20052814","verdict":"keep","countries":["BR"],"reason":"Second opinion: bolo baeta is a Brazilian cake from Paraiba, not Portuguese."}
 {"id":"Q20052841","verdict":"keep"}
 {"id":"Q2005477","verdict":"keep"}
 {"id":"Q20055","verdict":"keep"}
 {"id":"Q2005538","verdict":"keep","countries":["DE"],"reason":"added country: German pastry"}
 {"id":"Q20057","verdict":"keep"}
-{"id":"Q20059083","verdict":"keep","countries":["PT"],"reason":"added country: Portuguese honey"}
-{"id":"Q20059084","verdict":"keep","countries":["PT"],"reason":"added country: Portuguese honey"}
+{"id":"Q20059083","verdict":"remove","reason":"Second opinion: Terras Altas do Minho honey is plain honey without a recipe, not a prepared dish."}
+{"id":"Q20059084","verdict":"remove","reason":"Second opinion: Alentejo honey is plain honey without a recipe, not a prepared dish."}
 {"id":"Q20059289","verdict":"keep","countries":["PT"],"reason":"added country: Portuguese ham"}
 {"id":"Q20060232","verdict":"keep"}
-{"id":"Q20060278","verdict":"keep","countries":["PT"],"reason":"added country: Portuguese honey"}
-{"id":"Q20060279","verdict":"keep","countries":["PT"],"reason":"added country: Portuguese honey"}
+{"id":"Q20060278","verdict":"remove","reason":"Second opinion: Barroso honey is plain honey without a recipe, not a prepared dish."}
+{"id":"Q20060279","verdict":"remove","reason":"Second opinion: Ribatejo Norte honey is plain honey without a recipe, not a prepared dish."}
 {"id":"Q20060505","verdict":"keep","countries":["PT"],"reason":"added country: Portuguese bread"}
 {"id":"Q20061","verdict":"keep"}
 {"id":"Q20061165","verdict":"keep"}
@@ -274,12 +274,12 @@
 {"id":"Q20105841","verdict":"keep","countries":["ES"],"reason":"added country: Catalan dish"}
 {"id":"Q20105863","verdict":"keep","countries":["ES"],"reason":"added country: Catalan bread"}
 {"id":"Q20106004","verdict":"keep","countries":["ES"],"reason":"added country: Catalan cake"}
-{"id":"Q20106022","verdict":"keep","countries":["ES"],"reason":"added country: Catalan dish"}
+{"id":"Q20106022","verdict":"keep","countries":[],"reason":"Second opinion: oven potatoes with tomatoes is generic; Catalan wording alone does not establish origin."}
 {"id":"Q20106042","verdict":"keep","countries":["ES"],"reason":"added country: Catalan cuisine"}
 {"id":"Q20106091","verdict":"keep","countries":["ES"],"reason":"added country: Catalan dish"}
 {"id":"Q20106127","verdict":"keep","countries":["ES"],"reason":"added country: Catalan dish"}
 {"id":"Q20106265","verdict":"keep","countries":["ES"],"reason":"added country: Catalan dessert"}
-{"id":"Q20106267","verdict":"keep","countries":["ES"],"reason":"added country: Catalan dish"}
+{"id":"Q20106267","verdict":"keep","countries":[],"reason":"Second opinion: cooked snails is generic; Catalan wording alone does not establish origin."}
 {"id":"Q20106371","verdict":"keep","countries":["ES"],"reason":"added country: Catalan dessert"}
 {"id":"Q20106375","verdict":"keep","countries":["ES"],"reason":"added country: Catalan cake"}
 {"id":"Q20106816","verdict":"keep"}
