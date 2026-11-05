@@ -37,7 +37,7 @@
 {"id":"Q89677726","verdict":"keep"}
 {"id":"Q897096","verdict":"keep","countries":["DE"],"reason":"countries were empty; Swabian dish"}
 {"id":"Q89741283","verdict":"keep"}
-{"id":"Q898835","verdict":"remove","reason":"ingredient/process explanation (Dutch-process cocoa), not a dish"}
+{"id":"Q898835","verdict":"keep","reason":"Second opinion: Dutch-process cocoa is a manufactured cocoa preparation, not a plain raw ingredient"}
 {"id":"Q89889766","verdict":"keep"}
 {"id":"Q899218","verdict":"keep"}
 {"id":"Q899561","verdict":"keep"}
@@ -63,7 +63,7 @@
 {"id":"Q9002202","verdict":"keep"}
 {"id":"Q900440","verdict":"keep"}
 {"id":"Q9012336","verdict":"keep"}
-{"id":"Q9017170","verdict":"remove","reason":"ingredient explanation (alkaline solution for noodles), not a dish"}
+{"id":"Q9017170","verdict":"keep","reason":"Second opinion: the named entry and linked articles concern prepared alkaline noodles; ingredient-solution metadata is inconsistent"}
 {"id":"Q9017323","verdict":"keep"}
 {"id":"Q9019810","verdict":"keep","countries":["ES"],"reason":"countries were empty; Galician dish"}
 {"id":"Q9026659","verdict":"keep"}
@@ -187,13 +187,13 @@
 {"id":"Q93149118","verdict":"keep"}
 {"id":"Q9324242","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish Christmas dish"}
 {"id":"Q93258309","verdict":"keep"}
-{"id":"Q933433","verdict":"keep","countries":["GR"],"reason":"countries were empty; Greek dish"}
+{"id":"Q933433","verdict":"keep","countries":["GR","TR","AL"],"reason":"Second opinion: grilled offal kokoretsi has Greek, Turkish and Albanian associations"}
 {"id":"Q9335353","verdict":"keep"}
 {"id":"Q9339115","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish dish"}
 {"id":"Q9340263","verdict":"keep"}
 {"id":"Q934095","verdict":"keep","countries":["MY","SG","ID"],"reason":"country was IR; laksa is from Malaysia, Singapore and Indonesia"}
 {"id":"Q934171","verdict":"keep"}
-{"id":"Q93454336","verdict":"keep","countries":["HU"],"reason":"countries were empty; Hungarian dessert"}
+{"id":"Q93454336","verdict":"keep","countries":["SI"],"reason":"Second opinion: Bledi kremes is Bled cream cake from Slovenia; https://www.bled.si/en/what-to-see-do/cuisine/bled-cream-cake/2020050414555020/-/"}
 {"id":"Q9350843","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish dish"}
 {"id":"Q93521114","verdict":"keep"}
 {"id":"Q9356605","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese sushi"}

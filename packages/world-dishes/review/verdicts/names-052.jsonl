@@ -15,7 +15,7 @@
 {"id":"Q6930013","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish salad; countries empty, set to Kurdish cuisine region"}
 {"id":"Q69321010","verdict":"keep"}
 {"id":"Q6934262","verdict":"keep","countries":["NO"],"reason":"Norwegian Christmas cake; countries were empty"}
-{"id":"Q6935684","verdict":"remove","reason":"branded fast food product (chain menu item)"}
+{"id":"Q6935684","verdict":"keep","reason":"Second opinion: munchy box is a Scottish takeaway assortment sold independently, not a chain brand"}
 {"id":"Q6935968","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish meal; countries empty, set to Kurdish cuisine region"}
 {"id":"Q6936640","verdict":"keep"}
 {"id":"Q6936882","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish dish; countries empty, set to Kurdish cuisine region"}
@@ -49,7 +49,7 @@
 {"id":"Q6967043","verdict":"keep"}
 {"id":"Q6967046","verdict":"keep"}
 {"id":"Q6967048","verdict":"keep"}
-{"id":"Q6967051","verdict":"keep","countries":["TH"],"reason":"Thai fried rice; countries were empty"}
+{"id":"Q6967051","verdict":"keep","countries":["TH","MY"],"reason":"Second opinion: nasi paprik is a Thai-Malaysian dish"}
 {"id":"Q6967056","verdict":"keep"}
 {"id":"Q6967935","verdict":"keep"}
 {"id":"Q6968166","verdict":"keep"}
@@ -59,7 +59,7 @@
 {"id":"Q697230","verdict":"keep"}
 {"id":"Q6973180","verdict":"keep"}
 {"id":"Q6974635","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish food; countries empty, set to Kurdish cuisine region"}
-{"id":"Q697498","verdict":"keep","countries":["TW"],"reason":"Taiwanese beef noodle soup; countries were empty"}
+{"id":"Q697498","verdict":"keep","countries":["TW","CN"],"reason":"Second opinion: beef noodle soup has both Chinese and Taiwanese culinary associations"}
 {"id":"Q6978616","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish dish; countries empty, set to Kurdish cuisine region"}
 {"id":"Q6978633","verdict":"keep"}
 {"id":"Q6979159","verdict":"keep","countries":["IQ","TR","IR","SY"],"reason":"Kurdish food; countries empty, set to Kurdish cuisine region"}
@@ -148,7 +148,7 @@
 {"id":"Q708972","verdict":"keep"}
 {"id":"Q70940386","verdict":"keep"}
 {"id":"Q7095366","verdict":"keep","countries":["IN"],"reason":"Mangalore breakfast dish; countries were empty"}
-{"id":"Q709554","verdict":"keep","countries":["KR"],"reason":"Korean mung bean pancake; countries were empty"}
+{"id":"Q709554","verdict":"keep","countries":["KP","KR"],"reason":"Second opinion: bindaetteok is associated with northern Korea as well as South Korea"}
 {"id":"Q709812","verdict":"keep"}
 {"id":"Q7098418","verdict":"keep"}
 {"id":"Q7099775","verdict":"keep"}
@@ -159,7 +159,7 @@
 {"id":"Q7107766","verdict":"keep"}
 {"id":"Q711053","verdict":"keep"}
 {"id":"Q71129654","verdict":"keep"}
-{"id":"Q7116377","verdict":"keep","countries":["AU"],"reason":"Oysters Kirkpatrick is Australian; countries were empty"}
+{"id":"Q7116377","verdict":"keep","countries":["AU","US"],"reason":"Second opinion: Oysters Kirkpatrick has Australian and American associations, including California metadata"}
 {"id":"Q7116378","verdict":"keep"}
 {"id":"Q7116380","verdict":"keep"}
 {"id":"Q71183889","verdict":"keep"}
@@ -177,7 +177,7 @@
 {"id":"Q7129715","verdict":"keep"}
 {"id":"Q7129763","verdict":"keep","countries":["GB"],"reason":"North English casserole; countries were empty"}
 {"id":"Q7130182","verdict":"keep"}
-{"id":"Q7130487","verdict":"keep","countries":["MY"],"reason":"Malaysian pandan cake; ID was wrong"}
+{"id":"Q7130487","verdict":"keep","countries":["ID","MY","SG"],"reason":"Second opinion: pandan cake is shared across Indonesian, Malaysian and Singaporean traditions"}
 {"id":"Q7130544","verdict":"keep"}
 {"id":"Q7130870","verdict":"keep"}
 {"id":"Q7131157","verdict":"keep"}
@@ -198,7 +198,7 @@
 {"id":"Q7141600","verdict":"keep","countries":["IN","PK"],"reason":"South Asian Mughlai dish; countries were empty"}
 {"id":"Q7142035","verdict":"keep"}
 {"id":"Q7142949","verdict":"keep"}
-{"id":"Q7142950","verdict":"keep","countries":["US"],"reason":"American dish; CA was wrong"}
+{"id":"Q7142950","verdict":"keep","countries":["CA","US"],"reason":"Second opinion: pasta primavera has Canadian and American associations"}
 {"id":"Q7142958","verdict":"keep"}
 {"id":"Q7143007","verdict":"keep"}
 {"id":"Q7143016","verdict":"keep","countries":["GR"],"reason":"Greek (Corfiot) dish; countries were empty"}
@@ -239,7 +239,7 @@
 {"id":"Q7171328","verdict":"keep"}
 {"id":"Q717136","verdict":"keep","countries":["KR"],"reason":"Korean (Seoul) soup; countries were empty"}
 {"id":"Q717435","verdict":"keep"}
-{"id":"Q717628","verdict":"keep","countries":["TW"],"reason":"Taiwanese pork ball; CN was wrong"}
+{"id":"Q717628","verdict":"keep","countries":["CN","TW"],"reason":"Second opinion: pork balls are shared across Chinese and Taiwanese traditions"}
 {"id":"Q7178377","verdict":"keep"}
 {"id":"Q718010","verdict":"keep"}
 {"id":"Q7180306","verdict":"keep"}
@@ -281,7 +281,7 @@
 {"id":"Q7199983","verdict":"keep","countries":["IT"],"reason":"Roman pizza al taglio; countries were empty"}
 {"id":"Q7199987","verdict":"remove","reason":"topic overview page (pizza in the US), not a dish"}
 {"id":"Q7199990","verdict":"keep"}
-{"id":"Q7200291","verdict":"keep","countries":["GR"],"reason":"Ancient Greek cheesecake recipe; countries were empty"}
+{"id":"Q7200291","verdict":"keep","countries":["GR","IT"],"reason":"Second opinion: placenta cake belongs to ancient Greek and Roman traditions"}
 {"id":"Q7200650","verdict":"keep"}
 {"id":"Q7202208","verdict":"remove","reason":"cut of beef, not a dish"}
 {"id":"Q720230","verdict":"keep"}

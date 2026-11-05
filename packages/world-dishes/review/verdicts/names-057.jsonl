@@ -90,8 +90,8 @@
 {"id":"Q96959923","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian dish"}
 {"id":"Q9696642","verdict":"keep"}
 {"id":"Q9696651","verdict":"keep"}
-{"id":"Q9697606","verdict":"keep","countries":["PT"],"reason":"countries were empty; Portuguese dish"}
-{"id":"Q9697608","verdict":"keep","countries":["PT"],"reason":"countries were empty; Portuguese dish"}
+{"id":"Q9697606","verdict":"keep"}
+{"id":"Q9697608","verdict":"keep","countries":["BR"],"reason":"Second opinion: carneiro no buraco is the signature dish of Campo Mourao, Brazil; https://campomourao.atende.net/cidadao/pagina/prato-tipico-carneiro-no-buraco"}
 {"id":"Q9697885","verdict":"keep"}
 {"id":"Q970055","verdict":"keep"}
 {"id":"Q97011029","verdict":"keep"}
@@ -131,9 +131,9 @@
 {"id":"Q97207091","verdict":"keep"}
 {"id":"Q97207900","verdict":"keep"}
 {"id":"Q97207975","verdict":"keep","countries":["MY"],"reason":"countries were empty; Malaysian kuih"}
-{"id":"Q97208149","verdict":"keep","countries":["RU"],"reason":"countries were empty; Russian dish"}
+{"id":"Q97208149","verdict":"remove","reason":"Second opinion: lazy dishes is a grouping of simplified recipes, not one dish"}
 {"id":"Q97208796","verdict":"keep","countries":["DK"],"reason":"countries were empty; Danish cookie"}
-{"id":"Q97208861","verdict":"keep","countries":["BG"],"reason":"countries were empty; Bulgarian cake"}
+{"id":"Q97208861","verdict":"keep"}
 {"id":"Q97209095","verdict":"keep"}
 {"id":"Q97210319","verdict":"keep"}
 {"id":"Q97213015","verdict":"keep"}
@@ -141,7 +141,7 @@
 {"id":"Q97213416","verdict":"keep"}
 {"id":"Q97213627","verdict":"keep"}
 {"id":"Q97213639","verdict":"keep"}
-{"id":"Q97213843","verdict":"keep","countries":["ID"],"reason":"countries were empty; Indonesian kuih"}
+{"id":"Q97213843","verdict":"keep","countries":["ID","MY"],"reason":"Second opinion: lepat pisang is associated with Indonesia and Malaysia"}
 {"id":"Q97214217","verdict":"keep"}
 {"id":"Q97216847","verdict":"keep"}
 {"id":"Q97219066","verdict":"keep","countries":["ID"],"reason":"countries were empty; Papuan food"}
@@ -173,7 +173,7 @@
 {"id":"Q97278426","verdict":"keep"}
 {"id":"Q97278843","verdict":"keep"}
 {"id":"Q97279239","verdict":"keep"}
-{"id":"Q97279333","verdict":"keep","countries":["BY"],"reason":"countries were empty; Belarusian dish"}
+{"id":"Q97279333","verdict":"keep"}
 {"id":"Q97292941","verdict":"keep"}
 {"id":"Q97293020","verdict":"keep"}
 {"id":"Q97307614","verdict":"keep"}
@@ -190,7 +190,7 @@
 {"id":"Q97312305","verdict":"keep","countries":["CZ"],"reason":"countries were empty; Czech dessert"}
 {"id":"Q973125","verdict":"keep"}
 {"id":"Q97314684","verdict":"keep"}
-{"id":"Q97315123","verdict":"keep","countries":["LU"],"reason":"country was RU; Klouschterhaip is a Luxembourgish Easter cake"}
+{"id":"Q97315123","verdict":"keep","countries":["RU"],"reason":"Second opinion: metadata identifies Russian cuisine and monastery-hut cake ingredients; Luxembourgish label does not change the dish country"}
 {"id":"Q97320386","verdict":"keep"}
 {"id":"Q97324305","verdict":"keep"}
 {"id":"Q97325303","verdict":"remove","reason":"drink (Jian Nan Chun baijiu)"}

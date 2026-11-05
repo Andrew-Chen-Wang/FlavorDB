@@ -60,7 +60,7 @@
 {"id":"Q727198","verdict":"keep","countries":["KR"],"reason":"Korean dish; countries were empty"}
 {"id":"Q7272094","verdict":"keep"}
 {"id":"Q727210","verdict":"keep","name":"Asiago","reason":"removed PDO designation from name"}
-{"id":"Q7273069","verdict":"keep","countries":["OM","AE"],"reason":"Omani and Emirati lamb dish; countries were empty"}
+{"id":"Q7273069","verdict":"keep","countries":["IQ","OM","AE"],"reason":"Second opinion: quzi is associated with Iraq as well as Gulf cuisines"}
 {"id":"Q7278468","verdict":"keep"}
 {"id":"Q7278638","verdict":"keep"}
 {"id":"Q72817580","verdict":"keep","countries":["CH"],"reason":"Swiss bread roll; countries were empty"}
@@ -281,7 +281,7 @@
 {"id":"Q7572829","verdict":"keep"}
 {"id":"Q7573059","verdict":"keep"}
 {"id":"Q75761914","verdict":"keep"}
-{"id":"Q7576924","verdict":"keep","countries":["GB"],"reason":"Scottish/Irish salt beef style; countries were empty"}
+{"id":"Q7576924","verdict":"keep","countries":["GB","IE"],"reason":"Second opinion: spiced beef has Irish and British traditions"}
 {"id":"Q7576925","verdict":"keep"}
 {"id":"Q7577066","verdict":"keep"}
 {"id":"Q7580785","verdict":"keep"}

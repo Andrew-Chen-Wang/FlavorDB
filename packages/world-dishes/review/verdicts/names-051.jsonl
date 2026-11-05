@@ -67,7 +67,7 @@
 {"id":"Q65561282","verdict":"keep"}
 {"id":"Q65561673","verdict":"keep"}
 {"id":"Q65564214","verdict":"keep"}
-{"id":"Q65581385","verdict":"keep","countries":["FR"],"reason":"French soup; countries were empty"}
+{"id":"Q65581385","verdict":"keep"}
 {"id":"Q65589417","verdict":"keep"}
 {"id":"Q6559431","verdict":"keep"}
 {"id":"Q6564586","verdict":"keep"}
@@ -81,7 +81,7 @@
 {"id":"Q6578151","verdict":"keep"}
 {"id":"Q657835","verdict":"keep"}
 {"id":"Q6581424","verdict":"keep"}
-{"id":"Q658413","verdict":"remove","reason":"ingredient (bread crumbs), not a dish"}
+{"id":"Q658413","verdict":"keep","reason":"Second opinion: bread crumbs are prepared bread, not a plain raw ingredient"}
 {"id":"Q6585018","verdict":"keep"}
 {"id":"Q6585755","verdict":"keep"}
 {"id":"Q6588272","verdict":"keep"}
@@ -101,7 +101,7 @@
 {"id":"Q662189","verdict":"keep"}
 {"id":"Q66246606","verdict":"keep"}
 {"id":"Q6629253","verdict":"keep"}
-{"id":"Q66311565","verdict":"keep","countries":["TR"],"reason":"Turkish dessert; countries were empty"}
+{"id":"Q66311565","verdict":"keep","countries":["GR","TR"],"reason":"Second opinion: revani is associated with both Greek and Turkish cuisines"}
 {"id":"Q66317711","verdict":"keep","countries":["US"],"reason":"Manhattan clam chowder; countries were empty"}
 {"id":"Q663306","verdict":"keep"}
 {"id":"Q66330986","verdict":"keep"}
@@ -120,12 +120,12 @@
 {"id":"Q6665217","verdict":"keep"}
 {"id":"Q6665463","verdict":"keep"}
 {"id":"Q6669461","verdict":"keep","countries":["PH"],"reason":"Filipino noodle soup; countries were empty"}
-{"id":"Q66720241","verdict":"keep","countries":["IN"],"reason":"Indian sugar candy; countries were empty"}
+{"id":"Q66720241","verdict":"keep"}
 {"id":"Q6672749","verdict":"keep"}
-{"id":"Q6673476","verdict":"keep","countries":["FI"],"reason":"Finnish candy; countries were empty"}
+{"id":"Q6673476","verdict":"remove","reason":"Second opinion: Aarrearkku is a marketed Fazer candy assortment; https://www.fazer.com/"}
 {"id":"Q667478","verdict":"keep"}
 {"id":"Q6674872","verdict":"keep"}
-{"id":"Q66809735","verdict":"keep","countries":["DE"],"reason":"German tea biscuit; countries were empty"}
+{"id":"Q66809735","verdict":"keep"}
 {"id":"Q66817770","verdict":"keep"}
 {"id":"Q668269","verdict":"keep","countries":["AT"],"reason":"Austrian dish; countries were empty"}
 {"id":"Q6682881","verdict":"keep"}
@@ -210,7 +210,7 @@
 {"id":"Q6794330","verdict":"keep"}
 {"id":"Q6794563","verdict":"keep"}
 {"id":"Q67956728","verdict":"keep"}
-{"id":"Q6796608","verdict":"keep","countries":["CA"],"reason":"Canadian dessert; countries were empty"}
+{"id":"Q6796608","verdict":"remove","reason":"Second opinion: Mae West is a marketed Vachon cake brand"}
 {"id":"Q6797913","verdict":"remove","reason":"branded packaged product (Maypo cereal)"}
 {"id":"Q67994149","verdict":"keep"}
 {"id":"Q68005229","verdict":"keep"}
@@ -261,7 +261,7 @@
 {"id":"Q68493943","verdict":"keep"}
 {"id":"Q68495119","verdict":"keep"}
 {"id":"Q68495399","verdict":"keep"}
-{"id":"Q68497532","verdict":"keep","countries":["PH"],"reason":"Filipino sorbetes; countries were empty"}
+{"id":"Q68497532","verdict":"keep"}
 {"id":"Q68530595","verdict":"keep"}
 {"id":"Q6853367","verdict":"keep"}
 {"id":"Q685352","verdict":"keep"}
