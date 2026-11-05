@@ -19,10 +19,10 @@ to write your results.
    - pages that aren't a recipe for a dish: technique pages, ingredient explanations, indexes, menus
      or lists of other recipes
    - nonsense or empty entries you can't identify as any real dish
-   When unsure whether an obscure name is a real dish, **keep** it. Many entries are only a name with
-   no description: that's not a reason to remove them. A plausible dish name ("Kartofle nadziewane",
-   stuffed potatoes) stays. Only call something "not a recipe page" when you can see its recipe
-   source and it really isn't one.
+     When unsure whether an obscure name is a real dish, **keep** it. Many entries are only a name with
+     no description: that's not a reason to remove them. A plausible dish name ("Kartofle nadziewane",
+     stuffed potatoes) stays. Only call something "not a recipe page" when you can see its recipe
+     source and it really isn't one.
 2. **Fix obvious data errors**, only when you're confident:
    - `name`: if the name is garbled, has wiki markup, a trailing number, a namespace prefix, or is a
      sentence rather than a name. Keep the dish's own language and spelling; don't translate.
@@ -31,8 +31,8 @@ to write your results.
      every country the dish is commonly said to belong to. Judge the dish itself, never the language
      of the cookbook it came from: a Thai curry in the Italian cookbook is TH, and a generic dish that
      isn't tied to any place (e.g. "fruit salad", "pancakes with jam") gets no country.
-3. **Each recipe** (`### Recipe N`): compare the *Extracted ingredients* and *Extracted steps* with the
-   *Raw source page* underneath.
+3. **Each recipe** (`### Recipe N`): compare the _Extracted ingredients_ and _Extracted steps_ with the
+   _Raw source page_ underneath.
    - `ok`: the extraction faithfully has the ingredients and the method (small formatting
      differences are fine).
    - `fixed`: something is wrong (ingredients missing or mixed into steps, steps missing or that are
