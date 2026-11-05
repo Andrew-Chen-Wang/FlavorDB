@@ -45,7 +45,7 @@
 {"id":"Q17164276","verdict":"keep"}
 {"id":"Q17165588","verdict":"keep"}
 {"id":"Q17166373","verdict":"keep"}
-{"id":"Q17173204","verdict":"remove","reason":"nonsense entry: name is just the character for soup, not an identifiable dish"}
+{"id":"Q17173204","verdict":"remove","reason":"Second opinion: the name means generic soup, a category rather than one dish; the name is meaningful, not nonsense."}
 {"id":"Q17173262","verdict":"keep"}
 {"id":"Q17174348","verdict":"keep"}
 {"id":"Q17174620","verdict":"keep"}
@@ -102,12 +102,12 @@
 {"id":"Q17228743","verdict":"keep","countries":["JP"],"reason":"Japanese ame; countries were empty"}
 {"id":"Q17228947","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
 {"id":"Q17229022","verdict":"keep"}
-{"id":"Q17230138","verdict":"keep","countries":["JP"],"reason":"Japanese French toast; countries were empty"}
+{"id":"Q17230138","verdict":"keep","countries":[],"reason":"Second opinion: brulee French toast is not established as specifically Japanese by its Japanese wording."}
 {"id":"Q17230213","verdict":"keep","countries":["JP"],"reason":"Japanese nanbangashi; countries were empty"}
 {"id":"Q17230219","verdict":"keep"}
 {"id":"Q17231508","verdict":"remove","reason":"instant noodle product (cup yakisoba)"}
 {"id":"Q17232463","verdict":"keep"}
-{"id":"Q17232939","verdict":"keep","countries":["JP"],"reason":"Japanese dessert; countries were empty"}
+{"id":"Q17232939","verdict":"keep","countries":[],"reason":"Second opinion: baked chocolate is generic; Japanese wording does not establish origin."}
 {"id":"Q17238884","verdict":"keep","countries":["JP"],"reason":"Japanese confectionery; countries were empty"}
 {"id":"Q17240129","verdict":"keep"}
 {"id":"Q17255569","verdict":"keep"}
@@ -163,7 +163,7 @@
 {"id":"Q1750077","verdict":"keep"}
 {"id":"Q17501980","verdict":"keep"}
 {"id":"Q175123","verdict":"keep"}
-{"id":"Q17520921","verdict":"keep","countries":["BY"],"reason":"Belarusian pie; countries were empty"}
+{"id":"Q17520921","verdict":"keep","countries":[],"reason":"Second opinion: open pie is generic; Belarusian wording does not establish national origin."}
 {"id":"Q1752442","verdict":"keep","countries":["DE"],"reason":"German smoked-fish dish; countries were empty"}
 {"id":"Q1753265","verdict":"keep"}
 {"id":"Q1753513","verdict":"keep"}
@@ -204,7 +204,7 @@
 {"id":"Q17636964","verdict":"keep"}
 {"id":"Q17637181","verdict":"keep"}
 {"id":"Q17638083","verdict":"keep"}
-{"id":"Q17638841","verdict":"remove","reason":"branded packaged product (Saint-Feuillien)"}
+{"id":"Q17638841","verdict":"keep","reason":"Second opinion: Saint-Feuillien is a named Belgian beer-washed cheese, retained under the named cheese rule (https://www.apaqw.be/fr/laureat-coq-de-cristal-2019fromage-pate-molle-et-croute-lavee)."}
 {"id":"Q17639757","verdict":"keep"}
 {"id":"Q17640050","verdict":"keep"}
 {"id":"Q17640292","verdict":"keep"}
@@ -237,7 +237,7 @@
 {"id":"Q1784786","verdict":"keep"}
 {"id":"Q1786572","verdict":"keep","countries":["NO"],"reason":"Norwegian meal; countries were empty"}
 {"id":"Q1787022","verdict":"keep"}
-{"id":"Q1787956","verdict":"keep","countries":["DE"],"reason":"German meat dish; countries were empty"}
+{"id":"Q1787956","verdict":"keep","countries":["AT","DE"],"reason":"Second opinion: include Austrian Krenfleisch alongside German ties, rather than judging its German-language name as Germany alone."}
 {"id":"Q1788872","verdict":"remove","reason":"medicated tablet, not food"}
 {"id":"Q178899","verdict":"remove","reason":"drink (spirit)"}
 {"id":"Q1790280","verdict":"keep"}
@@ -253,7 +253,7 @@
 {"id":"Q1795580","verdict":"keep"}
 {"id":"Q1796292","verdict":"keep"}
 {"id":"Q1797415","verdict":"remove","reason":"vegetable variety (carrot cultivar), not a dish"}
-{"id":"Q1798180","verdict":"keep","countries":["DE"],"reason":"German lebkuchen; countries were empty"}
+{"id":"Q1798180","verdict":"keep","countries":["DE","CH"],"reason":"Second opinion: Magenbrot is associated with both northern Switzerland and southern Germany (https://www.srf.ch/news/wirtschaft/an-chilbi-und-weihnachtsmarkt-das-suesse-nischengeschaeft-mit-dem-magenbrot)."}
 {"id":"Q1798420","verdict":"keep"}
 {"id":"Q17986779","verdict":"keep","countries":["BE"],"reason":"Belgian dish; countries were empty"}
 {"id":"Q17990295","verdict":"keep","countries":["JP"],"reason":"Japanese canned bread; countries were empty"}
@@ -286,7 +286,7 @@
 {"id":"Q18027552","verdict":"keep"}
 {"id":"Q18043321","verdict":"keep"}
 {"id":"Q1805687","verdict":"remove","reason":"drink (distilled spirit)"}
-{"id":"Q18061506","verdict":"keep","countries":["CZ"],"reason":"Czech pastry; countries were empty"}
+{"id":"Q18061506","verdict":"remove","countries":["CZ"],"reason":"Second opinion: Vizovicke pecivo consists of inedible decorative dough ornaments (https://www.vizovicke.cz/recept.html)."}
 {"id":"Q1807598","verdict":"keep"}
 {"id":"Q1808216","verdict":"keep","countries":["NL"],"reason":"Dutch pastry; countries were empty"}
 {"id":"Q18086964","verdict":"keep","countries":["NL"],"reason":"Dutch cookie from Gorinchem; countries were empty"}
