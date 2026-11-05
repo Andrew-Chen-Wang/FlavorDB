@@ -9,6 +9,7 @@ In progress. Original batch inputs are absent. This audit reads each targeted ve
 | names-012 | 152 | Complete |
 | names-013 | 117 | Complete |
 | names-014 | 141 | Complete |
+| names-015 | 118 | Complete |
 
 names-010 corrections: restored zuke as prepared marinated fish; fixed Japanese pressed ham and Russian/Ukrainian kotleta countries; preserved Persian/Turkish/Cypriot as well as Levantine muhallebi ties; removed three overlooked branded products (Puyoman, Mamador, Peasen).
 
@@ -29,3 +30,5 @@ names-012: restored kobujime, Mito natto and prepared bean paste; corrected Schm
 names-013: restored dipping chocolate as prepared sauce and sujime as vinegar-cured fish; removed branded Shimobashira candy. Retained craft-chocolate/85%-standard and decorative-candy grouping removals. Sources: https://ishikawa-sushi.com/en/sushi/techniques.php ; https://www.sirogohan.com/sp/recipe/ajisujime/amp/ ; https://tamazawa.jp/products/ ; https://www.sh-business.de/fileadmin/user_upload/Media_Relations/Presseartikel_PDF/PDF_2023/PI_231214_Schmackhaftes_Schleswig-Holstein.pdf (confirms Kohlpudding German association).
 
 names-014: corrected language-based countries for Azinat, Romanitos, Magarina bulli and indulgence cookies; added shared stedrak and shawarma ties; restored prepared chocolate drops and meat soup; removed raw morralla fish. Sources: https://www.ariegepyrenees.com/preparer/manger-bon-bien/meilleures-recettes-ariegeoises/lazinat/ ; https://es.wikipedia.org/wiki/Romanitos ; https://jag.journalagent.com/z4/download_fulltext.asp?pdir=gpt-studios&plng=eng&un=GPT-02996 ; https://www.ludovakultura.sk/polozka-encyklopedie/stedrak/ ; https://www.pcs.es/producto/morralla/ .
+
+names-015: corrected Cafriela from ES to GW; restored shared countries for East African greens, Meskouta, sayadieh, arikah, palatschinke and drob sarma; removed unsupported exclusive language-based countries from generic breads, dill potatoes and dried pasta. Sources: https://www.consulmarbissau.com/sites/default/files/files/tourist_guide_guinea-bissau_eu_acl2018_en_web.pdf ; https://en.wikipedia.org/wiki/Sukuma_wiki ; https://en.wikipedia.org/wiki/Palatschinke ; https://en.wikipedia.org/wiki/Sayadieh ; https://en.wikipedia.org/wiki/Meskouta .
