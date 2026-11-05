@@ -10,10 +10,10 @@
 {"id":"Q1496601","verdict":"keep"}
 {"id":"Q1497012","verdict":"keep","countries":["DE","AT","CH"],"reason":"countries were empty; German-speaking bakery tradition"}
 {"id":"Q14971","verdict":"keep","countries":["FR"],"reason":"countries were empty; French regional specialty"}
-{"id":"Q1498208","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"Q1498208","verdict":"keep","countries":["DE","AT"],"reason":"Second opinion: stuffed veal breast belongs to German and Austrian cooking; preserve both common ties."}
 {"id":"Q1498378","verdict":"keep"}
 {"id":"Q1498834","verdict":"keep","countries":["DE"],"reason":"countries were empty; German bread roll"}
-{"id":"Q1499559","verdict":"remove","reason":"grouping of confections rather than one dish"}
+{"id":"Q1499559","verdict":"keep","reason":"Second opinion: fruit jellies are prepared fruit confectionery, comparable to accepted sweets, not an index of recipes."}
 {"id":"Q15010030","verdict":"keep","countries":["MX"],"reason":"countries were empty; Yucatecan dish"}
 {"id":"Q1501015","verdict":"keep"}
 {"id":"Q1501043","verdict":"keep"}
@@ -35,7 +35,7 @@
 {"id":"Q1509738","verdict":"keep"}
 {"id":"Q1510478","verdict":"keep","countries":["DE"],"reason":"countries were empty; Westphalian ham"}
 {"id":"Q15106034","verdict":"remove","reason":"generic word for appetizer, not a specific dish"}
-{"id":"Q1511660","verdict":"keep","countries":["DE"],"reason":"countries were empty; German soup"}
+{"id":"Q1511660","verdict":"keep","countries":["AT","DE"],"reason":"Second opinion: Stosuppe is Austrian and southern German; Germany alone omitted its main Austrian association (https://www.gutekueche.at/stosuppe-artikel-4767)."}
 {"id":"Q15121455","verdict":"keep"}
 {"id":"Q151259","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cake"}
 {"id":"Q1512964","verdict":"keep"}
@@ -43,7 +43,7 @@
 {"id":"Q151466","verdict":"keep","countries":["DE"],"reason":"countries were empty; German bread roll"}
 {"id":"Q15149436","verdict":"keep"}
 {"id":"Q1515205","verdict":"keep"}
-{"id":"Q1517954","verdict":"keep","countries":["DE"],"reason":"countries were empty; Swabian/Bavarian dish"}
+{"id":"Q1517954","verdict":"keep","countries":["CH"],"reason":"Second opinion: Pizokel are from Graubunden, Switzerland, not Swabia or Bavaria (https://prd.graubuendenviva.ch/de/wissen/kochwelt/rezepte/pizokels)."}
 {"id":"Q15181","verdict":"keep","countries":["RU","GE","AM","AZ"],"reason":"countries were empty; Caucasian dish"}
 {"id":"Q1518169","verdict":"keep"}
 {"id":"Q1518177","verdict":"keep"}
@@ -105,12 +105,12 @@
 {"id":"Q1551132","verdict":"keep","countries":["DE"],"reason":"countries were empty; German viennoiserie"}
 {"id":"Q1551242","verdict":"keep"}
 {"id":"Q1552373","verdict":"remove","reason":"soft part of bread (crumb), not a dish"}
-{"id":"Q1553379","verdict":"keep","countries":["DE"],"reason":"countries were empty; German deep-fried food"}
+{"id":"Q1553379","verdict":"keep","countries":["AT"],"reason":"Second opinion: Polsterzipf are traditional Austrian pastries (https://www.bmluk.gv.at/themen/lebensmittel/trad-lebensmittel/speisen/polsterzipf_hasenoeh.html)."}
 {"id":"Q1554207","verdict":"keep"}
 {"id":"Q15544669","verdict":"remove","reason":"plant species, not a dish"}
 {"id":"Q1554570","verdict":"keep"}
 {"id":"Q1554726","verdict":"keep"}
-{"id":"Q15548160","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese roast duck"}
+{"id":"Q15548160","verdict":"keep","countries":[],"reason":"Second opinion: roast duck is generic; the entry has no evidence tying it specifically to China."}
 {"id":"Q1555816","verdict":"keep"}
 {"id":"Q1558512","verdict":"keep"}
 {"id":"Q155922","verdict":"keep"}
@@ -136,7 +136,7 @@
 {"id":"Q1567954","verdict":"keep"}
 {"id":"Q1568296","verdict":"keep"}
 {"id":"Q15686391","verdict":"keep"}
-{"id":"Q1568754","verdict":"keep","countries":["MX","ES"],"reason":"BR was wrong; salpicon is Mexican and Spanish"}
+{"id":"Q1568754","verdict":"keep","countries":["BR","MX","ES"],"reason":"Second opinion: retain Brazilian salpicao chicken salad association present in original metadata alongside Spanish and Mexican salpicon."}
 {"id":"Q1568905","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pastry"}
 {"id":"Q15693942","verdict":"keep","countries":["CO"],"reason":"ES was wrong; Colombian pastry"}
 {"id":"Q15695438","verdict":"keep"}
@@ -161,7 +161,7 @@
 {"id":"Q1578447","verdict":"keep","countries":["IT"],"reason":"countries were empty; Roman sausage"}
 {"id":"Q15785303","verdict":"keep"}
 {"id":"Q15785486","verdict":"keep","countries":["ID"],"reason":"countries were empty; Indonesian bun"}
-{"id":"Q15789810","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"Q15789810","verdict":"keep","countries":[],"reason":"Second opinion: nettle greens prepared as spinach are generic; German wording does not establish national origin."}
 {"id":"Q15790217","verdict":"keep"}
 {"id":"Q15792421","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pastry"}
 {"id":"Q15794115","verdict":"keep"}
@@ -183,7 +183,7 @@
 {"id":"Q15845628","verdict":"keep"}
 {"id":"Q15846908","verdict":"remove","reason":"heading (difficult dishes), not a specific dish"}
 {"id":"Q1584788","verdict":"keep","countries":["TR","GR"],"reason":"added GR; dish is common to Turkish and Greek cuisine"}
-{"id":"Q1584798","verdict":"keep","countries":["DE"],"reason":"countries were empty; German potato dish"}
+{"id":"Q1584798","verdict":"keep","countries":[],"reason":"Second opinion: parsley potatoes are generic, not assigned Germany merely from their German name."}
 {"id":"Q1585409","verdict":"keep"}
 {"id":"Q15854364","verdict":"keep"}
 {"id":"Q15855727","verdict":"keep"}
@@ -197,7 +197,7 @@
 {"id":"Q15884273","verdict":"keep","countries":["SE"],"reason":"countries were empty; Swedish dish"}
 {"id":"Q1588808","verdict":"keep"}
 {"id":"Q15888508","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese dish"}
-{"id":"Q15893577","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese dish"}
+{"id":"Q15893577","verdict":"keep","countries":[],"reason":"Second opinion: lamb brisket is not established as a specifically Chinese dish by the entry."}
 {"id":"Q15894338","verdict":"keep"}
 {"id":"Q15894369","verdict":"keep"}
 {"id":"Q15894455","verdict":"keep"}
@@ -255,7 +255,7 @@
 {"id":"Q1599125","verdict":"keep"}
 {"id":"Q15992430","verdict":"keep"}
 {"id":"Q15992463","verdict":"keep"}
-{"id":"Q16024165","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese sandwich"}
+{"id":"Q16024165","verdict":"keep","countries":["FR","BE","RE"],"reason":"Second opinion: sandwich americain is French/Belgian and Reunion food, not Japanese (https://fr.wikipedia.org/wiki/Sandwich_am%C3%A9ricain)."}
 {"id":"Q1603166","verdict":"keep"}
 {"id":"Q16044494","verdict":"keep"}
 {"id":"Q16044734","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}

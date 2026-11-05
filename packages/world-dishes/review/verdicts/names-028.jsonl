@@ -88,7 +88,7 @@
 {"id":"Q16901399","verdict":"keep"}
 {"id":"Q1690265","verdict":"keep"}
 {"id":"Q16902896","verdict":"remove","reason":"generic category (a meal served on a platter), not a specific dish"}
-{"id":"Q16903587","verdict":"keep","countries":["IT"],"reason":"Italian pasta; countries were empty"}
+{"id":"Q16903587","verdict":"keep","countries":["IT","US"],"reason":"Second opinion: manicotti is strongly associated with Italian-American cooking as well as Italian pasta."}
 {"id":"Q16906849","verdict":"keep"}
 {"id":"Q16909052","verdict":"keep"}
 {"id":"Q16910416","verdict":"keep","countries":["RO","MD"],"reason":"Romanian and Moldovan dish; countries were empty"}
@@ -104,7 +104,7 @@
 {"id":"Q16918839","verdict":"keep"}
 {"id":"Q16926259","verdict":"keep"}
 {"id":"Q16926266","verdict":"keep"}
-{"id":"Q16926310","verdict":"keep","countries":["MO"],"reason":"Macanese dish; countries were empty"}
+{"id":"Q16926310","verdict":"keep","countries":["MO","IN","PT"],"reason":"Second opinion: the metadata explicitly identifies both Luso-Indian and Macanese cuisine, so retain those ties."}
 {"id":"Q16927617","verdict":"keep","countries":["US"],"reason":"Louisiana Creole dish; countries were empty"}
 {"id":"Q16929887","verdict":"keep","countries":["SE"],"reason":"Swedish dish; countries were empty"}
 {"id":"Q16930441","verdict":"keep"}
@@ -113,7 +113,7 @@
 {"id":"Q16933312","verdict":"keep"}
 {"id":"Q16934063","verdict":"keep"}
 {"id":"Q16934214","verdict":"keep"}
-{"id":"Q16934667","verdict":"remove","reason":"ritual item on the Seder plate, not a dish"}
+{"id":"Q16934667","verdict":"keep","reason":"Second opinion: zeroa is an actual prepared roasted shankbone food on the Seder plate; ritual use does not make prepared food a non-food object."}
 {"id":"Q16934675","verdict":"keep"}
 {"id":"Q16935343","verdict":"keep","countries":["US"],"reason":"American candy; countries were empty"}
 {"id":"Q16935381","verdict":"keep","countries":["SN","GM"],"reason":"West African dish; countries were empty"}
@@ -125,10 +125,10 @@
 {"id":"Q16943688","verdict":"keep"}
 {"id":"Q16945693","verdict":"keep","countries":["CN"],"reason":"Tibetan dish; countries were empty"}
 {"id":"Q16946787","verdict":"keep"}
-{"id":"Q16947964","verdict":"keep","countries":["GB"],"reason":"British lamb offal dish; countries were empty"}
+{"id":"Q16947964","verdict":"keep","countries":["GB","AU","NZ"],"reason":"Second opinion: lambs fry is commonly tied to British, Australian and New Zealand cooking."}
 {"id":"Q16949628","verdict":"keep","countries":["JM"],"reason":"Jamaican dessert; countries were empty"}
 {"id":"Q16951552","verdict":"keep"}
-{"id":"Q16952139","verdict":"remove","reason":"branded packaged product (Cougar Gold canned cheese)"}
+{"id":"Q16952139","verdict":"keep","reason":"Second opinion: Cougar Gold is a named cheese, retained consistently with the prepared and named cheese rule."}
 {"id":"Q16952446","verdict":"keep"}
 {"id":"Q16956515","verdict":"keep"}
 {"id":"Q16957893","verdict":"keep","countries":["GB"],"reason":"British frozen confection; countries were empty"}
@@ -248,7 +248,7 @@
 {"id":"Q17050727","verdict":"keep"}
 {"id":"Q17051280","verdict":"keep","countries":["IN"],"reason":"Indian sweet dish; countries were empty"}
 {"id":"Q17051646","verdict":"keep"}
-{"id":"Q17051739","verdict":"keep","countries":["DE"],"reason":"German spice cookie; countries were empty"}
+{"id":"Q17051739","verdict":"keep","countries":["DE","NL","DK"],"reason":"Second opinion: Pfeffernusse spice cookies are commonly tied to Germany, Netherlands and Denmark."}
 {"id":"Q17052123","verdict":"keep"}
 {"id":"Q17052769","verdict":"keep","countries":["CN"],"reason":"Chinese noodle dish; countries were empty"}
 {"id":"Q17052971","verdict":"keep"}
