@@ -108,7 +108,7 @@
 {"id":"Q4068439","verdict":"remove","reason":"drink (Khakas araka spirit), not a dish"}
 {"id":"Q4073388","verdict":"keep"}
 {"id":"Q4077486","verdict":"keep"}
-{"id":"Q4080173","verdict":"keep","countries":["RU"],"reason":"countries were empty; Bashkortostan honey"}
+{"id":"Q4080173","verdict":"remove","reason":"Second opinion: plain regional honey with no recipe is a raw ingredient"}
 {"id":"Q4082936","verdict":"keep"}
 {"id":"Q40853306","verdict":"keep","countries":["GB","IE"],"reason":"countries were empty; British and Irish breakfast"}
 {"id":"Q40867220","verdict":"keep"}
@@ -192,13 +192,13 @@
 {"id":"Q4229214","verdict":"keep","countries":["RU"],"reason":"countries were empty; Mari cuisine"}
 {"id":"Q42348478","verdict":"keep","countries":["BD","IN"],"reason":"countries were empty; Bengali hilsa dish"}
 {"id":"Q42363424","verdict":"keep","countries":["BD","IN"],"reason":"countries were empty; Bengali hilsa dish"}
-{"id":"Q42363635","verdict":"keep","countries":["IN"],"reason":"countries were empty; Indian biryani"}
+{"id":"Q42363635","verdict":"keep","countries":["BD","IN","PK"],"reason":"Second opinion: mutton biryani is shared across Bangladesh, India and Pakistan"}
 {"id":"Q42366457","verdict":"keep"}
 {"id":"Q42369886","verdict":"keep","countries":["IN"],"reason":"countries were empty; Kolkata biryani"}
 {"id":"Q42373854","verdict":"keep"}
 {"id":"Q42373871","verdict":"keep","countries":["GB"],"reason":"countries were empty; British biscuit"}
 {"id":"Q42378074","verdict":"keep"}
-{"id":"Q42379629","verdict":"keep","countries":["IN"],"reason":"countries were empty; Indian biryani"}
+{"id":"Q42379629","verdict":"keep","countries":["BD","IN","PK"],"reason":"Second opinion: beef biryani is shared across Bangladesh, India and Pakistan"}
 {"id":"Q42380699","verdict":"keep","countries":["IN"],"reason":"countries were empty; Indian biryani"}
 {"id":"Q42381119","verdict":"keep","countries":["BD","IN"],"reason":"countries were empty; Bengali hilsa dish"}
 {"id":"Q42381360","verdict":"keep","countries":["BD","IN"],"reason":"countries were empty; Bengali fish dish"}
@@ -207,7 +207,7 @@
 {"id":"Q42395976","verdict":"keep","countries":["IN"],"reason":"countries were empty; Dindigul, Tamil Nadu"}
 {"id":"Q42396244","verdict":"keep","countries":["IN"],"reason":"countries were empty; Delhi biryani"}
 {"id":"Q42399449","verdict":"keep"}
-{"id":"Q42400563","verdict":"keep","countries":["IN"],"reason":"countries were empty; Bengali sweet"}
+{"id":"Q42400563","verdict":"keep","countries":["BD","IN"],"reason":"Second opinion: Bengali rajbhog is associated with both Bangladesh and India"}
 {"id":"Q42411090","verdict":"keep"}
 {"id":"Q42417224","verdict":"keep","countries":["NI"],"reason":"countries were empty; Nicaraguan dish"}
 {"id":"Q42417247","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian meat dish"}
@@ -247,7 +247,7 @@
 {"id":"Q429483","verdict":"keep"}
 {"id":"Q429518","verdict":"keep"}
 {"id":"Q43013136","verdict":"keep","countries":["FR"],"reason":"countries were empty; Nice, France"}
-{"id":"Q43013313","verdict":"keep","countries":["FR"],"reason":"countries were empty; Bresse, France"}
+{"id":"Q43013313","verdict":"remove","reason":"Second opinion: Poularde de Bresse is protected fresh poultry, with no recipe here; https://www.inao.gouv.fr/produit/poularde-de-bresse-17456"}
 {"id":"Q4302793","verdict":"keep"}
 {"id":"Q43038747","verdict":"keep"}
 {"id":"Q4304396","verdict":"keep"}

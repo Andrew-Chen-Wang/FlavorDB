@@ -48,7 +48,7 @@
 {"id":"Q5458522","verdict":"keep"}
 {"id":"Q5459109","verdict":"keep"}
 {"id":"Q5459704","verdict":"keep"}
-{"id":"Q545985","verdict":"keep","countries":["VN","TH","CN"],"reason":"fish sauce is from Vietnam, Thailand and China; IN was wrong"}
+{"id":"Q545985","verdict":"keep","countries":["VN","TH","CN","KH","LA","MM","PH","KR","JP","IT"],"reason":"Second opinion: fermented fish sauce is shared across Southeast and East Asian traditions and Italy"}
 {"id":"Q545994","verdict":"keep"}
 {"id":"Q546072","verdict":"keep","countries":["CZ"],"reason":"Czech dish; countries were empty"}
 {"id":"Q5462783","verdict":"keep"}
@@ -74,7 +74,7 @@
 {"id":"Q5491222","verdict":"keep"}
 {"id":"Q54952472","verdict":"keep"}
 {"id":"Q5495791","verdict":"keep","countries":["NL"],"reason":"Dutch candy; countries were empty"}
-{"id":"Q54962774","verdict":"keep","countries":["IT"],"reason":"pasta of Campania, Italy; countries were empty"}
+{"id":"Q54962774","verdict":"remove","reason":"Second opinion: pasta of Campania is a regional grouping, not one dish"}
 {"id":"Q5501442","verdict":"keep"}
 {"id":"Q550325","verdict":"keep","countries":["MX"],"reason":"Mexican seafood dish; countries were empty"}
 {"id":"Q5503338","verdict":"keep"}
@@ -208,7 +208,7 @@
 {"id":"Q55718484","verdict":"remove","reason":"set index article, not a dish"}
 {"id":"Q55725140","verdict":"keep"}
 {"id":"Q5572731","verdict":"keep"}
-{"id":"Q55728796","verdict":"keep","countries":["KR"],"reason":"Korean tteok; countries were empty"}
+{"id":"Q55728796","verdict":"keep","countries":["KP","KR"],"reason":"Second opinion: noti is associated with northern Korean cuisine as well as Korea generally"}
 {"id":"Q55730267","verdict":"keep"}
 {"id":"Q55732697","verdict":"keep"}
 {"id":"Q55733775","verdict":"keep","countries":["KR"],"reason":"Korean soup; countries were empty"}

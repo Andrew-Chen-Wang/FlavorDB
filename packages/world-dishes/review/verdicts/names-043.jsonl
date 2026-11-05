@@ -266,9 +266,9 @@
 {"id":"Q4868733","verdict":"keep"}
 {"id":"Q4869727","verdict":"keep"}
 {"id":"Q48724049","verdict":"keep"}
-{"id":"Q48730021","verdict":"keep","countries":["IN"],"reason":"countries were empty; Bengali mustard sauce"}
+{"id":"Q48730021","verdict":"keep","countries":["BD","IN"],"reason":"Second opinion: Bengali mustard sauce is associated with both Bangladesh and India"}
 {"id":"Q48730981","verdict":"keep"}
-{"id":"Q48731366","verdict":"keep","countries":["PK"],"reason":"countries were empty; Pakistani bread"}
+{"id":"Q48731366","verdict":"remove","reason":"Second opinion: Pakistani breads is a grouping of breads, not one dish"}
 {"id":"Q48731505","verdict":"keep","countries":["IN"],"reason":"countries were empty; West Bengal sweet"}
 {"id":"Q4873584","verdict":"keep"}
 {"id":"Q48741336","verdict":"keep"}
