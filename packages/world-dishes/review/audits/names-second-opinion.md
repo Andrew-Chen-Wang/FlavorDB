@@ -281,3 +281,4 @@ Manually reread each selected name override against its original batch entry; fo
 | r-371.jsonl | wikibooks-pl:sola-za-szpinakiem-pod-beszamelem | Sola ze szpinakiem pod beszamelem | Sola ze szpinakiem pod beszamelem | Confirmed: ze szpinakiem correctly describes sole with spinach and béchamel in the full raw preparation. |
 | r-526.jsonl | wikibooks:indian-baked-yoghurt-with-saffron-and-cardamom | Indian Baked Yoghurt with Cardamom and Figs | Indian Baked Yoghurt with Cardamom and Figs | Confirmed: full raw recipe uses cardamom and poached figs, and contains no saffron. |
 | r-526.jsonl | wikibooks:indian-butter-chicken-i | Indian Butter Chicken | Indian Butter Chicken | Confirmed: removes only the recipe variant numeral. |
+| r-527.jsonl | wikibooks:irish-potatoes | Irish Potato Candy | Irish Potato Candy | Confirmed: full raw introduction explicitly identifies Irish potato candy and its cream-cheese/coconut confection preparation. |
