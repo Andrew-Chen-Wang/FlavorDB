@@ -47,7 +47,7 @@
 {"id":"Q28724885","verdict":"keep"}
 {"id":"Q28724890","verdict":"keep"}
 {"id":"Q28724892","verdict":"keep"}
-{"id":"Q28725121","verdict":"keep","reason":"Second opinion: the dish metadata identifies a tahu goreng preparation. An apparently mistranslated English label is not sufficient evidence to remove a plausible dish.","name":"Tahu goreng"}
+{"id":"Q28725121","verdict":"keep","reason":"Second opinion: replace the mistranslated label with Tahu aci; the image Tahu Acie.png and tofu, tapioca and chives identify this specific preparation rather than generic tahu goreng.","name":"Tahu aci"}
 {"id":"Q28725149","verdict":"keep"}
 {"id":"Q28726278","verdict":"keep"}
 {"id":"Q28733682","verdict":"keep"}
