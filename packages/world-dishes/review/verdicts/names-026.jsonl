@@ -4,7 +4,7 @@
 {"id":"Q14930421","verdict":"keep"}
 {"id":"Q14931087","verdict":"keep"}
 {"id":"Q14940573","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese pastry"}
-{"id":"Q14942719","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch candy"}
+{"id":"Q14942719","verdict":"remove","reason":"Wycam’s borstbol is a branded commercial candy."}
 {"id":"Q14943090","verdict":"keep"}
 {"id":"Q1495867","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch candy"}
 {"id":"Q1496601","verdict":"keep"}
@@ -24,13 +24,13 @@
 {"id":"Q1504300","verdict":"keep"}
 {"id":"Q1505087","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
 {"id":"Q1505500","verdict":"keep"}
-{"id":"Q1505775","verdict":"keep","countries":["RO"],"reason":"countries were empty; Romanian dish"}
+{"id":"Q1505775","verdict":"keep","countries":["RO","MD"],"reason":"Sirbusca soup is associated with Moldova and Romanian cuisine."}
 {"id":"Q15059761","verdict":"keep"}
 {"id":"Q15060428","verdict":"keep"}
 {"id":"Q15062624","verdict":"keep"}
 {"id":"Q1506811","verdict":"keep","countries":["DK"],"reason":"countries were empty; Danish sausage"}
 {"id":"Q1509150","verdict":"keep","countries":["AT"],"reason":"countries were empty; Tyrolean dessert"}
-{"id":"Q1509400","verdict":"keep","countries":["SA"],"reason":"countries were empty; Hijazi food"}
+{"id":"Q1509400","verdict":"keep","countries":["SA","AE","QA","BH","OM","IQ","YE"],"reason":"Tharid is a shared Arabian bread-and-meat stew with Gulf, Iraqi and Yemeni traditions."}
 {"id":"Q1509414","verdict":"keep"}
 {"id":"Q1509738","verdict":"keep"}
 {"id":"Q1510478","verdict":"keep","countries":["DE"],"reason":"countries were empty; Westphalian ham"}
@@ -44,7 +44,7 @@
 {"id":"Q15149436","verdict":"keep"}
 {"id":"Q1515205","verdict":"keep"}
 {"id":"Q1517954","verdict":"keep","countries":["CH"],"reason":"Second opinion: Pizokel are from Graubunden, Switzerland, not Swabia or Bavaria (https://prd.graubuendenviva.ch/de/wissen/kochwelt/rezepte/pizokels)."}
-{"id":"Q15181","verdict":"keep","countries":["RU","GE","AM","AZ"],"reason":"countries were empty; Caucasian dish"}
+{"id":"Q15181","verdict":"keep","countries":["RU","GE","AM","AZ","UA","UZ","KZ"],"reason":"Shashlik is associated with Caucasian, Russian, Ukrainian and Central Asian cuisines."}
 {"id":"Q1518169","verdict":"keep"}
 {"id":"Q1518177","verdict":"keep"}
 {"id":"Q1518603","verdict":"keep"}
@@ -123,7 +123,7 @@
 {"id":"Q15629893","verdict":"keep"}
 {"id":"Q15630073","verdict":"keep"}
 {"id":"Q1563014","verdict":"keep"}
-{"id":"Q15635457","verdict":"keep","countries":["RS","BA","HR","ME","MK","TR"],"reason":"TR alone was incomplete; dish is Balkan and Turkish"}
+{"id":"Q15635457","verdict":"keep","countries":["RS","BA","HR","ME","MK","TR","BG"],"reason":"Include Bulgarian kachamak with the existing Balkan and Turkish associations."}
 {"id":"Q1563684","verdict":"keep"}
 {"id":"Q15647777","verdict":"keep"}
 {"id":"Q15648182","verdict":"keep"}
@@ -171,7 +171,7 @@
 {"id":"Q1581463","verdict":"keep","countries":["HR"],"reason":"countries were empty; Croatian cheese"}
 {"id":"Q1582056","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
 {"id":"Q15822587","verdict":"keep","countries":["SE"],"reason":"countries were empty; Swedish pastry"}
-{"id":"Q15823102","verdict":"keep","countries":["CZ"],"reason":"countries were empty; Karlsbad sandwich"}
+{"id":"Q15823102","verdict":"keep","countries":["DE"],"reason":"Karlsbader Schnitte is a German toasted sandwich; the place name alone does not establish Czech origin."}
 {"id":"Q15835946","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cruller"}
 {"id":"Q1583698","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pastry"}
 {"id":"Q15839499","verdict":"keep"}
@@ -272,7 +272,7 @@
 {"id":"Q16046063","verdict":"keep"}
 {"id":"Q16046109","verdict":"keep"}
 {"id":"Q16046218","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian dish"}
-{"id":"Q16046395","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16046395","verdict":"keep","countries":["IR","IN","PK"],"reason":"Gulkand rose preserve has Iranian and South Asian traditions."}
 {"id":"Q16046426","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian dessert"}
 {"id":"Q16046748","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
 {"id":"Q16046769","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian halva"}

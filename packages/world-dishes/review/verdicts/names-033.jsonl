@@ -50,13 +50,13 @@
 {"id":"Q2178599","verdict":"keep","countries":[],"reason":"Second opinion: generic smoked eel, not a specifically German preparation."}
 {"id":"Q21809695","verdict":"keep"}
 {"id":"Q21810151","verdict":"keep","countries":["AT"],"reason":"Austrian soup; countries were empty"}
-{"id":"Q21816983","verdict":"keep","countries":["DK"],"reason":"Danish cake; countries were empty"}
+{"id":"Q21816983","verdict":"keep","countries":[],"reason":"Second opinion: generic cream cake; Danish label alone does not establish a country."}
 {"id":"Q21831213","verdict":"keep"}
 {"id":"Q2184029","verdict":"keep","countries":["NL"],"reason":"Dutch egg cake; countries were empty"}
 {"id":"Q21862877","verdict":"keep"}
 {"id":"Q21888014","verdict":"keep"}
 {"id":"Q2189995","verdict":"keep"}
-{"id":"Q219123","verdict":"keep","countries":["PS","LB","JO","SY"],"reason":"Levantine knafeh; countries were empty"}
+{"id":"Q219123","verdict":"keep","countries":["PS","LB","JO","SY","TR","EG"],"reason":"Second opinion: knafeh/kunafa has shared Levantine, Turkish and Egyptian traditions."}
 {"id":"Q2191247","verdict":"keep","countries":["BE"],"reason":"Kortrijk cookie; countries were empty"}
 {"id":"Q2196880","verdict":"keep"}
 {"id":"Q21976352","verdict":"keep"}
@@ -184,7 +184,7 @@
 {"id":"Q22666253","verdict":"keep","countries":["LV"],"reason":"Latgalian dish; countries were empty"}
 {"id":"Q22666255","verdict":"keep","countries":["LV"],"reason":"Latgalian dish; countries were empty"}
 {"id":"Q22666260","verdict":"keep","countries":["LT","LV"],"reason":"Christmas Eve dish of Lithuania and Latgale; countries were empty"}
-{"id":"Q22666265","verdict":"keep","countries":["LV"],"reason":"Latgalian dish; countries were empty"}
+{"id":"Q22666265","verdict":"remove","reason":"Second opinion: Latgaļu iedīni means Latgalian foods, a cuisine grouping rather than one dish."}
 {"id":"Q22666288","verdict":"keep","countries":["LV"],"reason":"Latgalian dish; countries were empty"}
 {"id":"Q22666316","verdict":"keep","countries":["LV"],"reason":"Latgalian dish; countries were empty"}
 {"id":"Q22666319","verdict":"keep","countries":["LV"],"reason":"Latgalian dish; countries were empty"}
@@ -207,13 +207,13 @@
 {"id":"Q22666380","verdict":"keep","countries":["LV"],"reason":"Latgalian dish; countries were empty"}
 {"id":"Q22666384","verdict":"keep","countries":["LV"],"reason":"Latgalian dish; countries were empty"}
 {"id":"Q22666385","verdict":"keep","countries":["LV"],"reason":"Latgalian dish; countries were empty"}
-{"id":"Q22669970","verdict":"keep","countries":["FI"],"reason":"Vyborg kringle, Finnish pastry; countries were empty"}
+{"id":"Q22669970","verdict":"keep","countries":["FI","RU"],"reason":"Second opinion: Vyborg kringle has Finnish and Russian Vyborg traditions."}
 {"id":"Q2267393","verdict":"keep","countries":["IT"],"reason":"ancient Roman food; countries were empty"}
 {"id":"Q22689325","verdict":"keep"}
 {"id":"Q22689348","verdict":"keep"}
 {"id":"Q22689366","verdict":"keep"}
 {"id":"Q2269366","verdict":"keep","countries":["AT"],"reason":"Austrian dish; countries were empty"}
-{"id":"Q2273698","verdict":"keep","countries":["SG","MY"],"reason":"sri kaya coconut-egg spread of Malaysia and Singapore; countries were empty"}
+{"id":"Q2273698","verdict":"keep","countries":["SG","MY","ID"],"reason":"Second opinion: serikaya/kaya has Singaporean, Malaysian and Indonesian traditions."}
 {"id":"Q2274269","verdict":"keep"}
 {"id":"Q227658","verdict":"keep"}
 {"id":"Q2277500","verdict":"keep"}
@@ -278,7 +278,7 @@
 {"id":"Q2311837","verdict":"keep"}
 {"id":"Q2315099","verdict":"keep","countries":["IL","MA"],"reason":"Israeli and Moroccan Jewish salad; countries were empty"}
 {"id":"Q2317875","verdict":"keep"}
-{"id":"Q2330776","verdict":"keep","countries":["DE"],"reason":"German dish; countries were empty"}
+{"id":"Q2330776","verdict":"keep","countries":[],"reason":"Second opinion: long egg is an industrial egg preparation, not a specifically German dish."}
 {"id":"Q2330783","verdict":"keep"}
 {"id":"Q2333140","verdict":"keep"}
 {"id":"Q2334489","verdict":"keep"}

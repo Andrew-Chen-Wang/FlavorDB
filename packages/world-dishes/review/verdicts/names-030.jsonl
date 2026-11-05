@@ -19,7 +19,7 @@
 {"id":"Q1819455","verdict":"keep"}
 {"id":"Q18201801","verdict":"keep"}
 {"id":"Q18202791","verdict":"keep"}
-{"id":"Q1820454","verdict":"remove","reason":"ingredient explanation (panko bread crumbs), not a dish"}
+{"id":"Q1820454","verdict":"keep","reason":"Panko is a prepared Japanese breadcrumb product, not a plain raw ingredient."}
 {"id":"Q18219998","verdict":"keep","countries":["HK","TW"],"reason":"added countries: Hong Kong and Taiwanese dish"}
 {"id":"Q1823666","verdict":"keep","countries":["NL"],"reason":"added country: Groningen cake"}
 {"id":"Q1827035","verdict":"keep"}
@@ -67,7 +67,7 @@
 {"id":"Q18393991","verdict":"keep","countries":["GT"],"reason":"added country: Guatemalan dish"}
 {"id":"Q18400196","verdict":"remove","reason":"ingredient (cereal variety), not a dish"}
 {"id":"Q18404521","verdict":"keep"}
-{"id":"Q18409302","verdict":"remove","reason":"ingredient (roasted grain flour), not a dish"}
+{"id":"Q18409302","verdict":"keep","reason":"Talkan is a named traditional roasted grain preparation, consistent with prepared-product rule."}
 {"id":"Q18412283","verdict":"keep","countries":["ES"],"reason":"added country: Donostia pintxos"}
 {"id":"Q18412855","verdict":"keep","countries":["DE"],"reason":"added country: German dish"}
 {"id":"Q18415236","verdict":"keep","countries":["FR"],"reason":"added country: French pastry"}
@@ -143,7 +143,7 @@
 {"id":"Q18595468","verdict":"keep"}
 {"id":"Q1860324","verdict":"keep","countries":["NL"],"reason":"added country: Dutch dessert"}
 {"id":"Q18606556","verdict":"keep"}
-{"id":"Q18611338","verdict":"keep","countries":["TR"],"reason":"added country: Turkish dish"}
+{"id":"Q18611338","verdict":"keep","countries":["TR","GR","PT","ES"],"reason":"Octopus salad is associated with Turkish, Greek, Portuguese and Spanish Mediterranean cooking."}
 {"id":"Q18613289","verdict":"keep","countries":["FR"],"reason":"added country: French cake"}
 {"id":"Q18618696","verdict":"keep"}
 {"id":"Q18623828","verdict":"keep","countries":["DK"],"reason":"added country: Danish pastry"}
@@ -275,7 +275,7 @@
 {"id":"Q19544049","verdict":"keep"}
 {"id":"Q19545058","verdict":"keep"}
 {"id":"Q19562553","verdict":"keep"}
-{"id":"Q1957030","verdict":"keep","countries":["ES"],"reason":"added country: Malaga ice cream"}
+{"id":"Q1957030","verdict":"keep","countries":["IT","DE"],"reason":"Malaga rum/raisin ice cream is associated with Italian gelato and German ice-cream traditions; Malaga wine does not establish Spanish origin."}
 {"id":"Q19570968","verdict":"keep"}
 {"id":"Q19571164","verdict":"keep"}
 {"id":"Q19572039","verdict":"keep"}

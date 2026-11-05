@@ -26,7 +26,7 @@
 {"id":"Q137730537","verdict":"keep"}
 {"id":"Q137731959","verdict":"keep"}
 {"id":"Q137732521","verdict":"keep"}
-{"id":"Q137733867","verdict":"keep","countries":["IN"],"reason":"Indian sweet; country list was empty"}
+{"id":"Q137733867","verdict":"keep","countries":["IN","PK"],"reason":"Rewari sesame-jaggery confection is associated with India and Pakistan."}
 {"id":"Q137734212","verdict":"keep"}
 {"id":"Q137734312","verdict":"keep"}
 {"id":"Q137769736","verdict":"keep"}
@@ -74,7 +74,7 @@
 {"id":"Q137826012","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
 {"id":"Q137826013","verdict":"keep","countries":[],"reason":"Second opinion: generic mushroom stew is not assigned Finland merely from its Finnish name."}
 {"id":"Q137826014","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
-{"id":"Q137826015","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
+{"id":"Q137826015","verdict":"keep","reason":"Chanterelle soup is a generic dish; Finnish name alone does not establish a country."}
 {"id":"Q137826016","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
 {"id":"Q137826017","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
 {"id":"Q137826019","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
@@ -215,7 +215,7 @@
 {"id":"Q138542226","verdict":"keep"}
 {"id":"Q138542227","verdict":"keep"}
 {"id":"Q138542229","verdict":"keep"}
-{"id":"Q138542230","verdict":"keep","countries":["AR"],"reason":"Argentine cut of steak; country list was empty"}
+{"id":"Q138542230","verdict":"remove","reason":"Original description identifies a raw cut of steak, not a cooked recipe or preserved meat product."}
 {"id":"Q138542231","verdict":"keep"}
 {"id":"Q138542232","verdict":"keep"}
 {"id":"Q138542233","verdict":"keep"}

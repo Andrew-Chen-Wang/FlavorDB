@@ -14,7 +14,7 @@
 {"id":"Q2372494","verdict":"keep"}
 {"id":"Q23758190","verdict":"keep"}
 {"id":"Q2378108","verdict":"keep"}
-{"id":"Q23785743","verdict":"keep","countries":["PL"],"reason":"Ratibor is in Poland; added country"}
+{"id":"Q23785743","verdict":"keep","countries":["PL","DE"],"reason":"Second opinion: Ratibor gingerbread has Polish regional and historical German/Silesian ties."}
 {"id":"Q23793187","verdict":"keep"}
 {"id":"Q23807286","verdict":"keep"}
 {"id":"Q2382108","verdict":"keep","countries":["DE"],"reason":"German dish; added country"}
@@ -29,7 +29,7 @@
 {"id":"Q2390734","verdict":"keep"}
 {"id":"Q23907623","verdict":"keep"}
 {"id":"Q2391342","verdict":"keep"}
-{"id":"Q2391835","verdict":"keep","countries":["BE"],"reason":"Belgian candy; added country"}
+{"id":"Q2391835","verdict":"remove","reason":"Second opinion: Cha-Cha is a branded packaged chocolate wafer bar."}
 {"id":"Q23925811","verdict":"keep","countries":["HK"],"reason":"Second opinion: the batch identifies a Hong Kong noodle dish; the translated English label is insufficient to substitute a Thai dish."}
 {"id":"Q23930009","verdict":"keep"}
 {"id":"Q2393807","verdict":"keep"}
@@ -46,7 +46,7 @@
 {"id":"Q2403240","verdict":"remove","reason":"Wikimedia disambiguation page"}
 {"id":"Q24050975","verdict":"keep"}
 {"id":"Q2405114","verdict":"keep","countries":["NL"],"reason":"Dutch croquette; added country"}
-{"id":"Q24054513","verdict":"keep","countries":["IT"],"reason":"Italian-style pizza; added country"}
+{"id":"Q24054513","verdict":"keep","countries":["IT","FR"],"reason":"Second opinion: Regina pizza is associated with Italian and French pizzeria traditions."}
 {"id":"Q2407727","verdict":"keep"}
 {"id":"Q24083230","verdict":"keep"}
 {"id":"Q2408388","verdict":"keep"}
@@ -107,7 +107,7 @@
 {"id":"Q2464350","verdict":"keep","countries":["RU"],"reason":"Tatar and Bashkir dish; added country"}
 {"id":"Q2468860","verdict":"keep"}
 {"id":"Q2468930","verdict":"keep","countries":["NL"],"reason":"Dutch pastry; added country"}
-{"id":"Q24711750","verdict":"keep","countries":["PL"],"reason":"Warthaer, Poland; added country"}
+{"id":"Q24711750","verdict":"keep","countries":["PL","DE"],"reason":"Second opinion: Wartha gingerbread has Polish regional and historical German/Silesian ties."}
 {"id":"Q2471959","verdict":"keep"}
 {"id":"Q24732220","verdict":"keep","countries":["JP"],"reason":"Japanese wagashi; added country"}
 {"id":"Q24735647","verdict":"keep"}
@@ -121,7 +121,7 @@
 {"id":"Q2482440","verdict":"keep"}
 {"id":"Q2482567","verdict":"keep","countries":["NL"],"reason":"Dutch candy; added country"}
 {"id":"Q2482979","verdict":"keep"}
-{"id":"Q24835653","verdict":"keep","countries":["TW"],"reason":"Taiwanese snack; added country"}
+{"id":"Q24835653","verdict":"keep","countries":["TW","CN"],"reason":"Second opinion: kong-pian has Taiwanese and Fujian Chinese traditions."}
 {"id":"Q24839104","verdict":"keep"}
 {"id":"Q24841569","verdict":"keep","countries":["TW"],"reason":"Taiwanese dish; added country"}
 {"id":"Q248507","verdict":"keep","countries":["CH"],"reason":"Zurich dish; added country"}
@@ -227,7 +227,7 @@
 {"id":"Q25006844","verdict":"keep"}
 {"id":"Q2500956","verdict":"keep","countries":["TZ"],"reason":"Tanzanian dish; added country"}
 {"id":"Q2501196","verdict":"keep"}
-{"id":"Q250170","verdict":"keep","countries":["TR"],"reason":"Turkish pastry; added country"}
+{"id":"Q250170","verdict":"keep","countries":["TR","BG","RS","BA","HR","HU"],"reason":"Second opinion: poğaça/pogača is shared across Turkish, Balkan and Central European traditions, as the original description states."}
 {"id":"Q25019736","verdict":"keep","countries":["CL"],"reason":"Second opinion: preserve the supplied Chile association; an Azerbaijani translation alone cannot replace it with Azerbaijan."}
 {"id":"Q250271","verdict":"keep"}
 {"id":"Q25038426","verdict":"keep"}

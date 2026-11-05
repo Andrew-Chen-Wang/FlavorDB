@@ -14,7 +14,7 @@
 {"id":"Q30186","verdict":"keep"}
 {"id":"Q3019074","verdict":"keep"}
 {"id":"Q3019208","verdict":"keep"}
-{"id":"Q302169","verdict":"keep","countries":["PH","VN","CN"],"reason":"countries empty; balut is commonly said to belong to these countries"}
+{"id":"Q302169","verdict":"keep","countries":["PH","VN","CN","KH"],"reason":"Second opinion: balut also has a Cambodian tradition."}
 {"id":"Q3026484","verdict":"keep"}
 {"id":"Q3028160","verdict":"keep"}
 {"id":"Q3028275","verdict":"keep"}
@@ -29,7 +29,7 @@
 {"id":"Q30324814","verdict":"keep"}
 {"id":"Q30324930","verdict":"keep","countries":["GB"],"reason":"countries empty; English pastry"}
 {"id":"Q30325089","verdict":"keep"}
-{"id":"Q30326666","verdict":"keep","countries":["AR","UY"],"reason":"countries empty; milanesa is commonly said to belong to Argentina and Uruguay"}
+{"id":"Q30326666","verdict":"keep","countries":["AR","UY","PY","MX","BO"],"reason":"Second opinion: milanesa is shared across Argentina, Uruguay, Paraguay, Mexico and Bolivia."}
 {"id":"Q3032887","verdict":"keep"}
 {"id":"Q3033269","verdict":"keep","name":"Dobara","reason":"name had disambiguation suffix"}
 {"id":"Q3034906","verdict":"keep"}
@@ -223,10 +223,10 @@
 {"id":"Q31198650","verdict":"keep"}
 {"id":"Q31203818","verdict":"keep"}
 {"id":"Q3120724","verdict":"keep"}
-{"id":"Q31213279","verdict":"keep","countries":["BY"],"reason":"countries empty; Belarusian dish"}
+{"id":"Q31213279","verdict":"keep","countries":["BY","UA"],"reason":"Second opinion: lemeshka is shared Belarusian and Ukrainian porridge."}
 {"id":"Q3122402","verdict":"keep"}
 {"id":"Q3122799","verdict":"keep"}
-{"id":"Q3122800","verdict":"keep","countries":["FR"],"reason":"countries empty; French cake"}
+{"id":"Q3122800","verdict":"keep","countries":[],"reason":"Second opinion: generic white wine cookies; no regional association established in the entry."}
 {"id":"Q3122805","verdict":"keep"}
 {"id":"Q3122808","verdict":"keep","countries":["FR"],"reason":"countries empty; French cake"}
 {"id":"Q3122810","verdict":"keep","countries":["FR"],"reason":"countries empty; French cake from Creuse"}
@@ -279,11 +279,11 @@
 {"id":"Q316244","verdict":"keep","countries":["DE"],"reason":"countries empty; German dish"}
 {"id":"Q316561","verdict":"keep"}
 {"id":"Q31724514","verdict":"keep","countries":["BD","IN"],"reason":"Second opinion: ghanto is shared Bengali vegetable cooking across Bangladesh and India."}
-{"id":"Q31724928","verdict":"keep","countries":["IN"],"reason":"countries empty; Indian dish"}
+{"id":"Q31724928","verdict":"keep","countries":["IN","BD"],"reason":"Second opinion: chhenchki is shared Bengali vegetable cooking."}
 {"id":"Q31727595","verdict":"keep","countries":["BD"],"reason":"countries empty; Bengali vegetable dish"}
 {"id":"Q31739973","verdict":"keep"}
 {"id":"Q31740176","verdict":"keep"}
-{"id":"Q31752653","verdict":"keep","countries":["TZ"],"reason":"countries empty; Swahili dish"}
+{"id":"Q31752653","verdict":"keep","countries":["TZ","KE"],"reason":"Second opinion: kitumbua is shared Swahili coastal food in Tanzania and Kenya."}
 {"id":"Q31754646","verdict":"keep","countries":["MM"],"reason":"countries empty; Burmese food"}
 {"id":"Q3177408","verdict":"keep"}
 {"id":"Q317872","verdict":"keep"}

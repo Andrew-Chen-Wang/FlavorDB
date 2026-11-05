@@ -19,7 +19,7 @@
 {"id":"Q13314","verdict":"keep"}
 {"id":"Q133160529","verdict":"keep"}
 {"id":"Q13319","verdict":"keep"}
-{"id":"Q133234631","verdict":"keep","countries":["JP"],"reason":"pizza in Japan"}
+{"id":"Q133234631","verdict":"remove","reason":"Geographic overview of pizza in Japan, rather than one dish."}
 {"id":"Q133235403","verdict":"keep"}
 {"id":"Q133245973","verdict":"keep"}
 {"id":"Q133258126","verdict":"keep","countries":["UA"],"reason":"Zinkiv sausage, Ukrainian"}
@@ -239,7 +239,7 @@
 {"id":"Q135112256","verdict":"keep"}
 {"id":"Q135112272","verdict":"keep"}
 {"id":"Q135116202","verdict":"keep","countries":["JP"],"reason":"Japanese wagashi"}
-{"id":"Q135180792","verdict":"keep","countries":["NG"],"reason":"Hausa stew, Nigeria"}
+{"id":"Q135180792","verdict":"keep","countries":["NG","NE"],"reason":"Kilishi is a Hausa dried-meat preparation associated with Nigeria and Niger."}
 {"id":"Q13519276","verdict":"keep"}
 {"id":"Q135222814","verdict":"keep","countries":["ZA"],"reason":"Xhosa dish"}
 {"id":"Q135222876","verdict":"keep","countries":["IN"],"reason":"Indian dish"}

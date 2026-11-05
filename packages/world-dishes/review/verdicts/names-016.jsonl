@@ -11,7 +11,7 @@
 {"id":"Q1230067","verdict":"keep"}
 {"id":"Q123009878","verdict":"keep","countries":["BR","PT","TL","AO","MZ","CV"],"reason":"Feijoada is a shared Lusophone dish; retain Timor-Leste association"}
 {"id":"Q123015196","verdict":"keep"}
-{"id":"Q123015526","verdict":"keep","countries":["JP"],"reason":"Japanese dessert from Hokkaido; countries were empty"}
+{"id":"Q123015526","verdict":"remove","reason":"AnBataSan is a branded Ryugetsu packaged confection."}
 {"id":"Q123023254","verdict":"keep"}
 {"id":"Q12304464","verdict":"keep","countries":["DK"],"reason":"Danish cake; countries were empty"}
 {"id":"Q12305759","verdict":"keep","countries":["DK"],"reason":"Danish confection; countries were empty"}
@@ -262,7 +262,7 @@
 {"id":"Q124382030","verdict":"keep"}
 {"id":"Q1243908","verdict":"keep"}
 {"id":"Q124390861","verdict":"remove","reason":"just a shaped vegetable, not a dish"}
-{"id":"Q124392501","verdict":"keep","countries":["JP"],"reason":"Japanese candy; countries were empty"}
+{"id":"Q124392501","verdict":"remove","reason":"Flavorless candy is a commercial Japanese candy product, rather than a traditional dish."}
 {"id":"Q124394126","verdict":"keep"}
 {"id":"Q124394261","verdict":"keep"}
 {"id":"Q124394289","verdict":"keep"}

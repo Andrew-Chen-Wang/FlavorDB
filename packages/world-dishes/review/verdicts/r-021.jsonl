@@ -1,6 +1,6 @@
 {"id":"Q11771087","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMasala_Dosa","status":"ok"}]}
 {"id":"Q117800921","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AZucchini_Bread","status":"ok"}]}
-{"id":"Q118489612","verdict":"keep","countries":["IT"],"reason":"added IT: Genoese dish per source","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMinestra","status":"ok"}]}
+{"id":"Q118489612","verdict":"keep","countries":["IT","GI"],"reason":"Source identifies Genoese roots and Gibraltarian cuisine; minestra is shared by Italy and Gibraltar.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMinestra","status":"ok"}]}
 {"id":"Q1187319","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FBarfi","status":"ok"}]}
 {"id":"Q118746867","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AWhite_Chocolate_Cheesecake","status":"ok"}]}
 {"id":"Q118746871","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChocolate_Cheesecake","status":"ok"}]}

@@ -1,0 +1,379 @@
+# Original input second opinion: names-009–011
+
+Scope: every existing remove/countries/name flag matched by position against actual top-level batches. Name-only entries have no raw recipe source; full available entries were read, not reconstructed data.
+
+## names-009 complete
+- Position 1 Q11174860: CORRECTED — Salted meat zongzi is shared Chinese and Taiwanese prepared food.
+- Position 2 Q11174861: Retained — added country: Chinese dish
+- Position 5 Q111753184: CORRECTED — Key-shaped challah is an Ashkenazi Jewish diaspora custom; this entry does not justify assigning Israel alone.
+- Position 10 Q11175898: Retained — Second opinion: spicy duck blood is tied to Sichuan cooking and Taiwanese street food.
+- Position 13 Q111792931: Retained — place (bar/fast food venue), not a dish
+- Position 14 Q111794245: Retained — category (annual event foods), not one dish
+- Position 18 Q11180598: CORRECTED — 龍珠 is the Taiwanese fried squid-mouth snack, not a country attribution inferred from Chinese script.
+- Position 20 Q1118196: Retained — added country: Greek dish
+- Position 27 Q111907435: CORRECTED — Belegtes Brot means generic topped/open bread; German wording alone does not establish a country.
+- Position 31 Q111917546: Retained — added country: Brazilian cake
+- Position 32 Q111917727: CORRECTED — The milk-and-egg ambrosia dessert is shared by Brazil, Argentina and Uruguay.
+- Position 38 Q111971806: Retained — added country: Brazilian moqueca
+- Position 46 Q112042016: Retained — added country: Escher pizza
+- Position 47 Q112073818: Retained — added country: Korean rice ball
+- Position 50 Q112117050: Retained — added country: Japanese lunch dish
+- Position 54 Q112167282: Retained — added country: Puerto Rican ice pop
+- Position 57 Q112176713: Retained — added country: Turkish halva
+- Position 61 Q112185001: Retained — added country: Paraguayan tortilla
+- Position 75 Q112261855: CORRECTED — Sherpa goyang fermented vegetables have established Nepalese and Sikkimese associations.
+- Position 80 Q11235217: Retained — added country: Japanese ramen
+- Position 81 Q11235970: Retained — added country: Japanese curry
+- Position 84 Q11239619: Retained — brand of ice cream (PINO)
+- Position 86 Q11242256: Retained — added country: Japanese ramen
+- Position 88 Q11243779: Retained — added country: Japanese rice dish
+- Position 89 Q11243809: Retained — added country: Belarusian potato dish
+- Position 90 Q11244057: Retained — branded packaged snack (SOYJOY)
+- Position 92 Q1124753: Retained — added country: Italian Christmas dessert
+- Position 96 Q11252514: Retained — added country: Japanese ramen
+- Position 97 Q11252676: CORRECTED — Surasang is the royal meal table/banquet setting containing multiple dishes, not one dish.
+- Position 99 Q112568435: Retained — added country: Moroccan kebab
+- Position 101 Q11256912: Retained — added country: Japanese saogashi
+- Position 102 Q11256939: Retained — added country: Japanese donburi
+- Position 106 Q11257507: Retained — added country: Japanese sushi
+- Position 108 Q11257796: Retained — added country: Japanese rice dish
+- Position 109 Q11258023: Retained — added country: Japanese mochi
+- Position 111 Q11258259: Retained — added country: Japanese mochi
+- Position 117 Q11258834: Retained — Second opinion: anzu ame is Japanese festival confectionery; Chinese characters do not imply China.
+- Position 121 Q11258904: Retained — added country: Japanese dagashi
+- Position 122 Q11258929: Retained — added country: Japanese shirumono
+- Position 125 Q11259060: Retained — added country: Japanese manju
+- Position 127 Q11259116: Retained — added country: Japanese dish
+- Position 129 Q11259489: Retained — added country: Japanese curry rice
+- Position 134 Q11260024: Retained — added country: Japanese potato dish
+- Position 138 Q11260432: Retained — added country: Japanese rice dish
+- Position 144 Q11260648: Retained — added country: Japanese inarizushi
+- Position 146 Q11260930: Retained — added country: Japanese nabemono
+- Position 149 Q11261020: Retained — added country: Japanese egg dish
+- Position 151 Q11261071: CORRECTED — Generic shrimp ball entry gives no Japanese-specific identity or national evidence.
+- Position 152 Q11261190: Retained — added country: Japanese arare
+- Position 153 Q11261191: Retained — added country: Japanese wagashi
+- Position 154 Q11261365: Retained — added country: Japanese beika
+- Position 155 Q11261398: Retained — added country: Japanese yakisoba
+- Position 161 Q11261814: Retained — added country: Japanese ice cream
+- Position 165 Q11262545: Retained — added country: Japanese curry rice
+- Position 168 Q11263421: Retained — added country: Japanese mochi
+- Position 169 Q11263584: Retained — added country: Japanese dango
+- Position 170 Q11263604: Retained — added country: Japanese takikomi gohan
+- Position 172 Q11263764: Retained — added country: Japanese issen yoshoku
+- Position 173 Q11263791: Retained — added country: Japanese nabemono
+- Position 175 Q11263819: Retained — added country: Japanese saogashi
+- Position 177 Q11263925: Retained — added country: Japanese ramen
+- Position 178 Q11263945: Retained — added country: Japanese katsu rice
+- Position 181 Q11264154: Retained — added country: Japanese sushi
+- Position 182 Q11264215: Retained — added country: Japanese yakisoba
+- Position 185 Q11264297: Retained — added country: Japanese senbei
+- Position 186 Q11264310: Retained — added country: Japanese tofu
+- Position 187 Q11264314: Retained — added country: Japanese saogashi
+- Position 189 Q11264362: Retained — added country: Japanese sushi
+- Position 191 Q11264386: Retained — added country: Japanese manju
+- Position 192 Q11264397: Retained — added country: Japanese monaka
+- Position 194 Q11264587: Retained — added country: Japanese confectionery
+- Position 197 Q11264794: Retained — added country: Japanese wagashi
+- Position 199 Q11264879: Retained — added country: Japanese kyogashi
+- Position 200 Q11264882: Retained — added country: Japanese dagashi
+- Position 201 Q11265074: Retained — added country: Japanese wagashi
+- Position 202 Q11265229: Retained — added country: Japanese unadon
+- Position 206 Q112656147: Retained — added country: German dish
+- Position 211 Q11266026: Retained — added country: Japanese vegetable dish
+- Position 213 Q11266096: Retained — added country: Japanese confection
+- Position 214 Q112661135: Retained — added country: Marathi cuisine
+- Position 216 Q11266228: Retained — added country: Japanese wagashi
+- Position 217 Q11266618: Retained — added country: Japanese dish
+- Position 218 Q11266889: Retained — added country: Japanese mochi
+- Position 219 Q112669702: Retained — added country: pepperoni pizza
+- Position 220 Q11267061: Retained — added country: Japanese konjac jelly
+- Position 221 Q11267063: Retained — added country: Japanese wagashi
+- Position 224 Q11267209: Retained — added country: Japanese dish
+- Position 227 Q11267216: Retained — added country: Japanese fish dish
+- Position 228 Q11267298: CORRECTED — Gotōchi burgers are the category of local regional hamburgers, not a single dish.
+- Position 230 Q11267327: Retained — added country: Japanese bread
+- Position 233 Q11267876: Retained — added country: Japanese chazuke
+- Position 236 Q11268667: Retained — added country: Japanese noodle dish
+- Position 237 Q11268809: Retained — added country: Japanese okonomiyaki
+- Position 240 Q11268882: Retained — added country: Japanese nabemono
+- Position 242 Q11269157: Retained — added country: Japanese miso
+- Position 245 Q11269366: Retained — added country: Japanese yakisoba
+- Position 249 Q11269413: Retained — added country: Japanese bread
+- Position 250 Q11269739: Retained — added country: Japanese ice cream
+- Position 253 Q11270152: Retained — added country: Japanese fried chicken
+- Position 254 Q11270205: Retained — added country: Japanese nabemono
+- Position 257 Q11270879: Retained — added country: Japanese nimono
+- Position 259 Q11270968: Retained — added country: Japanese takikomi gohan
+- Position 263 Q11271477: Retained — added country: American pot roast
+- Position 264 Q11271556: Retained — added country: Japanese tamagoyaki
+- Position 265 Q11271585: Retained — added country: Japanese nabemono
+- Position 269 Q11272076: Retained — added country: Japanese kanroni
+- Position 270 Q11272080: Retained — added country: Japanese nabemono
+- Position 271 Q11272101: Retained — added country: Japanese confection
+- Position 272 Q11272188: Retained — added country: Japanese ame
+- Position 275 Q11272796: Retained — added country: Japanese dengaku
+- Position 278 Q11272921: Retained — added country: Japanese manju
+- Position 282 Q11273314: Retained — packaged cup noodle product
+- Position 285 Q11273518: Retained — added country: Japanese nabemono
+- Position 287 Q11273560: Retained — added country: Japanese parfait
+- Position 292 Q11273854: Retained — added country: Japanese nabemono
+- Position 293 Q11273893: Retained — added country: Japanese sauce
+- Position 295 Q11273957: Retained — added country: Japanese teppanyaki
+- Position 296 Q11274144: Retained — added country: Japanese rakugan
+- Position 297 Q11274474: Retained — added country: Japanese mochi
+
+## names-010 complete
+- Position 5 Q11274940: Retained — no country listed; Japanese rice cracker
+- Position 7 Q11275028: Retained — no country listed; Japanese soup rice
+- Position 9 Q11275124: Retained — no country listed; Japanese candy
+- Position 14 Q11275521: Retained — no country listed; Japanese manju
+- Position 20 Q112760696: Retained — no country listed; Kerala sweet
+- Position 23 Q11276179: Retained — no country listed; Japanese rice dish
+- Position 24 Q11276230: Retained — no country listed; Japanese sushi
+- Position 25 Q11276259: Retained — no country listed; Japanese soup
+- Position 30 Q11276778: Retained — category of breads (quick breads), not one dish
+- Position 31 Q11276996: Retained — no country listed; Japanese aemono
+- Position 32 Q11277004: Retained — no country listed; Japanese confection
+- Position 34 Q11277194: Retained — no country listed; Japanese mochi
+- Position 35 Q11277200: Retained — no country listed; Japanese mochi
+- Position 36 Q11277208: Retained — no country listed; Japanese nimono
+- Position 38 Q11277440: Retained — no country listed; Japanese seafood dish
+- Position 39 Q11277477: Retained — no country listed; Japanese nimono
+- Position 40 Q11277538: Retained — branded Compile Puyo Puyo manju product, not a generic traditional dish
+- Position 42 Q11277634: Retained — no country listed; Japanese mochi
+- Position 44 Q11277913: Retained — no country listed; Japanese sushi
+- Position 47 Q11278088: Retained — no country listed; Japanese confection
+- Position 48 Q11278109: Retained — no country listed; Japanese confection
+- Position 51 Q11278496: Retained — Mamador is Sanmangoku's branded packaged confection
+- Position 52 Q11278514: Retained — no country listed; Japanese soup
+- Position 53 Q11278555: Retained — no country listed; Japanese yokan
+- Position 56 Q112787717: Retained — no country listed; Idoma soup from Nigeria
+- Position 59 Q11278936: Retained — no country listed; Japanese donburi
+- Position 60 Q11278944: Retained — no country listed; Japanese nabemono
+- Position 64 Q11279319: Retained — no country listed; Japanese manju
+- Position 65 Q112797036: Retained — no country listed; Japanese shumai
+- Position 66 Q11280033: Retained — no country listed; Japanese soba
+- Position 69 Q11280099: Retained — no country listed; Japanese nimono
+- Position 71 Q11280200: Retained — no country listed; Japanese rakugan
+- Position 74 Q11280354: Retained — no country listed; Japanese dango
+- Position 75 Q11281047: Retained — no country listed; Japanese pastry
+- Position 76 Q11281050: Retained — no country listed; Japanese pastry
+- Position 78 Q11281424: Retained — packaged canned ramen product
+- Position 81 Q11282171: Retained — no country listed; Japanese manju
+- Position 82 Q11282175: Retained — no country listed; Japanese ice dessert
+- Position 97 Q11286367: Retained — no country listed; Japanese dried squid snack
+- Position 99 Q11286686: Retained — no country listed; Japanese yoshoku pasta
+- Position 101 Q11287147: Retained — no country listed; Okinawan soup
+- Position 102 Q11288287: Retained — no country listed; Japanese rice dish
+- Position 110 Q11290005: Retained — no country listed; Japanese yoshoku escalope rice
+- Position 114 Q11292372: Retained — no country listed; Hokkaido ramen
+- Position 115 Q11292373: Retained — no country listed; Hokkaido yakisoba
+- Position 128 Q11295283: Retained — no country listed; Japanese ramen
+- Position 131 Q11295436: Retained — no country listed; Korean gejang dish
+- Position 132 Q11295711: Retained — branded sauce product (Carp sauce)
+- Position 134 Q11296678: Retained — branded chewing gum product
+- Position 142 Q11299457: Retained — no country listed; Japanese cream pan bread
+- Position 152 Q11302268: Retained — second opinion: コトレータ denotes Russian/Ukrainian kotleta; Japanese spelling does not make the dish Japanese
+- Position 157 Q11303652: Retained — no country listed; Japanese ice cream
+- Position 165 Q11305999: Retained — no country listed; Japanese ramen
+- Position 167 Q113070410: Retained — no country listed; Igbo soup
+- Position 169 Q113070599: Retained — no country listed; Nigerian soup
+- Position 170 Q11307140: Retained — no country listed; Japanese yoshoku rice
+- Position 174 Q11310088: Retained — no country listed; Japanese pastry
+- Position 180 Q11311915: Retained — no country listed; Japanese rice dish
+- Position 181 Q11311917: Retained — no country listed; Japanese ramen
+- Position 183 Q11312555: Retained — generic category (candy bar shape), not one dish
+- Position 186 Q11313337: Retained — no country listed; Japanese yakisoba
+- Position 187 Q11314002: Retained — no country listed; Sapporo soup curry
+- Position 188 Q11314011: Retained — no country listed; Japanese yakisoba
+- Position 189 Q11314983: Retained — no country listed; Japanese korokke
+- Position 190 Q11315275: Retained — no country listed; Japanese noodles
+- Position 199 Q11318559: Retained — no country listed; Japanese confection
+- Position 204 Q11321401: Retained — no country listed; Japanese nabemono
+- Position 206 Q11322243: Retained — no country listed; Japanese ramen
+- Position 208 Q11322794: Retained — no country listed; Japanese katsudon
+- Position 212 Q113249231: Retained — no country listed; French sauce
+- Position 213 Q11326372: Retained — no country listed; Hokkaido sushi
+- Position 216 Q11327115: Retained — no country listed; Japanese yoshoku rice
+- Position 220 Q11327742: Retained — no country listed; Japanese gohan
+- Position 221 Q11327743: CORRECTED — Generic butter rice has only rice and butter listed; no Japanese-specific identity supports a country override.
+- Position 224 Q11327942: Retained — no country listed; Japanese castella
+- Position 225 Q11327953: Retained — no country listed; Japanese monaka
+- Position 227 Q11328092: Retained — no country listed; Towada beef dish
+- Position 229 Q113292533: Retained — no country listed; Polish pastry
+- Position 230 Q113292966: Retained — no country listed; Norwegian cake
+- Position 234 Q1133123: CORRECTED — Buddha Jumps Over the Wall is Fujian soup with a well-established Taiwanese culinary tradition as well.
+- Position 237 Q11331741: Retained — Peasen is the branded Eitaro packaged rice snack
+- Position 239 Q11332167: Retained — no country listed; Japanese confection
+- Position 241 Q11333432: Retained — no country listed; Japanese teppanyaki
+- Position 242 Q113334375: Retained — no country listed; Spanish rosquilla
+- Position 245 Q113348972: CORRECTED — Pear fruit syrup is shared by Dutch and Belgian regional cuisines.
+- Position 247 Q11335862: Retained — second opinion: this item is Japanese pressed ham (プレスハム), not a Chinese dish; Japanese meat industry glossary identifies it as developed in Japan
+- Position 256 Q11337025: Retained — no country listed; Japanese castella
+- Position 257 Q11337373: Retained — no country listed; Italian pescatora sauce
+- Position 262 Q11338075: Retained — no country listed; Japanese yakisoba
+- Position 263 Q11338102: Retained — no country listed; Hokkaido curry
+- Position 266 Q11338428: Retained — branded ice cream product (Home Run bar)
+- Position 268 Q11338778: Retained — no country listed; Japanese yoshoku rice
+- Position 271 Q113389041: Retained — generic category (food made by bakers), not one dish
+- Position 272 Q113389225: Retained — generic category (sweet pastry), not one dish
+- Position 278 Q11339222: Retained — no country listed; Japanese yakisoba
+- Position 279 Q113393434: Retained — no country listed; Kerala rice dish
+- Position 280 Q11339419: Retained — no country listed; Hachinohe squid dish
+- Position 284 Q11340898: Retained — no country listed; Japanese suiton
+- Position 286 Q11340923: Retained — no country listed; Okinawan soup
+- Position 289 Q113411438: Retained — no country listed; Kaluga confection
+- Position 293 Q11342511: Retained — no country listed; Okinawan pig ear dish
+- Position 295 Q11342927: Retained — no country listed; Japanese confection
+- Position 296 Q11342935: Retained — no country listed; Japanese confection
+- Position 297 Q11342949: Retained — no country listed; Japanese tonkatsu
+- Position 300 Q11343150: CORRECTED — Preserve Persian, Turkish, Cypriot and Levantine ties, and include the established Egyptian mahalabia tradition.
+
+## names-011 complete
+- Position 3 Q113432255: Retained — no country listed; Danish dish
+- Position 4 Q11343229: Retained — no country listed; Japanese mochi
+- Position 6 Q11344563: Retained — no country listed; Hokkaido nabe
+- Position 11 Q11346203: Retained — no country listed; Japanese dagashi
+- Position 17 Q11347260: Retained — no country listed; Okinawan pork dish
+- Position 23 Q113483181: Retained — no country listed; French egg dish
+- Position 27 Q113487285: Retained — no country listed; Annecy bonbon
+- Position 28 Q113495133: Retained — soft drink (cola), not a dish
+- Position 34 Q113510622: CORRECTED — Dangdang Chicken is Homeplus branded supermarket fried chicken, not a generic dish.
+- Position 36 Q11351260: Retained — no country listed; Japanese monaka
+- Position 37 Q11351281: Retained — no country listed; Japanese yokan
+- Position 38 Q11351431: Retained — no country listed; Japanese regional shark dish
+- Position 44 Q11353687: Retained — no country listed; Japanese congee
+- Position 47 Q11355117: Retained — no country listed; Japanese candy
+- Position 48 Q11355298: Retained — no country listed; Japanese ramen
+- Position 50 Q11355870: Retained — no country listed; Japanese mochi
+- Position 53 Q11356922: Retained — no country listed; Taketa, Oita confection
+- Position 54 Q11356975: Retained — no country listed; Japanese sweet bread
+- Position 56 Q1135831: CORRECTED — Rogan josh has Persian and shared Kashmiri/Indian/Pakistani culinary associations.
+- Position 57 Q11358938: Retained — no country listed; Hokkaido ramen
+- Position 58 Q113590177: Retained — no country listed; Copenhagen pancake
+- Position 63 Q113632050: Retained — category (Gallic cooking), not one dish
+- Position 67 Q113659074: Retained — generic category (whole-grain pastries), not one dish
+- Position 68 Q11366283: Retained — no country listed; Hokkaido ramen
+- Position 71 Q113667563: Retained — no country listed; South Asian vermicelli dessert
+- Position 75 Q11367883: Retained — no country listed; Kushikino ramen
+- Position 76 Q11367956: Retained — no country listed; Japanese bread
+- Position 84 Q11370574: CORRECTED — Chichi dango is Japanese confectionery with a strong established Japanese-Hawaiian tradition in the United States.
+- Position 85 Q11370671: Retained — no country listed; Japanese dried mochi
+- Position 88 Q11372049: Retained — no country listed; Japanese yokan
+- Position 90 Q113724362: Retained — no country listed; Ghanaian and Equatoguinean sweet per description
+- Position 91 Q11372634: Retained — no country listed; Japanese namagashi
+- Position 92 Q11372639: Retained — no country listed; Japanese higashi
+- Position 93 Q11373260: Retained — no country listed; Japanese nabemono
+- Position 95 Q11374720: Retained — category (Kyoto confectionery), not one dish
+- Position 96 Q11374829: Retained — no country listed; Kyoto ramen
+- Position 103 Q11377768: Retained — no country listed; Sendai ramen
+- Position 104 Q11377799: Retained — no country listed; Sendai miso
+- Position 105 Q11378086: Retained — no country listed; Sendai dagashi
+- Position 106 Q11378279: Retained — no country listed; Japanese soy sauce substitute
+- Position 107 Q113785146: Retained — no country listed; Hiroshima okonomiyaki
+- Position 109 Q11378917: Retained — no country listed; Japanese takuan
+- Position 110 Q11380763: Retained — no country listed; Japanese datemaki
+- Position 111 Q113815312: Retained — no country listed; Kansai okonomiyaki
+- Position 119 Q113840194: Retained — no country listed; French omelette
+- Position 121 Q113840402: Retained — no country listed; Icelandic dish
+- Position 122 Q11384932: Retained — no country listed; Japanese ramen
+- Position 125 Q113855577: Retained — no country listed; Kerala payasam
+- Position 127 Q113858365: Retained — no country listed; Chinese chicken dish
+- Position 131 Q11388871: Retained — no country listed; Toyama ramen
+- Position 132 Q11389772: Retained — no country listed; Egyptian halawa
+- Position 133 Q113900228: Retained — generic category (South Asian bread), not one dish
+- Position 136 Q11390680: Retained — no country listed; Japanese grilled fish
+- Position 144 Q11393750: Retained — no country listed; Japanese zoni
+- Position 147 Q113946149: Retained — no country listed; Polish pork hock dish
+- Position 149 Q11395289: Retained — no country listed; Japanese shabu-shabu
+- Position 151 Q11395303: Retained — no country listed; Japanese ramen
+- Position 153 Q113958126: CORRECTED — Cukroví denotes the assortment/category of small Czech sweets or Christmas cookies, not one dish.
+- Position 154 Q11395942: Retained — no country listed; Hakodate ramen
+- Position 157 Q11396840: Retained — no country listed; Japanese manju
+- Position 158 Q11397032: Retained — no country listed; Japanese kamaboko
+- Position 159 Q11398680: Retained — no country listed; Japanese manju
+- Position 161 Q113996881: Retained — no country listed; Chinese sour soup fish
+- Position 166 Q114023789: Retained — generic term (any roll-like dish), not one dish
+- Position 167 Q11402431: Retained — no country listed; Hokkaido ramen
+- Position 168 Q114040821: Retained — no country listed; Dendermonde sausage
+- Position 171 Q11404913: Retained — no country listed; Tokachi rice bowl
+- Position 172 Q11404916: Retained — no country listed; Tokachi fried rice
+- Position 173 Q11405053: Retained — no country listed; Japanese ramen
+- Position 176 Q11406984: Retained — no country listed; Japanese tofu dish
+- Position 177 Q11408324: Retained — no country listed; Kyoto tofu
+- Position 178 Q11408416: Retained — second opinion: Nanbangashi is the group of Portuguese/Spanish-influenced Japanese confections, not one dish
+- Position 181 Q1141033: Retained — no country listed; Korean noodle dish
+- Position 182 Q11412305: Retained — no country listed; Japanese pickle
+- Position 183 Q11412389: Retained — no country listed; Japanese yokan
+- Position 184 Q11412640: Retained — no country listed; Japanese dango
+- Position 193 Q11417011: Retained — no country listed; Japanese oden
+- Position 196 Q11417017: Retained — no country listed; Japanese confection
+- Position 197 Q11417019: Retained — no country listed; Japanese udon
+- Position 199 Q11417021: Retained — no country listed; Japanese manju
+- Position 201 Q11417716: Retained — no country listed; Japanese senbei
+- Position 202 Q11418243: Retained — no country listed; Japanese-style pasta
+- Position 203 Q11418356: Retained — no country listed; Japanese rice dish
+- Position 204 Q11418497: Retained — no country listed; Japanese nabemono
+- Position 205 Q11418701: Retained — no country listed; Japanese manju
+- Position 207 Q11420167: Retained — no country listed; Japanese daifuku
+- Position 209 Q11420440: Retained — no country listed; Japanese donburi
+- Position 210 Q1142123: Retained — no country listed; Korean stew
+- Position 211 Q114213193: Retained — no country listed; Dutch pastry
+- Position 212 Q11423039: Retained — no country listed; Japanese nimono
+- Position 213 Q11423044: Retained — no country listed; Kochi regional burger
+- Position 216 Q1142506: Retained — no country listed; French sausage
+- Position 217 Q11425631: Retained — no country listed; Japanese dango
+- Position 219 Q11428578: Retained — no country listed; Japanese daifuku
+- Position 220 Q11428579: Retained — no country listed; Japanese salted squid
+- Position 221 Q11428593: Retained — no country listed; Japanese horumonyaki
+- Position 226 Q11430289: Retained — no country listed; Japanese ramen
+- Position 228 Q11433503: Retained — no country listed; Japanese nimono
+- Position 232 Q114353925: Retained — drink (barley shochu), not a dish
+- Position 233 Q11435991: Retained — no country listed; Japanese oshizushi
+- Position 234 Q11438619: Retained — no country listed; Ofunato ramen
+- Position 236 Q1144106: Retained — no country listed; Korean sweet
+- Position 237 Q11441527: Retained — no country listed; Japanese okonomiyaki
+- Position 238 Q114421385: Retained — name was a recipe page title with site suffix; no country listed; Andhra dish
+- Position 240 Q11442200: Retained — no country listed; Japanese ramen
+- Position 241 Q114422469: Retained — no country listed; Turkish baklava
+- Position 242 Q114423669: Retained — no country listed; Peranakan dish
+- Position 243 Q11442514: Retained — no country listed; Japanese manju
+- Position 244 Q11442943: Retained — branded natto product (Tengu natto)
+- Position 245 Q11442950: Retained — no country listed; Japanese tendon
+- Position 246 Q11443039: Retained — no country listed; Tenri ramen
+- Position 247 Q11443332: Retained — no country listed; Japanese yaki udon
+- Position 248 Q11443995: Retained — no country listed; Kumamoto noodle soup
+- Position 251 Q11447460: Retained — no country listed; Himeji ramen
+- Position 252 Q11447901: CORRECTED — Kodakara chinkosukō is a branded novelty packaged Okinawan confection, not generic chinsuko.
+- Position 253 Q1144889: Retained — second opinion: Tibetan tsampa has shared Himalayan associations including Nepal, Bhutan and northern India
+- Position 255 Q11449789: Retained — no country listed; Utsunomiya yakisoba
+- Position 257 Q1145039: Retained — no country listed; Korean dough soup
+- Position 258 Q11450919: Retained — no country listed; Japanese mochi
+- Position 259 Q11451687: Retained — no country listed; Japanese ramen
+- Position 261 Q11454169: Retained — no country listed; Miyazaki ramen
+- Position 262 Q114559542: Retained — no country listed; Chinese dumpling
+- Position 263 Q11456299: Retained — no country listed; Toyama oden
+- Position 264 Q11456312: Retained — no country listed; Toyama ramen
+- Position 265 Q114564249: Retained — supplement product category, not a dish
+- Position 266 Q114564252: Retained — supplement product category, not a dish
+- Position 267 Q114564263: Retained — supplement product category, not a dish
+- Position 268 Q114564265: Retained — supplement product category, not a dish
+- Position 269 Q114564301: Retained — supplement product category, not a dish
+- Position 272 Q11458199: Retained — no country listed; Tsushima pork dish
+- Position 276 Q11462940: Retained — no country listed; Odawara oden
+- Position 278 Q11464369: Retained — no country listed; Japanese nabemono
+- Position 279 Q11465459: Retained — no country listed; Onomichi ramen
+- Position 280 Q1146697: Retained — no country listed; Peruvian guinea pig dish
+- Position 282 Q114679328: Retained — no country listed; Spanish bocadillo
+- Position 287 Q11472234: Retained — no country listed; Okayama ramen
+- Position 288 Q11473964: Retained — no country listed; Japanese okoshi
+- Position 291 Q11475284: Retained — no country listed; Iwanuma horumonyaki
+- Position 292 Q114756150: Retained — no country listed; Silesian dish
+- Position 293 Q114757173: Retained — name had a parenthetical English gloss; no country listed; Silesian dish
+- Position 295 Q1147853: CORRECTED — Preserve existing Mesoamerican, Caribbean and US traditions and include established Bolivian, Ecuadorian, Argentine and Chilean tamal traditions.
+- Position 296 Q11479217: Retained — no country listed; Kawagoe yakisoba
+- Position 297 Q11479380: Retained — no country listed; Japanese confection
+- Position 300 Q11481892: Retained — no country listed; Japanese mochi
+
+COMPLETE: names-009, names-010 and names-011. All 368 original flagged entries read in full by position. Nine substantive corrections in names-009, four in names-010, five in names-011 plus one factual removal-reason clarification. Sparse entries were kept when uncertain; countries were not inferred merely from the writing system.

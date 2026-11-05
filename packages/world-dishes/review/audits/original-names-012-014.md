@@ -1,0 +1,420 @@
+# Original-input second opinion: names-012–014
+
+Every target was manually read against its positional original batch entry, including all available metadata. These names-only batches contain no recipe/raw-source sections. Retain means the removal/name/countries judgment was manually accepted.
+
+## names-012
+
+- Q114839857 — retain: Thai dish; countries were empty
+- Q11484234 — retain: Japanese dish; countries were empty
+- Q11484441 — retain: Japanese ramen; countries were empty
+- Q11486053 — retain: Fuchu-yaki okonomiyaki from Hiroshima; countries were empty
+- Q11487140 — retain: Japanese namagashi; countries were empty
+- Q114877024 — retain: Swiss candy; countries were empty
+- Q11489671 — retain: Japanese donburi; countries were empty
+- Q114932667 — retain: Dutch speculaas biscuit; countries were empty
+- Q11497126 — retain: Japanese karaage; countries were empty
+- Q11497260 — retain: Japanese soy food; countries were empty
+- Q11498707 — retain: Japanese ramen; countries were empty
+- Q11498791 — retain: Japanese tofu dish; countries were empty
+- Q11499534 — retain: Japanese ramen; countries were empty
+- Q11502783 — retain: Japanese ramen; countries were empty
+- Q11502972 — retain: Japanese ramen; countries were empty
+- Q115033296 — retain: Bengali dish; countries were empty
+- Q115036294 — retain: Japanese porridge; countries were empty
+- Q115038633 — retain: Kolkata Kabiraji; countries were empty
+- Q115039421 — retain: Kolkata Kabiraji; countries were empty
+- Q115039569 — retain: Kolkata Kabiraji; countries were empty
+- Q115040383 — retain: Kolkata biryani; countries were empty
+- Q115040524 — retain: Kolkata biryani; countries were empty
+- Q11504931 — retain: Japanese confection; countries were empty
+- Q115049415 — retain: Bengali dish; countries were empty
+- Q115054519 — retain: second opinion: Schmalzkoch is the Austrian semolina dish associated with Mürztal, not a German dish
+- Q115055877 — retain: Bengali dish; countries were empty
+- Q11509898 — retain: Japanese yakisoba; countries were empty
+- Q11511882 — retain: second opinion: kobujime is also the prepared kombu-cured fish dish of Toyama, documented by Japan's traditional food directory
+- Q11512298 — retain: branded packaged product (Meiji Probio Yogurt R-1)
+- Q115131840 — retain: Korean doughnut; countries were empty
+- Q11513842 — change remove to keep, JP: generic Japanese cellophane-noodle instant soup without a brand, so prepared-dish rule applies.
+- Q11514494 — retain: Japanese tsukudani-style dish; countries were empty
+- Q115149470 — retain: Berlingot de Berck is French; countries were empty
+- Q115152134 — retain: second opinion: havreflarn are shared Norwegian and Swedish oat cookies
+- Q11516405 — retain: Japanese confection; countries were empty
+- Q115164693 — retain: Russian stew; countries were empty
+- Q115165283 — retain: cooking technique (pot roasting), not a dish
+- Q115166223 — retain: German potato dumpling; countries were empty
+- Q11517869 — retain: Japanese candy; countries were empty
+- Q11517913 — retain: Japanese shigureni; countries were empty
+- Q11517915 — retain: Japanese dengaku; countries were empty
+- Q115205825 — retain: German bread roll; countries were empty
+- Q11521612 — retain: Japanese sushi; countries were empty
+- Q115259290 — retain: Turkish pastry from Maras; countries were empty
+- Q11527297 — retain: Japanese yakisoba; countries were empty
+- Q11529950 — retain: Japanese sushi; countries were empty
+- Q115304508 — retain: Finnish rye bread; countries were empty
+- Q11535612 — retain: Japanese mochi; countries were empty
+- Q11536098 — retain: Japanese manju; countries were empty
+- Q11536457 — retain: Japanese miso soup; countries were empty
+- Q11537667 — retain: Japanese yakisoba; countries were empty
+- Q115380402 — retain: branded candy (Kirstein Blockmalz), not a dish
+- Q11538228 — retain: Japanese nabe; countries were empty
+- Q11538239 — retain: Japanese rice dish; countries were empty
+- Q11538971 — retain: Sichuan dish; countries were empty
+- Q11540467 — retain: second opinion: saogashi groups bar-shaped wagashi such as yokan and uiro, not one dish
+- Q11542761 — retain: Japanese yakisoba; countries were empty
+- Q115450440 — retain: German soup; countries were empty
+- Q11547034 — retain: Japanese yakimono; countries were empty
+- Q11547523 — retain: Japanese wagashi; countries were empty
+- Q11548023 — retain: Japanese horumon; countries were empty
+- Q115483255 — retain: Japanese wagashi; countries were empty
+- Q11548637 — retain: Japanese ramen; countries were empty
+- Q11549639 — retain: Japanese curry; countries were empty
+- Q11549659 — retain: Japanese namasu; countries were empty
+- Q11550577 — retain: Japanese donburi; countries were empty
+- Q11550988 — retain: second opinion: Edo three sushi groups three historical sushi shops/styles, not one dish
+- Q11554370 — retain: second opinion: retain Chinese, Japanese-Chinese and Korean-Chinese associations of oil-dressed fried chicken, as described in the dish metadata
+- Q115549787 — retain: Korean rice dish; countries were empty
+- Q11556392 — retain: Japanese ramen; countries were empty
+- Q11556400 — retain: Japanese miso; countries were empty
+- Q11559112 — retain: Japanese katsu; countries were empty
+- Q11559212 — retain: Japanese octopus dish; countries were empty
+- Q11559234 — retain: Japanese yakisoba; countries were empty
+- Q11559814 — retain: Japanese noodle dish; countries were empty
+- Q11559819 — retain: Japanese gyudon; countries were empty
+- Q11559843 — retain: Japanese yokan; countries were empty
+- Q115618304 — retain: category of foods (cakes and dessert bars), not a dish
+- Q115618375 — retain: product category (tortilla and wrap bread), not a dish
+- Q115618379 — retain: product category (candy covered fruit), not a dish
+- Q115619093 — retain: category (ice cream novelty), not a dish
+- Q115619224 — retain: product category (ice cream and frozen yogurt), not a dish
+- Q11562975 — retain: Japanese manju; countries were empty
+- Q11563737 — retain: Japanese rice dish; countries were empty
+- Q11564080 — retain: Japanese nabe; countries were empty
+- Q115641438 — retain: dining custom (couvert), not a dish
+- Q11566510 — retain: Japanese yakisoba; countries were empty
+- Q1156703 — retain: second opinion: Dachhase is a nickname for a domestic cat, not the German pastry claimed by the first reviewer
+- Q11567137 — retain: Japanese senbei; countries were empty
+- Q11567626 — retain: Japanese tofu dish; countries were empty
+- Q11567681 — retain: Japanese rice dish; countries were empty
+- Q11567691 — retain: Japanese local cuisine; countries were empty
+- Q11567797 — retain: Japanese nimono; countries were empty
+- Q115688586 — retain: Spanish ham; countries were empty
+- Q115690026 — retain: Italian pastry; countries were empty
+- Q11569253 — retain: Japanese ramen; countries were empty
+- Q11570067 — retain: Japanese senbei; countries were empty
+- Q11570229 — retain: Japanese mochi; countries were empty
+- Q11572418 — retain: Japanese ramen; countries were empty
+- Q11572769 — retain: Japanese yokan; countries were empty
+- Q115732147 — retain: Korean gejang; countries were empty
+- Q11573721 — retain: Japanese wagashi; countries were empty
+- Q11574227 — retain: Japanese ame; countries were empty
+- Q11574395 — retain: Japanese caramel; countries were empty
+- Q11576725 — retain: Japanese nabe; countries were empty
+- Q1157710 — retain: Japanese natto dish; countries were empty
+- Q11579290 — retain: Japanese dashi; countries were empty
+- Q11579516 — retain: Japanese seafood stew; countries were empty
+- Q11579832 — retain: Japanese monaka; countries were empty
+- Q11579948 — retain: Japanese ramen; countries were empty
+- Q11580081 — retain: Japanese dango; countries were empty
+- Q115800879 — retain: Italian pasta dish; countries were empty
+- Q115802607 — retain: Sicilian pasta dish; countries were empty
+- Q115802819 — retain: second opinion: estufao belongs to shared Chamorro food traditions of the Mariana Islands
+- Q115802987 — retain: second opinion: tinaktak is Chamorro/Mariana Islands food, not Filipino
+- Q11580315 — retain: Japanese curry; countries were empty
+- Q115804147 — retain: second opinion: kaddon pika belongs to shared Chamorro food traditions of the Mariana Islands
+- Q11581573 — retain: Japanese donburi; countries were empty
+- Q115816722 — retain: drink (cereal milk), not a dish
+- Q115858747 — retain: Polish bean stew; countries were empty
+- Q115859451 — retain: German pastry; countries were empty
+- Q11586488 — retain: Japanese yakisoba; countries were empty
+- Q11588062 — retain: Japanese senbei; countries were empty
+- Q11588447 — retain: Japanese tofu dish; countries were empty
+- Q11588682 — retain: Japanese curry; countries were empty
+- Q115907596 — retain: Sicilian pasta dish; countries were empty
+- Q115908352 — retain: chain-restaurant style menu item (Among Us nugget)
+- Q11593816 — retain: Japanese senbei; countries were empty
+- Q11593881 — retain: Japanese monaka; countries were empty
+- Q115940023 — retain: Catalan sweet; countries were empty
+- Q115940142 — retain: Catalan cake; countries were empty
+- Q11596840 — retain: Japanese mochi; countries were empty
+- Q11597028 — retain: Japanese okoshi; countries were empty
+- Q11598630 — retain: Japanese chikuwa; countries were empty
+- Q11599096 — retain: Japanese ramen; countries were empty
+- Q11599871 — retain: Japanese ramen; countries were empty
+- Q116009562 — retain: Thai curry; countries were empty
+- Q11602975 — retain: Japanese offal dish; countries were empty
+- Q11604251 — retain: Japanese ramen; countries were empty
+- Q11604446 — retain: Japanese potato dish; countries were empty
+- Q11604467 — retain: Japanese miso soup; countries were empty
+- Q11604545 — retain: Japanese okoshi; countries were empty
+- Q11604648 — retain: Japanese mizuame; countries were empty
+- Q11604650 — retain: Japanese mochi; countries were empty
+- Q11604652 — retain: Japanese manju; countries were empty
+- Q11604874 — retain: Japanese yakisoba; countries were empty
+- Q11605373 — retain: Japanese miso soup; countries were empty
+- Q11605555 — retain: Japanese ramen; countries were empty
+- Q11608013 — retain: Japanese namagashi; countries were empty
+- Q11608826 — retain: Japanese yakitori; countries were empty
+
+## names-013
+
+- Q11609282 — retain: Japanese curry udon; countries were empty
+- Q11609405 — retain: Japanese nabemono; countries were empty
+- Q11610952 — retain: Japanese karaage; countries were empty
+- Q11611438 — retain: Chinese shaobing; countries were empty
+- Q11611494 — retain: Japanese eel soup; countries were empty
+- Q11611501 — retain: Japanese eel offal dish; countries were empty
+- Q11611813 — retain: Japanese goma-ae dish; countries were empty
+- Q11614575 — retain: Japanese dish; countries were empty
+- Q11615097 — retain: Japanese bolo; countries were empty
+- Q11616139 — retain: Japanese wagashi; countries were empty
+- Q11616677 — retain: Japanese nimono; countries were empty
+- Q116170384 — retain: Swiss Burli pastry; countries were empty
+- Q116172687 — retain: Romanian and Moldovan pastries; countries were empty
+- Q11618004 — retain: Japanese miso soup; countries were empty
+- Q11618043 — retain: Japanese rice dish; countries were empty
+- Q11618421 — retain: Japanese confection from Oita; countries were empty
+- Q11619010 — retain: Japanese ramen; countries were empty
+- Q11620616 — retain: Japanese yokan; countries were empty
+- Q11621154 — retain: Japanese manju; countries were empty
+- Q11621171 — retain: Japanese nabemono; countries were empty
+- Q11622155 — retain: Japanese yokan; countries were empty
+- Q11622159 — retain: Japanese higashi; countries were empty
+- Q11622329 — retain: Japanese miso soup; countries were empty
+- Q11624558 — retain: Japanese yakisoba; countries were empty
+- Q11625228 — retain: Japanese miso; countries were empty
+- Q11625632 — retain: Japanese senbei; countries were empty
+- Q116256635 — retain: Italian pasta dish; countries were empty
+- Q11626129 — retain: Japanese local burger; countries were empty
+- Q11626556 — retain: packaged instant noodle product class, not a dish
+- Q116274066 — retain: museum object (Metropolitan Museum loaf), not a dish
+- Q11630693 — retain: Japanese oshizushi; countries were empty
+- Q116307508 — retain: museum object (ice cream cup at the Met), not a dish
+- Q11631777 — retain: Japanese chori-pan; countries were empty
+- Q11633146 — retain: Japanese bread; countries were empty
+- Q11633169 — retain: Japanese ramen; countries were empty
+- Q11634325 — retain: Japanese tonkotsu; countries were empty
+- Q11637231 — retain: Japanese manju; countries were empty
+- Q11637813 — retain: Japanese vegetable dish; countries were empty
+- Q116390743 — retain: Turkish kebab; countries were empty
+- Q11642095 — retain: Japanese okonomiyaki; countries were empty
+- Q11642789 — retain: Japanese yakisoba; countries were empty
+- Q11643455 — retain: Japanese manju; countries were empty
+- Q116438588 — retain: museum object (loaf of bread at the Met), not a dish
+- Q116438594 — retain: museum object (loaf of bread at the Met), not a dish
+- Q116438607 — retain: museum object (loaf of bread at the Met), not a dish
+- Q11644490 — retain: Japanese dango; countries were empty
+- Q11644495 — retain: Japanese mochi; countries were empty
+- Q11646473 — retain: Japanese manju; countries were empty
+- Q11647361 — retain: Kanazawa curry; countries were empty
+- Q11647656 — retain: Japanese manju; countries were empty
+- Q11647842 — retain: Japanese confection; countries were empty
+- Q11648259 — retain: Japanese ramen; countries were empty
+- Q11649570 — retain: Japanese yakitori; countries were empty
+- Q11650717 — retain: Japanese ramen; countries were empty
+- Q11650870 — retain: Japanese donburi; countries were empty
+- Q116543927 — retain: Portuguese skewer dish; countries were empty
+- Q11656558 — retain: Japanese nabemono; countries were empty
+- Q11657492 — retain: Japanese mochi; countries were empty
+- Q11659802 — retain: Japanese kakigori; countries were empty
+- Q11660771 — retain: Kokonoehonpo Tamazawa branded packaged candy product
+- Q11661478 — retain: Japanese yakisoba; countries were empty
+- Q116620968 — retain: packaged chocolate bar brand, not a dish
+- Q11664516 — retain: Japanese oshizushi; countries were empty
+- Q11664953 — retain: Japanese bread; countries were empty
+- Q11665983 — retain: Japanese nabemono; countries were empty
+- Q11666261 — retain: Japanese narezushi; countries were empty
+- Q11668712 — retain: Japanese ramen; countries were empty
+- Q11669466 — retain: Japanese korokke; countries were empty
+- Q11671983 — retain: Japanese yokan; countries were empty
+- Q11672762 — retain: Japanese sushi; countries were empty
+- Q116728462 — retain: smoothie (drink), not a dish
+- Q11673376 — retain: Japanese confection; countries were empty
+- Q11673565 — retain: Japanese manju; countries were empty
+- Q11673934 — retain: Japanese fish croquette; countries were empty
+- Q11674068 — retain: Japanese fish sausage; countries were empty
+- Q11674162 — retain: Japanese simmered abalone; countries were empty
+- Q11674166 — retain: Japanese sashimi; countries were empty
+- Q11674167 — retain: Japanese dish; countries were empty
+- Q11674303 — retain: Japanese kombu-maki; countries were empty
+- Q11674332 — retain: Japanese oshizushi; countries were empty
+- Q11674345 — retain: Toyama masu-zushi; countries were empty
+- Q11674350 — retain: Japanese kabayaki; countries were empty
+- Q11674519 — retain: Japanese ramen; countries were empty
+- Q116745706 — retain: generic category (finger food with stick), not a dish
+- Q11675615 — retain: Japanese nabemono; countries were empty
+- Q11675857 — retain: Japanese mochi; countries were empty
+- Q11675921 — retain: Japanese manju; countries were empty
+- Q11676454 — retain: deer feed (senbei for deer), not food for people
+- Q116769615 — retain: category (Swiss cheeses and dairy products), not a dish
+- Q11677381 — retain: Japanese senbei; countries were empty
+- Q11677407 — retain: Japanese wagashi; countries were empty
+- Q11677410 — retain: Japanese manju; countries were empty
+- Q11677820 — retain: Japanese egg dish; countries were empty
+- Q11677821 — retain: Japanese steamed bun; countries were empty
+- Q11677885 — retain: Japanese rice dish; countries were empty
+- Q116779502 — retain: restaurant menu item (Machikado-ya teishoku), not a dish
+- Q116786071 — retain: product type (dark chocolate standard), not a dish
+- Q116787453 — retain: product type (craft chocolate), not a dish
+- Q11678910 — retain: Japanese okowa; countries were empty
+- Q116790224 — retain: French dish; countries were empty
+- Q11681782 — retain: Valencian dish; countries were empty
+- Q11682627 — retain: Mexican dish; countries were empty
+- Q11686754 — retain: Italian pasta; countries were empty
+- Q11690062 — retain: Czech pastry; countries were empty
+- Q116978915 — retain: Brazilian dish; countries were empty
+- Q11716143 — retain: ingredient (mutton meat), not a dish
+- Q117192636 — retain: German bread roll; countries were empty
+- Q11725557 — retain: history topic page (bread in ancient Egypt), not a dish
+- Q11725980 — retain: product type (decorative candy), not a dish
+- Q11727138 — retain: alcoholic drink (blackberry spirit), not a dish
+- Q117275822 — retain: Prepared vinegar-cured fish as well as its preparation method
+- Q117307020 — retain: Soviet-era Russian cake; countries were empty
+- Q117378281 — retain: German pudding; countries were empty
+- Q11744324 — retain: Polish cutlet; countries were empty
+- Q11744325 — retain: Polish potato cutlets; countries were empty
+- Q117450518 — retain: Catalan ice cream; countries were empty
+
+## names-014
+
+- Q117617502 — retain: protected designation label (organization), not a dish
+- Q117708472 — retain: countries empty; Czech dish
+- Q117708479 — retain: Traditional Slovak Christmas cake also prepared in Czech cuisine
+- Q117813607 — retain: medicinal lozenge, not food
+- Q117813626 — retain: branded throat pastille product
+- Q117813664 — retain: branded chewing gum product
+- Q117815182 — retain: description says Dutch; NL added
+- Q117838275 — retain: countries empty; Ukrainian dessert
+- Q11785734 — retain: countries empty; Polish potato dish
+- Q117861283 — retain: countries empty; poke originates in Hawaii
+- Q11794717 — retain: countries empty; Polish potato dish
+- Q11799388 — retain: liqueur (drink)
+- Q11802321 — retain: countries empty; Polish sausage
+- Q11802933 — retain: countries empty; Szczecin, Poland
+- Q118082425 — retain: countries empty; Dutch ice cream
+- Q118139279 — retain: countries empty; Chinese dim sum
+- Q11814703 — retain: countries empty; Polish potato dish
+- Q11816977 — retain: quince liqueur (drink)
+- Q118174174 — retain: Uruguayan stuffed pasta, not Spanish Christmas dish
+- Q118186220 — retain: countries empty; Danish dish
+- Q118189476 — retain: countries empty; Brazilian dish
+- Q11819250 — retain: countries empty; Polish potato dish
+- Q11820413 — retain: countries empty; Polish potato dish
+- Q11826943 — retain: countries empty; Polish potato dish
+- Q118288330 — retain: countries empty; Slovak 1990s dish
+- Q118293921 — retain: Shawarma has shared Levantine and regional associations
+- Q11832180 — retain: countries empty; Polish potato dish
+- Q118331971 — retain: countries empty; Greek sesame honey sweet
+- Q118352184 — retain: countries empty; Danish fruit soup
+- Q11835420 — retain: countries empty; Polish confection
+- Q118390379 — retain: countries empty; Japanese nerikiri
+- Q11839576 — retain: countries empty; Hanoi dish
+- Q11851150 — change keep to remove: Second opinion: Amerikkalaiset pastillit is a Fazer branded chocolate pastille product, not a generic dish.
+- Q11855692 — retain: branded chocolate bar
+- Q11855727 — retain: countries empty; Finnish pastry
+- Q118574815 — retain: countries empty; British cake
+- Q11857503 — retain: countries empty; Finnish cake
+- Q11859002 — retain: countries empty; Finnish candy
+- Q11859360 — retain: branded chocolate bar
+- Q11859368 — change keep to remove: Second opinion: Fanipala is a Fazer branded wafer biscuit product, not a generic dish.
+- Q11859426 — retain: branded licorice product
+- Q11859428 — retain: branded chocolate bar
+- Q118601096 — retain: countries empty; Estonian rye bread
+- Q118603440 — retain: countries empty; Spanish pasta
+- Q118610533 — retain: countries empty; Japanese cookie
+- Q11863553 — retain: countries empty; Finnish crispbread
+- Q11866453 — retain: branded chocolate bar
+- Q11866932 — retain: lemonade (drink)
+- Q11870306 — retain: countries empty; Czech soup
+- Q118725971 — retain: countries empty; Italian mixed grill
+- Q118726852 — retain: countries empty; Dutch cake
+- Q118727349 — retain: countries empty; Colorado pizza style
+- Q11874587 — retain: countries empty; Finnish dish
+- Q118746882 — retain: countries empty; Italian cake
+- Q11883561 — retain: countries empty; Finnish dessert
+- Q11883562 — retain: countries empty; Finnish pastry
+- Q11883680 — retain: branded pastilles
+- Q118847406 — retain: countries empty; Spanish fish dish
+- Q11886671 — retain: countries empty; Finnish soup
+- Q11887574 — retain: countries empty; Finnish dish
+- Q11888054 — retain: countries empty; Finnish dessert
+- Q11888163 — retain: countries empty; Finnish dish
+- Q11889435 — retain: branded chocolate bar
+- Q118895947 — retain: countries empty; Vietnamese cake
+- Q118901115 — retain: countries empty; American Chinese dish
+- Q11891335 — retain: countries empty; Finnish rye bread
+- Q11892106 — retain: countries empty; Finnish salmiakki
+- Q118929559 — retain: countries empty; Turkish bread
+- Q11893103 — retain: countries empty; Finnish bread
+- Q118944641 — retain: countries empty; Vietnamese dish
+- Q118946248 — retain: countries empty; Turkish corek
+- Q11894632 — change keep to remove: Second opinion: SukuLaku is a Panda branded chocolate-covered licorice product, not a generic dish.
+- Q118947848 — retain: countries empty; Turkish dessert
+- Q118956651 — retain: countries empty; Turkish dish
+- Q118956893 — retain: Traditional Cypriot chicken pasta; Turkish language does not imply Turkey
+- Q118957941 — retain: countries empty; Turkish dish
+- Q11896500 — retain: countries empty; Finnish soup
+- Q118980907 — retain: countries empty; Escoffier dessert
+- Q11900159 — retain: countries empty; Finnish dish
+- Q11900702 — retain: countries empty; Finnish dish
+- Q11902383 — retain: countries empty; Austrian nougat
+- Q11903272 — retain: branded candy
+- Q11905092 — retain: countries empty; Catalan dish
+- Q11905311 — retain: countries empty; Catalan confection
+- Q11906685 — retain: countries empty; Catalan dish
+- Q11906687 — retain: countries empty; Catalan dish
+- Q11907443 — retain: Traditional Ariege cabbage pot dish, not Spanish based on Catalan label
+- Q11907497 — retain: countries empty; Catalan dish
+- Q11907650 — retain: countries empty; Catalan sauce
+- Q11912257 — retain: countries empty; Catalan confection
+- Q11912912 — retain: countries empty; Catalan dessert
+- Q11914389 — retain: countries empty; Catalan coca
+- Q11914391 — retain: countries empty; Catalan coca
+- Q11914392 — retain: countries empty; Catalan coca
+- Q11914394 — retain: countries empty; Catalan coca
+- Q11916030 — retain: countries empty; Catalan confection
+- Q11916033 — retain: countries empty; Menorcan confection
+- Q11916443 — retain: countries empty; Catalan cake
+- Q119198843 — retain: countries empty; American Chinese dish
+- Q11921967 — retain: countries empty; Catalan casserole
+- Q11923789 — retain: countries empty; Catalan dessert
+- Q11923862 — retain: countries empty; Catalan cake
+- Q11934496 — retain: countries empty; Catalan confection
+- Q119352364 — retain: Perth sandwich; IT was wrong
+- Q11935404 — retain: countries empty; Czech Christmas cookie
+- Q11937087 — retain: countries empty; Catalan dish
+- Q11937654 — retain: Mixed raw small fish used for stock; no recipe
+- Q11940467 — retain: countries empty; Menorcan confection
+- Q11940469 — retain: countries empty; Catalan confection
+- Q11941571 — retain: countries empty; Catalan entremet
+- Q11942732 — retain: generic course name, not one dish
+- Q119436208 — retain: countries empty; Semarang dish
+- Q119442468 — retain: countries empty; Batak dish
+- Q119442645 — retain: countries empty; Indonesian dish
+- Q11946299 — retain: countries empty; Catalan confection
+- Q11950904 — retain: countries empty; Catalan entree
+- Q11952927 — retain: countries empty; Spanish confection
+- Q119540715 — retain: countries empty; South Kalimantan cake
+- Q11954455 — retain: countries empty; Catalan dish
+- Q11955443 — retain: countries empty; Catalan dish
+- Q11957646 — retain: countries empty; Danish dish
+- Q119580769 — retain: countries empty; American recipe
+- Q119605527 — retain: countries empty; New York pastry
+- Q119722087 — retain: Czech chocolate cake; FR was wrong
+- Q119793323 — retain: countries empty; Kerala curry
+- Q119793523 — retain: countries empty; Kerala curry
+- Q11979474 — retain: category (candy for Christmas), not one dish
+- Q119820710 — retain: countries empty; Amazon porridge
+- Q119820716 — retain: countries empty; Brazilian dish
+- Q119894990 — retain: countries empty; British cake
+- Q119906402 — retain: essential oil, not a food dish
+- Q119908354 — retain: essential oil, not a food dish
+- Q119920352 — retain: essential oil, not a food dish
+- Q11996671 — retain: countries empty; Norwegian dish
+- Q11996678 — retain: countries empty; Danish dish
+- Q120014728 — retain: countries empty; Chinese noodle soup
+- Q120069075 — retain: countries empty; Atlanta wings
+- Q120176394 — retain: countries empty; Southern US snack
+
+## Completion
+
+All 404 targets in original names-012, names-013 and names-014 were manually read. Four verdicts changed: one generic instant soup restored, three branded Finnish confections removed. All other judgments retained. No shell, network, subagents or commits used.

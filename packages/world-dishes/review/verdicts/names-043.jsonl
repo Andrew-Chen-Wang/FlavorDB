@@ -89,7 +89,7 @@
 {"id":"Q457255","verdict":"keep"}
 {"id":"Q45746754","verdict":"keep"}
 {"id":"Q45790414","verdict":"keep"}
-{"id":"Q45809044","verdict":"keep","countries":["IN"],"reason":"countries were empty; Indian dessert"}
+{"id":"Q45809044","verdict":"keep","countries":["IN","PK","BD","NP"],"reason":"Second opinion: kheer is shared Indian, Pakistani, Bangladeshi and Nepali rice pudding."}
 {"id":"Q45849","verdict":"keep"}
 {"id":"Q4589121","verdict":"keep"}
 {"id":"Q45901803","verdict":"keep"}
@@ -287,7 +287,7 @@
 {"id":"Q48751767","verdict":"keep"}
 {"id":"Q48752050","verdict":"keep"}
 {"id":"Q48752482","verdict":"keep"}
-{"id":"Q48753429","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"Q48753429","verdict":"keep","countries":["DE","AT"],"reason":"Second opinion: liver spaetzle has German and Austrian traditions."}
 {"id":"Q48754335","verdict":"keep","reason":"second opinion: real prepared dessert (Errötendes Mädchen), as identified in the review instructions"}
 {"id":"Q48754738","verdict":"keep"}
 {"id":"Q48755607","verdict":"keep"}

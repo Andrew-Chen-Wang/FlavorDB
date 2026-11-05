@@ -1,8 +1,8 @@
-{"id":"Q11174860","verdict":"keep","countries":["CN"],"reason":"added country: Chinese zongzi"}
+{"id":"Q11174860","verdict":"keep","countries":["CN","TW"],"reason":"Salted meat zongzi is shared Chinese and Taiwanese prepared food."}
 {"id":"Q11174861","verdict":"keep","countries":["CN"],"reason":"added country: Chinese dish"}
 {"id":"Q11174862","verdict":"keep"}
 {"id":"Q11174939","verdict":"keep"}
-{"id":"Q111753184","verdict":"keep","countries":["IL"],"reason":"added country: Jewish challah"}
+{"id":"Q111753184","verdict":"keep","reason":"Key-shaped challah is an Ashkenazi Jewish diaspora custom; this entry does not justify assigning Israel alone."}
 {"id":"Q11175394","verdict":"keep"}
 {"id":"Q111755418","verdict":"keep"}
 {"id":"Q11175566","verdict":"keep"}
@@ -15,7 +15,7 @@
 {"id":"Q11179944","verdict":"keep"}
 {"id":"Q11179980","verdict":"keep"}
 {"id":"Q111804862","verdict":"keep"}
-{"id":"Q11180598","verdict":"keep","countries":["CN"],"reason":"added country: Chinese dish"}
+{"id":"Q11180598","verdict":"keep","countries":["TW"],"reason":"龍珠 is the Taiwanese fried squid-mouth snack, not a country attribution inferred from Chinese script."}
 {"id":"Q111817407","verdict":"keep"}
 {"id":"Q1118196","verdict":"keep","countries":["GR"],"reason":"added country: Greek dish"}
 {"id":"Q111834905","verdict":"keep"}
@@ -24,12 +24,12 @@
 {"id":"Q111844932","verdict":"keep"}
 {"id":"Q11190199","verdict":"keep"}
 {"id":"Q111904334","verdict":"keep"}
-{"id":"Q111907435","verdict":"keep","countries":["DE"],"reason":"added country: German open sandwich"}
+{"id":"Q111907435","verdict":"keep","reason":"Belegtes Brot means generic topped/open bread; German wording alone does not establish a country."}
 {"id":"Q111913166","verdict":"keep"}
 {"id":"Q111913468","verdict":"keep"}
 {"id":"Q111914087","verdict":"keep"}
 {"id":"Q111917546","verdict":"keep","countries":["BR"],"reason":"added country: Brazilian cake"}
-{"id":"Q111917727","verdict":"keep","countries":["BR"],"reason":"added country: Brazilian dessert"}
+{"id":"Q111917727","verdict":"keep","countries":["BR","AR","UY"],"reason":"The milk-and-egg ambrosia dessert is shared by Brazil, Argentina and Uruguay."}
 {"id":"Q111919719","verdict":"keep"}
 {"id":"Q111934811","verdict":"keep"}
 {"id":"Q111938080","verdict":"keep"}
@@ -72,7 +72,7 @@
 {"id":"Q112243913","verdict":"keep"}
 {"id":"Q112247828","verdict":"keep"}
 {"id":"Q112256513","verdict":"keep"}
-{"id":"Q112261855","verdict":"keep","countries":["NP"],"reason":"added country: Sherpa food"}
+{"id":"Q112261855","verdict":"keep","countries":["NP","IN"],"reason":"Sherpa goyang fermented vegetables have established Nepalese and Sikkimese associations."}
 {"id":"Q11229708","verdict":"keep"}
 {"id":"Q112325694","verdict":"keep"}
 {"id":"Q112338749","verdict":"keep"}
@@ -94,7 +94,7 @@
 {"id":"Q1124851","verdict":"keep"}
 {"id":"Q1125112","verdict":"keep"}
 {"id":"Q11252514","verdict":"keep","countries":["JP"],"reason":"added country: Japanese ramen"}
-{"id":"Q11252676","verdict":"keep","countries":["KR"],"reason":"added country: Korean royal court cuisine"}
+{"id":"Q11252676","verdict":"remove","reason":"Surasang is the royal meal table/banquet setting containing multiple dishes, not one dish."}
 {"id":"Q1125542","verdict":"keep"}
 {"id":"Q112568435","verdict":"keep","countries":["MA"],"reason":"added country: Moroccan kebab"}
 {"id":"Q11256851","verdict":"keep"}
@@ -148,7 +148,7 @@
 {"id":"Q112610072","verdict":"keep"}
 {"id":"Q11261020","verdict":"keep","countries":["JP"],"reason":"added country: Japanese egg dish"}
 {"id":"Q11261069","verdict":"keep"}
-{"id":"Q11261071","verdict":"keep","countries":["JP"],"reason":"added country: Japanese fish ball"}
+{"id":"Q11261071","verdict":"keep","reason":"Generic shrimp ball entry gives no Japanese-specific identity or national evidence."}
 {"id":"Q11261190","verdict":"keep","countries":["JP"],"reason":"added country: Japanese arare"}
 {"id":"Q11261191","verdict":"keep","countries":["JP"],"reason":"added country: Japanese wagashi"}
 {"id":"Q11261365","verdict":"keep","countries":["JP"],"reason":"added country: Japanese beika"}
@@ -225,7 +225,7 @@
 {"id":"Q11267210","verdict":"keep"}
 {"id":"Q11267212","verdict":"keep"}
 {"id":"Q11267216","verdict":"keep","countries":["JP"],"reason":"added country: Japanese fish dish"}
-{"id":"Q11267298","verdict":"keep","countries":["JP"],"reason":"added country: Japanese hamburger"}
+{"id":"Q11267298","verdict":"remove","reason":"Gotōchi burgers are the category of local regional hamburgers, not a single dish."}
 {"id":"Q112673003","verdict":"keep"}
 {"id":"Q11267327","verdict":"keep","countries":["JP"],"reason":"added country: Japanese bread"}
 {"id":"Q11267563","verdict":"keep"}

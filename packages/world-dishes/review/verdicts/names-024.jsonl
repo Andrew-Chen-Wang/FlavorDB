@@ -106,8 +106,8 @@
 {"id":"Q139934067","verdict":"remove","reason":"packaged instant stock/bouillon product, not a dish"}
 {"id":"Q139947647","verdict":"keep"}
 {"id":"Q139960699","verdict":"keep"}
-{"id":"Q139961898","verdict":"keep","countries":["IN"],"reason":"countries were empty; Kashmiri meat dish"}
-{"id":"Q139963953","verdict":"keep","countries":["GU"],"reason":"countries were empty; Chamorro dish"}
+{"id":"Q139961898","verdict":"keep","countries":["IN","PK"],"reason":"Kashmiri harisse belongs to shared Kashmiri cuisine."}
+{"id":"Q139963953","verdict":"keep","countries":["GU","MP"],"reason":"Chamorro red rice is associated with Guam and Northern Mariana Islands."}
 {"id":"Q139976172","verdict":"keep"}
 {"id":"Q139997460","verdict":"keep"}
 {"id":"Q139997901","verdict":"keep"}
@@ -184,20 +184,20 @@
 {"id":"Q140642202","verdict":"remove","reason":"fresh raw mussels (PDO), ingredient not a dish"}
 {"id":"Q140642203","verdict":"keep"}
 {"id":"Q140642205","verdict":"keep"}
-{"id":"Q140642206","verdict":"remove","reason":"olive oil, ingredient not a dish"}
+{"id":"Q140642206","verdict":"keep","reason":"Named traditional PDO olive oil is a prepared regional food product."}
 {"id":"Q140642207","verdict":"keep"}
 {"id":"Q140642223","verdict":"keep"}
 {"id":"Q140642229","verdict":"keep"}
 {"id":"Q140642234","verdict":"keep"}
 {"id":"Q140642255","verdict":"keep"}
-{"id":"Q140642256","verdict":"remove","reason":"olive oil, ingredient not a dish"}
+{"id":"Q140642256","verdict":"keep","reason":"Named traditional PDO olive oil is a prepared regional food product."}
 {"id":"Q140642282","verdict":"keep"}
 {"id":"Q140642286","verdict":"keep"}
 {"id":"Q140642287","verdict":"keep"}
-{"id":"Q140642298","verdict":"remove","reason":"olive oil, ingredient not a dish"}
-{"id":"Q140642300","verdict":"remove","reason":"olive oil, ingredient not a dish"}
-{"id":"Q140642301","verdict":"remove","reason":"olive oil, ingredient not a dish"}
-{"id":"Q140642304","verdict":"remove","reason":"olive oil, ingredient not a dish"}
+{"id":"Q140642298","verdict":"keep","reason":"Named traditional PGI olive oil is a prepared regional food product."}
+{"id":"Q140642300","verdict":"keep","reason":"Named traditional PGI olive oil is a prepared regional food product."}
+{"id":"Q140642301","verdict":"keep","reason":"Named traditional PGI olive oil is a prepared regional food product."}
+{"id":"Q140642304","verdict":"keep","reason":"Named traditional PGI olive oil is a prepared regional food product."}
 {"id":"Q140642307","verdict":"keep"}
 {"id":"Q140642309","verdict":"keep"}
 {"id":"Q140642315","verdict":"keep"}
@@ -219,17 +219,17 @@
 {"id":"Q140642395","verdict":"keep"}
 {"id":"Q140642398","verdict":"keep"}
 {"id":"Q140642404","verdict":"keep"}
-{"id":"Q140642405","verdict":"remove","reason":"olive oil, ingredient not a dish"}
-{"id":"Q140642410","verdict":"remove","reason":"olive oil, ingredient not a dish"}
-{"id":"Q140642411","verdict":"remove","reason":"olive oil, ingredient not a dish"}
+{"id":"Q140642405","verdict":"keep","reason":"Named traditional PDO olive oil is a prepared regional food product."}
+{"id":"Q140642410","verdict":"keep","reason":"Named traditional PDO olive oil is a prepared regional food product."}
+{"id":"Q140642411","verdict":"keep","reason":"Named traditional PGI olive oil is a prepared regional food product."}
 {"id":"Q140642416","verdict":"keep"}
 {"id":"Q140642420","verdict":"keep"}
 {"id":"Q140642422","verdict":"keep"}
-{"id":"Q140642428","verdict":"remove","reason":"olive oil, ingredient not a dish"}
+{"id":"Q140642428","verdict":"keep","reason":"Named traditional PDO olive oil is a prepared regional food product."}
 {"id":"Q140642431","verdict":"remove","reason":"raw fresh fish (PDO), ingredient not a dish"}
-{"id":"Q140642436","verdict":"remove","reason":"olive oil, ingredient not a dish"}
-{"id":"Q140642437","verdict":"remove","reason":"olive oil, ingredient not a dish"}
-{"id":"Q140642456","verdict":"remove","reason":"olive oil, ingredient not a dish"}
+{"id":"Q140642436","verdict":"keep","reason":"Named traditional PDO olive oil is a prepared regional food product."}
+{"id":"Q140642437","verdict":"keep","reason":"Named traditional PDO olive oil is a prepared regional food product."}
+{"id":"Q140642456","verdict":"keep","reason":"Named traditional PDO olive oil is a prepared regional food product."}
 {"id":"Q140642460","verdict":"keep"}
 {"id":"Q140642551","verdict":"keep"}
 {"id":"Q140644397","verdict":"keep"}

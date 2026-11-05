@@ -44,7 +44,7 @@
 {"id":"Q16847884","verdict":"keep"}
 {"id":"Q1684997","verdict":"keep"}
 {"id":"Q16850213","verdict":"keep","countries":["US"],"reason":"Southwestern US side dish; countries were empty"}
-{"id":"Q16852074","verdict":"keep","countries":["JO","LB","PS","SY"],"reason":"Levantine Arab bread/cake; IR and PK were wrong"}
+{"id":"Q16852074","verdict":"keep","countries":["JO","LB","PS","SY","IQ","EG","DZ","TN","MA","IR","PK"],"reason":"Kaak bread/cake traditions span the Levant and wider Middle East/North Africa; preserve recorded Iranian and Pakistani ties."}
 {"id":"Q16852388","verdict":"keep"}
 {"id":"Q16852506","verdict":"keep"}
 {"id":"Q16855480","verdict":"keep","countries":["DE"],"reason":"German soup; countries were empty"}
@@ -221,7 +221,7 @@
 {"id":"Q17035622","verdict":"keep","countries":["CN"],"reason":"Chinese scallion pancake; countries were empty"}
 {"id":"Q1703574","verdict":"keep","countries":["NO"],"reason":"Norwegian Christmas dish; countries were empty"}
 {"id":"Q17035779","verdict":"keep","countries":["CN"],"reason":"Chinese dish; countries were empty"}
-{"id":"Q17035821","verdict":"keep","countries":["CN"],"reason":"Quanzhou dish, China; countries were empty"}
+{"id":"Q17035821","verdict":"keep","countries":["CN","TW"],"reason":"Ginger duck has Quanzhou and Taiwanese associations."}
 {"id":"Q17035957","verdict":"keep","countries":["TW"],"reason":"Taiwanese dish; countries were empty"}
 {"id":"Q17037938","verdict":"keep"}
 {"id":"Q1703796","verdict":"keep"}
@@ -273,7 +273,7 @@
 {"id":"Q17066200","verdict":"keep"}
 {"id":"Q17067155","verdict":"keep"}
 {"id":"Q17067218","verdict":"keep","countries":["GB"],"reason":"Medieval English dish; countries were empty"}
-{"id":"Q17068380","verdict":"keep","countries":["IN"],"reason":"Indian sweet; countries were empty"}
+{"id":"Q17068380","verdict":"keep","countries":["IN","BD"],"reason":"Labanga latika belongs to shared Bengali confectionery traditions."}
 {"id":"Q17068746","verdict":"keep"}
 {"id":"Q17071807","verdict":"keep"}
 {"id":"Q17072135","verdict":"remove","reason":"cannabis strain, not food"}
@@ -291,7 +291,7 @@
 {"id":"Q17085540","verdict":"keep"}
 {"id":"Q17088676","verdict":"keep","countries":["PH"],"reason":"Filipino ice cream; countries were empty"}
 {"id":"Q17090617","verdict":"keep"}
-{"id":"Q17090951","verdict":"keep","countries":["RO"],"reason":"Romanian cured meat; countries were empty"}
+{"id":"Q17090951","verdict":"keep","countries":["RO","MD"],"reason":"Pastrama cured meat is associated with Romania and Moldova."}
 {"id":"Q1709220","verdict":"keep"}
 {"id":"Q17092221","verdict":"keep","countries":["ZA"],"reason":"South African toffee; countries were empty"}
 {"id":"Q17099188","verdict":"keep"}
