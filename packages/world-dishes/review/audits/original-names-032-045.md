@@ -3,6 +3,7 @@
 Each listed target was manually reread against its full original top-level batch entry, matched by position. No reconstructed entries used.
 
 ## names-032
+
 - Q2016856: retain — keep NL
 - Q20182633: retain — remove
 - Q2021346: retain — keep RO,MD
@@ -36,7 +37,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q20590936: retain — keep GB
 - Q20600209: retain — keep GB
 - Q20622033: retain — keep NL
-- Q2064491: retain — keep 
+- Q2064491: retain — keep
 - Q20645113: retain — remove
 - Q20645147: retain — keep TR
 - Q20645434: retain — remove
@@ -55,7 +56,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q20819041: retain — keep MX
 - Q20820571: retain — keep IS
 - Q2082513: retain — keep NL
-- Q2083501: retain — keep 
+- Q2083501: retain — keep
 - Q2084500: retain — keep DE
 - Q20847867: retain — keep HK
 - Q20856260: retain — keep MX
@@ -65,16 +66,16 @@ Each listed target was manually reread against its full original top-level batch
 - Q2089470: retain — keep NL
 - Q20917544: retain — remove
 - Q20918234: retain — keep FI
-- Q20919276: retain — keep 
+- Q20919276: retain — keep
 - Q20920934: retain — keep US
-- Q20921887: retain — keep 
+- Q20921887: retain — keep
 - Q20979646: retain — keep GB
 - Q20984265: retain — keep VN
 - Q20984266: retain — keep VN
 - Q20984269: retain — keep VN
 - Q20984273: retain — keep VN
 - Q20988782: changed — Second opinion against original: tahini cookies have Egyptian and Israeli traditions.
-- Q21002167: retain — keep 
+- Q21002167: retain — keep
 - Q21041059: retain — keep CZ,PL
 - Q21059510: retain — keep KR
 - Q21060314: retain — keep KR
@@ -86,7 +87,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q21086244: retain — keep ES
 - Q21091274: retain — keep TR
 - Q21133282: retain — keep IT
-- Q211361: retain — keep 
+- Q211361: retain — keep
 - Q21162481: retain — keep TR
 - Q2119832: changed — Second opinion against original: barley sugar is a traditional British and French boiled sweet.
 - Q21244926: retain — keep PK
@@ -97,6 +98,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q21418938: retain — keep TR
 
 ## names-033
+
 - Q21513463: retain — keep CY
 - Q21515489: retain — keep BH
 - Q21518276: retain — keep CY
@@ -109,7 +111,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q21707374: retain — keep ES
 - Q2170924: retain — keep NL
 - Q21709993: retain — keep TH
-- Q2178599: retain — keep 
+- Q2178599: retain — keep
 - Q21810151: retain — keep AT
 - Q21816983: changed — Second opinion: generic cream cake; Danish label alone does not establish a country.
 - Q2184029: retain — keep NL
@@ -152,7 +154,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q2250838: retain — keep DE
 - Q2251212: retain — keep HR,IT,ME
 - Q2251745: retain — remove
-- Q2253377: retain — keep 
+- Q2253377: retain — keep
 - Q2254128: retain — keep NL
 - Q2255682: retain — keep DE
 - Q2256739: retain — keep NL
@@ -219,7 +221,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q2306704: retain — keep CH
 - Q2306706: retain — keep DE
 - Q23074345: retain — keep TW
-- Q2308008: retain — keep 
+- Q2308008: retain — keep
 - Q2311032: retain — keep DE
 - Q2315099: retain — keep IL,MA
 - Q2330776: changed — Second opinion: long egg is an industrial egg preparation, not a specifically German dish.
@@ -227,10 +229,11 @@ Each listed target was manually reread against its full original top-level batch
 - Q2336063: retain — keep IE
 - Q23461031: retain — remove
 - Q2346339: retain — keep PL
-- Q2351313: retain — keep 
+- Q2351313: retain — keep
 - Q2353020: retain — keep US
 
 ## names-034
+
 - Q2356049: retain — keep CN,IN,NP,BT
 - Q2360511: retain — keep BE
 - Q2364865: retain — keep MA
@@ -343,6 +346,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q2517913: retain — keep NO,DK,SE,FI
 
 ## names-035
+
 - Q25202841: retain — remove
 - Q25206205: changed — Second opinion: Omar is a branded Fazer caramel candy, not a generic confection.
 - Q25212648: retain — keep NA
@@ -353,14 +357,14 @@ Each listed target was manually reread against its full original top-level batch
 - Q2527136: changed — Second opinion: bsisa has Tunisian and Libyan traditions.
 - Q25302535: retain — keep IN
 - Q25339635: retain — keep US
-- Q2535744: retain — keep 
+- Q2535744: retain — keep
 - Q25380201: retain — keep FR
 - Q25383130: retain — keep SN
 - Q25387730: retain — keep TH
 - Q25388871: changed — Second opinion: Warmbrunn pastry has historical German/Silesian and current Polish regional ties.
 - Q25389845: retain — keep RU
 - Q253899: retain — keep AT
-- Q25405067: retain — keep 
+- Q25405067: retain — keep
 - Q25412980: retain — keep PL
 - Q25428551: retain — keep PT
 - Q25429735: retain — keep PT,BR
@@ -377,7 +381,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q25512128: retain — keep ES
 - Q2551579: changed — Second opinion: remove parenthetical disambiguator; generic water soup is not established as exclusively German.
 - Q25520186: retain — keep UZ
-- Q25536638: retain — keep 
+- Q25536638: retain — keep
 - Q2553796: retain — keep DE
 - Q2553843: retain — keep DE
 - Q25551956: retain — keep IN
@@ -412,7 +416,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q259148: retain — keep DE,AT,CZ
 - Q2592256: retain — keep NL,BE,FR
 - Q2595034: retain — remove
-- Q2597970: retain — keep 
+- Q2597970: retain — keep
 - Q259874: changed — Second opinion: curry puffs have Singaporean, Malaysian, Thai and Indonesian traditions.
 - Q26046157: retain — keep KR
 - Q2606334: retain — keep NL
@@ -450,13 +454,14 @@ Each listed target was manually reread against its full original top-level batch
 - Q2678876: changed — Second opinion: generic farmers omelette; Dutch label alone does not establish a country.
 - Q26857408: retain — keep JP
 - Q26857710: retain — keep RU
-- Q26877711: retain — keep 
+- Q26877711: retain — keep
 - Q2691193: retain — keep NL
 - Q26928862: retain — keep NL
 - Q26936803: retain — keep IN,BD
 - Q2695207: retain — keep FR
 
 ## names-037
+
 - Q28668248: retain — keep IT
 - Q28670218: retain — keep IT
 - Q2867162: retain — keep CH
@@ -473,7 +478,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q28966859: retain — remove
 - Q2897203: retain — keep DZ,MA,TN
 - Q29032645: retain — keep NO
-- Q2903643: retain — keep 
+- Q2903643: retain — keep
 - Q29043105: retain — remove
 - Q2904894: retain — keep UY,AR
 - Q2908820: retain — keep FR
@@ -496,6 +501,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q30011777: retain — keep KR
 
 ## names-038
+
 - Q30090683: retain — keep JP
 - Q3009948: retain — keep NL
 - Q3016983: retain — keep FR
@@ -550,13 +556,13 @@ Each listed target was manually reread against its full original top-level batch
 - Q30926611: retain — keep AO
 - Q3092677: retain — keep CN,MY,SG,PH,ID
 - Q30927500: retain — keep JP
-- Q30927733: retain — keep 
+- Q30927733: retain — keep
 - Q3098712: retain — keep ES
 - Q3099411: retain — keep FR
 - Q3099412: retain — keep FR
 - Q3106401: retain — keep FR
 - Q31073311: retain — keep ES
-- Q31078296: retain — keep 
+- Q31078296: retain — keep
 - Q3108258: retain — keep US
 - Q31186302: retain — remove
 - Q31213279: changed — Second opinion: lemeshka is shared Belarusian and Ukrainian porridge.
@@ -566,7 +572,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q3122812: retain — keep BE
 - Q3123047: retain — keep SE,FI,IS,EE
 - Q3125526: retain — keep GB
-- Q3126044: retain — keep 
+- Q3126044: retain — keep
 - Q31281129: retain — keep NO
 - Q3141745: retain — keep TN
 - Q3142980: retain — keep FR
@@ -587,6 +593,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q31830399: retain — remove
 
 ## names-039
+
 - Q31837365: retain — keep IE
 - Q31838053: retain — keep DE
 - Q31839671: retain — keep DE
@@ -628,7 +635,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q3351983: retain — keep FR
 - Q3355025: changed — Second opinion: Oranais pastry has Algerian and French traditions.
 - Q3360576: retain — keep FR
-- Q3360592: retain — keep 
+- Q3360592: retain — keep
 - Q3361383: retain — keep FR
 - Q3362159: retain — keep IT,FR
 - Q3368845: retain — keep FR
@@ -650,6 +657,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q3412160: retain — keep FR
 
 ## names-040
+
 - Q3419728: retain — keep CN
 - Q3420368: retain — keep MG
 - Q3422327: retain — keep NO
@@ -717,6 +725,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q3677424: retain — remove
 
 ## names-041
+
 - Q3683263: changed — Second opinion: Colline Salernitane PDO is a named traditional processed olive oil.
 - Q3683268: changed — Second opinion: Colline Teatine PDO is a named traditional processed olive oil.
 - Q3683276: changed — Second opinion: Colline di Romagna PDO is a named traditional processed olive oil.
@@ -768,6 +777,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q39297005: retain — keep IT
 
 ## names-042
+
 - Q3958710: retain — keep IT
 - Q3973389: retain — keep FR
 - Q4036160: retain — remove
@@ -823,6 +833,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q43731700: retain — keep CN
 
 ## names-043
+
 - Q43731854: retain — keep CN
 - Q43731937: retain — keep CN
 - Q43732009: retain — keep CN
@@ -873,6 +884,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q48762320: retain — keep JP
 
 ## names-044
+
 - Q48781818: retain — keep ES
 - Q48806470: retain — keep IT
 - Q48808894: retain — keep IT
@@ -934,6 +946,7 @@ Each listed target was manually reread against its full original top-level batch
 - Q5094874: retain — keep IN
 
 ## names-045
+
 - Q5100855: retain — keep CN
 - Q5105172: retain — keep GB
 - Q5125470: retain — keep US
@@ -1005,7 +1018,9 @@ Each listed target was manually reread against its full original top-level batch
 - Q54222942: retain — keep IT
 
 ## Explicit restored-dish check
+
 - names-043 Q48754335 Errötendes Mädchen: retain — keep. Reread original entry; a real prepared dessert, as identified in the review instructions.
 
 ## Positional verification
+
 - All 13 assigned original batches have equal entry/verdict counts and exact positional IDs.

@@ -1,9 +1,18 @@
 # Second-opinion coverage
 
-Removal and country decisions were reread against each available full batch entry and supplied raw
-excerpt. Older missing inputs used reconstructed baseline metadata and extracted recipes, explicitly
-without a claim to have reread absent raw sources. Names were checked separately against exact
-file/ID/override values. The final structural coverage check covers all 31,832 baseline dishes.
+The original-input recheck supersedes the earlier metadata-only second opinions for all 297
+batches supplied in `original-batches.tgz`. Each `original-*.md` ledger records targeted dish IDs,
+positions, retained decisions and corrections after reading the actual entries and raw excerpts.
+The fresh pass covered 8,160 targeted or changed records across the 297 recovered batches;
+540 verdict lines changed, with 60 removals reversed and 35 new removals. All 675 original batch
+inputs are now available and independently match the positional manifest.
+
+`../check-original-audits.mts` mechanically checks that every original-scope removal, name or
+country target from commit `8476ba3`, plus subsequent changes, appears in the new ledgers. It does
+not judge dishes or substitute for the readers' completion reports.
+
+The table below preserves the earlier audit history; the new `original-*.md` ledgers are the
+current evidence for those previously reconstructed inputs.
 
 | Scope                                         | Evidence                                                                                                  |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------- |

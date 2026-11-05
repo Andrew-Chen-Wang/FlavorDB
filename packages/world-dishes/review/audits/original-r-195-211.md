@@ -3,6 +3,7 @@
 Each listed position is zero-based and matched to the actual top-level batch entry. Read complete supplied entries and raw source; original 6,000-character source cutoff still applies.
 
 ## r-195
+
 - 4 gombás-vörösboros-gulyás: retain HU; Hungarian goulash preparation.
 - 6 gombás-zúzatokány: retain HU; named Hungarian tokány preparation.
 - 11 gomolyával-rakott-cukkini: change HU to []; ingredient provenance does not establish nationality.
@@ -17,6 +18,7 @@ Each listed position is zero-based and matched to the actual top-level batch ent
 - 27 görög-töltött-padlizsán: retain GR; recognizable named Greek aubergine preparation.
 
 ## r-196
+
 - 2 gránátalma-koktél: retain removal, finished juice cocktail.
 - 6 green-dragon: retain removal, gin cocktail.
 - 8 grépfrútlé: retain removal, blended fruit drink.
@@ -25,6 +27,7 @@ Each listed position is zero-based and matched to the actual top-level batch ent
 - 26 gulyáslevesek: retain keep and HU; actual base soup recipe despite plural title.
 
 ## r-197
+
 - 0 gundel-palacsinta: retain HU; established prepared pancake, not packaged brand.
 - 1 gundel-saláta: retain HU; established named salad with two complete recipes.
 - 2 gyerekbólé: retain removal, finished fruit punch.
@@ -35,6 +38,7 @@ Each listed position is zero-based and matched to the actual top-level batch ent
 - 16 gyömbérszörp: reverse removal; cooked concentrated ginger syrup condiment.
 
 ## r-198
+
 - 0 gyümölcskenyér: change HU to []; generic fruit cake/bread, all eleven supplied recipe/raw pairs read.
 - 1 gyümölcskenyér-szentestére: change HU to []; generic Christmas fruit bread.
 - 2 gyümölcskenyérkék: change HU to []; generic filled fruit pastry; commercial ingredients do not make it a branded product.
@@ -43,6 +47,7 @@ Each listed position is zero-based and matched to the actual top-level batch ent
 - 7 gyümölcsös-bólé: retain removal, wine punch.
 
 ## r-199
+
 - 1 gyümölcsturmix: retain removal, fruit-milk smoothie.
 - 2 habart-fokhagymás-töltött-káposzta: retain HU, recognizable Hungarian sauerkraut rolls.
 - 12 hagymafőzelék: change HU to []; generic onion-potato baby puree.
@@ -50,6 +55,7 @@ Each listed position is zero-based and matched to the actual top-level batch ent
 - 21 hagymapörkölt: retain HU, named paprika pörkölt preparation.
 
 ## r-200
+
 - 1 hagymás-krumplilángos: retain HU, potato lángos preparation.
 - 18 hagyományos-karácsonyi-puding: expand GB to GB/IE, shared Christmas pudding tradition.
 - 19 hagyományos-karácsonyi-torta: expand GB to GB/IE, shared matured Christmas cake tradition.
@@ -60,6 +66,7 @@ Each listed position is zero-based and matched to the actual top-level batch ent
 - 24 hájas-pogácsa-2: retain HU, named layered hájas pogácsa.
 
 ## r-201
+
 - 0 halas-juhtúrós-mártogatós: change HU to []; generic fish/cheese dip.
 - 1 halászlé: retain HU; identified paprika fish soup, humorous ingredient preface does not negate recipe.
 - 2 halászlé-receptek: retain HU/keep; actual base fish-soup recipe despite plural heading.

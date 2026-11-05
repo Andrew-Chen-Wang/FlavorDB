@@ -5,6 +5,7 @@ Only entries listed below are complete. Each was matched by verdict position to 
 ## r-090 — complete (20 targets)
 
 All existing country overrides retained:
+
 - Position 1, alubias-con-chorizo — ES: Spanish chorizo and white bean preparation.
 - 2, amatriciana — IT: Italian source explicitly names Amatrice and Lazio.
 - 3, anchoas-artesanas — ES: Spanish anchovy curing preparation; prepared fish stays.
@@ -29,6 +30,7 @@ All existing country overrides retained:
 ## r-091 — complete (22 targets)
 
 All target decisions retained after reading full original entries:
+
 - Position 1 arroz-con-gandules PR: explicitly classic Puerto Rican rice.
 - 2 arroz-con-habas-y-alcachofas ES: Valencian paella-style rice with rabbit, chicken and vegetables.
 - 3 arroz-con-leche empty: generic rice pudding; regional source category does not narrow dish identity.
@@ -55,6 +57,7 @@ All target decisions retained after reading full original entries:
 ## r-092 — complete (17 targets)
 
 All target decisions retained:
+
 - Position 1 bacalao-hervido empty: generic boiled salt cod with vegetables.
 - 2 bacalao-meneao ES: Alicante cod and garlic/potato preparation.
 - 3 bacalao-salazón-artesanal ES, PT, NO, IS, CA: traditionally cured salt cod; not a plain raw ingredient; shared Iberian/North Atlantic associations retained.

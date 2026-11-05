@@ -32,6 +32,7 @@ Read actual top-level batch entries, including every supplied raw source, for al
 No remove, countries or name flags.
 
 ## r-153
+
 - 11 Almaszörp: change remove to keep. Raw boils and bottles sugar-rich apple syrup; prepared concentrate, not a finished drink.
 - 17 ALU NARIAL RAITA: retain IN; potato coconut yogurt raita with mustard-seed tempering.
 - 18 Aludttejes burgonyás pogácsa: retain HU; sour-milk potato pogácsa.
@@ -44,6 +45,7 @@ No remove, countries or name flags.
 - 31 Amerikai mártás: retain FR; first raw source explicitly Sauce américaine with crayfish and cognac; second dressing source also read.
 
 ## r-154
+
 - 3 Amerikai sült virsli: retain US association, American-style hotdog preparation. Raw wraps bacon rather than pastry; prior pigs-in-a-blanket wording is imprecise.
 - 4 Amerikai szárazbableves: retain US association for named American bean soup. Raw uses mottled beans, not specifically navy beans.
 - 10 Ananász bólé: retain remove; wine and sparkling-wine fruit punch.
@@ -54,6 +56,7 @@ No remove, countries or name flags.
 - 30 Ananászos tiramisu: retain IT; pineapple variation on mascarpone and ladyfinger tiramisu.
 
 ## r-155
+
 - 7 Angol bélszín: retain GB; English-style roast beef tenderloin.
 - 8 Angol bélszín tűzdelve: retain GB association; bacon-larded variation on the same English-style beef.
 - 9 Angol gyümölcskenyér: retain GB; named English dried-fruit cake.
@@ -67,6 +70,7 @@ No remove, countries or name flags.
 - 34 Árpasör: retain remove; fermented barley beer.
 
 ## r-156
+
 - 4 Aszaltszilva leves: retain HU; sour-cream thickened spiced prune soup.
 - 9 Áttört kelleves: retain HU; paprika-roux cabbage soup with sour cream and dumplings.
 - 11 Avokádókrém: retain MX; full raw explicitly identifies guacamole.
@@ -81,6 +85,7 @@ No remove, countries or name flags.
 - 30 Babos pogácsa: retain HU; layered bean pogácsa.
 
 ## r-157
+
 - 9 Bagdadi pirított máj: retain IQ; named Baghdadi liver with coriander/cumin and garlic yogurt.
 - 10 Bahama Mama: retain remove; rum cocktail, all three raw ingredient alternatives read.
 - 11 Baileys házilag: retain remove; homemade alcoholic cream liqueur.
@@ -94,6 +99,7 @@ No remove, countries or name flags.
 - 33 Banántej: retain remove; blended banana milk beverage.
 
 ## r-158
+
 - 3 Baracklikőr: retain remove; apricot liqueur with strong alcohol.
 - 12 Baranyai galuska: retain HU; regional quark/dill dumplings with bacon and sour cream.
 - 13 Baranyai töltött káposzta: retain HU; named Baranya stuffed cabbage with paprika and sour cream.
@@ -105,6 +111,7 @@ No remove, countries or name flags.
 - 27 Barcsi gyümölcskenyér: retain HU; Barcs regional fruit cake.
 
 ## r-159
+
 - 9 Baseli csemege: retain CH; Basel honey, almond and candied-citrus biscuits.
 - 10 Bátaszéki pecsenye: retain HU; regional stuffed beef roll.
 - 11 Batthyány rizs: retain HU; named Hungarian rice accompaniment.
@@ -120,6 +127,7 @@ No remove, countries or name flags.
 - 28 Belga almás piskóta: retain BE association for named Belgian apple sponge.
 
 ## r-160
+
 - 1 Bélszín: retain HU and restore name Bélszín Mátyás király módra from raw title; beef with liver and mushrooms on toast.
 - 2 Bélszín Sztroganov módra: retain RU; Stroganoff, raw explains this Hungarian variation.
 - 5 Bélszínszelet Godard módra: retain FR; classical Godard garnish of liver/sweetbreads and Madeira sauce.
@@ -141,6 +149,7 @@ No remove, countries or name flags.
 - 24 Bihari töltött káposzta: retain HU, RO; shared Bihar regional stuffed cabbage.
 
 ## r-161
+
 - 1 Birkapörkölt: retain HU; both full raw sheep-stew recipes read, second from Homokmégy.
 - 2 Birkapörkölt szabad tűzön: retain HU; full raw including preparation and turning box read.
 - 11 Birsalmalikőr: retain remove; quince liqueur.
@@ -154,6 +163,7 @@ No remove, countries or name flags.
 - 25 Bodzaturmix: retain remove; milk and elderberry smoothie.
 
 ## r-162
+
 - 1 Bodzavirág bólé: retain remove; full recipe ends with wine and sparkling wine punch.
 - 3 Bográcsban főtt hal: retain HU; paprika and sour-cream fish stew cooked in bogrács.
 - 4 Bográcsban főtt kapros csirke: retain HU; bogrács chicken with dill, bacon, potato and sour cream.
@@ -167,6 +177,7 @@ No remove, countries or name flags.
 - 26 Borjú barna alaplé: retain FR; both full raw recipes explicitly fond de veau brun.
 
 ## r-163
+
 - 1 Borjú java Dubarry módra: retain FR; cauliflower gratin garnish à la Dubarry.
 - 4 Borjú pástétom: retain PL; raw explicitly identifies Polish Christmas/Easter appetizer tradition.
 - 7 Borjú- vagy tehénpacal: retain IT; raw explicitly Roman tripe recipe; all explanatory footnotes read.
@@ -174,6 +185,7 @@ No remove, countries or name flags.
 - 25 Borjúpaprikás: retain HU; all four complete raw veal paprikás recipes read.
 
 ## r-164
+
 - 1 Borjúpörkölt: retain HU; all four complete raw veal pörkölt recipes read, including short cross-reference variant.
 - 5 Borjúszelet Dubarry módra: retain FR; veal with cauliflower and gratin sauce.
 - 9 Borlikőr készítése: retain remove; wine, rum and cherry-liqueur beverage.
@@ -182,6 +194,7 @@ No remove, countries or name flags.
 - 25 Borscs leves: retain UA, RU, BY, PL, LT; beet, meat and cabbage borscht, shared associations retained.
 
 ## Completion
+
 All 15 original top-level batches r-150 through r-164 have been checked for existing removal, country and name targets by position. Every target above was reread with every included original-language raw source page. No recovered batch input was used. Total: 145 original flagged entries. Changed six syrup removals to keep, one regional country list, one restored dish title, and dropped one mismatched coconut-syrup recipe. Other targets retained. Sources remain limited to the supplied raw-page excerpts.
 
 ## Literal positional coverage

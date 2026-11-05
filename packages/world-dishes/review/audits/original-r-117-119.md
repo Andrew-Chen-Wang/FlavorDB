@@ -1,0 +1,60 @@
+# Original-input second opinion: r-117–119
+
+All 56 existing remove/countries/name flags were position-matched to actual top-level batch entries and manually reread in full, including every supplied raw source and its existing truncation. No remove reversal was required.
+
+- r-117 position 1 `wikibooks-fr:ardéchois-à-la-crème-de-marrons`: Retain FR: named Ardèche chestnut cake; original supports quantities and missing-template repairs.
+- r-117 position 2 `wikibooks-fr:arnold-palmer`: Retain remove: iced-tea/lemonade drink.
+- r-117 position 3 `wikibooks-fr:aubergines-à-la-viande-hachée-et-au-yoghourt-ali-nazik-kebabi`: Retain TR: named Ali Nazik eggplant-yogurt-meat kebab.
+- r-117 position 6 `wikibooks-fr:b-52`: Retain remove: layered coffee/whisky/orange liqueur shooter.
+- r-117 position 7 `wikibooks-fr:baba-au-rhum`: Retain FR/IT/PL: rum baba source describes French, Polish and Neapolitan traditions.
+- r-117 position 8 `wikibooks-fr:bacardi-cocktail`: Retain remove: rum-grenadine cocktail.
+- r-117 position 9 `wikibooks-fr:bakmi-goreng`: Retain ID: named Indonesian bakmi goreng, not Chinese origin inferred from noodles.
+- r-117 position 11 `wikibooks-fr:bananes-et-patates-douces-en-feuilles-de-bananier`: Retain PF: source explicitly Tahitian banana-leaf dessert.
+- r-117 position 12 `wikibooks-fr:basler-brunsli`: Retain CH: source explicitly Basel biscuit.
+- r-117 position 13 `wikibooks-fr:basler-läckerlis`: Change: add FR because original explicitly describes Alsatian Christmas Läckerli baking.
+- r-117 position 14 `wikibooks-fr:batbout`: Retain MA: source explicitly Moroccan batbout bread.
+- r-117 position 15 `wikibooks-fr:batida`: Retain remove: cachaça-fruit batida drink.
+- r-117 position 16 `wikibooks-fr:bavette-de-boeuf-au-chimichurri`: Retain AR/UY: shared beef-chimichurri association, recipe repair matches raw cooking section.
+- r-117 position 17 `wikibooks-fr:bawoin`: Retain CI: western Ivorian cassava-leaf/peanut dish and rice.
+- r-117 position 18 `wikibooks-fr:bay-city-bomber`: Retain remove: mixed-spirit fruit cocktail.
+- r-117 position 20 `wikibooks-fr:beerawecka`: Retain FR: named Alsatian dried-fruit bread.
+- r-117 position 21 `wikibooks-fr:beetenbartsch`: Retain DE: source explicitly German beet soup under distinct regional name.
+- r-117 position 26 `wikibooks-fr:beignets-de-fleurs-de-courgettes`: Retain FR/IT: courgette-flower fritters shared southern French/Italian tradition; original specifically Nice.
+- r-117 position 28 `wikibooks-fr:beignets-de-pommes-de-terre`: Change: restore FR for explicitly Haute-Savoie named bognettes, not language inference.
+- r-117 position 29 `wikibooks-fr:beignets-râpés`: Change: restore FR for original Lorraine regional preparation category.
+- r-117 position 30 `wikibooks-fr:bescoins`: Retain FR: explicitly Haute-Savoie anise/saffron bread.
+- r-118 position 2 `wikibooks-fr:beurre-d-escargot`: Retain FR: prepared Burgundy-style garlic-herb butter, not plain raw butter.
+- r-118 position 3 `wikibooks-fr:biécôsseu`: Retain CI: source explicitly Akyé/Ivorian pepper sauce with foutou and fish.
+- r-118 position 4 `wikibooks-fr:biersupp`: Retain FR/DE/BE/CZ: original names all four beer-soup traditions; soup stays despite beer ingredient.
+- r-118 position 5 `wikibooks-fr:bijou`: Retain remove: gin-Chartreuse-vermouth drink.
+- r-118 position 6 `wikibooks-fr:biscôme`: Retain CH: western Swiss Advent biscôme.
+- r-118 position 10 `wikibooks-fr:biscuits-à-la-neiman-marcus`: Retain US: Dallas copycat cookie recipe stays despite branded attribution; source itself contains questionable 350 C instruction.
+- r-118 position 13 `wikibooks-fr:bisque-de-homard`: Retain FR: explicitly French lobster bisque, not beverage.
+- r-118 position 14 `wikibooks-fr:black-russian`: Retain remove: French, Dutch and Hungarian recipes all vodka-coffee drinks.
+- r-118 position 15 `wikibooks-fr:black-samurai`: Retain remove: sake-soy shooter, not dipping sauce.
+- r-118 position 16 `wikibooks-fr:black-tan`: Retain remove: stout/blonde beer drink.
+- r-118 position 17 `wikibooks-fr:black-velvet`: Retain remove: beer-champagne drink.
+- r-118 position 18 `wikibooks-fr:blaff-de-poissons`: Retain GP/MQ: French Antillean spiced fish broth dish.
+- r-118 position 20 `wikibooks-fr:blettes-à-la-voironnaise`: Retain FR: explicitly Isère chard preparation.
+- r-118 position 21 `wikibooks-fr:bloody-mary`: Retain remove: all three original-language recipes describe vodka-tomato cocktails.
+- r-118 position 22 `wikibooks-fr:blowjob`: Retain remove: coffee-liqueur/cream shooter.
+- r-118 position 23 `wikibooks-fr:blue-lagoon`: Retain remove: both French and Hungarian vodka-Curaçao cocktail recipes.
+- r-118 position 24 `wikibooks-fr:bo-bun`: Retain VN: explicitly Vietnamese beef-vermicelli bowl.
+- r-118 position 25 `wikibooks-fr:bœuf-bourguignon`: Retain FR: Burgundy wine-braised beef; raw supports main-ingredient restoration.
+- r-118 position 27 `wikibooks-fr:bœuf-lôc-lac`: Retain KH/VN: original explicitly gives Cambodia and Vietnam, foreign influences do not add origin countries.
+- r-119 position 1 `wikibooks-fr:bortsch`: Retain UA/RU/PL/BY/LT: shared beet borscht traditions; Romanian sour-bran soup described separately.
+- r-119 position 2 `wikibooks-fr:bortsch-à-la-crème`: Retain UA/RU/PL/BY/LT: cream addition does not erase shared borscht associations.
+- r-119 position 3 `wikibooks-fr:bossom-caresser`: Retain remove: cognac-Curaçao egg flip drink.
+- r-119 position 5 `wikibooks-fr:bouches-de-dames`: Retain MA: original explicitly Moroccan almond-orange pastries.
+- r-119 position 6 `wikibooks-fr:boudin-créole`: Retain MQ/GP: Antillean Creole blood sausage, prepared food.
+- r-119 position 7 `wikibooks-fr:boudin-noir`: Change: expand boudin noir to BE/CH alongside FR shared blood-sausage tradition.
+- r-119 position 8 `wikibooks-fr:bougnette`: Retain ES/FR: shared Catalan sweet bunyetes, explicitly distinguished from Savoy potato dish.
+- r-119 position 10 `wikibooks-fr:boulet-à-la-liégeoise`: Retain BE: specifically Liège meatballs; sauce is additional source recipe follow-up.
+- r-119 position 17 `wikibooks-fr:boulettes-de-riz-gluant-aux-haricots-rouges`: Retain CN/JP/KR: original explicitly gives China, Japan, Korea for filled glutinous-rice dumplings.
+- r-119 position 19 `wikibooks-fr:bourriol`: Retain FR: named Auvergne buckwheat bourriol.
+- r-119 position 20 `wikibooks-fr:bousale`: Retain FR: explicitly Alsace-Lorraine communal sausage/potato/cheese preparation.
+- r-119 position 21 `wikibooks-fr:brandade-de-morue`: Retain FR/ES: Nîmes/Catalan salt-cod brandade shared association.
+- r-119 position 22 `wikibooks-fr:brandy-egg-nogg`: Retain remove: cognac-egg-milk cocktail.
+- r-119 position 23 `wikibooks-fr:bretzel`: Change: add AT/CH/US to shared pretzel associations alongside DE/FR.
+- r-119 position 24 `wikibooks-fr:bricelets`: Retain CH: specifically Fribourg cream bricelets; industrial photo does not make dish a brand.
+- r-119 position 25 `wikibooks-fr:brioche-vapeur`: Retain CN/JP/VN: original explicitly names baozi, nikuman and bánh bao; supplied raw ends mid filling list.

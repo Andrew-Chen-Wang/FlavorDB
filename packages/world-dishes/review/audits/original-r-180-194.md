@@ -12,7 +12,6 @@ Completed. Each listed target was matched by position and its entire top-level o
 - Position 8, dunai-halászlé: retain HU; Hungarian Danubian fish soup with gyufatészta.
 - Position 9, dunapataji-töltött-káposzta: retain HU; named Dunapataj cabbage preparation with smoked pork and sausage.
 
-
 ## r-181 — complete, 8 targets
 
 - Position 9 egérke: retain HU; Hungarian choux-style fried sweet.

@@ -19,7 +19,8 @@
     "review:apply": "tsx src/normalize/apply-review.ts",
     "review:check": "tsx review/check-verdicts.mts",
     "review:coverage": "tsx review/check-coverage.mts",
-    "review:manifest": "tsx review/build-manifest.mts"
+    "review:manifest": "tsx review/build-manifest.mts",
+    "review:audit-coverage": "tsx review/check-original-audits.mts"
   },
   "dependencies": {},
   "devDependencies": {
