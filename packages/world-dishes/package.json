@@ -17,7 +17,8 @@
     "build-data": "tsx src/normalize/index.ts",
     "import": "pnpm run fetch && pnpm run build-data",
     "review:apply": "tsx src/normalize/apply-review.ts",
-    "review:check": "tsx review/check-verdicts.mts"
+    "review:check": "tsx review/check-verdicts.mts",
+    "review:coverage": "tsx review/check-coverage.mts"
   },
   "dependencies": {},
   "devDependencies": {
