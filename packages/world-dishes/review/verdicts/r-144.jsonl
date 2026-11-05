@@ -1,6 +1,6 @@
 {"id":"wikibooks-fr:screwdriver","verdict":"remove","reason":"cocktail (drink)"}
 {"id":"wikibooks-fr:seitan-aux-topinambours","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSeitan_aux_topinambours","status":"ok"}]}
-{"id":"wikibooks-fr:sevillana","verdict":"keep","countries":["CO"],"reason":"added countries (Colombia, Huila); recipe method was missing","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FSevillana","status":"fixed","reason":"extracted steps only had the serving line; method missing","ingredients":["1 litre de lait de vache,","400 grammes de sucre en poudre ordinaire,","100 grammes de farine pâtissière,","4 œufs entiers,","un zeste de citron,","un copeau de cannelle."],"steps":["Faire bouillir le lait avec le zeste de citron et le copeau de canelle,","Arrêter l'ébullition et ajouter le sucre, la farine, les œufs entiers préalablement mélangés dans un bol, un par un.","Porter le nouveau mélange à ébullition, en le remuant avec une palette en bois.","Conserver au réfrigérateur et allonger avec du lait quand la crème s'épaissit."]}]}
+{"id":"wikibooks-fr:sevillana","verdict":"remove","reason":"Second opinion: Sevillana is a Colombian Huila milk beverage, not a plated dessert; drinks are outside dish scope."}
 {"id":"wikibooks-fr:sex-on-the-beach","verdict":"remove","reason":"cocktail (drink)"}
 {"id":"wikibooks-fr:shirley-temple","verdict":"remove","reason":"non-alcoholic cocktail (drink)"}
 {"id":"wikibooks-fr:side-car","verdict":"remove","reason":"cocktail (drink)"}
