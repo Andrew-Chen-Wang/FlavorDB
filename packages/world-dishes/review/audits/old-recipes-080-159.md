@@ -27,3 +27,4 @@ Original batch raw sources are unavailable. This audit reads every remove/countr
 - r-102: audited all 18 remove/countries targets. Added Ecuador to humitas; cleared generic lamb shanks, boiled lobster and tongue with carrots. Four beverage removals upheld.
 - r-103: audited all 16 remove/countries targets. Cleared personal lentil recipe country; expanded langar dal and corn locro to shared national ties. Coca-pisco infusion removal upheld.
 - r-104: audited all 21 remove/countries targets. Cleared three generic preparations; expanded marmitako and quince paste to shared ties. Masato and tereré beverage removals upheld.
+- r-105: audited all 26 remove/countries targets. No changes: Spanish migas variants, named regional stews and sweets, and inclusive moussaka attribution upheld; six beverage removals upheld.
