@@ -12,3 +12,4 @@ Original batch raw sources are unavailable. This audit reads every remove/countr
 - r-087: audited all 12 remove/countries targets. Expanded tzatziki/cacık to Turkey and Cyprus alongside Greece.
 - r-088: audited all 7 remove/countries targets. No changes.
 - r-089: audited all 27 remove/countries targets. Cleared generic herb oils and artichokes in oil/vinegar; expanded garrapiñadas to common Latin American associations.
+- r-090: audited all 20 countries targets. Cleared Guatemala for generic baked rice with corn; prior rationale relied only on cookbook categorization.
