@@ -35,3 +35,4 @@ Original batch raw sources are unavailable. This audit reads every remove/countr
 - r-110: audited all 24 remove/countries targets. Expanded provoleta and octopus in ink to omitted common ties. Nine beverage removals upheld, including finished grenadine soda (distinct from syrup). Quinoa milk removal retained on original explicit beverage description, with raw unavailable.
 - r-111: audited all 26 remove/countries targets. Cleared generic empanadilla filling; expanded porteño risotto and sushi roll ties. Three beverage removals upheld; preexisting unusable sushi recipe drop retained.
 - r-112: audited all 15 remove/countries targets. Corrected sauce américaine to France; expanded aioli and salbutes; cleared generic hazelnut sauce. Wine drink removal upheld.
+- r-113: audited all 18 remove/countries targets. Cleared generic onion sardines; expanded chorba and fuchifu to shared ties. Pisco cocktail removal upheld.
