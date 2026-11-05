@@ -1,0 +1,300 @@
+{"id":"Q31836003","verdict":"keep"}
+{"id":"Q31837365","verdict":"keep","countries":["IE"],"reason":"countries empty; Irish food"}
+{"id":"Q31838053","verdict":"keep","countries":["DE"],"reason":"countries empty; Düsseldorf dish"}
+{"id":"Q31839671","verdict":"keep","countries":["DE"],"reason":"countries empty; German soup"}
+{"id":"Q31840656","verdict":"keep","countries":["DE"],"reason":"countries empty; German sausage"}
+{"id":"Q31843329","verdict":"keep"}
+{"id":"Q31883707","verdict":"remove","reason":"category page (dishes of Chile), not one dish"}
+{"id":"Q31884780","verdict":"keep"}
+{"id":"Q31886692","verdict":"keep"}
+{"id":"Q31888072","verdict":"keep","countries":["SE"],"reason":"countries empty; Swedish cookie"}
+{"id":"Q31888154","verdict":"keep"}
+{"id":"Q31892497","verdict":"keep","countries":["SE"],"reason":"countries empty; Swedish bread"}
+{"id":"Q31896543","verdict":"keep"}
+{"id":"Q31898202","verdict":"keep","countries":["SE"],"reason":"countries empty; Swedish dish"}
+{"id":"Q3191108","verdict":"keep"}
+{"id":"Q3191139","verdict":"keep"}
+{"id":"Q3191665","verdict":"remove","reason":"raw ingredient (baby carrot product), not a dish"}
+{"id":"Q3192044","verdict":"keep"}
+{"id":"Q3192094","verdict":"keep"}
+{"id":"Q3192476","verdict":"keep"}
+{"id":"Q31930768","verdict":"remove","reason":"category (Easter candy in general), not one dish"}
+{"id":"Q319435","verdict":"keep"}
+{"id":"Q3194656","verdict":"keep"}
+{"id":"Q3195568","verdict":"keep"}
+{"id":"Q3196097","verdict":"keep"}
+{"id":"Q3196927","verdict":"keep"}
+{"id":"Q3197476","verdict":"keep"}
+{"id":"Q3198369","verdict":"keep"}
+{"id":"Q3200265","verdict":"keep"}
+{"id":"Q3201055","verdict":"keep"}
+{"id":"Q3202304","verdict":"keep"}
+{"id":"Q320657","verdict":"keep"}
+{"id":"Q321356","verdict":"keep"}
+{"id":"Q32153719","verdict":"keep"}
+{"id":"Q32164159","verdict":"keep"}
+{"id":"Q3216490","verdict":"keep"}
+{"id":"Q3217743","verdict":"keep"}
+{"id":"Q3217888","verdict":"remove","reason":"raw ingredient (pork fat cube), not a dish"}
+{"id":"Q321797","verdict":"keep"}
+{"id":"Q3220237","verdict":"keep"}
+{"id":"Q3220669","verdict":"keep","countries":["FR"],"reason":"countries empty; French cake"}
+{"id":"Q3221428","verdict":"keep"}
+{"id":"Q3224160","verdict":"keep","countries":["NL"],"reason":"countries empty; Dutch cookie"}
+{"id":"Q322787","verdict":"keep"}
+{"id":"Q3228734","verdict":"keep"}
+{"id":"Q322899","verdict":"keep"}
+{"id":"Q3232406","verdict":"keep"}
+{"id":"Q3232603","verdict":"keep"}
+{"id":"Q3234514","verdict":"keep","countries":["MY"],"reason":"countries empty; Terengganu dish"}
+{"id":"Q3234931","verdict":"keep"}
+{"id":"Q3234952","verdict":"keep"}
+{"id":"Q32360952","verdict":"keep","countries":["RU"],"reason":"countries empty; Chechen dish (Russia)"}
+{"id":"Q32361264","verdict":"keep","countries":["RU"],"reason":"countries empty; Chechen dish (Russia)"}
+{"id":"Q32361667","verdict":"keep"}
+{"id":"Q3236175","verdict":"keep"}
+{"id":"Q3237597","verdict":"keep"}
+{"id":"Q3238238","verdict":"keep"}
+{"id":"Q3239751","verdict":"keep"}
+{"id":"Q3242200","verdict":"keep","countries":["NL"],"reason":"countries empty; Dutch pastry"}
+{"id":"Q3243732","verdict":"keep"}
+{"id":"Q3243750","verdict":"keep"}
+{"id":"Q3244647","verdict":"keep"}
+{"id":"Q32460459","verdict":"keep"}
+{"id":"Q3246340","verdict":"keep"}
+{"id":"Q3246820","verdict":"keep"}
+{"id":"Q3247788","verdict":"keep"}
+{"id":"Q3250451","verdict":"keep"}
+{"id":"Q3257494","verdict":"keep"}
+{"id":"Q325765","verdict":"keep"}
+{"id":"Q32585145","verdict":"keep"}
+{"id":"Q3258743","verdict":"keep"}
+{"id":"Q3260142","verdict":"keep","countries":["FR"],"reason":"countries empty; French pastry"}
+{"id":"Q3260187","verdict":"keep"}
+{"id":"Q3269362","verdict":"keep"}
+{"id":"Q3269618","verdict":"keep"}
+{"id":"Q3269818","verdict":"keep"}
+{"id":"Q3270102","verdict":"keep"}
+{"id":"Q3270149","verdict":"keep"}
+{"id":"Q3271515","verdict":"keep"}
+{"id":"Q3272159","verdict":"remove","reason":"category (confectionery of the Indian subcontinent in general), not one dish"}
+{"id":"Q3272179","verdict":"keep"}
+{"id":"Q3272827","verdict":"keep"}
+{"id":"Q3272930","verdict":"keep"}
+{"id":"Q3273096","verdict":"keep"}
+{"id":"Q3273642","verdict":"keep"}
+{"id":"Q3273854","verdict":"keep"}
+{"id":"Q3273951","verdict":"keep"}
+{"id":"Q3273961","verdict":"keep"}
+{"id":"Q3274058","verdict":"keep"}
+{"id":"Q3274068","verdict":"keep","countries":["FR"],"reason":"countries empty; Amiens macaron"}
+{"id":"Q3274070","verdict":"keep","countries":["FR"],"reason":"countries empty; French macaron"}
+{"id":"Q3274072","verdict":"keep","countries":["FR"],"reason":"countries empty; French (Occitan) dish"}
+{"id":"Q3274091","verdict":"keep"}
+{"id":"Q3274645","verdict":"keep"}
+{"id":"Q3275270","verdict":"keep"}
+{"id":"Q3275558","verdict":"keep"}
+{"id":"Q3275692","verdict":"keep"}
+{"id":"Q3275951","verdict":"keep"}
+{"id":"Q32759803","verdict":"keep"}
+{"id":"Q3276660","verdict":"keep"}
+{"id":"Q3277405","verdict":"keep"}
+{"id":"Q3278369","verdict":"keep"}
+{"id":"Q3280441","verdict":"keep"}
+{"id":"Q3281551","verdict":"keep"}
+{"id":"Q3281619","verdict":"keep"}
+{"id":"Q328178","verdict":"keep"}
+{"id":"Q3282218","verdict":"keep"}
+{"id":"Q3286616","verdict":"keep"}
+{"id":"Q3287467","verdict":"remove","reason":"branded packaged product (Mars chocolate bar)"}
+{"id":"Q32890","verdict":"keep","countries":["HK"],"reason":"countries empty; Hong Kong dish"}
+{"id":"Q3290483","verdict":"keep"}
+{"id":"Q329052","verdict":"keep"}
+{"id":"Q3292757","verdict":"keep"}
+{"id":"Q3293380","verdict":"remove","reason":"tradition (eating twelve grapes at New Year), not a dish"}
+{"id":"Q3294501","verdict":"keep"}
+{"id":"Q32945376","verdict":"keep"}
+{"id":"Q3295382","verdict":"keep"}
+{"id":"Q3296567","verdict":"keep"}
+{"id":"Q3296648","verdict":"keep"}
+{"id":"Q3296760","verdict":"keep"}
+{"id":"Q3297247","verdict":"keep"}
+{"id":"Q3297569","verdict":"keep","countries":["FR"],"reason":"countries empty; French cake"}
+{"id":"Q32977","verdict":"keep"}
+{"id":"Q3298417","verdict":"keep"}
+{"id":"Q3298630","verdict":"keep"}
+{"id":"Q32996302","verdict":"keep"}
+{"id":"Q3301197","verdict":"keep","countries":["GB"],"reason":"countries empty; Scottish chip shop dish"}
+{"id":"Q3301328","verdict":"keep"}
+{"id":"Q3301336","verdict":"keep"}
+{"id":"Q3302944","verdict":"keep"}
+{"id":"Q3303492","verdict":"keep","countries":["DZ"],"reason":"countries empty; Algerian cake"}
+{"id":"Q3303725","verdict":"keep"}
+{"id":"Q3304394","verdict":"keep"}
+{"id":"Q3304590","verdict":"keep"}
+{"id":"Q3305189","verdict":"keep"}
+{"id":"Q3306566","verdict":"keep","countries":["ES"],"reason":"countries empty; Basque dish"}
+{"id":"Q3306574","verdict":"keep"}
+{"id":"Q3307812","verdict":"keep"}
+{"id":"Q3307839","verdict":"keep"}
+{"id":"Q3308312","verdict":"keep"}
+{"id":"Q33084088","verdict":"remove","reason":"overview of the pizza industry, not a dish"}
+{"id":"Q3309212","verdict":"keep"}
+{"id":"Q3312252","verdict":"keep"}
+{"id":"Q3312636","verdict":"keep"}
+{"id":"Q3312775","verdict":"keep"}
+{"id":"Q3312777","verdict":"keep"}
+{"id":"Q3312779","verdict":"keep"}
+{"id":"Q3312825","verdict":"keep"}
+{"id":"Q3313106","verdict":"keep"}
+{"id":"Q33144185","verdict":"keep","countries":["DE"],"reason":"countries empty; German bread"}
+{"id":"Q3314532","verdict":"keep"}
+{"id":"Q3314588","verdict":"keep"}
+{"id":"Q3314757","verdict":"keep"}
+{"id":"Q3315724","verdict":"keep"}
+{"id":"Q3316075","verdict":"keep"}
+{"id":"Q3316076","verdict":"keep"}
+{"id":"Q3316163","verdict":"keep","countries":["FR"],"reason":"countries empty; French beef dish"}
+{"id":"Q3316250","verdict":"keep"}
+{"id":"Q3317001","verdict":"keep"}
+{"id":"Q3317405","verdict":"keep"}
+{"id":"Q3317412","verdict":"keep"}
+{"id":"Q3318218","verdict":"keep"}
+{"id":"Q3319470","verdict":"keep"}
+{"id":"Q3322531","verdict":"keep"}
+{"id":"Q3323782","verdict":"keep"}
+{"id":"Q3323829","verdict":"keep"}
+{"id":"Q3325555","verdict":"keep"}
+{"id":"Q3325957","verdict":"keep"}
+{"id":"Q332609","verdict":"keep"}
+{"id":"Q3326257","verdict":"keep"}
+{"id":"Q3326726","verdict":"keep"}
+{"id":"Q3327283","verdict":"keep"}
+{"id":"Q3327301","verdict":"keep"}
+{"id":"Q3328358","verdict":"remove","reason":"dietary supplement product, not a dish"}
+{"id":"Q3330699","verdict":"keep"}
+{"id":"Q3331341","verdict":"remove","reason":"cooking method (guiso), not a dish"}
+{"id":"Q3332648","verdict":"keep","countries":["ES"],"reason":"countries empty; Galician sausage"}
+{"id":"Q3334037","verdict":"keep","countries":["RO"],"reason":"countries empty; Romanian dish"}
+{"id":"Q3341250","verdict":"keep"}
+{"id":"Q3341335","verdict":"keep"}
+{"id":"Q3342000","verdict":"keep","countries":["FR"],"reason":"countries empty; Quiberon candy"}
+{"id":"Q3342362","verdict":"keep"}
+{"id":"Q3344796","verdict":"keep"}
+{"id":"Q3344838","verdict":"keep"}
+{"id":"Q3346426","verdict":"keep","countries":["IN"],"reason":"countries empty; Indian fried flatbread"}
+{"id":"Q3347905","verdict":"keep"}
+{"id":"Q3348124","verdict":"keep"}
+{"id":"Q3348137","verdict":"keep"}
+{"id":"Q334891","verdict":"keep"}
+{"id":"Q3349224","verdict":"keep"}
+{"id":"Q3349241","verdict":"keep"}
+{"id":"Q3349340","verdict":"keep"}
+{"id":"Q3349987","verdict":"keep"}
+{"id":"Q3350588","verdict":"keep"}
+{"id":"Q3350783","verdict":"keep"}
+{"id":"Q3351982","verdict":"keep"}
+{"id":"Q3351983","verdict":"keep","countries":["FR"],"reason":"countries empty; French omelette"}
+{"id":"Q3355025","verdict":"keep","countries":["FR"],"reason":"countries empty; French viennoiserie"}
+{"id":"Q335626","verdict":"keep"}
+{"id":"Q3356613","verdict":"keep"}
+{"id":"Q3356849","verdict":"keep"}
+{"id":"Q3357405","verdict":"keep"}
+{"id":"Q3357568","verdict":"keep"}
+{"id":"Q3357698","verdict":"keep"}
+{"id":"Q3358516","verdict":"keep"}
+{"id":"Q3359952","verdict":"keep"}
+{"id":"Q336039","verdict":"keep"}
+{"id":"Q3360448","verdict":"keep"}
+{"id":"Q3360555","verdict":"keep"}
+{"id":"Q3360560","verdict":"keep"}
+{"id":"Q3360569","verdict":"keep"}
+{"id":"Q3360576","verdict":"keep","countries":["FR"],"reason":"countries empty; Reims gingerbread"}
+{"id":"Q3360592","verdict":"keep","countries":["ES"],"reason":"countries empty; Catalan bread"}
+{"id":"Q3360595","verdict":"keep"}
+{"id":"Q3360600","verdict":"keep"}
+{"id":"Q3360605","verdict":"keep"}
+{"id":"Q3360607","verdict":"keep"}
+{"id":"Q3360757","verdict":"keep"}
+{"id":"Q3361376","verdict":"keep"}
+{"id":"Q3361383","verdict":"keep","countries":["FR"],"reason":"countries empty; Breton biscuit"}
+{"id":"Q3361960","verdict":"keep"}
+{"id":"Q3362039","verdict":"keep"}
+{"id":"Q3362088","verdict":"keep"}
+{"id":"Q3362159","verdict":"keep","countries":["IT","FR"],"reason":"Panisse is commonly said to belong to Liguria and Provence/Nice"}
+{"id":"Q3362935","verdict":"keep"}
+{"id":"Q3362937","verdict":"keep"}
+{"id":"Q3365433","verdict":"keep"}
+{"id":"Q3368439","verdict":"keep"}
+{"id":"Q3368446","verdict":"keep"}
+{"id":"Q3368469","verdict":"keep"}
+{"id":"Q3368487","verdict":"keep"}
+{"id":"Q3368619","verdict":"keep"}
+{"id":"Q3368845","verdict":"keep","countries":["FR"],"reason":"countries empty; French rural dish"}
+{"id":"Q33691","verdict":"keep"}
+{"id":"Q3370171","verdict":"keep","countries":["SE"],"reason":"countries empty; Scanian dish"}
+{"id":"Q3371467","verdict":"keep"}
+{"id":"Q3373858","verdict":"keep"}
+{"id":"Q3376915","verdict":"keep"}
+{"id":"Q3377165","verdict":"keep"}
+{"id":"Q3377698","verdict":"keep"}
+{"id":"Q3377925","verdict":"keep","countries":["FR"],"reason":"countries empty; French potato dish"}
+{"id":"Q3378248","verdict":"keep","countries":["DK"],"reason":"countries empty; Danish candy"}
+{"id":"Q3378936","verdict":"keep"}
+{"id":"Q3379588","verdict":"keep"}
+{"id":"Q3380255","verdict":"keep"}
+{"id":"Q338205","verdict":"keep"}
+{"id":"Q3382152","verdict":"keep"}
+{"id":"Q338242","verdict":"keep"}
+{"id":"Q3382504","verdict":"keep","countries":["NL"],"reason":"countries empty; Zeeland dish"}
+{"id":"Q3382650","verdict":"keep"}
+{"id":"Q3388348","verdict":"keep"}
+{"id":"Q3388655","verdict":"keep"}
+{"id":"Q3389074","verdict":"keep"}
+{"id":"Q3389085","verdict":"remove","reason":"drink (low-alcohol wine beverage), not a dish"}
+{"id":"Q3389247","verdict":"keep","countries":["FR"],"reason":"countries empty; Niçois condiment"}
+{"id":"Q3389336","verdict":"keep"}
+{"id":"Q3389508","verdict":"keep"}
+{"id":"Q3391081","verdict":"keep"}
+{"id":"Q3391174","verdict":"keep"}
+{"id":"Q3391647","verdict":"keep"}
+{"id":"Q3392878","verdict":"keep"}
+{"id":"Q3393782","verdict":"keep"}
+{"id":"Q3393785","verdict":"keep","countries":["FR"],"reason":"wrong extra country (ES); French dessert"}
+{"id":"Q3393853","verdict":"keep"}
+{"id":"Q3393902","verdict":"remove","reason":"bell pepper variety (vegetable cultivar), not a dish"}
+{"id":"Q3394588","verdict":"keep"}
+{"id":"Q3396004","verdict":"keep"}
+{"id":"Q3396050","verdict":"keep"}
+{"id":"Q3396054","verdict":"keep"}
+{"id":"Q3396176","verdict":"keep"}
+{"id":"Q3396229","verdict":"keep"}
+{"id":"Q3396255","verdict":"keep"}
+{"id":"Q3396335","verdict":"keep"}
+{"id":"Q3397139","verdict":"keep"}
+{"id":"Q33977139","verdict":"keep"}
+{"id":"Q3398148","verdict":"keep"}
+{"id":"Q339836","verdict":"keep"}
+{"id":"Q3398625","verdict":"keep"}
+{"id":"Q3399210","verdict":"keep"}
+{"id":"Q3399960","verdict":"keep","countries":["FR"],"reason":"countries empty; French potato dish"}
+{"id":"Q3400143","verdict":"keep","countries":["FR"],"reason":"countries empty; French potée"}
+{"id":"Q3400256","verdict":"keep"}
+{"id":"Q3400309","verdict":"keep","countries":["US"],"reason":"countries empty; American dish"}
+{"id":"Q3400315","verdict":"keep"}
+{"id":"Q3400317","verdict":"keep"}
+{"id":"Q3400348","verdict":"keep"}
+{"id":"Q3400745","verdict":"keep"}
+{"id":"Q3400746","verdict":"keep"}
+{"id":"Q3400757","verdict":"keep"}
+{"id":"Q3401127","verdict":"keep","countries":["FR"],"reason":"countries empty; French potato dish"}
+{"id":"Q3404227","verdict":"keep","countries":["FR"],"reason":"countries empty; Corsican ham"}
+{"id":"Q3407661","verdict":"keep"}
+{"id":"Q3410675","verdict":"keep"}
+{"id":"Q3411001","verdict":"remove","reason":"packaged/instant product category (dehydrated mashed potatoes), not a dish"}
+{"id":"Q3411523","verdict":"keep"}
+{"id":"Q3411524","verdict":"keep","countries":["FR"],"reason":"countries empty; Amiens pâté"}
+{"id":"Q3411531","verdict":"keep"}
+{"id":"Q3411532","verdict":"keep"}
+{"id":"Q3411536","verdict":"keep","countries":["FR"],"reason":"countries empty; Lorraine pâté"}
+{"id":"Q3412160","verdict":"keep","countries":["FR"],"reason":"countries empty; French fish stew"}

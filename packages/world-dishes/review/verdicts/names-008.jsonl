@@ -1,0 +1,300 @@
+{"id":"Q109436308","verdict":"keep","countries":["ID"],"reason":"added country: Indonesian gulai"}
+{"id":"Q109436407","verdict":"keep"}
+{"id":"Q109436498","verdict":"keep"}
+{"id":"Q109436536","verdict":"remove","reason":"brand of instant noodles (Hao Hao)"}
+{"id":"Q109438515","verdict":"keep"}
+{"id":"Q109439271","verdict":"keep"}
+{"id":"Q109439272","verdict":"keep","countries":["ID"],"reason":"added country: Indonesian dish"}
+{"id":"Q109439830","verdict":"keep"}
+{"id":"Q109440318","verdict":"keep"}
+{"id":"Q109440360","verdict":"keep","countries":["ID"],"reason":"added country: Demak, Java"}
+{"id":"Q109441388","verdict":"keep","countries":["ID"],"reason":"added country: Indonesian gulai"}
+{"id":"Q109441389","verdict":"keep"}
+{"id":"Q109453166","verdict":"keep"}
+{"id":"Q109456534","verdict":"keep"}
+{"id":"Q109459856","verdict":"keep"}
+{"id":"Q109460667","verdict":"keep"}
+{"id":"Q10946121","verdict":"keep","countries":["CN"],"reason":"added country: Chinese lamb dish"}
+{"id":"Q1094882","verdict":"keep"}
+{"id":"Q109497393","verdict":"keep"}
+{"id":"Q109502070","verdict":"keep"}
+{"id":"Q109519912","verdict":"keep"}
+{"id":"Q10952583","verdict":"keep"}
+{"id":"Q1095315","verdict":"keep","countries":["LB","SY"],"reason":"added countries: Levantine garlic sauce"}
+{"id":"Q109532998","verdict":"keep","countries":["TR"],"reason":"added country: Turkish fish soup"}
+{"id":"Q109533885","verdict":"keep","countries":["KR"],"reason":"added country: Korean fried chicken"}
+{"id":"Q109536261","verdict":"keep"}
+{"id":"Q109539600","verdict":"keep","countries":["GB"],"reason":"added country: English lamprey pie"}
+{"id":"Q10954885","verdict":"keep"}
+{"id":"Q109558070","verdict":"keep","countries":["KR"],"reason":"country IE was wrong; croffle is a South Korean dessert"}
+{"id":"Q109569010","verdict":"keep","countries":["TH"],"reason":"added country: Thai appetizer"}
+{"id":"Q109569034","verdict":"keep"}
+{"id":"Q109587599","verdict":"keep"}
+{"id":"Q109596034","verdict":"keep","countries":["JP"],"reason":"added country: Japanese wagashi"}
+{"id":"Q109596124","verdict":"keep","countries":["TW"],"reason":"added country: Taiwanese donut"}
+{"id":"Q109596277","verdict":"keep","countries":["IT"],"reason":"added country: Bolognese lasagne"}
+{"id":"Q109596821","verdict":"keep","countries":["JP"],"reason":"added country: Japanese mochi"}
+{"id":"Q109598159","verdict":"keep","countries":["JP"],"reason":"added country: Isahaya okoshi"}
+{"id":"Q109598332","verdict":"keep"}
+{"id":"Q109598458","verdict":"keep","countries":["JP"],"reason":"added country: Japanese wagashi"}
+{"id":"Q109601782","verdict":"keep"}
+{"id":"Q109602737","verdict":"keep"}
+{"id":"Q109602739","verdict":"keep"}
+{"id":"Q109602746","verdict":"keep","countries":["JP"],"reason":"added country: Japanese tempura"}
+{"id":"Q109604400","verdict":"keep","countries":["RU"],"reason":"added country: Russian egg porridge"}
+{"id":"Q109611860","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}
+{"id":"Q109611888","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}
+{"id":"Q109615251","verdict":"keep"}
+{"id":"Q109616822","verdict":"keep"}
+{"id":"Q109630376","verdict":"keep"}
+{"id":"Q109645027","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}
+{"id":"Q109645225","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}
+{"id":"Q10964995","verdict":"keep"}
+{"id":"Q109659136","verdict":"keep","countries":["JP"],"reason":"added country: Japanese ramen"}
+{"id":"Q109664551","verdict":"keep","countries":["JP"],"reason":"added country: Japanese rice dish"}
+{"id":"Q109667967","verdict":"keep"}
+{"id":"Q109668004","verdict":"keep"}
+{"id":"Q10969752","verdict":"keep","countries":["PL"],"reason":"added country: Polish candy"}
+{"id":"Q10971166","verdict":"keep"}
+{"id":"Q10973598","verdict":"keep","countries":["GB"],"reason":"added country: Scottish hotch potch"}
+{"id":"Q10976640","verdict":"keep","countries":["ES"],"reason":"added country: Basque pastry"}
+{"id":"Q109771488","verdict":"keep","countries":["KR"],"reason":"added country: Korean guk"}
+{"id":"Q10978475","verdict":"keep"}
+{"id":"Q109801608","verdict":"keep"}
+{"id":"Q109820549","verdict":"keep"}
+{"id":"Q109827446","verdict":"keep"}
+{"id":"Q10986174","verdict":"keep"}
+{"id":"Q109866","verdict":"keep"}
+{"id":"Q10987","verdict":"remove","reason":"raw food ingredient (honey), not a dish"}
+{"id":"Q109876240","verdict":"keep"}
+{"id":"Q109886659","verdict":"keep"}
+{"id":"Q10989778","verdict":"keep"}
+{"id":"Q109913747","verdict":"keep"}
+{"id":"Q109914555","verdict":"keep"}
+{"id":"Q109920940","verdict":"keep"}
+{"id":"Q109950188","verdict":"keep"}
+{"id":"Q10997735","verdict":"keep"}
+{"id":"Q110042427","verdict":"keep"}
+{"id":"Q110056303","verdict":"keep"}
+{"id":"Q110061263","verdict":"keep"}
+{"id":"Q110081689","verdict":"keep"}
+{"id":"Q110101486","verdict":"keep","countries":["ID"],"reason":"added country: Indonesian takjil"}
+{"id":"Q110104063","verdict":"keep","countries":["AZ"],"reason":"added country: Azerbaijani pastry"}
+{"id":"Q1101046","verdict":"keep"}
+{"id":"Q110108640","verdict":"keep","countries":["AZ"],"reason":"added country: Azerbaijani pastry"}
+{"id":"Q110115559","verdict":"keep","countries":["KR"],"reason":"added country: Korean guk"}
+{"id":"Q110117776","verdict":"keep","countries":["KR"],"reason":"added country: Korean jeotgal"}
+{"id":"Q110122147","verdict":"keep"}
+{"id":"Q110126962","verdict":"keep"}
+{"id":"Q110127742","verdict":"keep"}
+{"id":"Q110129212","verdict":"keep"}
+{"id":"Q110132849","verdict":"keep","countries":["UA","RU"],"reason":"added countries: Crimean Tatar pie"}
+{"id":"Q110133485","verdict":"keep"}
+{"id":"Q110134687","verdict":"keep"}
+{"id":"Q110134698","verdict":"keep"}
+{"id":"Q110144660","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}
+{"id":"Q110146538","verdict":"keep"}
+{"id":"Q11017447","verdict":"keep"}
+{"id":"Q110189370","verdict":"keep","countries":["ES"],"reason":"added country: Basque dessert"}
+{"id":"Q110215765","verdict":"keep","countries":["GR"],"reason":"added country: Greek dish"}
+{"id":"Q110220935","verdict":"keep"}
+{"id":"Q1102230","verdict":"keep"}
+{"id":"Q110253542","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}
+{"id":"Q110253556","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}
+{"id":"Q110253565","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}
+{"id":"Q110255436","verdict":"keep"}
+{"id":"Q110256340","verdict":"keep"}
+{"id":"Q110256900","verdict":"keep"}
+{"id":"Q110263128","verdict":"keep"}
+{"id":"Q110273315","verdict":"keep"}
+{"id":"Q110273622","verdict":"keep"}
+{"id":"Q110273642","verdict":"keep"}
+{"id":"Q110273646","verdict":"keep"}
+{"id":"Q110276382","verdict":"remove","reason":"category (street food in Nigeria), not one dish"}
+{"id":"Q110277636","verdict":"keep"}
+{"id":"Q110279244","verdict":"keep"}
+{"id":"Q110279308","verdict":"keep"}
+{"id":"Q110282413","verdict":"keep"}
+{"id":"Q110293006","verdict":"keep","countries":["SE"],"reason":"added country: Swedish pie"}
+{"id":"Q110301589","verdict":"keep"}
+{"id":"Q110362900","verdict":"keep"}
+{"id":"Q110419691","verdict":"keep"}
+{"id":"Q110424383","verdict":"keep","countries":["IT"],"reason":"added country: Italian pasta preparation"}
+{"id":"Q110426863","verdict":"keep"}
+{"id":"Q110427128","verdict":"keep","countries":["GR","TR"],"reason":"added countries: dolmades"}
+{"id":"Q1104399","verdict":"keep"}
+{"id":"Q110448601","verdict":"keep"}
+{"id":"Q110456412","verdict":"keep"}
+{"id":"Q1104577","verdict":"keep"}
+{"id":"Q1104585","verdict":"keep"}
+{"id":"Q11045882","verdict":"keep"}
+{"id":"Q110460981","verdict":"keep"}
+{"id":"Q110469197","verdict":"keep"}
+{"id":"Q110474734","verdict":"keep","countries":["FR"],"reason":"added country: French potage"}
+{"id":"Q110498955","verdict":"keep","countries":["NL"],"reason":"added country: Dutch cookie"}
+{"id":"Q110502590","verdict":"keep"}
+{"id":"Q1105083","verdict":"keep"}
+{"id":"Q1105215","verdict":"keep"}
+{"id":"Q1105318","verdict":"remove","reason":"drink (cocktail), not a dish"}
+{"id":"Q110533119","verdict":"keep"}
+{"id":"Q110536414","verdict":"keep"}
+{"id":"Q1105503","verdict":"keep"}
+{"id":"Q1105512","verdict":"keep"}
+{"id":"Q110557555","verdict":"remove","reason":"category (Italian meat and sausage products), not one dish"}
+{"id":"Q110577413","verdict":"keep"}
+{"id":"Q110584431","verdict":"keep"}
+{"id":"Q11060059","verdict":"keep","countries":["DE"],"reason":"added country: Sorbian dish"}
+{"id":"Q110611118","verdict":"remove","reason":"ingredient (bread crust), not a dish"}
+{"id":"Q110611180","verdict":"remove","reason":"ingredient (breadcrumbs), not a dish"}
+{"id":"Q110611288","verdict":"keep"}
+{"id":"Q110611289","verdict":"remove","reason":"intermediate ingredient (egg milk), not a dish"}
+{"id":"Q110612942","verdict":"keep"}
+{"id":"Q11061604","verdict":"keep"}
+{"id":"Q11062733","verdict":"keep"}
+{"id":"Q110627904","verdict":"keep","countries":["RU"],"reason":"added country: Russian mash"}
+{"id":"Q1106345","verdict":"keep","countries":["IT"],"reason":"country FR was wrong; porchetta is Italian"}
+{"id":"Q110647160","verdict":"keep"}
+{"id":"Q110651436","verdict":"keep","countries":["NL"],"reason":"added country: Groningen soup"}
+{"id":"Q110655684","verdict":"remove","reason":"chain-restaurant menu item (burger shop)"}
+{"id":"Q11065810","verdict":"keep"}
+{"id":"Q110664680","verdict":"keep"}
+{"id":"Q11066473","verdict":"keep"}
+{"id":"Q110693434","verdict":"keep","countries":["IQ","IR"],"reason":"added countries: Mandaean flatbread"}
+{"id":"Q110701994","verdict":"keep","countries":["DE"],"reason":"added country: German schnitzel"}
+{"id":"Q110702204","verdict":"remove","reason":"raw fruit, not a dish"}
+{"id":"Q110730621","verdict":"remove","reason":"company, not a dish"}
+{"id":"Q1107324","verdict":"keep"}
+{"id":"Q110738684","verdict":"keep"}
+{"id":"Q110738704","verdict":"keep"}
+{"id":"Q110745670","verdict":"keep"}
+{"id":"Q110749148","verdict":"keep","countries":["DE"],"reason":"added country: German schnitzel"}
+{"id":"Q11075630","verdict":"keep","countries":["CN"],"reason":"added country: Chinese wonton skin dish"}
+{"id":"Q11076102","verdict":"keep"}
+{"id":"Q11076619","verdict":"keep"}
+{"id":"Q110768007","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}
+{"id":"Q11076814","verdict":"keep","countries":["CN"],"reason":"added country: Chinese food"}
+{"id":"Q11077259","verdict":"keep"}
+{"id":"Q110776121","verdict":"keep"}
+{"id":"Q11078065","verdict":"keep"}
+{"id":"Q11078498","verdict":"keep"}
+{"id":"Q11078597","verdict":"keep"}
+{"id":"Q11079928","verdict":"keep"}
+{"id":"Q110800802","verdict":"keep"}
+{"id":"Q110821764","verdict":"keep"}
+{"id":"Q1108310","verdict":"keep","countries":["CN"],"reason":"added country: Chinese appetizer"}
+{"id":"Q110831239","verdict":"keep"}
+{"id":"Q110834503","verdict":"keep","countries":["VN"],"reason":"added country: Vietnamese bánh"}
+{"id":"Q110834778","verdict":"keep"}
+{"id":"Q110834827","verdict":"keep"}
+{"id":"Q11085987","verdict":"keep","countries":["CN"],"reason":"added country: Chinese pork rib dish"}
+{"id":"Q11087090","verdict":"keep"}
+{"id":"Q110880257","verdict":"keep","countries":["FR"],"reason":"added country: French escargot dish"}
+{"id":"Q110885312","verdict":"keep"}
+{"id":"Q110885432","verdict":"keep","countries":["JP"],"reason":"added country: Japanese confection"}
+{"id":"Q1108866","verdict":"keep"}
+{"id":"Q110887633","verdict":"keep"}
+{"id":"Q110889230","verdict":"keep"}
+{"id":"Q110891687","verdict":"keep"}
+{"id":"Q110894306","verdict":"keep"}
+{"id":"Q110910093","verdict":"keep"}
+{"id":"Q110910147","verdict":"keep","countries":["BW"],"reason":"added country: Botswana dish"}
+{"id":"Q11091874","verdict":"keep"}
+{"id":"Q110920147","verdict":"keep","countries":["ES"],"reason":"added country: Catalan cake"}
+{"id":"Q110924259","verdict":"keep"}
+{"id":"Q11093486","verdict":"keep"}
+{"id":"Q110945408","verdict":"keep"}
+{"id":"Q110953641","verdict":"keep"}
+{"id":"Q110962505","verdict":"keep"}
+{"id":"Q110966095","verdict":"keep"}
+{"id":"Q110977435","verdict":"keep","countries":["IT"],"reason":"added country: Italian focaccia"}
+{"id":"Q11098740","verdict":"keep","countries":["ES"],"reason":"added country: Spanish confection"}
+{"id":"Q1110192","verdict":"keep","countries":["JP"],"reason":"added country: Japanese biscuit"}
+{"id":"Q111019266","verdict":"keep"}
+{"id":"Q111025673","verdict":"keep"}
+{"id":"Q111025980","verdict":"keep"}
+{"id":"Q111032329","verdict":"keep"}
+{"id":"Q11103307","verdict":"keep"}
+{"id":"Q111038870","verdict":"keep"}
+{"id":"Q111040548","verdict":"remove","reason":"article about curry in a region, not a dish recipe"}
+{"id":"Q111040626","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}
+{"id":"Q111046463","verdict":"keep"}
+{"id":"Q111084204","verdict":"keep","countries":["AO"],"reason":"added country: Angolan dish"}
+{"id":"Q11108995","verdict":"remove","reason":"historical military event, not a dish"}
+{"id":"Q111092704","verdict":"keep"}
+{"id":"Q111097996","verdict":"keep","countries":["JP"],"reason":"added country: Kurume yakitori"}
+{"id":"Q11113287","verdict":"keep"}
+{"id":"Q111133655","verdict":"keep"}
+{"id":"Q11114189","verdict":"keep"}
+{"id":"Q111143066","verdict":"keep"}
+{"id":"Q11117465","verdict":"keep"}
+{"id":"Q111182015","verdict":"keep"}
+{"id":"Q111190656","verdict":"keep"}
+{"id":"Q111207593","verdict":"keep","countries":["FR"],"reason":"added country: French biscuit"}
+{"id":"Q111207636","verdict":"keep"}
+{"id":"Q111207981","verdict":"keep","countries":["MA"],"reason":"added country: Moroccan pastry"}
+{"id":"Q111209150","verdict":"keep"}
+{"id":"Q111209158","verdict":"keep"}
+{"id":"Q111210031","verdict":"keep"}
+{"id":"Q111210846","verdict":"keep","countries":["FR"],"reason":"added country: French dish"}
+{"id":"Q111211275","verdict":"keep"}
+{"id":"Q111211710","verdict":"keep"}
+{"id":"Q111211805","verdict":"keep"}
+{"id":"Q111227491","verdict":"keep"}
+{"id":"Q111239919","verdict":"keep","countries":["DE"],"reason":"added country: German dish"}
+{"id":"Q111272426","verdict":"keep"}
+{"id":"Q111283137","verdict":"keep"}
+{"id":"Q11128412","verdict":"keep"}
+{"id":"Q111306412","verdict":"keep","countries":["JP"],"reason":"added country: Japanese norimaki"}
+{"id":"Q111317807","verdict":"keep"}
+{"id":"Q111318005","verdict":"keep"}
+{"id":"Q111329417","verdict":"remove","reason":"packaged instant noodle product (brand line)"}
+{"id":"Q111335689","verdict":"keep"}
+{"id":"Q111356050","verdict":"keep","countries":["JP"],"reason":"added country: Japanese makizushi"}
+{"id":"Q111365597","verdict":"keep"}
+{"id":"Q11137498","verdict":"keep"}
+{"id":"Q111381747","verdict":"keep"}
+{"id":"Q111398890","verdict":"keep"}
+{"id":"Q111398939","verdict":"keep"}
+{"id":"Q11140708","verdict":"keep"}
+{"id":"Q11141042","verdict":"keep"}
+{"id":"Q11142810","verdict":"keep"}
+{"id":"Q111432206","verdict":"keep"}
+{"id":"Q111443336","verdict":"keep"}
+{"id":"Q11144465","verdict":"keep"}
+{"id":"Q111446124","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}
+{"id":"Q111446143","verdict":"keep","countries":["BD","IN"],"reason":"added countries: Bengali cuisine"}
+{"id":"Q1114674","verdict":"keep"}
+{"id":"Q11147805","verdict":"keep"}
+{"id":"Q111494142","verdict":"keep","countries":["JP"],"reason":"added country: Japanese norimaki"}
+{"id":"Q11149430","verdict":"keep","countries":["TW"],"reason":"added country: Taiwanese fish dish"}
+{"id":"Q11151345","verdict":"keep"}
+{"id":"Q111515886","verdict":"keep"}
+{"id":"Q1115198","verdict":"keep"}
+{"id":"Q111524317","verdict":"keep"}
+{"id":"Q11153171","verdict":"keep"}
+{"id":"Q111544307","verdict":"keep"}
+{"id":"Q111551122","verdict":"keep","countries":["DE"],"reason":"added country: German soup"}
+{"id":"Q111575659","verdict":"keep"}
+{"id":"Q111589037","verdict":"keep","countries":["JP"],"reason":"added country: Japanese nimono"}
+{"id":"Q111589124","verdict":"keep"}
+{"id":"Q111604426","verdict":"keep"}
+{"id":"Q111609502","verdict":"keep"}
+{"id":"Q111609577","verdict":"keep","countries":["DE"],"reason":"added country: German pastry"}
+{"id":"Q11161","verdict":"keep"}
+{"id":"Q11162","verdict":"keep"}
+{"id":"Q111628882","verdict":"keep"}
+{"id":"Q111653031","verdict":"keep","countries":["KI"],"reason":"added country: Kiribati food"}
+{"id":"Q111674044","verdict":"keep","countries":["KR"],"reason":"country US was wrong; Korean bead ice cream"}
+{"id":"Q11168485","verdict":"keep"}
+{"id":"Q111687252","verdict":"keep","countries":["ES"],"reason":"added country: Spanish bread"}
+{"id":"Q111705550","verdict":"keep"}
+{"id":"Q111708336","verdict":"keep"}
+{"id":"Q1117173","verdict":"keep"}
+{"id":"Q111724269","verdict":"keep"}
+{"id":"Q11172495","verdict":"keep","countries":["CN"],"reason":"added country: Chinese fish product"}
+{"id":"Q11172505","verdict":"keep","countries":["CN"],"reason":"added country: Chinese dish"}
+{"id":"Q11172760","verdict":"keep","countries":["CN"],"reason":"added country: Chinese fish ball"}
+{"id":"Q11173321","verdict":"keep"}
+{"id":"Q11174346","verdict":"keep","countries":["CN"],"reason":"added country: Shanghainese soup"}
+{"id":"Q11174489","verdict":"keep","countries":["CN"],"reason":"added country: Chinese dish"}
+{"id":"Q111745712","verdict":"keep","countries":["PL"],"reason":"added country: Polish zalewajka"}

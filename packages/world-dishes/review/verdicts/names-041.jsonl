@@ -1,0 +1,300 @@
+{"id":"Q3678805","verdict":"keep"}
+{"id":"Q3678813","verdict":"keep"}
+{"id":"Q36808801","verdict":"keep"}
+{"id":"Q3683263","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3683268","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3683276","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3686985","verdict":"keep"}
+{"id":"Q3686991","verdict":"keep"}
+{"id":"Q3691827","verdict":"keep"}
+{"id":"Q3693169","verdict":"keep"}
+{"id":"Q3694877","verdict":"keep"}
+{"id":"Q3695900","verdict":"keep"}
+{"id":"Q3696330","verdict":"keep"}
+{"id":"Q3696937","verdict":"keep"}
+{"id":"Q3696938","verdict":"keep"}
+{"id":"Q3696942","verdict":"keep"}
+{"id":"Q3696944","verdict":"keep"}
+{"id":"Q3696945","verdict":"keep"}
+{"id":"Q3696961","verdict":"keep"}
+{"id":"Q3696962","verdict":"keep"}
+{"id":"Q3697035","verdict":"keep"}
+{"id":"Q3697331","verdict":"keep"}
+{"id":"Q3699362","verdict":"keep"}
+{"id":"Q3699400","verdict":"keep"}
+{"id":"Q3699535","verdict":"keep"}
+{"id":"Q3699636","verdict":"keep"}
+{"id":"Q3699808","verdict":"keep"}
+{"id":"Q3704951","verdict":"keep","countries":["CN"],"reason":"countries were empty; Nanjing salted duck"}
+{"id":"Q370637","verdict":"keep"}
+{"id":"Q370799","verdict":"keep"}
+{"id":"Q3708874","verdict":"keep"}
+{"id":"Q3711859","verdict":"keep"}
+{"id":"Q3712593","verdict":"keep"}
+{"id":"Q3712594","verdict":"keep"}
+{"id":"Q3712597","verdict":"remove","reason":"generic dessert category, not one dish"}
+{"id":"Q3712615","verdict":"remove","reason":"generic Christmas dessert category, not one dish"}
+{"id":"Q3723098","verdict":"keep"}
+{"id":"Q3723728","verdict":"keep"}
+{"id":"Q37258522","verdict":"keep"}
+{"id":"Q3739612","verdict":"keep"}
+{"id":"Q3739616","verdict":"remove","reason":"flour product (ingredient), not a dish"}
+{"id":"Q3740034","verdict":"keep"}
+{"id":"Q3743152","verdict":"keep"}
+{"id":"Q374381","verdict":"keep","countries":["FR"],"reason":"countries were empty; crème caramel is French"}
+{"id":"Q3744332","verdict":"keep"}
+{"id":"Q3746933","verdict":"keep"}
+{"id":"Q3746935","verdict":"keep"}
+{"id":"Q3746939","verdict":"keep"}
+{"id":"Q3748120","verdict":"keep"}
+{"id":"Q3748124","verdict":"keep"}
+{"id":"Q3748126","verdict":"keep"}
+{"id":"Q3748739","verdict":"keep"}
+{"id":"Q375","verdict":"keep"}
+{"id":"Q3751036","verdict":"keep"}
+{"id":"Q3752306","verdict":"keep"}
+{"id":"Q3752314","verdict":"keep"}
+{"id":"Q3753348","verdict":"keep"}
+{"id":"Q3753375","verdict":"keep"}
+{"id":"Q3753384","verdict":"keep"}
+{"id":"Q3753410","verdict":"keep","countries":["ES"],"reason":"countries were empty; Catalan salad"}
+{"id":"Q3753798","verdict":"keep"}
+{"id":"Q3753920","verdict":"keep"}
+{"id":"Q3753984","verdict":"keep"}
+{"id":"Q3754904","verdict":"keep"}
+{"id":"Q3758209","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3759296","verdict":"keep"}
+{"id":"Q37620661","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian soup"}
+{"id":"Q3772617","verdict":"keep"}
+{"id":"Q3772619","verdict":"keep"}
+{"id":"Q3772620","verdict":"keep"}
+{"id":"Q3772644","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch pastry"}
+{"id":"Q3773300","verdict":"keep"}
+{"id":"Q3773688","verdict":"keep","countries":["MY"],"reason":"countries were empty; Penang prawn noodle soup"}
+{"id":"Q3774491","verdict":"keep"}
+{"id":"Q3775525","verdict":"keep"}
+{"id":"Q377570","verdict":"keep"}
+{"id":"Q3775751","verdict":"keep"}
+{"id":"Q3776096","verdict":"keep"}
+{"id":"Q3776580","verdict":"remove","reason":"honey variety (ingredient), not a dish"}
+{"id":"Q3776725","verdict":"keep"}
+{"id":"Q3776982","verdict":"keep"}
+{"id":"Q3778015","verdict":"keep","countries":["SE"],"reason":"countries were empty; Swedish dish from Norrbotten"}
+{"id":"Q3778467","verdict":"keep"}
+{"id":"Q3782694","verdict":"keep"}
+{"id":"Q378283","verdict":"keep"}
+{"id":"Q37833204","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean dish"}
+{"id":"Q378341","verdict":"keep","countries":["US","GB"],"reason":"macaroni and cheese is commonly claimed by the US as well as GB"}
+{"id":"Q3784816","verdict":"keep","countries":["BE"],"reason":"countries were empty; Herve cheese is Belgian"}
+{"id":"Q3785698","verdict":"keep"}
+{"id":"Q3799069","verdict":"keep"}
+{"id":"Q3802110","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3807565","verdict":"keep"}
+{"id":"Q3814037","verdict":"keep"}
+{"id":"Q3815036","verdict":"keep"}
+{"id":"Q3815416","verdict":"keep"}
+{"id":"Q3815714","verdict":"keep"}
+{"id":"Q3816919","verdict":"keep"}
+{"id":"Q38180229","verdict":"keep"}
+{"id":"Q3820622","verdict":"keep"}
+{"id":"Q3822761","verdict":"keep"}
+{"id":"Q3823327","verdict":"keep"}
+{"id":"Q3823549","verdict":"keep"}
+{"id":"Q3823969","verdict":"keep"}
+{"id":"Q38247716","verdict":"keep"}
+{"id":"Q38247865","verdict":"keep"}
+{"id":"Q3825241","verdict":"keep"}
+{"id":"Q3825584","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3826092","verdict":"keep"}
+{"id":"Q3826183","verdict":"keep"}
+{"id":"Q3826403","verdict":"keep"}
+{"id":"Q3826447","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q382655","verdict":"keep"}
+{"id":"Q38266921","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese smoked fish preparation"}
+{"id":"Q3827309","verdict":"keep"}
+{"id":"Q38276179","verdict":"remove","reason":"packaged branded ice cream product, not a dish"}
+{"id":"Q38277888","verdict":"keep"}
+{"id":"Q3827928","verdict":"keep"}
+{"id":"Q383284","verdict":"keep"}
+{"id":"Q38412534","verdict":"keep","countries":["NL"],"reason":"countries were empty; Frisian spice cake"}
+{"id":"Q3841974","verdict":"keep"}
+{"id":"Q3841977","verdict":"keep"}
+{"id":"Q3841979","verdict":"keep"}
+{"id":"Q3841980","verdict":"keep"}
+{"id":"Q3842043","verdict":"keep"}
+{"id":"Q3844010","verdict":"keep"}
+{"id":"Q3844419","verdict":"keep"}
+{"id":"Q3844897","verdict":"keep"}
+{"id":"Q3844992","verdict":"keep"}
+{"id":"Q3847001","verdict":"keep"}
+{"id":"Q3847402","verdict":"keep"}
+{"id":"Q3847429","verdict":"keep"}
+{"id":"Q3847532","verdict":"keep","countries":["PR"],"reason":"countries were empty; Puerto Rican fried foods"}
+{"id":"Q3848094","verdict":"keep"}
+{"id":"Q3848112","verdict":"keep"}
+{"id":"Q3848253","verdict":"keep"}
+{"id":"Q3849360","verdict":"keep"}
+{"id":"Q3851549","verdict":"keep"}
+{"id":"Q3852961","verdict":"keep"}
+{"id":"Q3853270","verdict":"keep"}
+{"id":"Q3853320","verdict":"keep"}
+{"id":"Q3853746","verdict":"keep"}
+{"id":"Q3855995","verdict":"keep"}
+{"id":"Q3857102","verdict":"remove","reason":"PDO honey, a product rather than a dish"}
+{"id":"Q385808","verdict":"keep"}
+{"id":"Q3858380","verdict":"keep"}
+{"id":"Q3858564","verdict":"keep"}
+{"id":"Q3859384","verdict":"keep"}
+{"id":"Q38595513","verdict":"keep","countries":["MX"],"reason":"countries were empty; Mexican dish"}
+{"id":"Q38595678","verdict":"keep","countries":["AR"],"reason":"countries were empty; Argentine dish"}
+{"id":"Q3860244","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3860889","verdict":"remove","reason":"branded confectionery product"}
+{"id":"Q3862441","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3866878","verdict":"keep"}
+{"id":"Q3866940","verdict":"keep"}
+{"id":"Q3867478","verdict":"keep"}
+{"id":"Q3868691","verdict":"keep"}
+{"id":"Q3868710","verdict":"keep"}
+{"id":"Q3869300","verdict":"keep"}
+{"id":"Q3869796","verdict":"keep"}
+{"id":"Q3869817","verdict":"keep"}
+{"id":"Q387235","verdict":"keep"}
+{"id":"Q3874120","verdict":"keep"}
+{"id":"Q387673","verdict":"keep"}
+{"id":"Q3877638","verdict":"remove","reason":"raw beef cut, not a dish"}
+{"id":"Q3878649","verdict":"keep"}
+{"id":"Q3879239","verdict":"keep"}
+{"id":"Q3881002","verdict":"keep"}
+{"id":"Q3881759","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3881817","verdict":"keep"}
+{"id":"Q3885871","verdict":"keep"}
+{"id":"Q3886850","verdict":"keep"}
+{"id":"Q3886934","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish dumplings"}
+{"id":"Q3888994","verdict":"keep"}
+{"id":"Q388983","verdict":"keep"}
+{"id":"Q3892904","verdict":"keep"}
+{"id":"Q3892932","verdict":"keep"}
+{"id":"Q3892935","verdict":"keep"}
+{"id":"Q3892955","verdict":"keep"}
+{"id":"Q3893083","verdict":"keep"}
+{"id":"Q3893086","verdict":"keep"}
+{"id":"Q3893172","verdict":"keep"}
+{"id":"Q3893173","verdict":"keep"}
+{"id":"Q3893182","verdict":"keep"}
+{"id":"Q3893185","verdict":"keep"}
+{"id":"Q3893188","verdict":"keep"}
+{"id":"Q3893200","verdict":"keep"}
+{"id":"Q3893202","verdict":"keep"}
+{"id":"Q3893215","verdict":"keep"}
+{"id":"Q3893227","verdict":"keep"}
+{"id":"Q3893250","verdict":"keep"}
+{"id":"Q3893291","verdict":"keep"}
+{"id":"Q3893310","verdict":"keep"}
+{"id":"Q3893318","verdict":"keep"}
+{"id":"Q3893374","verdict":"keep"}
+{"id":"Q3893492","verdict":"keep"}
+{"id":"Q3894691","verdict":"keep"}
+{"id":"Q3894895","verdict":"keep"}
+{"id":"Q3895102","verdict":"keep","countries":["IT"],"reason":"countries were empty; Lake Como cake"}
+{"id":"Q389574","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian fried chicken"}
+{"id":"Q3895789","verdict":"keep"}
+{"id":"Q3895837","verdict":"keep"}
+{"id":"Q3896505","verdict":"keep"}
+{"id":"Q3896960","verdict":"keep"}
+{"id":"Q389727","verdict":"keep","countries":["MX"],"reason":"countries were empty; Mexican mole variety"}
+{"id":"Q3897472","verdict":"keep","countries":["IT"],"reason":"countries were empty; Sicilian dish"}
+{"id":"Q3897489","verdict":"keep"}
+{"id":"Q3897490","verdict":"keep"}
+{"id":"Q3897491","verdict":"keep"}
+{"id":"Q3897492","verdict":"keep"}
+{"id":"Q3897499","verdict":"keep"}
+{"id":"Q3897500","verdict":"keep"}
+{"id":"Q3897506","verdict":"keep"}
+{"id":"Q3897559","verdict":"keep"}
+{"id":"Q3898528","verdict":"keep"}
+{"id":"Q3898541","verdict":"keep"}
+{"id":"Q3898544","verdict":"keep"}
+{"id":"Q3898549","verdict":"keep"}
+{"id":"Q3899061","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3899347","verdict":"keep"}
+{"id":"Q3900707","verdict":"keep"}
+{"id":"Q3900767","verdict":"keep"}
+{"id":"Q3900768","verdict":"keep"}
+{"id":"Q3901032","verdict":"keep"}
+{"id":"Q3901812","verdict":"keep"}
+{"id":"Q3902716","verdict":"keep"}
+{"id":"Q39034868","verdict":"keep","countries":["DE"],"reason":"countries were empty; Leipzig banquet soup"}
+{"id":"Q39045630","verdict":"keep"}
+{"id":"Q39046153","verdict":"keep"}
+{"id":"Q3904920","verdict":"keep"}
+{"id":"Q3904921","verdict":"keep"}
+{"id":"Q3905339","verdict":"keep"}
+{"id":"Q39053773","verdict":"remove","reason":"a food cart business, not a dish"}
+{"id":"Q39055774","verdict":"keep"}
+{"id":"Q3905622","verdict":"keep"}
+{"id":"Q39056765","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese cola chicken"}
+{"id":"Q39057643","verdict":"keep"}
+{"id":"Q3905790","verdict":"keep"}
+{"id":"Q3905837","verdict":"keep"}
+{"id":"Q3905848","verdict":"keep"}
+{"id":"Q3905851","verdict":"keep"}
+{"id":"Q3905854","verdict":"keep"}
+{"id":"Q3905960","verdict":"keep"}
+{"id":"Q3905962","verdict":"keep"}
+{"id":"Q3905963","verdict":"keep"}
+{"id":"Q3905969","verdict":"keep"}
+{"id":"Q3906050","verdict":"keep"}
+{"id":"Q39069945","verdict":"remove","reason":"branded confectionery product"}
+{"id":"Q3907227","verdict":"keep"}
+{"id":"Q3907228","verdict":"keep"}
+{"id":"Q3907609","verdict":"keep"}
+{"id":"Q3907811","verdict":"keep"}
+{"id":"Q39082052","verdict":"keep","countries":["PA"],"reason":"countries were empty; Panamanian food"}
+{"id":"Q39086082","verdict":"remove","reason":"category (street food in a country), not one dish"}
+{"id":"Q39087079","verdict":"keep"}
+{"id":"Q39087817","verdict":"keep"}
+{"id":"Q391082","verdict":"keep"}
+{"id":"Q391086","verdict":"keep"}
+{"id":"Q391179","verdict":"keep"}
+{"id":"Q3914983","verdict":"keep"}
+{"id":"Q3917542","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch bread"}
+{"id":"Q3920699","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish dish"}
+{"id":"Q3920714","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish dish"}
+{"id":"Q3920731","verdict":"keep","countries":["PL"],"reason":"countries were empty; Polish dish"}
+{"id":"Q3920738","verdict":"keep"}
+{"id":"Q392172","verdict":"keep"}
+{"id":"Q3924065","verdict":"keep"}
+{"id":"Q3924066","verdict":"keep"}
+{"id":"Q3924067","verdict":"keep"}
+{"id":"Q3924068","verdict":"keep"}
+{"id":"Q3924070","verdict":"keep"}
+{"id":"Q3924731","verdict":"keep"}
+{"id":"Q3925900","verdict":"keep"}
+{"id":"Q3926046","verdict":"keep"}
+{"id":"Q39262547","verdict":"keep"}
+{"id":"Q3927078","verdict":"keep"}
+{"id":"Q3929288","verdict":"keep"}
+{"id":"Q392935","verdict":"keep"}
+{"id":"Q39297005","verdict":"keep","countries":["IT"],"reason":"countries were empty; Calabrian dish"}
+{"id":"Q3929866","verdict":"keep"}
+{"id":"Q3930586","verdict":"keep"}
+{"id":"Q3934685","verdict":"keep"}
+{"id":"Q3934686","verdict":"keep"}
+{"id":"Q393573","verdict":"keep"}
+{"id":"Q3937014","verdict":"keep"}
+{"id":"Q3937015","verdict":"keep"}
+{"id":"Q3937030","verdict":"keep"}
+{"id":"Q3939546","verdict":"keep"}
+{"id":"Q3941284","verdict":"keep"}
+{"id":"Q3941718","verdict":"keep"}
+{"id":"Q3941930","verdict":"keep"}
+{"id":"Q3942939","verdict":"keep"}
+{"id":"Q3944193","verdict":"keep"}
+{"id":"Q3944659","verdict":"keep"}
+{"id":"Q3945298","verdict":"keep"}
+{"id":"Q3945308","verdict":"keep"}
+{"id":"Q3945312","verdict":"keep"}
+{"id":"Q3945316","verdict":"keep"}
+{"id":"Q3945323","verdict":"keep"}
+{"id":"Q3945334","verdict":"keep"}
+{"id":"Q3945602","verdict":"keep"}

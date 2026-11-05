@@ -1,0 +1,300 @@
+{"id":"Q11481915","verdict":"keep"}
+{"id":"Q114839857","verdict":"keep","countries":["TH"],"reason":"Thai dish; countries were empty"}
+{"id":"Q11484234","verdict":"keep","countries":["JP"],"reason":"Japanese dish; countries were empty"}
+{"id":"Q11484441","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
+{"id":"Q11486053","verdict":"keep","countries":["JP"],"reason":"Fuchu-yaki okonomiyaki from Hiroshima; countries were empty"}
+{"id":"Q11487140","verdict":"keep","countries":["JP"],"reason":"Japanese namagashi; countries were empty"}
+{"id":"Q114877024","verdict":"keep","countries":["CH"],"reason":"Swiss candy; countries were empty"}
+{"id":"Q1148776","verdict":"keep"}
+{"id":"Q114888032","verdict":"keep"}
+{"id":"Q11489261","verdict":"keep"}
+{"id":"Q11489657","verdict":"keep"}
+{"id":"Q11489671","verdict":"keep","countries":["JP"],"reason":"Japanese donburi; countries were empty"}
+{"id":"Q114905118","verdict":"keep"}
+{"id":"Q114924","verdict":"keep"}
+{"id":"Q114932667","verdict":"keep","countries":["NL"],"reason":"Dutch speculaas biscuit; countries were empty"}
+{"id":"Q114962926","verdict":"keep"}
+{"id":"Q11496877","verdict":"keep"}
+{"id":"Q11497126","verdict":"keep","countries":["JP"],"reason":"Japanese karaage; countries were empty"}
+{"id":"Q114971907","verdict":"keep"}
+{"id":"Q11497260","verdict":"keep","countries":["JP"],"reason":"Japanese soy food; countries were empty"}
+{"id":"Q11498654","verdict":"keep"}
+{"id":"Q11498707","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
+{"id":"Q11498791","verdict":"keep","countries":["JP"],"reason":"Japanese tofu dish; countries were empty"}
+{"id":"Q11499086","verdict":"keep"}
+{"id":"Q11499534","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
+{"id":"Q1150150","verdict":"keep"}
+{"id":"Q115016178","verdict":"keep"}
+{"id":"Q115016236","verdict":"keep"}
+{"id":"Q11501703","verdict":"keep"}
+{"id":"Q11502783","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
+{"id":"Q11502972","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
+{"id":"Q115033296","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries were empty"}
+{"id":"Q115036294","verdict":"keep","countries":["JP"],"reason":"Japanese porridge; countries were empty"}
+{"id":"Q115038633","verdict":"keep","countries":["IN"],"reason":"Kolkata Kabiraji; countries were empty"}
+{"id":"Q115039421","verdict":"keep","countries":["IN"],"reason":"Kolkata Kabiraji; countries were empty"}
+{"id":"Q115039569","verdict":"keep","countries":["IN"],"reason":"Kolkata Kabiraji; countries were empty"}
+{"id":"Q115040383","verdict":"keep","countries":["IN"],"reason":"Kolkata biryani; countries were empty"}
+{"id":"Q115040524","verdict":"keep","countries":["IN"],"reason":"Kolkata biryani; countries were empty"}
+{"id":"Q11504931","verdict":"keep","countries":["JP"],"reason":"Japanese confection; countries were empty"}
+{"id":"Q115049415","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries were empty"}
+{"id":"Q115054519","verdict":"keep","countries":["DE"],"reason":"German sweet dish; countries were empty"}
+{"id":"Q115055877","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries were empty"}
+{"id":"Q115058597","verdict":"keep"}
+{"id":"Q11507075","verdict":"keep"}
+{"id":"Q115098530","verdict":"keep"}
+{"id":"Q11509898","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
+{"id":"Q1151092","verdict":"keep"}
+{"id":"Q11511882","verdict":"remove","reason":"technique page (kobujime), not a dish"}
+{"id":"Q11511884","verdict":"keep"}
+{"id":"Q11512091","verdict":"keep"}
+{"id":"Q11512298","verdict":"remove","reason":"branded packaged product (Meiji Probio Yogurt R-1)"}
+{"id":"Q115125851","verdict":"keep"}
+{"id":"Q115131840","verdict":"keep","countries":["KR"],"reason":"Korean doughnut; countries were empty"}
+{"id":"Q11513842","verdict":"remove","reason":"packaged instant soup/cup noodle product, not a dish"}
+{"id":"Q115141348","verdict":"keep"}
+{"id":"Q115142470","verdict":"keep"}
+{"id":"Q11514494","verdict":"keep","countries":["JP"],"reason":"Japanese tsukudani-style dish; countries were empty"}
+{"id":"Q11514495","verdict":"keep"}
+{"id":"Q115147923","verdict":"keep"}
+{"id":"Q115149470","verdict":"keep","countries":["FR"],"reason":"Berlingot de Berck is French; countries were empty"}
+{"id":"Q115152134","verdict":"keep","countries":["NO"],"reason":"Norwegian cookie; countries were empty"}
+{"id":"Q11516405","verdict":"keep","countries":["JP"],"reason":"Japanese confection; countries were empty"}
+{"id":"Q115164521","verdict":"keep"}
+{"id":"Q115164693","verdict":"keep","countries":["RU"],"reason":"Russian stew; countries were empty"}
+{"id":"Q115165283","verdict":"remove","reason":"cooking technique (pot roasting), not a dish"}
+{"id":"Q115166223","verdict":"keep","countries":["DE"],"reason":"German potato dumpling; countries were empty"}
+{"id":"Q11517869","verdict":"keep","countries":["JP"],"reason":"Japanese candy; countries were empty"}
+{"id":"Q11517913","verdict":"keep","countries":["JP"],"reason":"Japanese shigureni; countries were empty"}
+{"id":"Q11517915","verdict":"keep","countries":["JP"],"reason":"Japanese dengaku; countries were empty"}
+{"id":"Q11517918","verdict":"keep"}
+{"id":"Q115188364","verdict":"keep"}
+{"id":"Q115193624","verdict":"keep"}
+{"id":"Q115193731","verdict":"keep"}
+{"id":"Q115193750","verdict":"keep"}
+{"id":"Q115202716","verdict":"keep"}
+{"id":"Q115205140","verdict":"keep"}
+{"id":"Q115205825","verdict":"keep","countries":["DE"],"reason":"German bread roll; countries were empty"}
+{"id":"Q11521610","verdict":"keep"}
+{"id":"Q11521612","verdict":"keep","countries":["JP"],"reason":"Japanese sushi; countries were empty"}
+{"id":"Q115217655","verdict":"keep"}
+{"id":"Q115259290","verdict":"keep","countries":["TR"],"reason":"Turkish pastry from Maras; countries were empty"}
+{"id":"Q11527297","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
+{"id":"Q1152783","verdict":"keep"}
+{"id":"Q1152821","verdict":"keep"}
+{"id":"Q11528422","verdict":"keep"}
+{"id":"Q115294063","verdict":"keep"}
+{"id":"Q11529950","verdict":"keep","countries":["JP"],"reason":"Japanese sushi; countries were empty"}
+{"id":"Q115301187","verdict":"keep"}
+{"id":"Q115304508","verdict":"keep","countries":["FI"],"reason":"Finnish rye bread; countries were empty"}
+{"id":"Q115315058","verdict":"keep"}
+{"id":"Q115353571","verdict":"keep"}
+{"id":"Q11535612","verdict":"keep","countries":["JP"],"reason":"Japanese mochi; countries were empty"}
+{"id":"Q115356237","verdict":"keep"}
+{"id":"Q11535786","verdict":"keep"}
+{"id":"Q11536097","verdict":"keep"}
+{"id":"Q11536098","verdict":"keep","countries":["JP"],"reason":"Japanese manju; countries were empty"}
+{"id":"Q11536457","verdict":"keep","countries":["JP"],"reason":"Japanese miso soup; countries were empty"}
+{"id":"Q11537649","verdict":"keep"}
+{"id":"Q11537667","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
+{"id":"Q115377291","verdict":"keep"}
+{"id":"Q115380402","verdict":"remove","reason":"branded candy (Kirstein Blockmalz), not a dish"}
+{"id":"Q11538228","verdict":"keep","countries":["JP"],"reason":"Japanese nabe; countries were empty"}
+{"id":"Q11538239","verdict":"keep","countries":["JP"],"reason":"Japanese rice dish; countries were empty"}
+{"id":"Q11538378","verdict":"keep"}
+{"id":"Q11538653","verdict":"keep"}
+{"id":"Q11538971","verdict":"keep","countries":["CN"],"reason":"Sichuan dish; countries were empty"}
+{"id":"Q11540467","verdict":"keep","countries":["JP"],"reason":"Japanese wagashi; countries were empty"}
+{"id":"Q1154164","verdict":"keep"}
+{"id":"Q11542213","verdict":"keep"}
+{"id":"Q1154225","verdict":"keep"}
+{"id":"Q11542761","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
+{"id":"Q115450440","verdict":"keep","countries":["DE"],"reason":"German soup; countries were empty"}
+{"id":"Q11547034","verdict":"keep","countries":["JP"],"reason":"Japanese yakimono; countries were empty"}
+{"id":"Q115474","verdict":"keep"}
+{"id":"Q11547523","verdict":"keep","countries":["JP"],"reason":"Japanese wagashi; countries were empty"}
+{"id":"Q11548023","verdict":"keep","countries":["JP"],"reason":"Japanese horumon; countries were empty"}
+{"id":"Q115483255","verdict":"keep","countries":["JP"],"reason":"Japanese wagashi; countries were empty"}
+{"id":"Q11548572","verdict":"keep"}
+{"id":"Q11548633","verdict":"remove","reason":"brand name of natto product, not a dish"}
+{"id":"Q11548637","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
+{"id":"Q11548941","verdict":"keep"}
+{"id":"Q115490972","verdict":"keep"}
+{"id":"Q11549231","verdict":"keep"}
+{"id":"Q11549267","verdict":"keep"}
+{"id":"Q11549639","verdict":"keep","countries":["JP"],"reason":"Japanese curry; countries were empty"}
+{"id":"Q11549659","verdict":"keep","countries":["JP"],"reason":"Japanese namasu; countries were empty"}
+{"id":"Q11550577","verdict":"keep","countries":["JP"],"reason":"Japanese donburi; countries were empty"}
+{"id":"Q11550988","verdict":"keep","countries":["JP"],"reason":"Japanese sushi; countries were empty"}
+{"id":"Q11551104","verdict":"keep"}
+{"id":"Q115512140","verdict":"keep"}
+{"id":"Q115515499","verdict":"keep"}
+{"id":"Q115518680","verdict":"keep"}
+{"id":"Q115519518","verdict":"keep"}
+{"id":"Q11552547","verdict":"keep"}
+{"id":"Q11554312","verdict":"keep"}
+{"id":"Q11554329","verdict":"keep"}
+{"id":"Q11554370","verdict":"keep","countries":["CN"],"reason":"Sichuan-style fried chicken; countries were empty"}
+{"id":"Q115549260","verdict":"keep"}
+{"id":"Q115549787","verdict":"keep","countries":["KR"],"reason":"Korean rice dish; countries were empty"}
+{"id":"Q115550020","verdict":"keep"}
+{"id":"Q11555357","verdict":"keep"}
+{"id":"Q11555424","verdict":"keep"}
+{"id":"Q11556392","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
+{"id":"Q11556400","verdict":"keep","countries":["JP"],"reason":"Japanese miso; countries were empty"}
+{"id":"Q11559112","verdict":"keep","countries":["JP"],"reason":"Japanese katsu; countries were empty"}
+{"id":"Q11559212","verdict":"keep","countries":["JP"],"reason":"Japanese octopus dish; countries were empty"}
+{"id":"Q11559234","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
+{"id":"Q11559814","verdict":"keep","countries":["JP"],"reason":"Japanese noodle dish; countries were empty"}
+{"id":"Q11559815","verdict":"keep"}
+{"id":"Q11559819","verdict":"keep","countries":["JP"],"reason":"Japanese gyudon; countries were empty"}
+{"id":"Q11559843","verdict":"keep","countries":["JP"],"reason":"Japanese yokan; countries were empty"}
+{"id":"Q115607763","verdict":"remove","reason":"generic ingredient/category (bean paste), not a dish"}
+{"id":"Q115607987","verdict":"keep"}
+{"id":"Q115610227","verdict":"keep"}
+{"id":"Q115615436","verdict":"keep"}
+{"id":"Q115618304","verdict":"remove","reason":"category of foods (cakes and dessert bars), not a dish"}
+{"id":"Q115618375","verdict":"remove","reason":"product category (tortilla and wrap bread), not a dish"}
+{"id":"Q115618379","verdict":"remove","reason":"product category (candy covered fruit), not a dish"}
+{"id":"Q115619093","verdict":"remove","reason":"category (ice cream novelty), not a dish"}
+{"id":"Q115619132","verdict":"keep"}
+{"id":"Q115619224","verdict":"remove","reason":"product category (ice cream and frozen yogurt), not a dish"}
+{"id":"Q115626192","verdict":"keep"}
+{"id":"Q11562894","verdict":"keep"}
+{"id":"Q11562975","verdict":"keep","countries":["JP"],"reason":"Japanese manju; countries were empty"}
+{"id":"Q11563737","verdict":"keep","countries":["JP"],"reason":"Japanese rice dish; countries were empty"}
+{"id":"Q11564080","verdict":"keep","countries":["JP"],"reason":"Japanese nabe; countries were empty"}
+{"id":"Q115641438","verdict":"remove","reason":"dining custom (couvert), not a dish"}
+{"id":"Q11564153","verdict":"keep"}
+{"id":"Q11565590","verdict":"keep"}
+{"id":"Q11565716","verdict":"keep"}
+{"id":"Q1156634","verdict":"keep"}
+{"id":"Q115663659","verdict":"keep"}
+{"id":"Q11566510","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
+{"id":"Q1156703","verdict":"keep","countries":["DE"],"reason":"German pastry; countries were empty"}
+{"id":"Q11567137","verdict":"keep","countries":["JP"],"reason":"Japanese senbei; countries were empty"}
+{"id":"Q11567617","verdict":"keep"}
+{"id":"Q11567618","verdict":"keep"}
+{"id":"Q11567619","verdict":"keep"}
+{"id":"Q11567620","verdict":"keep"}
+{"id":"Q11567626","verdict":"keep","countries":["JP"],"reason":"Japanese tofu dish; countries were empty"}
+{"id":"Q11567674","verdict":"keep"}
+{"id":"Q11567681","verdict":"keep","countries":["JP"],"reason":"Japanese rice dish; countries were empty"}
+{"id":"Q11567691","verdict":"keep","countries":["JP"],"reason":"Japanese local cuisine; countries were empty"}
+{"id":"Q11567713","verdict":"keep"}
+{"id":"Q11567797","verdict":"keep","countries":["JP"],"reason":"Japanese nimono; countries were empty"}
+{"id":"Q11567802","verdict":"keep"}
+{"id":"Q11567803","verdict":"keep"}
+{"id":"Q115678396","verdict":"keep"}
+{"id":"Q11567931","verdict":"keep"}
+{"id":"Q115686593","verdict":"keep"}
+{"id":"Q115686609","verdict":"keep"}
+{"id":"Q115688586","verdict":"keep","countries":["ES"],"reason":"Spanish ham; countries were empty"}
+{"id":"Q115690026","verdict":"keep","countries":["IT"],"reason":"Italian pastry; countries were empty"}
+{"id":"Q11569253","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
+{"id":"Q11570019","verdict":"keep"}
+{"id":"Q115700524","verdict":"keep"}
+{"id":"Q11570067","verdict":"keep","countries":["JP"],"reason":"Japanese senbei; countries were empty"}
+{"id":"Q115702169","verdict":"keep"}
+{"id":"Q11570229","verdict":"keep","countries":["JP"],"reason":"Japanese mochi; countries were empty"}
+{"id":"Q11570320","verdict":"keep"}
+{"id":"Q11570322","verdict":"keep"}
+{"id":"Q115708671","verdict":"keep"}
+{"id":"Q115714347","verdict":"keep"}
+{"id":"Q115714743","verdict":"keep"}
+{"id":"Q115714993","verdict":"keep"}
+{"id":"Q11572403","verdict":"keep"}
+{"id":"Q11572418","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
+{"id":"Q11572492","verdict":"keep"}
+{"id":"Q11572769","verdict":"keep","countries":["JP"],"reason":"Japanese yokan; countries were empty"}
+{"id":"Q115732147","verdict":"keep","countries":["KR"],"reason":"Korean gejang; countries were empty"}
+{"id":"Q11573721","verdict":"keep","countries":["JP"],"reason":"Japanese wagashi; countries were empty"}
+{"id":"Q11574180","verdict":"keep"}
+{"id":"Q11574182","verdict":"keep"}
+{"id":"Q11574227","verdict":"keep","countries":["JP"],"reason":"Japanese ame; countries were empty"}
+{"id":"Q11574320","verdict":"keep"}
+{"id":"Q11574384","verdict":"keep"}
+{"id":"Q11574395","verdict":"keep","countries":["JP"],"reason":"Japanese caramel; countries were empty"}
+{"id":"Q11574427","verdict":"keep"}
+{"id":"Q115754730","verdict":"keep"}
+{"id":"Q115766697","verdict":"keep"}
+{"id":"Q11576725","verdict":"keep","countries":["JP"],"reason":"Japanese nabe; countries were empty"}
+{"id":"Q1157710","verdict":"keep","countries":["JP"],"reason":"Japanese natto dish; countries were empty"}
+{"id":"Q1157769","verdict":"keep"}
+{"id":"Q11577834","verdict":"keep"}
+{"id":"Q11578189","verdict":"keep"}
+{"id":"Q115791834","verdict":"keep"}
+{"id":"Q11579290","verdict":"keep","countries":["JP"],"reason":"Japanese dashi; countries were empty"}
+{"id":"Q11579516","verdict":"keep","countries":["JP"],"reason":"Japanese seafood stew; countries were empty"}
+{"id":"Q1157952","verdict":"keep"}
+{"id":"Q11579832","verdict":"keep","countries":["JP"],"reason":"Japanese monaka; countries were empty"}
+{"id":"Q115798940","verdict":"keep"}
+{"id":"Q11579948","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
+{"id":"Q115799674","verdict":"keep"}
+{"id":"Q11580081","verdict":"keep","countries":["JP"],"reason":"Japanese dango; countries were empty"}
+{"id":"Q115800879","verdict":"keep","countries":["IT"],"reason":"Italian pasta dish; countries were empty"}
+{"id":"Q115801829","verdict":"keep"}
+{"id":"Q115801864","verdict":"keep"}
+{"id":"Q115801972","verdict":"keep"}
+{"id":"Q115802607","verdict":"keep","countries":["IT"],"reason":"Sicilian pasta dish; countries were empty"}
+{"id":"Q115802819","verdict":"keep","countries":["GU"],"reason":"Chamorro stew; countries were empty"}
+{"id":"Q115802987","verdict":"keep","countries":["PH"],"reason":"Filipino dish; countries were empty"}
+{"id":"Q11580315","verdict":"keep","countries":["JP"],"reason":"Japanese curry; countries were empty"}
+{"id":"Q115804031","verdict":"keep"}
+{"id":"Q115804147","verdict":"keep","countries":["GU"],"reason":"Chamorro dish; countries were empty"}
+{"id":"Q11580451","verdict":"keep"}
+{"id":"Q11580511","verdict":"keep"}
+{"id":"Q11581336","verdict":"keep"}
+{"id":"Q115814329","verdict":"keep"}
+{"id":"Q11581573","verdict":"keep","countries":["JP"],"reason":"Japanese donburi; countries were empty"}
+{"id":"Q115816722","verdict":"remove","reason":"drink (cereal milk), not a dish"}
+{"id":"Q115819779","verdict":"keep"}
+{"id":"Q115858747","verdict":"keep","countries":["PL"],"reason":"Polish bean stew; countries were empty"}
+{"id":"Q115859451","verdict":"keep","countries":["DE"],"reason":"German pastry; countries were empty"}
+{"id":"Q11586488","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
+{"id":"Q11586883","verdict":"keep"}
+{"id":"Q11588062","verdict":"keep","countries":["JP"],"reason":"Japanese senbei; countries were empty"}
+{"id":"Q11588447","verdict":"keep","countries":["JP"],"reason":"Japanese tofu dish; countries were empty"}
+{"id":"Q11588682","verdict":"keep","countries":["JP"],"reason":"Japanese curry; countries were empty"}
+{"id":"Q115907596","verdict":"keep","countries":["IT"],"reason":"Sicilian pasta dish; countries were empty"}
+{"id":"Q115908352","verdict":"remove","reason":"chain-restaurant style menu item (Among Us nugget)"}
+{"id":"Q115917315","verdict":"keep"}
+{"id":"Q11592112","verdict":"keep"}
+{"id":"Q11593816","verdict":"keep","countries":["JP"],"reason":"Japanese senbei; countries were empty"}
+{"id":"Q11593881","verdict":"keep","countries":["JP"],"reason":"Japanese monaka; countries were empty"}
+{"id":"Q115940023","verdict":"keep","countries":["ES"],"reason":"Catalan sweet; countries were empty"}
+{"id":"Q115940142","verdict":"keep","countries":["ES"],"reason":"Catalan cake; countries were empty"}
+{"id":"Q115941817","verdict":"keep"}
+{"id":"Q11594880","verdict":"keep"}
+{"id":"Q115959653","verdict":"keep"}
+{"id":"Q11596840","verdict":"keep","countries":["JP"],"reason":"Japanese mochi; countries were empty"}
+{"id":"Q11597028","verdict":"keep","countries":["JP"],"reason":"Japanese okoshi; countries were empty"}
+{"id":"Q11598630","verdict":"keep","countries":["JP"],"reason":"Japanese chikuwa; countries were empty"}
+{"id":"Q11599096","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
+{"id":"Q11599871","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
+{"id":"Q116007922","verdict":"keep"}
+{"id":"Q116008541","verdict":"keep"}
+{"id":"Q116009562","verdict":"keep","countries":["TH"],"reason":"Thai curry; countries were empty"}
+{"id":"Q11602513","verdict":"keep"}
+{"id":"Q11602530","verdict":"keep"}
+{"id":"Q11602532","verdict":"keep"}
+{"id":"Q11602756","verdict":"keep"}
+{"id":"Q11602975","verdict":"keep","countries":["JP"],"reason":"Japanese offal dish; countries were empty"}
+{"id":"Q116031902","verdict":"keep"}
+{"id":"Q116039190","verdict":"keep"}
+{"id":"Q11604251","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
+{"id":"Q11604446","verdict":"keep","countries":["JP"],"reason":"Japanese potato dish; countries were empty"}
+{"id":"Q11604467","verdict":"keep","countries":["JP"],"reason":"Japanese miso soup; countries were empty"}
+{"id":"Q11604498","verdict":"keep"}
+{"id":"Q11604545","verdict":"keep","countries":["JP"],"reason":"Japanese okoshi; countries were empty"}
+{"id":"Q11604648","verdict":"keep","countries":["JP"],"reason":"Japanese mizuame; countries were empty"}
+{"id":"Q11604650","verdict":"keep","countries":["JP"],"reason":"Japanese mochi; countries were empty"}
+{"id":"Q11604652","verdict":"keep","countries":["JP"],"reason":"Japanese manju; countries were empty"}
+{"id":"Q11604874","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
+{"id":"Q1160522","verdict":"keep"}
+{"id":"Q11605373","verdict":"keep","countries":["JP"],"reason":"Japanese miso soup; countries were empty"}
+{"id":"Q11605555","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
+{"id":"Q11605763","verdict":"keep"}
+{"id":"Q11608010","verdict":"keep"}
+{"id":"Q11608013","verdict":"keep","countries":["JP"],"reason":"Japanese namagashi; countries were empty"}
+{"id":"Q11608826","verdict":"keep","countries":["JP"],"reason":"Japanese yakitori; countries were empty"}

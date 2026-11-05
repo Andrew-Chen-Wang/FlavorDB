@@ -1,0 +1,299 @@
+{"id":"Q140654822","verdict":"keep"}
+{"id":"Q140654832","verdict":"keep"}
+{"id":"Q140654837","verdict":"keep"}
+{"id":"Q140654840","verdict":"keep"}
+{"id":"Q140654845","verdict":"keep"}
+{"id":"Q140654858","verdict":"keep"}
+{"id":"Q140654860","verdict":"keep"}
+{"id":"Q140654862","verdict":"keep"}
+{"id":"Q140654864","verdict":"keep"}
+{"id":"Q140654866","verdict":"keep"}
+{"id":"Q140654868","verdict":"keep"}
+{"id":"Q140654931","verdict":"keep"}
+{"id":"Q140654933","verdict":"keep"}
+{"id":"Q140654936","verdict":"keep"}
+{"id":"Q140655121","verdict":"keep"}
+{"id":"Q140655127","verdict":"keep"}
+{"id":"Q140655129","verdict":"keep"}
+{"id":"Q140655165","verdict":"keep"}
+{"id":"Q140655167","verdict":"keep"}
+{"id":"Q140655169","verdict":"keep"}
+{"id":"Q140655170","verdict":"keep"}
+{"id":"Q140655175","verdict":"keep"}
+{"id":"Q140655177","verdict":"keep"}
+{"id":"Q140655178","verdict":"keep","name":"Fave bianche e cicorie PAT","reason":"removed doubled space in name"}
+{"id":"Q140655184","verdict":"keep"}
+{"id":"Q140655185","verdict":"keep"}
+{"id":"Q140655186","verdict":"keep"}
+{"id":"Q140655187","verdict":"keep"}
+{"id":"Q140655189","verdict":"keep"}
+{"id":"Q140655190","verdict":"keep"}
+{"id":"Q140655192","verdict":"keep"}
+{"id":"Q140655193","verdict":"keep"}
+{"id":"Q140655197","verdict":"keep"}
+{"id":"Q140655200","verdict":"keep"}
+{"id":"Q140655239","verdict":"keep"}
+{"id":"Q140655251","verdict":"keep"}
+{"id":"Q140655273","verdict":"keep"}
+{"id":"Q140655292","verdict":"remove","reason":"saffron spice, ingredient not a dish"}
+{"id":"Q140655384","verdict":"keep"}
+{"id":"Q140693125","verdict":"keep"}
+{"id":"Q140695130","verdict":"keep"}
+{"id":"Q140697760","verdict":"keep"}
+{"id":"Q140698473","verdict":"keep"}
+{"id":"Q140700947","verdict":"keep"}
+{"id":"Q140700995","verdict":"keep"}
+{"id":"Q14071553","verdict":"keep","countries":["CY","GR","TR"],"reason":"countries were empty; Aegean and Cypriot lamb and colocasia dish"}
+{"id":"Q140724932","verdict":"remove","reason":"cuisine topic page, not one dish"}
+{"id":"Q1408045","verdict":"keep"}
+{"id":"Q140810022","verdict":"keep"}
+{"id":"Q1408240","verdict":"keep"}
+{"id":"Q140827695","verdict":"keep"}
+{"id":"Q140907498","verdict":"keep"}
+{"id":"Q140911335","verdict":"keep"}
+{"id":"Q140925974","verdict":"keep"}
+{"id":"Q140936615","verdict":"keep","countries":["ID"],"reason":"countries were empty; Indonesian sambal"}
+{"id":"Q14094083","verdict":"keep"}
+{"id":"Q140946891","verdict":"keep"}
+{"id":"Q140959034","verdict":"keep","countries":["AT"],"reason":"countries were empty; Styrian pumpkin stew"}
+{"id":"Q14096039","verdict":"keep"}
+{"id":"Q140995939","verdict":"keep"}
+{"id":"Q141003804","verdict":"remove","reason":"branded ice cream bar product"}
+{"id":"Q141012691","verdict":"keep"}
+{"id":"Q141015353","verdict":"keep"}
+{"id":"Q141030654","verdict":"keep"}
+{"id":"Q141070354","verdict":"keep"}
+{"id":"Q1410920","verdict":"keep"}
+{"id":"Q141099658","verdict":"remove","reason":"vanilla spice, ingredient not a dish"}
+{"id":"Q141103037","verdict":"keep"}
+{"id":"Q141111492","verdict":"keep"}
+{"id":"Q141114585","verdict":"keep"}
+{"id":"Q141114587","verdict":"keep"}
+{"id":"Q141114590","verdict":"keep"}
+{"id":"Q141114591","verdict":"keep"}
+{"id":"Q141114595","verdict":"keep"}
+{"id":"Q141114598","verdict":"keep"}
+{"id":"Q141114599","verdict":"keep"}
+{"id":"Q141114600","verdict":"keep"}
+{"id":"Q141130608","verdict":"keep","countries":["DE","AT"],"reason":"countries were empty; German and Austrian soup"}
+{"id":"Q141163288","verdict":"keep","countries":["SE"],"reason":"countries were empty; Swedish pasta gratin"}
+{"id":"Q141175905","verdict":"keep"}
+{"id":"Q141182209","verdict":"keep"}
+{"id":"Q1412112","verdict":"keep"}
+{"id":"Q1412378","verdict":"keep"}
+{"id":"Q141245285","verdict":"keep"}
+{"id":"Q141247327","verdict":"keep"}
+{"id":"Q141248130","verdict":"keep"}
+{"id":"Q1412561","verdict":"keep"}
+{"id":"Q141266545","verdict":"keep"}
+{"id":"Q1412680","verdict":"keep","countries":["GB"],"reason":"countries were empty; English dish"}
+{"id":"Q141278083","verdict":"keep"}
+{"id":"Q1412833","verdict":"remove","reason":"cooking technique page, not a dish"}
+{"id":"Q14128832","verdict":"keep","countries":["CN"],"reason":"countries were empty; Fuzhou winter solstice dessert"}
+{"id":"Q141293","verdict":"keep"}
+{"id":"Q141293713","verdict":"keep"}
+{"id":"Q141332469","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean bulgogi burger"}
+{"id":"Q141334066","verdict":"keep"}
+{"id":"Q141334629","verdict":"keep"}
+{"id":"Q141369422","verdict":"keep"}
+{"id":"Q141369742","verdict":"keep"}
+{"id":"Q141379382","verdict":"keep"}
+{"id":"Q141379737","verdict":"keep"}
+{"id":"Q141385046","verdict":"keep"}
+{"id":"Q141385805","verdict":"keep"}
+{"id":"Q141407702","verdict":"keep"}
+{"id":"Q141434444","verdict":"keep"}
+{"id":"Q141436297","verdict":"keep"}
+{"id":"Q141438921","verdict":"keep"}
+{"id":"Q141451226","verdict":"keep"}
+{"id":"Q141460495","verdict":"keep"}
+{"id":"Q141467374","verdict":"keep","countries":["CZ"],"reason":"countries were empty; Czech ice cream"}
+{"id":"Q141483840","verdict":"keep"}
+{"id":"Q1414887","verdict":"keep","countries":["AM","LB","SY","TR"],"reason":"countries were empty; lahmacun is claimed by these countries"}
+{"id":"Q141489694","verdict":"remove","reason":"chain-restaurant menu item (burger)"}
+{"id":"Q141489865","verdict":"remove","reason":"chain-restaurant menu item (burger)"}
+{"id":"Q141502128","verdict":"keep","countries":["TR"],"reason":"countries were empty; Urfa dish"}
+{"id":"Q141532251","verdict":"keep","countries":["RS"],"reason":"countries were empty; Serbian pastry"}
+{"id":"Q141556520","verdict":"keep"}
+{"id":"Q141560036","verdict":"remove","reason":"branded product (churro menu item)"}
+{"id":"Q141560063","verdict":"remove","reason":"branded product (doughnut menu item)"}
+{"id":"Q141563145","verdict":"keep","countries":["CH"],"reason":"countries were empty; Swiss macaroni"}
+{"id":"Q141576475","verdict":"keep"}
+{"id":"Q141576482","verdict":"keep"}
+{"id":"Q141576629","verdict":"keep","countries":["ID"],"reason":"countries were empty; Indonesian dish"}
+{"id":"Q141576662","verdict":"keep"}
+{"id":"Q141576747","verdict":"keep"}
+{"id":"Q141577035","verdict":"keep"}
+{"id":"Q141577085","verdict":"keep"}
+{"id":"Q141577142","verdict":"keep","countries":["ID"],"reason":"countries were empty; Indonesian dish"}
+{"id":"Q141577620","verdict":"keep"}
+{"id":"Q141577727","verdict":"keep","countries":["ID"],"reason":"countries were empty; Indonesian dish"}
+{"id":"Q141577768","verdict":"keep"}
+{"id":"Q141580164","verdict":"keep"}
+{"id":"Q141580167","verdict":"keep"}
+{"id":"Q141580181","verdict":"keep"}
+{"id":"Q141584250","verdict":"keep"}
+{"id":"Q141597922","verdict":"keep"}
+{"id":"Q141599161","verdict":"remove","reason":"chain-restaurant menu item (burger)"}
+{"id":"Q141622397","verdict":"keep"}
+{"id":"Q141632031","verdict":"keep"}
+{"id":"Q141642341","verdict":"keep"}
+{"id":"Q141657659","verdict":"keep"}
+{"id":"Q141663891","verdict":"keep","countries":["TR"],"reason":"countries were empty; Turkish soup"}
+{"id":"Q141665896","verdict":"keep"}
+{"id":"Q141666592","verdict":"keep"}
+{"id":"Q141677390","verdict":"keep"}
+{"id":"Q14169302","verdict":"keep"}
+{"id":"Q141698603","verdict":"keep"}
+{"id":"Q141734732","verdict":"keep"}
+{"id":"Q141735302","verdict":"keep"}
+{"id":"Q141735873","verdict":"remove","reason":"fruit variety (nectarine), not a dish"}
+{"id":"Q141739748","verdict":"keep"}
+{"id":"Q141740590","verdict":"keep"}
+{"id":"Q141743358","verdict":"keep","countries":["FR"],"reason":"countries were empty; French dish"}
+{"id":"Q141749912","verdict":"keep"}
+{"id":"Q141754097","verdict":"keep"}
+{"id":"Q141758893","verdict":"keep"}
+{"id":"Q141761848","verdict":"remove","reason":"tableware, not a dish"}
+{"id":"Q141762852","verdict":"keep","countries":["DE"],"reason":"countries were empty; late medieval German dish"}
+{"id":"Q141762854","verdict":"keep","countries":["AT","DE"],"reason":"countries were empty; early modern Austrian and German dish"}
+{"id":"Q141762856","verdict":"keep","countries":["DE"],"reason":"countries were empty; early modern German dish"}
+{"id":"Q141762857","verdict":"keep","countries":["DE"],"reason":"countries were empty; late medieval German dish"}
+{"id":"Q141762859","verdict":"keep","countries":["DE"],"reason":"countries were empty; late medieval German dish"}
+{"id":"Q141776651","verdict":"keep"}
+{"id":"Q1417997","verdict":"keep"}
+{"id":"Q141804111","verdict":"keep"}
+{"id":"Q141814171","verdict":"keep","countries":["GB"],"reason":"countries were empty; English pudding"}
+{"id":"Q141871453","verdict":"keep"}
+{"id":"Q141871473","verdict":"keep"}
+{"id":"Q141872447","verdict":"keep","countries":["FR"],"reason":"countries were empty; Savoyard dish"}
+{"id":"Q141875164","verdict":"keep","countries":["DZ"],"reason":"countries were empty; Algerian couscous"}
+{"id":"Q141875190","verdict":"keep","countries":["DZ"],"reason":"countries were empty; Algerian couscous"}
+{"id":"Q141880058","verdict":"keep"}
+{"id":"Q141880665","verdict":"keep"}
+{"id":"Q141881541","verdict":"keep"}
+{"id":"Q141883651","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese yaki udon"}
+{"id":"Q141883681","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese monjayaki"}
+{"id":"Q141885842","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese imagawayaki"}
+{"id":"Q141889766","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese yakisoba"}
+{"id":"Q141906877","verdict":"remove","reason":"tableware, not a dish"}
+{"id":"Q141913755","verdict":"remove","reason":"tableware, not a dish"}
+{"id":"Q141917269","verdict":"keep"}
+{"id":"Q141917436","verdict":"keep"}
+{"id":"Q141917494","verdict":"keep"}
+{"id":"Q141919184","verdict":"remove","reason":"tableware, not a dish"}
+{"id":"Q141944500","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese yakisoba"}
+{"id":"Q141946472","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese curry ramen"}
+{"id":"Q141950064","verdict":"keep","countries":["GR"],"reason":"countries were empty; Kefalonian dish"}
+{"id":"Q141951160","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese zoni"}
+{"id":"Q141953048","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese zoni"}
+{"id":"Q141954296","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese zoni"}
+{"id":"Q141954861","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese zoni"}
+{"id":"Q141955060","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese zoni"}
+{"id":"Q141957123","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese yakisoba"}
+{"id":"Q141957124","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese yakisoba"}
+{"id":"Q141957127","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese yakisoba"}
+{"id":"Q141957133","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese yakisoba"}
+{"id":"Q141957136","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese yakisoba"}
+{"id":"Q141957871","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese yakisoba"}
+{"id":"Q141958218","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese sushi"}
+{"id":"Q141965322","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese gyoza"}
+{"id":"Q141966127","verdict":"remove","reason":"tableware, not a dish"}
+{"id":"Q141967638","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pastry"}
+{"id":"Q141968512","verdict":"keep","countries":["UA"],"reason":"countries were empty; Ukrainian dish"}
+{"id":"Q141970603","verdict":"keep"}
+{"id":"Q141971438","verdict":"remove","reason":"character-branded product (Anpanman)"}
+{"id":"Q141985384","verdict":"keep","countries":["GR"],"reason":"countries were empty; Greek pastitsio"}
+{"id":"Q142018433","verdict":"remove","reason":"chain-restaurant menu item (burger)"}
+{"id":"Q1420371","verdict":"keep"}
+{"id":"Q1420441","verdict":"keep"}
+{"id":"Q1420442","verdict":"keep"}
+{"id":"Q1420553","verdict":"keep"}
+{"id":"Q1420904","verdict":"keep"}
+{"id":"Q1421521","verdict":"keep"}
+{"id":"Q1422437","verdict":"remove","reason":"page about the word unagi (eel ingredient), not a dish"}
+{"id":"Q1423008","verdict":"keep"}
+{"id":"Q1423571","verdict":"keep"}
+{"id":"Q1423725","verdict":"keep"}
+{"id":"Q1426038","verdict":"keep"}
+{"id":"Q1426070","verdict":"keep"}
+{"id":"Q1426283","verdict":"keep"}
+{"id":"Q1427307","verdict":"keep"}
+{"id":"Q1428452","verdict":"keep"}
+{"id":"Q1428477","verdict":"keep"}
+{"id":"Q14289397","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch raisin bread"}
+{"id":"Q1429469","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian biscuit"}
+{"id":"Q14320029","verdict":"keep","countries":["DE"],"reason":"countries were empty; German potato casserole"}
+{"id":"Q1432109","verdict":"keep"}
+{"id":"Q1432535","verdict":"keep"}
+{"id":"Q1432724","verdict":"keep"}
+{"id":"Q1432826","verdict":"keep"}
+{"id":"Q1432988","verdict":"keep"}
+{"id":"Q1433274","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"Q14333256","verdict":"keep"}
+{"id":"Q1433558","verdict":"keep"}
+{"id":"Q1435311","verdict":"keep"}
+{"id":"Q1435874","verdict":"keep"}
+{"id":"Q14363592","verdict":"keep"}
+{"id":"Q143771","verdict":"remove","reason":"packaged chewing gum product, not a dish"}
+{"id":"Q1444936","verdict":"keep"}
+{"id":"Q14468365","verdict":"remove","reason":"category of snacks (kuih), not one dish"}
+{"id":"Q1448660","verdict":"keep"}
+{"id":"Q1450611","verdict":"keep"}
+{"id":"Q1451438","verdict":"keep"}
+{"id":"Q14517051","verdict":"keep"}
+{"id":"Q1451832","verdict":"keep"}
+{"id":"Q14523339","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian sweet bread"}
+{"id":"Q14524937","verdict":"keep"}
+{"id":"Q1452513","verdict":"keep"}
+{"id":"Q14528540","verdict":"keep"}
+{"id":"Q14528707","verdict":"keep"}
+{"id":"Q14543923","verdict":"keep"}
+{"id":"Q1455040","verdict":"keep","countries":["RU","UA"],"reason":"countries were empty; Crimean Tatar dish"}
+{"id":"Q14552200","verdict":"keep","countries":["GR","LB","TR"],"reason":"countries were empty; Turkish, Levantine and Balkan pastry"}
+{"id":"Q14552548","verdict":"keep"}
+{"id":"Q1456217","verdict":"keep"}
+{"id":"Q14594791","verdict":"keep"}
+{"id":"Q14595838","verdict":"keep"}
+{"id":"Q1459788","verdict":"keep"}
+{"id":"Q14601067","verdict":"keep"}
+{"id":"Q14609179","verdict":"keep"}
+{"id":"Q14624874","verdict":"keep"}
+{"id":"Q14635923","verdict":"keep"}
+{"id":"Q1464898","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch fried snack"}
+{"id":"Q14650718","verdict":"keep"}
+{"id":"Q1465158","verdict":"keep"}
+{"id":"Q1465330","verdict":"keep"}
+{"id":"Q14675879","verdict":"keep"}
+{"id":"Q14675912","verdict":"keep"}
+{"id":"Q1468150","verdict":"keep"}
+{"id":"Q14700806","verdict":"keep"}
+{"id":"Q1470812","verdict":"keep"}
+{"id":"Q1471040","verdict":"keep"}
+{"id":"Q1471200","verdict":"keep"}
+{"id":"Q1472342","verdict":"keep"}
+{"id":"Q1472771","verdict":"keep"}
+{"id":"Q1473422","verdict":"keep"}
+{"id":"Q147372","verdict":"keep"}
+{"id":"Q1474369","verdict":"keep"}
+{"id":"Q14758321","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch almond cookie"}
+{"id":"Q147651","verdict":"keep"}
+{"id":"Q1476953","verdict":"keep"}
+{"id":"Q14770547","verdict":"remove","reason":"food ingredient (syrup), not a dish"}
+{"id":"Q1477592","verdict":"keep"}
+{"id":"Q14782277","verdict":"keep"}
+{"id":"Q14783691","verdict":"keep"}
+{"id":"Q1479596","verdict":"keep","countries":["AL"],"reason":"countries were empty; Albanian dish"}
+{"id":"Q14798260","verdict":"keep"}
+{"id":"Q14832965","verdict":"keep"}
+{"id":"Q1485640","verdict":"keep"}
+{"id":"Q148588","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian pastry"}
+{"id":"Q1488189","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"Q14906720","verdict":"keep"}
+{"id":"Q14907198","verdict":"keep"}
+{"id":"Q14911969","verdict":"remove","reason":"paprika spice, ingredient not a dish"}
+{"id":"Q14914664","verdict":"keep"}
+{"id":"Q14916156","verdict":"keep"}
+{"id":"Q14917347","verdict":"keep"}
+{"id":"Q14917459","verdict":"keep"}
+{"id":"Q1491753","verdict":"remove","reason":"branded chocolate bar product"}

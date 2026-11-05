@@ -1,0 +1,300 @@
+{"id":"Q6068180","verdict":"keep"}
+{"id":"Q6070788","verdict":"keep"}
+{"id":"Q6071076","verdict":"keep"}
+{"id":"Q607114","verdict":"keep","countries":["NP","CN"],"reason":"added countries"}
+{"id":"Q6071916","verdict":"keep"}
+{"id":"Q6072163","verdict":"keep"}
+{"id":"Q6072201","verdict":"keep"}
+{"id":"Q60728748","verdict":"keep","countries":["BO"],"reason":"added countries"}
+{"id":"Q6072967","verdict":"keep"}
+{"id":"Q60738834","verdict":"keep"}
+{"id":"Q60738894","verdict":"keep"}
+{"id":"Q60739784","verdict":"keep"}
+{"id":"Q60739792","verdict":"keep"}
+{"id":"Q60740502","verdict":"keep"}
+{"id":"Q60740508","verdict":"keep"}
+{"id":"Q60740781","verdict":"keep"}
+{"id":"Q60742640","verdict":"keep"}
+{"id":"Q60745567","verdict":"keep"}
+{"id":"Q60748979","verdict":"keep"}
+{"id":"Q60749256","verdict":"keep"}
+{"id":"Q60750048","verdict":"keep"}
+{"id":"Q60750699","verdict":"keep"}
+{"id":"Q6075158","verdict":"keep"}
+{"id":"Q60752375","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q60754611","verdict":"keep"}
+{"id":"Q60755899","verdict":"keep","countries":["US"],"reason":"added countries"}
+{"id":"Q6075632","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q60760520","verdict":"keep"}
+{"id":"Q60760532","verdict":"keep"}
+{"id":"Q60760541","verdict":"keep"}
+{"id":"Q60760831","verdict":"keep"}
+{"id":"Q60761084","verdict":"keep"}
+{"id":"Q60761158","verdict":"keep"}
+{"id":"Q60761452","verdict":"keep"}
+{"id":"Q60761458","verdict":"keep"}
+{"id":"Q60761467","verdict":"keep"}
+{"id":"Q60761825","verdict":"keep"}
+{"id":"Q60762070","verdict":"keep"}
+{"id":"Q60762598","verdict":"keep"}
+{"id":"Q60762782","verdict":"keep"}
+{"id":"Q60762918","verdict":"keep"}
+{"id":"Q60763199","verdict":"keep"}
+{"id":"Q60763218","verdict":"keep"}
+{"id":"Q60763456","verdict":"keep","countries":["PH"],"reason":"added countries (Pampangan dessert)"}
+{"id":"Q60764509","verdict":"keep"}
+{"id":"Q60764932","verdict":"keep"}
+{"id":"Q6076542","verdict":"keep"}
+{"id":"Q6076844","verdict":"remove","reason":"grape brandy (liquor), a drink"}
+{"id":"Q607690","verdict":"keep"}
+{"id":"Q60769823","verdict":"keep"}
+{"id":"Q6077023","verdict":"keep"}
+{"id":"Q60770307","verdict":"keep"}
+{"id":"Q6077132","verdict":"keep"}
+{"id":"Q607754","verdict":"keep"}
+{"id":"Q60775555","verdict":"keep"}
+{"id":"Q60776436","verdict":"keep"}
+{"id":"Q60776617","verdict":"keep"}
+{"id":"Q60776626","verdict":"remove","reason":"fish marinating method, a technique page not a dish"}
+{"id":"Q6077919","verdict":"keep"}
+{"id":"Q60785285","verdict":"keep"}
+{"id":"Q60785507","verdict":"keep","countries":["NP"],"reason":"added countries"}
+{"id":"Q60793741","verdict":"keep","countries":["CZ","SK"],"reason":"added countries"}
+{"id":"Q60794865","verdict":"keep","countries":["CN"],"reason":"added countries"}
+{"id":"Q6080770","verdict":"keep"}
+{"id":"Q6081067","verdict":"keep","countries":["ZA"],"reason":"added countries"}
+{"id":"Q6081915","verdict":"keep"}
+{"id":"Q6081918","verdict":"keep"}
+{"id":"Q6081922","verdict":"keep"}
+{"id":"Q60823310","verdict":"keep"}
+{"id":"Q60823349","verdict":"keep"}
+{"id":"Q6082370","verdict":"keep"}
+{"id":"Q6082412","verdict":"keep"}
+{"id":"Q60825499","verdict":"keep","countries":["CO"],"reason":"added countries"}
+{"id":"Q6082957","verdict":"keep"}
+{"id":"Q6083004","verdict":"keep"}
+{"id":"Q6083159","verdict":"remove","reason":"description is about a poisonous plant, not a dish"}
+{"id":"Q6083488","verdict":"keep","countries":["AR"],"reason":"added countries"}
+{"id":"Q6083515","verdict":"keep"}
+{"id":"Q60836556","verdict":"keep"}
+{"id":"Q60837189","verdict":"keep"}
+{"id":"Q60837772","verdict":"keep"}
+{"id":"Q60839299","verdict":"keep"}
+{"id":"Q60841793","verdict":"keep"}
+{"id":"Q60841829","verdict":"keep"}
+{"id":"Q60845769","verdict":"keep"}
+{"id":"Q60845894","verdict":"keep"}
+{"id":"Q60846082","verdict":"keep"}
+{"id":"Q60846897","verdict":"keep"}
+{"id":"Q60846962","verdict":"keep"}
+{"id":"Q60848614","verdict":"keep"}
+{"id":"Q60850036","verdict":"keep"}
+{"id":"Q60851443","verdict":"keep"}
+{"id":"Q60851561","verdict":"keep"}
+{"id":"Q6088454","verdict":"keep"}
+{"id":"Q608979","verdict":"keep","countries":["IR"],"reason":"added countries"}
+{"id":"Q6090810","verdict":"keep"}
+{"id":"Q6090816","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q6092760","verdict":"keep"}
+{"id":"Q6093303","verdict":"keep"}
+{"id":"Q6093643","verdict":"keep"}
+{"id":"Q6094013","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q60945230","verdict":"keep"}
+{"id":"Q6094530","verdict":"keep"}
+{"id":"Q6094551","verdict":"keep"}
+{"id":"Q6094605","verdict":"keep"}
+{"id":"Q6094633","verdict":"keep"}
+{"id":"Q609505","verdict":"keep"}
+{"id":"Q6095240","verdict":"keep"}
+{"id":"Q60964496","verdict":"keep"}
+{"id":"Q60968350","verdict":"keep"}
+{"id":"Q60968355","verdict":"keep","countries":["SE"],"reason":"added countries"}
+{"id":"Q60970570","verdict":"keep"}
+{"id":"Q60974738","verdict":"keep","countries":["RU"],"reason":"SU is not a valid current code; Soviet-era Russian sauce"}
+{"id":"Q60977870","verdict":"keep"}
+{"id":"Q60987380","verdict":"keep"}
+{"id":"Q60989866","verdict":"keep"}
+{"id":"Q6099","verdict":"keep"}
+{"id":"Q60992501","verdict":"keep"}
+{"id":"Q60994541","verdict":"keep"}
+{"id":"Q60996967","verdict":"keep"}
+{"id":"Q60997679","verdict":"keep"}
+{"id":"Q6100269","verdict":"keep"}
+{"id":"Q610130","verdict":"keep"}
+{"id":"Q61037096","verdict":"keep","countries":["EC"],"reason":"added countries"}
+{"id":"Q61043286","verdict":"keep","countries":["DE"],"reason":"added countries"}
+{"id":"Q61045488","verdict":"keep"}
+{"id":"Q61057171","verdict":"keep"}
+{"id":"Q61058275","verdict":"keep"}
+{"id":"Q61065460","verdict":"keep"}
+{"id":"Q6107288","verdict":"keep"}
+{"id":"Q61074537","verdict":"keep"}
+{"id":"Q61075655","verdict":"keep"}
+{"id":"Q61075670","verdict":"keep"}
+{"id":"Q61075818","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q61076655","verdict":"keep"}
+{"id":"Q61078926","verdict":"keep","countries":["NZ"],"reason":"added countries"}
+{"id":"Q610794","verdict":"keep"}
+{"id":"Q61081704","verdict":"keep"}
+{"id":"Q61082068","verdict":"keep"}
+{"id":"Q61085168","verdict":"keep"}
+{"id":"Q61088572","verdict":"keep"}
+{"id":"Q61088582","verdict":"keep"}
+{"id":"Q61090667","verdict":"keep"}
+{"id":"Q61090700","verdict":"keep"}
+{"id":"Q6109326","verdict":"keep"}
+{"id":"Q61095632","verdict":"keep"}
+{"id":"Q61096026","verdict":"keep"}
+{"id":"Q61099328","verdict":"remove","reason":"branded packaged snack (Lotte Well Food)"}
+{"id":"Q61114524","verdict":"keep"}
+{"id":"Q61114577","verdict":"keep"}
+{"id":"Q61114583","verdict":"keep"}
+{"id":"Q611164","verdict":"keep"}
+{"id":"Q61117066","verdict":"keep"}
+{"id":"Q6112462","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q6112467","verdict":"keep"}
+{"id":"Q6112469","verdict":"keep"}
+{"id":"Q6112625","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q6112627","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q6112629","verdict":"keep"}
+{"id":"Q6112632","verdict":"keep"}
+{"id":"Q61127179","verdict":"keep"}
+{"id":"Q61127980","verdict":"keep"}
+{"id":"Q61128129","verdict":"keep","countries":["BA"],"reason":"added countries"}
+{"id":"Q61128132","verdict":"keep"}
+{"id":"Q61129128","verdict":"keep"}
+{"id":"Q61134376","verdict":"keep"}
+{"id":"Q61139247","verdict":"keep"}
+{"id":"Q6116728","verdict":"keep"}
+{"id":"Q6117020","verdict":"keep","countries":["BO"],"reason":"added countries"}
+{"id":"Q6117115","verdict":"keep"}
+{"id":"Q6117451","verdict":"keep"}
+{"id":"Q6117472","verdict":"keep"}
+{"id":"Q6119871","verdict":"keep","countries":["DO"],"reason":"added countries"}
+{"id":"Q612128","verdict":"keep"}
+{"id":"Q6121521","verdict":"keep"}
+{"id":"Q6121684","verdict":"keep"}
+{"id":"Q6121698","verdict":"keep","countries":["KR"],"reason":"added countries"}
+{"id":"Q612283","verdict":"keep"}
+{"id":"Q6123113","verdict":"keep"}
+{"id":"Q6125429","verdict":"keep"}
+{"id":"Q6126022","verdict":"keep"}
+{"id":"Q612661","verdict":"keep"}
+{"id":"Q6126666","verdict":"keep","countries":["US"],"reason":"added countries"}
+{"id":"Q6127173","verdict":"keep"}
+{"id":"Q6127463","verdict":"remove","reason":"a cooking style (technique), not a dish"}
+{"id":"Q61315167","verdict":"keep"}
+{"id":"Q6131903","verdict":"keep"}
+{"id":"Q6132408","verdict":"keep"}
+{"id":"Q6132420","verdict":"keep"}
+{"id":"Q6132427","verdict":"keep"}
+{"id":"Q6132431","verdict":"keep"}
+{"id":"Q6132434","verdict":"keep"}
+{"id":"Q6132435","verdict":"keep"}
+{"id":"Q6132927","verdict":"keep"}
+{"id":"Q61355028","verdict":"keep"}
+{"id":"Q61355424","verdict":"keep","countries":["IN","BD"],"reason":"added countries"}
+{"id":"Q61356432","verdict":"remove","reason":"generic bread slice, not a dish"}
+{"id":"Q61357071","verdict":"keep"}
+{"id":"Q61359762","verdict":"keep","countries":["IN"],"reason":"added countries"}
+{"id":"Q61359888","verdict":"keep","countries":["BD"],"reason":"added countries"}
+{"id":"Q61360399","verdict":"keep","countries":["BD"],"reason":"added countries"}
+{"id":"Q61360646","verdict":"keep","countries":["BD"],"reason":"added countries"}
+{"id":"Q61360738","verdict":"keep"}
+{"id":"Q61361153","verdict":"keep","countries":["ID"],"reason":"added countries"}
+{"id":"Q61361712","verdict":"keep","countries":["KR"],"reason":"added countries"}
+{"id":"Q61365210","verdict":"keep"}
+{"id":"Q61365250","verdict":"keep"}
+{"id":"Q61365793","verdict":"keep"}
+{"id":"Q61366417","verdict":"keep"}
+{"id":"Q61366482","verdict":"keep"}
+{"id":"Q6137009","verdict":"keep"}
+{"id":"Q613717","verdict":"keep"}
+{"id":"Q6137769","verdict":"keep"}
+{"id":"Q61378827","verdict":"keep"}
+{"id":"Q61379780","verdict":"keep","countries":["LT"],"reason":"added countries"}
+{"id":"Q6139075","verdict":"keep"}
+{"id":"Q6139083","verdict":"keep"}
+{"id":"Q61407777","verdict":"keep","countries":["IT"],"reason":"added countries"}
+{"id":"Q6146843","verdict":"keep"}
+{"id":"Q61473708","verdict":"keep","countries":["SE"],"reason":"added countries"}
+{"id":"Q61473727","verdict":"keep","countries":["SE"],"reason":"added countries"}
+{"id":"Q6147415","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q614757","verdict":"remove","reason":"archaeological bog find, a museum piece"}
+{"id":"Q61497867","verdict":"keep"}
+{"id":"Q6150972","verdict":"keep"}
+{"id":"Q6150975","verdict":"keep"}
+{"id":"Q6150978","verdict":"keep"}
+{"id":"Q6150980","verdict":"keep"}
+{"id":"Q6150997","verdict":"keep"}
+{"id":"Q6151004","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q6151013","verdict":"keep"}
+{"id":"Q6151068","verdict":"keep"}
+{"id":"Q6151070","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q615315","verdict":"keep"}
+{"id":"Q6154023","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q6154033","verdict":"keep","countries":["KR"],"reason":"added countries"}
+{"id":"Q6155199","verdict":"keep","countries":["MX"],"reason":"added countries"}
+{"id":"Q61579505","verdict":"keep"}
+{"id":"Q61581272","verdict":"keep","countries":["AR"],"reason":"added countries"}
+{"id":"Q61612","verdict":"keep"}
+{"id":"Q6169641","verdict":"keep"}
+{"id":"Q6169928","verdict":"keep"}
+{"id":"Q6170718","verdict":"keep"}
+{"id":"Q6171844","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q617216","verdict":"keep"}
+{"id":"Q61743260","verdict":"keep"}
+{"id":"Q61750516","verdict":"keep","countries":["CA"],"reason":"added countries"}
+{"id":"Q61767137","verdict":"keep"}
+{"id":"Q6176869","verdict":"keep"}
+{"id":"Q6176900","verdict":"keep"}
+{"id":"Q6177646","verdict":"remove","reason":"chewing gum brand (Jenkki)"}
+{"id":"Q61794309","verdict":"keep","countries":["CN"],"reason":"added countries"}
+{"id":"Q618291","verdict":"keep","countries":["CZ"],"reason":"added countries"}
+{"id":"Q618345","verdict":"keep"}
+{"id":"Q6185223","verdict":"keep"}
+{"id":"Q61888328","verdict":"keep"}
+{"id":"Q618910","verdict":"keep"}
+{"id":"Q6189326","verdict":"keep","countries":["KR"],"reason":"added countries"}
+{"id":"Q6189729","verdict":"keep"}
+{"id":"Q61905778","verdict":"keep","countries":["DE"],"reason":"added countries"}
+{"id":"Q6192002","verdict":"keep"}
+{"id":"Q6192074","verdict":"keep"}
+{"id":"Q6192335","verdict":"keep"}
+{"id":"Q619414","verdict":"keep","countries":["IR"],"reason":"added Iran; Abgoosht is Persian"}
+{"id":"Q61958895","verdict":"keep"}
+{"id":"Q61964538","verdict":"keep"}
+{"id":"Q61984600","verdict":"keep"}
+{"id":"Q62005905","verdict":"keep"}
+{"id":"Q62018789","verdict":"keep"}
+{"id":"Q62019316","verdict":"keep"}
+{"id":"Q62067066","verdict":"keep","countries":["PE"],"reason":"added countries"}
+{"id":"Q62067425","verdict":"keep"}
+{"id":"Q62096367","verdict":"keep","countries":["NO"],"reason":"added countries"}
+{"id":"Q620967","verdict":"keep"}
+{"id":"Q62101829","verdict":"keep"}
+{"id":"Q62102359","verdict":"keep"}
+{"id":"Q6214793","verdict":"keep"}
+{"id":"Q622440","verdict":"keep"}
+{"id":"Q622547","verdict":"keep"}
+{"id":"Q62271704","verdict":"keep"}
+{"id":"Q623247","verdict":"keep"}
+{"id":"Q623550","verdict":"keep"}
+{"id":"Q623923","verdict":"keep"}
+{"id":"Q624004","verdict":"keep"}
+{"id":"Q62419125","verdict":"keep","countries":["DE"],"reason":"added countries"}
+{"id":"Q624391","verdict":"keep","countries":["DE"],"reason":"added countries"}
+{"id":"Q625539","verdict":"keep"}
+{"id":"Q625825","verdict":"keep","countries":[],"reason":"UA was wrong; custard is a generic preparation with no single origin"}
+{"id":"Q626125","verdict":"keep"}
+{"id":"Q626147","verdict":"keep"}
+{"id":"Q626167","verdict":"keep"}
+{"id":"Q6267210","verdict":"keep"}
+{"id":"Q626723","verdict":"keep"}
+{"id":"Q6269807","verdict":"keep","countries":["KR"],"reason":"added countries"}
+{"id":"Q6269826","verdict":"keep"}
+{"id":"Q627744","verdict":"keep"}
+{"id":"Q6279092","verdict":"remove","reason":"branded packaged snack cake (Jos. Louis)"}
+{"id":"Q629345","verdict":"keep"}
+{"id":"Q6297757","verdict":"keep"}
+{"id":"Q629936","verdict":"keep"}

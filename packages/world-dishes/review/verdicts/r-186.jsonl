@@ -1,0 +1,34 @@
+{"id":"wikibooks-hu:fekete-retek-hagymával","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FK%C3%B3ser%2FEl%C5%91%C3%A9telek%2FFekete_retek_hagym%C3%A1val","status":"ok"}]}
+{"id":"wikibooks-hu:fekete-reteksaláta","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FSal%C3%A1ta%2FFekete_reteksal%C3%A1ta","status":"ok"},{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FSal%C3%A1ta%2FFekete_reteksal%C3%A1ta_2.","status":"ok"}]}
+{"id":"wikibooks-hu:fekete-ribiszke-szörp","verdict":"remove","reason":"drink (fruit syrup concentrate)"}
+{"id":"wikibooks-hu:fekete-ribiszkelé","verdict":"remove","reason":"drink (soft drink / juice)"}
+{"id":"wikibooks-hu:fekete-ribizlilikőr","verdict":"remove","reason":"drink (liqueur)"}
+{"id":"wikibooks-hu:fekete-ribizliszörp","verdict":"remove","reason":"drink (fruit syrup concentrate)"}
+{"id":"wikibooks-hu:feketeáfonya-limonádé","verdict":"remove","reason":"drink (lemonade)"}
+{"id":"wikibooks-hu:felvidéki-göngyölt-felsál","verdict":"keep","countries":["HU","SK"],"reason":"name refers to Felvidék (Upper Hungary); added countries","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FH%C3%BAsok%2FMarha%2FFelvid%C3%A9ki_g%C3%B6ngy%C3%B6lt_fels%C3%A1l","status":"ok"}]}
+{"id":"wikibooks-hu:fényezett-pulykacomb","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FH%C3%BAsok%2FSz%C3%A1rnyasok%2FF%C3%A9nyezett_pulykacomb","status":"ok"}]}
+{"id":"wikibooks-hu:fenyőcsúcslikőr","verdict":"remove","reason":"drink (liqueur)"}
+{"id":"wikibooks-hu:ferenc-napi-pogácsa","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FS%C3%BCtem%C3%A9nyek%2FPog%C3%A1csa%2FFerenc_napi_pog%C3%A1csa","status":"ok"}]}
+{"id":"wikibooks-hu:fetás-kiflik","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FS%C3%BCtem%C3%A9nyek%2FKeltkal%C3%A1cs%2FFet%C3%A1s_kiflik","status":"ok"}]}
+{"id":"wikibooks-hu:fincsi-gofri","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FGofri%2FFincsi-gofri","status":"ok"}]}
+{"id":"wikibooks-hu:fines-herbes-mártás","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FM%C3%A1rt%C3%A1sok%2FFines-herbes_m%C3%A1rt%C3%A1s","status":"ok"}]}
+{"id":"wikibooks-hu:finn-palacsinta","verdict":"keep","countries":["FI"],"reason":"Finnish-named dish; added country","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FPalacsint%C3%A1k%2FFinn_palacsinta","status":"ok"}]}
+{"id":"wikibooks-hu:finom-almás-lepény","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FS%C3%BCtem%C3%A9nyek%2FLep%C3%A9nyek%2FFinom_alm%C3%A1s_lep%C3%A9ny","status":"ok"}]}
+{"id":"wikibooks-hu:finom-farsangi-fánk","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FZs%C3%ADrban_s%C3%BCltek%2FF%C3%A1nkok%2FFinom_farsangi_f%C3%A1nk","status":"ok"}]}
+{"id":"wikibooks-hu:finom-fűszermártás","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FM%C3%A1rt%C3%A1sok%2FFinom_f%C5%B1szerm%C3%A1rt%C3%A1s","status":"ok"}]}
+{"id":"wikibooks-hu:finom-gyümölcsös-muffin","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FS%C3%BCtem%C3%A9nyek%2FMuffin%2F%C3%89des_muffin%2FFinom_gy%C3%BCm%C3%B6lcs%C3%B6s_muffin","status":"ok"}]}
+{"id":"wikibooks-hu:finom-ízes-töltelék","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FPalacsinta_t%C3%B6ltel%C3%A9kek%2FFinom_%C3%ADzes_t%C3%B6ltel%C3%A9k","status":"ok"}]}
+{"id":"wikibooks-hu:finom-kamillatea","verdict":"remove","reason":"drink (herbal tea)"}
+{"id":"wikibooks-hu:finom-kuglóf","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FS%C3%BCtem%C3%A9nyek%2FKugl%C3%B3f%2FFinom_kugl%C3%B3f","status":"ok"},{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FS%C3%BCtem%C3%A9nyek%2FKugl%C3%B3f%2FFinom_kugl%C3%B3f_2.","status":"ok"}]}
+{"id":"wikibooks-hu:finom-muffin","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FS%C3%BCtem%C3%A9nyek%2FMuffin%2F%C3%89des_muffin%2FFinom_muffin","status":"ok"}]}
+{"id":"wikibooks-hu:finom-sertésláb","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FH%C3%BAsok%2FSert%C3%A9sh%C3%BAs%2FFinom_sert%C3%A9sl%C3%A1b","status":"ok"}]}
+{"id":"wikibooks-hu:finom-szelet","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FS%C3%BCtem%C3%A9nyek%2FDi%C3%B3s%2FFinom_szelet","status":"ok"}]}
+{"id":"wikibooks-hu:finom-tolófánk","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FZs%C3%ADrban_s%C3%BCltek%2FF%C3%A1nkok%2FFinom_tol%C3%B3f%C3%A1nk","status":"ok"}]}
+{"id":"wikibooks-hu:finom-töltött-burgonya","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FN%C3%B6v%C3%A9nyek%2FBurgony%C3%A1s%2FFinom_t%C3%B6lt%C3%B6tt_burgonya","status":"ok"}]}
+{"id":"wikibooks-hu:finom-túrókrém","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FS%C3%BCtem%C3%A9nyek%2FT%C3%BAr%C3%B3s%2FFinom_t%C3%BAr%C3%B3kr%C3%A9m","status":"ok"}]}
+{"id":"wikibooks-hu:finomfű-mártás","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FM%C3%A1rt%C3%A1sok%2FFinomf%C5%B1_m%C3%A1rt%C3%A1s","status":"ok"}]}
+{"id":"wikibooks-hu:finommetélt","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FLevesbet%C3%A9t%2FFinommet%C3%A9lt","status":"ok"}]}
+{"id":"wikibooks-hu:firenzei-csavart","verdict":"keep","countries":["IT"],"reason":"Florentine dish (Firenzei); added country","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FF%C5%91tt_t%C3%A9szt%C3%A1k%2FFirenzei_csavart","status":"ok"}]}
+{"id":"wikibooks-hu:flamand-káposzta-saláta","verdict":"keep","countries":["BE"],"reason":"Flemish-named dish; added country","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FSal%C3%A1ta%2FFlamand_k%C3%A1poszta_sal%C3%A1ta","status":"ok"}]}
+{"id":"wikibooks-hu:flambírozott-gesztenyés","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FPalacsint%C3%A1k%2FFlamb%C3%ADrozott_geszteny%C3%A9s","status":"ok"}]}
+{"id":"wikibooks-hu:florentin-pacal","verdict":"keep","countries":["IT"],"reason":"Florentine dish (Trippa alla Fiorentina); added country","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FH%C3%BAsok%2FBels%C5%91s%C3%A9g%2FPacal%2FFlorentin_pacal","status":"ok"}]}

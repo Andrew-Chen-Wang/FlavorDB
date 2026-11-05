@@ -1,0 +1,300 @@
+{"id":"Q12563760","verdict":"keep"}
+{"id":"Q12564210","verdict":"keep"}
+{"id":"Q125660200","verdict":"keep"}
+{"id":"Q125661541","verdict":"keep"}
+{"id":"Q125681425","verdict":"keep","countries":["AZ"],"reason":"countries were empty; Azerbaijani cookie"}
+{"id":"Q12568984","verdict":"keep","countries":["KZ"],"reason":"countries were empty; Kazakh sausage"}
+{"id":"Q12569086","verdict":"keep","countries":["RU"],"reason":"countries were empty; Buryat dish (Russia)"}
+{"id":"Q12569285","verdict":"keep"}
+{"id":"Q125700998","verdict":"keep"}
+{"id":"Q12570482","verdict":"keep"}
+{"id":"Q12571403","verdict":"keep"}
+{"id":"Q12572081","verdict":"keep","countries":["RU"],"reason":"countries were empty; Bashkir dish (Russia)"}
+{"id":"Q125728421","verdict":"keep"}
+{"id":"Q125730878","verdict":"keep"}
+{"id":"Q125738914","verdict":"keep","countries":["IT"],"reason":"countries were empty; Sicilian pasta dish"}
+{"id":"Q12574039","verdict":"keep"}
+{"id":"Q125744517","verdict":"keep"}
+{"id":"Q125744524","verdict":"keep","countries":["DZ"],"reason":"countries were empty; Algerian dish"}
+{"id":"Q125747968","verdict":"keep","countries":["FR"],"reason":"countries were empty; Normandy dish"}
+{"id":"Q125749843","verdict":"keep"}
+{"id":"Q12574985","verdict":"keep"}
+{"id":"Q125750003","verdict":"keep"}
+{"id":"Q12575016","verdict":"keep"}
+{"id":"Q125750575","verdict":"keep"}
+{"id":"Q12575407","verdict":"keep"}
+{"id":"Q125754246","verdict":"keep"}
+{"id":"Q125762872","verdict":"keep"}
+{"id":"Q125768378","verdict":"keep","countries":["PH"],"reason":"countries were empty; Filipino dish"}
+{"id":"Q1257791","verdict":"keep"}
+{"id":"Q125787688","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian pasta dish"}
+{"id":"Q12578785","verdict":"keep"}
+{"id":"Q12579156","verdict":"keep"}
+{"id":"Q125797909","verdict":"keep"}
+{"id":"Q125801330","verdict":"keep"}
+{"id":"Q1258151","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian pastry"}
+{"id":"Q125823765","verdict":"remove","reason":"drinking cup (object), not food"}
+{"id":"Q12583445","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean dish"}
+{"id":"Q12584589","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean bread"}
+{"id":"Q12584598","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese dessert"}
+{"id":"Q125848063","verdict":"keep","countries":["BR"],"reason":"countries were empty; Brazilian dish"}
+{"id":"Q1258510","verdict":"keep"}
+{"id":"Q12585924","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean snack"}
+{"id":"Q125861439","verdict":"keep"}
+{"id":"Q125863016","verdict":"keep"}
+{"id":"Q1258670","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"Q125867352","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese noodle dish"}
+{"id":"Q125876944","verdict":"keep","name":"زلابية بوفاريك","reason":"underscore in name"}
+{"id":"Q125882310","verdict":"keep"}
+{"id":"Q125891711","verdict":"keep"}
+{"id":"Q125891722","verdict":"keep"}
+{"id":"Q125891751","verdict":"keep"}
+{"id":"Q125893923","verdict":"keep"}
+{"id":"Q125895553","verdict":"keep"}
+{"id":"Q125905146","verdict":"keep"}
+{"id":"Q12590788","verdict":"keep"}
+{"id":"Q12591047","verdict":"keep"}
+{"id":"Q125911836","verdict":"keep"}
+{"id":"Q1259136","verdict":"keep","countries":["IE"],"reason":"countries were empty; Irish blood sausage"}
+{"id":"Q12591784","verdict":"keep"}
+{"id":"Q125919992","verdict":"keep"}
+{"id":"Q125921077","verdict":"keep"}
+{"id":"Q12593188","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean dish"}
+{"id":"Q12593636","verdict":"keep"}
+{"id":"Q125941414","verdict":"keep"}
+{"id":"Q125942798","verdict":"keep"}
+{"id":"Q125945201","verdict":"keep","countries":["BE"],"reason":"countries were empty; Malmedy (Belgium) salad"}
+{"id":"Q125947773","verdict":"keep","countries":["FR"],"reason":"countries were empty; French pastry"}
+{"id":"Q125961310","verdict":"remove","reason":"citrus cultivar (orange variety), not a dish"}
+{"id":"Q125963115","verdict":"remove","reason":"citrus hybrid (fruit), not a dish"}
+{"id":"Q125992703","verdict":"keep"}
+{"id":"Q12599371","verdict":"keep"}
+{"id":"Q12599538","verdict":"keep","countries":["KR"],"reason":"countries were empty; Jeju (Korea) dish"}
+{"id":"Q125996418","verdict":"keep"}
+{"id":"Q125999569","verdict":"keep"}
+{"id":"Q12600103","verdict":"keep"}
+{"id":"Q126044669","verdict":"keep"}
+{"id":"Q126076817","verdict":"keep"}
+{"id":"Q12608980","verdict":"keep"}
+{"id":"Q126091181","verdict":"keep"}
+{"id":"Q126098121","verdict":"keep"}
+{"id":"Q126107460","verdict":"keep"}
+{"id":"Q126163056","verdict":"keep"}
+{"id":"Q12616544","verdict":"remove","reason":"category of ritual dishes (jesa), not one dish"}
+{"id":"Q126171749","verdict":"keep"}
+{"id":"Q126174164","verdict":"keep","countries":["US"],"reason":"countries were empty; American cake"}
+{"id":"Q12618468","verdict":"keep"}
+{"id":"Q126190581","verdict":"keep"}
+{"id":"Q12619366","verdict":"keep"}
+{"id":"Q12620637","verdict":"keep"}
+{"id":"Q12621434","verdict":"keep"}
+{"id":"Q1262538","verdict":"keep"}
+{"id":"Q12627962","verdict":"remove","reason":"herb spirit (liquor), a drink"}
+{"id":"Q126282439","verdict":"keep"}
+{"id":"Q126284886","verdict":"keep"}
+{"id":"Q12631969","verdict":"keep"}
+{"id":"Q12632250","verdict":"keep"}
+{"id":"Q126328858","verdict":"keep","countries":["NO"],"reason":"countries were empty; Norwegian dish"}
+{"id":"Q12632900","verdict":"keep"}
+{"id":"Q12633056","verdict":"keep"}
+{"id":"Q12634585","verdict":"keep"}
+{"id":"Q12634793","verdict":"keep"}
+{"id":"Q126364815","verdict":"keep"}
+{"id":"Q126370082","verdict":"keep"}
+{"id":"Q12640393","verdict":"keep"}
+{"id":"Q126434266","verdict":"keep"}
+{"id":"Q1265899","verdict":"keep"}
+{"id":"Q126598260","verdict":"keep"}
+{"id":"Q126598273","verdict":"keep"}
+{"id":"Q1266715","verdict":"keep"}
+{"id":"Q126681364","verdict":"keep"}
+{"id":"Q126709310","verdict":"keep"}
+{"id":"Q126718176","verdict":"keep"}
+{"id":"Q126736819","verdict":"keep"}
+{"id":"Q1267766","verdict":"keep"}
+{"id":"Q126777","verdict":"keep"}
+{"id":"Q126783792","verdict":"keep"}
+{"id":"Q1268122","verdict":"keep"}
+{"id":"Q12681999","verdict":"keep"}
+{"id":"Q12682917","verdict":"keep"}
+{"id":"Q12684230","verdict":"keep"}
+{"id":"Q12684337","verdict":"keep"}
+{"id":"Q1268555","verdict":"keep"}
+{"id":"Q126856764","verdict":"keep"}
+{"id":"Q12686079","verdict":"keep"}
+{"id":"Q126862111","verdict":"keep"}
+{"id":"Q126874473","verdict":"keep"}
+{"id":"Q126888623","verdict":"keep"}
+{"id":"Q12690604","verdict":"keep"}
+{"id":"Q12690611","verdict":"keep"}
+{"id":"Q12690615","verdict":"keep"}
+{"id":"Q12690618","verdict":"keep"}
+{"id":"Q12690622","verdict":"keep"}
+{"id":"Q12690624","verdict":"keep"}
+{"id":"Q126906240","verdict":"keep"}
+{"id":"Q12690627","verdict":"keep"}
+{"id":"Q12690634","verdict":"keep"}
+{"id":"Q126907616","verdict":"keep"}
+{"id":"Q126910292","verdict":"keep"}
+{"id":"Q12691235","verdict":"keep"}
+{"id":"Q126914195","verdict":"keep"}
+{"id":"Q126919465","verdict":"keep"}
+{"id":"Q126938440","verdict":"keep"}
+{"id":"Q126943933","verdict":"keep"}
+{"id":"Q126946571","verdict":"keep"}
+{"id":"Q126956532","verdict":"keep"}
+{"id":"Q126961970","verdict":"keep"}
+{"id":"Q12698743","verdict":"keep"}
+{"id":"Q12700644","verdict":"keep"}
+{"id":"Q12701417","verdict":"keep"}
+{"id":"Q127037926","verdict":"keep"}
+{"id":"Q1270535","verdict":"keep"}
+{"id":"Q12709581","verdict":"keep"}
+{"id":"Q12709593","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian-origin pasta dish"}
+{"id":"Q12711188","verdict":"keep"}
+{"id":"Q1271177","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"Q12713735","verdict":"keep"}
+{"id":"Q12713819","verdict":"keep"}
+{"id":"Q12715233","verdict":"keep"}
+{"id":"Q12716458","verdict":"keep"}
+{"id":"Q127164636","verdict":"keep"}
+{"id":"Q127165110","verdict":"keep"}
+{"id":"Q12717245","verdict":"keep"}
+{"id":"Q127256854","verdict":"keep"}
+{"id":"Q127271189","verdict":"keep"}
+{"id":"Q12728629","verdict":"keep","countries":["RO"],"reason":"countries were empty; Romanian dish"}
+{"id":"Q12729772","verdict":"keep","countries":["RO"],"reason":"countries were empty; Romanian dish"}
+{"id":"Q127316296","verdict":"keep"}
+{"id":"Q127344726","verdict":"remove","reason":"branded packaged candy (AirHeads multi-pack)"}
+{"id":"Q127344987","verdict":"remove","reason":"branded packaged candy (AirHeads multi-pack)"}
+{"id":"Q127345419","verdict":"remove","reason":"branded packaged candy (AirHeads multi-pack)"}
+{"id":"Q12738131","verdict":"keep","countries":["RO"],"reason":"countries were empty; Romanian dish"}
+{"id":"Q127388","verdict":"keep"}
+{"id":"Q12740865","verdict":"keep","countries":["RO"],"reason":"countries were empty; Romanian preserve"}
+{"id":"Q127420779","verdict":"keep"}
+{"id":"Q127420982","verdict":"keep"}
+{"id":"Q127420994","verdict":"keep"}
+{"id":"Q127433632","verdict":"keep"}
+{"id":"Q127434113","verdict":"keep"}
+{"id":"Q12743560","verdict":"keep"}
+{"id":"Q12744663","verdict":"keep","countries":["RS"],"reason":"countries were empty; Serbian dish"}
+{"id":"Q127460400","verdict":"keep"}
+{"id":"Q127477120","verdict":"keep"}
+{"id":"Q127505297","verdict":"keep"}
+{"id":"Q127505622","verdict":"keep"}
+{"id":"Q127509818","verdict":"keep"}
+{"id":"Q127513241","verdict":"keep"}
+{"id":"Q127513534","verdict":"keep"}
+{"id":"Q127514863","verdict":"keep"}
+{"id":"Q12752003","verdict":"keep"}
+{"id":"Q127532457","verdict":"keep"}
+{"id":"Q1275331","verdict":"remove","reason":"ingredient article (cut of beef), not a dish"}
+{"id":"Q1275345","verdict":"keep"}
+{"id":"Q12754541","verdict":"keep"}
+{"id":"Q1275518","verdict":"keep"}
+{"id":"Q12757321","verdict":"keep"}
+{"id":"Q12758929","verdict":"keep"}
+{"id":"Q127599395","verdict":"keep"}
+{"id":"Q127606236","verdict":"keep"}
+{"id":"Q12761030","verdict":"keep"}
+{"id":"Q127685020","verdict":"keep"}
+{"id":"Q127685368","verdict":"keep"}
+{"id":"Q127688644","verdict":"keep"}
+{"id":"Q12777734","verdict":"keep"}
+{"id":"Q12784236","verdict":"keep"}
+{"id":"Q12785386","verdict":"keep"}
+{"id":"Q12785648","verdict":"keep"}
+{"id":"Q1278785","verdict":"keep"}
+{"id":"Q1278788","verdict":"keep"}
+{"id":"Q1278795","verdict":"keep"}
+{"id":"Q127975406","verdict":"keep"}
+{"id":"Q12799268","verdict":"keep"}
+{"id":"Q128006259","verdict":"keep"}
+{"id":"Q128034120","verdict":"remove","reason":"branded candy (Trolli)"}
+{"id":"Q12806195","verdict":"keep"}
+{"id":"Q12806669","verdict":"keep"}
+{"id":"Q12808559","verdict":"keep"}
+{"id":"Q12809407","verdict":"keep"}
+{"id":"Q12809408","verdict":"keep"}
+{"id":"Q12810864","verdict":"keep"}
+{"id":"Q12811344","verdict":"keep"}
+{"id":"Q12812242","verdict":"keep"}
+{"id":"Q12812711","verdict":"keep"}
+{"id":"Q12812820","verdict":"keep"}
+{"id":"Q12812924","verdict":"keep"}
+{"id":"Q12812990","verdict":"keep"}
+{"id":"Q12813066","verdict":"keep"}
+{"id":"Q12814360","verdict":"keep"}
+{"id":"Q12817265","verdict":"keep"}
+{"id":"Q12821","verdict":"keep"}
+{"id":"Q12822374","verdict":"keep"}
+{"id":"Q128239140","verdict":"keep"}
+{"id":"Q12824052","verdict":"keep"}
+{"id":"Q128257664","verdict":"keep"}
+{"id":"Q12827502","verdict":"keep"}
+{"id":"Q12829823","verdict":"keep"}
+{"id":"Q12835574","verdict":"keep"}
+{"id":"Q12837200","verdict":"keep"}
+{"id":"Q12838065","verdict":"keep"}
+{"id":"Q1283824","verdict":"keep"}
+{"id":"Q12839883","verdict":"keep"}
+{"id":"Q12841103","verdict":"keep"}
+{"id":"Q12844474","verdict":"keep"}
+{"id":"Q12845074","verdict":"keep"}
+{"id":"Q12845878","verdict":"keep"}
+{"id":"Q12848581","verdict":"keep"}
+{"id":"Q12848613","verdict":"keep"}
+{"id":"Q1284887","verdict":"keep"}
+{"id":"Q12849581","verdict":"keep"}
+{"id":"Q12850403","verdict":"keep"}
+{"id":"Q12850447","verdict":"keep"}
+{"id":"Q1285427","verdict":"keep"}
+{"id":"Q12859415","verdict":"remove","reason":"branded instant noodle product (Pot Noodle)"}
+{"id":"Q12862169","verdict":"keep","countries":["GE"],"reason":"countries were empty; Georgian dish"}
+{"id":"Q12866","verdict":"keep"}
+{"id":"Q1286804","verdict":"keep"}
+{"id":"Q128713376","verdict":"keep"}
+{"id":"Q12874138","verdict":"keep"}
+{"id":"Q128752600","verdict":"keep"}
+{"id":"Q1287602","verdict":"keep"}
+{"id":"Q128791403","verdict":"keep"}
+{"id":"Q1287919","verdict":"keep"}
+{"id":"Q128803497","verdict":"keep"}
+{"id":"Q128804541","verdict":"keep"}
+{"id":"Q12880652","verdict":"keep"}
+{"id":"Q12880790","verdict":"keep"}
+{"id":"Q12881337","verdict":"keep"}
+{"id":"Q12884619","verdict":"keep"}
+{"id":"Q12884882","verdict":"keep"}
+{"id":"Q12885736","verdict":"keep"}
+{"id":"Q128882024","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128882095","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128882129","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128882158","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128882198","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128882269","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128882427","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128882577","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128882613","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128882707","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128882967","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128883042","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128883136","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128883163","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128883192","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128883228","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128883252","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128883353","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128883474","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128883508","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128883567","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128883700","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128883735","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128883760","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128883786","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128883823","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128883904","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128884006","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128884042","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128884069","verdict":"remove","reason":"branded hard candy flavor (Jolly Rancher)"}
+{"id":"Q128903900","verdict":"keep"}

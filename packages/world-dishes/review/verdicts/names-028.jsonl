@@ -1,0 +1,300 @@
+{"id":"Q16706914","verdict":"keep"}
+{"id":"Q1671107","verdict":"keep"}
+{"id":"Q1671818","verdict":"keep","countries":["IT"],"reason":"Sicilian dish; countries were empty"}
+{"id":"Q16724480","verdict":"keep","countries":["CN"],"reason":"Cantonese dish; countries were empty"}
+{"id":"Q16726108","verdict":"keep"}
+{"id":"Q16726459","verdict":"remove","reason":"packaged instant noodle product (Korean ramyeon brand item)"}
+{"id":"Q167309","verdict":"keep"}
+{"id":"Q16735597","verdict":"keep","countries":["FR"],"reason":"Breton sablé from Brittany, France; countries were empty"}
+{"id":"Q16738075","verdict":"keep"}
+{"id":"Q1674567","verdict":"keep"}
+{"id":"Q16761486","verdict":"keep","countries":["BA","HR","RS"],"reason":"Balkan pastry; countries were empty"}
+{"id":"Q16763507","verdict":"keep"}
+{"id":"Q16764515","verdict":"keep"}
+{"id":"Q16765345","verdict":"keep"}
+{"id":"Q167692","verdict":"keep"}
+{"id":"Q16773140","verdict":"keep"}
+{"id":"Q16773515","verdict":"keep"}
+{"id":"Q16780","verdict":"keep","countries":["IT"],"reason":"Sicilian salad; countries were empty"}
+{"id":"Q167893","verdict":"keep"}
+{"id":"Q16797858","verdict":"keep","countries":["CN"],"reason":"Tibetan dish; countries were empty"}
+{"id":"Q16800965","verdict":"keep"}
+{"id":"Q16802048","verdict":"keep"}
+{"id":"Q16814592","verdict":"keep","countries":["US"],"reason":"New England/American oyster stew; countries were empty"}
+{"id":"Q16823983","verdict":"keep"}
+{"id":"Q168263","verdict":"keep"}
+{"id":"Q16826630","verdict":"keep","countries":["PL"],"reason":"Polish confectionery; countries were empty"}
+{"id":"Q16828019","verdict":"keep","countries":["GR","TR"],"reason":"Aegean dish; countries were empty"}
+{"id":"Q16834113","verdict":"keep"}
+{"id":"Q16834380","verdict":"keep"}
+{"id":"Q16834748","verdict":"keep","countries":["GR","TR"],"reason":"Papoutsaki is Greek and Turkish; countries were empty"}
+{"id":"Q16836241","verdict":"keep"}
+{"id":"Q16836245","verdict":"keep"}
+{"id":"Q16836532","verdict":"keep"}
+{"id":"Q1683716","verdict":"keep"}
+{"id":"Q16837973","verdict":"keep","countries":["GB","US"],"reason":"English and North American funeral biscuit; countries were empty"}
+{"id":"Q16839272","verdict":"keep","countries":["TR"],"reason":"Salad made commonly in Turkey; countries were empty"}
+{"id":"Q16840771","verdict":"keep"}
+{"id":"Q16841290","verdict":"keep"}
+{"id":"Q16843658","verdict":"keep"}
+{"id":"Q16844050","verdict":"keep"}
+{"id":"Q16845173","verdict":"keep"}
+{"id":"Q16847095","verdict":"keep"}
+{"id":"Q1684741","verdict":"remove","reason":"drink (Swiss schnapps)"}
+{"id":"Q16847884","verdict":"keep"}
+{"id":"Q1684997","verdict":"keep"}
+{"id":"Q16850213","verdict":"keep","countries":["US"],"reason":"Southwestern US side dish; countries were empty"}
+{"id":"Q16852074","verdict":"keep","countries":["JO","LB","PS","SY"],"reason":"Levantine Arab bread/cake; IR and PK were wrong"}
+{"id":"Q16852388","verdict":"keep"}
+{"id":"Q16852506","verdict":"keep"}
+{"id":"Q16855480","verdict":"keep","countries":["DE"],"reason":"German soup; countries were empty"}
+{"id":"Q16858629","verdict":"keep"}
+{"id":"Q16858710","verdict":"keep","countries":["BA","HR","RS"],"reason":"Balkan pastry; countries were empty"}
+{"id":"Q16860933","verdict":"keep","countries":["PL"],"reason":"Polish potato pancakes; countries were empty"}
+{"id":"Q16861024","verdict":"keep"}
+{"id":"Q16861033","verdict":"keep"}
+{"id":"Q16861199","verdict":"keep"}
+{"id":"Q16861482","verdict":"keep"}
+{"id":"Q16864399","verdict":"keep","countries":["GE"],"reason":"Georgian bread; countries were empty"}
+{"id":"Q16868214","verdict":"keep"}
+{"id":"Q16868423","verdict":"keep","countries":["CN"],"reason":"Tibetan dish; countries were empty"}
+{"id":"Q16873575","verdict":"keep","countries":["CN"],"reason":"Tibetan soup; countries were empty"}
+{"id":"Q16873700","verdict":"keep","countries":["CN"],"reason":"Tibetan dish; countries were empty"}
+{"id":"Q16873967","verdict":"keep"}
+{"id":"Q16874222","verdict":"keep"}
+{"id":"Q16874582","verdict":"keep","countries":["FR"],"reason":"French pork product; countries were empty"}
+{"id":"Q16874762","verdict":"keep"}
+{"id":"Q1687766","verdict":"keep","countries":["DE"],"reason":"German potato dish; countries were empty"}
+{"id":"Q16877934","verdict":"keep","countries":["ID"],"reason":"Indonesian dish; countries were empty"}
+{"id":"Q16878589","verdict":"keep"}
+{"id":"Q16878826","verdict":"keep"}
+{"id":"Q16879307","verdict":"keep"}
+{"id":"Q16879510","verdict":"keep","countries":["ID"],"reason":"Indonesian noodle dish; countries were empty"}
+{"id":"Q16880089","verdict":"keep","countries":["MM"],"reason":"Burmese dish; countries were empty"}
+{"id":"Q16880108","verdict":"keep"}
+{"id":"Q16882435","verdict":"keep"}
+{"id":"Q16882443","verdict":"keep","countries":["MX"],"reason":"Mexican dish; countries were empty"}
+{"id":"Q16886629","verdict":"keep"}
+{"id":"Q16886847","verdict":"keep","countries":["EC"],"reason":"Ecuadorian roast pig; ES was wrong"}
+{"id":"Q16887568","verdict":"keep"}
+{"id":"Q16888187","verdict":"keep"}
+{"id":"Q16888499","verdict":"keep"}
+{"id":"Q16894181","verdict":"keep"}
+{"id":"Q1689540","verdict":"keep","countries":["PL"],"reason":"Polish dish; countries were empty"}
+{"id":"Q16896963","verdict":"keep"}
+{"id":"Q1689772","verdict":"keep"}
+{"id":"Q16897790","verdict":"keep"}
+{"id":"Q16900667","verdict":"keep","countries":["MX"],"reason":"Yucatecan dish; countries were empty"}
+{"id":"Q16901399","verdict":"keep"}
+{"id":"Q1690265","verdict":"keep"}
+{"id":"Q16902896","verdict":"remove","reason":"generic category (a meal served on a platter), not a specific dish"}
+{"id":"Q16903587","verdict":"keep","countries":["IT"],"reason":"Italian pasta; countries were empty"}
+{"id":"Q16906849","verdict":"keep"}
+{"id":"Q16909052","verdict":"keep"}
+{"id":"Q16910416","verdict":"keep","countries":["RO","MD"],"reason":"Romanian and Moldovan dish; countries were empty"}
+{"id":"Q16910822","verdict":"keep"}
+{"id":"Q16911615","verdict":"keep"}
+{"id":"Q16911670","verdict":"keep","countries":["IN"],"reason":"Indian dish; countries were empty"}
+{"id":"Q16913644","verdict":"keep"}
+{"id":"Q1691624","verdict":"keep","countries":["PL"],"reason":"Nysa gingerbread, Poland; countries were empty"}
+{"id":"Q16916781","verdict":"keep"}
+{"id":"Q16917396","verdict":"keep","countries":["CU"],"reason":"Cuban dish; countries were empty"}
+{"id":"Q16917687","verdict":"keep"}
+{"id":"Q16917893","verdict":"keep"}
+{"id":"Q16918839","verdict":"keep"}
+{"id":"Q16926259","verdict":"keep"}
+{"id":"Q16926266","verdict":"keep"}
+{"id":"Q16926310","verdict":"keep","countries":["MO"],"reason":"Macanese dish; countries were empty"}
+{"id":"Q16927617","verdict":"keep","countries":["US"],"reason":"Louisiana Creole dish; countries were empty"}
+{"id":"Q16929887","verdict":"keep","countries":["SE"],"reason":"Swedish dish; countries were empty"}
+{"id":"Q16930441","verdict":"keep"}
+{"id":"Q16930486","verdict":"keep","countries":["JP"],"reason":"Okinawan dish; countries were empty"}
+{"id":"Q16931986","verdict":"keep"}
+{"id":"Q16933312","verdict":"keep"}
+{"id":"Q16934063","verdict":"keep"}
+{"id":"Q16934214","verdict":"keep"}
+{"id":"Q16934667","verdict":"remove","reason":"ritual item on the Seder plate, not a dish"}
+{"id":"Q16934675","verdict":"keep"}
+{"id":"Q16935343","verdict":"keep","countries":["US"],"reason":"American candy; countries were empty"}
+{"id":"Q16935381","verdict":"keep","countries":["SN","GM"],"reason":"West African dish; countries were empty"}
+{"id":"Q16937065","verdict":"keep"}
+{"id":"Q16938296","verdict":"keep"}
+{"id":"Q16941232","verdict":"keep"}
+{"id":"Q16943229","verdict":"keep","countries":["EC"],"reason":"Ecuadorian side dish; countries were empty"}
+{"id":"Q16943314","verdict":"keep"}
+{"id":"Q16943688","verdict":"keep"}
+{"id":"Q16945693","verdict":"keep","countries":["CN"],"reason":"Tibetan dish; countries were empty"}
+{"id":"Q16946787","verdict":"keep"}
+{"id":"Q16947964","verdict":"keep","countries":["GB"],"reason":"British lamb offal dish; countries were empty"}
+{"id":"Q16949628","verdict":"keep","countries":["JM"],"reason":"Jamaican dessert; countries were empty"}
+{"id":"Q16951552","verdict":"keep"}
+{"id":"Q16952139","verdict":"remove","reason":"branded packaged product (Cougar Gold canned cheese)"}
+{"id":"Q16952446","verdict":"keep"}
+{"id":"Q16956515","verdict":"keep"}
+{"id":"Q16957893","verdict":"keep","countries":["GB"],"reason":"British frozen confection; countries were empty"}
+{"id":"Q16961496","verdict":"keep"}
+{"id":"Q16962929","verdict":"keep"}
+{"id":"Q16963428","verdict":"keep"}
+{"id":"Q16963468","verdict":"keep"}
+{"id":"Q16965840","verdict":"keep"}
+{"id":"Q16966417","verdict":"keep","countries":["RS"],"reason":"Serbian dish; countries were empty"}
+{"id":"Q16969131","verdict":"keep"}
+{"id":"Q16969652","verdict":"keep"}
+{"id":"Q16971704","verdict":"keep"}
+{"id":"Q16973089","verdict":"keep"}
+{"id":"Q16973768","verdict":"keep"}
+{"id":"Q16975807","verdict":"keep"}
+{"id":"Q16975890","verdict":"keep"}
+{"id":"Q16976976","verdict":"keep"}
+{"id":"Q16979517","verdict":"keep"}
+{"id":"Q16979788","verdict":"keep"}
+{"id":"Q16982762","verdict":"keep","countries":["GB"],"reason":"Grimsby smoked fish, England; countries were empty"}
+{"id":"Q16983167","verdict":"keep"}
+{"id":"Q16984727","verdict":"keep"}
+{"id":"Q16984961","verdict":"keep"}
+{"id":"Q16997205","verdict":"keep"}
+{"id":"Q16997256","verdict":"keep"}
+{"id":"Q16999470","verdict":"keep"}
+{"id":"Q16999502","verdict":"keep"}
+{"id":"Q1699954","verdict":"keep","countries":["DE"],"reason":"German viennoiserie; countries were empty"}
+{"id":"Q16999914","verdict":"keep"}
+{"id":"Q17000111","verdict":"keep"}
+{"id":"Q170014","verdict":"remove","reason":"drink (wedang is a spiced herbal drink)"}
+{"id":"Q17002268","verdict":"keep"}
+{"id":"Q170037","verdict":"keep"}
+{"id":"Q17003794","verdict":"keep"}
+{"id":"Q17003967","verdict":"keep","countries":["CN"],"reason":"Tibetan noodle soup; countries were empty"}
+{"id":"Q170049","verdict":"keep"}
+{"id":"Q17005230","verdict":"keep"}
+{"id":"Q17005444","verdict":"keep"}
+{"id":"Q17006531","verdict":"keep"}
+{"id":"Q17006976","verdict":"keep","countries":["CN"],"reason":"Shanghai dish; countries were empty"}
+{"id":"Q17008466","verdict":"keep"}
+{"id":"Q17009101","verdict":"keep"}
+{"id":"Q17009305","verdict":"keep"}
+{"id":"Q17009352","verdict":"keep"}
+{"id":"Q17009401","verdict":"keep"}
+{"id":"Q17010544","verdict":"keep"}
+{"id":"Q17011735","verdict":"keep"}
+{"id":"Q17012850","verdict":"keep"}
+{"id":"Q17013971","verdict":"keep"}
+{"id":"Q17016362","verdict":"keep"}
+{"id":"Q17017114","verdict":"keep","countries":["NP"],"reason":"Newar dish of Nepal; countries were empty"}
+{"id":"Q17017948","verdict":"keep"}
+{"id":"Q17018846","verdict":"keep"}
+{"id":"Q17019149","verdict":"keep"}
+{"id":"Q17020260","verdict":"keep"}
+{"id":"Q17022289","verdict":"keep"}
+{"id":"Q17023137","verdict":"keep"}
+{"id":"Q17023464","verdict":"keep","countries":["CN"],"reason":"Chinese dish; countries were empty"}
+{"id":"Q17023518","verdict":"keep"}
+{"id":"Q17026363","verdict":"keep"}
+{"id":"Q17026621","verdict":"keep"}
+{"id":"Q17027457","verdict":"keep"}
+{"id":"Q17027492","verdict":"keep"}
+{"id":"Q17028021","verdict":"keep","countries":["CN"],"reason":"Jinan dish; countries were empty"}
+{"id":"Q17029057","verdict":"keep","countries":["CN"],"reason":"Chinese flatbread; countries were empty"}
+{"id":"Q17029217","verdict":"keep"}
+{"id":"Q17030355","verdict":"keep","countries":["CN"],"reason":"Chinese savory pocket; countries were empty"}
+{"id":"Q17031556","verdict":"keep"}
+{"id":"Q17031582","verdict":"keep"}
+{"id":"Q17031594","verdict":"keep"}
+{"id":"Q17031604","verdict":"keep","countries":["TW"],"reason":"Taiwanese cookie; countries were empty"}
+{"id":"Q17031681","verdict":"keep"}
+{"id":"Q17032101","verdict":"keep","countries":["CN"],"reason":"Naxi bread of Yunnan; countries were empty"}
+{"id":"Q17032204","verdict":"keep"}
+{"id":"Q1703243","verdict":"keep"}
+{"id":"Q17033067","verdict":"keep"}
+{"id":"Q1703334","verdict":"keep"}
+{"id":"Q17033393","verdict":"keep"}
+{"id":"Q17034005","verdict":"keep","countries":["CN"],"reason":"Chinese dish; countries were empty"}
+{"id":"Q17034032","verdict":"keep","countries":["CN"],"reason":"Chinese dish; countries were empty"}
+{"id":"Q17034242","verdict":"keep"}
+{"id":"Q1703431","verdict":"keep","countries":["UA","RU","BY"],"reason":"East Slavic wedding bread; countries were empty"}
+{"id":"Q17034623","verdict":"keep"}
+{"id":"Q1703515","verdict":"keep"}
+{"id":"Q17035169","verdict":"keep","countries":["TW"],"reason":"Taiwanese night-market dish; countries were empty"}
+{"id":"Q17035180","verdict":"keep","countries":["TW"],"reason":"Taiwanese fried fish; countries were empty"}
+{"id":"Q17035434","verdict":"keep"}
+{"id":"Q17035461","verdict":"keep"}
+{"id":"Q17035616","verdict":"keep"}
+{"id":"Q17035622","verdict":"keep","countries":["CN"],"reason":"Chinese scallion pancake; countries were empty"}
+{"id":"Q1703574","verdict":"keep","countries":["NO"],"reason":"Norwegian Christmas dish; countries were empty"}
+{"id":"Q17035779","verdict":"keep","countries":["CN"],"reason":"Chinese dish; countries were empty"}
+{"id":"Q17035821","verdict":"keep","countries":["CN"],"reason":"Quanzhou dish, China; countries were empty"}
+{"id":"Q17035957","verdict":"keep","countries":["TW"],"reason":"Taiwanese dish; countries were empty"}
+{"id":"Q17037938","verdict":"keep"}
+{"id":"Q1703796","verdict":"keep"}
+{"id":"Q17038368","verdict":"keep"}
+{"id":"Q17038483","verdict":"keep","countries":["GB"],"reason":"Victorian English pie; countries were empty"}
+{"id":"Q17038642","verdict":"keep"}
+{"id":"Q17039515","verdict":"keep"}
+{"id":"Q17040557","verdict":"keep"}
+{"id":"Q17040892","verdict":"keep"}
+{"id":"Q17040910","verdict":"keep"}
+{"id":"Q17044047","verdict":"keep"}
+{"id":"Q17044517","verdict":"keep"}
+{"id":"Q17047960","verdict":"keep"}
+{"id":"Q17048447","verdict":"keep"}
+{"id":"Q170486","verdict":"keep"}
+{"id":"Q17048976","verdict":"keep"}
+{"id":"Q17049500","verdict":"keep"}
+{"id":"Q17049518","verdict":"keep"}
+{"id":"Q17049555","verdict":"keep"}
+{"id":"Q1704982","verdict":"keep"}
+{"id":"Q17050214","verdict":"keep"}
+{"id":"Q17050490","verdict":"keep"}
+{"id":"Q17050599","verdict":"keep"}
+{"id":"Q17050727","verdict":"keep"}
+{"id":"Q17051280","verdict":"keep","countries":["IN"],"reason":"Indian sweet dish; countries were empty"}
+{"id":"Q17051646","verdict":"keep"}
+{"id":"Q17051739","verdict":"keep","countries":["DE"],"reason":"German spice cookie; countries were empty"}
+{"id":"Q17052123","verdict":"keep"}
+{"id":"Q17052769","verdict":"keep","countries":["CN"],"reason":"Chinese noodle dish; countries were empty"}
+{"id":"Q17052971","verdict":"keep"}
+{"id":"Q17053386","verdict":"keep"}
+{"id":"Q17053542","verdict":"keep"}
+{"id":"Q17053738","verdict":"keep"}
+{"id":"Q17054040","verdict":"keep"}
+{"id":"Q17054148","verdict":"keep"}
+{"id":"Q17055540","verdict":"keep"}
+{"id":"Q17056750","verdict":"keep"}
+{"id":"Q17059019","verdict":"keep"}
+{"id":"Q17061273","verdict":"keep"}
+{"id":"Q17063016","verdict":"keep"}
+{"id":"Q17063384","verdict":"keep","countries":["TH"],"reason":"Thai-Chinese soup; countries were empty"}
+{"id":"Q17063709","verdict":"keep","countries":["TH"],"reason":"Thai salad; countries were empty"}
+{"id":"Q17063877","verdict":"keep","countries":["PH"],"reason":"Filipino fermented fish condiment; countries were empty"}
+{"id":"Q17064154","verdict":"keep"}
+{"id":"Q17064469","verdict":"keep"}
+{"id":"Q17064971","verdict":"keep"}
+{"id":"Q17065342","verdict":"keep"}
+{"id":"Q17065965","verdict":"keep"}
+{"id":"Q17066200","verdict":"keep"}
+{"id":"Q17067155","verdict":"keep"}
+{"id":"Q17067218","verdict":"keep","countries":["GB"],"reason":"Medieval English dish; countries were empty"}
+{"id":"Q17068380","verdict":"keep","countries":["IN"],"reason":"Indian sweet; countries were empty"}
+{"id":"Q17068746","verdict":"keep"}
+{"id":"Q17071807","verdict":"keep"}
+{"id":"Q17072135","verdict":"remove","reason":"cannabis strain, not food"}
+{"id":"Q17072386","verdict":"keep"}
+{"id":"Q17073167","verdict":"keep"}
+{"id":"Q1707616","verdict":"keep"}
+{"id":"Q17077846","verdict":"keep"}
+{"id":"Q17079448","verdict":"keep","countries":["AW","CW"],"reason":"Aruban and Curacaoan dish; countries were empty"}
+{"id":"Q17081227","verdict":"keep","countries":["IN"],"reason":"South Indian side dish; countries were empty"}
+{"id":"Q17081569","verdict":"keep","countries":["AF"],"reason":"Afghan soup; countries were empty"}
+{"id":"Q17082973","verdict":"keep"}
+{"id":"Q17083201","verdict":"keep"}
+{"id":"Q17083249","verdict":"keep"}
+{"id":"Q17084248","verdict":"keep"}
+{"id":"Q17085540","verdict":"keep"}
+{"id":"Q17088676","verdict":"keep","countries":["PH"],"reason":"Filipino ice cream; countries were empty"}
+{"id":"Q17090617","verdict":"keep"}
+{"id":"Q17090951","verdict":"keep","countries":["RO"],"reason":"Romanian cured meat; countries were empty"}
+{"id":"Q1709220","verdict":"keep"}
+{"id":"Q17092221","verdict":"keep","countries":["ZA"],"reason":"South African toffee; countries were empty"}
+{"id":"Q17099188","verdict":"keep"}
+{"id":"Q17101058","verdict":"keep"}
+{"id":"Q17102940","verdict":"keep","countries":["CO"],"reason":"Colombian dish; countries were empty"}
+{"id":"Q17103487","verdict":"keep"}

@@ -1,0 +1,300 @@
+{"id":"Q104640127","verdict":"keep"}
+{"id":"Q104640148","verdict":"keep"}
+{"id":"Q104641121","verdict":"keep"}
+{"id":"Q104641161","verdict":"keep"}
+{"id":"Q104641191","verdict":"keep","countries":["ID"],"reason":"Minangkabau dish, countries empty"}
+{"id":"Q104650713","verdict":"keep","countries":["SE"],"reason":"Swedish cardamom bun, countries empty"}
+{"id":"Q10465999","verdict":"remove","reason":"branded candy product"}
+{"id":"Q104668032","verdict":"keep","countries":["CN"],"reason":"Chinese cured meat, countries empty"}
+{"id":"Q104691076","verdict":"keep"}
+{"id":"Q104698217","verdict":"keep","countries":["ZA"],"reason":"South African candy, countries empty"}
+{"id":"Q10472376","verdict":"remove","reason":"branded candy product"}
+{"id":"Q10472675","verdict":"keep","countries":["FI"],"reason":"Finnish dish, countries empty"}
+{"id":"Q104727207","verdict":"remove","reason":"raw fruit, not a dish"}
+{"id":"Q1047392","verdict":"keep"}
+{"id":"Q10477006","verdict":"keep","countries":["SE"],"reason":"Swedish jam, countries empty"}
+{"id":"Q10477229","verdict":"keep","countries":["SE"],"reason":"Swedish cookie, countries empty"}
+{"id":"Q104783428","verdict":"keep","countries":["NL"],"reason":"Dutch boterkoek, countries empty"}
+{"id":"Q104792798","verdict":"keep"}
+{"id":"Q1047978","verdict":"keep"}
+{"id":"Q1048130","verdict":"keep"}
+{"id":"Q1048282","verdict":"keep"}
+{"id":"Q104829714","verdict":"keep"}
+{"id":"Q104829719","verdict":"keep","countries":["SG","MY"],"reason":"Singaporean/Malaysian cake, countries empty"}
+{"id":"Q104829802","verdict":"keep"}
+{"id":"Q104830799","verdict":"keep"}
+{"id":"Q104834952","verdict":"keep"}
+{"id":"Q104836072","verdict":"keep","countries":["US"],"reason":"Appalachian dish, countries empty"}
+{"id":"Q104842957","verdict":"remove","reason":"grouping of bar snacks, not one dish"}
+{"id":"Q104844158","verdict":"keep"}
+{"id":"Q104849442","verdict":"keep","countries":["IN"],"reason":"Odia congee, countries empty"}
+{"id":"Q1048496","verdict":"keep","countries":["RU"],"reason":"Russian soup, countries empty"}
+{"id":"Q104852303","verdict":"keep"}
+{"id":"Q104853749","verdict":"keep","countries":["GB"],"reason":"English cake, countries empty"}
+{"id":"Q104853763","verdict":"keep"}
+{"id":"Q104855730","verdict":"keep","countries":["GB"],"reason":"Victorian dish, countries empty"}
+{"id":"Q104856047","verdict":"keep","countries":["US"],"reason":"American bread, countries empty"}
+{"id":"Q104856718","verdict":"keep"}
+{"id":"Q104857695","verdict":"keep"}
+{"id":"Q104858644","verdict":"keep","countries":["US"],"reason":"American dish, countries empty"}
+{"id":"Q104858815","verdict":"keep","countries":["US"],"reason":"American cake, countries empty"}
+{"id":"Q104862279","verdict":"remove","reason":"article on pies in American cuisine, not a dish"}
+{"id":"Q104864044","verdict":"keep"}
+{"id":"Q104881657","verdict":"keep"}
+{"id":"Q104887477","verdict":"keep"}
+{"id":"Q1049425","verdict":"keep"}
+{"id":"Q10495802","verdict":"keep","countries":["SE"],"reason":"Swedish fish dish, countries empty"}
+{"id":"Q104960372","verdict":"keep","countries":["FI"],"reason":"Finnish bread, countries empty"}
+{"id":"Q10497217","verdict":"keep"}
+{"id":"Q104974761","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
+{"id":"Q1049852","verdict":"keep"}
+{"id":"Q10498613","verdict":"keep"}
+{"id":"Q10499378","verdict":"keep"}
+{"id":"Q10499831","verdict":"keep"}
+{"id":"Q10500003","verdict":"keep","countries":["TW"],"reason":"Taiwanese soup, countries empty"}
+{"id":"Q10500606","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
+{"id":"Q105006109","verdict":"keep"}
+{"id":"Q10500884","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
+{"id":"Q10501315","verdict":"keep"}
+{"id":"Q105015387","verdict":"keep"}
+{"id":"Q10501568","verdict":"keep","countries":["CZ"],"reason":"Czech ham, countries empty"}
+{"id":"Q10501838","verdict":"keep","countries":["VN"],"reason":"Vietnamese dish, countries empty"}
+{"id":"Q10502922","verdict":"keep","countries":["CZ"],"reason":"Czech fried bread, countries empty"}
+{"id":"Q10503582","verdict":"remove","reason":"branded chocolate bar (Fazer)"}
+{"id":"Q105045810","verdict":"keep"}
+{"id":"Q105045860","verdict":"keep"}
+{"id":"Q10505302","verdict":"remove","reason":"stick object, not a dish"}
+{"id":"Q105064017","verdict":"keep"}
+{"id":"Q10506671","verdict":"keep","countries":["NO"],"reason":"Norwegian candy, countries empty"}
+{"id":"Q105077405","verdict":"keep","countries":["SE"],"reason":"Swedish torte, countries empty"}
+{"id":"Q105094284","verdict":"keep","countries":["CZ"],"reason":"Czech soup, countries empty"}
+{"id":"Q10509612","verdict":"keep","countries":["SE"],"reason":"Swedish cake, countries empty"}
+{"id":"Q10509650","verdict":"keep"}
+{"id":"Q105097825","verdict":"keep","countries":["SE"],"reason":"Swedish torte, countries empty"}
+{"id":"Q105098362","verdict":"keep","countries":["SE"],"reason":"Swedish torte, countries empty"}
+{"id":"Q105100449","verdict":"keep","countries":["SE"],"reason":"Swedish torte, countries empty"}
+{"id":"Q10510197","verdict":"keep"}
+{"id":"Q1051155","verdict":"keep"}
+{"id":"Q1051265","verdict":"keep"}
+{"id":"Q10514423","verdict":"keep","countries":["TW"],"reason":"Taiwanese congee, countries empty"}
+{"id":"Q10514464","verdict":"keep"}
+{"id":"Q10514546","verdict":"keep","countries":["CN"],"reason":"Chinese dish, countries empty"}
+{"id":"Q1051460","verdict":"keep"}
+{"id":"Q10515472","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
+{"id":"Q10516404","verdict":"keep","countries":["SE"],"reason":"Swedish candy, countries empty"}
+{"id":"Q10516678","verdict":"keep"}
+{"id":"Q10518439","verdict":"keep"}
+{"id":"Q1051852","verdict":"keep"}
+{"id":"Q1051861","verdict":"keep"}
+{"id":"Q10519406","verdict":"keep","countries":["SE"],"reason":"Swedish potato dish, countries empty"}
+{"id":"Q1051978","verdict":"keep"}
+{"id":"Q10520838","verdict":"keep","countries":["CN"],"reason":"Hangzhou fish dish, countries empty"}
+{"id":"Q1052204","verdict":"keep"}
+{"id":"Q1052236","verdict":"keep"}
+{"id":"Q10523680","verdict":"keep"}
+{"id":"Q1052461","verdict":"keep"}
+{"id":"Q1052469","verdict":"keep"}
+{"id":"Q10525017","verdict":"keep","countries":["SE"],"reason":"Swedish candy, countries empty"}
+{"id":"Q105264416","verdict":"keep"}
+{"id":"Q1052815","verdict":"keep"}
+{"id":"Q105288154","verdict":"keep"}
+{"id":"Q1053103","verdict":"keep"}
+{"id":"Q105318869","verdict":"remove","reason":"generic term for hot food, not one dish"}
+{"id":"Q105322599","verdict":"remove","reason":"chewing gum product, not a dish"}
+{"id":"Q10532369","verdict":"keep"}
+{"id":"Q10532500","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
+{"id":"Q10532570","verdict":"keep"}
+{"id":"Q105333550","verdict":"keep","countries":["FR"],"reason":"French salad, countries empty"}
+{"id":"Q10533638","verdict":"keep"}
+{"id":"Q105337075","verdict":"keep"}
+{"id":"Q105337443","verdict":"keep"}
+{"id":"Q10535460","verdict":"keep","countries":["SE"],"reason":"Swedish dessert, countries empty"}
+{"id":"Q10535659","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
+{"id":"Q105359471","verdict":"keep","countries":["FR"],"reason":"French dish, countries empty"}
+{"id":"Q105361351","verdict":"keep"}
+{"id":"Q105396963","verdict":"keep"}
+{"id":"Q10540862","verdict":"keep"}
+{"id":"Q105411167","verdict":"keep"}
+{"id":"Q10541947","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
+{"id":"Q10542015","verdict":"keep","countries":["SE"],"reason":"Swedish pancake, countries empty"}
+{"id":"Q10542033","verdict":"keep"}
+{"id":"Q10542408","verdict":"keep"}
+{"id":"Q10542917","verdict":"keep"}
+{"id":"Q105429471","verdict":"keep","countries":["KP"],"reason":"North Korean soup, countries empty"}
+{"id":"Q10543810","verdict":"keep","countries":["SE"],"reason":"Swedish bread, countries empty"}
+{"id":"Q10544140","verdict":"keep"}
+{"id":"Q1054430","verdict":"keep","countries":["IT"],"reason":"Ligurian fish, countries empty"}
+{"id":"Q10544495","verdict":"keep"}
+{"id":"Q10545209","verdict":"keep","countries":["SE"],"reason":"Swedish confection, countries empty"}
+{"id":"Q10546582","verdict":"keep"}
+{"id":"Q10546944","verdict":"keep"}
+{"id":"Q10547054","verdict":"keep"}
+{"id":"Q10547680","verdict":"keep"}
+{"id":"Q105480600","verdict":"keep"}
+{"id":"Q105480717","verdict":"keep"}
+{"id":"Q105481008","verdict":"keep"}
+{"id":"Q10548291","verdict":"keep"}
+{"id":"Q10548294","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
+{"id":"Q105485736","verdict":"keep"}
+{"id":"Q105489284","verdict":"keep"}
+{"id":"Q105490097","verdict":"keep"}
+{"id":"Q105492043","verdict":"keep","countries":["ES"],"reason":"Catalan caramel, countries empty"}
+{"id":"Q10549373","verdict":"remove","reason":"branded candy product"}
+{"id":"Q10549595","verdict":"keep","countries":["SE"],"reason":"Swedish porridge, countries empty"}
+{"id":"Q10549681","verdict":"keep","countries":["SE"],"reason":"Swedish bun, countries empty"}
+{"id":"Q105499976","verdict":"keep"}
+{"id":"Q105501273","verdict":"keep"}
+{"id":"Q105502227","verdict":"keep"}
+{"id":"Q105502704","verdict":"keep"}
+{"id":"Q105508520","verdict":"keep"}
+{"id":"Q10551237","verdict":"keep"}
+{"id":"Q105513845","verdict":"keep"}
+{"id":"Q105513896","verdict":"keep"}
+{"id":"Q105514497","verdict":"keep"}
+{"id":"Q10551845","verdict":"keep","countries":["FI"],"reason":"Finnish cake, countries empty"}
+{"id":"Q10552022","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
+{"id":"Q10552252","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
+{"id":"Q105528156","verdict":"keep"}
+{"id":"Q105528183","verdict":"keep"}
+{"id":"Q105528306","verdict":"keep"}
+{"id":"Q105528411","verdict":"keep"}
+{"id":"Q105529039","verdict":"keep"}
+{"id":"Q105529161","verdict":"keep"}
+{"id":"Q10553438","verdict":"keep"}
+{"id":"Q105535583","verdict":"keep"}
+{"id":"Q105535632","verdict":"keep"}
+{"id":"Q1055395","verdict":"keep"}
+{"id":"Q105542530","verdict":"keep"}
+{"id":"Q105543455","verdict":"keep"}
+{"id":"Q105544074","verdict":"keep"}
+{"id":"Q105550816","verdict":"keep","countries":["US"],"reason":"American savory pastry, countries empty"}
+{"id":"Q105556658","verdict":"keep"}
+{"id":"Q105561074","verdict":"keep"}
+{"id":"Q105578604","verdict":"remove","reason":"topic on Swedish desserts, not one dish"}
+{"id":"Q105588044","verdict":"keep"}
+{"id":"Q105590538","verdict":"keep"}
+{"id":"Q1055940","verdict":"keep"}
+{"id":"Q105594480","verdict":"keep"}
+{"id":"Q105616883","verdict":"keep"}
+{"id":"Q105626150","verdict":"keep"}
+{"id":"Q105628576","verdict":"keep"}
+{"id":"Q10563342","verdict":"keep"}
+{"id":"Q105635905","verdict":"keep"}
+{"id":"Q1056366","verdict":"keep"}
+{"id":"Q10564295","verdict":"keep"}
+{"id":"Q105643832","verdict":"keep","countries":["IT"],"reason":"Italian bread roll, countries empty"}
+{"id":"Q10564512","verdict":"keep","countries":["CN"],"reason":"Chinese noodle dish, countries empty"}
+{"id":"Q105646100","verdict":"keep"}
+{"id":"Q105647365","verdict":"keep"}
+{"id":"Q10564738","verdict":"keep"}
+{"id":"Q105653979","verdict":"keep","countries":["IN"],"reason":"Indian sweet, countries empty"}
+{"id":"Q105654014","verdict":"keep","countries":["IN"],"reason":"Indian sweet, countries empty"}
+{"id":"Q105654181","verdict":"keep","countries":["IN"],"reason":"Indian biryani, countries empty"}
+{"id":"Q105654208","verdict":"keep","countries":["IN"],"reason":"Indian biryani, countries empty"}
+{"id":"Q105654264","verdict":"keep","countries":["IN"],"reason":"Indian biryani, countries empty"}
+{"id":"Q105656628","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105656952","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105657097","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105657270","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105657352","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q10565830","verdict":"keep"}
+{"id":"Q105658458","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658460","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658461","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658462","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658463","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658464","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658465","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658467","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658468","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658469","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658470","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658471","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658472","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658473","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658475","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658476","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658477","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658478","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658479","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658480","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658481","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658482","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658483","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658484","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658485","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658486","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658487","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658488","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658489","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658490","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658492","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658493","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658494","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658495","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658496","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658497","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658498","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658499","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658500","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658501","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658502","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658503","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658504","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658505","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658506","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658507","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658508","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658509","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658510","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658517","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658518","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658519","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658520","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658522","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658523","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658524","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658525","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658526","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658527","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658528","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658529","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658530","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658531","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658532","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658533","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658534","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658535","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658536","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658537","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658538","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658540","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658541","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658542","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658544","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658545","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658546","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658547","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658548","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658549","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658550","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658551","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658552","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658553","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658554","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658555","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658556","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658558","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658559","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658561","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658569","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658574","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658575","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658576","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658578","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658939","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658941","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658942","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658943","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658944","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658945","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}

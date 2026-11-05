@@ -1,0 +1,24 @@
+{"id":"Q391869","verdict":"keep","countries":["FR","IT"],"reason":"fiadone is a Corsican cheesecake (FR); the Abruzzese variant keeps IT","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FFiadone","status":"fixed","reason":"steps were garbled (missing fourchette, blancs en neige, 30 cm, 180 C) and step 3 was a fragment","ingredients":["500 g de brocciu frais","6 œufs entiers","200 g de sucre semoule","un zeste finement émincé de citron","une cuillère à café d'eau de vie de myrte, de cédrat ou de cointreau."],"steps":["Écraser délicatement le brocciu avec une fourchette.","Mélanger les jaunes d'œufs, le sucre et le zeste de citron. Ajouter le brocciu.","Monter les blancs d’œufs en neige et les incorporer délicatement à la préparation.","Verser dans un plat haut d'environ 30 cm préalablement graissé ou beurré.","Faire cuire dans un four préchauffé à 180 °C (thermostat 6) pour 45 minutes.","Laisser refroidir à température ambiante à la sortie du four."]}]}
+{"id":"Q3928985","verdict":"keep","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FRafanata","status":"ok"}]}
+{"id":"Q3937060","verdict":"keep","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FRisotto_alla_pilota","status":"ok"}]}
+{"id":"Q3939613","verdict":"keep","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FRoccoc%C3%B2","status":"ok"}]}
+{"id":"Q3940513","verdict":"keep","countries":["ES"],"reason":"countries were empty; zarangollo is a Spanish (Murcian) egg dish","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FZarangollo","status":"ok"}]}
+{"id":"Q3951601","verdict":"keep","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FScarcella","status":"ok"}]}
+{"id":"Q3952013","verdict":"keep","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FSchiacciata_alla_fiorentina","status":"ok"}]}
+{"id":"Q3953085","verdict":"keep","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FScrippelle","status":"ok"}]}
+{"id":"Q396184","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APoutine","status":"ok"}]}
+{"id":"Q3965857","verdict":"keep","countries":["IT"],"reason":"countries were empty; spaghetti alla carrettiera is a Sicilian (Catanese) dish","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FSpaghetti_alla_carrettiera","status":"ok"}]}
+{"id":"Q3980014","verdict":"keep","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FTacacho_con_cecina","status":"ok"}]}
+{"id":"Q3980016","verdict":"keep","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FTacchino_alla_canzanese","status":"ok"}]}
+{"id":"Q3983447","verdict":"keep","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FTorta_Tenerina","status":"ok"}]}
+{"id":"Q3995805","verdict":"keep","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FTorta_di_Canegrate","status":"ok"}]}
+{"id":"Q3998256","verdict":"keep","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FTrenette_al_pesto","status":"ok"}]}
+{"id":"Q4008840","verdict":"keep","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FVartanush","status":"ok"}]}
+{"id":"Q4024125","verdict":"keep","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FZelten","status":"ok"}]}
+{"id":"Q4024893","verdict":"keep","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FZuccata","status":"ok"}]}
+{"id":"Q4025002","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AZuppa_Toscana","status":"ok"}]}
+{"id":"Q4103048","verdict":"keep","countries":["CN","US"],"reason":"egg roll is a Chinese-American dish; VN was not supported by the source","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AEgg_Roll","status":"ok"}]}
+{"id":"Q4118695","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AColonial_Goose","status":"ok"}]}
+{"id":"Q4122095","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AFruit_Cake","status":"ok"}]}
+{"id":"Q412754","verdict":"keep","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FAjiaco","status":"ok"}]}
+{"id":"Q413126","verdict":"keep","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FAjoblanco","status":"ok"},{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FPlatos_t%C3%ADpicos_de_Alfarnate%2FAjo_blanco","status":"ok"}]}

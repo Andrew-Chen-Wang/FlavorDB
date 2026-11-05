@@ -1,0 +1,300 @@
+{"id":"Q1289229","verdict":"keep","countries":["CZ"],"reason":"countries were empty; Czech ham"}
+{"id":"Q12892299","verdict":"keep"}
+{"id":"Q1289402","verdict":"keep"}
+{"id":"Q12895481","verdict":"keep"}
+{"id":"Q12897796","verdict":"keep"}
+{"id":"Q12899215","verdict":"keep"}
+{"id":"Q1290028","verdict":"keep"}
+{"id":"Q12902123","verdict":"keep","countries":["GB"],"reason":"countries were empty; Gloucester cheese"}
+{"id":"Q12902485","verdict":"keep"}
+{"id":"Q129098238","verdict":"keep"}
+{"id":"Q129152","verdict":"keep"}
+{"id":"Q129175425","verdict":"keep"}
+{"id":"Q129178734","verdict":"keep"}
+{"id":"Q129207023","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian pastry"}
+{"id":"Q129243419","verdict":"keep"}
+{"id":"Q1292506","verdict":"keep","countries":["GB"],"reason":"countries were empty; British gammon"}
+{"id":"Q129259778","verdict":"keep"}
+{"id":"Q129264258","verdict":"keep"}
+{"id":"Q129306559","verdict":"keep"}
+{"id":"Q129307011","verdict":"keep"}
+{"id":"Q129307327","verdict":"keep"}
+{"id":"Q129307512","verdict":"keep"}
+{"id":"Q129307715","verdict":"keep"}
+{"id":"Q129307888","verdict":"keep"}
+{"id":"Q129308081","verdict":"keep"}
+{"id":"Q129308210","verdict":"keep","countries":["MY"],"reason":"countries were empty; Malaysian gulai"}
+{"id":"Q129308363","verdict":"keep","countries":["MY"],"reason":"countries were empty; Malaysian dish"}
+{"id":"Q129308452","verdict":"keep"}
+{"id":"Q129308676","verdict":"keep"}
+{"id":"Q129309329","verdict":"keep"}
+{"id":"Q129309735","verdict":"keep"}
+{"id":"Q129310056","verdict":"keep"}
+{"id":"Q129310302","verdict":"keep"}
+{"id":"Q129310346","verdict":"keep"}
+{"id":"Q129310952","verdict":"keep"}
+{"id":"Q129313674","verdict":"keep"}
+{"id":"Q129313803","verdict":"keep"}
+{"id":"Q129314022","verdict":"keep","countries":["MY"],"reason":"countries were empty; Sabah (Malaysia) dish"}
+{"id":"Q129314449","verdict":"keep"}
+{"id":"Q129314745","verdict":"keep","countries":["MY"],"reason":"countries were empty; Malaysian spring roll"}
+{"id":"Q129319045","verdict":"keep"}
+{"id":"Q129319152","verdict":"keep","countries":["MY"],"reason":"countries were empty; Malaysian dish"}
+{"id":"Q129319265","verdict":"keep"}
+{"id":"Q129319420","verdict":"keep"}
+{"id":"Q129319591","verdict":"keep","countries":["MY"],"reason":"countries were empty; Malaysian squid dish"}
+{"id":"Q129319693","verdict":"keep"}
+{"id":"Q129319923","verdict":"keep"}
+{"id":"Q129320064","verdict":"keep"}
+{"id":"Q129320228","verdict":"keep"}
+{"id":"Q129320371","verdict":"keep"}
+{"id":"Q129320476","verdict":"keep"}
+{"id":"Q129320686","verdict":"keep"}
+{"id":"Q129320804","verdict":"keep"}
+{"id":"Q129320895","verdict":"keep"}
+{"id":"Q129321059","verdict":"keep"}
+{"id":"Q1293258","verdict":"keep"}
+{"id":"Q129328574","verdict":"keep"}
+{"id":"Q129418274","verdict":"keep"}
+{"id":"Q1295179","verdict":"remove","reason":"plum brandy (palinka), a drink"}
+{"id":"Q12954648","verdict":"keep"}
+{"id":"Q12955006","verdict":"keep"}
+{"id":"Q129590051","verdict":"remove","reason":"topic article (pizza in North Korea), not a dish"}
+{"id":"Q12961425","verdict":"keep"}
+{"id":"Q12961636","verdict":"keep"}
+{"id":"Q129618390","verdict":"keep"}
+{"id":"Q12962178","verdict":"keep"}
+{"id":"Q12964402","verdict":"keep"}
+{"id":"Q12964466","verdict":"keep"}
+{"id":"Q12964781","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese dish"}
+{"id":"Q12964893","verdict":"keep"}
+{"id":"Q129652189","verdict":"keep"}
+{"id":"Q129652201","verdict":"keep"}
+{"id":"Q129652215","verdict":"keep"}
+{"id":"Q12967012","verdict":"keep"}
+{"id":"Q12967213","verdict":"keep"}
+{"id":"Q12969061","verdict":"remove","reason":"cooking technique page (paksiw cooking process), not a dish"}
+{"id":"Q12969195","verdict":"keep"}
+{"id":"Q12969316","verdict":"keep"}
+{"id":"Q12969705","verdict":"keep"}
+{"id":"Q12971248","verdict":"keep"}
+{"id":"Q12974081","verdict":"keep"}
+{"id":"Q12975870","verdict":"keep"}
+{"id":"Q1297721","verdict":"keep","countries":["US"],"reason":"countries were empty; Louisiana Creole dish"}
+{"id":"Q129785793","verdict":"keep"}
+{"id":"Q129811480","verdict":"keep"}
+{"id":"Q129811486","verdict":"keep"}
+{"id":"Q129811494","verdict":"keep"}
+{"id":"Q129811500","verdict":"keep"}
+{"id":"Q129811505","verdict":"keep"}
+{"id":"Q129811510","verdict":"keep"}
+{"id":"Q129811513","verdict":"keep","countries":["MY"],"reason":"countries were empty; Malaysian gulai"}
+{"id":"Q129811524","verdict":"keep","countries":["MY"],"reason":"countries were empty; Malaysian gulai"}
+{"id":"Q129811529","verdict":"keep"}
+{"id":"Q129811536","verdict":"keep"}
+{"id":"Q129811542","verdict":"keep","countries":["MY"],"reason":"countries were empty; Malaysian kuih"}
+{"id":"Q129811597","verdict":"keep"}
+{"id":"Q129811603","verdict":"keep"}
+{"id":"Q129821504","verdict":"keep","countries":["MY"],"reason":"countries were empty; Malaysian kuih"}
+{"id":"Q129821582","verdict":"keep"}
+{"id":"Q129821670","verdict":"keep"}
+{"id":"Q129821898","verdict":"keep"}
+{"id":"Q129823080","verdict":"keep"}
+{"id":"Q129832149","verdict":"keep"}
+{"id":"Q129832328","verdict":"keep"}
+{"id":"Q129834204","verdict":"keep"}
+{"id":"Q129890788","verdict":"keep"}
+{"id":"Q129900296","verdict":"keep"}
+{"id":"Q12997603","verdict":"keep"}
+{"id":"Q129979392","verdict":"keep"}
+{"id":"Q1300076","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian dish"}
+{"id":"Q130061821","verdict":"keep"}
+{"id":"Q130097","verdict":"keep"}
+{"id":"Q130101093","verdict":"keep"}
+{"id":"Q130101795","verdict":"keep"}
+{"id":"Q130101951","verdict":"keep"}
+{"id":"Q130101956","verdict":"keep"}
+{"id":"Q130125097","verdict":"remove","reason":"overview page of South African street food, not one dish"}
+{"id":"Q13012656","verdict":"keep"}
+{"id":"Q13012696","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese dish"}
+{"id":"Q13013252","verdict":"keep"}
+{"id":"Q13013257","verdict":"keep"}
+{"id":"Q13013315","verdict":"keep"}
+{"id":"Q13013369","verdict":"keep"}
+{"id":"Q13015322","verdict":"keep"}
+{"id":"Q13015424","verdict":"keep"}
+{"id":"Q130186","verdict":"keep"}
+{"id":"Q13018870","verdict":"keep"}
+{"id":"Q130194","verdict":"keep"}
+{"id":"Q1301968","verdict":"keep"}
+{"id":"Q130198919","verdict":"keep"}
+{"id":"Q130200473","verdict":"keep"}
+{"id":"Q13020442","verdict":"keep"}
+{"id":"Q130225202","verdict":"keep"}
+{"id":"Q1302342","verdict":"keep"}
+{"id":"Q130238975","verdict":"keep"}
+{"id":"Q130242386","verdict":"keep"}
+{"id":"Q130257193","verdict":"keep"}
+{"id":"Q13025915","verdict":"keep"}
+{"id":"Q13026131","verdict":"keep","countries":["TH"],"reason":"countries were empty; Thai dish"}
+{"id":"Q13026133","verdict":"keep"}
+{"id":"Q130265510","verdict":"keep"}
+{"id":"Q130269974","verdict":"keep"}
+{"id":"Q13028595","verdict":"keep"}
+{"id":"Q13028615","verdict":"keep","countries":["BY"],"reason":"countries were empty; Belarusian food"}
+{"id":"Q13028885","verdict":"keep"}
+{"id":"Q130298849","verdict":"keep"}
+{"id":"Q130302285","verdict":"keep"}
+{"id":"Q130303691","verdict":"keep"}
+{"id":"Q13030534","verdict":"keep"}
+{"id":"Q130307901","verdict":"keep"}
+{"id":"Q13030990","verdict":"keep","countries":["BY"],"reason":"countries were empty; Belarusian dish"}
+{"id":"Q130323394","verdict":"keep"}
+{"id":"Q13033550","verdict":"keep"}
+{"id":"Q130345178","verdict":"keep","countries":["ID"],"reason":"countries were empty; Indonesian dish"}
+{"id":"Q130349607","verdict":"remove","reason":"chain restaurant menu item (burger)"}
+{"id":"Q130349748","verdict":"remove","reason":"chain restaurant menu item (burger)"}
+{"id":"Q13035439","verdict":"keep"}
+{"id":"Q13038702","verdict":"keep"}
+{"id":"Q130387201","verdict":"keep"}
+{"id":"Q130389191","verdict":"keep","countries":["MY"],"reason":"countries were empty; Sabah (Malaysia) dish"}
+{"id":"Q130391489","verdict":"remove","reason":"chain restaurant menu item (burger)"}
+{"id":"Q130395","verdict":"keep"}
+{"id":"Q13041042","verdict":"keep"}
+{"id":"Q13041150","verdict":"keep"}
+{"id":"Q130417163","verdict":"keep"}
+{"id":"Q130417229","verdict":"keep"}
+{"id":"Q13042357","verdict":"keep"}
+{"id":"Q130425634","verdict":"keep"}
+{"id":"Q130436912","verdict":"keep"}
+{"id":"Q130437003","verdict":"keep"}
+{"id":"Q1304390","verdict":"keep"}
+{"id":"Q13044059","verdict":"keep"}
+{"id":"Q130443517","verdict":"remove","reason":"chain restaurant menu item (burger)"}
+{"id":"Q13046295","verdict":"keep"}
+{"id":"Q130465645","verdict":"keep"}
+{"id":"Q13046648","verdict":"keep"}
+{"id":"Q130470526","verdict":"keep","countries":["IN"],"reason":"countries were empty; Wazwan (Kashmir) dish"}
+{"id":"Q130470549","verdict":"keep","countries":["IN"],"reason":"countries were empty; Wazwan (Kashmir) dish"}
+{"id":"Q130471891","verdict":"keep"}
+{"id":"Q130472512","verdict":"keep"}
+{"id":"Q130478550","verdict":"keep"}
+{"id":"Q130485240","verdict":"keep"}
+{"id":"Q130486184","verdict":"keep"}
+{"id":"Q130486185","verdict":"keep"}
+{"id":"Q130486188","verdict":"keep"}
+{"id":"Q130486189","verdict":"keep"}
+{"id":"Q130486190","verdict":"keep"}
+{"id":"Q130486191","verdict":"keep"}
+{"id":"Q130486192","verdict":"keep"}
+{"id":"Q130486193","verdict":"keep"}
+{"id":"Q130486194","verdict":"keep"}
+{"id":"Q130486195","verdict":"keep"}
+{"id":"Q130486197","verdict":"keep"}
+{"id":"Q130486198","verdict":"keep"}
+{"id":"Q130486199","verdict":"keep"}
+{"id":"Q130486201","verdict":"keep"}
+{"id":"Q130486202","verdict":"keep"}
+{"id":"Q130486203","verdict":"keep"}
+{"id":"Q130486204","verdict":"keep"}
+{"id":"Q130486205","verdict":"keep"}
+{"id":"Q130486206","verdict":"keep"}
+{"id":"Q130486207","verdict":"keep"}
+{"id":"Q130486208","verdict":"keep"}
+{"id":"Q130486209","verdict":"keep"}
+{"id":"Q130486211","verdict":"keep"}
+{"id":"Q130486212","verdict":"keep"}
+{"id":"Q130486213","verdict":"keep"}
+{"id":"Q130486214","verdict":"keep"}
+{"id":"Q130486215","verdict":"keep"}
+{"id":"Q130486216","verdict":"keep"}
+{"id":"Q130486217","verdict":"keep"}
+{"id":"Q130486218","verdict":"keep"}
+{"id":"Q130486219","verdict":"keep"}
+{"id":"Q130486220","verdict":"keep"}
+{"id":"Q130486221","verdict":"keep"}
+{"id":"Q130486222","verdict":"keep"}
+{"id":"Q130486223","verdict":"keep"}
+{"id":"Q130486224","verdict":"keep"}
+{"id":"Q130486225","verdict":"keep"}
+{"id":"Q130486226","verdict":"keep"}
+{"id":"Q130486227","verdict":"keep"}
+{"id":"Q130486230","verdict":"keep"}
+{"id":"Q130486231","verdict":"keep"}
+{"id":"Q130486232","verdict":"keep"}
+{"id":"Q130486234","verdict":"keep"}
+{"id":"Q130486236","verdict":"keep"}
+{"id":"Q130493246","verdict":"keep"}
+{"id":"Q130493939","verdict":"keep"}
+{"id":"Q1305079","verdict":"keep"}
+{"id":"Q130513962","verdict":"keep"}
+{"id":"Q130526517","verdict":"keep"}
+{"id":"Q130526536","verdict":"keep"}
+{"id":"Q130526575","verdict":"keep"}
+{"id":"Q130529381","verdict":"keep"}
+{"id":"Q130529385","verdict":"keep"}
+{"id":"Q130529392","verdict":"keep"}
+{"id":"Q130531854","verdict":"keep"}
+{"id":"Q130532079","verdict":"keep"}
+{"id":"Q130541457","verdict":"keep"}
+{"id":"Q130541856","verdict":"keep"}
+{"id":"Q13054393","verdict":"keep"}
+{"id":"Q130552525","verdict":"keep"}
+{"id":"Q130552535","verdict":"keep"}
+{"id":"Q130553333","verdict":"keep"}
+{"id":"Q130559284","verdict":"keep"}
+{"id":"Q130559314","verdict":"keep"}
+{"id":"Q130571534","verdict":"keep"}
+{"id":"Q13057386","verdict":"keep"}
+{"id":"Q13057890","verdict":"keep"}
+{"id":"Q13058198","verdict":"keep"}
+{"id":"Q1305991","verdict":"keep"}
+{"id":"Q130611730","verdict":"keep"}
+{"id":"Q130632338","verdict":"keep"}
+{"id":"Q130633595","verdict":"keep"}
+{"id":"Q130668778","verdict":"keep"}
+{"id":"Q130677132","verdict":"keep"}
+{"id":"Q130680930","verdict":"keep"}
+{"id":"Q130681129","verdict":"keep"}
+{"id":"Q130681167","verdict":"keep"}
+{"id":"Q13069284","verdict":"keep"}
+{"id":"Q130709926","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese ramen"}
+{"id":"Q130718197","verdict":"keep","countries":["NG"],"reason":"countries were empty; Igala (Nigeria) snack"}
+{"id":"Q130718589","verdict":"keep","countries":["NG"],"reason":"countries were empty; Igala (Nigeria) meal"}
+{"id":"Q130741353","verdict":"keep","countries":["IT"],"reason":"countries were empty; Lombard dish"}
+{"id":"Q130751270","verdict":"keep","countries":["IT"],"reason":"countries were empty; Sicilian focaccia"}
+{"id":"Q130758673","verdict":"keep"}
+{"id":"Q130777293","verdict":"keep","countries":["CZ"],"reason":"countries were empty; Czech dish"}
+{"id":"Q130793834","verdict":"keep"}
+{"id":"Q130804980","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese nattō"}
+{"id":"Q130807868","verdict":"keep"}
+{"id":"Q1308184","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian pastry"}
+{"id":"Q1308323","verdict":"keep"}
+{"id":"Q130878","verdict":"remove","reason":"chewing gum, not food eaten as a dish"}
+{"id":"Q130899848","verdict":"keep"}
+{"id":"Q130899872","verdict":"keep"}
+{"id":"Q130902289","verdict":"keep"}
+{"id":"Q13092279","verdict":"keep"}
+{"id":"Q13092409","verdict":"keep"}
+{"id":"Q13093120","verdict":"keep"}
+{"id":"Q13093505","verdict":"keep"}
+{"id":"Q130937219","verdict":"keep"}
+{"id":"Q13094329","verdict":"keep","countries":["ID"],"reason":"countries were empty; Indonesian food"}
+{"id":"Q13094650","verdict":"keep"}
+{"id":"Q13094657","verdict":"keep"}
+{"id":"Q13094672","verdict":"keep"}
+{"id":"Q13095522","verdict":"keep"}
+{"id":"Q13095830","verdict":"keep"}
+{"id":"Q13096003","verdict":"keep"}
+{"id":"Q130961449","verdict":"keep"}
+{"id":"Q1309680","verdict":"keep"}
+{"id":"Q13096825","verdict":"keep"}
+{"id":"Q13096834","verdict":"keep"}
+{"id":"Q13096849","verdict":"keep"}
+{"id":"Q13096852","verdict":"keep"}
+{"id":"Q13097480","verdict":"keep"}
+{"id":"Q13097602","verdict":"keep"}
+{"id":"Q13097607","verdict":"keep"}
+{"id":"Q13097938","verdict":"keep"}
+{"id":"Q1310066","verdict":"keep","countries":["DE"],"reason":"DD is an obsolete code (East Germany); LPG cake is from southeast Germany"}
+{"id":"Q13100813","verdict":"keep"}
