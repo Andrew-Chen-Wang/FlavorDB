@@ -31,26 +31,26 @@
 {"id":"Q105882782","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q105884547","verdict":"remove","reason":"chickpea variety (raw ingredient), not a dish"}
 {"id":"Q105890425","verdict":"remove","reason":"name 'Crust' is not an identifiable dish"}
-{"id":"Q10589180","verdict":"keep"}
-{"id":"Q10589496","verdict":"keep"}
+{"id":"Q10589180","verdict":"keep","countries":["SE"],"reason":"Mormors ringar are Swedish ring biscuits."}
+{"id":"Q10589496","verdict":"keep","countries":["SE"],"reason":"Mosbricka is a Swedish mashed-potato fast-food plate."}
 {"id":"Q105913495","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q10591747","verdict":"keep"}
 {"id":"Q105926041","verdict":"keep"}
 {"id":"Q1059273","verdict":"keep"}
 {"id":"Q10594193","verdict":"remove","reason":"branded licensed biscuit (Nalle Puh)"}
-{"id":"Q10594968","verdict":"keep"}
+{"id":"Q10594968","verdict":"remove","reason":"Naturgodis groups nuts, dried fruit and natural sweets rather than naming one prepared dish.","countries":[]}
 {"id":"Q105955583","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
-{"id":"Q105957927","verdict":"keep"}
+{"id":"Q105957927","verdict":"keep","countries":["US"],"reason":"The Pi Day pie follows the American Pi Day celebration."}
 {"id":"Q1059643","verdict":"keep"}
 {"id":"Q105968553","verdict":"remove","reason":"category (marinated foods in olive oil), not one dish"}
 {"id":"Q105971300","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q105972418","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q10600727","verdict":"keep"}
-{"id":"Q10601545","verdict":"keep"}
-{"id":"Q10601745","verdict":"keep"}
+{"id":"Q10601545","verdict":"keep","countries":["SE"],"reason":"Nobisbröd identifies Swedish bread."}
+{"id":"Q10601745","verdict":"keep","countries":["FR"],"reason":"The meat-dish kind makes this French culinary noisettes, not raw nuts."}
 {"id":"Q106020965","verdict":"keep"}
-{"id":"Q1060331","verdict":"keep"}
-{"id":"Q10605566","verdict":"keep"}
+{"id":"Q1060331","verdict":"keep","countries":["FR","GB"],"reason":"Confectionery pastilles have French and British traditions."}
+{"id":"Q10605566","verdict":"remove","reason":"Nöt-Crème is commercial nut-cream candy, not a generic dish.","countries":[]}
 {"id":"Q106080324","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106080365","verdict":"keep","countries":["AZ","IR"],"reason":"Azerbaijani dish, added AZ"}
 {"id":"Q106080413","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dessert, countries empty"}
@@ -73,9 +73,9 @@
 {"id":"Q106114625","verdict":"keep"}
 {"id":"Q106115046","verdict":"keep"}
 {"id":"Q106115437","verdict":"keep"}
-{"id":"Q106115457","verdict":"keep"}
-{"id":"Q106115460","verdict":"keep"}
-{"id":"Q106115529","verdict":"keep"}
+{"id":"Q106115457","verdict":"keep","countries":["BO"],"reason":"Rostro asado is Bolivian roasted head."}
+{"id":"Q106115460","verdict":"keep","countries":["BO"],"reason":"Caldo de cardán is Bolivian meat soup."}
+{"id":"Q106115529","verdict":"keep","countries":["BO","PE"],"reason":"Timpu is shared Andean soup or boiled-meat food in Bolivia and Peru."}
 {"id":"Q106124978","verdict":"remove","reason":"second opinion: kancha amer sorbot is a raw mango drink"}
 {"id":"Q106125630","verdict":"remove","reason":"second opinion: Gondhoraj cha er sorbot is a tea and citrus drink"}
 {"id":"Q106125652","verdict":"remove","reason":"second opinion: lichu lonkar sorbot is a lychee and chilli drink"}
@@ -88,7 +88,7 @@
 {"id":"Q106128073","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106128094","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q1061508","verdict":"keep"}
-{"id":"Q10615144","verdict":"keep"}
+{"id":"Q10615144","verdict":"keep","countries":["FR","SE"],"reason":"Pain riche has French-style bread and established Swedish bakery associations."}
 {"id":"Q10615174","verdict":"keep","countries":["SE"],"reason":"Swedish porridge, countries empty"}
 {"id":"Q106151773","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106151803","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
@@ -105,7 +105,7 @@
 {"id":"Q106152606","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106152618","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q1061532","verdict":"keep"}
-{"id":"Q10615421","verdict":"keep"}
+{"id":"Q10615421","verdict":"remove","reason":"Palle Kuling is licensed branded candy.","countries":[]}
 {"id":"Q10615624","verdict":"keep"}
 {"id":"Q1061604","verdict":"keep"}
 {"id":"Q106167194","verdict":"remove","reason":"raw ingredient (ube yam), not a dish"}
@@ -116,23 +116,23 @@
 {"id":"Q1061856","verdict":"keep"}
 {"id":"Q106194785","verdict":"keep"}
 {"id":"Q1062035","verdict":"keep"}
-{"id":"Q10620392","verdict":"keep"}
-{"id":"Q10620400","verdict":"keep"}
+{"id":"Q10620392","verdict":"keep","countries":["SE"],"reason":"Parisare is Swedish sausage-sandwich fast food; the Paris name does not establish French origin."}
+{"id":"Q10620400","verdict":"keep","countries":["SE"],"reason":"Pariservåfflor are Swedish filled pastries."}
 {"id":"Q106211393","verdict":"keep"}
-{"id":"Q10621411","verdict":"keep"}
+{"id":"Q10621411","verdict":"remove","reason":"Party is the named commercial Swedish biscuit product.","countries":[]}
 {"id":"Q1062144","verdict":"keep","countries":["KR","KP"],"reason":"Namul is shared Korean vegetable preparation associated with both Koreas."}
 {"id":"Q10624825","verdict":"keep"}
 {"id":"Q10624827","verdict":"keep","countries":["MX"],"reason":"Mexican dish, countries empty"}
 {"id":"Q1062483","verdict":"keep","countries":["KR","KP"],"reason":"Jjigae is a shared Korean stew preparation associated with both Koreas."}
 {"id":"Q106252","verdict":"keep"}
-{"id":"Q1062531","verdict":"keep"}
+{"id":"Q1062531","verdict":"keep","countries":["CN","JP","GB","FR"],"reason":"Boiled eggs are prepared food with Chinese, Japanese, British and French culinary versions; Chinese version name is supplied."}
 {"id":"Q106271597","verdict":"remove","reason":"category (Chinese pastries), not one dish"}
 {"id":"Q106293566","verdict":"keep","countries":["ES"],"reason":"Granada (Spain) soup, countries empty"}
 {"id":"Q106299589","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106307339","verdict":"keep"}
 {"id":"Q1063096","verdict":"remove","reason":"category (wagashi in general), not one dish"}
 {"id":"Q10631613","verdict":"remove","reason":"branded packaged ice pop (Piggelin)"}
-{"id":"Q10631922","verdict":"keep"}
+{"id":"Q10631922","verdict":"remove","reason":"Pingvinstång is a branded Toms candy stick.","countries":[]}
 {"id":"Q10632498","verdict":"keep"}
 {"id":"Q106326673","verdict":"keep"}
 {"id":"Q106352242","verdict":"keep"}
@@ -140,57 +140,57 @@
 {"id":"Q1063560","verdict":"keep"}
 {"id":"Q10636000","verdict":"keep"}
 {"id":"Q1063736","verdict":"keep"}
-{"id":"Q10638015","verdict":"keep"}
-{"id":"Q10638199","verdict":"keep"}
-{"id":"Q10638608","verdict":"keep"}
+{"id":"Q10638015","verdict":"keep","countries":["SE"],"reason":"Porterstek is Swedish porter-braised meat."}
+{"id":"Q10638199","verdict":"keep","countries":["SE"],"reason":"Potatisplättar identifies Swedish potato pancakes."}
+{"id":"Q10638608","verdict":"keep","countries":["SE"],"reason":"Pressylta is prepared Swedish head cheese."}
 {"id":"Q106395495","verdict":"keep"}
 {"id":"Q106406706","verdict":"keep"}
 {"id":"Q106407627","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106415576","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106415582","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
-{"id":"Q106441623","verdict":"keep"}
-{"id":"Q10646420","verdict":"keep"}
-{"id":"Q10646811","verdict":"keep"}
+{"id":"Q106441623","verdict":"keep","countries":["EC"],"reason":"Pan Galo Plaza is Ecuadorian named bread."}
+{"id":"Q10646420","verdict":"remove","reason":"Puck identifies a commercial ice-cream product.","countries":[]}
+{"id":"Q10646811","verdict":"keep","countries":["SE"],"reason":"Punschpraliner are Swedish punsch confections."}
 {"id":"Q106468666","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106468669","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106468698","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
-{"id":"Q10647781","verdict":"keep"}
-{"id":"Q10647924","verdict":"keep"}
-{"id":"Q106491332","verdict":"keep"}
+{"id":"Q10647781","verdict":"remove","reason":"Päronsplitt is a branded packaged ice-cream bar.","countries":[]}
+{"id":"Q10647924","verdict":"keep","countries":["IT"],"reason":"Easter dove bread is Italian colomba despite the translated Swedish name."}
+{"id":"Q106491332","verdict":"keep","countries":["RU","UA","BY","PL"],"reason":"Potato cutlets are shared Russian, Ukrainian, Belarusian and Polish cooking."}
 {"id":"Q106497753","verdict":"keep"}
 {"id":"Q1065033","verdict":"keep"}
 {"id":"Q10650346","verdict":"remove","reason":"branded sweet (Refreshers)"}
-{"id":"Q10650830","verdict":"keep"}
+{"id":"Q10650830","verdict":"remove","reason":"Remi identifies a commercial biscuit product.","countries":[]}
 {"id":"Q106513375","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106517231","verdict":"keep"}
 {"id":"Q106519594","verdict":"keep"}
-{"id":"Q106527709","verdict":"keep"}
+{"id":"Q106527709","verdict":"keep","countries":["NL"],"reason":"The name expressly identifies Achterhoek Dutch regional rusk."}
 {"id":"Q106537056","verdict":"keep","countries":["GR","TR"],"reason":"Kavala almond cookies (Greek place name, Turkish description), countries empty"}
-{"id":"Q106542762","verdict":"keep"}
-{"id":"Q106542819","verdict":"keep"}
-{"id":"Q106543283","verdict":"keep"}
-{"id":"Q106543285","verdict":"keep"}
+{"id":"Q106542762","verdict":"keep","countries":["BR"],"reason":"Bolo Luiz Felipe is Brazilian cake."}
+{"id":"Q106542819","verdict":"keep","countries":["BR"],"reason":"Camafeu de nozes is Brazilian walnut confectionery."}
+{"id":"Q106543283","verdict":"keep","countries":["BR"],"reason":"Chegadinho is a Brazilian wafer-like dessert."}
+{"id":"Q106543285","verdict":"keep","countries":["BR"],"reason":"Chico balanceado is Brazilian layered dessert."}
 {"id":"Q106543803","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet, countries empty"}
 {"id":"Q106543804","verdict":"keep","countries":["BR"],"reason":"Brazilian dessert, countries empty"}
 {"id":"Q106543805","verdict":"keep"}
 {"id":"Q106543806","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet, countries empty"}
 {"id":"Q106543808","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet, countries empty"}
 {"id":"Q106543809","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet, countries empty"}
-{"id":"Q106546888","verdict":"keep"}
+{"id":"Q106546888","verdict":"keep","countries":["BR"],"reason":"Muxá is Brazilian dessert."}
 {"id":"Q106548178","verdict":"keep","countries":["PT"],"reason":"Aveiro (Portugal) pastry, countries empty"}
-{"id":"Q10655402","verdict":"keep"}
+{"id":"Q10655402","verdict":"keep","countries":["SE"],"reason":"Rimbobullar are Swedish buns named for Rimbo."}
 {"id":"Q106555015","verdict":"keep","countries":["BR"],"reason":"Brazilian cake, countries empty"}
 {"id":"Q106578055","verdict":"keep"}
-{"id":"Q10658425","verdict":"keep"}
+{"id":"Q10658425","verdict":"keep","countries":["US","SE","NO","DK","TH","VN"],"reason":"Generic shrimp salads also include Thai and Vietnamese traditions alongside American and Scandinavian versions."}
 {"id":"Q106589918","verdict":"keep"}
 {"id":"Q10659007","verdict":"keep","countries":["DK"],"reason":"Danish dish, countries empty"}
 {"id":"Q10659108","verdict":"keep"}
 {"id":"Q106592235","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106592249","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
-{"id":"Q1065990","verdict":"keep"}
-{"id":"Q10659975","verdict":"keep"}
+{"id":"Q1065990","verdict":"keep","countries":["SE","NO","FI","DK"],"reason":"The preserve is explicitly Scandinavian lingonberry jam, shared by Nordic countries."}
+{"id":"Q10659975","verdict":"keep","countries":["SE","GB"],"reason":"Saffron breads have Swedish and Cornish British traditions."}
 {"id":"Q10659978","verdict":"keep"}
-{"id":"Q106601417","verdict":"keep"}
+{"id":"Q106601417","verdict":"keep","countries":["DE"],"reason":"The German salad name provides the permitted last-resort country version."}
 {"id":"Q106611399","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106611530","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106611744","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
@@ -198,9 +198,9 @@
 {"id":"Q106612160","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106612227","verdict":"keep","countries":["ES"],"reason":"Almudevar (Spain) pastry, countries empty"}
 {"id":"Q106616113","verdict":"keep","countries":["CN"],"reason":"Chinese condiment, countries empty"}
-{"id":"Q10662375","verdict":"keep"}
-{"id":"Q1066251","verdict":"keep"}
-{"id":"Q1066260","verdict":"keep"}
+{"id":"Q10662375","verdict":"remove","reason":"The description identifies edible lobster itself; no recipe supports a cooked scampi interpretation here.","countries":[]}
+{"id":"Q1066251","verdict":"keep","countries":["US","GB","IT"],"reason":"Ice-cream cake has established American, British and Italian dessert forms."}
+{"id":"Q1066260","verdict":"keep","countries":["US","GB","ES","CN","PL"],"reason":"Generic tomato soup includes Chinese and Polish versions as well as American, British and Spanish traditions."}
 {"id":"Q10663096","verdict":"keep","countries":["SE"],"reason":"Swedish cookie, countries empty"}
 {"id":"Q106639651","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106639871","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
@@ -213,63 +213,63 @@
 {"id":"Q106647459","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106647501","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106647513","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
-{"id":"Q10665037","verdict":"keep"}
+{"id":"Q10665037","verdict":"keep","countries":["SE"],"reason":"The description explicitly calls these Swedish rat-shaped gummy sweets."}
 {"id":"Q106653772","verdict":"keep","countries":["TR"],"reason":"Turkish dessert, countries empty"}
 {"id":"Q106670608","verdict":"keep","countries":["VN"],"reason":"Vietnamese banh mi, countries empty"}
 {"id":"Q106678690","verdict":"keep","countries":["CN","SG"],"reason":"Paofan is associated with Chinese Teochew cooking and Singaporean cuisine."}
-{"id":"Q106680422","verdict":"keep"}
-{"id":"Q10668299","verdict":"keep"}
-{"id":"Q106691833","verdict":"keep"}
+{"id":"Q106680422","verdict":"keep","countries":["NL","GB"],"reason":"The entry names a Dutch snack, with a shared British currant-bun tradition."}
+{"id":"Q10668299","verdict":"remove","reason":"Singoalla is Göteborgs Kex branded biscuit.","countries":[]}
+{"id":"Q106691833","verdict":"keep","countries":["SE"],"reason":"Dopp i kopp is a Swedish dipping preparation."}
 {"id":"Q10669467","verdict":"keep"}
-{"id":"Q10669558","verdict":"keep"}
+{"id":"Q10669558","verdict":"keep","countries":["FR","FI"],"reason":"Fish Walewska has French classical and Finnish culinary associations."}
 {"id":"Q10669607","verdict":"keep"}
 {"id":"Q106702187","verdict":"keep","countries":["JP"],"reason":"Japanese dish, countries empty"}
-{"id":"Q10670720","verdict":"keep"}
+{"id":"Q10670720","verdict":"keep","countries":["DE","GB","SE"],"reason":"Foam candy has German, British and Swedish confectionery traditions."}
 {"id":"Q106707227","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish, countries empty"}
 {"id":"Q106709225","verdict":"keep"}
-{"id":"Q10671706","verdict":"keep"}
-{"id":"Q10672403","verdict":"keep"}
-{"id":"Q10672575","verdict":"keep"}
-{"id":"Q1067261","verdict":"keep"}
-{"id":"Q10672689","verdict":"keep"}
-{"id":"Q10672787","verdict":"keep"}
-{"id":"Q10673363","verdict":"keep"}
-{"id":"Q10674099","verdict":"keep"}
+{"id":"Q10671706","verdict":"keep","countries":["SE"],"reason":"Sluring identifies Swedish pork soup."}
+{"id":"Q10672403","verdict":"keep","countries":["SE"],"reason":"The Swedish name supplies last-resort country association for this plausible obscure dish."}
+{"id":"Q10672575","verdict":"keep","countries":["SE"],"reason":"Smörgåsrån is the Swedish sandwich wafer."}
+{"id":"Q1067261","verdict":"keep","countries":["MA","DZ","TN"],"reason":"Ras el hanout is prepared spice mix shared across Morocco, Algeria and Tunisia."}
+{"id":"Q10672689","verdict":"keep","countries":["NO","DK"],"reason":"Snitte open sandwiches have Norwegian and Danish associations."}
+{"id":"Q10672787","verdict":"keep","countries":["SE"],"reason":"The dish kind supports prepared game food; Swedish name supplies last-resort country."}
+{"id":"Q10673363","verdict":"keep","countries":["SE"],"reason":"Solskenskaka is Swedish sponge cake."}
+{"id":"Q10674099","verdict":"keep","countries":["SE"],"reason":"Sotare identifies Swedish charred herring."}
 {"id":"Q1067542","verdict":"keep"}
-{"id":"Q10675660","verdict":"keep"}
+{"id":"Q10675660","verdict":"keep","countries":["SE"],"reason":"Spickeskinka is prepared Swedish cured ham."}
 {"id":"Q1067646","verdict":"keep"}
-{"id":"Q106765034","verdict":"keep"}
+{"id":"Q106765034","verdict":"keep","countries":["BO"],"reason":"K’allu is Bolivian salad."}
 {"id":"Q106766133","verdict":"keep"}
 {"id":"Q106768821","verdict":"keep","countries":["TH","LA","KH","VN","MM"],"reason":"The general green papaya salad dish has customary Thai, Lao, Cambodian, Vietnamese and Burmese forms."}
 {"id":"Q106769958","verdict":"remove","reason":"honey type (ingredient), not a dish"}
 {"id":"Q1067842","verdict":"keep"}
-{"id":"Q106786339","verdict":"keep"}
+{"id":"Q106786339","verdict":"keep","countries":["DE","FR","IT"],"reason":"Wine-and-egg cream desserts include Italian zabaglione alongside German and French wine cream."}
 {"id":"Q1067884","verdict":"keep"}
 {"id":"Q106804810","verdict":"keep"}
-{"id":"Q106807449","verdict":"keep"}
-{"id":"Q10681399","verdict":"keep"}
+{"id":"Q106807449","verdict":"keep","countries":["JP"],"reason":"Kaseita is Japanese nanban confectionery."}
+{"id":"Q10681399","verdict":"remove","reason":"Storstrut is a named commercial ice-cream cone.","countries":[]}
 {"id":"Q1068180","verdict":"keep","countries":["FR"],"reason":"French dish, countries empty"}
-{"id":"Q10682066","verdict":"keep"}
-{"id":"Q10682288","verdict":"keep"}
-{"id":"Q10682359","verdict":"keep"}
-{"id":"Q106827037","verdict":"keep"}
-{"id":"Q10683206","verdict":"keep"}
+{"id":"Q10682066","verdict":"keep","countries":["SE"],"reason":"The Swedish name supplies this cone-shaped bread version."}
+{"id":"Q10682288","verdict":"keep","countries":["SE"],"reason":"Stubbe is Swedish log-shaped pastry."}
+{"id":"Q10682359","verdict":"keep","countries":["SE"],"reason":"Studentska identifies Swedish individual pastry."}
+{"id":"Q106827037","verdict":"keep","countries":["BO"],"reason":"Thayacha is Bolivian frozen dessert."}
+{"id":"Q10683206","verdict":"keep","countries":["SE"],"reason":"Succarie identifies Swedish rye-sourdough rusk squares."}
 {"id":"Q1068339","verdict":"keep"}
 {"id":"Q1068341","verdict":"keep"}
 {"id":"Q106840433","verdict":"keep","countries":["JP"],"reason":"Japanese yoshoku, countries empty"}
 {"id":"Q10684425","verdict":"keep"}
-{"id":"Q10684495","verdict":"keep"}
-{"id":"Q106854834","verdict":"keep"}
+{"id":"Q10684495","verdict":"keep","countries":["SE"],"reason":"Svartgröt is Swedish porridge."}
+{"id":"Q106854834","verdict":"keep","countries":["TR"],"reason":"Spinach cake is associated with Turkish ıspanaklı kek."}
 {"id":"Q106862786","verdict":"keep"}
-{"id":"Q106867728","verdict":"keep"}
-{"id":"Q10686809","verdict":"keep"}
+{"id":"Q106867728","verdict":"keep","countries":["FR","GB","NL","DE","AT"],"reason":"Apple tarts have French, British, Dutch, German and Austrian traditions."}
+{"id":"Q10686809","verdict":"keep","countries":["SE","FI"],"reason":"Syltmunk jam doughnuts belong to Swedish and Finnish baking."}
 {"id":"Q106869679","verdict":"keep"}
-{"id":"Q10687668","verdict":"keep"}
+{"id":"Q10687668","verdict":"keep","countries":["SE"],"reason":"The Swedish sour-bread name supplies the country version."}
 {"id":"Q1068892","verdict":"keep"}
 {"id":"Q106898676","verdict":"keep","countries":["JP"],"reason":"Okinawan (Japanese) dish, countries empty"}
 {"id":"Q106906025","verdict":"keep"}
 {"id":"Q1069097","verdict":"keep"}
-{"id":"Q10691676","verdict":"keep"}
+{"id":"Q10691676","verdict":"keep","countries":["SE"],"reason":"Teaterkonfekt has Swedish confectionery association."}
 {"id":"Q106952818","verdict":"remove","reason":"honey type (ingredient), not a dish"}
 {"id":"Q1069561","verdict":"keep","countries":["KR","KP"],"reason":"Yukgaejang is a Korean soup shared across both Koreas."}
 {"id":"Q1069591","verdict":"keep","countries":["KR"],"reason":"Korean dish, countries empty"}

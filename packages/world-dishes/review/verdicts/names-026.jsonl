@@ -11,14 +11,14 @@
 {"id":"Q1497012","verdict":"keep","countries":["DE","AT","CH"],"reason":"countries were empty; German-speaking bakery tradition"}
 {"id":"Q14971","verdict":"keep","countries":["FR"],"reason":"countries were empty; French regional specialty"}
 {"id":"Q1498208","verdict":"keep","countries":["DE","AT"],"reason":"Second opinion: stuffed veal breast belongs to German and Austrian cooking; preserve both common ties."}
-{"id":"Q1498378","verdict":"keep"}
+{"id":"Q1498378","verdict":"keep","countries":["PL","DE","IL","US"],"reason":"Chopped liver belongs to Ashkenazi Jewish cooking in eastern Europe, Israel and America."}
 {"id":"Q1498834","verdict":"keep","countries":["DE"],"reason":"countries were empty; German bread roll"}
-{"id":"Q1499559","verdict":"keep","reason":"Second opinion: fruit jellies are prepared fruit confectionery, comparable to accepted sweets, not an index of recipes."}
+{"id":"Q1499559","verdict":"keep","reason":"Fruit jelly sweets have French and British confectionery traditions.","countries":["FR","GB"]}
 {"id":"Q15010030","verdict":"keep","countries":["MX"],"reason":"countries were empty; Yucatecan dish"}
 {"id":"Q1501015","verdict":"keep"}
 {"id":"Q1501043","verdict":"keep"}
-{"id":"Q15014447","verdict":"keep"}
-{"id":"Q1501889","verdict":"keep"}
+{"id":"Q15014447","verdict":"keep","countries":["CN","JP","KR"],"reason":"Cold noodles are established Chinese, Japanese and Korean dishes."}
+{"id":"Q1501889","verdict":"keep","countries":["FR","GB","US"],"reason":"White bread has established French, British and American traditions."}
 {"id":"Q15023947","verdict":"keep"}
 {"id":"Q15042119","verdict":"keep"}
 {"id":"Q1504300","verdict":"keep"}
@@ -27,7 +27,7 @@
 {"id":"Q1505775","verdict":"keep","countries":["RO","MD"],"reason":"Sirbusca soup is associated with Moldova and Romanian cuisine."}
 {"id":"Q15059761","verdict":"keep"}
 {"id":"Q15060428","verdict":"keep"}
-{"id":"Q15062624","verdict":"keep"}
+{"id":"Q15062624","verdict":"keep","countries":["CN","SG","MY"],"reason":"Fried rice noodles have Chinese, Singaporean and Malaysian traditions."}
 {"id":"Q1506811","verdict":"keep","countries":["DK"],"reason":"countries were empty; Danish sausage"}
 {"id":"Q1509150","verdict":"keep","countries":["AT"],"reason":"countries were empty; Tyrolean dessert"}
 {"id":"Q1509400","verdict":"keep","countries":["SA","AE","QA","BH","OM","IQ","YE"],"reason":"Tharid is a shared Arabian bread-and-meat stew with Gulf, Iraqi and Yemeni traditions."}
@@ -36,12 +36,12 @@
 {"id":"Q1510478","verdict":"keep","countries":["DE"],"reason":"countries were empty; Westphalian ham"}
 {"id":"Q15106034","verdict":"remove","reason":"generic word for appetizer, not a specific dish"}
 {"id":"Q1511660","verdict":"keep","countries":["AT","DE"],"reason":"Second opinion: Stosuppe is Austrian and southern German; Germany alone omitted its main Austrian association (https://www.gutekueche.at/stosuppe-artikel-4767)."}
-{"id":"Q15121455","verdict":"keep"}
+{"id":"Q15121455","verdict":"keep","countries":["ES","FR","CZ","SK"],"reason":"Garlic soups have Spanish, French, Czech and Slovak traditions."}
 {"id":"Q151259","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cake"}
-{"id":"Q1512964","verdict":"keep"}
+{"id":"Q1512964","verdict":"keep","countries":["PL","DE","IL","US"],"reason":"Latkes belong to Ashkenazi Jewish cooking across eastern Europe, Israel and America."}
 {"id":"Q15139880","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese dish"}
 {"id":"Q151466","verdict":"keep","countries":["DE"],"reason":"countries were empty; German bread roll"}
-{"id":"Q15149436","verdict":"keep"}
+{"id":"Q15149436","verdict":"keep","countries":["CN","JP","KR"],"reason":"Asian rice cakes are established Chinese, Japanese and Korean prepared foods."}
 {"id":"Q1515205","verdict":"keep"}
 {"id":"Q1517954","verdict":"keep","countries":["CH"],"reason":"Second opinion: Pizokel are from Graubunden, Switzerland, not Swabia or Bavaria (https://prd.graubuendenviva.ch/de/wissen/kochwelt/rezepte/pizokels)."}
 {"id":"Q15181","verdict":"keep","countries":["RU","GE","AM","AZ","UA","UZ","KZ"],"reason":"Shashlik is associated with Caucasian, Russian, Ukrainian and Central Asian cuisines."}
@@ -68,8 +68,8 @@
 {"id":"Q152547","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch chocolate sprinkles"}
 {"id":"Q1525655","verdict":"keep"}
 {"id":"Q15265706","verdict":"keep","countries":["IN"],"reason":"countries were empty; Odisha dish"}
-{"id":"Q1526667","verdict":"keep"}
-{"id":"Q152834","verdict":"keep"}
+{"id":"Q1526667","verdict":"keep","countries":["AT"],"reason":"Girardirostbraten is an Austrian beef dish."}
+{"id":"Q152834","verdict":"keep","countries":["FR","GB","US"],"reason":"Fruit salads have established French, British and American dessert traditions."}
 {"id":"Q15285629","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean gimbap"}
 {"id":"Q15290802","verdict":"keep","countries":["CZ"],"reason":"countries were empty; Czech Christmas cookie"}
 {"id":"Q152981","verdict":"keep"}
@@ -78,10 +78,10 @@
 {"id":"Q153230","verdict":"keep"}
 {"id":"Q1533235","verdict":"keep"}
 {"id":"Q153352","verdict":"keep"}
-{"id":"Q15340455","verdict":"keep"}
+{"id":"Q15340455","verdict":"keep","countries":["CN"],"reason":"Smoked eggs are an established Chinese egg preparation."}
 {"id":"Q1535277","verdict":"keep"}
 {"id":"Q153594","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
-{"id":"Q1536337","verdict":"keep"}
+{"id":"Q1536337","verdict":"keep","countries":["JP"],"reason":"The description explicitly identifies Japanese tenmusu."}
 {"id":"Q1537510","verdict":"keep"}
 {"id":"Q1537533","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dumpling"}
 {"id":"Q1537922","verdict":"keep"}
@@ -93,24 +93,24 @@
 {"id":"Q154166","verdict":"keep"}
 {"id":"Q1542215","verdict":"keep"}
 {"id":"Q15427731","verdict":"keep"}
-{"id":"Q1543722","verdict":"keep"}
+{"id":"Q1543722","verdict":"keep","countries":["LV"],"reason":"Grey peas are a Latvian traditional dish."}
 {"id":"Q1543770","verdict":"keep"}
 {"id":"Q1544629","verdict":"keep"}
-{"id":"Q154482","verdict":"keep"}
+{"id":"Q154482","verdict":"keep","countries":["GB","IE","FR","DE","ES","PL","KR","CN","PT","IT"],"reason":"Blood sausage also has well-established Chinese, Portuguese and Italian traditions; expand incomplete list, retain existing shared ties."}
 {"id":"Q1545649","verdict":"keep"}
 {"id":"Q1546782","verdict":"keep","countries":["DE"],"reason":"DD is a retired ISO code (former GDR); changed to DE"}
-{"id":"Q1548693","verdict":"keep"}
+{"id":"Q1548693","verdict":"keep","countries":["DE"],"reason":"Grosser Hans is a northern German pudding."}
 {"id":"Q154872","verdict":"keep"}
-{"id":"Q1550301","verdict":"keep"}
+{"id":"Q1550301","verdict":"keep","countries":["US","GB","CH"],"reason":"Lemon meringue pie has American, British and Swiss pastry ties."}
 {"id":"Q1551132","verdict":"keep","countries":["DE"],"reason":"countries were empty; German viennoiserie"}
-{"id":"Q1551242","verdict":"keep"}
+{"id":"Q1551242","verdict":"keep","countries":["US","GB"],"reason":"Candy cigarettes have American and British confectionery traditions."}
 {"id":"Q1552373","verdict":"remove","reason":"soft part of bread (crumb), not a dish"}
 {"id":"Q1553379","verdict":"keep","countries":["AT"],"reason":"Second opinion: Polsterzipf are traditional Austrian pastries (https://www.bmluk.gv.at/themen/lebensmittel/trad-lebensmittel/speisen/polsterzipf_hasenoeh.html)."}
 {"id":"Q1554207","verdict":"keep"}
 {"id":"Q15544669","verdict":"remove","reason":"plant species, not a dish"}
 {"id":"Q1554570","verdict":"keep"}
-{"id":"Q1554726","verdict":"keep"}
-{"id":"Q15548160","verdict":"keep","countries":[],"reason":"Second opinion: roast duck is generic; the entry has no evidence tying it specifically to China."}
+{"id":"Q1554726","verdict":"keep","countries":["PL"],"reason":"Placek is Polish cake."}
+{"id":"Q15548160","verdict":"keep","countries":["CN","FR","DE"],"reason":"Roast duck has established Chinese, French and German traditions."}
 {"id":"Q1555816","verdict":"keep"}
 {"id":"Q1558512","verdict":"keep"}
 {"id":"Q155922","verdict":"keep"}
@@ -122,9 +122,9 @@
 {"id":"Q15622657","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch sweet"}
 {"id":"Q15629893","verdict":"keep"}
 {"id":"Q15630073","verdict":"keep"}
-{"id":"Q1563014","verdict":"keep"}
+{"id":"Q1563014","verdict":"keep","countries":["DE"],"reason":"Snirtjebraten is East Frisian German pork."}
 {"id":"Q15635457","verdict":"keep","countries":["RS","BA","HR","ME","MK","TR","BG"],"reason":"Include Bulgarian kachamak with the existing Balkan and Turkish associations."}
-{"id":"Q1563684","verdict":"keep"}
+{"id":"Q1563684","verdict":"keep","countries":["DE"],"reason":"Schleckmuscheln are German shell-shaped sweets."}
 {"id":"Q15647777","verdict":"keep"}
 {"id":"Q15648182","verdict":"keep"}
 {"id":"Q15656515","verdict":"keep","countries":["NP"],"reason":"countries were empty; Newar dish of Nepal"}
@@ -139,13 +139,13 @@
 {"id":"Q1568754","verdict":"keep","countries":["BR","MX","ES"],"reason":"Second opinion: retain Brazilian salpicao chicken salad association present in original metadata alongside Spanish and Mexican salpicon."}
 {"id":"Q1568905","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pastry"}
 {"id":"Q15693942","verdict":"keep","countries":["CO"],"reason":"ES was wrong; Colombian pastry"}
-{"id":"Q15695438","verdict":"keep"}
+{"id":"Q15695438","verdict":"keep","countries":["FR"],"reason":"Cider confit is associated with French cider-region preserves."}
 {"id":"Q15696039","verdict":"keep"}
 {"id":"Q1570370","verdict":"keep"}
 {"id":"Q1570466","verdict":"keep","countries":["DE"],"reason":"countries were empty; German liver sausage"}
 {"id":"Q15705292","verdict":"keep","countries":["ES"],"reason":"countries were empty; Galician dish"}
 {"id":"Q15714224","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian biscuit"}
-{"id":"Q15715760","verdict":"keep"}
+{"id":"Q15715760","verdict":"keep","countries":["PL","UA","RU","IL","US"],"reason":"Blintzes belong to eastern European Jewish cooking and Israeli and American traditions."}
 {"id":"Q1571724","verdict":"keep","countries":["DE"],"reason":"countries were empty; Halligen dish"}
 {"id":"Q1572040","verdict":"keep"}
 {"id":"Q15724277","verdict":"keep"}
@@ -157,11 +157,11 @@
 {"id":"Q15751203","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pork dish"}
 {"id":"Q15751355","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pork dish"}
 {"id":"Q1575225","verdict":"keep","countries":["SK","UA","CZ","PL"],"reason":"added CZ and PL; dish is common across Central and Eastern Europe"}
-{"id":"Q1578239","verdict":"keep"}
+{"id":"Q1578239","verdict":"keep","countries":["DK","DE","GB","US"],"reason":"Chocolate-coated marshmallow confections have Danish, German, British and American traditions."}
 {"id":"Q1578447","verdict":"keep","countries":["IT"],"reason":"countries were empty; Roman sausage"}
 {"id":"Q15785303","verdict":"keep"}
 {"id":"Q15785486","verdict":"keep","countries":["ID"],"reason":"countries were empty; Indonesian bun"}
-{"id":"Q15789810","verdict":"keep","countries":[],"reason":"Second opinion: nettle greens prepared as spinach are generic; German wording does not establish national origin."}
+{"id":"Q15789810","verdict":"keep","countries":["DE","AT"],"reason":"Brennnesselspinat belongs to German and Austrian nettle cooking."}
 {"id":"Q15790217","verdict":"keep"}
 {"id":"Q15792421","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pastry"}
 {"id":"Q15794115","verdict":"keep"}
@@ -174,16 +174,16 @@
 {"id":"Q15823102","verdict":"keep","countries":["DE"],"reason":"Karlsbader Schnitte is a German toasted sandwich; the place name alone does not establish Czech origin."}
 {"id":"Q15835946","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cruller"}
 {"id":"Q1583698","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pastry"}
-{"id":"Q15839499","verdict":"keep"}
-{"id":"Q15839804","verdict":"keep"}
+{"id":"Q15839499","verdict":"keep","countries":["DE","AT","HU"],"reason":"Paprika schnitzel has German, Austrian and Hungarian ties."}
+{"id":"Q15839804","verdict":"keep","countries":["AT"],"reason":"The description explicitly identifies a Viennese fish preparation."}
 {"id":"Q15840444","verdict":"keep"}
 {"id":"Q15843485","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
 {"id":"Q15845489","verdict":"keep"}
-{"id":"Q15845514","verdict":"keep"}
+{"id":"Q15845514","verdict":"keep","countries":["DZ"],"reason":"Halwat tabaa is an Algerian cookie."}
 {"id":"Q15845628","verdict":"keep"}
 {"id":"Q15846908","verdict":"remove","reason":"heading (difficult dishes), not a specific dish"}
 {"id":"Q1584788","verdict":"keep","countries":["TR","GR"],"reason":"added GR; dish is common to Turkish and Greek cuisine"}
-{"id":"Q1584798","verdict":"keep","countries":[],"reason":"Second opinion: parsley potatoes are generic, not assigned Germany merely from their German name."}
+{"id":"Q1584798","verdict":"keep","countries":["DE","AT","CZ"],"reason":"Parsley potatoes have German, Austrian and Czech traditions."}
 {"id":"Q1585409","verdict":"keep"}
 {"id":"Q15854364","verdict":"keep"}
 {"id":"Q15855727","verdict":"keep"}
@@ -197,10 +197,10 @@
 {"id":"Q15884273","verdict":"keep","countries":["SE"],"reason":"countries were empty; Swedish dish"}
 {"id":"Q1588808","verdict":"keep"}
 {"id":"Q15888508","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese dish"}
-{"id":"Q15893577","verdict":"keep","countries":[],"reason":"Second opinion: lamb brisket is not established as a specifically Chinese dish by the entry."}
+{"id":"Q15893577","verdict":"remove","reason":"remove: Lamb brisket is a raw meat cut with no recipe supplied."}
 {"id":"Q15894338","verdict":"keep"}
 {"id":"Q15894369","verdict":"keep"}
-{"id":"Q15894455","verdict":"keep"}
+{"id":"Q15894455","verdict":"keep","countries":["TW"],"reason":"Shrimp omelette is an established Taiwanese preparation."}
 {"id":"Q15896447","verdict":"keep"}
 {"id":"Q15896582","verdict":"keep"}
 {"id":"Q15896774","verdict":"keep"}
@@ -208,7 +208,7 @@
 {"id":"Q15897086","verdict":"keep"}
 {"id":"Q15898970","verdict":"keep"}
 {"id":"Q15899146","verdict":"keep","countries":["CN"],"reason":"countries were empty; Wuxi dish"}
-{"id":"Q15900078","verdict":"keep"}
+{"id":"Q15900078","verdict":"keep","countries":["TW"],"reason":"Sliced tomatoes served as a plate are an established Taiwanese preparation."}
 {"id":"Q15900310","verdict":"keep"}
 {"id":"Q15902096","verdict":"keep"}
 {"id":"Q15906640","verdict":"keep"}
@@ -235,7 +235,7 @@
 {"id":"Q15942827","verdict":"keep"}
 {"id":"Q15943298","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch bread"}
 {"id":"Q15948677","verdict":"keep","countries":["CN"],"reason":"countries were empty; Tibetan dish of China"}
-{"id":"Q15949258","verdict":"keep"}
+{"id":"Q15949258","verdict":"keep","countries":["TW","HK"],"reason":"Stir-fried instant noodles have Taiwanese and Hong Kong traditions."}
 {"id":"Q15952986","verdict":"keep"}
 {"id":"Q15954264","verdict":"keep","countries":["TW"],"reason":"countries were empty; Taiwanese dish"}
 {"id":"Q15955061","verdict":"keep"}
@@ -250,13 +250,13 @@
 {"id":"Q159841","verdict":"keep"}
 {"id":"Q15984356","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese Nanbangashi confection"}
 {"id":"Q15985100","verdict":"keep"}
-{"id":"Q15985102","verdict":"keep"}
+{"id":"Q15985102","verdict":"keep","countries":["FR","US"],"reason":"Chocolate-covered fruit has French and American confectionery traditions."}
 {"id":"Q15990748","verdict":"keep","countries":["GE"],"reason":"countries were empty; Georgian kebab"}
 {"id":"Q1599125","verdict":"keep"}
 {"id":"Q15992430","verdict":"keep"}
 {"id":"Q15992463","verdict":"keep"}
 {"id":"Q16024165","verdict":"keep","countries":["FR","BE","RE"],"reason":"Second opinion: sandwich americain is French/Belgian and Reunion food, not Japanese (https://fr.wikipedia.org/wiki/Sandwich_am%C3%A9ricain)."}
-{"id":"Q1603166","verdict":"keep"}
+{"id":"Q1603166","verdict":"keep","countries":["DE","DK","SE"],"reason":"Twist bread cooked over a fire has German, Danish and Swedish traditions."}
 {"id":"Q16044494","verdict":"keep"}
 {"id":"Q16044734","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
 {"id":"Q16044834","verdict":"keep"}

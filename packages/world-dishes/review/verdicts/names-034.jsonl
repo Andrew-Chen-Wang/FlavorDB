@@ -1,7 +1,7 @@
 {"id":"Q2354397","verdict":"keep"}
-{"id":"Q2355867","verdict":"keep"}
+{"id":"Q2355867","verdict":"keep","countries":["DE"],"reason":"Hot-smoked salmon strips are the German Stremellachs preparation."}
 {"id":"Q2356049","verdict":"keep","countries":["CN","IN","NP","BT"],"reason":"Tibetan fried biscuit; added countries"}
-{"id":"Q2358937","verdict":"keep"}
+{"id":"Q2358937","verdict":"keep","countries":["GR"],"reason":"Brizoles are Greek grilled chops."}
 {"id":"Q2360511","verdict":"keep","countries":["BE"],"reason":"Kortrijk beschuiten is Belgian; added country"}
 {"id":"Q2364865","verdict":"keep","name":"Gazelle ankles","countries":["MA"],"reason":"name had flag emoji; added Moroccan country"}
 {"id":"Q2365219","verdict":"keep","countries":["IQ"],"reason":"Mesopotamian bread; added country"}
@@ -10,7 +10,7 @@
 {"id":"Q2368931","verdict":"keep","countries":["NL"],"reason":"Dutch sweet; added country"}
 {"id":"Q23689485","verdict":"keep"}
 {"id":"Q23689489","verdict":"keep","countries":["AT"],"reason":"Austrian soup; added country"}
-{"id":"Q23712115","verdict":"keep"}
+{"id":"Q23712115","verdict":"keep","countries":["US","ID"],"reason":"Avocado cakes have established American and Indonesian baking traditions."}
 {"id":"Q2372494","verdict":"keep"}
 {"id":"Q23758190","verdict":"keep"}
 {"id":"Q2378108","verdict":"keep"}
@@ -23,7 +23,7 @@
 {"id":"Q2383238","verdict":"remove","reason":"Second opinion: poularde is a fattened chicken ingredient, not a prepared poultry dish; no recipe."}
 {"id":"Q2386515","verdict":"keep","countries":["BE"],"reason":"Liege specialty; added country"}
 {"id":"Q2386967","verdict":"keep"}
-{"id":"Q2387911","verdict":"keep"}
+{"id":"Q2387911","verdict":"keep","countries":["DE","US"],"reason":"Liver cheese is a prepared German and German-American liver cold cut."}
 {"id":"Q23888567","verdict":"keep","countries":["HK"],"reason":"Hong Kong style dish; added country"}
 {"id":"Q23902671","verdict":"keep"}
 {"id":"Q2390734","verdict":"keep"}
@@ -47,16 +47,16 @@
 {"id":"Q24050975","verdict":"keep"}
 {"id":"Q2405114","verdict":"keep","countries":["NL"],"reason":"Dutch croquette; added country"}
 {"id":"Q24054513","verdict":"keep","countries":["IT","FR"],"reason":"Second opinion: Regina pizza is associated with Italian and French pizzeria traditions."}
-{"id":"Q2407727","verdict":"keep"}
+{"id":"Q2407727","verdict":"keep","countries":["NL"],"reason":"The Esperanto name translates the Dutch blote billetjes in het gras, the bean-and-potato dish."}
 {"id":"Q24083230","verdict":"keep"}
 {"id":"Q2408388","verdict":"keep"}
 {"id":"Q24084883","verdict":"keep"}
-{"id":"Q24090752","verdict":"keep"}
+{"id":"Q24090752","verdict":"keep","countries":["US","TH"],"reason":"Coconut shrimp is an established American fried appetizer and Thai coconut shrimp preparation."}
 {"id":"Q2410707","verdict":"keep"}
-{"id":"Q2410797","verdict":"keep"}
+{"id":"Q2410797","verdict":"keep","countries":["NL"],"reason":"Raspatat is the Dutch potato preparation."}
 {"id":"Q2414031","verdict":"keep"}
 {"id":"Q2415718","verdict":"keep"}
-{"id":"Q24190322","verdict":"keep"}
+{"id":"Q24190322","verdict":"keep","countries":["FR","PE","US"],"reason":"Rotisserie chicken has established French, Peruvian and American prepared-chicken traditions."}
 {"id":"Q241933","verdict":"keep"}
 {"id":"Q24196624","verdict":"keep"}
 {"id":"Q242003","verdict":"keep"}
@@ -70,7 +70,7 @@
 {"id":"Q2425845","verdict":"keep"}
 {"id":"Q2427282","verdict":"keep"}
 {"id":"Q2427598","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish; added countries"}
-{"id":"Q24285554","verdict":"keep"}
+{"id":"Q24285554","verdict":"keep","countries":["US","GB"],"reason":"Roast beef sandwiches are established American and British sandwiches."}
 {"id":"Q2428787","verdict":"keep"}
 {"id":"Q2430685","verdict":"remove","reason":"brand of imitation custard powder"}
 {"id":"Q24309184","verdict":"keep","countries":["DE"],"reason":"German dish; added country"}
@@ -78,14 +78,14 @@
 {"id":"Q24346104","verdict":"keep","countries":["DE"],"reason":"German dish; added country"}
 {"id":"Q2436547","verdict":"keep"}
 {"id":"Q2436674","verdict":"keep","countries":["GB"],"reason":"English biscuit; added country"}
-{"id":"Q2440538","verdict":"keep"}
+{"id":"Q2440538","verdict":"keep","countries":["FR"],"reason":"Tomaten-concassée is a prepared chopped tomato garnish in French cooking."}
 {"id":"Q244495","verdict":"keep"}
 {"id":"Q244496","verdict":"keep","countries":["AT","CZ"],"reason":"Second opinion: description explicitly identifies the Austro-Bohemian tradition; include both ties."}
 {"id":"Q2444993","verdict":"keep"}
 {"id":"Q2445410","verdict":"keep","countries":["IN"],"reason":"Hyderabadi dish; added country"}
 {"id":"Q244589","verdict":"keep","countries":["DE"],"reason":"Swabian dish; added country"}
 {"id":"Q244609","verdict":"keep","countries":["AT","DE"],"reason":"Second opinion: Zwiebelrostbraten belongs to Austrian and southern German traditions."}
-{"id":"Q24460908","verdict":"keep"}
+{"id":"Q24460908","verdict":"keep","countries":["IT","HR","PT"],"reason":"Fig cake is a traditional Mediterranean prepared cake, including Italian, Croatian and Portuguese versions."}
 {"id":"Q244611","verdict":"keep"}
 {"id":"Q2446322","verdict":"keep"}
 {"id":"Q24471421","verdict":"keep","countries":["DE"],"reason":"German dish; added country"}
@@ -96,10 +96,10 @@
 {"id":"Q24517","verdict":"keep","countries":["ES","MX"],"reason":"Spanish/Mexican sugar figure; added countries"}
 {"id":"Q2452555","verdict":"keep"}
 {"id":"Q2456855","verdict":"keep"}
-{"id":"Q24568658","verdict":"keep"}
+{"id":"Q24568658","verdict":"keep","countries":["CZ","SK","GR","BG","US"],"reason":"Second opinion: fried cheese also has established Bulgarian and American traditions."}
 {"id":"Q2457455","verdict":"keep"}
 {"id":"Q2457672","verdict":"keep","countries":["NL"],"reason":"Limburg pastry; added country"}
-{"id":"Q2461000","verdict":"keep"}
+{"id":"Q2461000","verdict":"keep","countries":["FR","GB"],"reason":"Apple turnover is established in French and British pastry."}
 {"id":"Q2461918","verdict":"keep"}
 {"id":"Q2462111","verdict":"keep","countries":["DE"],"reason":"German bread roll; added country"}
 {"id":"Q24636822","verdict":"keep"}
@@ -113,7 +113,7 @@
 {"id":"Q24735647","verdict":"keep"}
 {"id":"Q2476143","verdict":"keep","countries":["NL"],"reason":"Zeeland pastry; added country"}
 {"id":"Q2476688","verdict":"keep"}
-{"id":"Q2478397","verdict":"keep"}
+{"id":"Q2478397","verdict":"keep","countries":["BE"],"reason":"Poppelse janhagel is the cookie associated with Poppel in Belgium."}
 {"id":"Q2478703","verdict":"keep","countries":["IN","BD","PK","NP"],"reason":"Second opinion: khichri is a shared South Asian rice-and-lentil dish, including India, Bangladesh, Pakistan and Nepal."}
 {"id":"Q2479287","verdict":"keep"}
 {"id":"Q2481743","verdict":"keep"}
@@ -128,7 +128,7 @@
 {"id":"Q24855922","verdict":"keep","countries":["KR"],"reason":"Korean soup; added country"}
 {"id":"Q24855923","verdict":"keep","countries":["KR"],"reason":"Korean soup; added country"}
 {"id":"Q24862829","verdict":"keep","countries":["JP"],"reason":"Japanese dish; added country"}
-{"id":"Q24863110","verdict":"keep"}
+{"id":"Q24863110","verdict":"keep","countries":["JP"],"reason":"The entry explicitly identifies Mizumama as a Japanese rice dish."}
 {"id":"Q24864708","verdict":"keep"}
 {"id":"Q24865307","verdict":"keep"}
 {"id":"Q24867063","verdict":"keep","countries":["JP"],"reason":"Japanese dagashi; added country"}
@@ -164,14 +164,14 @@
 {"id":"Q24902716","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; added country"}
 {"id":"Q24906665","verdict":"keep","countries":["IN"],"reason":"Indian dish; added country"}
 {"id":"Q24906668","verdict":"keep"}
-{"id":"Q24906818","verdict":"keep"}
-{"id":"Q24911299","verdict":"keep"}
+{"id":"Q24906818","verdict":"keep","countries":["CN","TH","VN","MY","SG","ID"],"reason":"Stir-fried water spinach is shared Chinese and Southeast Asian cooking."}
+{"id":"Q24911299","verdict":"keep","countries":["IL","US"],"reason":"Matzah pizza is a Passover preparation established in Israeli and American Jewish cooking."}
 {"id":"Q249114","verdict":"keep"}
 {"id":"Q2491452","verdict":"remove","reason":"branded packaged product (pasta line named after confiscated land)"}
 {"id":"Q249169","verdict":"keep"}
 {"id":"Q24929136","verdict":"keep","countries":["FR"],"reason":"French PGI ham; added country"}
 {"id":"Q24929320","verdict":"keep","countries":["CA"],"reason":"Second opinion: tarte à la farlouche is Quebecois, not French because of its language (https://fr.wiktionary.org/wiki/tarte_%C3%A0_la_farlouche)."}
-{"id":"Q24930064","verdict":"keep"}
+{"id":"Q24930064","verdict":"keep","countries":["FR"],"reason":"Subric is a French fritter preparation."}
 {"id":"Q249310","verdict":"keep"}
 {"id":"Q24931479","verdict":"keep"}
 {"id":"Q24933148","verdict":"keep"}
@@ -200,11 +200,11 @@
 {"id":"Q2494643","verdict":"keep","countries":["CN","IN","NP","BT"],"reason":"Tibetan flatbread; added countries"}
 {"id":"Q24946983","verdict":"keep","countries":["IN","MM"],"reason":"fermented dish of NE India / Naga and Kachin areas; TH was wrong"}
 {"id":"Q24947059","verdict":"keep"}
-{"id":"Q24948875","verdict":"keep"}
+{"id":"Q24948875","verdict":"keep","countries":["IN"],"reason":"Bamboo chicken is associated with Indian tribal cooking, especially Andhra Pradesh."}
 {"id":"Q24950338","verdict":"keep"}
 {"id":"Q24950882","verdict":"keep"}
 {"id":"Q24951925","verdict":"keep"}
-{"id":"Q2495505","verdict":"keep"}
+{"id":"Q2495505","verdict":"keep","countries":["FI","SE"],"reason":"Macaroni casserole with egg and milk is an established Finnish and Swedish dish."}
 {"id":"Q24955416","verdict":"keep"}
 {"id":"Q24957229","verdict":"keep"}
 {"id":"Q2495784","verdict":"keep"}
@@ -222,23 +222,23 @@
 {"id":"Q25004801","verdict":"keep","countries":["US"],"reason":"Southern US pie; added country"}
 {"id":"Q25004816","verdict":"keep"}
 {"id":"Q25005338","verdict":"keep"}
-{"id":"Q25005351","verdict":"keep"}
-{"id":"Q25005355","verdict":"keep"}
-{"id":"Q25006844","verdict":"keep"}
+{"id":"Q25005351","verdict":"keep","countries":["US","FR"],"reason":"Walnut pies are established in American and French baking."}
+{"id":"Q25005355","verdict":"keep","countries":["IT","FR"],"reason":"Chestnut pie belongs to Italian and French chestnut-baking traditions."}
+{"id":"Q25006844","verdict":"keep","countries":["JP","US"],"reason":"Spaghetti sandwiches are established Japanese and American prepared sandwiches."}
 {"id":"Q2500956","verdict":"keep","countries":["TZ"],"reason":"Tanzanian dish; added country"}
-{"id":"Q2501196","verdict":"keep"}
+{"id":"Q2501196","verdict":"keep","countries":["GB"],"reason":"The butter-rich shortbread ratio identifies the Scottish biscuit tradition."}
 {"id":"Q250170","verdict":"keep","countries":["TR","BG","RS","BA","HR","HU"],"reason":"Second opinion: poğaça/pogača is shared across Turkish, Balkan and Central European traditions, as the original description states."}
 {"id":"Q25019736","verdict":"keep","countries":["CL"],"reason":"Second opinion: preserve the supplied Chile association; an Azerbaijani translation alone cannot replace it with Azerbaijan."}
 {"id":"Q250271","verdict":"keep"}
 {"id":"Q25038426","verdict":"keep"}
-{"id":"Q25039790","verdict":"keep"}
+{"id":"Q25039790","verdict":"keep","countries":["US","GB"],"reason":"Spice cake is established in American and British baking."}
 {"id":"Q25040576","verdict":"keep"}
 {"id":"Q25041417","verdict":"keep"}
-{"id":"Q25041585","verdict":"keep"}
+{"id":"Q25041585","verdict":"keep","countries":["PT","GR"],"reason":"Tomato jam has established Portuguese and Greek preserve traditions."}
 {"id":"Q25041852","verdict":"keep","countries":["BW"],"reason":"Botswana porridge; added country"}
 {"id":"Q25041872","verdict":"keep","countries":["TH"],"reason":"Thai dessert; added country"}
 {"id":"Q25042582","verdict":"keep"}
-{"id":"Q25042586","verdict":"keep"}
+{"id":"Q25042586","verdict":"keep","countries":["US"],"reason":"The sweet flour-and-sugar carrot bread is an American quick-bread preparation."}
 {"id":"Q25042801","verdict":"keep","countries":["KR"],"reason":"Korean dish; added country"}
 {"id":"Q25043157","verdict":"keep","countries":["TZ","KE"],"reason":"Swahili coastal dish; IN was wrong"}
 {"id":"Q25043179","verdict":"keep","countries":["US"],"reason":"American roll; added country"}
@@ -246,9 +246,9 @@
 {"id":"Q25043246","verdict":"keep"}
 {"id":"Q25043326","verdict":"keep","countries":["IR"],"reason":"Iranian dish; added country"}
 {"id":"Q25043652","verdict":"keep"}
-{"id":"Q25044050","verdict":"keep"}
+{"id":"Q25044050","verdict":"keep","countries":["GB","US"],"reason":"Toast points are established British and American canapé accompaniments."}
 {"id":"Q2504513","verdict":"keep"}
-{"id":"Q25045172","verdict":"keep"}
+{"id":"Q25045172","verdict":"keep","countries":["KR","US"],"reason":"Kimchi burger is Korean-American fusion cooking."}
 {"id":"Q25045178","verdict":"keep","countries":["KR"],"reason":"Korean kimchi variant; added country"}
 {"id":"Q25047421","verdict":"keep"}
 {"id":"Q25047514","verdict":"keep"}
@@ -264,7 +264,7 @@
 {"id":"Q25055866","verdict":"keep"}
 {"id":"Q25055867","verdict":"keep"}
 {"id":"Q25056560","verdict":"keep"}
-{"id":"Q25056748","verdict":"keep"}
+{"id":"Q25056748","verdict":"keep","countries":["PE","BO","EC","CL"],"reason":"Andean chupe soups are associated with Peru, Bolivia, Ecuador and Chile."}
 {"id":"Q25056844","verdict":"keep"}
 {"id":"Q25058095","verdict":"keep","countries":["KR"],"reason":"Korean dish; added country"}
 {"id":"Q25058467","verdict":"keep"}
@@ -278,19 +278,19 @@
 {"id":"Q250875","verdict":"keep"}
 {"id":"Q25091738","verdict":"remove","reason":"novelty sex toy made of bread, not a dish"}
 {"id":"Q250966","verdict":"keep"}
-{"id":"Q2509786","verdict":"keep"}
-{"id":"Q25098594","verdict":"keep"}
+{"id":"Q2509786","verdict":"keep","countries":["NL"],"reason":"Krol is the Dutch anise bread roll."}
+{"id":"Q25098594","verdict":"keep","countries":["US"],"reason":"Cookie cake is an established American oversized-cookie dessert."}
 {"id":"Q25098851","verdict":"keep"}
 {"id":"Q25099961","verdict":"keep"}
-{"id":"Q2510412","verdict":"keep"}
+{"id":"Q2510412","verdict":"keep","countries":["FR","DE","GB"],"reason":"Vanilla custard sauce is established French, German and British dessert cooking."}
 {"id":"Q25105527","verdict":"keep","countries":["CN"],"reason":"Chinese soup; added country"}
-{"id":"Q25105721","verdict":"keep"}
+{"id":"Q25105721","verdict":"keep","countries":["HT","CN","TH","PH"],"reason":"Second opinion: generic fried pork is not identified as griot by this entry; Haitian, Chinese, Thai and Filipino fried-pork traditions apply."}
 {"id":"Q25110268","verdict":"keep","countries":["FI","US","CA"],"reason":"Second opinion: mojakka has Finnish and Finnish-American/Canadian traditions (https://siirtolaisuusinstituutti.fi/wp-content/uploads/2019/12/t-03-isbn-978-952-7167-61-8-transnational-finnish-mobilities-proceedings-of-finnforum-xi.pdf)."}
 {"id":"Q25110703","verdict":"keep","countries":["TH"],"reason":"Thai curry; added country"}
 {"id":"Q25111357","verdict":"keep","countries":["TH"],"reason":"Thai noodle dish; added country"}
 {"id":"Q2511137","verdict":"keep"}
-{"id":"Q25111404","verdict":"keep"}
-{"id":"Q25111991","verdict":"keep"}
+{"id":"Q25111404","verdict":"keep","countries":["TW"],"reason":"Boba ice cream bars derive from Taiwanese bubble-tea desserts."}
+{"id":"Q25111991","verdict":"keep","countries":["CN"],"reason":"Suguo is a Chinese prepared dish."}
 {"id":"Q2511331","verdict":"keep"}
 {"id":"Q251162","verdict":"keep"}
 {"id":"Q2511999","verdict":"keep"}

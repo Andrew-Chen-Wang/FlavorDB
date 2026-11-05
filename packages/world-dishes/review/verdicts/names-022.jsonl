@@ -1,7 +1,7 @@
-{"id":"Q135442115","verdict":"keep"}
+{"id":"Q135442115","verdict":"keep","countries":["IN","PK","BD"],"reason":"Potato curry is an established South Asian curry."}
 {"id":"Q135442153","verdict":"keep"}
 {"id":"Q135442387","verdict":"keep","countries":["RU","UA"],"reason":"Eastern Slavic baked dish; country list was empty"}
-{"id":"Q135446912","verdict":"keep"}
+{"id":"Q135446912","verdict":"keep","countries":["US"],"reason":"Banana date breakfast cookies belong to American breakfast baking."}
 {"id":"Q135447217","verdict":"keep","countries":["US"],"reason":"American doughnut type; country list was empty"}
 {"id":"Q135448393","verdict":"keep"}
 {"id":"Q135448408","verdict":"keep"}
@@ -25,7 +25,7 @@
 {"id":"Q13557309","verdict":"keep"}
 {"id":"Q135623631","verdict":"keep"}
 {"id":"Q135629302","verdict":"keep","countries":["IT"],"reason":"Italian pasta dish; country list was empty"}
-{"id":"Q135642191","verdict":"keep"}
+{"id":"Q135642191","verdict":"keep","countries":["DE","GB","US"],"reason":"Coffee-flavored cakes have established German, British and American traditions."}
 {"id":"Q135643358","verdict":"keep"}
 {"id":"Q13564483","verdict":"keep"}
 {"id":"Q135646299","verdict":"keep"}
@@ -35,30 +35,30 @@
 {"id":"Q13566136","verdict":"keep"}
 {"id":"Q135669240","verdict":"keep"}
 {"id":"Q13568060","verdict":"keep"}
-{"id":"Q135683547","verdict":"keep"}
-{"id":"Q135718733","verdict":"keep"}
+{"id":"Q135683547","verdict":"keep","countries":["DE","DK","SE","NO","FI"],"reason":"Milchreis and the stated Nordic milk-rice tradition tie this pudding to Germany and Nordic countries."}
+{"id":"Q135718733","verdict":"keep","reason":"Reverse removal: a bite-sized cake is plausible prepared cake, not evidence of a nonfood category; American cake-bite convention provides placement.","countries":["US"]}
 {"id":"Q135726819","verdict":"keep","countries":["NL","BE"],"reason":"Limburg fruit tart from the Dutch and Belgian Limburg; country list was empty"}
 {"id":"Q135734993","verdict":"keep","countries":["MA","DZ","TN"],"reason":"Maghreb bread; country list was empty"}
 {"id":"Q135739047","verdict":"keep","countries":["ID"],"reason":"Indonesian (Javanese) tofu dish; country list was empty"}
 {"id":"Q135739915","verdict":"keep","countries":["ID"],"reason":"Javanese rice dish; country list was empty"}
 {"id":"Q135740198","verdict":"keep","countries":["SK","UA","PL"],"reason":"Rusyn dish; country list was empty"}
-{"id":"Q135742149","verdict":"keep"}
+{"id":"Q135742149","verdict":"keep","countries":["IN","LK","TH"],"reason":"Pork curry has established Indian, Sri Lankan and Thai traditions."}
 {"id":"Q1358074","verdict":"keep"}
 {"id":"Q13581171","verdict":"keep"}
 {"id":"Q135826435","verdict":"keep","countries":["IT"],"reason":"Italian dish; country list was empty"}
 {"id":"Q135826755","verdict":"keep"}
-{"id":"Q135826759","verdict":"keep"}
-{"id":"Q135827096","verdict":"keep"}
+{"id":"Q135826759","verdict":"remove","reason":"remove: Lamb offal names a raw ingredient, with no recipe."}
+{"id":"Q135827096","verdict":"remove","reason":"remove: Goat offal names a raw ingredient, with no recipe."}
 {"id":"Q135827263","verdict":"keep"}
 {"id":"Q135827542","verdict":"keep"}
 {"id":"Q135827876","verdict":"keep"}
 {"id":"Q13582838","verdict":"keep","countries":["MV"],"reason":"Maldivian fish sauce; country list was empty"}
 {"id":"Q13583872","verdict":"keep","countries":["CZ"],"reason":"Czech dish; country list was empty"}
-{"id":"Q135840981","verdict":"keep"}
-{"id":"Q135841346","verdict":"keep"}
-{"id":"Q13584745","verdict":"keep"}
+{"id":"Q135840981","verdict":"keep","countries":["JP"],"reason":"Vegan sushi is a Japanese sushi adaptation."}
+{"id":"Q135841346","verdict":"keep","countries":["TL"],"reason":"Tukir is a Timorese bamboo-cooked preparation."}
+{"id":"Q13584745","verdict":"keep","countries":["SE"],"reason":"Veal Oscar is the Swedish preparation named for King Oscar."}
 {"id":"Q135870257","verdict":"keep","countries":["US"],"reason":"New Mexican dish; country list was empty"}
-{"id":"Q135908643","verdict":"keep"}
+{"id":"Q135908643","verdict":"keep","countries":["ZA","MZ"],"reason":"Xinghwimbi belongs to Tsonga food traditions across South Africa and Mozambique."}
 {"id":"Q135910841","verdict":"keep","countries":["ES"],"reason":"Basque dessert; country list was empty"}
 {"id":"Q135921153","verdict":"keep"}
 {"id":"Q135921156","verdict":"keep"}
@@ -70,14 +70,14 @@
 {"id":"Q135927668","verdict":"keep","countries":["US"],"reason":"American (Minnesota) bread; country list was empty"}
 {"id":"Q135927675","verdict":"keep"}
 {"id":"Q135934553","verdict":"keep"}
-{"id":"Q135943559","verdict":"keep"}
+{"id":"Q135943559","verdict":"keep","countries":["DE","PL","RU","UA"],"reason":"Stewed white cabbage is shared by German and eastern European cooking."}
 {"id":"Q135972869","verdict":"keep"}
 {"id":"Q135973674","verdict":"keep"}
 {"id":"Q135976952","verdict":"keep"}
 {"id":"Q135978064","verdict":"keep"}
-{"id":"Q135980010","verdict":"keep"}
-{"id":"Q135981036","verdict":"keep"}
-{"id":"Q135989767","verdict":"keep"}
+{"id":"Q135980010","verdict":"keep","countries":["GB","AU","NZ"],"reason":"Minced meat pies have established British, Australian and New Zealand traditions."}
+{"id":"Q135981036","verdict":"keep","countries":["ET"],"reason":"Cumboo is an Oromo Ethiopian food."}
+{"id":"Q135989767","verdict":"keep","countries":["TR","IR","IN","PK"],"reason":"Chicken kebab has Turkish, Iranian and South Asian traditions."}
 {"id":"Q135989793","verdict":"keep"}
 {"id":"Q135991111","verdict":"keep","countries":["ES"],"reason":"Catalan dish; country list was empty"}
 {"id":"Q135991180","verdict":"keep"}
@@ -85,15 +85,15 @@
 {"id":"Q136026276","verdict":"keep"}
 {"id":"Q136035763","verdict":"keep"}
 {"id":"Q136084592","verdict":"keep"}
-{"id":"Q136086697","verdict":"keep","reason":"Second opinion: Notella describes homemade imitation hazelnut chocolate spread, not necessarily a branded product (https://thefromscratchbody.com/home/notella)."}
-{"id":"Q136087023","verdict":"keep"}
+{"id":"Q136086697","verdict":"keep","reason":"Notella is a homemade imitation of Italian chocolate-hazelnut spread.","countries":["IT"]}
+{"id":"Q136087023","verdict":"remove","reason":"remove: Residual legume water is an ingredient entry with no recipe."}
 {"id":"Q136087059","verdict":"keep"}
-{"id":"Q136087103","verdict":"keep"}
-{"id":"Q136087963","verdict":"keep"}
-{"id":"Q136089368","verdict":"keep"}
+{"id":"Q136087103","verdict":"keep","countries":["LB","SY","PS","IL","JO"],"reason":"Mashed chickpea preparation belongs to the shared Levantine chickpea tradition."}
+{"id":"Q136087963","verdict":"keep","countries":["IT"],"reason":"Shtridhelat is an Arbereshe Italian pasta."}
+{"id":"Q136089368","verdict":"keep","countries":["US"],"reason":"Pulled chicken burger belongs to American barbecue and burger cooking."}
 {"id":"Q136093120","verdict":"keep","countries":["IN"],"reason":"Tamil snack; country list was empty"}
 {"id":"Q136101449","verdict":"keep","countries":["IT"],"reason":"Italian dish; country list was empty"}
-{"id":"Q1361086","verdict":"keep"}
+{"id":"Q1361086","verdict":"keep","countries":["GB","CH"],"reason":"Chocolate bars have established British and Swiss confectionery traditions."}
 {"id":"Q136118473","verdict":"keep","countries":["ES"],"reason":"Basque lamb dish; country list was empty"}
 {"id":"Q1361771","verdict":"keep"}
 {"id":"Q1361859","verdict":"keep"}
@@ -128,21 +128,21 @@
 {"id":"Q136288988","verdict":"keep"}
 {"id":"Q1363042","verdict":"keep"}
 {"id":"Q136309140","verdict":"remove","reason":"dietary supplement capsule"}
-{"id":"Q136319879","verdict":"keep"}
+{"id":"Q136319879","verdict":"keep","countries":["CO","VE"],"reason":"Shira kaa ula belongs to Wayuu food traditions across Colombia and Venezuela."}
 {"id":"Q13632478","verdict":"keep"}
 {"id":"Q136327320","verdict":"keep"}
 {"id":"Q136342043","verdict":"remove","reason":"category (generic fast food), not one dish"}
 {"id":"Q136345512","verdict":"remove","reason":"carrot cultivar, not a dish"}
-{"id":"Q136346177","verdict":"keep"}
-{"id":"Q136346682","verdict":"keep"}
+{"id":"Q136346177","verdict":"keep","countries":["CN","GB"],"reason":"Jar jow combines Chinese char siu with British Chinese takeaway cooking."}
+{"id":"Q136346682","verdict":"keep","countries":["IT"],"reason":"Caprese sandwich adapts the Italian tomato-mozzarella preparation."}
 {"id":"Q1363560","verdict":"keep"}
-{"id":"Q136358191","verdict":"keep"}
-{"id":"Q136361024","verdict":"keep"}
+{"id":"Q136358191","verdict":"keep","countries":["DE"],"reason":"Tortenmumie is a German named nut cake."}
+{"id":"Q136361024","verdict":"keep","countries":["BD","IN"],"reason":"Pholar is a Bengali fruit preparation shared by Bangladesh and India."}
 {"id":"Q136361431","verdict":"keep"}
 {"id":"Q136363230","verdict":"keep"}
 {"id":"Q1363716","verdict":"keep","countries":["GB"],"reason":"British relish; country list was empty"}
 {"id":"Q136373880","verdict":"keep"}
-{"id":"Q136387693","verdict":"keep"}
+{"id":"Q136387693","verdict":"keep","countries":["DE","AT"],"reason":"Gingerbread hearts belong to German and Austrian confectionery traditions."}
 {"id":"Q136390939","verdict":"keep"}
 {"id":"Q136391037","verdict":"keep"}
 {"id":"Q136393819","verdict":"keep","countries":["CA"],"reason":"Canadian dessert; country list was empty"}
@@ -151,19 +151,19 @@
 {"id":"Q136393848","verdict":"keep"}
 {"id":"Q136394648","verdict":"keep"}
 {"id":"Q136396484","verdict":"keep","countries":["JP"],"reason":"Japanese local dish from Fukuchiyama; country list was empty"}
-{"id":"Q136416797","verdict":"keep"}
+{"id":"Q136416797","verdict":"keep","countries":["AE"],"reason":"Camel milk chocolate is associated with Emirati confectionery."}
 {"id":"Q136418745","verdict":"keep","countries":["SE"],"reason":"Swedish open sandwich; country list was empty"}
-{"id":"Q136420774","verdict":"keep"}
-{"id":"Q13642570","verdict":"keep","countries":[],"reason":"Second opinion: gistbrood is generic yeast bread; Dutch wording alone does not establish an origin."}
+{"id":"Q136420774","verdict":"keep","countries":["US"],"reason":"Tuna melt is an American sandwich."}
+{"id":"Q13642570","verdict":"keep","countries":["NL","BE"],"reason":"Gistbrood is Dutch-language yeast bread of the Netherlands and Belgium."}
 {"id":"Q136428542","verdict":"keep"}
 {"id":"Q136438204","verdict":"keep","countries":["JP"],"reason":"Japanese kamaboko; country list was empty"}
-{"id":"Q136440414","verdict":"keep"}
+{"id":"Q136440414","verdict":"keep","countries":["PK","IN"],"reason":"The entry specifies Sindhi cuisine shared across Pakistan and India."}
 {"id":"Q13644362","verdict":"keep"}
 {"id":"Q136445830","verdict":"remove","reason":"mineral salt ingredient from a single place, not a dish"}
 {"id":"Q136446240","verdict":"keep","countries":["AR"],"reason":"Argentine dessert; country list was empty"}
-{"id":"Q13644850","verdict":"keep"}
+{"id":"Q13644850","verdict":"keep","countries":["PK","IR","IN","AZ","AM","GE"],"reason":"The description explicitly identifies all six shared murabba traditions."}
 {"id":"Q136459564","verdict":"keep"}
-{"id":"Q136472281","verdict":"keep"}
+{"id":"Q136472281","verdict":"keep","countries":["NL"],"reason":"Cantenaar is a Dutch cheese."}
 {"id":"Q136472283","verdict":"keep"}
 {"id":"Q136475952","verdict":"keep"}
 {"id":"Q136484195","verdict":"keep"}
@@ -183,23 +183,23 @@
 {"id":"Q13649208","verdict":"keep","reason":"Second opinion: Milleens is a named traditional Irish farmhouse cheese and stays under the prepared-food rule (https://www.milleenscheese.com/)."}
 {"id":"Q136500311","verdict":"keep"}
 {"id":"Q136502926","verdict":"keep"}
-{"id":"Q136513295","verdict":"keep"}
+{"id":"Q136513295","verdict":"keep","countries":["ES"],"reason":"The entry identifies these baked zucchini slices as tapas."}
 {"id":"Q136515447","verdict":"keep"}
 {"id":"Q136515562","verdict":"keep"}
 {"id":"Q13651680","verdict":"keep"}
-{"id":"Q136523566","verdict":"keep"}
-{"id":"Q136523624","verdict":"keep"}
+{"id":"Q136523566","verdict":"keep","countries":["UA"],"reason":"Smidyn cabbage is a Ukrainian regional heritage dish."}
+{"id":"Q136523624","verdict":"keep","countries":["ES","FR"],"reason":"Artopil is a Basque maize preparation shared across Spanish and French Basque cooking."}
 {"id":"Q136524084","verdict":"keep","countries":["AR"],"reason":"Argentine dessert; country list was empty"}
 {"id":"Q136526294","verdict":"keep"}
-{"id":"Q136527600","verdict":"keep"}
+{"id":"Q136527600","verdict":"keep","countries":["US","GB"],"reason":"Strawberry salad has established American and British salad traditions."}
 {"id":"Q136537392","verdict":"keep"}
 {"id":"Q136538519","verdict":"keep","countries":["NL"],"reason":"Dutch herring preparation; country list was empty"}
 {"id":"Q136538525","verdict":"keep","countries":["GH"],"reason":"Second opinion: maasa is a Ghanaian fermented millet cake, not Ethiopian (https://ccsenet.org/journal/index.php/jfr/article/view/21586)."}
 {"id":"Q136557181","verdict":"keep","countries":["RO"],"reason":"Romanian baked good; country list was empty"}
 {"id":"Q136563124","verdict":"keep"}
 {"id":"Q136564070","verdict":"keep","countries":["HT"],"reason":"Haitian street food; country list was empty"}
-{"id":"Q136564522","verdict":"keep"}
-{"id":"Q1365868","verdict":"keep"}
+{"id":"Q136564522","verdict":"keep","countries":["CA"],"reason":"Confetti squares are a Canadian dessert bar."}
+{"id":"Q1365868","verdict":"remove","reason":"remove: The description identifies a raw pork belly cut and supplies no recipe."}
 {"id":"Q136621351","verdict":"keep","countries":["ID"],"reason":"Padang dish; country list was empty"}
 {"id":"Q1366456","verdict":"keep"}
 {"id":"Q136647933","verdict":"remove","reason":"liquor"}
@@ -262,7 +262,7 @@
 {"id":"Q137039330","verdict":"keep"}
 {"id":"Q137064171","verdict":"keep"}
 {"id":"Q137161212","verdict":"keep"}
-{"id":"Q137164363","verdict":"keep"}
+{"id":"Q137164363","verdict":"keep","countries":["US","GB"],"reason":"Coconut cookies have established American and British baking traditions."}
 {"id":"Q137168352","verdict":"keep"}
 {"id":"Q137170361","verdict":"remove","reason":"branded bakery product (Godiya bread company)"}
 {"id":"Q137181279","verdict":"keep"}
@@ -271,15 +271,15 @@
 {"id":"Q137217603","verdict":"keep"}
 {"id":"Q1372313","verdict":"keep","countries":["DE"],"reason":"Hessian cabbage dish; country list was empty"}
 {"id":"Q1372354","verdict":"keep"}
-{"id":"Q137251497","verdict":"keep"}
+{"id":"Q137251497","verdict":"remove","reason":"remove: Goat loin is explicitly a raw cut of meat with no recipe."}
 {"id":"Q137267399","verdict":"keep","countries":["GB"],"reason":"British traybake; country list was empty"}
 {"id":"Q137270440","verdict":"keep"}
 {"id":"Q137270645","verdict":"keep"}
 {"id":"Q13729160","verdict":"keep","countries":["NL"],"reason":"Dutch soup; country list was empty"}
 {"id":"Q137302987","verdict":"keep","countries":["TW"],"reason":"Taiwanese Aboriginal dish; country list was empty"}
-{"id":"Q137303325","verdict":"keep"}
+{"id":"Q137303325","verdict":"keep","countries":["TW"],"reason":"Stone slab barbecue is associated with Taiwanese Indigenous cooking."}
 {"id":"Q1373466","verdict":"keep"}
-{"id":"Q137361963","verdict":"keep"}
+{"id":"Q137361963","verdict":"keep","countries":["FM"],"reason":"Pihlohlo mwehng is a Pohnpeian Micronesian preparation."}
 {"id":"Q1373750","verdict":"keep"}
 {"id":"Q137375176","verdict":"keep"}
 {"id":"Q137376040","verdict":"keep","countries":["KH"],"reason":"Cambodian rice cake; country list was empty"}
@@ -293,7 +293,7 @@
 {"id":"Q13744399","verdict":"keep","countries":["NL"],"reason":"Dutch bread; country list was empty"}
 {"id":"Q13745976","verdict":"keep","countries":["NL"],"reason":"Dutch bread; country list was empty"}
 {"id":"Q13746442","verdict":"keep","countries":["NL"],"reason":"Dutch cheesecake; country list was empty"}
-{"id":"Q137476970","verdict":"keep"}
+{"id":"Q137476970","verdict":"keep","countries":["CZ"],"reason":"Ancka is a Czech named soup."}
 {"id":"Q137565708","verdict":"keep"}
 {"id":"Q137565820","verdict":"keep"}
 {"id":"Q137565863","verdict":"keep"}

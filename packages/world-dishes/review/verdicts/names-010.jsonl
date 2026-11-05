@@ -5,17 +5,17 @@
 {"id":"Q11274940","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese rice cracker"}
 {"id":"Q11274985","verdict":"keep"}
 {"id":"Q11275028","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese soup rice"}
-{"id":"Q11275121","verdict":"keep"}
+{"id":"Q11275121","verdict":"keep","countries":["JP"],"reason":"Entry explicitly locates nerikuri in Kagoshima and Miyazaki."}
 {"id":"Q11275124","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese candy"}
 {"id":"Q11275153","verdict":"keep"}
 {"id":"Q11275191","verdict":"keep"}
-{"id":"Q11275307","verdict":"keep"}
+{"id":"Q11275307","verdict":"keep","countries":["JP"],"reason":"Entry explicitly locates steamed manju in Okinawa."}
 {"id":"Q11275349","verdict":"keep"}
 {"id":"Q11275521","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese manju"}
 {"id":"Q11275595","verdict":"keep"}
 {"id":"Q11275835","verdict":"keep"}
 {"id":"Q11275959","verdict":"keep"}
-{"id":"Q11276058","verdict":"keep"}
+{"id":"Q11276058","verdict":"keep","countries":["JP"],"reason":"Okinawan fried confection."}
 {"id":"Q112760594","verdict":"keep"}
 {"id":"Q112760696","verdict":"keep","countries":["IN"],"reason":"no country listed; Kerala sweet"}
 {"id":"Q11276076","verdict":"keep"}
@@ -47,7 +47,7 @@
 {"id":"Q11278088","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese confection"}
 {"id":"Q11278109","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese confection"}
 {"id":"Q11278209","verdict":"keep"}
-{"id":"Q11278216","verdict":"keep"}
+{"id":"Q11278216","verdict":"keep","countries":["JP"],"reason":"Japanese preparation name supplies last resort country."}
 {"id":"Q11278496","verdict":"remove","reason":"Mamador is Sanmangoku's branded packaged confection"}
 {"id":"Q11278514","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese soup"}
 {"id":"Q11278555","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese yokan"}
@@ -58,23 +58,23 @@
 {"id":"Q11278864","verdict":"keep"}
 {"id":"Q11278936","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese donburi"}
 {"id":"Q11278944","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese nabemono"}
-{"id":"Q11278951","verdict":"keep"}
+{"id":"Q11278951","verdict":"keep","countries":["JP"],"reason":"Hida Gifu regional dumplings."}
 {"id":"Q11279243","verdict":"keep"}
 {"id":"Q11279318","verdict":"keep"}
 {"id":"Q11279319","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese manju"}
 {"id":"Q112797036","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese shumai"}
 {"id":"Q11280033","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese soba"}
-{"id":"Q11280034","verdict":"keep"}
+{"id":"Q11280034","verdict":"keep","countries":["JP"],"reason":"Shizuoka Japanese curry."}
 {"id":"Q11280038","verdict":"keep"}
 {"id":"Q11280099","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese nimono"}
 {"id":"Q11280104","verdict":"keep"}
 {"id":"Q11280200","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese rakugan"}
-{"id":"Q11280203","verdict":"keep"}
+{"id":"Q11280203","verdict":"keep","countries":["JP"],"reason":"Moromi fermented bean paste is a Japanese prepared food."}
 {"id":"Q11280254","verdict":"keep"}
 {"id":"Q11280354","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese dango"}
 {"id":"Q11281047","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese pastry"}
 {"id":"Q11281050","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese pastry"}
-{"id":"Q112812573","verdict":"keep"}
+{"id":"Q112812573","verdict":"keep","countries":["RU","GE"],"reason":"Ossetian soup associated with Russia and Georgia."}
 {"id":"Q11281424","verdict":"remove","reason":"packaged canned ramen product"}
 {"id":"Q112818476","verdict":"keep"}
 {"id":"Q11281911","verdict":"keep"}
@@ -82,31 +82,31 @@
 {"id":"Q11282175","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese ice dessert"}
 {"id":"Q11284032","verdict":"keep"}
 {"id":"Q112845073","verdict":"keep"}
-{"id":"Q112846722","verdict":"keep"}
+{"id":"Q112846722","verdict":"keep","countries":["GN"],"reason":"Guinean fried preparation."}
 {"id":"Q112847602","verdict":"keep"}
 {"id":"Q11284874","verdict":"keep"}
 {"id":"Q112850312","verdict":"keep"}
 {"id":"Q112851922","verdict":"keep"}
-{"id":"Q11285229","verdict":"keep"}
+{"id":"Q11285229","verdict":"keep","countries":["FR","GB","IN"],"reason":"Silver dragees have established confectionery uses in these countries."}
 {"id":"Q112860544","verdict":"keep"}
 {"id":"Q112860630","verdict":"keep"}
 {"id":"Q112860677","verdict":"keep"}
-{"id":"Q112862537","verdict":"keep"}
+{"id":"Q112862537","verdict":"keep","countries":["JP"],"reason":"Japanese tamagoyaki fried egg preparation."}
 {"id":"Q11286341","verdict":"keep"}
 {"id":"Q11286348","verdict":"keep"}
 {"id":"Q11286367","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese dried squid snack"}
 {"id":"Q11286685","verdict":"keep"}
 {"id":"Q11286686","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese yoshoku pasta"}
-{"id":"Q11286892","verdict":"keep"}
+{"id":"Q11286892","verdict":"keep","countries":["JP"],"reason":"Okinawan pork miso soup."}
 {"id":"Q11287147","verdict":"keep","countries":["JP"],"reason":"no country listed; Okinawan soup"}
 {"id":"Q11288287","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese rice dish"}
-{"id":"Q11288323","verdict":"keep"}
+{"id":"Q11288323","verdict":"keep","countries":["JP","DE","FR","GB"],"reason":"Whisky bonbons are shared confectionery traditions."}
 {"id":"Q11288609","verdict":"keep"}
-{"id":"Q11288757","verdict":"keep"}
+{"id":"Q11288757","verdict":"keep","countries":["JP"],"reason":"Japanese hina festival rice confectionery."}
 {"id":"Q11289041","verdict":"keep"}
 {"id":"Q11289046","verdict":"keep"}
 {"id":"Q11289355","verdict":"keep"}
-{"id":"Q11289615","verdict":"keep"}
+{"id":"Q11289615","verdict":"keep","countries":["JP"],"reason":"Stingray fin is a Japanese prepared snack food."}
 {"id":"Q11290005","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese yoshoku escalope rice"}
 {"id":"Q11290194","verdict":"keep"}
 {"id":"Q112911886","verdict":"keep"}
@@ -126,17 +126,17 @@
 {"id":"Q11294485","verdict":"keep"}
 {"id":"Q112945424","verdict":"keep"}
 {"id":"Q11295283","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese ramen"}
-{"id":"Q11295284","verdict":"keep"}
-{"id":"Q11295288","verdict":"keep"}
+{"id":"Q11295284","verdict":"keep","countries":["JP"],"reason":"Entry explicitly identifies Japanese curry donburi."}
+{"id":"Q11295288","verdict":"keep","countries":["JP"],"reason":"Entry explicitly identifies Japanese curry hot pot."}
 {"id":"Q11295436","verdict":"keep","countries":["KR"],"reason":"no country listed; Korean gejang dish"}
 {"id":"Q11295711","verdict":"remove","reason":"branded sauce product (Carp sauce)"}
-{"id":"Q11295996","verdict":"keep"}
+{"id":"Q11295996","verdict":"keep","countries":["JP"],"reason":"Japanese regional gatatan soup."}
 {"id":"Q11296678","verdict":"remove","reason":"branded chewing gum product"}
 {"id":"Q112967822","verdict":"keep"}
 {"id":"Q11297228","verdict":"keep"}
 {"id":"Q112977273","verdict":"keep"}
 {"id":"Q112977543","verdict":"keep"}
-{"id":"Q112977605","verdict":"keep"}
+{"id":"Q112977605","verdict":"keep","countries":["US","IT"],"reason":"Spaghetti with chicken has American and Italian pasta associations."}
 {"id":"Q11298649","verdict":"keep"}
 {"id":"Q112992946","verdict":"keep"}
 {"id":"Q11299457","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese cream pan bread"}
@@ -144,42 +144,42 @@
 {"id":"Q11300179","verdict":"keep"}
 {"id":"Q113002820","verdict":"keep"}
 {"id":"Q113002838","verdict":"keep"}
-{"id":"Q113003157","verdict":"keep"}
-{"id":"Q11300957","verdict":"keep"}
+{"id":"Q113003157","verdict":"keep","countries":["TH","CN"],"reason":"Deep fried eggs have established Thai and Chinese forms."}
+{"id":"Q11300957","verdict":"remove","reason":"Guten Burger is a commercial vending machine burger product.","countries":[]}
 {"id":"Q11301550","verdict":"keep"}
 {"id":"Q113016118","verdict":"keep"}
-{"id":"Q11302150","verdict":"keep"}
+{"id":"Q11302150","verdict":"remove","reason":"Cosmopolitan Confectionery names a confectionery business.","countries":[]}
 {"id":"Q11302268","verdict":"keep","countries":["RU","UA"],"reason":"second opinion: コトレータ denotes Russian/Ukrainian kotleta; Japanese spelling does not make the dish Japanese"}
 {"id":"Q113022782","verdict":"keep"}
 {"id":"Q113023113","verdict":"keep"}
-{"id":"Q113028406","verdict":"keep"}
+{"id":"Q113028406","verdict":"keep","countries":["CN","NG","US"],"reason":"Fried meat preparations are established across these cuisines."}
 {"id":"Q11303596","verdict":"keep"}
 {"id":"Q11303652","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese ice cream"}
 {"id":"Q11303852","verdict":"keep"}
-{"id":"Q113038927","verdict":"keep"}
+{"id":"Q113038927","verdict":"keep","countries":["NG"],"reason":"Entry explicitly identifies Enugu Nigerian pigeon pea porridge."}
 {"id":"Q113038928","verdict":"keep"}
 {"id":"Q113039011","verdict":"keep"}
 {"id":"Q113039087","verdict":"keep"}
-{"id":"Q11304972","verdict":"keep"}
-{"id":"Q11305289","verdict":"keep"}
+{"id":"Q11304972","verdict":"remove","reason":"Sabapple is a commercial mackerel and apple pie product.","countries":[]}
+{"id":"Q11305289","verdict":"remove","reason":"Salad Pan names the packaged Tsuruya bakery product.","countries":[]}
 {"id":"Q11305999","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese ramen"}
-{"id":"Q11306381","verdict":"keep"}
+{"id":"Q11306381","verdict":"keep","countries":["JP"],"reason":"Japanese zappa fish hot pot soup."}
 {"id":"Q113070410","verdict":"keep","countries":["NG"],"reason":"no country listed; Igbo soup"}
 {"id":"Q113070433","verdict":"keep"}
 {"id":"Q113070599","verdict":"keep","countries":["NG"],"reason":"no country listed; Nigerian soup"}
 {"id":"Q11307140","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese yoshoku rice"}
-{"id":"Q11307369","verdict":"keep"}
+{"id":"Q11307369","verdict":"keep","countries":["US","GB"],"reason":"Cinnamon toast has American and British associations."}
 {"id":"Q11307512","verdict":"keep"}
 {"id":"Q11307780","verdict":"keep"}
 {"id":"Q11310088","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese pastry"}
-{"id":"Q11310465","verdict":"keep"}
-{"id":"Q11310970","verdict":"keep"}
+{"id":"Q11310465","verdict":"remove","reason":"Jun Dog is a named commercial rice wrapped snack product.","countries":[]}
+{"id":"Q11310970","verdict":"remove","reason":"Jingisukan Caramel is a branded packaged confection.","countries":[]}
 {"id":"Q11311060","verdict":"keep"}
-{"id":"Q113114616","verdict":"keep"}
+{"id":"Q113114616","verdict":"keep","countries":["NG"],"reason":"Entry explicitly identifies Nigerian snail pepper soup."}
 {"id":"Q113114745","verdict":"keep"}
 {"id":"Q11311915","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese rice dish"}
 {"id":"Q11311917","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese ramen"}
-{"id":"Q113119515","verdict":"keep"}
+{"id":"Q113119515","verdict":"keep","countries":["JP"],"reason":"Japanese chikuwa stuffed with potato salad."}
 {"id":"Q11312555","verdict":"remove","reason":"generic category (candy bar shape), not one dish"}
 {"id":"Q113128973","verdict":"keep"}
 {"id":"Q113131032","verdict":"keep"}
@@ -189,47 +189,47 @@
 {"id":"Q11314983","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese korokke"}
 {"id":"Q11315275","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese noodles"}
 {"id":"Q113159014","verdict":"keep"}
-{"id":"Q11316417","verdict":"keep"}
+{"id":"Q11316417","verdict":"keep","countries":["JP"],"reason":"Swiss roll classification identifies Japanese taruto confection."}
 {"id":"Q11316510","verdict":"keep"}
 {"id":"Q11316528","verdict":"keep"}
 {"id":"Q11317904","verdict":"keep"}
 {"id":"Q11318281","verdict":"keep"}
 {"id":"Q1131837","verdict":"keep"}
-{"id":"Q11318420","verdict":"keep"}
+{"id":"Q11318420","verdict":"keep","countries":["CO","MX","US"],"reason":"Chocolate covered ants have established confectionery associations in these countries."}
 {"id":"Q11318559","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese confection"}
 {"id":"Q11318588","verdict":"keep"}
 {"id":"Q11318769","verdict":"keep"}
-{"id":"Q11318890","verdict":"keep","reason":"second opinion: zuke also names the prepared soy-marinated fish, so keep as a fish dish"}
+{"id":"Q11318890","verdict":"keep","reason":"Zuke names prepared marinated fish as well as the technique.","countries":["JP"]}
 {"id":"Q113203875","verdict":"keep"}
 {"id":"Q11321401","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese nabemono"}
 {"id":"Q11322056","verdict":"keep"}
 {"id":"Q11322243","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese ramen"}
-{"id":"Q113227405","verdict":"keep"}
+{"id":"Q113227405","verdict":"keep","countries":["IT"],"reason":"Luadel is an Italian regional baked specialty."}
 {"id":"Q11322794","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese katsudon"}
 {"id":"Q11323173","verdict":"keep"}
-{"id":"Q11324298","verdict":"keep"}
+{"id":"Q11324298","verdict":"remove","reason":"Nikon yokan is branded commercial confectionery.","countries":[]}
 {"id":"Q11324336","verdict":"keep"}
 {"id":"Q113249231","verdict":"keep","countries":["FR"],"reason":"no country listed; French sauce"}
 {"id":"Q11326372","verdict":"keep","countries":["JP"],"reason":"no country listed; Hokkaido sushi"}
 {"id":"Q11326596","verdict":"keep"}
 {"id":"Q1132679","verdict":"keep"}
 {"id":"Q11327115","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese yoshoku rice"}
-{"id":"Q11327141","verdict":"keep"}
+{"id":"Q11327141","verdict":"keep","countries":["JP"],"reason":"Japanese hamburg steak curry rice."}
 {"id":"Q11327589","verdict":"keep"}
 {"id":"Q113276855","verdict":"keep"}
 {"id":"Q11327742","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese gohan"}
-{"id":"Q11327743","verdict":"keep","reason":"Generic butter rice has only rice and butter listed; no Japanese-specific identity supports a country override."}
+{"id":"Q11327743","verdict":"keep","reason":"Butter rice has established Japanese and Indian forms.","countries":["JP","IN"]}
 {"id":"Q11327745","verdict":"keep"}
 {"id":"Q113279398","verdict":"keep"}
 {"id":"Q11327942","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese castella"}
 {"id":"Q11327953","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese monaka"}
-{"id":"Q11327988","verdict":"keep"}
+{"id":"Q11327988","verdict":"keep","countries":["JP"],"reason":"Akita regional frozen dessert."}
 {"id":"Q11328092","verdict":"keep","countries":["JP"],"reason":"no country listed; Towada beef dish"}
 {"id":"Q113291374","verdict":"keep"}
 {"id":"Q113292533","verdict":"keep","countries":["PL"],"reason":"no country listed; Polish pastry"}
 {"id":"Q113292966","verdict":"keep","countries":["NO"],"reason":"no country listed; Norwegian cake"}
 {"id":"Q113298162","verdict":"keep"}
-{"id":"Q113302651","verdict":"keep"}
+{"id":"Q113302651","verdict":"keep","countries":["FR","US","GB"],"reason":"Cheese omelettes have French, American and British culinary associations."}
 {"id":"Q113303417","verdict":"keep"}
 {"id":"Q1133123","verdict":"keep","countries":["CN","TW"],"reason":"Buddha Jumps Over the Wall is Fujian soup with a well-established Taiwanese culinary tradition as well."}
 {"id":"Q1133127","verdict":"keep"}
@@ -240,33 +240,33 @@
 {"id":"Q11332417","verdict":"keep"}
 {"id":"Q11333432","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese teppanyaki"}
 {"id":"Q113334375","verdict":"keep","countries":["ES"],"reason":"no country listed; Spanish rosquilla"}
-{"id":"Q11333438","verdict":"keep"}
+{"id":"Q11333438","verdict":"keep","countries":["JP"],"reason":"Manju and an doughnut classifications identify a Japanese fried cake."}
 {"id":"Q113336629","verdict":"keep"}
 {"id":"Q113348972","verdict":"keep","countries":["NL","BE"],"reason":"Pear fruit syrup is shared by Dutch and Belgian regional cuisines."}
-{"id":"Q11335663","verdict":"keep"}
+{"id":"Q11335663","verdict":"keep","countries":["JP"],"reason":"Japanese pudding a la mode plated dessert."}
 {"id":"Q11335862","verdict":"keep","countries":["JP"],"reason":"second opinion: this item is Japanese pressed ham (プレスハム), not a Chinese dish; Japanese meat industry glossary identifies it as developed in Japan"}
 {"id":"Q113360141","verdict":"keep"}
 {"id":"Q113360483","verdict":"keep"}
 {"id":"Q113360494","verdict":"keep"}
 {"id":"Q113365858","verdict":"keep"}
 {"id":"Q113365898","verdict":"keep"}
-{"id":"Q113368015","verdict":"keep"}
+{"id":"Q113368015","verdict":"keep","countries":["FR"],"reason":"Provencal vegetable tian."}
 {"id":"Q113369626","verdict":"keep"}
-{"id":"Q11336977","verdict":"keep"}
+{"id":"Q11336977","verdict":"keep","countries":["JP"],"reason":"Japanese regional Viet Cong ramen."}
 {"id":"Q11337025","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese castella"}
 {"id":"Q11337373","verdict":"keep","countries":["IT"],"reason":"no country listed; Italian pescatora sauce"}
 {"id":"Q1133745","verdict":"keep"}
-{"id":"Q11337766","verdict":"keep"}
+{"id":"Q11337766","verdict":"keep","countries":["GB","US","AU","FR"],"reason":"Toasted sandwiches have established traditions in these countries."}
 {"id":"Q113379133","verdict":"keep"}
 {"id":"Q11338074","verdict":"keep"}
 {"id":"Q11338075","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese yakisoba"}
 {"id":"Q11338102","verdict":"keep","countries":["JP"],"reason":"no country listed; Hokkaido curry"}
 {"id":"Q11338139","verdict":"keep"}
-{"id":"Q113381739","verdict":"keep"}
+{"id":"Q113381739","verdict":"keep","countries":["TN"],"reason":"Entry explicitly names Tunisian spaghetti."}
 {"id":"Q11338428","verdict":"remove","reason":"branded ice cream product (Home Run bar)"}
 {"id":"Q11338601","verdict":"keep"}
 {"id":"Q11338778","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese yoshoku rice"}
-{"id":"Q11338875","verdict":"keep"}
+{"id":"Q11338875","verdict":"keep","countries":["FR","BE","JP"],"reason":"Chocolate bonbons have French, Belgian and Japanese associations."}
 {"id":"Q113389032","verdict":"keep"}
 {"id":"Q113389041","verdict":"remove","reason":"generic category (food made by bakers), not one dish"}
 {"id":"Q113389225","verdict":"remove","reason":"generic category (sweet pastry), not one dish"}
@@ -278,7 +278,7 @@
 {"id":"Q11339222","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese yakisoba"}
 {"id":"Q113393434","verdict":"keep","countries":["IN"],"reason":"no country listed; Kerala rice dish"}
 {"id":"Q11339419","verdict":"keep","countries":["JP"],"reason":"no country listed; Hachinohe squid dish"}
-{"id":"Q11339427","verdict":"keep"}
+{"id":"Q11339427","verdict":"keep","countries":["JP","FR","US"],"reason":"Generic sauteed pork has Japanese, French and American forms; neighbouring entries do not determine its country."}
 {"id":"Q1133945","verdict":"keep"}
 {"id":"Q113403844","verdict":"keep"}
 {"id":"Q11340898","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese suiton"}
@@ -287,8 +287,8 @@
 {"id":"Q113410072","verdict":"keep"}
 {"id":"Q113410153","verdict":"keep"}
 {"id":"Q113411438","verdict":"keep","countries":["RU"],"reason":"no country listed; Kaluga confection"}
-{"id":"Q113411676","verdict":"keep"}
-{"id":"Q113412039","verdict":"keep"}
+{"id":"Q113411676","verdict":"keep","countries":["RU"],"reason":"Karachay Balkar North Caucasian liver preparation."}
+{"id":"Q113412039","verdict":"keep","countries":["FR"],"reason":"Snail liver dish has French escargot cooking associations."}
 {"id":"Q11341815","verdict":"keep"}
 {"id":"Q11342511","verdict":"keep","countries":["JP"],"reason":"no country listed; Okinawan pig ear dish"}
 {"id":"Q11342916","verdict":"keep"}

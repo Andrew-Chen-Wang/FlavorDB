@@ -1,16 +1,16 @@
 {"id":"Q21428030","verdict":"keep"}
-{"id":"Q2142880","verdict":"keep"}
+{"id":"Q2142880","verdict":"keep","countries":["GB","AU","ZA"],"reason":"Second opinion: rump steak is established British, Australian and South African steak cooking."}
 {"id":"Q2143166","verdict":"keep"}
 {"id":"Q2144948","verdict":"keep"}
 {"id":"Q21479763","verdict":"keep"}
 {"id":"Q21480617","verdict":"keep"}
-{"id":"Q21481853","verdict":"keep"}
+{"id":"Q21481853","verdict":"keep","countries":["FR","DE","US"],"reason":"Coconut macaroons are established French, German and American coconut cookies."}
 {"id":"Q2148550","verdict":"keep"}
 {"id":"Q21492280","verdict":"keep"}
 {"id":"Q21493763","verdict":"keep"}
 {"id":"Q21503602","verdict":"keep"}
 {"id":"Q21503631","verdict":"keep"}
-{"id":"Q21503641","verdict":"keep"}
+{"id":"Q21503641","verdict":"keep","countries":["GB"],"reason":"Fig pie is a British fruit-pie preparation; the supplied anise, almond and rosewater ingredients describe a spiced version."}
 {"id":"Q21503823","verdict":"keep"}
 {"id":"Q21503862","verdict":"keep"}
 {"id":"Q21513463","verdict":"keep","countries":["CY"],"reason":"traditional Cypriot dish; countries were empty"}
@@ -22,15 +22,15 @@
 {"id":"Q2153114","verdict":"keep","countries":["NL"],"reason":"Dutch bread roll; countries were empty"}
 {"id":"Q21532114","verdict":"keep"}
 {"id":"Q21533302","verdict":"keep"}
-{"id":"Q21534410","verdict":"keep"}
+{"id":"Q21534410","verdict":"keep","countries":["CZ"],"reason":"Žahour is the Czech sweet blueberry sauce."}
 {"id":"Q21575383","verdict":"keep"}
 {"id":"Q2157889","verdict":"keep"}
-{"id":"Q21588272","verdict":"keep"}
-{"id":"Q21595102","verdict":"keep"}
-{"id":"Q21596812","verdict":"keep"}
-{"id":"Q21597557","verdict":"keep"}
+{"id":"Q21588272","verdict":"keep","countries":["IL","PL","US"],"reason":"Second opinion: krantz cake belongs to Israeli and Ashkenazi Polish and American yeast-cake traditions."}
+{"id":"Q21595102","verdict":"keep","countries":["DE","FR","GB"],"reason":"Second opinion: generic yeast bread has established German, French and British traditions, without evidence limiting it to Germany."}
+{"id":"Q21596812","verdict":"keep","countries":["PT","FR","MX","BR"],"reason":"Second opinion: sweet breads have Portuguese, French, Mexican and Brazilian traditions."}
+{"id":"Q21597557","verdict":"keep","countries":["GB","DE"],"reason":"Fruit bread is an established British and German enriched bread tradition."}
 {"id":"Q21605556","verdict":"keep"}
-{"id":"Q2164820","verdict":"keep"}
+{"id":"Q2164820","verdict":"keep","countries":["CH","BE"],"reason":"Milk chocolate is a manufactured confection associated especially with Swiss and Belgian chocolate making."}
 {"id":"Q2165047","verdict":"keep"}
 {"id":"Q21651195","verdict":"keep","countries":["FR"],"reason":"French chicken dish; countries were empty"}
 {"id":"Q21652972","verdict":"keep"}
@@ -40,30 +40,30 @@
 {"id":"Q21654139","verdict":"keep"}
 {"id":"Q21654952","verdict":"keep","countries":["JP"],"reason":"Okinawan tempura; countries were empty"}
 {"id":"Q21658410","verdict":"keep"}
-{"id":"Q21662263","verdict":"keep"}
+{"id":"Q21662263","verdict":"keep","countries":["KZ"],"reason":"Koktal is the Kazakh smoked or baked fish dish."}
 {"id":"Q2167413","verdict":"keep"}
 {"id":"Q21707374","verdict":"keep","countries":["ES"],"reason":"Catalan dish; countries were empty"}
 {"id":"Q2170924","verdict":"keep","countries":["NL"],"reason":"Dutch porridge; countries were empty"}
 {"id":"Q21709993","verdict":"keep","countries":["TH"],"reason":"Thai yam salad; countries were empty"}
-{"id":"Q217446","verdict":"keep"}
+{"id":"Q217446","verdict":"keep","countries":["US"],"reason":"Generic lollipop is a real confection; the modern stick candy has an established American association."}
 {"id":"Q21781581","verdict":"keep"}
-{"id":"Q2178599","verdict":"keep","countries":[],"reason":"Second opinion: generic smoked eel, not a specifically German preparation."}
+{"id":"Q2178599","verdict":"keep","countries":["DE"],"reason":"Räucheraal is German smoked eel."}
 {"id":"Q21809695","verdict":"keep"}
 {"id":"Q21810151","verdict":"keep","countries":["AT"],"reason":"Austrian soup; countries were empty"}
-{"id":"Q21816983","verdict":"keep","countries":[],"reason":"Second opinion: generic cream cake; Danish label alone does not establish a country."}
+{"id":"Q21816983","verdict":"keep","countries":["DK"],"reason":"Flødekage is a Danish cream cake."}
 {"id":"Q21831213","verdict":"keep"}
 {"id":"Q2184029","verdict":"keep","countries":["NL"],"reason":"Dutch egg cake; countries were empty"}
-{"id":"Q21862877","verdict":"keep"}
-{"id":"Q21888014","verdict":"keep"}
-{"id":"Q2189995","verdict":"keep"}
+{"id":"Q21862877","verdict":"keep","countries":["DK"],"reason":"Vaniljekranse are Danish vanilla ring cookies."}
+{"id":"Q21888014","verdict":"keep","countries":["FR","GB"],"reason":"Carrot soup belongs to established French and British vegetable-soup cooking."}
+{"id":"Q2189995","verdict":"remove","countries":[],"reason":"The entry defines an entremet as a small dish served between courses, rather than identifying a particular prepared dish."}
 {"id":"Q219123","verdict":"keep","countries":["PS","LB","JO","SY","TR","EG"],"reason":"Second opinion: knafeh/kunafa has shared Levantine, Turkish and Egyptian traditions."}
 {"id":"Q2191247","verdict":"keep","countries":["BE"],"reason":"Kortrijk cookie; countries were empty"}
 {"id":"Q2196880","verdict":"keep"}
 {"id":"Q21976352","verdict":"keep"}
 {"id":"Q2198556","verdict":"keep","countries":["NL"],"reason":"Dutch cake; countries were empty"}
 {"id":"Q21994744","verdict":"keep"}
-{"id":"Q2201017","verdict":"keep"}
-{"id":"Q2202018","verdict":"keep"}
+{"id":"Q2201017","verdict":"keep","countries":["NL"],"reason":"Meal soup corresponds to Dutch maaltijdsoep, a substantial soup served as a meal."}
+{"id":"Q2202018","verdict":"keep","countries":["AM","AZ"],"reason":"Jengyal bread is the herb-filled flatbread of Karabakh, shared Armenian and Azerbaijani regional associations."}
 {"id":"Q220406","verdict":"keep"}
 {"id":"Q2204257","verdict":"keep"}
 {"id":"Q2204450","verdict":"keep"}
@@ -112,16 +112,16 @@
 {"id":"Q2216156","verdict":"keep","countries":["US"],"reason":"Salt potatoes are a Syracuse, New York dish; removed DE"}
 {"id":"Q2216200","verdict":"keep"}
 {"id":"Q2216731","verdict":"keep"}
-{"id":"Q2217953","verdict":"keep"}
-{"id":"Q2220865","verdict":"keep"}
+{"id":"Q2217953","verdict":"keep","countries":["NL"],"reason":"Oranĝa vlao denotes orange vla, a flavored version of Dutch custard."}
+{"id":"Q2220865","verdict":"keep","countries":["DE","DK"],"reason":"Sand cake is the northern European Sandkuchen/sandkage butter-cake tradition."}
 {"id":"Q2220900","verdict":"keep"}
-{"id":"Q2221627","verdict":"keep"}
-{"id":"Q22230854","verdict":"keep"}
+{"id":"Q2221627","verdict":"keep","countries":["CN","HK","TW","MY","SG"],"reason":"Second opinion: chow mein is shared Chinese, Hong Kong, Taiwanese, Malaysian and Singaporean cooking."}
+{"id":"Q22230854","verdict":"keep","countries":["SN"],"reason":"Lakh is Senegalese millet porridge."}
 {"id":"Q22230906","verdict":"keep"}
 {"id":"Q2223254","verdict":"keep"}
 {"id":"Q222463","verdict":"keep"}
 {"id":"Q2224749","verdict":"keep"}
-{"id":"Q22249532","verdict":"keep"}
+{"id":"Q22249532","verdict":"keep","countries":["BE"],"reason":"Vôte is the Walloon egg pancake preparation."}
 {"id":"Q2227032","verdict":"keep"}
 {"id":"Q2227296","verdict":"keep"}
 {"id":"Q2227693","verdict":"keep"}
@@ -130,10 +130,10 @@
 {"id":"Q2234053","verdict":"keep","countries":["NL"],"reason":"Dutch pastry; countries were empty"}
 {"id":"Q2234318","verdict":"keep","countries":["DE"],"reason":"German sausage sandwich; countries were empty"}
 {"id":"Q22348764","verdict":"keep"}
-{"id":"Q2236189","verdict":"keep"}
-{"id":"Q2236199","verdict":"keep"}
-{"id":"Q2236643","verdict":"keep"}
-{"id":"Q2236849","verdict":"keep"}
+{"id":"Q2236189","verdict":"keep","countries":["DE","AT","CH"],"reason":"Second opinion: Schinkenbrot is shared German, Austrian and Swiss ham bread."}
+{"id":"Q2236199","verdict":"keep","countries":["AT"],"reason":"Schinkenfleckerl is an Austrian ham-and-pasta dish."}
+{"id":"Q2236643","verdict":"keep","countries":["DE"],"reason":"Schlabberkappes is a German cabbage preparation."}
+{"id":"Q2236849","verdict":"keep","countries":["NL"],"reason":"Puntbrood is the Dutch pointed bread roll."}
 {"id":"Q2239048","verdict":"keep","countries":["DE"],"reason":"German fish dish; countries were empty"}
 {"id":"Q22404","verdict":"keep"}
 {"id":"Q22442810","verdict":"keep"}
@@ -147,21 +147,21 @@
 {"id":"Q2251212","verdict":"keep","countries":["HR","IT","ME"],"reason":"Second opinion: brudet/brodetto is shared Adriatic fish stew; retain the Italian tie alongside Croatia and Montenegro."}
 {"id":"Q2251745","verdict":"remove","reason":"category (baked goods in general), not one dish"}
 {"id":"Q2252452","verdict":"keep"}
-{"id":"Q2253377","verdict":"keep","countries":[],"reason":"Second opinion: this entry describes two-tone dough cookies, not the American iced black-and-white cookie; no country established."}
+{"id":"Q2253377","verdict":"keep","countries":["DE"],"reason":"The two cocoa/plain doughs identify German Schwarzweißgebäck, rather than American iced black-and-white cookies."}
 {"id":"Q2253902","verdict":"keep"}
 {"id":"Q2254128","verdict":"keep","countries":["NL"],"reason":"Dutch pastry; countries were empty"}
 {"id":"Q2255016","verdict":"keep"}
 {"id":"Q2255682","verdict":"keep","countries":["DE"],"reason":"German stew; countries were empty"}
-{"id":"Q2255703","verdict":"keep"}
-{"id":"Q2255787","verdict":"keep"}
-{"id":"Q2255814","verdict":"keep"}
+{"id":"Q2255703","verdict":"keep","countries":["JM","CN"],"reason":"Prepared pork tail is established in Jamaican and Chinese cooking; this is explicitly described as a dish made from pig tails."}
+{"id":"Q2255787","verdict":"remove","countries":[],"reason":"Pig head is presented as an offal cut and food ingredient with no recipe or specified preparation; apply the raw-ingredient rule."}
+{"id":"Q2255814","verdict":"keep","countries":["CN","ES","PT"],"reason":"Cooked pig ear is a recognized Chinese, Spanish and Portuguese pork preparation."}
 {"id":"Q2256739","verdict":"keep","countries":["NL"],"reason":"Dutch candy; countries were empty"}
 {"id":"Q22570090","verdict":"keep"}
 {"id":"Q2258011","verdict":"keep","countries":["DE"],"reason":"German pastry; countries were empty"}
 {"id":"Q2258053","verdict":"keep"}
 {"id":"Q22583433","verdict":"keep","countries":["SG","MY","ID"],"reason":"Second opinion: retain the Indonesian association stated by the dish description alongside Singapore and Malaysia."}
 {"id":"Q2259868","verdict":"keep"}
-{"id":"Q22620","verdict":"keep"}
+{"id":"Q22620","verdict":"keep","countries":["DE"],"reason":"The broth obtained from cooking sausages is the German sausage-broth tradition."}
 {"id":"Q2265797","verdict":"keep"}
 {"id":"Q22666192","verdict":"keep"}
 {"id":"Q22666199","verdict":"keep","countries":["LV"],"reason":"Latgalian dish; countries were empty"}
@@ -210,8 +210,8 @@
 {"id":"Q22669970","verdict":"keep","countries":["FI","RU"],"reason":"Second opinion: Vyborg kringle has Finnish and Russian Vyborg traditions."}
 {"id":"Q2267393","verdict":"keep","countries":["IT"],"reason":"ancient Roman food; countries were empty"}
 {"id":"Q22689325","verdict":"keep"}
-{"id":"Q22689348","verdict":"keep"}
-{"id":"Q22689366","verdict":"keep"}
+{"id":"Q22689348","verdict":"keep","countries":["ES","US"],"reason":"Orange cake is an established Spanish and American citrus cake."}
+{"id":"Q22689366","verdict":"keep","countries":["SY","LB","PS","JO","TR","IL"],"reason":"Second opinion: rolled kunafa has Levantine and Turkish ties including Israeli cooking."}
 {"id":"Q2269366","verdict":"keep","countries":["AT"],"reason":"Austrian dish; countries were empty"}
 {"id":"Q2273698","verdict":"keep","countries":["SG","MY","ID"],"reason":"Second opinion: serikaya/kaya has Singaporean, Malaysian and Indonesian traditions."}
 {"id":"Q2274269","verdict":"keep"}
@@ -220,13 +220,13 @@
 {"id":"Q2279804","verdict":"keep"}
 {"id":"Q227999","verdict":"keep","countries":["AT"],"reason":"Carinthian pastry; countries were empty"}
 {"id":"Q2281241","verdict":"keep","countries":["NL"],"reason":"Dutch meringue cookie; countries were empty"}
-{"id":"Q2282540","verdict":"keep"}
+{"id":"Q2282540","verdict":"keep","countries":["DE","NL","US"],"reason":"Crullers have established German, Dutch and American fried-pastry traditions."}
 {"id":"Q228373","verdict":"keep"}
-{"id":"Q2284641","verdict":"keep"}
+{"id":"Q2284641","verdict":"keep","countries":["AT"],"reason":"Sig is the Austrian Alpine whey-caramel confection."}
 {"id":"Q2284646","verdict":"keep"}
 {"id":"Q2286933","verdict":"keep","countries":["NL"],"reason":"Dutch sausage; countries were empty"}
 {"id":"Q2290274","verdict":"keep"}
-{"id":"Q22907126","verdict":"keep"}
+{"id":"Q22907126","verdict":"remove","countries":[],"reason":"Mutton flaps are described only as a cut of sheep meat, with no recipe or prepared dish."}
 {"id":"Q22907436","verdict":"keep"}
 {"id":"Q22914816","verdict":"keep"}
 {"id":"Q2291684","verdict":"keep"}
@@ -237,28 +237,28 @@
 {"id":"Q22929166","verdict":"keep"}
 {"id":"Q22931404","verdict":"remove","reason":"Wikimedia list article, not a dish"}
 {"id":"Q2293198","verdict":"keep"}
-{"id":"Q22934387","verdict":"keep"}
+{"id":"Q22934387","verdict":"keep","countries":["PS","LB","SY","JO","TR","IL"],"reason":"Second opinion: cheese knafeh has common Israeli ties alongside Palestinian, Levantine and Turkish traditions."}
 {"id":"Q2293551","verdict":"keep"}
 {"id":"Q22936428","verdict":"keep","countries":["IT"],"reason":"Italian pasta; countries were empty"}
 {"id":"Q229385","verdict":"keep"}
 {"id":"Q2294743","verdict":"keep","countries":["MC","FR"],"reason":"Barbajuan is Monegasque and Nicois; added FR"}
 {"id":"Q22949248","verdict":"keep","countries":["BD","IN"],"reason":"Bengal street food; countries were empty"}
-{"id":"Q22971811","verdict":"keep"}
+{"id":"Q22971811","verdict":"keep","countries":["AT","DE","JP"],"reason":"Breaded pork cutlet has established Austrian, German and Japanese preparations."}
 {"id":"Q2297499","verdict":"keep"}
 {"id":"Q22976","verdict":"keep"}
 {"id":"Q229777","verdict":"keep"}
-{"id":"Q2297811","verdict":"keep"}
+{"id":"Q2297811","verdict":"keep","countries":["IT","NL","DE"],"reason":"Succade is prepared candied citrus peel used in Italian, Dutch and German confectionery."}
 {"id":"Q22984333","verdict":"keep","countries":["ES"],"reason":"Catalan guiso; countries were empty"}
-{"id":"Q23000048","verdict":"keep"}
+{"id":"Q23000048","verdict":"keep","countries":["ES","GB"],"reason":"Clementine cake is associated with Spanish citrus and almond cakes and British baking."}
 {"id":"Q23004","verdict":"keep"}
 {"id":"Q23005886","verdict":"keep","countries":["NL"],"reason":"Second opinion: hernhutter cookies are a Zeist specialty, not German merely because of the religious community name (https://rutgerbakt.nl/koek-recepten/hernhuttertjes-koekjes-recept/)."}
 {"id":"Q23007309","verdict":"keep"}
 {"id":"Q23008804","verdict":"keep","countries":["NL"],"reason":"Dutch oblietjie; countries were empty"}
-{"id":"Q23015","verdict":"keep"}
+{"id":"Q23015","verdict":"keep","countries":["PT","ES","CN"],"reason":"The dish identity is suckling pig, an established Portuguese, Spanish and Chinese roast-pig preparation."}
 {"id":"Q23019214","verdict":"keep"}
 {"id":"Q23020291","verdict":"remove","reason":"food brand and company (Tiparos), not a dish"}
 {"id":"Q23021894","verdict":"keep"}
-{"id":"Q2302413","verdict":"keep"}
+{"id":"Q2302413","verdict":"keep","countries":["NO","GB","US"],"reason":"Smoked salmon is a recognized prepared fish with Norwegian, Scottish and American traditions."}
 {"id":"Q230246","verdict":"keep","countries":["DE"],"reason":"German variation of zuppa inglese; countries were empty"}
 {"id":"Q2303056","verdict":"keep"}
 {"id":"Q2303453","verdict":"keep"}
@@ -271,16 +271,16 @@
 {"id":"Q2306706","verdict":"keep","countries":["DE"],"reason":"Westphalian stew; countries were empty"}
 {"id":"Q2307239","verdict":"keep"}
 {"id":"Q23074345","verdict":"keep","countries":["TW"],"reason":"Taiwanese braised meat sauce; countries were empty"}
-{"id":"Q2308008","verdict":"keep","countries":[],"reason":"Second opinion: an Esperanto label meaning Italian roll is insufficient to establish a particular national preparation."}
-{"id":"Q2308313","verdict":"keep"}
+{"id":"Q2308008","verdict":"keep","countries":["IT"],"reason":"Itala bulko explicitly denotes an Italian bread roll."}
+{"id":"Q2308313","verdict":"keep","countries":["AT","DE","IT"],"reason":"Bacon dumplings are the Austrian, Bavarian and South Tyrolean Speckknödel tradition."}
 {"id":"Q2308332","verdict":"keep"}
 {"id":"Q2311032","verdict":"keep","countries":["DE"],"reason":"German dish; countries were empty"}
 {"id":"Q2311837","verdict":"keep"}
 {"id":"Q2315099","verdict":"keep","countries":["IL","MA"],"reason":"Israeli and Moroccan Jewish salad; countries were empty"}
 {"id":"Q2317875","verdict":"keep"}
-{"id":"Q2330776","verdict":"keep","countries":[],"reason":"Second opinion: long egg is an industrial egg preparation, not a specifically German dish."}
+{"id":"Q2330776","verdict":"keep","countries":["DK"],"reason":"Stangenei is the prepared long-egg product developed in Danish food production."}
 {"id":"Q2330783","verdict":"keep"}
-{"id":"Q2333140","verdict":"keep"}
+{"id":"Q2333140","verdict":"keep","countries":["DE"],"reason":"Oberländer bread is a German regional bread."}
 {"id":"Q2334489","verdict":"keep"}
 {"id":"Q2334705","verdict":"keep","countries":["BA","RS","ME"],"reason":"Second opinion: boranije is Balkan green-bean stew, not Dutch; shared regional preparation (https://www.cbc-mne-alb.org/tacka-custom/tacka-media/2022/10/Gorska-trpezaa.pdf)."}
 {"id":"Q2336063","verdict":"keep","countries":["IE"],"reason":"Irish bread; countries were empty"}
@@ -288,13 +288,13 @@
 {"id":"Q2338530","verdict":"keep"}
 {"id":"Q2339814","verdict":"keep"}
 {"id":"Q23417616","verdict":"keep"}
-{"id":"Q23461006","verdict":"keep"}
+{"id":"Q23461006","verdict":"keep","countries":["US","GB","IE"],"reason":"Halloween cake is a prepared holiday cake associated with American, British and Irish Halloween celebrations."}
 {"id":"Q23461031","verdict":"remove","reason":"branded product line (Kit Kat bars)"}
-{"id":"Q23461185","verdict":"keep"}
-{"id":"Q23461193","verdict":"keep"}
+{"id":"Q23461185","verdict":"remove","countries":[],"reason":"Organic chocolate is a certification category covering chocolate products, rather than a distinct prepared food."}
+{"id":"Q23461193","verdict":"keep","countries":["US"],"reason":"Raw chocolate is a distinct low-temperature prepared confection associated with American raw-food cooking."}
 {"id":"Q2346339","verdict":"keep","countries":["PL"],"reason":"Szczecin dish; countries were empty"}
 {"id":"Q234646","verdict":"keep"}
 {"id":"Q2350308","verdict":"keep"}
-{"id":"Q2351313","verdict":"keep","countries":[],"reason":"Second opinion: generic wheat bread; the Dutch name does not establish a national association."}
+{"id":"Q2351313","verdict":"keep","countries":["NL","BE"],"reason":"Second opinion: tarwebrood is Dutch-language wheat bread of the Netherlands and Belgium."}
 {"id":"Q235169","verdict":"keep"}
 {"id":"Q2353020","verdict":"keep","countries":["US"],"reason":"Italian-American cookie; countries were empty"}

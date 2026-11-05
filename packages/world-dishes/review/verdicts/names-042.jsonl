@@ -9,7 +9,7 @@
 {"id":"Q3950633","verdict":"keep"}
 {"id":"Q3951172","verdict":"keep"}
 {"id":"Q3951313","verdict":"keep"}
-{"id":"Q3951371","verdict":"keep"}
+{"id":"Q3951371","verdict":"keep","countries":["IT"],"reason":"Scagliozzi are Italian fried polenta pieces."}
 {"id":"Q3951693","verdict":"keep"}
 {"id":"Q3951711","verdict":"keep"}
 {"id":"Q3952008","verdict":"keep"}
@@ -81,7 +81,7 @@
 {"id":"Q3995826","verdict":"keep"}
 {"id":"Q3995832","verdict":"keep"}
 {"id":"Q3995875","verdict":"keep"}
-{"id":"Q4001072","verdict":"keep"}
+{"id":"Q4001072","verdict":"remove","countries":[],"reason":"Twister identifies a branded ice lolly."}
 {"id":"Q4001299","verdict":"keep"}
 {"id":"Q4007501","verdict":"keep"}
 {"id":"Q4007569","verdict":"keep"}
@@ -98,64 +98,64 @@
 {"id":"Q4024571","verdict":"keep"}
 {"id":"Q4024898","verdict":"keep"}
 {"id":"Q4024941","verdict":"keep"}
-{"id":"Q4024992","verdict":"keep"}
+{"id":"Q4024992","verdict":"keep","countries":["DE","AT"],"reason":"Kaisersuppe is established German and Austrian soup cooking."}
 {"id":"Q4025000","verdict":"keep"}
 {"id":"Q402587","verdict":"keep"}
 {"id":"Q4036160","verdict":"remove","reason":"branded packaged product (Hostess Chocodile)"}
-{"id":"Q4038290","verdict":"keep"}
+{"id":"Q4038290","verdict":"keep","countries":["NL"],"reason":"Ulevel is a traditional Dutch sugar confection."}
 {"id":"Q404973","verdict":"keep"}
 {"id":"Q4062939","verdict":"keep"}
 {"id":"Q4068439","verdict":"remove","reason":"drink (Khakas araka spirit), not a dish"}
 {"id":"Q4073388","verdict":"keep"}
 {"id":"Q4077486","verdict":"keep"}
 {"id":"Q4080173","verdict":"remove","reason":"Second opinion: plain regional honey with no recipe is a raw ingredient"}
-{"id":"Q4082936","verdict":"keep"}
+{"id":"Q4082936","verdict":"remove","countries":[],"reason":"Belochka identifies a branded candy product."}
 {"id":"Q40853306","verdict":"keep","countries":["GB","IE"],"reason":"countries were empty; British and Irish breakfast"}
-{"id":"Q40867220","verdict":"keep"}
+{"id":"Q40867220","verdict":"keep","countries":["GB"],"reason":"Lemon marmalade is established British preserve cooking."}
 {"id":"Q4090235","verdict":"keep"}
 {"id":"Q40908960","verdict":"keep"}
 {"id":"Q4097120","verdict":"keep"}
 {"id":"Q4097613","verdict":"keep"}
 {"id":"Q40978520","verdict":"keep"}
-{"id":"Q4101404","verdict":"keep"}
+{"id":"Q4101404","verdict":"keep","countries":["RU"],"reason":"Bäleş is explicitly Tatar and Bashkir pie, both associated with Russia."}
 {"id":"Q4102393","verdict":"keep","countries":["IN","PK"],"reason":"Second opinion: wazwan belongs to shared Kashmiri culture on both sides of the India/Pakistan border."}
-{"id":"Q4102771","verdict":"keep"}
+{"id":"Q4102771","verdict":"keep","countries":["RU"],"reason":"Valenets is the Russian named bread roll."}
 {"id":"Q4102828","verdict":"keep"}
 {"id":"Q4103061","verdict":"keep"}
 {"id":"Q4108173","verdict":"keep"}
 {"id":"Q4115189","verdict":"remove","reason":"nonsense: Wikidata sandbox test page, not a dish"}
 {"id":"Q4116140","verdict":"keep","countries":["EG"],"reason":"countries were empty; Egyptian fish dish"}
 {"id":"Q4118252","verdict":"keep"}
-{"id":"Q4118270","verdict":"keep"}
+{"id":"Q4118270","verdict":"keep","countries":["US","GB","IN"],"reason":"Second opinion: mixed nuts are deliberately assembled snack food, not one plain raw ingredient; established American, British and Indian snack traditions apply."}
 {"id":"Q4122049","verdict":"keep"}
 {"id":"Q4129873","verdict":"keep"}
 {"id":"Q4130224","verdict":"keep"}
 {"id":"Q4130778","verdict":"keep"}
-{"id":"Q41384","verdict":"keep"}
+{"id":"Q41384","verdict":"keep","countries":["CN"],"reason":"The Chinese name 鳳爪 identifies the prepared chicken-feet dish."}
 {"id":"Q41415","verdict":"remove","reason":"category (generic 'soup'), not one dish"}
-{"id":"Q41415182","verdict":"keep"}
-{"id":"Q4145098","verdict":"keep"}
-{"id":"Q41484834","verdict":"keep"}
+{"id":"Q41415182","verdict":"keep","countries":["BE"],"reason":"Steppegras is the Belgian shoestring-potato dish."}
+{"id":"Q4145098","verdict":"keep","countries":["RU"],"reason":"The Armenian label identifies Gorodets pryanik, a Russian regional gingerbread."}
+{"id":"Q41484834","verdict":"keep","countries":["PS"],"reason":"Qedra is explicitly a traditional Palestinian rice-and-meat dish."}
 {"id":"Q41521988","verdict":"keep"}
 {"id":"Q4152552","verdict":"keep"}
 {"id":"Q4154144","verdict":"keep"}
 {"id":"Q4159174","verdict":"remove","reason":"category (generic 'ice cream-based dessert'), not one dish"}
-{"id":"Q4160901","verdict":"keep"}
+{"id":"Q4160901","verdict":"keep","countries":["RU","GE"],"reason":"Dzykka is Ossetian porridge, associated with Ossetian communities in Russia and Georgia."}
 {"id":"Q41617095","verdict":"keep","countries":["AT"],"reason":"countries were empty; Styrian dish"}
 {"id":"Q4164571","verdict":"keep"}
 {"id":"Q4164590","verdict":"keep"}
-{"id":"Q4165267","verdict":"keep"}
+{"id":"Q4165267","verdict":"keep","countries":["SY","LB","PS","JO","IL"],"reason":"Second opinion: makdous also has established Israeli Levantine cooking ties."}
 {"id":"Q4168613","verdict":"keep"}
-{"id":"Q41799628","verdict":"keep"}
-{"id":"Q41804851","verdict":"keep"}
-{"id":"Q41805869","verdict":"keep"}
+{"id":"Q41799628","verdict":"keep","countries":["US","MX"],"reason":"Red chile brisket is Southwestern American and Mexican-associated cooking."}
+{"id":"Q41804851","verdict":"keep","countries":["ES","GB","US"],"reason":"Pork chops and applesauce has explicit Spanish and British ties and an established American association."}
+{"id":"Q41805869","verdict":"keep","countries":["ES"],"reason":"Dolsa is supplied as a Catalan confection; Spain is the name-language cuisine anchor."}
 {"id":"Q41806779","verdict":"keep"}
 {"id":"Q4185632","verdict":"keep"}
 {"id":"Q4185902","verdict":"remove","reason":"cooking technique page (parbaking), not a dish"}
 {"id":"Q4189322","verdict":"keep"}
 {"id":"Q4189615","verdict":"keep"}
 {"id":"Q4192299","verdict":"keep"}
-{"id":"Q4193417","verdict":"keep"}
+{"id":"Q4193417","verdict":"remove","countries":[],"reason":"Golden Opulence Sundae is a specific restaurant’s record-setting branded menu product."}
 {"id":"Q4197759","verdict":"keep"}
 {"id":"Q4197962","verdict":"keep"}
 {"id":"Q4198570","verdict":"keep"}
@@ -166,8 +166,8 @@
 {"id":"Q4201329","verdict":"keep"}
 {"id":"Q4202016","verdict":"keep"}
 {"id":"Q4203530","verdict":"keep"}
-{"id":"Q42044808","verdict":"keep"}
-{"id":"Q42045522","verdict":"keep"}
+{"id":"Q42044808","verdict":"keep","countries":["JP"],"reason":"Odawara-kei tantanmen is a Japanese regional noodle preparation; the building description is erroneous metadata."}
+{"id":"Q42045522","verdict":"keep","countries":["JP"],"reason":"Odawara-kei ramen is Japanese regional ramen."}
 {"id":"Q4205452","verdict":"keep"}
 {"id":"Q4205456","verdict":"keep"}
 {"id":"Q4206002","verdict":"keep"}
@@ -188,7 +188,7 @@
 {"id":"Q4217538","verdict":"keep","countries":["TR"],"reason":"countries were empty; Turkish bread"}
 {"id":"Q4222435","verdict":"keep"}
 {"id":"Q4222490","verdict":"keep"}
-{"id":"Q4225831","verdict":"keep"}
+{"id":"Q4225831","verdict":"keep","countries":["RU"],"reason":"Kovrizhka is Russian honey gingerbread."}
 {"id":"Q4229214","verdict":"keep","countries":["RU"],"reason":"countries were empty; Mari cuisine"}
 {"id":"Q42348478","verdict":"keep","countries":["BD","IN"],"reason":"countries were empty; Bengali hilsa dish"}
 {"id":"Q42363424","verdict":"keep","countries":["BD","IN"],"reason":"countries were empty; Bengali hilsa dish"}
@@ -208,17 +208,17 @@
 {"id":"Q42396244","verdict":"keep","countries":["IN"],"reason":"countries were empty; Delhi biryani"}
 {"id":"Q42399449","verdict":"keep"}
 {"id":"Q42400563","verdict":"keep","countries":["BD","IN"],"reason":"Second opinion: Bengali rajbhog is associated with both Bangladesh and India"}
-{"id":"Q42411090","verdict":"keep"}
+{"id":"Q42411090","verdict":"keep","countries":["DE","CH"],"reason":"Block-milk is a deliberately concentrated sweet milk product associated with German and Swiss confectionery manufacture."}
 {"id":"Q42417224","verdict":"keep","countries":["NI"],"reason":"countries were empty; Nicaraguan dish"}
 {"id":"Q42417247","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian meat dish"}
 {"id":"Q42417413","verdict":"keep"}
 {"id":"Q42417569","verdict":"keep"}
 {"id":"Q42417761","verdict":"keep"}
 {"id":"Q42417869","verdict":"keep"}
-{"id":"Q42434444","verdict":"keep"}
+{"id":"Q42434444","verdict":"keep","countries":["PK","IN"],"reason":"Memoni biryani is shared Memon-community cooking in Pakistan and India."}
 {"id":"Q42434706","verdict":"keep","countries":["IN"],"reason":"countries were empty; Bhatkali, Karnataka"}
 {"id":"Q42435036","verdict":"keep","countries":["IN"],"reason":"countries were empty; Dakshina Kannada, Karnataka"}
-{"id":"Q4246304","verdict":"keep"}
+{"id":"Q4246304","verdict":"keep","countries":["JP"],"reason":"Yakisobapan is explicitly Japanese noodle-filled bread."}
 {"id":"Q4246388","verdict":"keep","countries":["RU"],"reason":"countries were empty; Tatarstan and Bashkortostan"}
 {"id":"Q4246421","verdict":"keep"}
 {"id":"Q4247469","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese food"}
@@ -227,7 +227,7 @@
 {"id":"Q4249417","verdict":"keep"}
 {"id":"Q4250363","verdict":"keep"}
 {"id":"Q4251295","verdict":"keep"}
-{"id":"Q4256352","verdict":"keep"}
+{"id":"Q4256352","verdict":"keep","countries":["AZ","IR"],"reason":"Levengi is Azerbaijani and Talysh stuffed poultry/fish cooking, also tied to northern Iran."}
 {"id":"Q426103","verdict":"keep"}
 {"id":"Q4261477","verdict":"keep"}
 {"id":"Q4262936","verdict":"keep"}
@@ -250,9 +250,9 @@
 {"id":"Q43013313","verdict":"remove","reason":"Second opinion: Poularde de Bresse is protected fresh poultry, with no recipe here; https://www.inao.gouv.fr/produit/poularde-de-bresse-17456"}
 {"id":"Q4302793","verdict":"keep"}
 {"id":"Q43038747","verdict":"keep"}
-{"id":"Q4304396","verdict":"keep"}
+{"id":"Q4304396","verdict":"keep","countries":["GB","US","JP"],"reason":"Egg sandwiches are established British, American and Japanese preparations."}
 {"id":"Q4305242","verdict":"keep"}
-{"id":"Q430583","verdict":"keep"}
+{"id":"Q430583","verdict":"keep","countries":["KR"],"reason":"Kkakdugi is Korean radish kimchi."}
 {"id":"Q4305901","verdict":"keep"}
 {"id":"Q4306732","verdict":"keep","countries":["RU"],"reason":"countries were empty; Mari cuisine"}
 {"id":"Q4308183","verdict":"keep","countries":["RU"],"reason":"countries were empty; Murom, Russia"}
@@ -261,7 +261,7 @@
 {"id":"Q431570","verdict":"keep"}
 {"id":"Q431640","verdict":"keep"}
 {"id":"Q432001","verdict":"keep"}
-{"id":"Q4320515","verdict":"keep"}
+{"id":"Q4320515","verdict":"keep","countries":["US"],"reason":"Oatmeal raisin cookie is an established American cookie."}
 {"id":"Q432308","verdict":"keep"}
 {"id":"Q43235009","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
 {"id":"Q43250232","verdict":"keep","countries":["UA"],"reason":"countries were empty; description says Ukrainian cuisine"}
@@ -269,32 +269,32 @@
 {"id":"Q43254013","verdict":"keep"}
 {"id":"Q43359837","verdict":"keep"}
 {"id":"Q43372008","verdict":"keep"}
-{"id":"Q4337658","verdict":"keep"}
-{"id":"Q4337660","verdict":"keep"}
+{"id":"Q4337658","verdict":"keep","countries":["RU","GE"],"reason":"Ossetian pies are shared Ossetian cooking associated with Russia and Georgia."}
+{"id":"Q4337660","verdict":"keep","countries":["RU","GE"],"reason":"Ossetian cheese is associated with Ossetian communities in Russia and Georgia."}
 {"id":"Q43378784","verdict":"keep"}
-{"id":"Q4338177","verdict":"keep"}
+{"id":"Q4338177","verdict":"keep","countries":["NL"],"reason":"Seuter is a Dutch regional potato preparation."}
 {"id":"Q43422","verdict":"keep"}
-{"id":"Q4345821","verdict":"keep"}
+{"id":"Q4345821","verdict":"keep","countries":["FI","EE","SE","NO"],"reason":"The entry explicitly lists Finland, Estonia, Sweden and Norway for blood pancakes."}
 {"id":"Q4346753","verdict":"keep"}
 {"id":"Q4348342","verdict":"remove","reason":"medicinal nicotine product, not food"}
 {"id":"Q435026","verdict":"remove","reason":"concept page (German term for stale bread), not a dish"}
 {"id":"Q4350424","verdict":"keep"}
 {"id":"Q4351446","verdict":"keep"}
 {"id":"Q43580216","verdict":"keep","countries":["IN"],"reason":"countries were empty; Bengali confectionery"}
-{"id":"Q43635908","verdict":"keep"}
-{"id":"Q43668382","verdict":"keep"}
-{"id":"Q43668566","verdict":"keep"}
-{"id":"Q43668658","verdict":"keep"}
-{"id":"Q43668703","verdict":"keep"}
-{"id":"Q43668757","verdict":"keep"}
-{"id":"Q43668938","verdict":"keep"}
-{"id":"Q43669016","verdict":"keep"}
-{"id":"Q43669693","verdict":"keep"}
-{"id":"Q43670051","verdict":"keep"}
+{"id":"Q43635908","verdict":"keep","countries":["JP"],"reason":"Takomaki is a Japanese octopus-roll preparation; the German label does not imply German cuisine."}
+{"id":"Q43668382","verdict":"keep","countries":["US"],"reason":"Banana soy yogurt is a prepared flavored dairy alternative in American vegan-food cooking."}
+{"id":"Q43668566","verdict":"keep","countries":["BR","MU"],"reason":"Banana jam is established Brazilian and Mauritian preserve cooking."}
+{"id":"Q43668658","verdict":"keep","countries":["GB"],"reason":"Strawberry biscuit is a British flavored-biscuit preparation."}
+{"id":"Q43668703","verdict":"keep","countries":["US"],"reason":"Strawberry cheesecake is an established American cheesecake."}
+{"id":"Q43668757","verdict":"keep","countries":["FR","DE"],"reason":"Second opinion: strawberry compote belongs to French and German cooked-fruit traditions."}
+{"id":"Q43668938","verdict":"keep","countries":["FR","GB"],"reason":"Onion jam is established French and British relish cooking."}
+{"id":"Q43669016","verdict":"keep","countries":["GB","PT"],"reason":"Orange jam is established British and Portuguese preserve cooking."}
+{"id":"Q43669693","verdict":"keep","countries":["FR","GB"],"reason":"Leek pie is established French and British savory-pie cooking."}
+{"id":"Q43670051","verdict":"keep","countries":["GB"],"reason":"Lemon jam is established British preserve cooking."}
 {"id":"Q4367658","verdict":"keep","countries":["RU"],"reason":"countries were empty; Mari cuisine"}
-{"id":"Q43683476","verdict":"keep"}
+{"id":"Q43683476","verdict":"remove","countries":[],"reason":"Lavender honey is a raw honey variety without a recipe or additional preparation."}
 {"id":"Q4368675","verdict":"keep"}
-{"id":"Q43688521","verdict":"keep"}
+{"id":"Q43688521","verdict":"keep","countries":["IT","FR"],"reason":"Lemon sorbet has established Italian and French frozen-dessert traditions."}
 {"id":"Q436943","verdict":"keep"}
 {"id":"Q43731351","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese dish"}
 {"id":"Q43731700","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese dish"}

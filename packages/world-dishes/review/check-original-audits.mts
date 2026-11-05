@@ -45,7 +45,8 @@ for (const batch of batches) {
     .trim()
     .split("\n")
     .map((line) => JSON.parse(line) as Row)
-  const after = readFileSync(path.join(root, file), "utf8")
+  // Freeze this historical original-input audit before the separate country-completeness pass.
+  const after = git("show", `a1898bb:${file}`)
     .trim()
     .split("\n")
     .map((line) => JSON.parse(line) as Row)

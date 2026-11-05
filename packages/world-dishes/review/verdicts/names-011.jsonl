@@ -1,38 +1,38 @@
-{"id":"Q113432237","verdict":"keep","reason":"second opinion: wheat bread is generic; Danish wording alone does not establish a Danish origin"}
+{"id":"Q113432237","verdict":"keep","reason":"Danish wheat bread version.","countries":["DK"]}
 {"id":"Q113432251","verdict":"keep"}
 {"id":"Q113432255","verdict":"keep","countries":["DK"],"reason":"no country listed; Danish dish"}
 {"id":"Q11343229","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese mochi"}
-{"id":"Q11344145","verdict":"keep","reason":"second opinion: melon jelly is generic; Japanese wording alone does not establish a Japanese origin"}
+{"id":"Q11344145","verdict":"keep","reason":"Japanese melon jelly dessert version.","countries":["JP"]}
 {"id":"Q11344563","verdict":"keep","countries":["JP"],"reason":"no country listed; Hokkaido nabe"}
 {"id":"Q113451751","verdict":"keep"}
 {"id":"Q113455543","verdict":"keep"}
 {"id":"Q1134556","verdict":"keep"}
 {"id":"Q11346020","verdict":"keep"}
 {"id":"Q11346203","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese dagashi"}
-{"id":"Q113463632","verdict":"keep","reason":"second opinion: a neighboring series of entries does not establish this candy's country; retain unknown country"}
-{"id":"Q113463691","verdict":"keep"}
-{"id":"Q113463719","verdict":"keep"}
+{"id":"Q113463632","verdict":"keep","reason":"Guinean condensed milk confection.","countries":["GN"]}
+{"id":"Q113463691","verdict":"keep","countries":["FR"],"reason":"French name supplies last resort association for this generic pastry."}
+{"id":"Q113463719","verdict":"keep","countries":["CM"],"reason":"Wouri bonbon is associated with Cameroon."}
 {"id":"Q113463743","verdict":"keep"}
 {"id":"Q11346907","verdict":"keep"}
 {"id":"Q11347260","verdict":"keep","countries":["JP"],"reason":"no country listed; Okinawan pork dish"}
-{"id":"Q11347431","verdict":"keep"}
+{"id":"Q11347431","verdict":"keep","countries":["JP"],"reason":"Japanese lamb shabu shabu."}
 {"id":"Q113474336","verdict":"keep"}
 {"id":"Q11347447","verdict":"keep"}
-{"id":"Q11347758","verdict":"keep"}
-{"id":"Q11347764","verdict":"keep"}
+{"id":"Q11347758","verdict":"keep","countries":["JP"],"reason":"Entry explicitly identifies Hokkaido ramen salad."}
+{"id":"Q11347764","verdict":"remove","reason":"Entry explicitly describes a set menu rather than one dish.","countries":[]}
 {"id":"Q113483181","verdict":"keep","countries":["FR"],"reason":"no country listed; French egg dish"}
 {"id":"Q113484300","verdict":"keep"}
 {"id":"Q113484314","verdict":"keep"}
-{"id":"Q11348512","verdict":"keep"}
+{"id":"Q11348512","verdict":"keep","countries":["FR","DE","IT","GB"],"reason":"Hearth breads have established artisan baking traditions in these countries."}
 {"id":"Q113487285","verdict":"keep","countries":["FR"],"reason":"no country listed; Annecy bonbon"}
 {"id":"Q113495133","verdict":"remove","reason":"soft drink (cola), not a dish"}
-{"id":"Q11349663","verdict":"keep"}
-{"id":"Q11349819","verdict":"keep"}
+{"id":"Q11349663","verdict":"keep","countries":["JP"],"reason":"Japanese lettuce maki sushi."}
+{"id":"Q11349819","verdict":"remove","reason":"Retort pouch curry denotes a packaged convenience product.","countries":[]}
 {"id":"Q11349852","verdict":"keep"}
 {"id":"Q11349933","verdict":"keep"}
-{"id":"Q11350917","verdict":"keep"}
+{"id":"Q11350917","verdict":"keep","countries":["JP"],"reason":"Japanese loin ham preparation."}
 {"id":"Q113510622","verdict":"remove","reason":"Dangdang Chicken is Homeplus branded supermarket fried chicken, not a generic dish."}
-{"id":"Q11351069","verdict":"keep"}
+{"id":"Q11351069","verdict":"keep","countries":["JP"],"reason":"Ina regional romen noodles."}
 {"id":"Q11351260","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese monaka"}
 {"id":"Q11351281","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese yokan"}
 {"id":"Q11351431","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese regional shark dish"}
@@ -42,14 +42,14 @@
 {"id":"Q11353238","verdict":"keep"}
 {"id":"Q113534616","verdict":"keep"}
 {"id":"Q11353687","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese congee"}
-{"id":"Q113541568","verdict":"keep","reason":"second opinion: eggs with cream sauce is generic; German wording does not establish a country"}
+{"id":"Q113541568","verdict":"keep","reason":"German eggs with cream sauce version.","countries":["DE"]}
 {"id":"Q113543725","verdict":"keep"}
 {"id":"Q11355117","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese candy"}
 {"id":"Q11355298","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese ramen"}
-{"id":"Q11355376","verdict":"keep"}
+{"id":"Q11355376","verdict":"keep","countries":["JP"],"reason":"Japanese sanpeijiru fish soup."}
 {"id":"Q11355870","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese mochi"}
-{"id":"Q113560755","verdict":"keep"}
-{"id":"Q11356842","verdict":"keep"}
+{"id":"Q113560755","verdict":"keep","countries":["BE","FR","US"],"reason":"Air fried version retains shared fry associations."}
+{"id":"Q11356842","verdict":"keep","countries":["JP"],"reason":"Mitsuishi regional Japanese yokan."}
 {"id":"Q11356922","verdict":"keep","countries":["JP"],"reason":"no country listed; Taketa, Oita confection"}
 {"id":"Q11356975","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese sweet bread"}
 {"id":"Q11357853","verdict":"keep"}
@@ -66,7 +66,7 @@
 {"id":"Q113653553","verdict":"keep"}
 {"id":"Q113659074","verdict":"remove","reason":"generic category (whole-grain pastries), not one dish"}
 {"id":"Q11366283","verdict":"keep","countries":["JP"],"reason":"no country listed; Hokkaido ramen"}
-{"id":"Q113664446","verdict":"keep"}
+{"id":"Q113664446","verdict":"keep","countries":["IN","PK"],"reason":"Saag gosht is shared Indian and Pakistani cooking."}
 {"id":"Q113666509","verdict":"keep"}
 {"id":"Q113667563","verdict":"keep","countries":["IN","PK","BD"],"reason":"no country listed; South Asian vermicelli dessert"}
 {"id":"Q1136702","verdict":"keep"}
@@ -83,7 +83,7 @@
 {"id":"Q113699860","verdict":"keep"}
 {"id":"Q11370574","verdict":"keep","countries":["JP","US"],"reason":"Chichi dango is Japanese confectionery with a strong established Japanese-Hawaiian tradition in the United States."}
 {"id":"Q11370671","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese dried mochi"}
-{"id":"Q113712201","verdict":"keep"}
+{"id":"Q113712201","verdict":"keep","countries":["BE"],"reason":"Belgian praline despite its Congo style name."}
 {"id":"Q1137204","verdict":"keep"}
 {"id":"Q11372049","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese yokan"}
 {"id":"Q11372295","verdict":"keep"}
@@ -95,7 +95,7 @@
 {"id":"Q11374720","verdict":"remove","reason":"category (Kyoto confectionery), not one dish"}
 {"id":"Q11374829","verdict":"keep","countries":["JP"],"reason":"no country listed; Kyoto ramen"}
 {"id":"Q1137574","verdict":"keep"}
-{"id":"Q11376061","verdict":"keep"}
+{"id":"Q11376061","verdict":"remove","reason":"Hair derived counterfeit soy sauce is not a legitimate dish or condiment.","countries":[]}
 {"id":"Q1137679","verdict":"keep"}
 {"id":"Q1137701","verdict":"keep"}
 {"id":"Q11377628","verdict":"keep"}
@@ -109,40 +109,40 @@
 {"id":"Q11378917","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese takuan"}
 {"id":"Q11380763","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese datemaki"}
 {"id":"Q113815312","verdict":"keep","countries":["JP"],"reason":"no country listed; Kansai okonomiyaki"}
-{"id":"Q11381926","verdict":"keep"}
+{"id":"Q11381926","verdict":"keep","countries":["US","RU"],"reason":"Aleut dish associated with Alaska and the Russian Aleut region."}
 {"id":"Q113826628","verdict":"keep"}
 {"id":"Q113828119","verdict":"keep"}
 {"id":"Q113833737","verdict":"keep"}
 {"id":"Q113833808","verdict":"keep"}
 {"id":"Q1138371","verdict":"keep"}
-{"id":"Q113839234","verdict":"keep"}
+{"id":"Q113839234","verdict":"keep","countries":["FR"],"reason":"French scarlet cured tongue."}
 {"id":"Q113840194","verdict":"keep","countries":["FR"],"reason":"no country listed; French omelette"}
 {"id":"Q113840312","verdict":"keep"}
 {"id":"Q113840402","verdict":"keep","countries":["IS"],"reason":"no country listed; Icelandic dish"}
 {"id":"Q11384932","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese ramen"}
 {"id":"Q113850233","verdict":"keep"}
-{"id":"Q113854965","verdict":"keep"}
+{"id":"Q113854965","verdict":"keep","reason":"The collard liquor classification identifies prepared pot liquor, an edible American greens broth; liquid form alone does not exclude prepared food.","countries":["US"]}
 {"id":"Q113855577","verdict":"keep","countries":["IN"],"reason":"no country listed; Kerala payasam"}
-{"id":"Q11385745","verdict":"keep","reason":"second opinion: preserved bread is generic; Japanese wording does not establish a country"}
+{"id":"Q11385745","verdict":"keep","reason":"Japanese preserved bread preparation.","countries":["JP"]}
 {"id":"Q113858365","verdict":"keep","countries":["CN"],"reason":"no country listed; Chinese chicken dish"}
 {"id":"Q113859684","verdict":"keep"}
 {"id":"Q11386094","verdict":"keep"}
-{"id":"Q11386205","verdict":"keep"}
+{"id":"Q11386205","verdict":"keep","countries":["JP"],"reason":"Japanese Shingen hot pot."}
 {"id":"Q11388871","verdict":"keep","countries":["JP"],"reason":"no country listed; Toyama ramen"}
 {"id":"Q11389772","verdict":"keep","countries":["EG"],"reason":"no country listed; Egyptian halawa"}
 {"id":"Q113900228","verdict":"remove","reason":"generic category (South Asian bread), not one dish"}
-{"id":"Q113900280","verdict":"keep"}
+{"id":"Q113900280","verdict":"remove","reason":"Entry describes a bite or bread scoop rather than a separate dish.","countries":[]}
 {"id":"Q11390440","verdict":"keep"}
 {"id":"Q11390680","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese grilled fish"}
 {"id":"Q11390969","verdict":"keep"}
-{"id":"Q11391124","verdict":"keep"}
-{"id":"Q11391553","verdict":"keep"}
-{"id":"Q11392360","verdict":"keep"}
-{"id":"Q11392516","verdict":"keep"}
+{"id":"Q11391124","verdict":"keep","countries":["JP"],"reason":"Hachinohe regional Japanese ramen."}
+{"id":"Q11391553","verdict":"keep","countries":["JP"],"reason":"Hachioji regional Japanese ramen."}
+{"id":"Q11392360","verdict":"keep","countries":["JP"],"reason":"Japanese roppoyaki baked wagashi."}
+{"id":"Q11392516","verdict":"remove","reason":"Named commercial hexagonal kite souvenir biscuit.","countries":[]}
 {"id":"Q1139319","verdict":"keep"}
 {"id":"Q1139364","verdict":"keep"}
 {"id":"Q11393750","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese zoni"}
-{"id":"Q1139389","verdict":"keep"}
+{"id":"Q1139389","verdict":"keep","countries":["IN","PK","BD","LK","NP"],"reason":"Dal has an established prepared pulse dish meaning throughout these South Asian cuisines."}
 {"id":"Q113945861","verdict":"keep"}
 {"id":"Q113946149","verdict":"keep","countries":["PL"],"reason":"no country listed; Polish pork hock dish"}
 {"id":"Q113948914","verdict":"keep"}
@@ -159,7 +159,7 @@
 {"id":"Q11398680","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese manju"}
 {"id":"Q113988259","verdict":"keep"}
 {"id":"Q113996881","verdict":"keep","countries":["CN"],"reason":"no country listed; Chinese sour soup fish"}
-{"id":"Q11399815","verdict":"keep"}
+{"id":"Q11399815","verdict":"keep","countries":["JP"],"reason":"Japanese funoyaki style confectionery."}
 {"id":"Q11399904","verdict":"keep"}
 {"id":"Q11400397","verdict":"keep"}
 {"id":"Q1140186","verdict":"keep"}
@@ -182,8 +182,8 @@
 {"id":"Q11412305","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese pickle"}
 {"id":"Q11412389","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese yokan"}
 {"id":"Q11412640","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese dango"}
-{"id":"Q11412715","verdict":"keep"}
-{"id":"Q1141370","verdict":"keep"}
+{"id":"Q11412715","verdict":"keep","countries":["JP"],"reason":"Yoshiwara denchu regional Japanese rice confection."}
+{"id":"Q1141370","verdict":"keep","countries":["CN","ID","CM"],"reason":"Plausible prepared food accounts associate monkey brains with these countries."}
 {"id":"Q11413827","verdict":"keep"}
 {"id":"Q11414538","verdict":"keep"}
 {"id":"Q1141574","verdict":"keep"}
@@ -211,7 +211,7 @@
 {"id":"Q114213193","verdict":"keep","countries":["NL"],"reason":"no country listed; Dutch pastry"}
 {"id":"Q11423039","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese nimono"}
 {"id":"Q11423044","verdict":"keep","countries":["JP"],"reason":"no country listed; Kochi regional burger"}
-{"id":"Q1142483","verdict":"keep"}
+{"id":"Q1142483","verdict":"keep","countries":["FR","GB"],"reason":"Open topped tarts have French and British pastry associations."}
 {"id":"Q1142503","verdict":"keep"}
 {"id":"Q1142506","verdict":"keep","countries":["FR"],"reason":"no country listed; French sausage"}
 {"id":"Q11425631","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese dango"}
@@ -227,7 +227,7 @@
 {"id":"Q114328512","verdict":"keep"}
 {"id":"Q11433503","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese nimono"}
 {"id":"Q114347778","verdict":"keep"}
-{"id":"Q114348085","verdict":"keep"}
+{"id":"Q114348085","verdict":"keep","countries":["CH","AT","DE"],"reason":"Hay associated cheeses belong to Alpine cheesemaking traditions."}
 {"id":"Q114352250","verdict":"keep"}
 {"id":"Q114353925","verdict":"remove","reason":"drink (barley shochu), not a dish"}
 {"id":"Q11435991","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese oshizushi"}
@@ -283,11 +283,11 @@
 {"id":"Q1146928","verdict":"keep"}
 {"id":"Q114701058","verdict":"keep"}
 {"id":"Q11470942","verdict":"keep"}
-{"id":"Q114714086","verdict":"keep"}
+{"id":"Q114714086","verdict":"keep","countries":["US"],"reason":"Butter board is an American prepared appetizer."}
 {"id":"Q11472234","verdict":"keep","countries":["JP"],"reason":"no country listed; Okayama ramen"}
 {"id":"Q11473964","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese okoshi"}
 {"id":"Q11474262","verdict":"keep"}
-{"id":"Q11475216","verdict":"keep"}
+{"id":"Q11475216","verdict":"keep","countries":["JP"],"reason":"Iwatsuki leek salt yakisoba is a Japanese regional noodle dish."}
 {"id":"Q11475284","verdict":"keep","countries":["JP"],"reason":"no country listed; Iwanuma horumonyaki"}
 {"id":"Q114756150","verdict":"keep","countries":["PL"],"reason":"no country listed; Silesian dish"}
 {"id":"Q114757173","verdict":"keep","name":"Śląsko Modro Kapusta","countries":["PL"],"reason":"name had a parenthetical English gloss; no country listed; Silesian dish"}
@@ -295,6 +295,6 @@
 {"id":"Q1147853","verdict":"keep","countries":["MX","GT","SV","HN","BZ","NI","CR","PA","CU","DO","PR","PE","CO","VE","US","BO","EC","AR","CL"],"reason":"Preserve existing Mesoamerican, Caribbean and US traditions and include established Bolivian, Ecuadorian, Argentine and Chilean tamal traditions."}
 {"id":"Q11479217","verdict":"keep","countries":["JP"],"reason":"no country listed; Kawagoe yakisoba"}
 {"id":"Q11479380","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese confection"}
-{"id":"Q114796671","verdict":"keep"}
+{"id":"Q114796671","verdict":"keep","countries":["CH","FR"],"reason":"Walnut tarts have Swiss and French baking traditions."}
 {"id":"Q11481352","verdict":"keep"}
 {"id":"Q11481892","verdict":"keep","countries":["JP"],"reason":"no country listed; Japanese mochi"}

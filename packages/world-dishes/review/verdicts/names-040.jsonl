@@ -1,7 +1,7 @@
 {"id":"Q3412448","verdict":"keep"}
-{"id":"Q3414202","verdict":"keep"}
+{"id":"Q3414202","verdict":"remove","countries":[],"reason":"Quepapas is a branded Pizza Hut potato side, rather than an independent dish."}
 {"id":"Q3419728","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese potato pancake"}
-{"id":"Q3420023","verdict":"keep"}
+{"id":"Q3420023","verdict":"keep","countries":["IT"],"reason":"Rata is identified as ragout with an Italian name-language anchor."}
 {"id":"Q3420363","verdict":"keep"}
 {"id":"Q3420368","verdict":"keep","countries":["MG"],"reason":"countries were empty; Malagasy cassava leaf dish"}
 {"id":"Q3421424","verdict":"keep"}
@@ -10,7 +10,7 @@
 {"id":"Q3422327","verdict":"keep","countries":["NO"],"reason":"Second opinion: Kneippbrød is Norwegian bread, not Danish; https://snl.no/kneippbrød"}
 {"id":"Q3425445","verdict":"keep"}
 {"id":"Q3425450","verdict":"keep"}
-{"id":"Q3428078","verdict":"keep"}
+{"id":"Q3428078","verdict":"keep","countries":["SR"],"reason":"Cassavepap is Surinamese cassava porridge."}
 {"id":"Q34292","verdict":"keep"}
 {"id":"Q3431960","verdict":"keep","countries":["FR"],"reason":"countries were empty; French confection"}
 {"id":"Q3431975","verdict":"keep"}
@@ -22,7 +22,7 @@
 {"id":"Q3439845","verdict":"keep","countries":["FR"],"reason":"countries were empty; Alsatian dish"}
 {"id":"Q344066","verdict":"keep"}
 {"id":"Q3441149","verdict":"keep"}
-{"id":"Q3441161","verdict":"keep"}
+{"id":"Q3441161","verdict":"keep","countries":["DE"],"reason":"Baked apple is explicitly a German dessert."}
 {"id":"Q3441918","verdict":"keep","countries":["HR"],"reason":"countries were empty; Croatian dessert"}
 {"id":"Q3442077","verdict":"keep"}
 {"id":"Q34421086","verdict":"keep"}
@@ -30,26 +30,26 @@
 {"id":"Q3443096","verdict":"keep","countries":["FR"],"reason":"countries were empty; French candy"}
 {"id":"Q3443152","verdict":"keep"}
 {"id":"Q3443155","verdict":"keep"}
-{"id":"Q3443485","verdict":"keep"}
+{"id":"Q3443485","verdict":"keep","countries":["FR"],"reason":"Roustiquette is the French regional potato dish."}
 {"id":"Q3447542","verdict":"keep"}
 {"id":"Q3449266","verdict":"keep"}
-{"id":"Q3449298","verdict":"keep"}
+{"id":"Q3449298","verdict":"keep","countries":["HU","SK","PL","HR","RS","SI","US"],"reason":"Second opinion: nut rolls also have an established American immigrant-baking tradition."}
 {"id":"Q3460531","verdict":"keep","reason":"Second opinion: Sabina PDO is a named traditional processed olive oil; retain prepared foods."}
-{"id":"Q3462362","verdict":"keep"}
+{"id":"Q3462362","verdict":"keep","countries":["ES"],"reason":"Arròs a banda is explicitly Spanish rice cooked in fish stock."}
 {"id":"Q3463262","verdict":"remove","reason":"apéritif, a drink"}
-{"id":"Q34674117","verdict":"keep"}
+{"id":"Q34674117","verdict":"keep","countries":["FR"],"reason":"Calisson d’Aix is the French regional almond confection."}
 {"id":"Q3469334","verdict":"keep","countries":["CD","CG"],"reason":"countries were empty; Congolese dish"}
-{"id":"Q3469458","verdict":"keep"}
+{"id":"Q3469458","verdict":"keep","countries":["FR"],"reason":"Composed salad is the French salade composée tradition."}
 {"id":"Q3469460","verdict":"keep"}
 {"id":"Q3469461","verdict":"keep","countries":["FR"],"reason":"countries were empty; Comtois salad from Franche-Comté"}
-{"id":"Q3469463","verdict":"keep"}
+{"id":"Q3469463","verdict":"keep","countries":["FR"],"reason":"Dandelion salad with lardons and egg is French regional salad cooking."}
 {"id":"Q3469465","verdict":"keep"}
 {"id":"Q3469471","verdict":"keep"}
 {"id":"Q3469472","verdict":"keep","countries":["FR"],"reason":"countries were empty; Norman salad"}
 {"id":"Q3469475","verdict":"keep"}
 {"id":"Q3469476","verdict":"keep"}
 {"id":"Q3469606","verdict":"keep"}
-{"id":"Q3472077","verdict":"keep"}
+{"id":"Q3472077","verdict":"keep","countries":["US"],"reason":"Denver sandwich is an American omelette sandwich."}
 {"id":"Q3472079","verdict":"keep"}
 {"id":"Q3472373","verdict":"keep","countries":["FR"],"reason":"countries were empty; Occitan dish"}
 {"id":"Q3473115","verdict":"keep"}
@@ -64,15 +64,15 @@
 {"id":"Q34804358","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian dish"}
 {"id":"Q3480481","verdict":"keep"}
 {"id":"Q34807","verdict":"keep"}
-{"id":"Q3480991","verdict":"keep"}
+{"id":"Q3480991","verdict":"keep","countries":["IS"],"reason":"Grjúpán is explicitly Icelandic sheep-lung sausage."}
 {"id":"Q3481297","verdict":"keep"}
 {"id":"Q3481488","verdict":"keep"}
-{"id":"Q3481800","verdict":"keep"}
-{"id":"Q3482613","verdict":"keep"}
+{"id":"Q3481800","verdict":"keep","countries":["DE","US"],"reason":"Minced meat patties are established German and American cooking."}
+{"id":"Q3482613","verdict":"keep","countries":["US","AU"],"reason":"Potato wedges are established American and Australian potato sides."}
 {"id":"Q3486962","verdict":"keep"}
 {"id":"Q3488926","verdict":"keep"}
 {"id":"Q3489093","verdict":"keep"}
-{"id":"Q3490797","verdict":"keep"}
+{"id":"Q3490797","verdict":"keep","countries":["CO","VE","PR","DO","HN","ES"],"reason":"Mondongo soup is established in Colombia, Venezuela, Puerto Rico, Dominican Republic and Honduras, with Spanish ties."}
 {"id":"Q3491264","verdict":"keep"}
 {"id":"Q3491553","verdict":"keep"}
 {"id":"Q3491819","verdict":"keep","countries":["CA"],"reason":"countries were empty; Quebec soup"}
@@ -87,13 +87,13 @@
 {"id":"Q3499431","verdict":"keep"}
 {"id":"Q3499615","verdict":"keep"}
 {"id":"Q3499942","verdict":"keep"}
-{"id":"Q3500074","verdict":"keep"}
+{"id":"Q3500074","verdict":"keep","countries":["US"],"reason":"Strata is the American layered bread-and-egg casserole."}
 {"id":"Q3500519","verdict":"keep"}
 {"id":"Q3501098","verdict":"keep"}
 {"id":"Q3501106","verdict":"keep"}
 {"id":"Q3502845","verdict":"keep","countries":["GB"],"reason":"countries were empty; Scottish confection"}
 {"id":"Q3503191","verdict":"keep","countries":["FR"],"reason":"countries were empty; French biscuit"}
-{"id":"Q3505415","verdict":"keep"}
+{"id":"Q3505415","verdict":"keep","countries":["US"],"reason":"Farina porridge is an established American cooked cereal."}
 {"id":"Q35056","verdict":"keep"}
 {"id":"Q3505757","verdict":"keep"}
 {"id":"Q3509587","verdict":"keep"}
@@ -106,7 +106,7 @@
 {"id":"Q3515852","verdict":"keep"}
 {"id":"Q3515855","verdict":"keep","countries":["FR"],"reason":"countries were empty; French tart from Alsace/Lorraine"}
 {"id":"Q3515859","verdict":"keep"}
-{"id":"Q3515860","verdict":"keep"}
+{"id":"Q3515860","verdict":"keep","countries":["FR"],"reason":"Tarte à la banane is a French banana tart."}
 {"id":"Q3515861","verdict":"keep"}
 {"id":"Q3515862","verdict":"keep"}
 {"id":"Q3518532","verdict":"keep","reason":"Second opinion: Terra di Bari PDO is a named traditional processed olive oil; retain prepared foods."}
@@ -125,10 +125,10 @@
 {"id":"Q3532517","verdict":"keep"}
 {"id":"Q3534131","verdict":"keep","countries":["GP"],"reason":"Second opinion: tourment damour is a Guadeloupean cake, not mainland French merely by language."}
 {"id":"Q3535543","verdict":"keep","countries":["FR"],"reason":"countries were empty; Niçoise specialty"}
-{"id":"Q3535544","verdict":"keep"}
+{"id":"Q3535544","verdict":"keep","countries":["FR"],"reason":"The Chinese label denotes the Berry potato galette, a French regional preparation."}
 {"id":"Q3535545","verdict":"keep"}
 {"id":"Q3535559","verdict":"keep","countries":["FR"],"reason":"countries were empty; Limousin tourtière"}
-{"id":"Q3535568","verdict":"keep"}
+{"id":"Q3535568","verdict":"keep","countries":["ES"],"reason":"Tortú is a Catalan regional dish; the Catalan name provides the cuisine anchor."}
 {"id":"Q3535569","verdict":"keep"}
 {"id":"Q3537640","verdict":"keep"}
 {"id":"Q3539309","verdict":"keep"}
@@ -142,25 +142,25 @@
 {"id":"Q3543397","verdict":"keep"}
 {"id":"Q3543525","verdict":"keep"}
 {"id":"Q3543686","verdict":"keep"}
-{"id":"Q3543811","verdict":"keep"}
+{"id":"Q3543811","verdict":"keep","countries":["US","CA"],"reason":"Pork and beans is established American and Canadian cooking."}
 {"id":"Q3544203","verdict":"keep"}
 {"id":"Q3544562","verdict":"keep"}
 {"id":"Q3544579","verdict":"keep","countries":["FI","SE","EE"],"reason":"Second opinion: whipped semolina and berry porridge has Finnish, Swedish and Estonian traditions."}
 {"id":"Q3545233","verdict":"keep"}
-{"id":"Q3545686","verdict":"keep"}
+{"id":"Q3545686","verdict":"keep","countries":["EC","PE","BO","CL"],"reason":"Mote is shared Andean cooked maize in Ecuador, Peru, Bolivia and Chile."}
 {"id":"Q3548107","verdict":"keep"}
 {"id":"Q3549118","verdict":"keep"}
 {"id":"Q3549166","verdict":"keep"}
 {"id":"Q3550480","verdict":"keep"}
-{"id":"Q3552200","verdict":"keep"}
+{"id":"Q3552200","verdict":"keep","countries":["PH"],"reason":"Bagoong terong is explicitly Filipino fermented fish sauce."}
 {"id":"Q3552223","verdict":"keep"}
-{"id":"Q3553107","verdict":"keep"}
+{"id":"Q3553107","verdict":"keep","countries":["FR","CH"],"reason":"Second opinion: vacherin dessert belongs to French and Swiss meringue-dessert traditions."}
 {"id":"Q3553500","verdict":"remove","reason":"medicated cough drop, a branded product"}
 {"id":"Q3553945","verdict":"keep"}
 {"id":"Q3553946","verdict":"keep"}
 {"id":"Q3555005","verdict":"keep"}
 {"id":"Q3555007","verdict":"keep"}
-{"id":"Q3555103","verdict":"keep"}
+{"id":"Q3555103","verdict":"keep","countries":["BE"],"reason":"Vaution is the Belgian Verviers cake."}
 {"id":"Q3555157","verdict":"keep"}
 {"id":"Q3557655","verdict":"keep"}
 {"id":"Q35586024","verdict":"keep","countries":["PS"],"reason":"described as Palestinian; TR was wrong"}
@@ -168,23 +168,23 @@
 {"id":"Q3561219","verdict":"keep","countries":["SE"],"reason":"countries were empty; Swedish sausage"}
 {"id":"Q356346","verdict":"keep","countries":["DE"],"reason":"countries were empty; Bavarian soup"}
 {"id":"Q3565924","verdict":"keep"}
-{"id":"Q35661296","verdict":"keep"}
-{"id":"Q3569657","verdict":"keep"}
+{"id":"Q35661296","verdict":"keep","countries":["CN","KR","JP","IN"],"reason":"Rice porridge is established Chinese, Korean, Japanese and Indian cooking."}
+{"id":"Q3569657","verdict":"keep","countries":["IL","US"],"reason":"Gebrochts is prepared soaked matzah in Israeli and American Jewish cooking."}
 {"id":"Q3570585","verdict":"keep"}
 {"id":"Q3571325","verdict":"keep"}
 {"id":"Q3572640","verdict":"keep"}
 {"id":"Q3573026","verdict":"remove","reason":"umbrella term for several kinds of food, not one dish"}
-{"id":"Q3573091","verdict":"keep"}
+{"id":"Q3573091","verdict":"keep","countries":["CN"],"reason":"Yuanxiao is the Chinese shaken glutinous-rice dumpling."}
 {"id":"Q3574648","verdict":"remove","reason":"protected raw lamb meat, not a dish"}
 {"id":"Q3576541","verdict":"keep"}
 {"id":"Q3577245","verdict":"keep"}
 {"id":"Q3577420","verdict":"keep"}
-{"id":"Q35778572","verdict":"keep"}
+{"id":"Q35778572","verdict":"keep","countries":["CN","UZ","KZ","KG","TJ"],"reason":"Laghman is shared Uyghur and Central Asian noodle cooking."}
 {"id":"Q358507","verdict":"keep"}
 {"id":"Q3589163","verdict":"keep","countries":["ES"],"reason":"countries were empty; Catalan dish"}
-{"id":"Q3594111","verdict":"keep"}
-{"id":"Q3594113","verdict":"keep"}
-{"id":"Q3594115","verdict":"keep"}
+{"id":"Q3594111","verdict":"keep","countries":["FR"],"reason":"Eggs à la Toupinel are a French egg-in-potato preparation despite the Spanish label."}
+{"id":"Q3594113","verdict":"keep","countries":["FR"],"reason":"Snail caviar is a prepared French delicacy."}
+{"id":"Q3594115","verdict":"keep","countries":["FR","JP","GB"],"reason":"Second opinion: medium-boiled eggs also have established Japanese and British preparations; five-minute boiling does not identify France alone."}
 {"id":"Q3594122","verdict":"keep"}
 {"id":"Q35944","verdict":"keep"}
 {"id":"Q3595351","verdict":"keep"}
@@ -208,7 +208,7 @@
 {"id":"Q3613674","verdict":"remove","reason":"bitters liqueur, a drink"}
 {"id":"Q3614508","verdict":"keep"}
 {"id":"Q3616613","verdict":"keep"}
-{"id":"Q36180436","verdict":"keep"}
+{"id":"Q36180436","verdict":"keep","countries":["TR"],"reason":"Goat-milk ice cream is established Turkish ice-cream cooking."}
 {"id":"Q3618208","verdict":"keep"}
 {"id":"Q3621054","verdict":"keep","reason":"Second opinion: Aprutino Pescarese PDO is a named traditional processed olive oil; retain prepared foods."}
 {"id":"Q3622651","verdict":"keep"}
@@ -218,7 +218,7 @@
 {"id":"Q3632870","verdict":"keep","countries":["IN"],"reason":"countries were empty; Hyderabadi dish"}
 {"id":"Q3632937","verdict":"keep"}
 {"id":"Q3633458","verdict":"keep"}
-{"id":"Q3634389","verdict":"keep"}
+{"id":"Q3634389","verdict":"keep","countries":["IN"],"reason":"Baati is explicitly western Indian bread."}
 {"id":"Q3634426","verdict":"keep","countries":["IN","PK","BD"],"reason":"Second opinion: rumali roti has shared Indian, Pakistani and Bangladeshi traditions."}
 {"id":"Q3634538","verdict":"keep"}
 {"id":"Q3636224","verdict":"keep"}
@@ -234,7 +234,7 @@
 {"id":"Q3641520","verdict":"keep"}
 {"id":"Q3641568","verdict":"keep"}
 {"id":"Q3642641","verdict":"keep"}
-{"id":"Q3642907","verdict":"keep"}
+{"id":"Q3642907","verdict":"keep","countries":["DE","US"],"reason":"Beer bread is established German and American baking."}
 {"id":"Q3642935","verdict":"keep"}
 {"id":"Q3643465","verdict":"keep"}
 {"id":"Q3644493","verdict":"keep"}
@@ -273,16 +273,16 @@
 {"id":"Q3665214","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian cake"}
 {"id":"Q3665589","verdict":"keep"}
 {"id":"Q3666048","verdict":"keep","countries":["BD","IN"],"reason":"Second opinion: Bengali sweet associated with Bangladesh and India; https://heritagehub.gov.bd/HeritageInfoes/DetailsPdfEng/2134"}
-{"id":"Q36672065","verdict":"keep"}
+{"id":"Q36672065","verdict":"keep","countries":["RU"],"reason":"Vesnushka is supplied as a Russian named food; Russia is the name-language fallback."}
 {"id":"Q3667436","verdict":"keep","reason":"Second opinion: Chianti Classico PDO is a named traditional processed olive oil; retain prepared foods."}
 {"id":"Q3667736","verdict":"keep"}
 {"id":"Q3668413","verdict":"keep"}
 {"id":"Q3668429","verdict":"keep"}
 {"id":"Q3668485","verdict":"keep"}
-{"id":"Q367225","verdict":"keep"}
+{"id":"Q367225","verdict":"keep","countries":["NL","DE","GB","CA","SE","FI"],"reason":"Pea soup is established Dutch, German, British, Canadian, Swedish and Finnish cooking."}
 {"id":"Q3674722","verdict":"keep"}
 {"id":"Q3675184","verdict":"keep"}
-{"id":"Q3675266","verdict":"keep"}
+{"id":"Q3675266","verdict":"keep","countries":["IT"],"reason":"Petrali are Calabrian Italian Christmas pastries, irrespective of the Catalan metadata."}
 {"id":"Q3675466","verdict":"keep"}
 {"id":"Q3676186","verdict":"keep"}
 {"id":"Q3676246","verdict":"keep"}

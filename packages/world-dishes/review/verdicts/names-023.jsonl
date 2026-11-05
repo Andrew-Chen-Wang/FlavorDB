@@ -1,8 +1,8 @@
 {"id":"Q137581504","verdict":"remove","reason":"article topic (history of pizza in Mexico), not a dish"}
 {"id":"Q137587225","verdict":"keep","countries":["KR"],"reason":"Korean jjigae; country list was empty"}
 {"id":"Q137593130","verdict":"keep","countries":["ES"],"reason":"Catalan rice dish; country list was empty"}
-{"id":"Q137593679","verdict":"keep"}
-{"id":"Q137602246","verdict":"keep"}
+{"id":"Q137593679","verdict":"keep","countries":["LB","SY","IL","PS"],"reason":"Chickpea wraps belong to the shared Levantine wrap tradition."}
+{"id":"Q137602246","verdict":"keep","countries":["CH","US"],"reason":"Overnight oats draw on Swiss soaked muesli and American breakfast preparations."}
 {"id":"Q137602787","verdict":"remove","reason":"tableware (pottery), not food"}
 {"id":"Q137602972","verdict":"remove","reason":"tableware (pottery), not food"}
 {"id":"Q137605428","verdict":"keep","countries":["DE"],"reason":"North Frisian cookie; country list was empty"}
@@ -27,11 +27,11 @@
 {"id":"Q137731959","verdict":"keep"}
 {"id":"Q137732521","verdict":"keep"}
 {"id":"Q137733867","verdict":"keep","countries":["IN","PK"],"reason":"Rewari sesame-jaggery confection is associated with India and Pakistan."}
-{"id":"Q137734212","verdict":"keep"}
-{"id":"Q137734312","verdict":"keep"}
+{"id":"Q137734212","verdict":"keep","countries":["RU","FI","PL"],"reason":"Cabbage pies are shared Russian, Finnish and Polish preparations."}
+{"id":"Q137734312","verdict":"keep","countries":["GR"],"reason":"Panspermia is an ancient Greek mixed-grain preparation."}
 {"id":"Q137769736","verdict":"keep"}
-{"id":"Q137778889","verdict":"keep"}
-{"id":"Q137785263","verdict":"keep"}
+{"id":"Q137778889","verdict":"keep","countries":["GB","FR"],"reason":"Western loaf bread has established British and French bread traditions."}
+{"id":"Q137785263","verdict":"keep","countries":["US"],"reason":"Frozen salad is an American frozen fruit-and-cream salad preparation."}
 {"id":"Q1377879","verdict":"keep"}
 {"id":"Q137792091","verdict":"keep"}
 {"id":"Q137794382","verdict":"keep","countries":["FR"],"reason":"French galette des rois; country list was empty"}
@@ -55,11 +55,11 @@
 {"id":"Q137802518","verdict":"keep","countries":["TR"],"reason":"Mardin pastry from Turkiye; country list was empty"}
 {"id":"Q137803968","verdict":"remove","reason":"packaged product (custard powder), not a dish"}
 {"id":"Q137804409","verdict":"keep"}
-{"id":"Q137804829","verdict":"keep"}
+{"id":"Q137804829","verdict":"keep","countries":["US"],"reason":"Icebox cookies are American refrigerator cookies."}
 {"id":"Q137805698","verdict":"keep"}
-{"id":"Q137807970","verdict":"keep"}
+{"id":"Q137807970","verdict":"keep","countries":["FR"],"reason":"Sauteed leek belongs to French vegetable cooking."}
 {"id":"Q137808644","verdict":"keep"}
-{"id":"Q137810203","verdict":"keep"}
+{"id":"Q137810203","verdict":"keep","countries":["UA"],"reason":"Ufaq as is a Crimean Tatar dish of Crimea."}
 {"id":"Q137816339","verdict":"keep"}
 {"id":"Q137816648","verdict":"remove","reason":"drink (es brenebon)"}
 {"id":"Q137816671","verdict":"keep"}
@@ -70,19 +70,19 @@
 {"id":"Q137826008","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
 {"id":"Q137826009","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
 {"id":"Q137826010","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
-{"id":"Q137826011","verdict":"keep","countries":[],"reason":"Second opinion: generic cabbage salad is not assigned Finland merely from its Finnish name."}
+{"id":"Q137826011","verdict":"keep","countries":["FI"],"reason":"Kaalisalaatti is Finnish cabbage salad."}
 {"id":"Q137826012","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
-{"id":"Q137826013","verdict":"keep","countries":[],"reason":"Second opinion: generic mushroom stew is not assigned Finland merely from its Finnish name."}
+{"id":"Q137826013","verdict":"keep","countries":["FI"],"reason":"Sienimuhennos is Finnish mushroom stew."}
 {"id":"Q137826014","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
-{"id":"Q137826015","verdict":"keep","reason":"Chanterelle soup is a generic dish; Finnish name alone does not establish a country."}
+{"id":"Q137826015","verdict":"keep","reason":"Kantarellikeitto is Finnish chanterelle soup.","countries":["FI"]}
 {"id":"Q137826016","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
 {"id":"Q137826017","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
 {"id":"Q137826019","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
 {"id":"Q137826021","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
-{"id":"Q137826023","verdict":"keep"}
+{"id":"Q137826023","verdict":"keep","countries":["RU","FI"],"reason":"Herring a la Russe has Russian and Finnish prepared-herring ties."}
 {"id":"Q137826026","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
 {"id":"Q137826028","verdict":"keep","countries":["FI"],"reason":"Finnish dish; country list was empty"}
-{"id":"Q137826226","verdict":"keep","countries":[],"reason":"Second opinion: decorated cake is generic; Finnish wording does not establish dish origin."}
+{"id":"Q137826226","verdict":"keep","countries":["FI"],"reason":"Fantasiakakku names a Finnish decorated cake."}
 {"id":"Q137826227","verdict":"keep","countries":["FI"],"reason":"Finnish cake; country list was empty"}
 {"id":"Q137826228","verdict":"keep","countries":["FI"],"reason":"Finnish cake; country list was empty"}
 {"id":"Q137826229","verdict":"keep","countries":["FI"],"reason":"Finnish cake; country list was empty"}
@@ -91,7 +91,7 @@
 {"id":"Q137826241","verdict":"keep","countries":["FI"],"reason":"Finnish pie; country list was empty"}
 {"id":"Q137826242","verdict":"keep","countries":["FI"],"reason":"Finnish pie; country list was empty"}
 {"id":"Q137826250","verdict":"keep","countries":["FI"],"reason":"Finnish bread; country list was empty"}
-{"id":"Q137826251","verdict":"keep","countries":[],"reason":"Second opinion: pan bread is generic; Finnish wording does not establish dish origin."}
+{"id":"Q137826251","verdict":"keep","countries":["FI"],"reason":"Vuokaleipa is Finnish tin bread."}
 {"id":"Q137826252","verdict":"keep","countries":["FI"],"reason":"Finnish bread; country list was empty"}
 {"id":"Q137834536","verdict":"keep"}
 {"id":"Q137834569","verdict":"keep"}
@@ -103,7 +103,7 @@
 {"id":"Q137847309","verdict":"keep"}
 {"id":"Q137856615","verdict":"keep"}
 {"id":"Q137856731","verdict":"keep"}
-{"id":"Q137862828","verdict":"keep"}
+{"id":"Q137862828","verdict":"remove","reason":"remove: This is one specific commemorative artwork cake rather than a dish type."}
 {"id":"Q137883935","verdict":"keep"}
 {"id":"Q137884965","verdict":"keep"}
 {"id":"Q137905119","verdict":"keep"}
@@ -131,18 +131,18 @@
 {"id":"Q137971251","verdict":"keep","countries":["BR"],"reason":"Brazilian dish; country list was empty"}
 {"id":"Q137971298","verdict":"keep","countries":["SE"],"reason":"Swedish meat dish; country list was empty"}
 {"id":"Q13798142","verdict":"keep","countries":["NL"],"reason":"Dutch candy; country list was empty"}
-{"id":"Q13798201","verdict":"keep","countries":[],"reason":"Second opinion: poppy seed bread is generic and Dutch wording does not establish Dutch origin."}
+{"id":"Q13798201","verdict":"keep","countries":["NL","BE"],"reason":"Maanzaadbrood is Dutch-language poppy-seed bread."}
 {"id":"Q137995719","verdict":"keep"}
 {"id":"Q137998824","verdict":"keep"}
 {"id":"Q138003779","verdict":"keep"}
-{"id":"Q138011108","verdict":"keep"}
+{"id":"Q138011108","verdict":"keep","countries":["GB"],"reason":"Baked beans pizza is a British pizza adaptation."}
 {"id":"Q138013674","verdict":"keep"}
-{"id":"Q138024294","verdict":"keep"}
-{"id":"Q138024534","verdict":"keep"}
+{"id":"Q138024294","verdict":"keep","countries":["US"],"reason":"Pickle pizza is an American pizza variation."}
+{"id":"Q138024534","verdict":"keep","countries":["BR"],"reason":"Cafe com mistura is a Brazilian breakfast meal with coffee accompaniments."}
 {"id":"Q138030970","verdict":"keep","countries":["IR"],"reason":"Iranian dish from Kermanshah; country list was empty"}
-{"id":"Q1380492","verdict":"keep"}
-{"id":"Q138076358","verdict":"keep"}
-{"id":"Q138132161","verdict":"keep"}
+{"id":"Q1380492","verdict":"keep","countries":["DE"],"reason":"Gefillde are Saarland German filled potato dumplings."}
+{"id":"Q138076358","verdict":"keep","countries":["JP"],"reason":"Yaki-onigiri are Japanese grilled rice balls."}
+{"id":"Q138132161","verdict":"keep","countries":["PE"],"reason":"Chiriuchu is the Cusco Peruvian festive dish."}
 {"id":"Q138139796","verdict":"remove","reason":"category (dishes by ingredient), not one dish"}
 {"id":"Q13818254","verdict":"keep"}
 {"id":"Q138213","verdict":"remove","reason":"name change (freedom fries), not a dish"}
@@ -160,72 +160,72 @@
 {"id":"Q138315412","verdict":"keep"}
 {"id":"Q138329556","verdict":"keep","countries":["IN"],"reason":"Meitei (Manipur) food; country list was empty"}
 {"id":"Q138329557","verdict":"keep","countries":["IN"],"reason":"Meitei (Manipur) dish; country list was empty"}
-{"id":"Q138330528","verdict":"keep"}
+{"id":"Q138330528","verdict":"keep","countries":["ID","CH"],"reason":"Mah Mee is an Indonesian-derived noodle dish established in Swiss cooking."}
 {"id":"Q138337365","verdict":"keep","countries":["IN"],"reason":"Manipur dish; country list was empty"}
 {"id":"Q138339454","verdict":"keep"}
 {"id":"Q138384337","verdict":"keep","countries":["AZ"],"reason":"Dish of Ordubad, Azerbaijan; country list was empty"}
-{"id":"Q13840832","verdict":"keep"}
+{"id":"Q13840832","verdict":"keep","countries":["CN","FR","GB"],"reason":"Hard-boiled eggs have established Chinese, French and British prepared-egg traditions."}
 {"id":"Q138413232","verdict":"keep","countries":["RS"],"reason":"Serbian and Vojvodina dish; country list was empty"}
 {"id":"Q138413396","verdict":"keep"}
 {"id":"Q138413545","verdict":"keep"}
 {"id":"Q138465477","verdict":"keep","countries":["HU"],"reason":"Hungarian fish soup from Baja; country list was empty"}
-{"id":"Q138479165","verdict":"keep"}
+{"id":"Q138479165","verdict":"keep","countries":["MX","US"],"reason":"Soft tacos belong to Mexican and American taco cooking."}
 {"id":"Q138498636","verdict":"keep","countries":["AT"],"reason":"Austrian Fasching pastry; country list was empty"}
 {"id":"Q138510907","verdict":"keep"}
 {"id":"Q138528332","verdict":"keep","countries":["KR"],"reason":"Korean ramyeon dish; country list was empty"}
 {"id":"Q138537728","verdict":"keep","countries":["CN"],"reason":"Chinese Shandong dish; country list was empty"}
 {"id":"Q138541977","verdict":"keep","countries":["PT"],"reason":"Portuguese sweet; country list was empty"}
-{"id":"Q138542087","verdict":"keep"}
-{"id":"Q138542172","verdict":"keep"}
-{"id":"Q138542190","verdict":"keep"}
-{"id":"Q138542191","verdict":"keep"}
+{"id":"Q138542087","verdict":"keep","countries":["GB","AU","NZ"],"reason":"Strawberry meringue desserts have British and Australasian traditions."}
+{"id":"Q138542172","verdict":"keep","countries":["BR"],"reason":"Pe de moca is Brazilian peanut candy."}
+{"id":"Q138542190","verdict":"keep","countries":["BR"],"reason":"Cheese with plum in syrup is a Brazilian sweet preparation."}
+{"id":"Q138542191","verdict":"keep","countries":["BR","PT"],"reason":"Beija-me depressa is a Portuguese-named sweet with Brazilian condensed-milk and Portuguese confectionery ties."}
 {"id":"Q138542192","verdict":"keep","countries":["BR"],"reason":"Brazilian quilombola cake; country list was empty"}
 {"id":"Q138542193","verdict":"keep","countries":["BR"],"reason":"Brazilian cassava cake; country list was empty"}
 {"id":"Q138542194","verdict":"keep","countries":["BR"],"reason":"Brazilian corn cake; country list was empty"}
-{"id":"Q138542196","verdict":"keep"}
+{"id":"Q138542196","verdict":"keep","countries":["BR"],"reason":"Taro-leaf cake is associated with Brazilian taioba-leaf baking."}
 {"id":"Q138542197","verdict":"keep","countries":["PT"],"reason":"Portuguese baked sweet; country list was empty"}
 {"id":"Q138542198","verdict":"keep","countries":["BR"],"reason":"Amazonian Brazilian cream; country list was empty"}
 {"id":"Q138542199","verdict":"keep","countries":["BR"],"reason":"Brazilian candy; country list was empty"}
 {"id":"Q138542200","verdict":"keep","countries":["BR"],"reason":"Brazilian guava sweet; country list was empty"}
 {"id":"Q138542201","verdict":"keep","countries":["BR"],"reason":"Atlantic Forest Brazilian dessert; country list was empty"}
 {"id":"Q138542202","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet pamonha; country list was empty"}
-{"id":"Q138542203","verdict":"keep"}
+{"id":"Q138542203","verdict":"keep","countries":["BR","PT"],"reason":"Toasted sponge cake is shared Brazilian and Portuguese baking."}
 {"id":"Q138542204","verdict":"keep","countries":["PT"],"reason":"Portuguese sweet; country list was empty"}
 {"id":"Q138542205","verdict":"keep","countries":["BR"],"reason":"Brazilian puba cake; country list was empty"}
 {"id":"Q138542206","verdict":"keep","countries":["BR"],"reason":"Brazilian cassava fritter; country list was empty"}
-{"id":"Q138542207","verdict":"keep"}
+{"id":"Q138542207","verdict":"keep","countries":["BR"],"reason":"Black-bean broth cups are Brazilian caldinho de feijao."}
 {"id":"Q138542208","verdict":"keep","countries":["BR"],"reason":"Brazilian churros; country list was empty"}
 {"id":"Q138542209","verdict":"keep","countries":["BR"],"reason":"Brazilian esfiha; country list was empty"}
 {"id":"Q138542210","verdict":"keep","countries":["BR"],"reason":"Brazilian catupiry bread; country list was empty"}
 {"id":"Q138542211","verdict":"keep","countries":["BR"],"reason":"Brazilian araucaria seed dish; country list was empty"}
 {"id":"Q138542212","verdict":"keep","countries":["BR"],"reason":"Brazilian coalho cheese; country list was empty"}
-{"id":"Q138542213","verdict":"keep"}
-{"id":"Q138542214","verdict":"keep"}
-{"id":"Q138542215","verdict":"keep"}
-{"id":"Q138542216","verdict":"keep"}
-{"id":"Q138542217","verdict":"keep"}
-{"id":"Q138542218","verdict":"keep"}
-{"id":"Q138542219","verdict":"keep"}
-{"id":"Q138542220","verdict":"keep"}
-{"id":"Q138542221","verdict":"keep"}
-{"id":"Q138542222","verdict":"keep"}
-{"id":"Q138542223","verdict":"keep"}
-{"id":"Q138542224","verdict":"keep"}
-{"id":"Q138542225","verdict":"keep"}
-{"id":"Q138542226","verdict":"keep"}
-{"id":"Q138542227","verdict":"keep"}
-{"id":"Q138542229","verdict":"keep"}
+{"id":"Q138542213","verdict":"keep","countries":["BR"],"reason":"Cinnamon grilled pineapple is a Brazilian barbecue accompaniment."}
+{"id":"Q138542214","verdict":"keep","countries":["BR","PT"],"reason":"Pickled pearl potatoes belong to Brazilian and Portuguese preserved-potato cooking."}
+{"id":"Q138542215","verdict":"keep","countries":["BR","PT"],"reason":"Potato vinaigrette has Brazilian and Portuguese salad traditions."}
+{"id":"Q138542216","verdict":"keep","countries":["BR","IT"],"reason":"Tomato-pepper sauteed eggplant is established in Brazilian and Italian cooking."}
+{"id":"Q138542217","verdict":"keep","countries":["BR","RU","PL"],"reason":"Boiled beetroot salad is shared Brazilian and eastern European cooking."}
+{"id":"Q138542218","verdict":"keep","countries":["BR","FR"],"reason":"Garlic-onion sauteed carrots are established Brazilian and French vegetable cooking."}
+{"id":"Q138542219","verdict":"keep","countries":["BR","MX"],"reason":"Sauteed chayote belongs to Brazilian and Mexican vegetable cooking."}
+{"id":"Q138542220","verdict":"keep","countries":["BR","IT"],"reason":"Breaded cauliflower has Brazilian and Italian fried-vegetable traditions."}
+{"id":"Q138542221","verdict":"keep","countries":["BR"],"reason":"Seasoned black-eyed peas are established Brazilian feijao-fradinho preparation."}
+{"id":"Q138542222","verdict":"keep","countries":["BR","RU"],"reason":"Vegetable mayonnaise is the Brazilian maionese salad and related Russian salad tradition."}
+{"id":"Q138542223","verdict":"keep","countries":["MX","US","BR"],"reason":"Chili hot sauces have established Mexican, American and Brazilian traditions."}
+{"id":"Q138542224","verdict":"keep","countries":["BR","ES","IT"],"reason":"Charcoal grilled peppers have Brazilian, Spanish and Italian traditions."}
+{"id":"Q138542225","verdict":"keep","countries":["IT","BR"],"reason":"Creamy polenta belongs to Italian and Brazilian cooking."}
+{"id":"Q138542226","verdict":"keep","countries":["BR"],"reason":"Pumpkin puree with dried meat is a Brazilian preparation."}
+{"id":"Q138542227","verdict":"keep","countries":["BR","IN"],"reason":"Sauteed okra belongs to Brazilian and Indian vegetable cooking."}
+{"id":"Q138542229","verdict":"keep","countries":["BR","FR"],"reason":"Garlic-onion sauteed green beans have Brazilian and French traditions."}
 {"id":"Q138542230","verdict":"remove","reason":"Original description identifies a raw cut of steak, not a cooked recipe or preserved meat product."}
-{"id":"Q138542231","verdict":"keep"}
-{"id":"Q138542232","verdict":"keep"}
-{"id":"Q138542233","verdict":"keep"}
-{"id":"Q138542234","verdict":"keep"}
-{"id":"Q138542235","verdict":"keep"}
-{"id":"Q138542236","verdict":"keep"}
-{"id":"Q138542237","verdict":"keep"}
-{"id":"Q138542238","verdict":"keep"}
-{"id":"Q138542239","verdict":"keep"}
-{"id":"Q138542240","verdict":"keep"}
+{"id":"Q138542231","verdict":"keep","countries":["BR","TR"],"reason":"Mixed meat and vegetable skewers have Brazilian barbecue and Turkish kebab traditions."}
+{"id":"Q138542232","verdict":"keep","countries":["IT","BR"],"reason":"Tuscan sausage is Italian and established as linguica toscana in Brazilian barbecue."}
+{"id":"Q138542233","verdict":"keep","countries":["BR","AR","UY"],"reason":"Charcoal-roasted lamb shoulder belongs to southern South American barbecue."}
+{"id":"Q138542234","verdict":"keep","countries":["PT","ES","BR"],"reason":"Squid rice belongs to Portuguese, Spanish and Brazilian seafood cooking."}
+{"id":"Q138542235","verdict":"keep","countries":["PT","ES","BR"],"reason":"Seafood rice belongs to Portuguese, Spanish and Brazilian cooking."}
+{"id":"Q138542236","verdict":"keep","countries":["IT","BR"],"reason":"Seafood spaghetti belongs to Italian and Brazilian pasta cooking."}
+{"id":"Q138542237","verdict":"keep","countries":["BR","PT"],"reason":"Seafood vinaigrette has Brazilian and Portuguese traditions."}
+{"id":"Q138542238","verdict":"keep","countries":["US","FR","CN"],"reason":"Steamed oysters have American, French and Chinese seafood traditions."}
+{"id":"Q138542239","verdict":"keep","countries":["BR"],"reason":"Fish fillet in creamy shrimp sauce is an established Brazilian preparation."}
+{"id":"Q138542240","verdict":"keep","countries":["IT","PT","BR"],"reason":"Seafood salad has Italian, Portuguese and Brazilian traditions."}
 {"id":"Q138542241","verdict":"keep","countries":["BR"],"reason":"Brazilian canjica; country list was empty"}
 {"id":"Q138542242","verdict":"keep","countries":["BR"],"reason":"Brazilian carolina sweet; country list was empty"}
 {"id":"Q138542243","verdict":"keep"}
@@ -242,7 +242,7 @@
 {"id":"Q138663438","verdict":"keep"}
 {"id":"Q138677652","verdict":"keep"}
 {"id":"Q138687802","verdict":"keep","countries":["NG"],"reason":"Igbo dish; country list was empty"}
-{"id":"Q1386897","verdict":"keep"}
+{"id":"Q1386897","verdict":"keep","countries":["DE"],"reason":"Tottchen is a Westphalian German meat preparation."}
 {"id":"Q138690836","verdict":"keep"}
 {"id":"Q138690899","verdict":"keep"}
 {"id":"Q138690900","verdict":"keep"}
@@ -261,7 +261,7 @@
 {"id":"Q138690915","verdict":"keep"}
 {"id":"Q138690916","verdict":"keep"}
 {"id":"Q138690917","verdict":"keep"}
-{"id":"Q138690929","verdict":"keep"}
+{"id":"Q138690929","verdict":"keep","countries":["JP"],"reason":"Roasted kabocha belongs to Japanese squash cooking."}
 {"id":"Q138690931","verdict":"keep"}
 {"id":"Q138690932","verdict":"keep"}
 {"id":"Q138690933","verdict":"keep"}
@@ -282,19 +282,19 @@
 {"id":"Q138771268","verdict":"keep"}
 {"id":"Q138782002","verdict":"keep"}
 {"id":"Q138808636","verdict":"keep"}
-{"id":"Q138811","verdict":"keep"}
+{"id":"Q138811","verdict":"keep","countries":["GB","NL","FI","SE","DK"],"reason":"Licorice sweets have established British, Dutch and Nordic confectionery traditions."}
 {"id":"Q138835842","verdict":"remove","reason":"preparation technique (marinade), not a dish"}
 {"id":"Q138844724","verdict":"keep"}
 {"id":"Q138845947","verdict":"keep"}
-{"id":"Q138849335","verdict":"keep"}
-{"id":"Q138849361","verdict":"keep"}
+{"id":"Q138849335","verdict":"keep","countries":["US","CA"],"reason":"Zucchini muffins belong to American and Canadian baking."}
+{"id":"Q138849361","verdict":"keep","countries":["JP"],"reason":"Poka-kara names a Japanese karaage preparation."}
 {"id":"Q138849367","verdict":"keep"}
 {"id":"Q1388575","verdict":"keep"}
 {"id":"Q138859462","verdict":"keep"}
 {"id":"Q138875275","verdict":"keep","countries":["DE"],"reason":"Tegernsee cherry torte; country list was empty"}
 {"id":"Q138918853","verdict":"keep"}
-{"id":"Q138950054","verdict":"keep"}
-{"id":"Q138950659","verdict":"keep"}
+{"id":"Q138950054","verdict":"keep","countries":["GB"],"reason":"This tortilla-fries-doner hoagie is a Scottish takeaway wrap."}
+{"id":"Q138950659","verdict":"keep","countries":["DE","US"],"reason":"Panoramic sugar eggs have German and American Easter confectionery traditions."}
 {"id":"Q138951067","verdict":"keep","countries":["CH"],"reason":"Grisons Christmas cookies; country list was empty"}
 {"id":"Q138979020","verdict":"keep"}
 {"id":"Q138992","verdict":"remove","countries":["CH"],"reason":"Second opinion: Rheintaler Ribelmais is the milled maize ingredient, not the cooked Ribel dish; no recipe (https://www.patrimoineculinaire.ch/Prodotto/Rheintaler-Ribelmais-AOP/285)."}
