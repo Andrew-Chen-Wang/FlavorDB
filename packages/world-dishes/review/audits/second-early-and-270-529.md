@@ -15,3 +15,5 @@ Corrections committed:
 r-300 cannot yet be audited because its actual batch file is absent.
 
 All assigned remove/countries audits are complete except r-300, whose actual batch file is absent. Batches r-306 through r-319 were reassigned to the checker worker and are recorded separately.
+
+Final r-453 appended-tail delta audited against each full available source, unchanged: `wikibooks-ru:цыпленок-мельбурн` (AU, explicitly Australian Melbourne chicken), `wikibooks-ru:чак-чак` (RU/KZ, Tatar/Bashkir sweet with Kazakh tradition), `wikibooks-ru:чакапули` (GE, Georgian lamb/tarragon/tkemali stew).
