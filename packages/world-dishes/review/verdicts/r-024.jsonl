@@ -6,5 +6,5 @@
 {"id":"Q131844808","verdict":"keep","recipes":[{"source":"https://ru.wikibooks.org/wiki/%D0%A0%D0%B5%D1%86%D0%B5%D0%BF%D1%82%3A%D0%91%D0%B8%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%B8%D0%B7_%D1%82%D1%8E%D0%BB%D1%8C%D0%BA%D0%B8","status":"ok"}]}
 {"id":"Q13212332","verdict":"keep","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FRisi_e_bisi","status":"ok"}]}
 {"id":"Q132158365","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FLevesek%2FH%C3%BAsleves","status":"ok"}]}
-{"id":"Q13220342","verdict":"keep","countries":["BE","NL"],"reason":"Limburg vlaai is from both Belgium and the Netherlands; list had BE only","recipes":[{"source":"https://nl.wikibooks.org/wiki/Kookboek%2FVlaai","status":"ok"}]}
+{"id":"Q13220342","verdict":"keep","countries":["BE","NL"],"reason":"Limburg vlaai belongs to both Belgium and the Netherlands.","recipes":[{"source":"https://nl.wikibooks.org/wiki/Kookboek%2FVlaai","status":"ok"}]}
 {"id":"Q13276","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FCake","status":"ok"},{"source":"https://nl.wikibooks.org/wiki/Kookboek%2FCake","status":"ok"}]}
