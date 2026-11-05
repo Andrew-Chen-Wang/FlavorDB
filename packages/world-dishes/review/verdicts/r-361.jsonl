@@ -31,7 +31,7 @@
 {"id":"wikibooks-pl:kräftströmming","verdict":"keep","countries":["SE"],"reason":"Swedish baked herring dish","recipes":[{"source":"https://pl.wikibooks.org/wiki/Ksi%C4%85%C5%BCka_kucharska%2FKr%C3%A4ftstr%C3%B6mming","status":"ok"}]}
 {"id":"wikibooks-pl:krem-cytrynowy","verdict":"keep","recipes":[{"source":"https://pl.wikibooks.org/wiki/Ksi%C4%85%C5%BCka_kucharska%2FKrem_cytrynowy","status":"ok"}]}
 {"id":"wikibooks-pl:krem-czosnkowy","verdict":"keep","recipes":[{"source":"https://pl.wikibooks.org/wiki/Ksi%C4%85%C5%BCka_kucharska%2FKrem_czosnkowy","status":"ok"}]}
-{"id":"wikibooks-pl:krem-z-selera","verdict":"keep","countries":["US"],"reason":"Cream of celery soup from American Dixieland Recipes","recipes":[{"source":"https://pl.wikibooks.org/wiki/Ksi%C4%85%C5%BCka_kucharska%2FKrem_z_selera","status":"ok"}]}
+{"id":"wikibooks-pl:krem-z-selera","verdict":"keep","reason":"Generic cream of celery soup; cookbook provenance alone does not establish a country association.","recipes":[{"source":"https://pl.wikibooks.org/wiki/Ksi%C4%85%C5%BCka_kucharska%2FKrem_z_selera","status":"ok"}]}
 {"id":"wikibooks-pl:kremowy-chłodnik","verdict":"keep","recipes":[{"source":"https://pl.wikibooks.org/wiki/Ksi%C4%85%C5%BCka_kucharska%2FKremowy_ch%C5%82odnik","status":"ok"}]}
 {"id":"wikibooks-pl:kremowy-chłodnik-z-cukinii","verdict":"keep","recipes":[{"source":"https://pl.wikibooks.org/wiki/Ksi%C4%85%C5%BCka_kucharska%2FKremowy_ch%C5%82odnik_z_cukinii","status":"ok"}]}
 {"id":"wikibooks-pl:krewetki-najlepsze","verdict":"keep","recipes":[{"source":"https://pl.wikibooks.org/wiki/Ksi%C4%85%C5%BCka_kucharska%2FKrewetki_%E2%80%9Enajlepsze%E2%80%9D","status":"ok"}]}
