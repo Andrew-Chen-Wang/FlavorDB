@@ -14,7 +14,7 @@
 {"id":"Q11614016","verdict":"keep"}
 {"id":"Q11614558","verdict":"keep"}
 {"id":"Q11614575","verdict":"keep","countries":["JP"],"reason":"Japanese dish; countries were empty"}
-{"id":"Q116146103","verdict":"keep"}
+{"id":"Q116146103","verdict":"keep","countries":["US","GB"],"reason":"Battercake is an English-language griddlecake term with American and British pancake ties."}
 {"id":"Q116150719","verdict":"keep"}
 {"id":"Q11615097","verdict":"keep","countries":["JP"],"reason":"Japanese bolo; countries were empty"}
 {"id":"Q11616139","verdict":"keep","countries":["JP"],"reason":"Japanese wagashi; countries were empty"}
@@ -22,7 +22,7 @@
 {"id":"Q11616701","verdict":"keep"}
 {"id":"Q116170384","verdict":"keep","countries":["CH"],"reason":"Swiss Burli pastry; countries were empty"}
 {"id":"Q116170681","verdict":"keep"}
-{"id":"Q116172515","verdict":"keep"}
+{"id":"Q116172515","verdict":"keep","countries":["BY","RU","UA"],"reason":"Bird-shaped lark cookies belong to Belarusian, Russian and Ukrainian spring rituals."}
 {"id":"Q116172687","verdict":"keep","countries":["RO","MD"],"reason":"Romanian and Moldovan pastries; countries were empty"}
 {"id":"Q116177306","verdict":"keep"}
 {"id":"Q11618004","verdict":"keep","countries":["JP"],"reason":"Japanese miso soup; countries were empty"}
@@ -33,7 +33,7 @@
 {"id":"Q11618150","verdict":"keep"}
 {"id":"Q116182117","verdict":"keep"}
 {"id":"Q11618421","verdict":"keep","countries":["JP"],"reason":"Japanese confection from Oita; countries were empty"}
-{"id":"Q116186231","verdict":"keep"}
+{"id":"Q116186231","verdict":"keep","countries":["BO","AR","CL"],"reason":"Lacayote sweet empanadas have Bolivian and southern Andean/Argentine-Chilean traditions."}
 {"id":"Q116188846","verdict":"keep"}
 {"id":"Q11619010","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
 {"id":"Q116197926","verdict":"keep"}
@@ -49,9 +49,9 @@
 {"id":"Q11622161","verdict":"keep"}
 {"id":"Q11622168","verdict":"keep"}
 {"id":"Q11622329","verdict":"keep","countries":["JP"],"reason":"Japanese miso soup; countries were empty"}
-{"id":"Q116233410","verdict":"keep"}
+{"id":"Q116233410","verdict":"keep","countries":["JP"],"reason":"Chicken karaage is Japanese fried chicken."}
 {"id":"Q116235109","verdict":"keep"}
-{"id":"Q116244942","verdict":"keep"}
+{"id":"Q116244942","verdict":"keep","countries":["DE","PL","AT"],"reason":"Yeast cakes have established German, Polish and Austrian baking traditions."}
 {"id":"Q11624558","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
 {"id":"Q116250424","verdict":"keep"}
 {"id":"Q116250839","verdict":"keep"}
@@ -59,28 +59,28 @@
 {"id":"Q11625583","verdict":"keep"}
 {"id":"Q11625632","verdict":"keep","countries":["JP"],"reason":"Japanese senbei; countries were empty"}
 {"id":"Q116256635","verdict":"keep","countries":["IT"],"reason":"Italian pasta dish; countries were empty"}
-{"id":"Q116259944","verdict":"keep"}
+{"id":"Q116259944","verdict":"keep","countries":["US","NL"],"reason":"Hash brownies have American brownie and Dutch cannabis-bakery associations."}
 {"id":"Q11626129","verdict":"keep","countries":["JP"],"reason":"Japanese local burger; countries were empty"}
 {"id":"Q11626556","verdict":"remove","reason":"packaged instant noodle product class, not a dish"}
-{"id":"Q116269610","verdict":"keep"}
-{"id":"Q116270157","verdict":"keep"}
+{"id":"Q116269610","verdict":"keep","countries":["FR","ES"],"reason":"Potato omelette has French version naming and Spanish tortilla ties."}
+{"id":"Q116270157","verdict":"keep","countries":["GB"],"reason":"Starch-based imitation custard belongs to the British eggless custard tradition."}
 {"id":"Q116271874","verdict":"keep"}
 {"id":"Q11627190","verdict":"keep"}
 {"id":"Q116274066","verdict":"remove","reason":"museum object (Metropolitan Museum loaf), not a dish"}
-{"id":"Q116285069","verdict":"keep"}
+{"id":"Q116285069","verdict":"keep","countries":["US"],"reason":"Candy cane cookies are American Christmas cookies."}
 {"id":"Q11630693","verdict":"keep","countries":["JP"],"reason":"Japanese oshizushi; countries were empty"}
 {"id":"Q116307508","verdict":"remove","reason":"museum object (ice cream cup at the Met), not a dish"}
-{"id":"Q1163138","verdict":"keep"}
+{"id":"Q1163138","verdict":"keep","countries":["IT","FR","ES","CN"],"reason":"Candied fruit has Italian, French, Spanish and Chinese confectionery traditions."}
 {"id":"Q11631777","verdict":"keep","countries":["JP"],"reason":"Japanese chori-pan; countries were empty"}
 {"id":"Q116327","verdict":"keep"}
 {"id":"Q11633146","verdict":"keep","countries":["JP"],"reason":"Japanese bread; countries were empty"}
 {"id":"Q11633158","verdict":"keep"}
 {"id":"Q11633166","verdict":"keep"}
-{"id":"Q11633167","verdict":"keep"}
+{"id":"Q11633167","verdict":"keep","countries":["JP"],"reason":"Tofu castella is Japanese regional confectionery."}
 {"id":"Q11633169","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
 {"id":"Q11633170","verdict":"keep"}
 {"id":"Q11633171","verdict":"keep"}
-{"id":"Q11633174","verdict":"keep"}
+{"id":"Q11633174","verdict":"keep","countries":["CN","TW"],"reason":"Dougan is Chinese and Taiwanese firm prepared tofu."}
 {"id":"Q11633778","verdict":"keep"}
 {"id":"Q11634325","verdict":"keep","countries":["JP"],"reason":"Japanese tonkotsu; countries were empty"}
 {"id":"Q11634490","verdict":"keep"}
@@ -105,7 +105,7 @@
 {"id":"Q11644489","verdict":"keep"}
 {"id":"Q11644490","verdict":"keep","countries":["JP"],"reason":"Japanese dango; countries were empty"}
 {"id":"Q11644491","verdict":"keep"}
-{"id":"Q116444933","verdict":"keep"}
+{"id":"Q116444933","verdict":"keep","countries":["DE"],"reason":"Werdaer Zuckermannle is German local pastry."}
 {"id":"Q11644495","verdict":"keep","countries":["JP"],"reason":"Japanese mochi; countries were empty"}
 {"id":"Q11644814","verdict":"keep"}
 {"id":"Q116456367","verdict":"keep"}
@@ -118,27 +118,27 @@
 {"id":"Q11648259","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
 {"id":"Q116490628","verdict":"keep"}
 {"id":"Q11649570","verdict":"keep","countries":["JP"],"reason":"Japanese yakitori; countries were empty"}
-{"id":"Q11650401","verdict":"keep"}
-{"id":"Q116506414","verdict":"keep"}
+{"id":"Q11650401","verdict":"keep","countries":["JP","US"],"reason":"Tablet sweets have established Japanese ramune and American pressed-candy traditions."}
+{"id":"Q116506414","verdict":"keep","countries":["CN","IT","DE"],"reason":"Egg noodles have Chinese, Italian and German traditions."}
 {"id":"Q11650717","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
 {"id":"Q11650870","verdict":"keep","countries":["JP"],"reason":"Japanese donburi; countries were empty"}
 {"id":"Q11652139","verdict":"keep"}
 {"id":"Q11652330","verdict":"keep"}
-{"id":"Q116528304","verdict":"keep"}
-{"id":"Q116528331","verdict":"keep"}
+{"id":"Q116528304","verdict":"keep","countries":["DE","US"],"reason":"Homemade potato salad follows established German and American dish associations."}
+{"id":"Q116528331","verdict":"keep","countries":["FR"],"reason":"Vegetable gratin is a French culinary form and French-named version."}
 {"id":"Q116543927","verdict":"keep","countries":["PT"],"reason":"Portuguese skewer dish; countries were empty"}
 {"id":"Q11656558","verdict":"keep","countries":["JP"],"reason":"Japanese nabemono; countries were empty"}
 {"id":"Q11657492","verdict":"keep","countries":["JP"],"reason":"Japanese mochi; countries were empty"}
 {"id":"Q11659802","verdict":"keep","countries":["JP"],"reason":"Japanese kakigori; countries were empty"}
 {"id":"Q116602313","verdict":"keep"}
-{"id":"Q11660390","verdict":"keep"}
+{"id":"Q11660390","verdict":"keep","countries":["JP"],"reason":"Electric bread is Japanese denki-pan."}
 {"id":"Q11660771","verdict":"remove","reason":"Kokonoehonpo Tamazawa branded packaged candy product"}
-{"id":"Q116613910","verdict":"keep"}
+{"id":"Q116613910","verdict":"keep","countries":["CN","TW"],"reason":"Preserved radish is explicitly Chinese, also central to Taiwanese cuisine."}
 {"id":"Q11661478","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
 {"id":"Q116620968","verdict":"remove","reason":"packaged chocolate bar brand, not a dish"}
 {"id":"Q116622800","verdict":"keep"}
 {"id":"Q11662686","verdict":"keep"}
-{"id":"Q116638599","verdict":"keep"}
+{"id":"Q116638599","verdict":"keep","countries":["BR"],"reason":"Mingau pitinga is a Brazilian manioc porridge."}
 {"id":"Q11664516","verdict":"keep","countries":["JP"],"reason":"Japanese oshizushi; countries were empty"}
 {"id":"Q11664945","verdict":"keep"}
 {"id":"Q11664953","verdict":"keep","countries":["JP"],"reason":"Japanese bread; countries were empty"}
@@ -151,7 +151,7 @@
 {"id":"Q11668712","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
 {"id":"Q116689799","verdict":"keep"}
 {"id":"Q11669310","verdict":"keep"}
-{"id":"Q116693687","verdict":"keep"}
+{"id":"Q116693687","verdict":"keep","countries":["PL"],"reason":"Herring in oil is the Polish sledz w oleju preparation."}
 {"id":"Q11669466","verdict":"keep","countries":["JP"],"reason":"Japanese korokke; countries were empty"}
 {"id":"Q116698160","verdict":"keep"}
 {"id":"Q116698172","verdict":"keep"}
@@ -195,12 +195,12 @@
 {"id":"Q11675615","verdict":"keep","countries":["JP"],"reason":"Japanese nabemono; countries were empty"}
 {"id":"Q11675813","verdict":"keep"}
 {"id":"Q11675821","verdict":"keep"}
-{"id":"Q11675829","verdict":"keep"}
+{"id":"Q11675829","verdict":"keep","countries":["JP","US"],"reason":"Chicken ham has Japanese torihamu and American prepared-ham traditions."}
 {"id":"Q11675857","verdict":"keep","countries":["JP"],"reason":"Japanese mochi; countries were empty"}
 {"id":"Q11675921","verdict":"keep","countries":["JP"],"reason":"Japanese manju; countries were empty"}
 {"id":"Q11676454","verdict":"remove","reason":"deer feed (senbei for deer), not food for people"}
 {"id":"Q11676485","verdict":"keep"}
-{"id":"Q116765639","verdict":"keep"}
+{"id":"Q116765639","verdict":"keep","countries":["CN"],"reason":"Five-nut mooncake is Chinese confectionery."}
 {"id":"Q116769615","verdict":"remove","reason":"category (Swiss cheeses and dairy products), not a dish"}
 {"id":"Q11677381","verdict":"keep","countries":["JP"],"reason":"Japanese senbei; countries were empty"}
 {"id":"Q11677382","verdict":"keep"}
@@ -215,16 +215,16 @@
 {"id":"Q11678020","verdict":"keep"}
 {"id":"Q116785309","verdict":"keep"}
 {"id":"Q116786071","verdict":"remove","reason":"product type (dark chocolate standard), not a dish"}
-{"id":"Q116786436","verdict":"keep","reason":"Prepared warm chocolate dipping sauce, not a raw ingredient or brand"}
+{"id":"Q116786436","verdict":"keep","reason":"Dipping chocolate is associated with Swiss fondue and Belgian/French chocolate traditions.","countries":["CH","BE","FR"]}
 {"id":"Q116787453","verdict":"remove","reason":"product type (craft chocolate), not a dish"}
 {"id":"Q11678836","verdict":"keep"}
-{"id":"Q116788485","verdict":"keep"}
+{"id":"Q116788485","verdict":"keep","countries":["IT"],"reason":"Sugo Marinetti is explicitly Italian sauce."}
 {"id":"Q11678910","verdict":"keep","countries":["JP"],"reason":"Japanese okowa; countries were empty"}
 {"id":"Q11678964","verdict":"keep"}
 {"id":"Q116790224","verdict":"keep","countries":["FR"],"reason":"French dish; countries were empty"}
 {"id":"Q11679965","verdict":"keep"}
 {"id":"Q11680910","verdict":"keep"}
-{"id":"Q116814536","verdict":"keep"}
+{"id":"Q116814536","verdict":"keep","countries":["FR","GB","US"],"reason":"Edible dress cake belongs to established French, British and American decorative cake traditions."}
 {"id":"Q11681782","verdict":"keep","countries":["ES"],"reason":"Valencian dish; countries were empty"}
 {"id":"Q11682627","verdict":"keep","countries":["MX"],"reason":"Mexican dish; countries were empty"}
 {"id":"Q116842438","verdict":"keep"}
@@ -235,7 +235,7 @@
 {"id":"Q116909753","verdict":"keep"}
 {"id":"Q116910905","verdict":"keep"}
 {"id":"Q11691713","verdict":"keep"}
-{"id":"Q11694313","verdict":"keep"}
+{"id":"Q11694313","verdict":"keep","countries":["DZ"],"reason":"Djamilah is an Algerian cake."}
 {"id":"Q116947279","verdict":"keep"}
 {"id":"Q11696257","verdict":"keep"}
 {"id":"Q116972170","verdict":"keep"}
@@ -243,31 +243,31 @@
 {"id":"Q116984509","verdict":"keep"}
 {"id":"Q116991","verdict":"keep"}
 {"id":"Q11699222","verdict":"keep"}
-{"id":"Q116995647","verdict":"keep"}
+{"id":"Q116995647","verdict":"keep","countries":["HK","TW"],"reason":"Salt-and-pepper pork chop rice is associated with Hong Kong and Taiwanese rice dishes."}
 {"id":"Q116995676","verdict":"keep"}
-{"id":"Q11700033","verdict":"keep"}
+{"id":"Q11700033","verdict":"keep","countries":["RU","AM","UA"],"reason":"Ponchik doughnuts have Russian, Armenian and Ukrainian traditions."}
 {"id":"Q11700178","verdict":"keep"}
-{"id":"Q11701172","verdict":"keep"}
+{"id":"Q11701172","verdict":"keep","countries":["PL"],"reason":"Goly are Polish potato dumplings."}
 {"id":"Q117011849","verdict":"keep"}
 {"id":"Q11701587","verdict":"keep"}
-{"id":"Q11703047","verdict":"keep"}
-{"id":"Q11704720","verdict":"keep"}
+{"id":"Q11703047","verdict":"keep","countries":["ES"],"reason":"Asturian mushroom scrambled eggs are Spanish regional cuisine."}
+{"id":"Q11704720","verdict":"keep","countries":["ES"],"reason":"Trempo is Mallorcan salad."}
 {"id":"Q117051304","verdict":"keep"}
-{"id":"Q11705466","verdict":"keep"}
+{"id":"Q11705466","verdict":"keep","countries":["ES"],"reason":"Zarajo is the Cuenca Spanish lamb-intestine dish."}
 {"id":"Q117061527","verdict":"keep"}
-{"id":"Q117068284","verdict":"keep"}
-{"id":"Q117072235","verdict":"keep"}
+{"id":"Q117068284","verdict":"keep","countries":["NL"],"reason":"Reepkoeke is Frisian Dutch cookie."}
+{"id":"Q117072235","verdict":"keep","countries":["AT","IT","BE","DE"],"reason":"Wafer biscuits have Austrian, Italian, Belgian and German traditions."}
 {"id":"Q117084700","verdict":"keep"}
 {"id":"Q117084707","verdict":"keep"}
 {"id":"Q117148246","verdict":"keep"}
 {"id":"Q11715140","verdict":"keep"}
 {"id":"Q11716143","verdict":"remove","reason":"ingredient (mutton meat), not a dish"}
-{"id":"Q11716216","verdict":"keep"}
+{"id":"Q11716216","verdict":"keep","countries":["GB","FR","JP","CN"],"reason":"Soft-boiled eggs have British, French, Japanese and Chinese culinary associations."}
 {"id":"Q117187798","verdict":"keep"}
 {"id":"Q117192636","verdict":"keep","countries":["DE"],"reason":"German bread roll; countries were empty"}
 {"id":"Q117195224","verdict":"keep"}
-{"id":"Q117220543","verdict":"keep"}
-{"id":"Q117234715","verdict":"keep"}
+{"id":"Q117220543","verdict":"keep","countries":["IN","PK","BD","LK","NP"],"reason":"Dal curry is shared South Asian food, explicitly Indian in this entry."}
+{"id":"Q117234715","verdict":"keep","countries":["US"],"reason":"Burger bun belongs to American hamburger cooking."}
 {"id":"Q117246552","verdict":"keep"}
 {"id":"Q11725557","verdict":"remove","reason":"history topic page (bread in ancient Egypt), not a dish"}
 {"id":"Q11725980","verdict":"remove","reason":"product type (decorative candy), not a dish"}
@@ -275,8 +275,8 @@
 {"id":"Q117270376","verdict":"keep"}
 {"id":"Q11727138","verdict":"remove","reason":"alcoholic drink (blackberry spirit), not a dish"}
 {"id":"Q117275822","verdict":"keep","countries":["JP"],"reason":"Prepared vinegar-cured fish as well as its preparation method"}
-{"id":"Q1172858","verdict":"keep"}
-{"id":"Q117306296","verdict":"keep"}
+{"id":"Q1172858","verdict":"keep","countries":["DE"],"reason":"Shelf-stable bread has German preserved-bread tradition; last-resort industrial version association."}
+{"id":"Q117306296","verdict":"keep","countries":["DE"],"reason":"Bacheschnette is German dialect pastry naming; last-resort language association."}
 {"id":"Q117307020","verdict":"keep","countries":["RU"],"reason":"Soviet-era Russian cake; countries were empty"}
 {"id":"Q117307294","verdict":"keep"}
 {"id":"Q117307969","verdict":"keep"}
@@ -284,9 +284,9 @@
 {"id":"Q117313316","verdict":"keep"}
 {"id":"Q117319691","verdict":"keep"}
 {"id":"Q117320002","verdict":"keep"}
-{"id":"Q117353093","verdict":"keep"}
+{"id":"Q117353093","verdict":"keep","countries":["NL","US"],"reason":"Hash cookies have Dutch and American cannabis-bakery traditions."}
 {"id":"Q117353679","verdict":"keep"}
-{"id":"Q117354285","verdict":"keep"}
+{"id":"Q117354285","verdict":"keep","countries":["FR"],"reason":"Pied de cochon grille is French grilled pigs-foot dish."}
 {"id":"Q117359905","verdict":"keep"}
 {"id":"Q117378281","verdict":"keep","countries":["DE"],"reason":"German pudding; countries were empty"}
 {"id":"Q117382907","verdict":"keep"}
@@ -295,6 +295,6 @@
 {"id":"Q11744324","verdict":"keep","countries":["PL"],"reason":"Polish cutlet; countries were empty"}
 {"id":"Q11744325","verdict":"keep","countries":["PL"],"reason":"Polish potato cutlets; countries were empty"}
 {"id":"Q117450518","verdict":"keep","countries":["ES"],"reason":"Catalan ice cream; countries were empty"}
-{"id":"Q117458486","verdict":"keep"}
+{"id":"Q117458486","verdict":"keep","countries":["IL"],"reason":"Passover kosher rolls are a Hebrew/Jewish Israeli recipe version."}
 {"id":"Q117459468","verdict":"keep"}
 {"id":"Q117460089","verdict":"keep"}

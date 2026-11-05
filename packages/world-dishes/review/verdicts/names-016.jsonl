@@ -16,10 +16,10 @@
 {"id":"Q12304464","verdict":"keep","countries":["DK"],"reason":"Danish cake; countries were empty"}
 {"id":"Q12305759","verdict":"keep","countries":["DK"],"reason":"Danish confection; countries were empty"}
 {"id":"Q123058225","verdict":"keep"}
-{"id":"Q123090891","verdict":"keep"}
+{"id":"Q123090891","verdict":"keep","countries":["US","GB"],"reason":"Chicken sandwiches have established American and British traditions."}
 {"id":"Q123091140","verdict":"keep","countries":["HK"],"reason":"Hong Kong bakery item; countries were empty"}
 {"id":"Q123092826","verdict":"keep","countries":["PT"],"reason":"Traditional Portuguese papo-seco bread roll"}
-{"id":"Q123093204","verdict":"keep"}
+{"id":"Q123093204","verdict":"keep","countries":["US","IT"],"reason":"Cheese sticks have American snack and Italian mozzarella-stick associations."}
 {"id":"Q1231078","verdict":"keep"}
 {"id":"Q12311997","verdict":"keep"}
 {"id":"Q123124821","verdict":"keep"}
@@ -27,20 +27,20 @@
 {"id":"Q123142484","verdict":"remove","reason":"branded commercial ice cream flavour"}
 {"id":"Q123142525","verdict":"keep"}
 {"id":"Q123143629","verdict":"keep","countries":["JP"],"reason":"Japanese donburi; countries were empty"}
-{"id":"Q123143631","verdict":"keep"}
+{"id":"Q123143631","verdict":"keep","countries":["GR","TR","IL"],"reason":"Independent second country review: Egg-lemon sauce includes Greek avgolemono, Turkish terbiye and Sephardic agristada traditions; added Israeli Jewish association."}
 {"id":"Q12314775","verdict":"keep","countries":["DE"],"reason":"German cake; countries were empty"}
 {"id":"Q123151632","verdict":"keep"}
 {"id":"Q123154136","verdict":"keep"}
 {"id":"Q123168373","verdict":"keep"}
 {"id":"Q123171413","verdict":"keep"}
 {"id":"Q123177512","verdict":"keep"}
-{"id":"Q123181871","verdict":"keep"}
+{"id":"Q123181871","verdict":"keep","countries":["GE"],"reason":"Kababi is the Georgian minced-meat kebab form."}
 {"id":"Q123194106","verdict":"keep","countries":["MG"],"reason":"Malagasy dish; countries were empty"}
 {"id":"Q123197340","verdict":"keep"}
 {"id":"Q123199835","verdict":"keep"}
 {"id":"Q123201806","verdict":"keep","countries":["FR"],"reason":"French bread; countries were empty"}
 {"id":"Q123204962","verdict":"keep"}
-{"id":"Q12321295","verdict":"keep"}
+{"id":"Q12321295","verdict":"keep","countries":["NO","DK"],"reason":"Karbonade is explicitly Nordic, especially Norwegian and Danish meat patties."}
 {"id":"Q123221343","verdict":"keep"}
 {"id":"Q123245043","verdict":"keep"}
 {"id":"Q1232535","verdict":"keep"}
@@ -48,14 +48,14 @@
 {"id":"Q123256158","verdict":"keep"}
 {"id":"Q1232663","verdict":"keep"}
 {"id":"Q123271460","verdict":"keep","countries":["MX"],"reason":"Mexican Day of the Dead candy; countries were empty"}
-{"id":"Q123272959","verdict":"keep"}
-{"id":"Q123277538","verdict":"keep"}
+{"id":"Q123272959","verdict":"keep","countries":["BO"],"reason":"Tawa tawa is Bolivian fried sweet dough."}
+{"id":"Q123277538","verdict":"keep","countries":["US","MX","CN"],"reason":"Corn on the cob has American, Mexican and Chinese prepared-food traditions."}
 {"id":"Q12328281","verdict":"keep","countries":["DK"],"reason":"Danish cake; countries were empty"}
 {"id":"Q123298878","verdict":"keep"}
 {"id":"Q123302266","verdict":"keep"}
 {"id":"Q12330513","verdict":"keep"}
 {"id":"Q123310300","verdict":"keep"}
-{"id":"Q123314397","verdict":"keep"}
+{"id":"Q123314397","verdict":"keep","countries":["CZ","SK","DE","AT","PL"],"reason":"Potato-dough dumplings are shared Czech, Slovak, German, Austrian and Polish food."}
 {"id":"Q1233145","verdict":"keep"}
 {"id":"Q123328796","verdict":"keep"}
 {"id":"Q1233453","verdict":"keep"}
@@ -66,10 +66,10 @@
 {"id":"Q12336720","verdict":"keep"}
 {"id":"Q123368017","verdict":"keep","countries":["ES"],"reason":"Catalan speciality; countries were empty"}
 {"id":"Q123377363","verdict":"keep"}
-{"id":"Q123383207","verdict":"keep"}
+{"id":"Q123383207","verdict":"keep","countries":["FI"],"reason":"Ruisleipa is explicitly Finnish rye bread."}
 {"id":"Q12338752","verdict":"keep"}
-{"id":"Q12338859","verdict":"keep"}
-{"id":"Q123396435","verdict":"keep"}
+{"id":"Q12338859","verdict":"keep","countries":["DK"],"reason":"Tebirkes is explicitly Danish pastry."}
+{"id":"Q123396435","verdict":"keep","countries":["FI"],"reason":"Reikaleipa is Finnish rye bread."}
 {"id":"Q123398690","verdict":"keep"}
 {"id":"Q123398722","verdict":"keep"}
 {"id":"Q123398942","verdict":"keep"}
@@ -84,9 +84,9 @@
 {"id":"Q123422106","verdict":"keep"}
 {"id":"Q123440105","verdict":"keep"}
 {"id":"Q123441","verdict":"keep","countries":["DE"],"reason":"German sausage from Hesse; countries were empty"}
-{"id":"Q12344306","verdict":"keep"}
+{"id":"Q12344306","verdict":"keep","countries":["FR","DE","GB"],"reason":"Apple compote has French, German and British traditions."}
 {"id":"Q123456287","verdict":"keep","countries":["AT","DE","CZ"],"reason":"Liver dumpling soup has Austrian German and Czech traditions"}
-{"id":"Q123457994","verdict":"keep"}
+{"id":"Q123457994","verdict":"keep","countries":["NL"],"reason":"Crompouce is explicitly Dutch pastry."}
 {"id":"Q123458338","verdict":"keep"}
 {"id":"Q123459652","verdict":"keep"}
 {"id":"Q123461224","verdict":"remove","reason":"museum collection object, not a dish"}
@@ -105,21 +105,21 @@
 {"id":"Q123503171","verdict":"keep"}
 {"id":"Q123503313","verdict":"keep"}
 {"id":"Q12350703","verdict":"remove","reason":"a library/bar/language school, not a dish"}
-{"id":"Q123507458","verdict":"keep"}
+{"id":"Q123507458","verdict":"keep","countries":["IT","LB","SY"],"reason":"Bread salad has Italian panzanella and Levantine fattoush traditions."}
 {"id":"Q123510600","verdict":"keep"}
 {"id":"Q123510771","verdict":"keep"}
 {"id":"Q123510827","verdict":"keep"}
 {"id":"Q123510977","verdict":"keep"}
 {"id":"Q123511003","verdict":"keep"}
 {"id":"Q123511576","verdict":"keep"}
-{"id":"Q123511586","verdict":"keep"}
+{"id":"Q123511586","verdict":"keep","countries":["JP"],"reason":"Nousaba is Japanese regional preserved shark dish."}
 {"id":"Q123511654","verdict":"keep"}
 {"id":"Q123514652","verdict":"keep"}
 {"id":"Q123514659","verdict":"keep"}
 {"id":"Q123514855","verdict":"keep"}
 {"id":"Q123515210","verdict":"keep"}
 {"id":"Q123515252","verdict":"keep"}
-{"id":"Q123515253","verdict":"keep"}
+{"id":"Q123515253","verdict":"keep","countries":["JP"],"reason":"Haba zoni is Japanese seaweed New Year soup."}
 {"id":"Q123515615","verdict":"keep"}
 {"id":"Q123515650","verdict":"keep"}
 {"id":"Q123515682","verdict":"keep"}
@@ -127,7 +127,7 @@
 {"id":"Q123518001","verdict":"keep"}
 {"id":"Q123529232","verdict":"keep","countries":["DE"],"reason":"German meat salad; countries were empty"}
 {"id":"Q123531411","verdict":"keep"}
-{"id":"Q123537046","verdict":"keep"}
+{"id":"Q123537046","verdict":"keep","countries":["FR"],"reason":"Carmen salad has French named composed-salad tradition."}
 {"id":"Q12353750","verdict":"keep"}
 {"id":"Q123550994","verdict":"keep"}
 {"id":"Q123561547","verdict":"keep"}
@@ -154,33 +154,33 @@
 {"id":"Q123765095","verdict":"remove","reason":"fruit (pomelo), raw ingredient not a dish"}
 {"id":"Q1238064","verdict":"keep"}
 {"id":"Q1238105","verdict":"keep"}
-{"id":"Q123818587","verdict":"keep"}
-{"id":"Q123818932","verdict":"keep"}
+{"id":"Q123818587","verdict":"keep","countries":["BR","GY","VE"],"reason":"Fermented cassava bread belongs to Amazonian and Guianan/Venezuelan cassava traditions."}
+{"id":"Q123818932","verdict":"keep","countries":["BR","CO","VE"],"reason":"Cassava starch bread has Brazilian, Colombian and Venezuelan traditions."}
 {"id":"Q123818960","verdict":"keep"}
 {"id":"Q1238597","verdict":"keep"}
 {"id":"Q12386330","verdict":"keep"}
 {"id":"Q123907132","verdict":"keep","countries":["LK"],"reason":"Sri Lankan roti; countries were empty"}
 {"id":"Q123907368","verdict":"keep"}
 {"id":"Q123908111","verdict":"keep"}
-{"id":"Q123909944","verdict":"keep"}
-{"id":"Q123909957","verdict":"keep"}
-{"id":"Q123910268","verdict":"keep"}
+{"id":"Q123909944","verdict":"keep","countries":["SE"],"reason":"Gummekaka is explicitly from Vastergotland, Sweden."}
+{"id":"Q123909957","verdict":"keep","countries":["SE","FI"],"reason":"Thursday pea soup and pancakes is a Swedish and Finnish tradition."}
+{"id":"Q123910268","verdict":"keep","countries":["US"],"reason":"Kentucky cream candy is explicitly American."}
 {"id":"Q123913891","verdict":"keep","countries":["KH","VN"],"reason":"Cambodian and Vietnamese dish; countries were empty"}
-{"id":"Q123925175","verdict":"keep"}
+{"id":"Q123925175","verdict":"keep","countries":["CZ"],"reason":"Bramborovy knedlik is explicitly Czech potato dumpling."}
 {"id":"Q123953040","verdict":"keep"}
 {"id":"Q12397045","verdict":"keep"}
 {"id":"Q12397046","verdict":"keep"}
 {"id":"Q12397833","verdict":"keep","countries":["ES"],"reason":"Galician dish; countries were empty"}
 {"id":"Q1239975","verdict":"keep","countries":["AT"],"reason":"Austrian pastry; countries were empty"}
-{"id":"Q123999838","verdict":"keep"}
-{"id":"Q124007650","verdict":"keep"}
+{"id":"Q123999838","verdict":"keep","countries":["KR"],"reason":"Guseonwangdo-go is Korean medicinal rice cake."}
+{"id":"Q124007650","verdict":"keep","countries":["PL"],"reason":"Dried-plum pierogi are the Polish recipe version."}
 {"id":"Q12401202","verdict":"keep"}
 {"id":"Q1240158","verdict":"keep"}
 {"id":"Q124025073","verdict":"keep","countries":["DE"],"reason":"German bread roll; countries were empty"}
 {"id":"Q124030850","verdict":"keep"}
 {"id":"Q124030874","verdict":"keep"}
 {"id":"Q124032346","verdict":"keep"}
-{"id":"Q124044180","verdict":"keep"}
+{"id":"Q124044180","verdict":"keep","countries":["TW"],"reason":"Gedao harvest meals are Taiwanese farming food."}
 {"id":"Q124048723","verdict":"keep"}
 {"id":"Q12404884","verdict":"keep"}
 {"id":"Q124053312","verdict":"keep","countries":["CN"],"reason":"Shandong dish; countries were empty"}
@@ -188,21 +188,21 @@
 {"id":"Q124060435","verdict":"keep","countries":["NL"],"reason":"Dutch candy; countries were empty"}
 {"id":"Q124060793","verdict":"keep"}
 {"id":"Q124063944","verdict":"keep"}
-{"id":"Q124071892","verdict":"keep"}
-{"id":"Q124071929","verdict":"keep"}
+{"id":"Q124071892","verdict":"keep","countries":["CN","TH","LA","KH","MM","VN","IN","MY","ID","PH"],"reason":"Independent second country review: Rice cooked in bamboo is also established in India, Malaysia, Indonesia and the Philippines; expanded shared Asian associations."}
+{"id":"Q124071929","verdict":"keep","countries":["KH"],"reason":"Kralan is explicitly Cambodian."}
 {"id":"Q124071932","verdict":"keep","countries":["LA","TH"],"reason":"Lao and Thai dish; countries were empty"}
-{"id":"Q12407548","verdict":"keep"}
+{"id":"Q12407548","verdict":"keep","countries":["AZ"],"reason":"Khenagi belongs to Azerbaijani/Mountain Jewish food traditions."}
 {"id":"Q12408621","verdict":"keep"}
 {"id":"Q12411608","verdict":"keep"}
 {"id":"Q1241190","verdict":"keep"}
-{"id":"Q12412201","verdict":"keep"}
+{"id":"Q12412201","verdict":"keep","countries":["IQ","IL"],"reason":"Tara spinach dish belongs to Iraqi Jewish and Israeli cooking."}
 {"id":"Q124149715","verdict":"keep"}
 {"id":"Q124151552","verdict":"keep"}
 {"id":"Q124168732","verdict":"keep"}
-{"id":"Q12417662","verdict":"keep"}
-{"id":"Q12417834","verdict":"keep"}
-{"id":"Q124216893","verdict":"keep"}
-{"id":"Q12421702","verdict":"keep"}
+{"id":"Q12417662","verdict":"keep","countries":["BD","IN","PK"],"reason":"Independent second country review: Kacchi biryani is tied to Bangladeshi, Indian and Pakistani cooking; added Pakistan rather than restricting the shared biryani form."}
+{"id":"Q12417834","verdict":"keep","countries":["IN","PK"],"reason":"Chicken karahi is explicitly Indian and Pakistani."}
+{"id":"Q124216893","verdict":"keep","countries":["IR"],"reason":"Kachi is Iranian flour pudding."}
+{"id":"Q12421702","verdict":"keep","countries":["IN","LK","TH"],"reason":"Crab curry is explicitly Indian and also commonly tied to Sri Lankan and Thai cooking."}
 {"id":"Q124220537","verdict":"keep"}
 {"id":"Q1242466","verdict":"keep"}
 {"id":"Q124256242","verdict":"keep"}
@@ -213,7 +213,7 @@
 {"id":"Q124283282","verdict":"keep"}
 {"id":"Q124285478","verdict":"keep"}
 {"id":"Q124290148","verdict":"keep"}
-{"id":"Q124296664","verdict":"keep"}
+{"id":"Q124296664","verdict":"keep","countries":["BD","IN"],"reason":"Letka khichri belongs to Bengali rice-lentil cooking."}
 {"id":"Q124296686","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries were empty"}
 {"id":"Q124296701","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries were empty"}
 {"id":"Q124296731","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries were empty"}
@@ -221,15 +221,15 @@
 {"id":"Q124300008","verdict":"keep"}
 {"id":"Q124300526","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries were empty"}
 {"id":"Q124301857","verdict":"keep"}
-{"id":"Q1243043","verdict":"keep"}
+{"id":"Q1243043","verdict":"keep","countries":["US","GB"],"reason":"Sandwich cookies have established American and British biscuit traditions."}
 {"id":"Q124306322","verdict":"keep","countries":["LU"],"reason":"Luxembourgish pastry; countries were empty"}
 {"id":"Q124310690","verdict":"keep","countries":["IT"],"reason":"Italian pasta; countries were empty"}
-{"id":"Q124313304","verdict":"keep"}
+{"id":"Q124313304","verdict":"keep","countries":["ZA"],"reason":"Boerewors roll is South African food."}
 {"id":"Q124317263","verdict":"keep"}
 {"id":"Q124317521","verdict":"keep"}
 {"id":"Q124321728","verdict":"keep"}
 {"id":"Q124323070","verdict":"keep"}
-{"id":"Q124324926","verdict":"keep"}
+{"id":"Q124324926","verdict":"keep","countries":["KH"],"reason":"Yaohon is Cambodian hot pot."}
 {"id":"Q124325367","verdict":"keep"}
 {"id":"Q124332236","verdict":"keep","countries":["PT"],"reason":"Sintra pastry; countries were empty"}
 {"id":"Q124335811","verdict":"keep","countries":["JP"],"reason":"Japanese bean paste; countries were empty"}
@@ -238,15 +238,15 @@
 {"id":"Q124342270","verdict":"keep"}
 {"id":"Q124343367","verdict":"keep"}
 {"id":"Q124343491","verdict":"keep"}
-{"id":"Q124347611","verdict":"keep"}
+{"id":"Q124347611","verdict":"keep","countries":["BD","IN"],"reason":"Taro and lentil ghonto is shared Bengali cuisine."}
 {"id":"Q124351417","verdict":"keep"}
 {"id":"Q124351468","verdict":"keep"}
 {"id":"Q124351584","verdict":"keep"}
 {"id":"Q124351850","verdict":"keep","countries":["NL"],"reason":"Dutch snack sandwich; countries were empty"}
 {"id":"Q124355531","verdict":"keep"}
-{"id":"Q12435606","verdict":"keep"}
+{"id":"Q12435606","verdict":"keep","countries":["GB","AU","NZ","ZA"],"reason":"Coconut ice has British, Australian, New Zealand and South African traditions."}
 {"id":"Q124356124","verdict":"keep"}
-{"id":"Q124356176","verdict":"keep"}
+{"id":"Q124356176","verdict":"keep","countries":["CL","AR"],"reason":"Semola con leche is a Chilean and Argentine semolina dessert."}
 {"id":"Q124356272","verdict":"keep"}
 {"id":"Q124357461","verdict":"keep"}
 {"id":"Q124359049","verdict":"remove","reason":"vegetable pod (ingredient), not a dish"}
@@ -256,35 +256,35 @@
 {"id":"Q124371370","verdict":"keep","countries":["TW"],"reason":"Taiwanese rice dish; countries were empty"}
 {"id":"Q124372069","verdict":"keep"}
 {"id":"Q124372640","verdict":"remove","reason":"herbal cough pill/medicine, not food"}
-{"id":"Q124378480","verdict":"keep"}
-{"id":"Q124378639","verdict":"keep"}
+{"id":"Q124378480","verdict":"keep","countries":["NL"],"reason":"Kroketbroodje is Dutch croquette pastry."}
+{"id":"Q124378639","verdict":"keep","countries":["NL"],"reason":"Kroket sandwich is explicitly Dutch."}
 {"id":"Q1243795","verdict":"keep"}
-{"id":"Q124382030","verdict":"keep"}
-{"id":"Q1243908","verdict":"keep"}
+{"id":"Q124382030","verdict":"keep","countries":["IN"],"reason":"Uddamethi is a Goan Indian curry."}
+{"id":"Q1243908","verdict":"remove","reason":"Doretta is the individual living goose pardoned by Gerhard Schröder, not a roast-goose dish; parent supplied Tagesspiegel identification https://www.tagesspiegel.de/potsdam/brandenburg/kanzlergans-doretta-ist-tot-7612264.html."}
 {"id":"Q124390861","verdict":"remove","reason":"just a shaped vegetable, not a dish"}
 {"id":"Q124392501","verdict":"remove","reason":"Flavorless candy is a commercial Japanese candy product, rather than a traditional dish."}
-{"id":"Q124394126","verdict":"keep"}
-{"id":"Q124394261","verdict":"keep"}
+{"id":"Q124394126","verdict":"keep","countries":["ID"],"reason":"Kaddo boddong is explicitly Indonesian confectionery."}
+{"id":"Q124394261","verdict":"keep","countries":["ID"],"reason":"Kue taripang is Indonesian traditional cake."}
 {"id":"Q124394289","verdict":"keep"}
 {"id":"Q124394324","verdict":"keep"}
-{"id":"Q124394376","verdict":"keep"}
-{"id":"Q124394389","verdict":"keep"}
-{"id":"Q124394424","verdict":"keep"}
-{"id":"Q124394478","verdict":"keep"}
+{"id":"Q124394376","verdict":"keep","countries":["ID"],"reason":"Cucuru bayao is South Sulawesi Indonesian sweet."}
+{"id":"Q124394389","verdict":"keep","countries":["ID"],"reason":"Bayao nibalu is explicitly South Sulawesi Indonesian."}
+{"id":"Q124394424","verdict":"keep","countries":["ID"],"reason":"Doko-doko cangkuning is explicitly Indonesian."}
+{"id":"Q124394478","verdict":"keep","countries":["ID"],"reason":"Doko-doko cangkuli is explicitly Indonesian."}
 {"id":"Q124395886","verdict":"keep"}
 {"id":"Q124396762","verdict":"remove","reason":"salt product (ingredient), not a dish"}
-{"id":"Q124396916","verdict":"keep"}
+{"id":"Q124396916","verdict":"keep","countries":["BD","IN"],"reason":"Lentils with tomato and coriander is the Bengali-named preparation."}
 {"id":"Q124397359","verdict":"keep"}
 {"id":"Q124397606","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries were empty"}
 {"id":"Q124397613","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries were empty"}
 {"id":"Q124397666","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries were empty"}
-{"id":"Q124397684","verdict":"keep"}
-{"id":"Q124397728","verdict":"keep"}
+{"id":"Q124397684","verdict":"keep","countries":["BD"],"reason":"Chepa shutki bhuna is Bangladeshi dried-fish dish."}
+{"id":"Q124397728","verdict":"keep","countries":["BD","IN"],"reason":"Rohu with new potato, tomato and peas is Bengali fish curry."}
 {"id":"Q124397748","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries were empty"}
 {"id":"Q124405497","verdict":"keep","countries":["BR"],"reason":"Brazilian cake; countries were empty"}
 {"id":"Q124405934","verdict":"keep","countries":["BR"],"reason":"Brazilian cookie; countries were empty"}
 {"id":"Q12440685","verdict":"keep"}
-{"id":"Q124407151","verdict":"keep"}
+{"id":"Q124407151","verdict":"keep","countries":["BR","DE"],"reason":"Pferfferckuckei is Brazilian German-heritage spice cookie."}
 {"id":"Q124407183","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet; countries were empty"}
 {"id":"Q124407394","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet; countries were empty"}
 {"id":"Q124407401","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet; countries were empty"}
@@ -293,7 +293,7 @@
 {"id":"Q124411842","verdict":"keep"}
 {"id":"Q124414355","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet; countries were empty"}
 {"id":"Q124414375","verdict":"keep","countries":["BR"],"reason":"Brazilian sweet; countries were empty"}
-{"id":"Q124414649","verdict":"keep"}
+{"id":"Q124414649","verdict":"keep","countries":["TG","BJ"],"reason":"Gboma dessi is Togolese and Beninese spinach stew."}
 {"id":"Q124417321","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries were empty"}
 {"id":"Q124417478","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries were empty"}
 {"id":"Q124417583","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries were empty"}

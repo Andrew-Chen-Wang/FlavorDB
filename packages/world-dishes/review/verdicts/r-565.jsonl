@@ -1,8 +1,8 @@
 {"id":"wikibooks:picadillo-beef-with-potatoes-and-tomatoes","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APicadillo_(Beef_with_Potatoes_and_Tomatoes)","status":"ok"}]}
-{"id":"wikibooks:picante-peach-cobbler","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APicante_Peach_Cobbler","status":"ok"}]}
+{"id":"wikibooks:picante-peach-cobbler","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APicante_Peach_Cobbler","status":"ok"}],"countries":["US"],"reason":"Retain: source explicitly identifies this packaged-crust picante peach cobbler as American."}
 {"id":"wikibooks:pickert-german-potato-dumpling","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APickert_(German_Potato_Dumpling)","status":"ok"}]}
 {"id":"wikibooks:pickled-green-mango-aavakaaya","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APickled_Green_Mango_(Aavakaaya)","status":"ok"}]}
-{"id":"wikibooks:pickled-oysters","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APickled_Oysters","status":"ok"}]}
+{"id":"wikibooks:pickled-oysters","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APickled_Oysters","status":"ok"}],"countries":["US","GB"],"reason":"Retain: spiced vinegar-pickled oysters are established British and American preserving preparations."}
 {"id":"wikibooks:pierogi-i","verdict":"keep","name":"Pierogi","reason":"Remove recipe variant number","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APierogi_I","status":"ok"}]}
 {"id":"wikibooks:pierogi-ii","verdict":"keep","name":"Pierogi","reason":"Remove recipe variant number","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APierogi_II","status":"ok"}]}
 {"id":"wikibooks:pig-s-trotters-and-ginger-vinegar-stew","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APig's_Trotters_and_Ginger_Vinegar_Stew","status":"ok"}]}
@@ -13,9 +13,9 @@
 {"id":"wikibooks:pineapple-curry","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APineapple_Curry","status":"ok"}]}
 {"id":"wikibooks:pineapple-juice","verdict":"remove","reason":"Fruit juice beverage","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APineapple_Juice","status":"ok"}]}
 {"id":"wikibooks:pineapple-side-dish","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APineapple_Side_Dish","status":"ok"}]}
-{"id":"wikibooks:pineapple-tarts","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APineapple_Tarts","status":"ok"}]}
-{"id":"wikibooks:pineapple-teriyaki","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APineapple_Teriyaki","status":"ok"}]}
-{"id":"wikibooks:pineapple-upside-down-cake-in-a-skillet","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APineapple_Upside-Down_Cake_in_a_Skillet","status":"ok"}]}
-{"id":"wikibooks:pizza-dough","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APizza_Dough","status":"ok"}]}
-{"id":"wikibooks:pizza-flavored-omelet","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APizza-Flavored_Omelet","status":"ok"}]}
-{"id":"wikibooks:pizza-hot-dogs","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APizza_Hot_Dogs","status":"ok"}]}
+{"id":"wikibooks:pineapple-tarts","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APineapple_Tarts","status":"ok"}],"countries":["FR","US"],"reason":"Retain: inverted caramel puff-pastry pineapple tarts retain the recognizable French tarte-Tatin form in an American home version."}
+{"id":"wikibooks:pineapple-teriyaki","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APineapple_Teriyaki","status":"ok"}],"countries":["US"],"reason":"Corrected: canned-pineapple and vegetable stir-fry with bottled teriyaki is an American adaptation; Japanese sauce alone does not establish a Japanese version of this generic entree."}
+{"id":"wikibooks:pineapple-upside-down-cake-in-a-skillet","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APineapple_Upside-Down_Cake_in_a_Skillet","status":"ok"}],"countries":["US"],"reason":"Retain: skillet pineapple-ring upside-down cake with pecans and maraschino cherries is American."}
+{"id":"wikibooks:pizza-dough","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APizza_Dough","status":"ok"}],"countries":["IT","US"],"reason":"Retain: pizza dough is an established Italian and American preparation, here made in an American home-baking version."}
+{"id":"wikibooks:pizza-flavored-omelet","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APizza-Flavored_Omelet","status":"ok"}],"countries":["US","CA"],"reason":"Retain: source explicitly identifies North American breakfast cuisine for this pizza omelet."}
+{"id":"wikibooks:pizza-hot-dogs","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APizza_Hot_Dogs","status":"ok"}],"countries":["US"],"reason":"Retain: broiled pizza-sauce hot dogs with mozzarella are an American convenience-food adaptation."}

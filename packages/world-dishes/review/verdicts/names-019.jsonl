@@ -1,21 +1,21 @@
 {"id":"Q1289229","verdict":"keep","countries":["CZ"],"reason":"countries were empty; Czech ham"}
 {"id":"Q12892299","verdict":"keep"}
 {"id":"Q1289402","verdict":"keep"}
-{"id":"Q12895481","verdict":"keep"}
+{"id":"Q12895481","verdict":"keep","countries":["HT"],"reason":"Piti mi is a Haitian millet preparation."}
 {"id":"Q12897796","verdict":"keep"}
 {"id":"Q12899215","verdict":"keep"}
 {"id":"Q1290028","verdict":"keep"}
 {"id":"Q12902123","verdict":"keep","countries":["GB"],"reason":"countries were empty; Gloucester cheese"}
-{"id":"Q12902485","verdict":"keep"}
-{"id":"Q129098238","verdict":"keep"}
+{"id":"Q12902485","verdict":"keep","countries":["ES"],"reason":"Valencià is a Valencian Spanish dessert."}
+{"id":"Q129098238","verdict":"keep","countries":["GB","NL","DE","US","CA","SE","FI","FR"],"reason":"Independent second country review: Split pea soup includes British, Dutch, German, North American, Nordic and French potage traditions."}
 {"id":"Q129152","verdict":"keep"}
-{"id":"Q129175425","verdict":"keep"}
+{"id":"Q129175425","verdict":"keep","countries":["GB","US"],"reason":"The meat sandwich follows British and American sandwich traditions."}
 {"id":"Q129178734","verdict":"keep"}
 {"id":"Q129207023","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian pastry"}
 {"id":"Q129243419","verdict":"keep"}
 {"id":"Q1292506","verdict":"keep","countries":["GB"],"reason":"countries were empty; British gammon"}
 {"id":"Q129259778","verdict":"keep"}
-{"id":"Q129264258","verdict":"keep"}
+{"id":"Q129264258","verdict":"keep","countries":["CN","VN","TH","KH","RO","PL","RU","UA"],"reason":"Independent second country review: Sour soup is shared by Southeast Asian sour broths and Eastern European sour soup traditions."}
 {"id":"Q129306559","verdict":"keep"}
 {"id":"Q129307011","verdict":"keep"}
 {"id":"Q129307327","verdict":"keep"}
@@ -29,29 +29,29 @@
 {"id":"Q129308676","verdict":"keep"}
 {"id":"Q129309329","verdict":"keep"}
 {"id":"Q129309735","verdict":"keep"}
-{"id":"Q129310056","verdict":"keep"}
-{"id":"Q129310302","verdict":"keep"}
-{"id":"Q129310346","verdict":"keep"}
+{"id":"Q129310056","verdict":"keep","countries":["MY"],"reason":"Breadfruit halva is a Malaysian halwa preparation in this regional set."}
+{"id":"Q129310302","verdict":"keep","countries":["MY"],"reason":"Wajik sirat is explicitly Malaysian."}
+{"id":"Q129310346","verdict":"keep","countries":["MY","ID"],"reason":"Cassava wajik belongs to Malay and Indonesian sweet traditions."}
 {"id":"Q129310952","verdict":"keep"}
 {"id":"Q129313674","verdict":"keep"}
-{"id":"Q129313803","verdict":"keep"}
+{"id":"Q129313803","verdict":"keep","countries":["MY"],"reason":"Kuih pepena is explicitly Malaysian."}
 {"id":"Q129314022","verdict":"keep","countries":["MY"],"reason":"countries were empty; Sabah (Malaysia) dish"}
-{"id":"Q129314449","verdict":"keep"}
+{"id":"Q129314449","verdict":"keep","countries":["MY"],"reason":"Steamed cassava is explicitly the Malay dish here."}
 {"id":"Q129314745","verdict":"keep","countries":["MY"],"reason":"countries were empty; Malaysian spring roll"}
 {"id":"Q129319045","verdict":"keep"}
 {"id":"Q129319152","verdict":"keep","countries":["MY"],"reason":"countries were empty; Malaysian dish"}
 {"id":"Q129319265","verdict":"keep"}
 {"id":"Q129319420","verdict":"keep"}
 {"id":"Q129319591","verdict":"keep","countries":["MY"],"reason":"countries were empty; Malaysian squid dish"}
-{"id":"Q129319693","verdict":"keep"}
-{"id":"Q129319923","verdict":"keep"}
+{"id":"Q129319693","verdict":"keep","countries":["MY","ID"],"reason":"Mixed rendang has Malaysian and Indonesian culinary ties."}
+{"id":"Q129319923","verdict":"keep","countries":["MY","ID"],"reason":"Sup belut is Malay Indonesian eel soup."}
 {"id":"Q129320064","verdict":"keep"}
-{"id":"Q129320228","verdict":"keep"}
-{"id":"Q129320371","verdict":"keep"}
+{"id":"Q129320228","verdict":"keep","countries":["MY"],"reason":"Tauge masak lemak is Malay coconut bean sprouts."}
+{"id":"Q129320371","verdict":"keep","countries":["MY"],"reason":"Lawar terung is explicitly from Negeri Sembilan Malaysia."}
 {"id":"Q129320476","verdict":"keep"}
-{"id":"Q129320686","verdict":"keep"}
-{"id":"Q129320804","verdict":"keep"}
-{"id":"Q129320895","verdict":"keep"}
+{"id":"Q129320686","verdict":"keep","countries":["MY"],"reason":"Gerang asam is explicitly Malaysian."}
+{"id":"Q129320804","verdict":"keep","countries":["MY"],"reason":"Ambila is explicitly Malaysian Kristang food."}
+{"id":"Q129320895","verdict":"keep","countries":["MY"],"reason":"Asam rebus is explicitly Malaysian."}
 {"id":"Q129321059","verdict":"keep"}
 {"id":"Q1293258","verdict":"keep"}
 {"id":"Q129328574","verdict":"keep"}
@@ -62,7 +62,7 @@
 {"id":"Q129590051","verdict":"remove","reason":"topic article (pizza in North Korea), not a dish"}
 {"id":"Q12961425","verdict":"keep"}
 {"id":"Q12961636","verdict":"keep"}
-{"id":"Q129618390","verdict":"keep"}
+{"id":"Q129618390","verdict":"keep","countries":["JP"],"reason":"Pyraene is a Japanese Western-style confection."}
 {"id":"Q12962178","verdict":"keep"}
 {"id":"Q12964402","verdict":"keep"}
 {"id":"Q12964466","verdict":"keep"}
@@ -70,7 +70,7 @@
 {"id":"Q12964893","verdict":"keep"}
 {"id":"Q129652189","verdict":"keep"}
 {"id":"Q129652201","verdict":"keep"}
-{"id":"Q129652215","verdict":"keep"}
+{"id":"Q129652215","verdict":"keep","countries":["FR","US","TH"],"reason":"Stuffed crab has established French American and Thai preparations."}
 {"id":"Q12967012","verdict":"keep"}
 {"id":"Q12967213","verdict":"keep"}
 {"id":"Q12969061","verdict":"keep","reason":"Paksiw names prepared vinegar-braised dishes as well as a cooking method","countries":["PH"]}
@@ -82,7 +82,7 @@
 {"id":"Q12975870","verdict":"keep"}
 {"id":"Q1297721","verdict":"keep","countries":["US"],"reason":"countries were empty; Louisiana Creole dish"}
 {"id":"Q129785793","verdict":"keep"}
-{"id":"Q129811480","verdict":"keep"}
+{"id":"Q129811480","verdict":"keep","countries":["MY","ID"],"reason":"Nasi buluh is Malay Indonesian bamboo-cooked rice."}
 {"id":"Q129811486","verdict":"keep"}
 {"id":"Q129811494","verdict":"keep"}
 {"id":"Q129811500","verdict":"keep"}
@@ -97,22 +97,22 @@
 {"id":"Q129811603","verdict":"keep"}
 {"id":"Q129821504","verdict":"keep","countries":["MY"],"reason":"countries were empty; Malaysian kuih"}
 {"id":"Q129821582","verdict":"keep"}
-{"id":"Q129821670","verdict":"keep"}
+{"id":"Q129821670","verdict":"keep","countries":["MY"],"reason":"Tepung torak is explicitly Malaysian."}
 {"id":"Q129821898","verdict":"keep"}
-{"id":"Q129823080","verdict":"keep"}
-{"id":"Q129832149","verdict":"keep"}
-{"id":"Q129832328","verdict":"keep"}
+{"id":"Q129823080","verdict":"keep","countries":["MY"],"reason":"Badak kubang is explicitly Malaysian."}
+{"id":"Q129832149","verdict":"keep","countries":["MY"],"reason":"Bingka sawit is explicitly Malaysian."}
+{"id":"Q129832328","verdict":"keep","countries":["MY"],"reason":"Opor daging is explicitly the Malaysian version here."}
 {"id":"Q129834204","verdict":"keep"}
-{"id":"Q129890788","verdict":"keep"}
+{"id":"Q129890788","verdict":"keep","countries":["RU"],"reason":"Talkysh kaleve is Tatar confectionery."}
 {"id":"Q129900296","verdict":"keep"}
 {"id":"Q12997603","verdict":"keep"}
-{"id":"Q129979392","verdict":"keep"}
+{"id":"Q129979392","verdict":"keep","countries":["ES","AR","UY"],"reason":"Quince paste and cheese is a Spanish Argentine and Uruguayan dessert pairing."}
 {"id":"Q1300076","verdict":"keep","reason":"Cabbage-filled rolls shared Austrian and southern German traditions","countries":["AT","DE"]}
 {"id":"Q130061821","verdict":"keep"}
-{"id":"Q130097","verdict":"keep"}
+{"id":"Q130097","verdict":"keep","countries":["CA","US"],"reason":"Pemmican is Indigenous North American preserved meat associated with present Canada and United States."}
 {"id":"Q130101093","verdict":"keep"}
 {"id":"Q130101795","verdict":"keep"}
-{"id":"Q130101951","verdict":"keep"}
+{"id":"Q130101951","verdict":"keep","countries":["EC"],"reason":"Sango with plantain fish peanut and achiote is Ecuadorian stew."}
 {"id":"Q130101956","verdict":"keep"}
 {"id":"Q130125097","verdict":"remove","reason":"overview page of South African street food, not one dish"}
 {"id":"Q13012656","verdict":"keep"}
@@ -120,51 +120,51 @@
 {"id":"Q13013252","verdict":"keep"}
 {"id":"Q13013257","verdict":"keep"}
 {"id":"Q13013315","verdict":"keep"}
-{"id":"Q13013369","verdict":"keep"}
+{"id":"Q13013369","verdict":"keep","countries":["TH","LA","KH"],"reason":"Mango sticky rice has Thai Lao and Cambodian associations."}
 {"id":"Q13015322","verdict":"keep"}
 {"id":"Q13015424","verdict":"keep"}
-{"id":"Q130186","verdict":"keep"}
+{"id":"Q130186","verdict":"keep","countries":["AT","DE","HU"],"reason":"Torte belongs to Austrian German and Hungarian cake traditions."}
 {"id":"Q13018870","verdict":"keep"}
 {"id":"Q130194","verdict":"keep"}
 {"id":"Q1301968","verdict":"keep"}
-{"id":"Q130198919","verdict":"keep"}
+{"id":"Q130198919","verdict":"keep","countries":["US"],"reason":"Smash burger is American hamburger preparation."}
 {"id":"Q130200473","verdict":"keep"}
 {"id":"Q13020442","verdict":"keep"}
-{"id":"Q130225202","verdict":"keep"}
+{"id":"Q130225202","verdict":"keep","countries":["BA","HR"],"reason":"Ćupter is explicitly Bosnian and Croatian."}
 {"id":"Q1302342","verdict":"keep"}
 {"id":"Q130238975","verdict":"keep"}
-{"id":"Q130242386","verdict":"keep"}
-{"id":"Q130257193","verdict":"keep"}
+{"id":"Q130242386","verdict":"remove","reason":"Independent second country review: Unprepared buckwheat honey is a raw ingredient with no recipe.","countries":[]}
+{"id":"Q130257193","verdict":"keep","countries":["JP"],"reason":"Tsu gyoza is a Japanese regional dumpling."}
 {"id":"Q13025915","verdict":"keep"}
 {"id":"Q13026131","verdict":"keep","countries":["TH"],"reason":"countries were empty; Thai dish"}
 {"id":"Q13026133","verdict":"keep"}
 {"id":"Q130265510","verdict":"keep"}
 {"id":"Q130269974","verdict":"keep"}
-{"id":"Q13028595","verdict":"keep"}
+{"id":"Q13028595","verdict":"keep","countries":["TR"],"reason":"Ashure is Turkish grain pudding irrespective of Belarusian label."}
 {"id":"Q13028615","verdict":"keep","countries":["BY"],"reason":"countries were empty; Belarusian food"}
 {"id":"Q13028885","verdict":"keep"}
 {"id":"Q130298849","verdict":"keep"}
 {"id":"Q130302285","verdict":"keep"}
 {"id":"Q130303691","verdict":"keep"}
-{"id":"Q13030534","verdict":"keep"}
+{"id":"Q13030534","verdict":"keep","countries":["BY"],"reason":"Gryzhanka is Belarusian swede soup."}
 {"id":"Q130307901","verdict":"keep"}
 {"id":"Q13030990","verdict":"keep","countries":["BY"],"reason":"countries were empty; Belarusian dish"}
 {"id":"Q130323394","verdict":"keep"}
-{"id":"Q13033550","verdict":"keep"}
+{"id":"Q13033550","verdict":"keep","countries":["BY"],"reason":"Yagli is a Belarusian millet preparation."}
 {"id":"Q130345178","verdict":"keep","countries":["ID"],"reason":"countries were empty; Indonesian dish"}
 {"id":"Q130349607","verdict":"remove","reason":"chain restaurant menu item (burger)"}
 {"id":"Q130349748","verdict":"remove","reason":"chain restaurant menu item (burger)"}
 {"id":"Q13035439","verdict":"keep"}
-{"id":"Q13038702","verdict":"keep"}
-{"id":"Q130387201","verdict":"keep"}
+{"id":"Q13038702","verdict":"keep","countries":["AL"],"reason":"Restored real cooked dish. Parent research found exact Wikidata-sourced Albanian label Eskallop derri ose viçi në tigan at https://glosbe.com/en/sq/panfried%20pork%20or%20veal%20escalope, grounding AL in this recipe identity rather than neighbouring IDs or generic escalope associations."}
+{"id":"Q130387201","verdict":"keep","countries":["CO"],"reason":"Roscón de Caldas is Colombian regional bread."}
 {"id":"Q130389191","verdict":"keep","countries":["MY"],"reason":"countries were empty; Sabah (Malaysia) dish"}
 {"id":"Q130391489","verdict":"remove","reason":"chain restaurant menu item (burger)"}
-{"id":"Q130395","verdict":"keep"}
-{"id":"Q13041042","verdict":"keep"}
+{"id":"Q130395","verdict":"keep","countries":["RU","UA","BY"],"reason":"Oladyi is explicitly common to Russian Ukrainian and Belarusian cuisines."}
+{"id":"Q13041042","verdict":"keep","countries":["AL"],"reason":"Restored real cooked dish. Parent research found exact Wikidata-sourced Albanian label Kotoleta viçi të njomë të skuqura në tigan matching this English tender-beef-cutlet label at https://glosbe.com/en/sq/beef, grounding AL in the original recipe identity rather than neighbouring IDs."}
 {"id":"Q13041150","verdict":"keep"}
-{"id":"Q130417163","verdict":"keep"}
-{"id":"Q130417229","verdict":"keep"}
-{"id":"Q13042357","verdict":"keep"}
+{"id":"Q130417163","verdict":"keep","countries":["IT","US"],"reason":"Coffee ice cream has Italian gelato and American ice-cream associations."}
+{"id":"Q130417229","verdict":"keep","countries":["IN","NP"],"reason":"Tilkor tarua belongs to Mithila across India and Nepal."}
+{"id":"Q13042357","verdict":"keep","countries":["AL"],"reason":"Lëng viçi is Albanian beef preparation."}
 {"id":"Q130425634","verdict":"keep"}
 {"id":"Q130436912","verdict":"keep"}
 {"id":"Q130437003","verdict":"keep"}
@@ -176,10 +176,10 @@
 {"id":"Q13046648","verdict":"keep"}
 {"id":"Q130470526","verdict":"keep","reason":"Kashmiri rista shared across Kashmir communities","countries":["IN","PK"]}
 {"id":"Q130470549","verdict":"keep","reason":"Kashmiri tabak maaz shared across Kashmir communities","countries":["IN","PK"]}
-{"id":"Q130471891","verdict":"keep"}
+{"id":"Q130471891","verdict":"keep","countries":["US"],"reason":"Cicada ice cream is an American novelty frozen dessert."}
 {"id":"Q130472512","verdict":"keep"}
-{"id":"Q130478550","verdict":"keep"}
-{"id":"Q130485240","verdict":"keep"}
+{"id":"Q130478550","verdict":"keep","countries":["US"],"reason":"Black raspberry ice cream is an American regional ice-cream flavor."}
+{"id":"Q130485240","verdict":"keep","countries":["LU"],"reason":"Mummentaart is Luxembourg apple tart."}
 {"id":"Q130486184","verdict":"keep"}
 {"id":"Q130486185","verdict":"keep"}
 {"id":"Q130486188","verdict":"keep"}
@@ -224,13 +224,13 @@
 {"id":"Q130486232","verdict":"keep"}
 {"id":"Q130486234","verdict":"keep"}
 {"id":"Q130486236","verdict":"keep"}
-{"id":"Q130493246","verdict":"keep"}
+{"id":"Q130493246","verdict":"keep","countries":["US"],"reason":"Teaberry ice cream is associated with Pennsylvania United States."}
 {"id":"Q130493939","verdict":"keep"}
 {"id":"Q1305079","verdict":"keep"}
 {"id":"Q130513962","verdict":"keep"}
-{"id":"Q130526517","verdict":"keep"}
-{"id":"Q130526536","verdict":"keep"}
-{"id":"Q130526575","verdict":"keep"}
+{"id":"Q130526517","verdict":"remove","reason":"Independent second country review: Sunflower honey is an unprepared honey ingredient without recipe.","countries":[]}
+{"id":"Q130526536","verdict":"remove","reason":"Independent second country review: Polyfloral honey is an unprepared honey ingredient without recipe.","countries":[]}
+{"id":"Q130526575","verdict":"remove","reason":"Independent second country review: Sainfoin honey is an unprepared honey ingredient without recipe.","countries":[]}
 {"id":"Q130529381","verdict":"keep"}
 {"id":"Q130529385","verdict":"keep"}
 {"id":"Q130529392","verdict":"keep"}
@@ -245,27 +245,27 @@
 {"id":"Q130559284","verdict":"keep"}
 {"id":"Q130559314","verdict":"keep"}
 {"id":"Q130571534","verdict":"keep"}
-{"id":"Q13057386","verdict":"keep"}
-{"id":"Q13057890","verdict":"keep"}
-{"id":"Q13058198","verdict":"keep"}
-{"id":"Q1305991","verdict":"keep"}
+{"id":"Q13057386","verdict":"keep","countries":["IN"],"reason":"Kodma is explicitly Indian sugar candy."}
+{"id":"Q13057890","verdict":"keep","countries":["BD","IN"],"reason":"Chhola bhuna belongs to Bengali cooking in Bangladesh and India."}
+{"id":"Q13058198","verdict":"keep","countries":["IN","BD"],"reason":"Darbesh is Bengali confectionery shared by India and Bangladesh."}
+{"id":"Q1305991","verdict":"keep","countries":["DE"],"reason":"Einback is German sweet bread."}
 {"id":"Q130611730","verdict":"keep"}
 {"id":"Q130632338","verdict":"keep"}
 {"id":"Q130633595","verdict":"keep"}
 {"id":"Q130668778","verdict":"keep"}
 {"id":"Q130677132","verdict":"keep"}
-{"id":"Q130680930","verdict":"keep"}
-{"id":"Q130681129","verdict":"keep"}
-{"id":"Q130681167","verdict":"keep"}
+{"id":"Q130680930","verdict":"keep","countries":["NL"],"reason":"Discodel is a Dutch prepared snack variant."}
+{"id":"Q130681129","verdict":"keep","countries":["NL"],"reason":"Krokodel is a Dutch prepared snack variant."}
+{"id":"Q130681167","verdict":"keep","countries":["NL"],"reason":"Loempidel is a Dutch prepared snack variant."}
 {"id":"Q13069284","verdict":"keep"}
 {"id":"Q130709926","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese ramen"}
 {"id":"Q130718197","verdict":"keep","countries":["NG"],"reason":"countries were empty; Igala (Nigeria) snack"}
 {"id":"Q130718589","verdict":"keep","countries":["NG"],"reason":"countries were empty; Igala (Nigeria) meal"}
 {"id":"Q130741353","verdict":"keep","countries":["IT"],"reason":"countries were empty; Lombard dish"}
 {"id":"Q130751270","verdict":"keep","countries":["IT"],"reason":"countries were empty; Sicilian focaccia"}
-{"id":"Q130758673","verdict":"keep"}
+{"id":"Q130758673","verdict":"keep","countries":["IT"],"reason":"The entry explicitly identifies an ancient Roman pastry, mapped to Italy."}
 {"id":"Q130777293","verdict":"keep","countries":["CZ"],"reason":"countries were empty; Czech dish"}
-{"id":"Q130793834","verdict":"keep"}
+{"id":"Q130793834","verdict":"keep","countries":["CL"],"reason":"Boer is a Chilean filled wafer cookie."}
 {"id":"Q130804980","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese nattō"}
 {"id":"Q130807868","verdict":"keep"}
 {"id":"Q1308184","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian pastry"}
@@ -273,7 +273,7 @@
 {"id":"Q130878","verdict":"remove","reason":"chewing gum, not food eaten as a dish"}
 {"id":"Q130899848","verdict":"keep"}
 {"id":"Q130899872","verdict":"keep"}
-{"id":"Q130902289","verdict":"keep"}
+{"id":"Q130902289","verdict":"remove","reason":"Independent second country review: Swedish redning describes thickening or thickener, a technique or ingredient rather than a dish.","countries":[]}
 {"id":"Q13092279","verdict":"keep"}
 {"id":"Q13092409","verdict":"keep"}
 {"id":"Q13093120","verdict":"keep"}
@@ -281,18 +281,18 @@
 {"id":"Q130937219","verdict":"keep"}
 {"id":"Q13094329","verdict":"remove","reason":"Kimpul is a raw starchy tuber ingredient; no recipe"}
 {"id":"Q13094650","verdict":"keep"}
-{"id":"Q13094657","verdict":"keep"}
+{"id":"Q13094657","verdict":"keep","countries":["ID"],"reason":"Lembarang is explicitly Javanese."}
 {"id":"Q13094672","verdict":"keep"}
-{"id":"Q13095522","verdict":"keep"}
-{"id":"Q13095830","verdict":"keep"}
+{"id":"Q13095522","verdict":"keep","countries":["ID"],"reason":"Ote ote is explicitly East Javanese."}
+{"id":"Q13095830","verdict":"keep","countries":["ID"],"reason":"Pasung is explicitly Javanese."}
 {"id":"Q13096003","verdict":"keep"}
 {"id":"Q130961449","verdict":"keep"}
-{"id":"Q1309680","verdict":"keep"}
+{"id":"Q1309680","verdict":"keep","countries":["GB"],"reason":"Teste de Turke is a medieval English meat dish."}
 {"id":"Q13096825","verdict":"keep"}
 {"id":"Q13096834","verdict":"keep"}
 {"id":"Q13096849","verdict":"keep"}
 {"id":"Q13096852","verdict":"keep"}
-{"id":"Q13097480","verdict":"keep"}
+{"id":"Q13097480","verdict":"keep","countries":["ID"],"reason":"Kupat sumpil is Indonesian wrapped rice."}
 {"id":"Q13097602","verdict":"keep"}
 {"id":"Q13097607","verdict":"keep"}
 {"id":"Q13097938","verdict":"keep"}

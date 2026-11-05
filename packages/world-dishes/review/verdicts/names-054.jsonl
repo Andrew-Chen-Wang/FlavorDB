@@ -1,9 +1,9 @@
-{"id":"Q7605452","verdict":"keep"}
-{"id":"Q7605458","verdict":"keep"}
+{"id":"Q7605452","verdict":"keep","countries":["CN","US"],"reason":"Second check: Chinese mantou and American Boston steamed brown bread are established steamed-bread traditions; Boston brown bread is not British."}
+{"id":"Q7605458","verdict":"keep","countries":["US"],"reason":"Second check: Steamed clams are an established New England American seafood dish."}
 {"id":"Q7605615","verdict":"remove","reason":"ingredient (cut oat groats), not a dish"}
 {"id":"Q7608917","verdict":"remove","reason":"branded ice cream flavor (Ben & Jerry's)"}
 {"id":"Q761524","verdict":"keep","countries":["FR"],"reason":"countries were empty; Corsican cheese"}
-{"id":"Q76160299","verdict":"keep"}
+{"id":"Q76160299","verdict":"keep","countries":["DE","AT"],"reason":"Second check: Semolina soup is established central European Grießsuppe."}
 {"id":"Q7616232","verdict":"keep"}
 {"id":"Q7616330","verdict":"keep","countries":["US"],"reason":"countries were empty; American sweet roll"}
 {"id":"Q7616334","verdict":"keep"}
@@ -19,9 +19,9 @@
 {"id":"Q7630465","verdict":"keep"}
 {"id":"Q7630489","verdict":"keep"}
 {"id":"Q7634410","verdict":"keep"}
-{"id":"Q7634940","verdict":"keep"}
+{"id":"Q7634940","verdict":"keep","countries":["TT","GY","BB"],"reason":"Second check: Coconut sugar cake belongs to Caribbean and Guyanese confectionery."}
 {"id":"Q7634947","verdict":"keep"}
-{"id":"Q7634957","verdict":"keep"}
+{"id":"Q7634957","verdict":"keep","countries":["GB"],"reason":"Second check: Sugar plums are traditional British dragée confectionery."}
 {"id":"Q7636918","verdict":"keep","countries":["PS"],"reason":"Palestinian dish; TR was wrong"}
 {"id":"Q7640203","verdict":"keep","countries":["KP"],"reason":"countries were empty; North Korean soup"}
 {"id":"Q7641870","verdict":"keep"}
@@ -35,12 +35,12 @@
 {"id":"Q7654664","verdict":"remove","reason":"branded candy (Swedish Fish)"}
 {"id":"Q7654910","verdict":"remove","reason":"Second opinion: Swedish Berries is a marketed Maynards candy product"}
 {"id":"Q765540","verdict":"keep"}
-{"id":"Q7655635","verdict":"keep"}
+{"id":"Q7655635","verdict":"keep","countries":["US","GB","DE","SE"],"reason":"Second check: Sweet yeast rolls are established American, British and northern European baked foods."}
 {"id":"Q7655664","verdict":"keep"}
 {"id":"Q7656154","verdict":"keep"}
 {"id":"Q7659027","verdict":"keep","countries":["US"],"reason":"Swiss steak is a dish of American origin; CH was wrong"}
 {"id":"Q7666782","verdict":"keep"}
-{"id":"Q766777","verdict":"keep"}
+{"id":"Q766777","verdict":"keep","countries":["GB","US","IN"],"reason":"Second check: Relishes have established British, American and Indian condiment traditions."}
 {"id":"Q766999","verdict":"keep","countries":["IT"],"reason":"countries were empty; ancient Roman dish"}
 {"id":"Q7673579","verdict":"keep","countries":["IR"],"reason":"countries were empty; from Tabriz"}
 {"id":"Q7675057","verdict":"keep"}
@@ -70,7 +70,7 @@
 {"id":"Q7709199","verdict":"keep"}
 {"id":"Q770977","verdict":"keep","countries":["PT"],"reason":"Portuguese soup; CN was wrong"}
 {"id":"Q771079","verdict":"keep"}
-{"id":"Q77119653","verdict":"keep"}
+{"id":"Q77119653","verdict":"keep","countries":["FR"],"reason":"Second check: The French name denotes French asparagus velouté."}
 {"id":"Q771456","verdict":"keep"}
 {"id":"Q772326","verdict":"keep"}
 {"id":"Q772542","verdict":"remove","reason":"category (Mexican street snacks), not one dish"}
@@ -78,7 +78,7 @@
 {"id":"Q77301399","verdict":"keep"}
 {"id":"Q773255","verdict":"keep","countries":["MM"],"reason":"countries were empty; fish paste from Myanmar"}
 {"id":"Q773895","verdict":"keep"}
-{"id":"Q77469893","verdict":"keep"}
+{"id":"Q77469893","verdict":"keep","countries":["GB"],"reason":"Second check: This generic English-named apple jam is assigned to British preserving cuisine."}
 {"id":"Q77501769","verdict":"keep","countries":["MX"],"reason":"countries were empty; Yucatec dessert"}
 {"id":"Q775835","verdict":"keep"}
 {"id":"Q775943","verdict":"keep"}
@@ -86,28 +86,28 @@
 {"id":"Q77626634","verdict":"remove","reason":"branded theme-park restaurant menu item"}
 {"id":"Q77626986","verdict":"remove","reason":"branded theme-park restaurant menu item"}
 {"id":"Q776904","verdict":"keep"}
-{"id":"Q777487","verdict":"keep"}
+{"id":"Q777487","verdict":"keep","countries":["IN","GB"],"reason":"Second check: Mixed pickles have established Indian and British preserving traditions."}
 {"id":"Q7777747","verdict":"keep"}
 {"id":"Q7780958","verdict":"keep"}
 {"id":"Q778396","verdict":"keep"}
 {"id":"Q7784272","verdict":"remove","reason":"branded cookie (Girl Scout Thin Mints)"}
 {"id":"Q7796150","verdict":"keep","countries":["IN"],"reason":"countries were empty; Kerala dish"}
-{"id":"Q77965820","verdict":"keep"}
+{"id":"Q77965820","verdict":"keep","countries":["SE","IT"],"reason":"Second check: Skaldjurslasagne is a Swedish seafood adaptation of Italian lasagne."}
 {"id":"Q7799573","verdict":"keep"}
 {"id":"Q7799954","verdict":"keep"}
-{"id":"Q7800152","verdict":"keep"}
+{"id":"Q7800152","verdict":"keep","countries":["CN"],"reason":"Second check: Tian mo is the traditional Jinan breakfast soup of China."}
 {"id":"Q7801277","verdict":"keep","countries":["GB"],"reason":"countries were empty; British confection"}
-{"id":"Q7801531","verdict":"keep"}
-{"id":"Q7802","verdict":"keep"}
-{"id":"Q7804593","verdict":"keep"}
+{"id":"Q7801531","verdict":"keep","countries":["US"],"reason":"Second check: Tiger meat is the raw-beef preparation associated with the Dakotas."}
+{"id":"Q7802","verdict":"keep","countries":["EG","TR","FR","DE","GB"],"reason":"Second check: Bread has ancient Egyptian and strong Turkish and European baking associations."}
+{"id":"Q7804593","verdict":"keep","countries":["FR","IT"],"reason":"Second check: Timbale belongs to French and Italian molded preparations."}
 {"id":"Q7808000","verdict":"keep","countries":["PH"],"reason":"countries were empty; Filipino smoked fish"}
 {"id":"Q7808550","verdict":"keep"}
 {"id":"Q7808813","verdict":"keep"}
-{"id":"Q7808983","verdict":"keep"}
+{"id":"Q7808983","verdict":"keep","countries":["GB"],"reason":"Second check: Tipsy cake is the British alcohol-soaked sponge dessert."}
 {"id":"Q7809258","verdict":"keep"}
 {"id":"Q7810735","verdict":"keep"}
 {"id":"Q7811421","verdict":"keep","countries":["US"],"reason":"countries were empty; St Louis dish"}
-{"id":"Q7811427","verdict":"keep"}
+{"id":"Q7811427","verdict":"keep","countries":["US"],"reason":"Second check: Toaster pastries are an American pastry form; this is the generic food, not one brand."}
 {"id":"Q781150","verdict":"keep"}
 {"id":"Q7813015","verdict":"keep"}
 {"id":"Q7813645","verdict":"keep"}
@@ -115,7 +115,7 @@
 {"id":"Q78183893","verdict":"remove","reason":"named restaurant signature menu item (branded)"}
 {"id":"Q7818540","verdict":"keep"}
 {"id":"Q7818554","verdict":"keep"}
-{"id":"Q7818561","verdict":"keep"}
+{"id":"Q7818561","verdict":"keep","countries":["FR"],"reason":"Second check: Tomato compote follows the French cooked-compote preparation."}
 {"id":"Q7818563","verdict":"keep"}
 {"id":"Q7818565","verdict":"keep"}
 {"id":"Q7820827","verdict":"keep"}
@@ -133,7 +133,7 @@
 {"id":"Q7828366","verdict":"keep"}
 {"id":"Q7828466","verdict":"keep"}
 {"id":"Q7829427","verdict":"keep"}
-{"id":"Q78295261","verdict":"keep"}
+{"id":"Q78295261","verdict":"keep","countries":["US","IT"],"reason":"Second check: Handheld cone or stick ice cream has established American and Italian associations."}
 {"id":"Q78349957","verdict":"keep"}
 {"id":"Q7836557","verdict":"keep"}
 {"id":"Q7843687","verdict":"keep"}
@@ -149,13 +149,13 @@
 {"id":"Q78619741","verdict":"keep"}
 {"id":"Q7862790","verdict":"keep"}
 {"id":"Q7878708","verdict":"keep","countries":["MY","ID"],"reason":"Malay salad; MY was missing"}
-{"id":"Q7879663","verdict":"keep"}
+{"id":"Q7879663","verdict":"keep","countries":["GB","US","SE"],"reason":"Second check: Ginger snaps have established British, American and Swedish traditions."}
 {"id":"Q788124","verdict":"keep","countries":["DE"],"reason":"countries were empty; German confection"}
 {"id":"Q7882754","verdict":"remove","reason":"branded candy (Uncle Joe's Mint Balls)"}
 {"id":"Q7884162","verdict":"remove","reason":"wine (drink), not a dish"}
 {"id":"Q7892214","verdict":"keep","countries":["US"],"reason":"countries were empty; American candy"}
 {"id":"Q7897138","verdict":"keep"}
-{"id":"Q7899264","verdict":"keep"}
+{"id":"Q7899264","verdict":"keep","countries":["US","FR"],"reason":"Second check: Upside-down cakes have established American and French tarte-Tatin-related traditions."}
 {"id":"Q7901691","verdict":"keep"}
 {"id":"Q7902573","verdict":"keep"}
 {"id":"Q790433","verdict":"keep"}
@@ -169,53 +169,53 @@
 {"id":"Q79148257","verdict":"keep","countries":["GB"],"reason":"countries were empty; English cheese"}
 {"id":"Q791790","verdict":"keep","reason":"Second opinion: fricassee is an identifiable prepared ragout as well as a cooking method"}
 {"id":"Q7918342","verdict":"keep"}
-{"id":"Q7918345","verdict":"keep","reason":"Tarkari denotes a prepared vegetable curry; retain plausible named preparation rather than reject only for variation."}
-{"id":"Q7919751","verdict":"keep"}
+{"id":"Q7918345","verdict":"keep","reason":"Second check: Tarkari is the shared South Asian vegetable-curry preparation.","countries":["IN","NP","BD","PK"]}
+{"id":"Q7919751","verdict":"keep","countries":["FR"],"reason":"Second check: The description explicitly identifies classical French Venetian sauce."}
 {"id":"Q792104","verdict":"keep","countries":["HU"],"reason":"countries were empty; Hungarian pastry"}
 {"id":"Q7928372","verdict":"keep","countries":["GB"],"reason":"countries were empty; British biscuit"}
 {"id":"Q7932918","verdict":"keep","countries":["IN"],"reason":"countries were empty; Indian dish"}
-{"id":"Q79433149","verdict":"keep"}
+{"id":"Q79433149","verdict":"keep","countries":["NL"],"reason":"Second check: Hotelcake is a Dutch pound-cake preparation."}
 {"id":"Q7959466","verdict":"keep"}
 {"id":"Q7959484","verdict":"keep"}
 {"id":"Q796270","verdict":"keep"}
 {"id":"Q7963023","verdict":"keep"}
-{"id":"Q7968279","verdict":"keep"}
+{"id":"Q7968279","verdict":"keep","countries":["JP"],"reason":"Second check: Wappameshi is Japanese rice served in a wooden container."}
 {"id":"Q7973452","verdict":"keep"}
-{"id":"Q7974369","verdict":"keep"}
+{"id":"Q7974369","verdict":"keep","countries":["US"],"reason":"Second check: Watermelon steak is associated with modern American vegetarian cooking."}
 {"id":"Q797734","verdict":"keep"}
 {"id":"Q798409","verdict":"keep","countries":["DE"],"reason":"countries were empty; German potato dish"}
 {"id":"Q799098","verdict":"keep","countries":["DE"],"reason":"countries were empty; Baden soup"}
 {"id":"Q7995632","verdict":"keep"}
 {"id":"Q7995704","verdict":"keep"}
-{"id":"Q8010363","verdict":"keep"}
-{"id":"Q8013024","verdict":"keep"}
-{"id":"Q8017486","verdict":"keep"}
-{"id":"Q8018130","verdict":"keep"}
+{"id":"Q8010363","verdict":"keep","countries":["KR"],"reason":"Second check: Gopchang jeongol is Korean spicy offal hotpot."}
+{"id":"Q8013024","verdict":"keep","countries":["KR"],"reason":"Second check: Jeonggwa is traditional Korean candied confectionery."}
+{"id":"Q8017486","verdict":"keep","countries":["KR"],"reason":"Second check: Hoe-deopbap is Korean raw-fish rice."}
+{"id":"Q8018130","verdict":"keep","countries":["KR"],"reason":"Second check: Nabak kimchi is Korean radish water kimchi."}
 {"id":"Q8024918","verdict":"keep"}
 {"id":"Q8025241","verdict":"keep"}
 {"id":"Q80262234","verdict":"remove","reason":"named theme-park restaurant menu item (branded)"}
 {"id":"Q8031737","verdict":"remove","reason":"branded bread (Wonder Bread)"}
 {"id":"Q8039094","verdict":"keep","countries":["CN"],"reason":"countries were empty; Wuhan dish"}
-{"id":"Q8040160","verdict":"keep","reason":"Wyngz is a generic name for prepared wing-shaped chicken bites, not itself an identified brand."}
-{"id":"Q8042825","verdict":"keep"}
+{"id":"Q8040160","verdict":"remove","reason":"Second check: Wyngz denotes a processed packaged chicken product shaped like wings, rather than a distinct cooked dish."}
+{"id":"Q8042825","verdict":"keep","countries":["IN"],"reason":"Second check: Xacuti is the Goan curry identified in the description."}
 {"id":"Q8044057","verdict":"keep"}
 {"id":"Q804411","verdict":"keep"}
 {"id":"Q8047029","verdict":"keep"}
 {"id":"Q8051909","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese bean paste"}
 {"id":"Q8051963","verdict":"keep","countries":["IE"],"reason":"countries were empty; Irish confection"}
-{"id":"Q8052488","verdict":"keep"}
-{"id":"Q805344","verdict":"keep","reason":"Second opinion: ballotine is a prepared stuffed poultry dish, not merely a technique"}
+{"id":"Q8052488","verdict":"keep","countries":["KR"],"reason":"Second check: Yeotgangjeong is Korean syrup-bound confectionery."}
+{"id":"Q805344","verdict":"keep","reason":"Second check: Ballotine is a French stuffed boneless poultry preparation.","countries":["FR"]}
 {"id":"Q8053485","verdict":"keep"}
-{"id":"Q8053692","verdict":"keep"}
+{"id":"Q8053692","verdict":"keep","countries":["CN","TW"],"reason":"Second check: Yin Yang fish has Chinese and Taiwanese culinary associations."}
 {"id":"Q8055450","verdict":"remove","reason":"branded fruit jellies (York)"}
 {"id":"Q8055913","verdict":"keep"}
 {"id":"Q8057789","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese noodles"}
-{"id":"Q805934","verdict":"keep"}
-{"id":"Q805957","verdict":"keep"}
+{"id":"Q805934","verdict":"keep","countries":["DE"],"reason":"Second check: Bamberger is a German regional pastry."}
+{"id":"Q805957","verdict":"keep","countries":["DE"],"reason":"Second check: Bamberger Zwiebeln are German Bamberg stuffed onions."}
 {"id":"Q8060137","verdict":"keep","countries":["CU"],"reason":"countries were empty; Cuban side dish"}
-{"id":"Q8060464","verdict":"keep"}
+{"id":"Q8060464","verdict":"keep","countries":["KR"],"reason":"Second check: Yuhwang ori is explicitly Korean duck preparation."}
 {"id":"Q806097","verdict":"keep"}
-{"id":"Q806099","verdict":"keep"}
+{"id":"Q806099","verdict":"keep","countries":["PH","IN","ID"],"reason":"Second check: Banana chips have established Filipino, Indian and Indonesian traditions; Saba banana reinforces PH."}
 {"id":"Q8061020","verdict":"keep","countries":["LA"],"reason":"countries were empty; Laotian salad"}
 {"id":"Q806142","verdict":"keep"}
 {"id":"Q8061747","verdict":"keep","countries":["CN"],"reason":"countries were empty; Tibetan pastry"}
@@ -226,7 +226,7 @@
 {"id":"Q8074583","verdict":"remove","reason":"branded candy (ZotZ)"}
 {"id":"Q8076477","verdict":"keep","countries":["FR"],"reason":"countries were empty; French fish dish"}
 {"id":"Q8077757","verdict":"keep"}
-{"id":"Q8078183","verdict":"keep"}
+{"id":"Q8078183","verdict":"keep","countries":["LU"],"reason":"Second check: The description explicitly identifies Luxembourg Oesling cured ham."}
 {"id":"Q80923686","verdict":"keep"}
 {"id":"Q8097583","verdict":"keep"}
 {"id":"Q81","verdict":"remove","reason":"raw ingredient (carrot), not a dish"}
@@ -249,7 +249,7 @@
 {"id":"Q8193769","verdict":"keep"}
 {"id":"Q8194132","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese ramen"}
 {"id":"Q8196212","verdict":"keep","countries":["TR","GR","BG","BA","RS","AL","MK","HR","ME","AM"],"reason":"Börek belongs to shared Turkish, Armenian and Balkan culinary traditions."}
-{"id":"Q8205076","verdict":"keep"}
+{"id":"Q8205076","verdict":"keep","countries":["ES"],"reason":"Second check: The description explicitly identifies Spanish casserole rice."}
 {"id":"Q8205079","verdict":"keep"}
 {"id":"Q8205081","verdict":"keep","countries":["ES"],"reason":"countries were empty; Catalan dish"}
 {"id":"Q8205104","verdict":"keep","countries":["PT"],"reason":"countries were empty; Portuguese dish"}
@@ -271,7 +271,7 @@
 {"id":"Q8255731","verdict":"keep"}
 {"id":"Q8262017","verdict":"keep","countries":["PT"],"reason":"countries were empty; Portuguese soup"}
 {"id":"Q8265768","verdict":"remove","reason":"anatomical body part, not a dish"}
-{"id":"Q82753397","verdict":"keep"}
+{"id":"Q82753397","verdict":"keep","countries":["US"],"reason":"Second check: Bubblegum ice cream is an American ice-cream flavor preparation."}
 {"id":"Q829243","verdict":"keep"}
 {"id":"Q829977","verdict":"keep","countries":["AT"],"reason":"Second opinion: Besoffener Kapuziner is an Austrian dessert; https://austria-forum.org/af/Heimatlexikon/Besoffener_Kapuziner"}
 {"id":"Q83120337","verdict":"keep"}
@@ -288,7 +288,7 @@
 {"id":"Q83423428","verdict":"keep"}
 {"id":"Q83452931","verdict":"keep","countries":["ID"],"reason":"countries were empty; Balinese pancake"}
 {"id":"Q8345423","verdict":"keep","countries":["PY"],"reason":"countries were empty; Paraguayan chipa"}
-{"id":"Q8345498","verdict":"keep"}
+{"id":"Q8345498","verdict":"keep","countries":["GB","US"],"reason":"Second check: Mint chocolate has established British and American confectionery associations."}
 {"id":"Q834563","verdict":"keep"}
 {"id":"Q8347360","verdict":"keep"}
 {"id":"Q8347364","verdict":"keep"}

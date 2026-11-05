@@ -5,12 +5,12 @@
 {"id":"Q752006","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChapati","status":"ok"},{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Chapati","status":"ok"},{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FChapati","status":"ok"}]}
 {"id":"Q755730","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AIrish_Stew","status":"ok"}]}
 {"id":"Q7565047","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASoup_alla_Canavese","status":"ok"}]}
-{"id":"Q7577444","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpinach_Salad","status":"ok"}]}
+{"id":"Q7577444","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpinach_Salad","status":"ok"}],"countries":["US"],"reason":"Second check: This spinach salad with hard-boiled eggs, bacon bits and sweet Worcestershire dressing is an established American-style spinach salad."}
 {"id":"Q7579159","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASpoonbread","status":"ok"}]}
 {"id":"Q7601887","verdict":"keep","reason":"countries were empty; Cornish dish from the UK","countries":["GB"],"recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AStargazy_Pie","status":"ok"}]}
 {"id":"Q7605238","verdict":"keep","reason":"countries were empty; English dish from the UK","countries":["GB"],"recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASteak_and_Kidney_Pudding","status":"ok"}]}
 {"id":"Q7617523","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AStir-fried_tomato_and_scrambled_eggs","status":"ok"}]}
-{"id":"Q7622523","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AStrawberry_Rhubarb_Pie","status":"ok"}]}
+{"id":"Q7622523","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AStrawberry_Rhubarb_Pie","status":"ok"}],"countries":["US","CA","GB"],"reason":"Second check: Strawberry-rhubarb pie is associated with American, Canadian and British baking; the supplied source prepares the classic mixed-fruit pie."}
 {"id":"Q7630428","verdict":"keep","recipes":[{"source":"https://pl.wikibooks.org/wiki/Ksi%C4%85%C5%BCka_kucharska%2FSuaasat","status":"ok"}]}
 {"id":"Q763843","verdict":"keep","reason":"countries were empty; sopaipilla is a Chilean, Peruvian, Argentine and Mexican/US Southwest dish","countries":["CL","PE","AR","MX","US"],"recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FSopaipilla","status":"ok"}]}
 {"id":"Q7664181","verdict":"keep","reason":"countries were empty; salad from Silesia, Poland","countries":["PL"],"recipes":[{"source":"https://pl.wikibooks.org/wiki/Ksi%C4%85%C5%BCka_kucharska%2FSza%C5%82ot","status":"ok"}]}

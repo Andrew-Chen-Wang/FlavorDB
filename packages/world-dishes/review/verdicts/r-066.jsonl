@@ -15,4 +15,4 @@
 {"id":"Q8961074","verdict":"keep","countries":["BR"],"reason":"Brazilian dish; countries were empty","recipes":[{"source":"https://pt.wikibooks.org/wiki/Livro_de_receitas%2FFeij%C3%A3o_tropeiro","status":"ok"}]}
 {"id":"Q896362","verdict":"keep","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Kirschenmichel","status":"ok"}]}
 {"id":"Q896947","verdict":"keep","recipes":[{"source":"https://de.wikibooks.org/wiki/Kochbuch%2F_Birnen%2C_Bohnen_und_Speck","status":"ok"}]}
-{"id":"Q899640","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ARoast_Chicken","status":"ok"}]}
+{"id":"Q899640","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ARoast_Chicken","status":"ok"}],"countries":["GB","FR","US","PT","PE"],"reason":"Second check: Roast chicken has established British, French, American, Portuguese and Peruvian associations; this source is the plain whole-bird oven roast with lemon."}

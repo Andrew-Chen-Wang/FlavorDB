@@ -1,8 +1,8 @@
 {"id":"Q2883184","verdict":"keep","countries":["ES"],"reason":"no country; Spanish (Leonese) dish, added country","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FPatatas_a_la_importancia","status":"ok"}]}
-{"id":"Q2884546","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ATuna_Salad","status":"ok"}]}
+{"id":"Q2884546","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ATuna_Salad","status":"ok"}],"countries":["US"],"reason":"Second check: Mayonnaise-based canned tuna salad on toast has established American association."}
 {"id":"Q2891036","verdict":"keep","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FConejo_en_salmorejo","status":"ok"}]}
 {"id":"Q2893649","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ADrunken_Shrimp","status":"ok"}]}
-{"id":"Q28939504","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ABanana_Pancakes","status":"ok"}]}
+{"id":"Q28939504","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ABanana_Pancakes","status":"ok"}],"countries":["US","GB"],"reason":"Second check: These leavened banana batter pancakes belong to American/British breakfast-pancake cooking."}
 {"id":"Q2894864","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ALobster_Thermidor","status":"ok"}]}
 {"id":"Q2904240","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AIsraeli_Salad","status":"ok"}]}
 {"id":"Q2904916","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ABagel_Toast","status":"ok"}]}

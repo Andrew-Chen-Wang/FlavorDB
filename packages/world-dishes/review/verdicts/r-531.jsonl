@@ -5,7 +5,7 @@
 {"id":"wikibooks:kedgeree-rice-and-smoked-fish","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AKedgeree_(Rice_and_Smoked_Fish)","status":"ok"}]}
 {"id":"wikibooks:kedjenou-chicken-chicken-and-vegetable-stew","verdict":"keep","countries":["CI"],"reason":"Source identifies this as an Ivory Coast dish.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AKedjenou_Chicken_(Chicken_and_Vegetable_Stew)","status":"ok"}]}
 {"id":"wikibooks:kek-batik-malaysian-tiffin","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AKek_Batik_(Malaysian_Tiffin)","status":"ok"}]}
-{"id":"wikibooks:kele-ka-halwa-fried-bananas-in-milk","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AKele_Ka_Halwa_(Fried_Bananas_in_Milk)","status":"ok"}]}
+{"id":"wikibooks:kele-ka-halwa-fried-bananas-in-milk","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AKele_Ka_Halwa_(Fried_Bananas_in_Milk)","status":"ok"}],"countries":["IN"],"reason":"Retain Indian kele ka halwa: ghee-fried bananas mixed with reduced milk and toasted nuts."}
 {"id":"wikibooks:kerala-pachadi-coconut-mango-condiment","verdict":"keep","countries":["IN"],"reason":"This is the specifically Kerala preparation of pachadi.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AKerala_Pachadi_(Coconut_Mango_Condiment)","status":"ok"}]}
 {"id":"wikibooks:keralan-prawns","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AKeralan_Prawns","status":"ok"}]}
 {"id":"wikibooks:keralan-vegetable-stew","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AKeralan_Vegetable_Stew","status":"ok"}]}

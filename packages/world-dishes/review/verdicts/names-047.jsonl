@@ -30,9 +30,9 @@
 {"id":"Q56232430","verdict":"keep"}
 {"id":"Q56235994","verdict":"keep","countries":["KR"],"reason":"Korean dish; countries were empty"}
 {"id":"Q56236136","verdict":"keep","countries":["KR"],"reason":"Korean sundubu; countries were empty"}
-{"id":"Q5623917","verdict":"keep"}
+{"id":"Q5623917","verdict":"keep","reason":"Gyabrag is a Tibetan barley pancake.","countries":["CN"]}
 {"id":"Q5624090","verdict":"keep","countries":["KR"],"reason":"Korean dish; countries were empty"}
-{"id":"Q56241382","verdict":"keep"}
+{"id":"Q56241382","verdict":"keep","reason":"German Gersten dish name supplies the fallback association where no more specific evidence is supplied.","countries":["DE"]}
 {"id":"Q56250611","verdict":"remove","reason":"category name (confectionery), not one dish"}
 {"id":"Q5625377","verdict":"keep","countries":["GB"],"reason":"Kent tart; countries were empty"}
 {"id":"Q56253895","verdict":"keep","countries":["KR"],"reason":"Korean oxtail soup; countries were empty"}
@@ -45,28 +45,28 @@
 {"id":"Q56278726","verdict":"keep"}
 {"id":"Q56280821","verdict":"keep"}
 {"id":"Q56292893","verdict":"remove","reason":"raw ingredient (brown shrimp flesh), not a prepared dish"}
-{"id":"Q56294997","verdict":"keep"}
-{"id":"Q56295002","verdict":"keep"}
-{"id":"Q56295510","verdict":"keep"}
+{"id":"Q56294997","verdict":"keep","reason":"Veal stew has established French blanquette and Italian spezzatino traditions.","countries":["FR","IT"]}
+{"id":"Q56295002","verdict":"keep","reason":"Blanne Jang is a Luxembourg bean dish.","countries":["LU"]}
+{"id":"Q56295510","verdict":"keep","reason":"Hühnerspießchen is a generic German chicken-skewer name without a more specific cuisine in this entry.","countries":["DE"]}
 {"id":"Q56296735","verdict":"keep"}
 {"id":"Q56297456","verdict":"keep"}
-{"id":"Q56297683","verdict":"keep"}
-{"id":"Q56297948","verdict":"keep"}
+{"id":"Q56297683","verdict":"keep","reason":"Wine soup includes German-speaking Alpine, Hungarian borleves and South Tyrolean traditions.","countries":["DE","AT","CH","HU","IT"]}
+{"id":"Q56297948","verdict":"keep","reason":"Fruchtkaramelle is a German fruit-caramel confection name.","countries":["DE"]}
 {"id":"Q56299640","verdict":"keep"}
-{"id":"Q56299804","verdict":"keep"}
+{"id":"Q56299804","verdict":"keep","reason":"Tahlia is an Algerian dessert.","countries":["DZ"]}
 {"id":"Q56299924","verdict":"keep"}
 {"id":"Q56299959","verdict":"keep","countries":["PT","BR"],"reason":"Second opinion: arroz doce is associated with Portugal and Brazil"}
-{"id":"Q56300018","verdict":"keep"}
+{"id":"Q56300018","verdict":"keep","reason":"Mbarja is an Algerian filled semolina cake.","countries":["DZ"]}
 {"id":"Q56300140","verdict":"keep"}
 {"id":"Q56307726","verdict":"keep"}
 {"id":"Q56308209","verdict":"keep"}
 {"id":"Q56311538","verdict":"keep","name":"Kondreh","reason":"removed disambiguation suffix from name"}
-{"id":"Q56315370","verdict":"keep"}
+{"id":"Q56315370","verdict":"keep","reason":"Chocolate fondant is associated with French baking.","countries":["FR"]}
 {"id":"Q56315793","verdict":"keep"}
 {"id":"Q56316733","verdict":"keep","countries":["KR"],"reason":"Korean jeok; countries were empty"}
-{"id":"Q56318608","verdict":"keep"}
+{"id":"Q56318608","verdict":"remove","reason":"Bard denotes fatback used to cover meat; no preparation or recipe establishes a standalone prepared food."}
 {"id":"Q56318681","verdict":"keep","countries":["BO"],"reason":"Bolivian bread; countries were empty"}
-{"id":"Q56319981","verdict":"keep"}
+{"id":"Q56319981","verdict":"keep","reason":"Bénédictin is a French cake name.","countries":["FR"]}
 {"id":"Q56320624","verdict":"keep"}
 {"id":"Q56320644","verdict":"keep"}
 {"id":"Q56321400","verdict":"keep","countries":["BO"],"reason":"Bolivian dish; countries were empty"}
@@ -78,16 +78,16 @@
 {"id":"Q56346661","verdict":"keep"}
 {"id":"Q56346680","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
 {"id":"Q56346823","verdict":"keep","countries":["JP"],"reason":"Japanese soup from Mashiko; countries were empty"}
-{"id":"Q56347154","verdict":"keep"}
-{"id":"Q56348878","verdict":"keep"}
-{"id":"Q56349591","verdict":"keep"}
-{"id":"Q56353552","verdict":"keep"}
-{"id":"Q56355857","verdict":"keep"}
+{"id":"Q56347154","verdict":"keep","reason":"Salad chicken is a Japanese prepared chicken product, not an identified brand.","countries":["JP"]}
+{"id":"Q56348878","verdict":"keep","reason":"Small ayu simmered in sweet soy sauce is Japanese tsukudani.","countries":["JP"]}
+{"id":"Q56349591","verdict":"keep","reason":"Ōsei candy is a Japanese gyuhi confection.","countries":["JP"]}
+{"id":"Q56353552","verdict":"keep","reason":"Chocotone is the Brazilian chocolate panettone style.","countries":["BR"]}
+{"id":"Q56355857","verdict":"keep","reason":"Paliushky are Ukrainian dumplings despite the Russian alias.","countries":["UA"]}
 {"id":"Q56361009","verdict":"keep","countries":["IR"],"reason":"Iranian dish; countries were empty"}
 {"id":"Q56365932","verdict":"keep","countries":["IR"],"reason":"Iranian kabab; countries were empty"}
 {"id":"Q5636956","verdict":"keep"}
-{"id":"Q5637746","verdict":"keep"}
-{"id":"Q5638274","verdict":"keep"}
+{"id":"Q5637746","verdict":"keep","reason":"Meatballs with rice include Turkish and Greek preparations, Russian tefteli and American porcupine meatballs.","countries":["TR","GR","RU","US"]}
+{"id":"Q5638274","verdict":"keep","reason":"Postre vigilante is the Argentine and Uruguayan cheese-and-fruit-paste dessert.","countries":["AR","UY"]}
 {"id":"Q5638807","verdict":"keep","countries":["ES"],"reason":"Spanish bun; countries were empty"}
 {"id":"Q56390165","verdict":"keep","countries":["ID"],"reason":"Indonesian sambal; countries were empty"}
 {"id":"Q56391469","verdict":"keep","countries":["ID"],"reason":"Indonesian soto; countries were empty"}
@@ -102,10 +102,10 @@
 {"id":"Q56393494","verdict":"keep"}
 {"id":"Q56394196","verdict":"keep"}
 {"id":"Q56394259","verdict":"keep"}
-{"id":"Q56397725","verdict":"keep"}
+{"id":"Q56397725","verdict":"keep","reason":"Dried squid is a prepared seafood snack associated with China, Japan, Korea, Thailand and Vietnam.","countries":["CN","JP","KR","TH","VN"]}
 {"id":"Q56398981","verdict":"keep"}
 {"id":"Q56399237","verdict":"keep"}
-{"id":"Q56402878","verdict":"keep"}
+{"id":"Q56402878","verdict":"keep","reason":"Horta is the Greek cooked greens dish.","countries":["GR"]}
 {"id":"Q56408977","verdict":"keep","countries":["HR"],"reason":"Dalmatian pršut; countries were empty"}
 {"id":"Q56411177","verdict":"keep","countries":["RU","UA","BY"],"reason":"Plombir is shared by Russian, Ukrainian and Belarusian food traditions; French metadata was misleading."}
 {"id":"Q56411494","verdict":"keep"}
@@ -113,29 +113,29 @@
 {"id":"Q56412603","verdict":"keep"}
 {"id":"Q56413424","verdict":"keep"}
 {"id":"Q56413999","verdict":"keep"}
-{"id":"Q56416642","verdict":"keep"}
-{"id":"Q56422976","verdict":"keep"}
+{"id":"Q56416642","verdict":"keep","reason":"Jagung bose is the Indonesian Timorese corn porridge described.","countries":["ID"]}
+{"id":"Q56422976","verdict":"keep","reason":"Sea cabbage is a plausible prepared seaweed dish in Ukrainian and Russian usage; the entry does not specify a raw ingredient.","countries":["UA","RU"]}
 {"id":"Q564271","verdict":"keep"}
 {"id":"Q5642869","verdict":"keep"}
 {"id":"Q5643056","verdict":"keep"}
 {"id":"Q5643212","verdict":"keep"}
 {"id":"Q5643322","verdict":"keep"}
 {"id":"Q5643900","verdict":"keep","countries":["HK"],"reason":"Hong Kong pastry; BR was wrong"}
-{"id":"Q5643903","verdict":"keep"}
+{"id":"Q5643903","verdict":"keep","reason":"Ham salad with mayonnaise and relish belongs to British and American cooking.","countries":["GB","US"]}
 {"id":"Q56441185","verdict":"keep","countries":["DE"],"reason":"Bavarian cake; countries were empty"}
 {"id":"Q5644416","verdict":"keep"}
 {"id":"Q564491","verdict":"keep"}
-{"id":"Q564494","verdict":"keep"}
+{"id":"Q564494","verdict":"keep","reason":"Galinhada is explicitly the Brazilian chicken-and-rice dish.","countries":["BR"]}
 {"id":"Q564500","verdict":"keep"}
-{"id":"Q564506","verdict":"keep"}
+{"id":"Q564506","verdict":"keep","reason":"Open shrimp sandwiches with egg and mayonnaise are shared Scandinavian and Finnish foods.","countries":["SE","DK","NO","FI"]}
 {"id":"Q564509","verdict":"remove","reason":"cooking technique page (kho), not one dish"}
-{"id":"Q564557","verdict":"keep"}
+{"id":"Q564557","verdict":"keep","reason":"Oxtail soup has common British, Chinese, Korean, Indonesian, German, French and Hawaiian American forms.","countries":["GB","CN","KR","ID","DE","FR","US"]}
 {"id":"Q564560","verdict":"keep"}
 {"id":"Q564570","verdict":"keep","countries":["VN"],"reason":"Vietnamese sausage; countries were empty"}
 {"id":"Q564573","verdict":"keep"}
 {"id":"Q564622","verdict":"keep"}
-{"id":"Q564629","verdict":"keep"}
-{"id":"Q564722","verdict":"keep"}
+{"id":"Q564629","verdict":"keep","reason":"Anna torte is an Austrian chocolate torte.","countries":["AT"]}
+{"id":"Q564722","verdict":"keep","reason":"Charqui is traditional prepared dried meat shared across these Andean and Southern Cone countries.","countries":["PE","BO","CL","AR"]}
 {"id":"Q5647753","verdict":"keep"}
 {"id":"Q564786","verdict":"keep","countries":["DE"],"reason":"German schnitzel; countries were empty"}
 {"id":"Q56490023","verdict":"remove","reason":"product category (sugar-free candy), not one dish"}
@@ -144,32 +144,32 @@
 {"id":"Q5651265","verdict":"keep","countries":["ES"],"reason":"Asturian dish; countries were empty"}
 {"id":"Q56512885","verdict":"keep"}
 {"id":"Q5652554","verdict":"keep"}
-{"id":"Q56525731","verdict":"keep"}
+{"id":"Q56525731","verdict":"keep","reason":"Mutton soup has established Chinese, Indian and British preparations.","countries":["CN","IN","GB"]}
 {"id":"Q5653655","verdict":"keep"}
 {"id":"Q5655520","verdict":"keep"}
 {"id":"Q56559327","verdict":"keep","countries":["US"],"reason":"Baltimore pit beef; countries were empty"}
 {"id":"Q5656299","verdict":"keep","countries":["BD","IN","PK"],"reason":"Ras malai is commonly associated with Bangladesh, India and Pakistan."}
 {"id":"Q5656392","verdict":"keep"}
-{"id":"Q5656583","verdict":"keep"}
+{"id":"Q5656583","verdict":"keep","reason":"Achilata is an Argentine frozen dessert.","countries":["AR"]}
 {"id":"Q5656677","verdict":"keep","countries":["MX"],"reason":"Mexican candy; countries were empty"}
 {"id":"Q565715","verdict":"keep"}
 {"id":"Q5657318","verdict":"keep"}
-{"id":"Q565767","verdict":"keep"}
-{"id":"Q56582296","verdict":"keep"}
+{"id":"Q565767","verdict":"keep","reason":"Ragout is the French stew tradition identified by this generic name.","countries":["FR"]}
+{"id":"Q56582296","verdict":"keep","reason":"Waffle fries are associated with American fast food.","countries":["US"]}
 {"id":"Q56599054","verdict":"keep","countries":["NL"],"reason":"Dutch rusk; countries were empty"}
 {"id":"Q56599055","verdict":"keep","countries":["ZA"],"reason":"Afrikaans rusk; countries were empty"}
 {"id":"Q56599845","verdict":"keep"}
 {"id":"Q5660287","verdict":"keep"}
-{"id":"Q56611571","verdict":"keep"}
-{"id":"Q5661511","verdict":"keep"}
+{"id":"Q56611571","verdict":"keep","reason":"Miso katsudon is a Japanese miso-cutlet rice bowl.","countries":["JP"]}
+{"id":"Q5661511","verdict":"keep","reason":"Ajo colorao is a Spanish potato dish.","countries":["ES"]}
 {"id":"Q5661529","verdict":"keep","countries":["ES"],"reason":"Catalan dish; countries were empty"}
 {"id":"Q5662088","verdict":"keep","name":"Eris","countries":["IR"],"reason":"name had a disambiguation suffix; Tabriz confection, so Iran"}
 {"id":"Q5663370","verdict":"keep"}
-{"id":"Q5663825","verdict":"keep"}
+{"id":"Q5663825","verdict":"keep","reason":"Bezhi is a Kurdish cookie shared across Kurdish regions.","countries":["IQ","IR","TR","SY"]}
 {"id":"Q5663872","verdict":"keep","countries":["ES"],"reason":"Spanish dish; countries were empty"}
 {"id":"Q56650496","verdict":"keep","countries":["RO","MD"],"reason":"Second opinion: ardei umpluti is shared Romanian and Moldovan food"}
 {"id":"Q5665969","verdict":"keep","countries":["IR"],"reason":"Persian pastry; countries were empty"}
-{"id":"Q5666489","verdict":"keep"}
+{"id":"Q5666489","verdict":"keep","reason":"Alfajor is shared Spanish and Latin American confectionery.","countries":["ES","AR","UY","PE","CL"]}
 {"id":"Q5668956","verdict":"keep","countries":["ES"],"reason":"Catalan dish; countries were empty"}
 {"id":"Q5669719","verdict":"keep"}
 {"id":"Q5669743","verdict":"keep"}
@@ -188,7 +188,7 @@
 {"id":"Q5678787","verdict":"keep"}
 {"id":"Q5679218","verdict":"keep","countries":["KR"],"reason":"Korean dessert; countries were empty"}
 {"id":"Q5679304","verdict":"keep"}
-{"id":"Q56798412","verdict":"keep"}
+{"id":"Q56798412","verdict":"remove","reason":"Biggest Gata of the World identifies a particular record-setting pastry, not a dish type."}
 {"id":"Q56806241","verdict":"keep"}
 {"id":"Q5682366","verdict":"keep"}
 {"id":"Q5682941","verdict":"keep","countries":["IR"],"reason":"Persian pastry; countries were empty"}
@@ -200,10 +200,10 @@
 {"id":"Q5687118","verdict":"keep"}
 {"id":"Q5687757","verdict":"keep","countries":["IN","PK"],"reason":"Second opinion: palak paneer is shared across Indian and Pakistani cuisines"}
 {"id":"Q56877598","verdict":"keep"}
-{"id":"Q56884785","verdict":"keep"}
+{"id":"Q56884785","verdict":"keep","reason":"Rusk has common British, Dutch, South African, South Asian, Scandinavian, German, Greek and Turkish traditions.","countries":["GB","NL","ZA","IN","PK","SE","DE","GR","TR"]}
 {"id":"Q56893397","verdict":"keep"}
 {"id":"Q5690018","verdict":"keep"}
-{"id":"Q5690994","verdict":"keep"}
+{"id":"Q5690994","verdict":"keep","reason":"Kelane is a Kurdish filled flatbread especially associated with Iran and Iraq.","countries":["IR","IQ"]}
 {"id":"Q5691167","verdict":"keep"}
 {"id":"Q5692333","verdict":"keep","countries":["ES"],"reason":"Spanish baked good; countries were empty"}
 {"id":"Q5694314","verdict":"keep","countries":["IR"],"reason":"Persian pastry; countries were empty"}
@@ -215,31 +215,31 @@
 {"id":"Q570038","verdict":"keep"}
 {"id":"Q5700719","verdict":"keep","countries":["IR"],"reason":"Persian pastry; countries were empty"}
 {"id":"Q5701588","verdict":"keep"}
-{"id":"Q5702275","verdict":"keep"}
+{"id":"Q5702275","verdict":"keep","reason":"Unleavened bread includes Jewish matzo, South Asian flatbreads, Mexican tortillas and Armenian and Turkish lavash traditions.","countries":["IL","IN","PK","MX","AM","TR"]}
 {"id":"Q5703544","verdict":"keep"}
-{"id":"Q5703916","verdict":"keep"}
+{"id":"Q5703916","verdict":"keep","reason":"Laboo is Iranian cooked beet street food.","countries":["IR"]}
 {"id":"Q5704569","verdict":"keep","countries":["IR"],"reason":"Persian pastry; countries were empty"}
 {"id":"Q5705446","verdict":"keep"}
 {"id":"Q5706288","verdict":"keep","countries":["ES"],"reason":"Zamora (Spain) dish; countries were empty"}
 {"id":"Q5706291","verdict":"keep"}
 {"id":"Q5706305","verdict":"keep","countries":["ES"],"reason":"Valencian dish; countries were empty"}
 {"id":"Q5706310","verdict":"keep","countries":["ES"],"reason":"Spanish dish; countries were empty"}
-{"id":"Q5706318","verdict":"keep"}
-{"id":"Q5706333","verdict":"keep"}
+{"id":"Q5706318","verdict":"keep","reason":"Seafood rice has established Portuguese and Spanish forms.","countries":["PT","ES"]}
+{"id":"Q5706333","verdict":"keep","reason":"Arroz de fríjol cabecita negra is Colombian black-eyed-pea rice.","countries":["CO"]}
 {"id":"Q5706337","verdict":"keep"}
 {"id":"Q5707569","verdict":"keep"}
-{"id":"Q5707723","verdict":"keep"}
+{"id":"Q5707723","verdict":"keep","reason":"Asadurilla is a Spanish prepared offal dish.","countries":["ES"]}
 {"id":"Q5708446","verdict":"keep"}
 {"id":"Q5710501","verdict":"keep"}
 {"id":"Q5711624","verdict":"keep"}
 {"id":"Q5714984","verdict":"remove","reason":"raw spice (saffron), not a prepared dish"}
 {"id":"Q5715053","verdict":"keep"}
-{"id":"Q5715906","verdict":"keep"}
+{"id":"Q5715906","verdict":"keep","reason":"Nan-e nokhodchi are Iranian chickpea cookies.","countries":["IR"]}
 {"id":"Q5718989","verdict":"keep","countries":["ES"],"reason":"Basque/Spanish tapa; countries were empty"}
-{"id":"Q57198707","verdict":"keep"}
+{"id":"Q57198707","verdict":"keep","reason":"Schlorzifladen is explicitly a Swiss pear-and-cream tart.","countries":["CH"]}
 {"id":"Q5719932","verdict":"keep"}
 {"id":"Q57205077","verdict":"keep","countries":["MU"],"reason":"Mauritian dish; countries were empty"}
-{"id":"Q57206027","verdict":"keep"}
+{"id":"Q57206027","verdict":"keep","reason":"Kung sarong is Thai noodle-wrapped fried shrimp.","countries":["TH"]}
 {"id":"Q5721298","verdict":"keep"}
 {"id":"Q5721367","verdict":"keep","countries":["IR"],"reason":"Persian pastry; countries were empty"}
 {"id":"Q572557","verdict":"keep"}
@@ -249,7 +249,7 @@
 {"id":"Q5727337","verdict":"keep","countries":["JP"],"reason":"Japanese funazushi; countries were empty"}
 {"id":"Q5729035","verdict":"keep","countries":["MX"],"reason":"Mexican birote bread; countries were empty"}
 {"id":"Q5729169","verdict":"keep"}
-{"id":"Q5729425","verdict":"keep"}
+{"id":"Q5729425","verdict":"keep","reason":"Bizcochitos de grasa are Argentine and Uruguayan lard biscuits.","countries":["AR","UY"]}
 {"id":"Q5729428","verdict":"keep"}
 {"id":"Q57304501","verdict":"keep"}
 {"id":"Q5730660","verdict":"keep","countries":["IR"],"reason":"Persian pastry; countries were empty"}
@@ -257,15 +257,15 @@
 {"id":"Q5731555","verdict":"keep"}
 {"id":"Q5731586","verdict":"keep"}
 {"id":"Q5731591","verdict":"keep"}
-{"id":"Q57328687","verdict":"keep"}
+{"id":"Q57328687","verdict":"keep","reason":"Grilled tomatoes are common in British breakfasts and Iranian and Turkish grilled meals.","countries":["GB","IR","TR"]}
 {"id":"Q5735843","verdict":"keep"}
 {"id":"Q5736147","verdict":"keep"}
-{"id":"Q57385880","verdict":"keep"}
+{"id":"Q57385880","verdict":"keep","reason":"Silserkugel is a Swiss chocolate confection.","countries":["CH"]}
 {"id":"Q5738673","verdict":"keep","countries":["ES"],"reason":"Castilian soup; countries were empty"}
 {"id":"Q5739273","verdict":"keep"}
 {"id":"Q5739461","verdict":"keep"}
 {"id":"Q5739698","verdict":"keep"}
-{"id":"Q5739874","verdict":"keep"}
+{"id":"Q5739874","verdict":"keep","reason":"The lamb ragout name and wine-based stew fit French ragout; Esperanto does not supply a country.","countries":["FR"]}
 {"id":"Q5739890","verdict":"keep","countries":["ES"],"reason":"Andalusian soup; countries were empty"}
 {"id":"Q5739896","verdict":"keep"}
 {"id":"Q5739900","verdict":"keep","countries":["ES"],"reason":"Galician soup; countries were empty"}
@@ -275,12 +275,12 @@
 {"id":"Q5741731","verdict":"keep"}
 {"id":"Q574483","verdict":"keep"}
 {"id":"Q5748189","verdict":"keep","countries":["KR"],"reason":"Korean porridge; countries were empty"}
-{"id":"Q5748887","verdict":"keep"}
+{"id":"Q5748887","verdict":"keep","reason":"Carantanta is a Colombian corn preparation.","countries":["CO"]}
 {"id":"Q5748955","verdict":"keep","countries":["AR","CL","BO"],"reason":"carbonada, dish of Argentina, Chile and Bolivia; countries were empty"}
-{"id":"Q575069","verdict":"keep"}
+{"id":"Q575069","verdict":"keep","reason":"Blessed bread is associated with Greek and Russian Orthodox bread traditions.","countries":["GR","RU"]}
 {"id":"Q5752977","verdict":"keep"}
 {"id":"Q5753018","verdict":"keep","countries":["MX"],"reason":"Jalisco dish; countries were empty"}
-{"id":"Q575329","verdict":"keep"}
+{"id":"Q575329","verdict":"keep","reason":"Kaminari-okoshi is a Japanese Tokyo rice confection.","countries":["JP"]}
 {"id":"Q5754353","verdict":"remove","reason":"shop/brand name (Casa Mira), not a dish"}
 {"id":"Q575506","verdict":"keep"}
 {"id":"Q5758782","verdict":"keep"}
@@ -291,8 +291,8 @@
 {"id":"Q5764438","verdict":"keep","countries":["MX"],"reason":"Mexican tamal; countries were empty"}
 {"id":"Q5764649","verdict":"keep"}
 {"id":"Q5765263","verdict":"keep","countries":["EC"],"reason":"Ecuadorian chaulafán; CN was wrong"}
-{"id":"Q57656613","verdict":"keep","reason":"Second opinion: dark chocolate chips are prepared chocolate, not a plain raw ingredient"}
-{"id":"Q57659729","verdict":"keep"}
+{"id":"Q57656613","verdict":"keep","reason":"Dark chocolate chips are a manufactured chocolate product and edible confection, not a plain raw ingredient.","countries":["US"]}
+{"id":"Q57659729","verdict":"keep","reason":"Candied orange peel is a prepared confection shared French and Italian traditions.","countries":["FR","IT"]}
 {"id":"Q5766170","verdict":"keep","countries":["CR"],"reason":"Costa Rican dish; countries were empty"}
 {"id":"Q5766593","verdict":"keep"}
 {"id":"Q5767217","verdict":"keep","countries":["ES"],"reason":"Asturian dish; countries were empty"}

@@ -6,11 +6,11 @@
 {"id":"wikibooks-es:quesadilla-salvadoreña","verdict":"keep","countries":["SV"],"reason":"countries were empty; Salvadoran dish","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FQuesadilla_salvadore%C3%B1a","status":"ok"}]}
 {"id":"wikibooks-es:quesadillas","verdict":"keep","countries":["MX"],"reason":"countries were empty; Mexican dish","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FQuesadillas","status":"ok"}]}
 {"id":"wikibooks-es:queso-de-mano","verdict":"keep","countries":["VE"],"reason":"countries were empty; Venezuelan cheese","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FQueso_de_mano","status":"ok"}]}
-{"id":"wikibooks-es:quinoa-al-microondas-con-setas-y-atún","verdict":"keep","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FQuinoa_al_microondas_con_setas_y_at%C3%BAn","status":"ok"}]}
+{"id":"wikibooks-es:quinoa-al-microondas-con-setas-y-atún","verdict":"keep","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FQuinoa_al_microondas_con_setas_y_at%C3%BAn","status":"ok"}],"countries":["ES"],"reason":"Tuna-mushroom quinoa with olive oil is a modern Spanish household microwave dish; quinoa alone does not make this an Andean traditional preparation."}
 {"id":"wikibooks-es:quinua-con-leche","verdict":"remove","reason":"beverage (source calls it a bebida, cat=Bebidas)"}
 {"id":"wikibooks-es:rabo-de-toro","verdict":"keep","countries":["ES"],"reason":"countries were empty; Spanish dish","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FRabo_de_toro","status":"ok"}]}
 {"id":"wikibooks-es:ragú-boloñesa","verdict":"keep","countries":["IT"],"reason":"countries were empty; Bolognese ragù from Italy","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FRag%C3%BA_bolo%C3%B1esa","status":"ok"}]}
-{"id":"wikibooks-es:rape-guisado","verdict":"keep","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FRape_guisado","status":"ok"}]}
+{"id":"wikibooks-es:rape-guisado","verdict":"keep","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FRape_guisado","status":"ok"}],"countries":["ES"],"reason":"Monkfish and clam stew explicitly belongs to Potries, Spain; the source ingredient pork mismatch does not alter the geographic identification."}
 {"id":"wikibooks-es:refresco-con-sabor-a-vainilla","verdict":"remove","reason":"drink (soda, cat=Bebidas)"}
 {"id":"wikibooks-es:refresco-de-cereza","verdict":"remove","reason":"drink (soda, cat=Bebidas)"}
 {"id":"wikibooks-es:refresco-de-cola","verdict":"remove","reason":"drink (cola soda, cat=Bebidas)"}

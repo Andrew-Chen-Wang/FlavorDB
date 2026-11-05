@@ -1,10 +1,10 @@
-{"id":"Q13101370","verdict":"keep"}
-{"id":"Q131015889","verdict":"keep"}
+{"id":"Q13101370","verdict":"keep","countries":["LU"],"reason":"Aachtchen is Luxembourg cake."}
+{"id":"Q131015889","verdict":"keep","countries":["IT"],"reason":"Biscotto Umberto is Italian biscuit."}
 {"id":"Q131036344","verdict":"keep","countries":["NG"],"reason":"meal of southern Kaduna people, Nigeria"}
 {"id":"Q131048134","verdict":"keep"}
 {"id":"Q13105845","verdict":"keep","countries":["MG"],"reason":"described as Malagasy food"}
-{"id":"Q13107858","verdict":"keep"}
-{"id":"Q13110362","verdict":"keep"}
+{"id":"Q13107858","verdict":"keep","countries":["FR"],"reason":"Papillote is the French wrapped chocolate confection, not the cooking method."}
+{"id":"Q13110362","verdict":"keep","countries":["IN"],"reason":"Ginger curd curry belongs to Indian cooking."}
 {"id":"Q131104406","verdict":"keep","countries":["IN"],"reason":"Indian bread per description"}
 {"id":"Q13110689","verdict":"keep","countries":["IN"],"reason":"Kerala dish"}
 {"id":"Q13110866","verdict":"keep","countries":["IN"],"reason":"Kerala dish"}
@@ -14,8 +14,8 @@
 {"id":"Q131125406","verdict":"keep"}
 {"id":"Q13113101","verdict":"keep","countries":["IN"],"reason":"Kerala snack"}
 {"id":"Q13113392","verdict":"keep","countries":["IN"],"reason":"Kerala pickle"}
-{"id":"Q131141679","verdict":"keep"}
-{"id":"Q131141698","verdict":"keep"}
+{"id":"Q131141679","verdict":"remove","reason":"Independent second country review: High mountain honey is an unprepared honey ingredient without recipe.","countries":[]}
+{"id":"Q131141698","verdict":"remove","reason":"Independent second country review: Rosemary honey is an unprepared honey ingredient without recipe.","countries":[]}
 {"id":"Q13114512","verdict":"keep","countries":["IN"],"reason":"Kerala steamed cake"}
 {"id":"Q131145353","verdict":"keep"}
 {"id":"Q131145392","verdict":"keep"}
@@ -24,7 +24,7 @@
 {"id":"Q131152213","verdict":"keep","countries":["IT"],"reason":"bread from Lentini, Sicily"}
 {"id":"Q131181337","verdict":"keep"}
 {"id":"Q13120927","verdict":"keep"}
-{"id":"Q13123554","verdict":"keep"}
+{"id":"Q13123554","verdict":"keep","countries":["TZ"],"reason":"Kitawa is an East African banana-and-milk dish associated with Tanzania."}
 {"id":"Q13124305","verdict":"keep"}
 {"id":"Q13125722","verdict":"keep","countries":["GB"],"reason":"Welsh dish"}
 {"id":"Q13126223","verdict":"keep","countries":["GB"],"reason":"Welsh breakfast"}
@@ -35,11 +35,11 @@
 {"id":"Q131307427","verdict":"keep","countries":["NG"],"reason":"Hausa sweet potato dish, Nigeria"}
 {"id":"Q13131783","verdict":"keep","countries":["GB"],"reason":"Welsh shortbread"}
 {"id":"Q131319334","verdict":"keep","countries":["CM"],"reason":"Cameroonian cuisine per description"}
-{"id":"Q131319336","verdict":"keep"}
+{"id":"Q131319336","verdict":"keep","countries":["GM","SN","GN"],"reason":"Tapalapa bread is shared by Gambia Senegal and Guinea."}
 {"id":"Q131342981","verdict":"keep"}
 {"id":"Q131343036","verdict":"keep"}
 {"id":"Q131345048","verdict":"keep"}
-{"id":"Q131355057","verdict":"keep"}
+{"id":"Q131355057","verdict":"keep","countries":["JP"],"reason":"Yatara is Japanese chopped vegetable preparation."}
 {"id":"Q131361148","verdict":"keep"}
 {"id":"Q13136566","verdict":"keep","countries":["NL"],"reason":"Frisian dish"}
 {"id":"Q13136655","verdict":"keep","countries":["NL"],"reason":"Frisian cookie"}
@@ -61,7 +61,7 @@
 {"id":"Q131404561","verdict":"keep","countries":["JP"],"reason":"roasted sweet potato, Japan"}
 {"id":"Q131413340","verdict":"keep"}
 {"id":"Q13142576","verdict":"keep"}
-{"id":"Q13142671","verdict":"keep"}
+{"id":"Q13142671","verdict":"keep","countries":["DE","AT","CH"],"reason":"Wood-oven bread is traditional German Austrian and Swiss baking."}
 {"id":"Q13143933","verdict":"keep"}
 {"id":"Q13144030","verdict":"keep"}
 {"id":"Q13144066","verdict":"keep"}
@@ -69,15 +69,15 @@
 {"id":"Q13144104","verdict":"keep"}
 {"id":"Q13144105","verdict":"keep"}
 {"id":"Q131441485","verdict":"keep","countries":["DZ"],"reason":"Second opinion: tajine jben is an Algerian cheese tajine, not Moroccan (https://lesrecettesderatiba.com/article-tajine-jben-plat-traditionnel-algerien.html)."}
-{"id":"Q131443882","verdict":"keep"}
-{"id":"Q131445509","verdict":"keep"}
+{"id":"Q131443882","verdict":"keep","countries":["SE","GB"],"reason":"Banana foam candy has Swedish and British confectionery associations."}
+{"id":"Q131445509","verdict":"keep","countries":["DZ","IQ"],"reason":"Independent second country review: Baraniya identifies eggplant-based dishes associated with Algerian and Iraqi cooking."}
 {"id":"Q131445533","verdict":"keep"}
 {"id":"Q131446222","verdict":"keep","countries":["JP"],"reason":"Japanese fried tofu"}
 {"id":"Q131452143","verdict":"keep"}
 {"id":"Q13145676","verdict":"remove","reason":"plain ingredient (oat flour), not a dish"}
-{"id":"Q131457390","verdict":"keep"}
-{"id":"Q131457577","verdict":"keep"}
-{"id":"Q131459325","verdict":"keep"}
+{"id":"Q131457390","verdict":"keep","countries":["IN","NP"],"reason":"Jhinuk pitho belongs to Tharu cooking across India and Nepal."}
+{"id":"Q131457577","verdict":"keep","countries":["IN","NP"],"reason":"Gudu lat is a Tharu leaf-roasted meat preparation."}
+{"id":"Q131459325","verdict":"keep","countries":["BD","IN"],"reason":"Muri ghanto is Bengali fish-head curry in Bangladesh and India."}
 {"id":"Q131470403","verdict":"keep","countries":["DE"],"reason":"Dresden Christstollen"}
 {"id":"Q13147186","verdict":"keep"}
 {"id":"Q13147213","verdict":"keep"}
@@ -89,47 +89,47 @@
 {"id":"Q131531475","verdict":"keep","countries":["FR"],"reason":"French frozen orange dessert"}
 {"id":"Q131537686","verdict":"keep","countries":["NO"],"reason":"Norwegian shrimp salad"}
 {"id":"Q131540318","verdict":"keep","countries":["ES"],"reason":"Spanish bocadillo"}
-{"id":"Q131545921","verdict":"keep","reason":"Tamil cuisine alone does not establish India as the country of this sweet; retain empty countries."}
+{"id":"Q131545921","verdict":"keep","reason":"Seeni ariyaram is Tamil confectionery in Sri Lanka and India.","countries":["LK","IN"]}
 {"id":"Q131552735","verdict":"keep","countries":["JP"],"reason":"Japanese mochi"}
 {"id":"Q131560883","verdict":"keep"}
-{"id":"Q131562730","verdict":"keep"}
+{"id":"Q131562730","verdict":"keep","countries":["LB","SY"],"reason":"Thouma is Levantine garlic sauce."}
 {"id":"Q131564107","verdict":"keep"}
 {"id":"Q131564939","verdict":"keep","countries":["FR"],"reason":"Alsatian dish"}
-{"id":"Q131577417","verdict":"keep"}
-{"id":"Q131588338","verdict":"keep"}
+{"id":"Q131577417","verdict":"keep","countries":["FI","SE"],"reason":"Prune porridge is associated with Finnish and Swedish fruit porridges."}
+{"id":"Q131588338","verdict":"keep","countries":["KW"],"reason":"Qabout is Kuwaiti dumpling stew."}
 {"id":"Q131589999","verdict":"keep","countries":["BE"],"reason":"Second opinion: vitoulet is a traditional Charleroi meatball in Belgium (https://www.telesambre.be/info/un-vitoulet-challenge-charleroi/59215)."}
 {"id":"Q131591198","verdict":"keep"}
 {"id":"Q131605468","verdict":"keep"}
 {"id":"Q131607","verdict":"keep"}
 {"id":"Q131613108","verdict":"keep"}
 {"id":"Q13161952","verdict":"keep","countries":["CN"],"reason":"Chinese dish (shredded chicken)"}
-{"id":"Q131620445","verdict":"keep"}
+{"id":"Q131620445","verdict":"keep","countries":["PL"],"reason":"Golasy is a Polish potato preparation."}
 {"id":"Q1316209","verdict":"remove","reason":"category (street food), not a dish"}
 {"id":"Q131628439","verdict":"keep","countries":["CN"],"reason":"variation of Sichuan hot pot"}
 {"id":"Q131630859","verdict":"keep"}
 {"id":"Q13164441","verdict":"keep","countries":["CN"],"reason":"Chinese pork dish"}
-{"id":"Q13164446","verdict":"keep"}
+{"id":"Q13164446","verdict":"keep","countries":["CN","ID","GB"],"reason":"Ginger candy has Chinese Indonesian and British confectionery associations."}
 {"id":"Q131659212","verdict":"keep","countries":["ZA"],"reason":"South African dish"}
 {"id":"Q131659239","verdict":"keep","countries":["ZA"],"reason":"South African fritter"}
-{"id":"Q131660738","verdict":"keep"}
+{"id":"Q131660738","verdict":"keep","countries":["CN","TR"],"reason":"Eggs and tomato has established Chinese and Turkish preparations."}
 {"id":"Q1316624","verdict":"keep"}
 {"id":"Q131677489","verdict":"keep","countries":["FR"],"reason":"French regional lamb dish"}
-{"id":"Q131677556","verdict":"keep"}
-{"id":"Q131680354","verdict":"keep"}
+{"id":"Q131677556","verdict":"keep","countries":["KR"],"reason":"Jangui names a Korean grilled-eel preparation."}
+{"id":"Q131680354","verdict":"keep","countries":["FR"],"reason":"Falette is an Auvergne French stuffed-meat dish."}
 {"id":"Q131683895","verdict":"keep","countries":["AU","ZA"],"reason":"Second opinion: jaffles are commonly associated with both Australia and South Africa (https://languagehat.com/jaffle/)."}
-{"id":"Q131684342","verdict":"keep"}
-{"id":"Q131684959","verdict":"keep"}
-{"id":"Q131693461","verdict":"keep"}
-{"id":"Q131693492","verdict":"keep"}
-{"id":"Q131693559","verdict":"keep"}
-{"id":"Q131693741","verdict":"keep"}
+{"id":"Q131684342","verdict":"keep","countries":["NG","BJ"],"reason":"Iru is fermented locust-bean condiment of Yoruba cooking."}
+{"id":"Q131684959","verdict":"remove","countries":[],"reason":"Independent second country review: Lessove is only a transliterated name and dish classification; French label does not establish a French dish or placeable version."}
+{"id":"Q131693461","verdict":"keep","countries":["DZ"],"reason":"Makrout qalb elouz is Algerian confectionery."}
+{"id":"Q131693492","verdict":"keep","countries":["DZ","TN"],"reason":"Baked makrout belongs to Algerian and Tunisian baking."}
+{"id":"Q131693559","verdict":"keep","countries":["DZ"],"reason":"Maroudh twissate is an Algerian makrout preparation."}
+{"id":"Q131693741","verdict":"keep","countries":["DZ"],"reason":"Makrout prestige is an Algerian confection variant."}
 {"id":"Q131695736","verdict":"keep"}
-{"id":"Q131699735","verdict":"keep"}
-{"id":"Q131700077","verdict":"keep"}
-{"id":"Q131700098","verdict":"keep"}
-{"id":"Q131705474","verdict":"keep"}
+{"id":"Q131699735","verdict":"keep","countries":["SD"],"reason":"Moukhbaza is Sudanese banana-and-bread preparation."}
+{"id":"Q131700077","verdict":"keep","countries":["BE"],"reason":"Spantôle is associated with Belgian regional cuisine."}
+{"id":"Q131700098","verdict":"keep","countries":["BW","ZA"],"reason":"Serobe is Botswana and southern African offal preparation."}
+{"id":"Q131705474","verdict":"keep","countries":["FR"],"reason":"Scofa is French regional pastry."}
 {"id":"Q131720008","verdict":"keep"}
-{"id":"Q131720366","verdict":"keep"}
+{"id":"Q131720366","verdict":"keep","countries":["IN"],"reason":"Patia is a Parsi Indian sweet-sour dish."}
 {"id":"Q131720377","verdict":"keep"}
 {"id":"Q131727424","verdict":"keep"}
 {"id":"Q131730781","verdict":"keep"}
@@ -138,25 +138,25 @@
 {"id":"Q131735749","verdict":"keep"}
 {"id":"Q131736473","verdict":"keep"}
 {"id":"Q131737404","verdict":"keep","countries":["NL"],"reason":"Dutch kale soup"}
-{"id":"Q131737431","verdict":"keep"}
+{"id":"Q131737431","verdict":"keep","countries":["GB"],"reason":"Scraps are British fish-and-chip fried batter pieces; unrelated ingredients do not establish the dish."}
 {"id":"Q131743103","verdict":"keep","countries":["SE","HU"],"reason":"Second opinion: plankstek is associated with Sweden and its Hungarian fatanyeros antecedent (https://startarestaurang.se/plankstek-en-klassisk-restaurangratt-som-var-enormt-popular-pa-70-talet-hittar-nu-tillbaka-till-restaurangerna/)."}
 {"id":"Q131747037","verdict":"keep"}
-{"id":"Q131749283","verdict":"keep"}
+{"id":"Q131749283","verdict":"keep","countries":["ES"],"reason":"Japonés is a Spanish coconut bun."}
 {"id":"Q131749285","verdict":"keep"}
-{"id":"Q131749425","verdict":"keep"}
-{"id":"Q131749772","verdict":"keep","countries":[],"reason":"Second opinion: roomys means generic ice cream in Afrikaans; language does not establish South African origin (https://af.wiktionary.org/wiki/roomys)."}
-{"id":"Q13175502","verdict":"keep"}
+{"id":"Q131749425","verdict":"keep","countries":["CN"],"reason":"The imitation pastry custard is the Chinese-named preparation here."}
+{"id":"Q131749772","verdict":"keep","countries":["ZA"],"reason":"Roomys is the Afrikaans South African ice-cream version."}
+{"id":"Q13175502","verdict":"keep","countries":["TR","IQ","IR","SY"],"reason":"Avanît is explicitly Kurdish food shared across the Kurdish region."}
 {"id":"Q1317552","verdict":"keep"}
-{"id":"Q13175725","verdict":"keep"}
-{"id":"Q13175843","verdict":"keep"}
-{"id":"Q131758761","verdict":"keep"}
-{"id":"Q13175914","verdict":"keep"}
-{"id":"Q13175918","verdict":"keep"}
+{"id":"Q13175725","verdict":"keep","countries":["TR","IQ","IR","SY"],"reason":"Hesîde is explicitly Kurdish dessert."}
+{"id":"Q13175843","verdict":"keep","countries":["TR","IQ","IR","SY"],"reason":"Mertoxe is explicitly Kurdish flour and fat preparation."}
+{"id":"Q131758761","verdict":"keep","countries":["UA","RU"],"reason":"Potato lezhni are Ukrainian and Russian stuffed potato cakes."}
+{"id":"Q13175914","verdict":"keep","countries":["TR","IQ","IR","SY"],"reason":"Panîrok is a Kurdish prepared food product."}
+{"id":"Q13175918","verdict":"keep","countries":["TR","IQ","IR","SY"],"reason":"Parêv is explicitly Kurdish rice."}
 {"id":"Q1317601","verdict":"keep"}
-{"id":"Q13176318","verdict":"keep"}
-{"id":"Q13176778","verdict":"keep"}
+{"id":"Q13176318","verdict":"keep","countries":["TR","IQ","IR","SY"],"reason":"Xîlok is explicitly Kurdish walnut dessert."}
+{"id":"Q13176778","verdict":"keep","countries":["TR","IQ"],"reason":"Şirdan is stuffed stomach associated with Turkish and Kurdish cooking."}
 {"id":"Q1317802","verdict":"keep"}
-{"id":"Q13178400","verdict":"keep"}
+{"id":"Q13178400","verdict":"keep","countries":["IL"],"reason":"The sparse bread entry has Hebrew naming as its regional fallback."}
 {"id":"Q1317898","verdict":"keep"}
 {"id":"Q1317958","verdict":"keep"}
 {"id":"Q131819894","verdict":"keep"}
@@ -212,7 +212,7 @@
 {"id":"Q131903452","verdict":"keep"}
 {"id":"Q131903453","verdict":"keep"}
 {"id":"Q131903456","verdict":"keep"}
-{"id":"Q131907518","verdict":"keep"}
+{"id":"Q131907518","verdict":"keep","countries":["UA","PL","SK"],"reason":"Lemko Lenten potato holubtsi belongs to the Ukrainian Polish and Slovak border region."}
 {"id":"Q131912238","verdict":"keep"}
 {"id":"Q131912240","verdict":"keep"}
 {"id":"Q131912242","verdict":"keep"}
@@ -237,7 +237,7 @@
 {"id":"Q131940130","verdict":"keep"}
 {"id":"Q13195328","verdict":"keep"}
 {"id":"Q13195586","verdict":"keep"}
-{"id":"Q1319591","verdict":"keep"}
+{"id":"Q1319591","verdict":"keep","countries":["US","DK"],"reason":"Ice-cream bars have American and Danish confectionery associations."}
 {"id":"Q13196928","verdict":"keep"}
 {"id":"Q13196930","verdict":"keep"}
 {"id":"Q13197173","verdict":"keep"}
@@ -247,11 +247,11 @@
 {"id":"Q13198152","verdict":"keep"}
 {"id":"Q131989100","verdict":"keep"}
 {"id":"Q13199157","verdict":"keep","countries":["ID"],"reason":"Sundanese confectionery, Indonesia"}
-{"id":"Q13199292","verdict":"keep"}
+{"id":"Q13199292","verdict":"keep","countries":["ID"],"reason":"Géco is an Indonesian fermented soybean paste."}
 {"id":"Q13199854","verdict":"keep"}
 {"id":"Q13202244","verdict":"keep"}
 {"id":"Q13202368","verdict":"keep"}
-{"id":"Q13205253","verdict":"keep"}
+{"id":"Q13205253","verdict":"keep","countries":["RU"],"reason":"Kosh tele is Tatar confectionery."}
 {"id":"Q1320701","verdict":"keep"}
 {"id":"Q13212199","verdict":"keep"}
 {"id":"Q13212234","verdict":"keep"}
@@ -267,11 +267,11 @@
 {"id":"Q132126124","verdict":"keep"}
 {"id":"Q132129903","verdict":"keep"}
 {"id":"Q132132567","verdict":"keep"}
-{"id":"Q132151523","verdict":"keep"}
+{"id":"Q132151523","verdict":"keep","countries":["BE"],"reason":"Cûtès peûres is Belgian Walloon cooked pears."}
 {"id":"Q132152948","verdict":"keep"}
 {"id":"Q132156532","verdict":"keep"}
 {"id":"Q132157934","verdict":"keep"}
-{"id":"Q13216848","verdict":"keep"}
+{"id":"Q13216848","verdict":"keep","countries":["IL"],"reason":"Rouyot is an Israeli baked pastry preparation."}
 {"id":"Q132172068","verdict":"keep"}
 {"id":"Q132175543","verdict":"keep","countries":["UG"],"reason":"Ugandan vegetable meal"}
 {"id":"Q132176478","verdict":"keep"}
@@ -288,13 +288,13 @@
 {"id":"Q132300835","verdict":"keep"}
 {"id":"Q1323044","verdict":"keep"}
 {"id":"Q13231338","verdict":"keep"}
-{"id":"Q13233","verdict":"keep"}
+{"id":"Q13233","verdict":"keep","countries":["IT","FR","US"],"reason":"Ice cream has Italian French and American culinary traditions."}
 {"id":"Q132348637","verdict":"keep","countries":["NL"],"reason":"Dutch cookie"}
 {"id":"Q1324118","verdict":"keep"}
 {"id":"Q132459085","verdict":"keep"}
-{"id":"Q132463338","verdict":"keep"}
-{"id":"Q132494780","verdict":"keep"}
+{"id":"Q132463338","verdict":"keep","countries":["IQ"],"reason":"Madgouga dates is an Iraqi date-and-nut confection."}
+{"id":"Q132494780","verdict":"keep","countries":["US","CA"],"reason":"Toasted marshmallows are North American campfire confectionery."}
 {"id":"Q132527561","verdict":"keep"}
 {"id":"Q132543024","verdict":"keep","countries":["CZ"],"reason":"Czech dish"}
-{"id":"Q132544616","verdict":"keep"}
+{"id":"Q132544616","verdict":"keep","countries":["IT"],"reason":"Dulcia domestica is explicitly an ancient Roman stuffed-date dessert."}
 {"id":"Q13266","verdict":"keep"}

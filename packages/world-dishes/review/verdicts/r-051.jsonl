@@ -16,5 +16,5 @@
 {"id":"Q4949468","verdict":"keep","countries":["HT"],"reason":"Entity is Haitian bouillon soup; imported Dutch stock recipe is a homonym mismatch.","recipes":[{"source":"https://nl.wikibooks.org/wiki/Kookboek%2FBouillon","status":"drop","reason":"Generic Dutch stock is not Haitian bouillon soup."}]}
 {"id":"Q495360","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AGimbap","status":"ok"}]}
 {"id":"Q4992018","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3APo'_Boy","status":"ok"}]}
-{"id":"Q4993083","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACherries_Jubilee","status":"ok"}]}
+{"id":"Q4993083","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ACherries_Jubilee","status":"ok"}],"countries":["FR","GB"],"reason":"Second check: Cherries jubilee has French Escoffier and British royal-jubilee associations."}
 {"id":"Q4997887","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ABunny_Chow","status":"ok"}]}

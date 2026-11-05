@@ -1,30 +1,30 @@
 {"id":"Q6909359","verdict":"keep"}
 {"id":"Q690994","verdict":"keep"}
-{"id":"Q69102980","verdict":"keep"}
+{"id":"Q69102980","verdict":"keep","reason":"Pandan waffle is explicitly Vietnamese.","countries":["VN"]}
 {"id":"Q6914349","verdict":"keep","countries":["BR"],"reason":"Brazilian sandwich; countries listed as IT"}
 {"id":"Q691755","verdict":"keep"}
 {"id":"Q69214","verdict":"keep","countries":["ES"],"reason":"Catalan dish; countries were empty"}
-{"id":"Q6923643","verdict":"keep"}
+{"id":"Q6923643","verdict":"keep","reason":"Spinach rice has Greek spanakorizo, Turkish and Indian palak-rice traditions.","countries":["GR","TR","IN"]}
 {"id":"Q692613","verdict":"keep"}
 {"id":"Q6926273","verdict":"keep"}
-{"id":"Q6926685","verdict":"keep"}
-{"id":"Q6927204","verdict":"keep"}
-{"id":"Q6928578","verdict":"keep"}
-{"id":"Q6928855","verdict":"keep"}
+{"id":"Q6926685","verdict":"keep","reason":"Bêdirav is explicitly Kurdish bean salad with no narrower regional evidence.","countries":["TR","IQ","IR","SY"]}
+{"id":"Q6927204","verdict":"keep","reason":"Bêran is explicitly Kurdish meat-and-rice food with shared Kurdish associations.","countries":["TR","IQ","IR","SY"]}
+{"id":"Q6928578","verdict":"keep","reason":"Bîstan is explicitly Kurdish purslane salad with shared Kurdish associations.","countries":["TR","IQ","IR","SY"]}
+{"id":"Q6928855","verdict":"keep","reason":"Bûmbar is identified as a Kurdish prepared snack; its ingredient metadata does not establish a plain raw ingredient.","countries":["TR","IQ","IR","SY"]}
 {"id":"Q6929071","verdict":"keep"}
-{"id":"Q6930013","verdict":"keep"}
+{"id":"Q6930013","verdict":"keep","reason":"Cehzêr is explicitly Kurdish cucumber, pickle and cheese salad.","countries":["TR","IQ","IR","SY"]}
 {"id":"Q69321010","verdict":"keep"}
 {"id":"Q6934262","verdict":"keep","countries":["NO"],"reason":"Norwegian Christmas cake; countries were empty"}
-{"id":"Q6935684","verdict":"keep","reason":"Second opinion: munchy box is a Scottish takeaway assortment sold independently, not a chain brand"}
-{"id":"Q6935968","verdict":"keep"}
+{"id":"Q6935684","verdict":"keep","reason":"Munchy box is a generic Scottish takeaway mixed meal, not an identified chain menu item.","countries":["GB"]}
+{"id":"Q6935968","verdict":"keep","reason":"Derf is explicitly a Kurdish goat-meat meal with no narrower region supplied.","countries":["TR","IQ","IR","SY"]}
 {"id":"Q6936640","verdict":"keep"}
-{"id":"Q6936882","verdict":"keep"}
-{"id":"Q69393237","verdict":"keep"}
-{"id":"Q6939379","verdict":"keep"}
+{"id":"Q6936882","verdict":"keep","reason":"Dewliser is a Kurdish lamb-and-rice dish with shared Kurdish associations.","countries":["TR","IQ","IR","SY"]}
+{"id":"Q69393237","verdict":"keep","reason":"The stuffed flatbread description identifies a Middle Eastern and Mediterranean sandwich, including shared Levantine, Turkish and Greek traditions.","countries":["LB","SY","TR","GR","PS","JO","IL"]}
+{"id":"Q6939379","verdict":"keep","reason":"Doxave is explicitly Kurdish chickpea-and-meat food.","countries":["TR","IQ","IR","SY"]}
 {"id":"Q69394023","verdict":"keep"}
 {"id":"Q694022","verdict":"keep","countries":["NO","SE"],"reason":"Norwegian krumkake (also Swedish); NL was wrong"}
-{"id":"Q6941325","verdict":"keep"}
-{"id":"Q6944116","verdict":"keep"}
+{"id":"Q6941325","verdict":"keep","reason":"Mushroom gravy has British, American and German cooking associations.","countries":["GB","US","DE"]}
+{"id":"Q6944116","verdict":"keep","reason":"Mutton pulao has shared Indian, Pakistani and Bangladeshi traditions.","countries":["IN","PK","BD"]}
 {"id":"Q694444","verdict":"keep"}
 {"id":"Q6944521","verdict":"keep"}
 {"id":"Q69475095","verdict":"keep","name":"Pupi di zucchero","reason":"removed PAT designation from name"}
@@ -34,10 +34,10 @@
 {"id":"Q6953102","verdict":"keep","countries":["GR","TR"],"reason":"Agristada is a Sephardic egg-lemon sauce associated with Greek and Turkish Jewish traditions."}
 {"id":"Q6955858","verdict":"keep"}
 {"id":"Q6956585","verdict":"keep"}
-{"id":"Q6956882","verdict":"keep"}
-{"id":"Q6960349","verdict":"keep"}
+{"id":"Q6956882","verdict":"keep","reason":"Gulûl is explicitly Kurdish grain-and-yogurt food.","countries":["TR","IQ","IR","SY"]}
+{"id":"Q6960349","verdict":"keep","reason":"Harşo is explicitly Kurdish egg-and-cheese food.","countries":["TR","IQ","IR","SY"]}
 {"id":"Q6960656","verdict":"keep","countries":["KR"],"reason":"Korean octopus dish; countries were empty"}
-{"id":"Q6960802","verdict":"keep"}
+{"id":"Q6960802","verdict":"keep","reason":"Hebnîsk is an identifiable Kurdish lentil preparation.","countries":["TR","IQ","IR","SY"]}
 {"id":"Q6961401","verdict":"keep"}
 {"id":"Q6962244","verdict":"keep"}
 {"id":"Q6963832","verdict":"keep"}
@@ -51,39 +51,39 @@
 {"id":"Q6967048","verdict":"keep"}
 {"id":"Q6967051","verdict":"keep","countries":["TH","MY"],"reason":"Second opinion: nasi paprik is a Thai-Malaysian dish"}
 {"id":"Q6967056","verdict":"keep"}
-{"id":"Q6967935","verdict":"keep"}
+{"id":"Q6967935","verdict":"keep","reason":"Nataing is a Cambodian pork dip.","countries":["KH"]}
 {"id":"Q6968166","verdict":"keep"}
 {"id":"Q6968581","verdict":"keep"}
 {"id":"Q69698150","verdict":"keep"}
 {"id":"Q697016","verdict":"remove","reason":"drink (oolong tea)"}
 {"id":"Q697230","verdict":"keep"}
 {"id":"Q6973180","verdict":"keep"}
-{"id":"Q6974635","verdict":"keep"}
+{"id":"Q6974635","verdict":"keep","reason":"Kirdo is explicitly a Kurdish dish without narrower region evidence.","countries":["TR","IQ","IR","SY"]}
 {"id":"Q697498","verdict":"keep","countries":["TW","CN"],"reason":"Second opinion: beef noodle soup has both Chinese and Taiwanese culinary associations"}
-{"id":"Q6978616","verdict":"keep"}
+{"id":"Q6978616","verdict":"keep","reason":"Kuftesîr is explicitly Kurdish kofta-like food with flour and yogurt.","countries":["TR","IQ","IR","SY"]}
 {"id":"Q6978633","verdict":"keep"}
-{"id":"Q6979159","verdict":"keep"}
+{"id":"Q6979159","verdict":"keep","reason":"Kumspî is explicitly Kurdish cheese food rather than an unqualified raw cheese ingredient.","countries":["TR","IQ","IR","SY"]}
 {"id":"Q6979199","verdict":"keep"}
 {"id":"Q697951","verdict":"keep"}
 {"id":"Q6979626","verdict":"keep"}
-{"id":"Q6980923","verdict":"keep"}
+{"id":"Q6980923","verdict":"keep","reason":"Kêpayî is explicitly a Kurdish rice dish.","countries":["TR","IQ","IR","SY"]}
 {"id":"Q6981917","verdict":"keep"}
-{"id":"Q6982616","verdict":"keep"}
-{"id":"Q6983246","verdict":"keep"}
+{"id":"Q6982616","verdict":"keep","reason":"Liklikî is a Kurdish kofta preparation.","countries":["TR","IQ","IR","SY"]}
+{"id":"Q6983246","verdict":"keep","reason":"Lêvenî is explicitly Kurdish soup with meat and onion.","countries":["TR","IQ","IR","SY"]}
 {"id":"Q6986243","verdict":"remove","reason":"cannabis strain, not a dish"}
 {"id":"Q6986919","verdict":"keep"}
-{"id":"Q6987250","verdict":"keep"}
-{"id":"Q6987533","verdict":"keep"}
+{"id":"Q6987250","verdict":"keep","reason":"Maşik is explicitly Kurdish butter-and-rice food.","countries":["TR","IQ","IR","SY"]}
+{"id":"Q6987533","verdict":"keep","reason":"Meftune has a particular Diyarbakır southeastern Turkish association rather than evidence for every Kurdish region.","countries":["TR"]}
 {"id":"Q699637","verdict":"keep"}
 {"id":"Q700026","verdict":"keep"}
 {"id":"Q7000528","verdict":"keep"}
-{"id":"Q7000669","verdict":"keep"}
+{"id":"Q7000669","verdict":"keep","reason":"Navoşk is explicitly Kurdish minced-meat food.","countries":["TR","IQ","IR","SY"]}
 {"id":"Q700643","verdict":"keep"}
 {"id":"Q7007443","verdict":"keep"}
-{"id":"Q7009815","verdict":"keep"}
-{"id":"Q70125","verdict":"keep"}
-{"id":"Q7013362","verdict":"keep"}
-{"id":"Q7014585","verdict":"keep"}
+{"id":"Q7009815","verdict":"keep","reason":"Patîle is particularly associated with eastern Turkish Kurdish filled bread.","countries":["TR"]}
+{"id":"Q70125","verdict":"keep","reason":"Croquettes have common French, Spanish, Low Countries, Japanese, Indonesian, Portuguese and Brazilian traditions.","countries":["FR","ES","NL","BE","JP","ID","PT","BR"]}
+{"id":"Q7013362","verdict":"keep","reason":"Pilor is explicitly Kurdish candy.","countries":["TR","IQ","IR","SY"]}
+{"id":"Q7014585","verdict":"keep","reason":"Pirtik is explicitly Kurdish rice food.","countries":["TR","IQ","IR","SY"]}
 {"id":"Q701519","verdict":"keep"}
 {"id":"Q7015481","verdict":"keep"}
 {"id":"Q7015856","verdict":"keep"}
@@ -93,17 +93,17 @@
 {"id":"Q701797","verdict":"keep","countries":["JP"],"reason":"Japanese pickled daikon (takuan); CN was wrong"}
 {"id":"Q701870","verdict":"keep"}
 {"id":"Q702028","verdict":"keep"}
-{"id":"Q7020912","verdict":"keep"}
+{"id":"Q7020912","verdict":"keep","reason":"Pîçik is explicitly Kurdish prepared food without narrower regional evidence.","countries":["TR","IQ","IR","SY"]}
 {"id":"Q7022462","verdict":"keep"}
 {"id":"Q7022523","verdict":"keep"}
 {"id":"Q70241","verdict":"keep"}
 {"id":"Q702662","verdict":"keep"}
 {"id":"Q702692","verdict":"keep","countries":["KR"],"reason":"Korean dish; countries were empty"}
-{"id":"Q7027594","verdict":"keep"}
+{"id":"Q7027594","verdict":"keep","reason":"Qereş is explicitly Kurdish apricot-and-buttermilk candy.","countries":["TR","IQ","IR","SY"]}
 {"id":"Q703015","verdict":"keep","countries":["KR"],"reason":"Korean doenjang stew; countries were empty"}
-{"id":"Q7030277","verdict":"keep"}
+{"id":"Q7030277","verdict":"keep","reason":"Qirîs is explicitly Kurdish fruit, nut and meat food.","countries":["TR","IQ","IR","SY"]}
 {"id":"Q703147","verdict":"keep"}
-{"id":"Q7031701","verdict":"keep"}
+{"id":"Q7031701","verdict":"keep","reason":"Qopo is explicitly Kurdish garlic and minced-meat food.","countries":["TR","IQ","IR","SY"]}
 {"id":"Q703286","verdict":"keep"}
 {"id":"Q703313","verdict":"keep"}
 {"id":"Q703413","verdict":"keep","countries":["KR"],"reason":"Korean rice cake; countries were empty"}
@@ -111,26 +111,26 @@
 {"id":"Q7037735","verdict":"remove","reason":"cooking category (simmered dishes), not one dish"}
 {"id":"Q703832","verdict":"keep"}
 {"id":"Q704006","verdict":"keep"}
-{"id":"Q7042787","verdict":"keep"}
+{"id":"Q7042787","verdict":"keep","reason":"No-knead bread identifies a prepared loaf as well as its method and has a modern American association.","countries":["US"]}
 {"id":"Q704315","verdict":"keep"}
 {"id":"Q7049396","verdict":"keep"}
 {"id":"Q7049965","verdict":"keep"}
 {"id":"Q7050341","verdict":"keep"}
 {"id":"Q705123","verdict":"keep","countries":["KR"],"reason":"Korean dessert; countries were empty"}
-{"id":"Q705369","verdict":"keep"}
+{"id":"Q705369","verdict":"keep","reason":"Fish balls have common Chinese, Southeast Asian and Scandinavian boiled or fried forms.","countries":["CN","HK","TW","TH","VN","PH","MY","SG","ID","NO","DK","SE"]}
 {"id":"Q705375","verdict":"keep","countries":["KR"],"reason":"Korean soup; countries were empty"}
 {"id":"Q705381","verdict":"keep","countries":["KR"],"reason":"Korean dish; countries were empty"}
 {"id":"Q7055491","verdict":"keep"}
 {"id":"Q7057222","verdict":"keep"}
-{"id":"Q7057891","verdict":"keep"}
-{"id":"Q7060247","verdict":"keep"}
+{"id":"Q7057891","verdict":"keep","reason":"Sovanî is explicitly Kurdish minced-meat and onion food.","countries":["TR","IQ","IR","SY"]}
+{"id":"Q7060247","verdict":"keep","reason":"Sînor is explicitly Kurdish prepared cheese food.","countries":["TR","IQ","IR","SY"]}
 {"id":"Q7060305","verdict":"keep"}
-{"id":"Q70608","verdict":"keep"}
+{"id":"Q70608","verdict":"keep","reason":"Smoked fish has shared Nordic, European, North American and West African food traditions.","countries":["NO","SE","GB","DE","PL","DK","FI","RU","US","CA","GH","NG"]}
 {"id":"Q70612","verdict":"keep","name":"Granita","reason":"removed PAT designation from name"}
 {"id":"Q7061284","verdict":"keep","countries":["DK"],"reason":"Danish dish; countries were empty"}
 {"id":"Q7062059","verdict":"keep"}
-{"id":"Q7063526","verdict":"keep"}
-{"id":"Q70700789","verdict":"keep"}
+{"id":"Q7063526","verdict":"keep","reason":"Tepetep is a Kurdish kofta preparation rather than an unprepared meat ingredient.","countries":["TR","IQ","IR","SY"]}
+{"id":"Q70700789","verdict":"keep","reason":"Kalsonnes brishta is Syrian Jewish stuffed pasta with Syrian and Israeli associations.","countries":["IL","SY"]}
 {"id":"Q707636","verdict":"keep","countries":["DE","PL"],"reason":"White sausage has Bavarian and Silesian traditions; preserve Polish association alongside Germany."}
 {"id":"Q707640","verdict":"keep","countries":["KR"],"reason":"Korean salad; countries were empty"}
 {"id":"Q707788","verdict":"keep"}
@@ -141,7 +141,7 @@
 {"id":"Q7081495","verdict":"keep"}
 {"id":"Q7086753","verdict":"keep"}
 {"id":"Q7087232","verdict":"keep","countries":["US"],"reason":"American olive loaf; countries were empty"}
-{"id":"Q7087234","verdict":"keep"}
+{"id":"Q7087234","verdict":"keep","reason":"Olive salad has New Orleans Italian-American and Italian food associations.","countries":["US","IT"]}
 {"id":"Q708823","verdict":"keep"}
 {"id":"Q7088254","verdict":"keep"}
 {"id":"Q708908","verdict":"keep"}
@@ -152,13 +152,13 @@
 {"id":"Q709812","verdict":"keep"}
 {"id":"Q7098418","verdict":"keep"}
 {"id":"Q7099775","verdict":"keep"}
-{"id":"Q7105403","verdict":"keep"}
+{"id":"Q7105403","verdict":"keep","reason":"Barley mixed with rice is associated with Japanese and Korean cooking.","countries":["JP","KR"]}
 {"id":"Q710618","verdict":"keep"}
-{"id":"Q7106559","verdict":"keep"}
-{"id":"Q7107438","verdict":"keep"}
+{"id":"Q7106559","verdict":"keep","reason":"Osh pilaf has shared Tajik, Uzbek, Kyrgyz, Kazakh and Afghan associations.","countries":["TJ","UZ","KG","KZ","AF"]}
+{"id":"Q7107438","verdict":"keep","reason":"Ossetra is prepared caviar associated with Russian and Iranian Caspian traditions.","countries":["RU","IR"]}
 {"id":"Q7107766","verdict":"keep"}
 {"id":"Q711053","verdict":"keep"}
-{"id":"Q71129654","verdict":"keep"}
+{"id":"Q71129654","verdict":"keep","reason":"Veggie burger patties are prepared foods associated with American and British cooking.","countries":["US","GB"]}
 {"id":"Q7116377","verdict":"keep","countries":["AU","US"],"reason":"Second opinion: Oysters Kirkpatrick has Australian and American associations, including California metadata"}
 {"id":"Q7116378","verdict":"keep"}
 {"id":"Q7116380","verdict":"keep"}
@@ -194,13 +194,13 @@
 {"id":"Q713892","verdict":"keep"}
 {"id":"Q7139220","verdict":"keep","countries":["GB"],"reason":"Middlesbrough English take-away dish; countries were empty"}
 {"id":"Q7140169","verdict":"keep","countries":["GB"],"reason":"Scottish soup; countries were empty"}
-{"id":"Q7141239","verdict":"keep"}
+{"id":"Q7141239","verdict":"keep","reason":"Parva is identified here as Antioquian Colombian bread.","countries":["CO"]}
 {"id":"Q7141600","verdict":"keep","countries":["IN","PK"],"reason":"South Asian Mughlai dish; countries were empty"}
 {"id":"Q7142035","verdict":"keep"}
 {"id":"Q7142949","verdict":"keep"}
 {"id":"Q7142950","verdict":"keep","countries":["CA","US"],"reason":"Second opinion: pasta primavera has Canadian and American associations"}
 {"id":"Q7142958","verdict":"keep"}
-{"id":"Q7143007","verdict":"keep"}
+{"id":"Q7143007","verdict":"keep","reason":"Pastie is the Northern Irish battered meat preparation with British and Irish chip-shop associations.","countries":["GB","IE"]}
 {"id":"Q7143016","verdict":"keep","countries":["GR"],"reason":"Greek (Corfiot) dish; countries were empty"}
 {"id":"Q7143097","verdict":"keep"}
 {"id":"Q7145091","verdict":"keep"}
@@ -232,11 +232,11 @@
 {"id":"Q716820","verdict":"keep"}
 {"id":"Q7168413","verdict":"keep"}
 {"id":"Q716842","verdict":"keep","countries":["KR"],"reason":"Korean soup; countries were empty"}
-{"id":"Q7169555","verdict":"keep"}
+{"id":"Q7169555","verdict":"keep","reason":"Perpetual stew is prepared food associated with French, Thai and Chinese cooking.","countries":["FR","TH","CN"]}
 {"id":"Q7170197","verdict":"keep"}
 {"id":"Q7170363","verdict":"keep"}
 {"id":"Q717113","verdict":"keep","countries":["KR"],"reason":"Korean raw beef dish; countries were empty"}
-{"id":"Q7171328","verdict":"keep"}
+{"id":"Q7171328","verdict":"keep","reason":"Pesarattu is the Andhra Indian mung-bean dosa.","countries":["IN"]}
 {"id":"Q717136","verdict":"keep","countries":["KR"],"reason":"Korean (Seoul) soup; countries were empty"}
 {"id":"Q717435","verdict":"keep"}
 {"id":"Q717628","verdict":"keep","countries":["CN","TW"],"reason":"Second opinion: pork balls are shared across Chinese and Taiwanese traditions"}
@@ -244,15 +244,15 @@
 {"id":"Q718010","verdict":"keep"}
 {"id":"Q7180306","verdict":"keep"}
 {"id":"Q7181083","verdict":"keep"}
-{"id":"Q71819512","verdict":"keep"}
+{"id":"Q71819512","verdict":"keep","reason":"Fried cauliflower has common Levantine, Egyptian, Turkish, Indian, German and Greek preparations.","countries":["LB","SY","TR","IN","DE","EG","PS","JO","IL","GR"]}
 {"id":"Q7182763","verdict":"keep"}
 {"id":"Q7185336","verdict":"keep","countries":["HK"],"reason":"Hong Kong rice dish from a film; countries were empty"}
 {"id":"Q7186598","verdict":"remove","reason":"restaurant, not a dish"}
-{"id":"Q71870736","verdict":"keep"}
+{"id":"Q71870736","verdict":"keep","reason":"Bramata is Swiss and northern Italian polenta.","countries":["CH","IT"]}
 {"id":"Q7188272","verdict":"keep","countries":["VN"],"reason":"Vietnamese fish sauce; countries were empty"}
 {"id":"Q7188391","verdict":"keep","countries":["ZA"],"reason":"South African dish; countries were empty"}
-{"id":"Q7190902","verdict":"keep"}
-{"id":"Q7190909","verdict":"keep"}
+{"id":"Q7190902","verdict":"keep","reason":"Beet-pickled eggs are associated with Pennsylvania Dutch American cooking.","countries":["US"]}
+{"id":"Q7190909","verdict":"keep","reason":"Pickled peppers have common Chinese, Mexican, Spanish, Turkish, Italian and Greek traditions.","countries":["CN","MX","ES","TR","IT","GR"]}
 {"id":"Q7191330","verdict":"keep"}
 {"id":"Q7193190","verdict":"keep"}
 {"id":"Q7193343","verdict":"keep"}
@@ -263,7 +263,7 @@
 {"id":"Q71947461","verdict":"keep"}
 {"id":"Q7194877","verdict":"keep"}
 {"id":"Q7194962","verdict":"keep"}
-{"id":"Q7195419","verdict":"keep"}
+{"id":"Q7195419","verdict":"remove","reason":"Pine honey is an unprepared honey variety without a dish recipe."}
 {"id":"Q7195431","verdict":"remove","reason":"branded confectionery product"}
 {"id":"Q7195443","verdict":"keep"}
 {"id":"Q7195901","verdict":"keep","countries":["PH"],"reason":"Filipino dish; countries were empty"}
@@ -272,7 +272,7 @@
 {"id":"Q7197643","verdict":"keep"}
 {"id":"Q7197677","verdict":"keep"}
 {"id":"Q7198220","verdict":"keep"}
-{"id":"Q7198451","verdict":"keep"}
+{"id":"Q7198451","verdict":"keep","reason":"Pistachio puddings have American and Turkish dessert traditions.","countries":["US","TR"]}
 {"id":"Q7198502","verdict":"keep"}
 {"id":"Q71988103","verdict":"keep"}
 {"id":"Q7198960","verdict":"keep","countries":["AM","AZ"],"reason":"Armenian dish per description; AM added alongside AZ"}
@@ -282,19 +282,19 @@
 {"id":"Q7199987","verdict":"remove","reason":"topic overview page (pizza in the US), not a dish"}
 {"id":"Q7199990","verdict":"keep"}
 {"id":"Q7200291","verdict":"keep","countries":["GR","IT"],"reason":"Second opinion: placenta cake belongs to ancient Greek and Roman traditions"}
-{"id":"Q7200650","verdict":"keep"}
+{"id":"Q7200650","verdict":"keep","reason":"Plain loaf identifies the Scottish loaf style.","countries":["GB"]}
 {"id":"Q7202208","verdict":"remove","reason":"cut of beef, not a dish"}
 {"id":"Q720230","verdict":"keep"}
 {"id":"Q7202517","verdict":"keep"}
 {"id":"Q720254","verdict":"keep"}
 {"id":"Q7202578","verdict":"keep"}
 {"id":"Q7204354","verdict":"keep"}
-{"id":"Q7204728","verdict":"keep"}
+{"id":"Q7204728","verdict":"keep","reason":"Pletzel is Ashkenazi flatbread with Polish, Israeli, American and Alsatian French associations.","countries":["PL","IL","US","FR"]}
 {"id":"Q7205916","verdict":"keep"}
-{"id":"Q7206451","verdict":"keep"}
+{"id":"Q7206451","verdict":"keep","reason":"Pocket sandwiches have American and shared Levantine filled-pita traditions.","countries":["US","LB","SY","PS","JO","IL"]}
 {"id":"Q7207180","verdict":"keep","countries":["IN"],"reason":"South Indian side dish; countries were empty"}
 {"id":"Q7208574","verdict":"keep"}
 {"id":"Q7208575","verdict":"remove","reason":"Wikimedia disambiguation page"}
 {"id":"Q7210540","verdict":"keep"}
-{"id":"Q7211324","verdict":"keep"}
+{"id":"Q7211324","verdict":"keep","reason":"Egg shrimp cracker is Cantonese food associated with China and Hong Kong.","countries":["CN","HK"]}
 {"id":"Q7211348","verdict":"keep"}

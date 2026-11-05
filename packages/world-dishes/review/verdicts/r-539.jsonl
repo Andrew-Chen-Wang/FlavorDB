@@ -3,7 +3,7 @@
 {"id":"wikibooks:liberian-potato-greens","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ALiberian_Potato_Greens","status":"ok"}]}
 {"id":"wikibooks:liberian-roasted-corn","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ALiberian_Roasted_Corn","status":"ok"}]}
 {"id":"wikibooks:light-fluffy-pancakes","verdict":"keep","countries":["US"],"reason":"These thick buttermilk breakfast pancakes are the American style explicitly identified in source.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ALight_Fluffy_Pancakes","status":"ok"}]}
-{"id":"wikibooks:lime-and-mascarpone-cheesecake","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ALime_and_Mascarpone_Cheesecake","status":"ok"}]}
+{"id":"wikibooks:lime-and-mascarpone-cheesecake","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ALime_and_Mascarpone_Cheesecake","status":"ok"}],"countries":["GB"],"reason":"Retain: ginger-nut biscuit base and uncooked lime cheese filling identify a British-style no-bake cheesecake, rather than an Italian dish from mascarpone alone."}
 {"id":"wikibooks:limoncello","verdict":"remove","reason":"Lemon liqueur, an alcoholic beverage."}
 {"id":"wikibooks:limoncello-ii","verdict":"remove","reason":"Alternative lemon liqueur recipe, an alcoholic beverage."}
 {"id":"wikibooks:linguine-primavera-mediterranean","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ALinguine_Primavera_Mediterranean","status":"ok"}]}
