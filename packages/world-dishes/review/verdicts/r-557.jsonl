@@ -14,7 +14,7 @@
 {"id":"wikibooks:omelette-of-breadcrumbs","verdict":"keep","reason":"Málaga Spanish bread omelette; full source recipe.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AOmelette_of_Breadcrumbs","status":"ok"}]}
 {"id":"wikibooks:omu-tuo-ghanian-mashed-rice","verdict":"keep","reason":"Ghanaian mashed rice balls; full source method.","countries":["GH"],"recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AOmu_Tuo_(Ghanian_Mashed_Rice)","status":"ok"}]}
 {"id":"wikibooks:one-cup-chai","verdict":"remove","reason":"Spiced tea beverage, outside dish scope."}
-{"id":"wikibooks:one-hour-thanksgiving-dinner","verdict":"keep","reason":"Prepared American turkey and side-dish meal with full cooking instructions.","countries":["US"],"recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AOne-Hour_Thanksgiving_Dinner","status":"ok"}]}
+{"id":"wikibooks:one-hour-thanksgiving-dinner","verdict":"remove","reason":"Whole Thanksgiving menu using precooked turkey, separate instant sides and premade dessert, rather than an individual dish."}
 {"id":"wikibooks:onion-chutney","verdict":"keep","reason":"South Indian onion chutney; full source recipe.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AOnion_Chutney","status":"ok"}]}
 {"id":"wikibooks:onion-confit","verdict":"keep","reason":"French cooked onion preparation; full source recipe.","countries":["FR"],"recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AOnion_Confit","status":"ok"}]}
 {"id":"wikibooks:onion-dip","verdict":"keep","reason":"American sour cream and onion dip; full cooking method.","countries":["US"],"recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AOnion_Dip","status":"ok"}]}
