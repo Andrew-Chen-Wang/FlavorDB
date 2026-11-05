@@ -3,6 +3,7 @@ import {
   BASE_GRAPH,
   FORM_GRAPH,
   ancestors,
+  dishImages,
   dishes,
   dishesWithIngredient,
   ingredients,
@@ -36,6 +37,10 @@ describe("seed data", () => {
       }
     },
   )
+
+  test("every dish has a photo", () => {
+    expect(dishes.filter((d) => !dishImages[d.slug]).map((d) => d.slug)).toEqual([])
+  })
 
   test("every dish has a profile, and every profile a dish", () => {
     expect(Object.keys(profiles).toSorted()).toEqual(dishes.map((d) => d.slug).toSorted())

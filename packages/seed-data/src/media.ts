@@ -67,6 +67,26 @@ export const sameAs: Record<string, string[]> = {
 }
 
 export const dishImages: Record<string, string> = {
+  // No Commons photo of chao fen from Shangrao itself: the same Jiangxi stir-fried rice noodles, in Jiujiang.
+  "shangrao-chao-fen": "Fried rice noodles at a hotel in Jiujiang (20170118082245).jpg",
+  "spicy-duck-neck": "Braised duck neck.jpg",
+  "braised-pomelo-peel": "蝦子柚皮.jpg",
+  "chili-con-carne": "Bowl of chili.jpg",
+  "chop-suey": "Chopsueywithrice.jpg",
+  "coney-dog": "Original coney dog.jpg",
+  "hot-dry-noodles": "Hot Dry Noodles.jpg",
+  jambalaya: "Homemade Jambalaya.JPG",
+  "lotus-root-pork-rib-soup": "Lotus Root Soup.jpg",
+  "mackinac-fudge":
+    "Mackinac Fudge - Mackinac Island Fudge - Mackinacisland Fudge + Marble Slab Creamery.jpg",
+  "nanchang-clay-pot-soup": "瓦罐汤.jpg",
+  "nanchang-rice-noodles": "Stirred rice noodles in Nanchang (20190619174747).jpg",
+  "new-england-clam-chowder": "Quail 07 bg 041506.jpg",
+  "peking-duck": "Peking Duck, 2014 (02).jpg",
+  "philly-cheesesteak": "Philly Cheesesteak - 5449870218.jpg",
+  "texas-brisket": "Smoked Brisket with smoke ring.jpg",
+  "tuna-noodle-casserole": "Tuna Casserole2.jpg",
+  "wuchang-fish": "Steamed Wuchang Bream.jpg",
   "apple-pie": "Apple pie.jpg",
   "biscuits-and-gravy": "Biscuits and sausage gravy (8006401964).jpg",
   "buffalo-wings": "Homemade buffalo wings.jpg",
