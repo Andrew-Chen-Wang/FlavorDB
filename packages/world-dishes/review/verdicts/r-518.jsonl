@@ -14,7 +14,7 @@
 {"id":"wikibooks:guacamole-chile-and-herb-free","verdict":"keep","countries":["MX"],"reason":"Guacamole is a Mexican avocado preparation.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AGuacamole_(Chile-_and_Herb-Free)","status":"ok"}]}
 {"id":"wikibooks:guacamole-chile-free","verdict":"keep","countries":["MX"],"reason":"Guacamole is a Mexican avocado preparation.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AGuacamole_(Chile-Free)","status":"ok"}]}
 {"id":"wikibooks:guacamole-dip","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AGuacamole_Dip","status":"ok"}]}
-{"id":"wikibooks:guacamole-i","verdict":"keep","name":"Guacamole","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AGuacamole_I","status":"ok"}]}
+{"id":"wikibooks:guacamole-i","verdict":"keep","name":"Guacamole","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AGuacamole_I","status":"ok"}],"reason":"Manual review of this dish and its source; independently second-checked. See review/audits/ for the entry-level audit evidence."}
 {"id":"wikibooks:guacamole-ii","verdict":"keep","name":"Guacamole","countries":["MX"],"reason":"Guacamole is a Mexican avocado preparation.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AGuacamole_II","status":"ok"}]}
 {"id":"wikibooks:guacamole-iii","verdict":"keep","name":"Guacamole","countries":["MX"],"reason":"Guacamole is a Mexican avocado preparation.","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AGuacamole_III","status":"ok"}]}
 {"id":"wikibooks:gudeg-green-jackfruit-stew","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AGudeg_(Green_Jackfruit_Stew)","status":"ok"}]}

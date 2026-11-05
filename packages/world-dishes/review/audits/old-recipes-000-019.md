@@ -33,27 +33,27 @@ All other target decisions below remain. Toast, plain eggs, oatmeal, basic bread
 
 ## Coverage ledger
 
-| Batch | Targets read | Result |
-| --- | ---: | --- |
-| r-000 | 0 | No targets |
-| r-001 | 14 | 1 country expansion; 13 confirmed |
-| r-002 | 3 | 1 country expansion; 2 confirmed |
-| r-003 | 2 | Confirmed |
-| r-004 | 3 | 1 country expansion; 2 confirmed |
-| r-005 | 2 | Confirmed |
-| r-006 | 2 | 1 incorrect national assignment cleared; 1 confirmed |
-| r-007 | 0 | No targets |
-| r-008 | 3 | 1 shared-origin assignment; 2 confirmed |
-| r-009 | 3 | 1 country expansion; 2 confirmed |
-| r-010 | 6 | Confirmed |
-| r-011 | 4 | Confirmed |
-| r-012 | 2 | Confirmed |
-| r-013 | 3 | 1 country expansion; 2 confirmed |
-| r-014 | 0 | No targets |
-| r-015 | 4 | Confirmed |
-| r-016 | 3 | 1 country expansion, 1 drink removal, 1 confirmed |
-| r-017 | 5 | 1 language-based assignment cleared; 4 confirmed |
-| r-018 | 4 | Confirmed |
-| r-019 | 3 | 1 homonym correction with 2 recipe drops; 2 confirmed |
+| Batch | Targets read | Result                                                |
+| ----- | -----------: | ----------------------------------------------------- |
+| r-000 |            0 | No targets                                            |
+| r-001 |           14 | 1 country expansion; 13 confirmed                     |
+| r-002 |            3 | 1 country expansion; 2 confirmed                      |
+| r-003 |            2 | Confirmed                                             |
+| r-004 |            3 | 1 country expansion; 2 confirmed                      |
+| r-005 |            2 | Confirmed                                             |
+| r-006 |            2 | 1 incorrect national assignment cleared; 1 confirmed  |
+| r-007 |            0 | No targets                                            |
+| r-008 |            3 | 1 shared-origin assignment; 2 confirmed               |
+| r-009 |            3 | 1 country expansion; 2 confirmed                      |
+| r-010 |            6 | Confirmed                                             |
+| r-011 |            4 | Confirmed                                             |
+| r-012 |            2 | Confirmed                                             |
+| r-013 |            3 | 1 country expansion; 2 confirmed                      |
+| r-014 |            0 | No targets                                            |
+| r-015 |            4 | Confirmed                                             |
+| r-016 |            3 | 1 country expansion, 1 drink removal, 1 confirmed     |
+| r-017 |            5 | 1 language-based assignment cleared; 4 confirmed      |
+| r-018 |            4 | Confirmed                                             |
+| r-019 |            3 | 1 homonym correction with 2 recipe drops; 2 confirmed |
 
 Total: 69 targets, 11 corrected dish verdicts (10 country corrections and 1 additional drink removal); 2 incorrect dish-matched recipes dropped. No original raw pages were available or claimed checked for this older range.

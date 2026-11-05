@@ -19,20 +19,20 @@ const expected: Record<string, string[]> = { names: [], r: [] }
 for (const file of files) {
   for (const line of git("show", `${baseline}:${file}`).trim().split("\n")) {
     const dish = JSON.parse(line) as { id: string; recipes: unknown[] }
-    expected[dish.recipes.length ? "r" : "names"]!.push(dish.id)
+    expected[dish.recipes.length ? "r" : "names"].push(dish.id)
   }
 }
 const actual: Record<string, { id: string; file: string; line: number }[]> = { names: [], r: [] }
 for (const file of readdirSync(path.join(review, "verdicts")).toSorted()) {
   const match = /^(names|r)-\d+\.jsonl$/.exec(file)
   if (!match) continue
-  const group = match[1]!
+  const group = match[1]
   readFileSync(path.join(review, "verdicts", file), "utf8")
     .trimEnd()
     .split("\n")
     .forEach((line, index) => {
       const row = JSON.parse(line) as { id: string }
-      actual[group]!.push({ id: row.id, file, line: index + 1 })
+      actual[group].push({ id: row.id, file, line: index + 1 })
     })
 }
 function canonical(id: string, file: string): string {
@@ -47,8 +47,8 @@ function canonical(id: string, file: string): string {
 }
 let errors = 0
 for (const group of ["names", "r"]) {
-  const wanted = expected[group]!
-  const rows = actual[group]!
+  const wanted = expected[group]
+  const rows = actual[group]
   const counts = new Map<string, number>()
   for (const row of rows) {
     const id = canonical(row.id, row.file)
@@ -65,14 +65,20 @@ for (const group of ["names", "r"]) {
     if (row && canonical(row.id, row.file) === canonical(wanted[index] ?? "", "")) continue
     positional++
     if (examples.length < 10)
-      examples.push(`${row ? `${row.file}:${row.line}` : "missing row"}: expected ${wanted[index] ?? "end"}, found ${row?.id ?? "end"}`)
+      examples.push(
+        `${row ? `${row.file}:${row.line}` : "missing row"}: expected ${wanted[index] ?? "end"}, found ${row?.id ?? "end"}`,
+      )
   }
-  console.log(`${group}: ${rows.length}/${wanted.length} baseline dishes; ${missing.length} missing, ${unexpected.length} unexpected, ${duplicates.length} duplicate IDs, ${positional} global positional mismatches.`)
+  console.log(
+    `${group}: ${rows.length}/${wanted.length} baseline dishes; ${missing.length} missing, ${unexpected.length} unexpected, ${duplicates.length} duplicate IDs, ${positional} global positional mismatches.`,
+  )
   for (const id of missing.slice(0, 10)) console.error(`Missing: ${id}`)
   for (const id of unexpected.slice(0, 10)) console.error(`Unexpected: ${id}`)
   for (const [id, count] of duplicates.slice(0, 10)) console.error(`Duplicate: ${id} (${count})`)
   for (const example of examples) console.error(example)
   errors += missing.length + unexpected.length + duplicates.length + positional
 }
-console.log(`Baseline ${baseline}: independent global data coverage/order only. Original recipe batch boundaries and absent raw sources are not reconstructed or validated.`)
+console.log(
+  `Baseline ${baseline}: independent global data coverage/order only. Original recipe batch boundaries and absent raw sources are not reconstructed or validated.`,
+)
 process.exitCode = errors ? 1 : 0

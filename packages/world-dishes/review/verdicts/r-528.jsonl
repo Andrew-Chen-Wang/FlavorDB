@@ -1,7 +1,7 @@
 {"id": "wikibooks:italian-chicken-rolls", "verdict": "keep", "recipes": [{"source": "https://en.wikibooks.org/wiki/Cookbook%3AItalian_Chicken_Rolls", "status": "ok"}]}
 {"id": "wikibooks:italian-crispy-chicken", "verdict": "keep", "recipes": [{"source": "https://en.wikibooks.org/wiki/Cookbook%3AItalian_Crispy_Chicken", "status": "ok"}]}
-{"id": "wikibooks:italian-dressing-i", "verdict": "keep", "name": "Italian Dressing", "recipes": [{"source": "https://en.wikibooks.org/wiki/Cookbook%3AItalian_Dressing_I", "status": "ok"}]}
-{"id": "wikibooks:italian-dressing-ii", "verdict": "keep", "name": "Italian Dressing", "recipes": [{"source": "https://en.wikibooks.org/wiki/Cookbook%3AItalian_Dressing_II", "status": "ok"}]}
+{"id":"wikibooks:italian-dressing-i","verdict":"keep","name":"Italian Dressing","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AItalian_Dressing_I","status":"ok"}],"reason":"Manual review of this dish and its source; independently second-checked. See review/audits/ for the entry-level audit evidence."}
+{"id":"wikibooks:italian-dressing-ii","verdict":"keep","name":"Italian Dressing","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AItalian_Dressing_II","status":"ok"}],"reason":"Manual review of this dish and its source; independently second-checked. See review/audits/ for the entry-level audit evidence."}
 {"id": "wikibooks:italian-garlic-and-herb-marinade", "verdict": "keep", "recipes": [{"source": "https://en.wikibooks.org/wiki/Cookbook%3AItalian_Garlic_and_Herb_Marinade", "status": "ok"}]}
 {"id": "wikibooks:italian-marinated-chicken", "verdict": "keep", "recipes": [{"source": "https://en.wikibooks.org/wiki/Cookbook%3AItalian_Marinated_Chicken", "status": "ok"}]}
 {"id": "wikibooks:italian-meatballs", "verdict": "keep", "recipes": [{"source": "https://en.wikibooks.org/wiki/Cookbook%3AItalian_Meatballs", "status": "ok"}]}
@@ -23,4 +23,4 @@
 {"id": "wikibooks:jalapeno-glazed-seared-salmon", "verdict": "keep", "recipes": [{"source": "https://en.wikibooks.org/wiki/Cookbook%3AJalapeno_Glazed_Seared_Salmon", "status": "ok"}]}
 {"id": "wikibooks:jalapeno-sausage-and-bacon-appetizers-atomic-buffalo-turds", "verdict": "keep", "recipes": [{"source": "https://en.wikibooks.org/wiki/Cookbook%3AJalapeno_Sausage_and_Bacon_Appetizers_(Atomic_Buffalo_Turds)", "status": "ok"}]}
 {"id": "wikibooks:jalebi-fritters-in-syrup", "verdict": "keep", "recipes": [{"source": "https://en.wikibooks.org/wiki/Cookbook%3AJalebi_(Fritters_in_Syrup)", "status": "ok"}]}
-{"id": "wikibooks:jam-recipe", "verdict": "keep", "name": "Jam", "recipes": [{"source": "https://en.wikibooks.org/wiki/Cookbook%3AJam_(recipe)", "status": "ok"}]}
+{"id":"wikibooks:jam-recipe","verdict":"keep","name":"Jam","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AJam_(recipe)","status":"ok"}],"reason":"Manual review of this dish and its source; independently second-checked. See review/audits/ for the entry-level audit evidence."}
