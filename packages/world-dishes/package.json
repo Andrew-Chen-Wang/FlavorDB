@@ -15,7 +15,9 @@
   "scripts": {
     "fetch": "tsx src/fetch/index.ts",
     "build-data": "tsx src/normalize/index.ts",
-    "import": "pnpm run fetch && pnpm run build-data"
+    "import": "pnpm run fetch && pnpm run build-data",
+    "review:apply": "tsx src/normalize/apply-review.ts",
+    "review:check": "tsx review/check-verdicts.mts"
   },
   "dependencies": {},
   "devDependencies": {
