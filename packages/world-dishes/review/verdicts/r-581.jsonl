@@ -1,0 +1,16 @@
+{"id":"wikibooks:sambar-i","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASambar_I","status":"ok"}],"name":"Sambar","countries":["IN","LK"]}
+{"id":"wikibooks:sambar-ii-kerala-tamil-style","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASambar_II_(Kerala%2FTamil_style)","status":"ok"}],"name":"Sambar (Kerala/Tamil Style)"}
+{"id":"wikibooks:sambar-iii","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASambar_III","status":"ok"}],"name":"Sambar","countries":["IN","LK"]}
+{"id":"wikibooks:samp-and-beans","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASamp_and_Beans","status":"ok"}],"countries":["ZA"]}
+{"id":"wikibooks:san-francisco-sourdough-bread","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASan_Francisco_Sourdough_Bread","status":"ok"}],"countries":["US"]}
+{"id":"wikibooks:san-francisco-style-scallop-ceviche","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASan_Francisco_style_Scallop_Ceviche","status":"ok"}],"countries":["US","PE"]}
+{"id":"wikibooks:sancocho-dominican-meat-and-vegetable-soup","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASancocho_(Dominican_Meat_and_Vegetable_Soup)","status":"ok"}],"countries":["DO"]}
+{"id":"wikibooks:sandwich-layer-cake","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASandwich_Layer-Cake","status":"ok"}]}
+{"id":"wikibooks:sangah-cameroonian-corn-and-cassava-leaf","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASangah_(Cameroonian_Corn_and_Cassava_Leaf)","status":"ok"}]}
+{"id":"wikibooks:sangr-a","verdict":"remove","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASangr%C3%ADa","status":"ok"},{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FSangr%C3%ADa","status":"ok"}],"reason":"Alcoholic beverage"}
+{"id":"wikibooks:sarmale-romanian-cabbage-rolls","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASarmale_(Romanian_Cabbage_Rolls)","status":"ok"}],"countries":["RO","MD"]}
+{"id":"wikibooks:sarsaparilla-soda","verdict":"remove","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASarsaparilla_Soda","status":"ok"}],"reason":"Soft drink"}
+{"id":"wikibooks:sauce-feuilles-greens-stew","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASauce_Feuilles_(Greens_Stew)","status":"ok"}]}
+{"id":"wikibooks:sauce-gombo-okra-stew","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASauce_Gombo_(Okra_Stew)","status":"ok"}]}
+{"id":"wikibooks:sauce-mornay","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASauce_Mornay","status":"ok"}]}
+{"id":"wikibooks:saucepan-fudge-crackle-cookies","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASaucepan_Fudge_Crackle_Cookies","status":"ok"}],"countries":["US"]}
