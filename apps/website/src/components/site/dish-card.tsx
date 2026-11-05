@@ -45,16 +45,19 @@ export function DishCard({
 
 export function DishRow({
   dish,
+  href,
   aside,
   children,
 }: {
-  dish: Dish
+  dish: Pick<Dish, "name" | "localName"> & { slug?: string }
+  /** Defaults to the dish's own page */
+  href?: string
   aside?: React.ReactNode
   children?: React.ReactNode
 }) {
   return (
     <Link
-      href={`/dishes/${dish.slug}`}
+      href={href ?? `/dishes/${dish.slug}`}
       className={"-mx-2.5 flex items-center gap-3.5 rounded-xl p-2.5 text-ink hover:bg-paper"}
     >
       <span className={"photo-placeholder size-14 flex-none rounded-[10px]"} />
