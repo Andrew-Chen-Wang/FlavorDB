@@ -58,7 +58,9 @@ writeFileSync(
   JSON.stringify(
     {
       baseline,
-      note: "Original batch IDs where available, otherwise boundaries from verdict file counts verified against independent baseline global order. Missing raw sources are not reconstructed.",
+      note: originalsUnavailable.length
+        ? "Original batch IDs where available, otherwise boundaries from verdict file counts verified against independent baseline global order. Missing raw sources are not reconstructed."
+        : "All batch boundaries and positional IDs verified against original batch inputs and independent baseline global data order.",
       originalsUnavailable,
       batches,
     },

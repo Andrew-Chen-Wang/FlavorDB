@@ -45,6 +45,8 @@ const batches = new Map(
     .filter((name) => name.endsWith(".md"))
     .map((name) => [name.slice(0, -3), dishIds(readFileSync(path.join(batchDir, name), "utf8"))]),
 )
+const originalBatchCount = batches.size
+const persistedOnly: string[] = []
 for (const [name, ids] of Object.entries(manifest?.batches ?? {})) {
   const original = batches.get(name)
   if (
@@ -53,7 +55,10 @@ for (const [name, ids] of Object.entries(manifest?.batches ?? {})) {
       original.some((id, index) => !matchesId(name, ids[index], id)))
   )
     errors.push(`${name}: original batch differs from persisted positional manifest`)
-  if (!original) batches.set(name, ids)
+  if (!original) {
+    persistedOnly.push(name)
+    batches.set(name, ids)
+  }
 }
 let parsedFiles = 0
 let parsedVerdicts = 0
@@ -169,6 +174,8 @@ for (const error of errors) console.error(error)
 console.log(`${errors.length} validation errors; ${unavailable.length} files lack batch inputs.`)
 if (manifest)
   console.log(
-    `Persisted positions cover ${Object.keys(manifest.batches).length} batches. ${manifest.originalsUnavailable.length} original source batches remain unavailable; their boundaries were verified against baseline global order, not original raw pages.`,
+    persistedOnly.length
+      ? `Persisted positions cover ${Object.keys(manifest.batches).length} batches. ${persistedOnly.length} original batch inputs are currently unavailable; only their persisted positions were checked.`
+      : `All ${originalBatchCount} original batch inputs were checked directly against verdicts and persisted positions.`,
   )
 process.exitCode = errors.length || unavailable.length ? 1 : 0
