@@ -5,7 +5,7 @@
 {"id":"Q107657331","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107657349","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q107665302","verdict":"keep","countries":["IN"],"reason":"Meitei Manipuri dish; country added"}
-{"id":"Q107674774","verdict":"keep","name":"Beef Wellington","countries":["GB"],"reason":"name had a chef's name attached; the dish is Beef Wellington"}
+{"id":"Q107674774","verdict":"keep","countries":["GB"],"reason":"Second opinion: retain Gordon Ramsay's Beef Wellington. The description explicitly models Gordon Ramsay's dish, not generic Beef Wellington."}
 {"id":"Q107674870","verdict":"keep"}
 {"id":"Q107682259","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries added"}
 {"id":"Q1076824","verdict":"keep","reason":"Second opinion: chowder is a real prepared soup, not merely a non-food category."}
