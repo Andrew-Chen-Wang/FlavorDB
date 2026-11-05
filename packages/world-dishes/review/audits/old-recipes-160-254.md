@@ -1,6 +1,6 @@
 # Older recipe second opinion: r-160 through r-254
 
-Status: r-160 through r-211 complete; r-212 through r-254 pending assignment/continuation.
+Status: complete for all 604 existing recovered remove/countries targets in r-160 through r-254. Actual batch files were assigned to other auditors and excluded here; recovered batches with zero targets are recorded below.
 
 Every remove verdict and countries override in the completed batches was manually reread against the full recovered entry, including extracted recipe ingredients and steps. The original batches and raw source pages are unavailable: this is a metadata-based second opinion, not verification against the original source or original batch order. Scripts only selected targets/presented entries and applied explicit hand-decided corrections.
 
@@ -78,3 +78,42 @@ Every remove/countries target was manually reread against full recovered recipe 
 | r-211 | 8 |
 
 Nine country corrections: Romanian/Hungarian Transylvanian dishes and puliszka, Hungarian/Slovak Paloc langos and cabbage strapacky; French hollandaise no longer assigned Netherlands from its translated name; unsupported Hungarian attribution cleared from chocolate crinkle cookies. No removals reversed.
+
+## Remaining recovered batches r-213 through r-254
+
+Every remove/countries target was manually reread against full recovered recipe metadata, including every extracted ingredient and step. Raw pages remain unavailable. Actual batches are excluded.
+
+| Batch | Targets reread |
+| --- | ---: |
+| r-213 | 3 |
+| r-214 | 6 |
+| r-216 | 18 |
+| r-217 | 12 |
+| r-219 | 18 |
+| r-220 | 12 |
+| r-222 | 8 |
+| r-223 | 18 |
+| r-225 | 1 |
+| r-226 | 0 |
+| r-227 | 1 |
+| r-228 | 6 |
+| r-229 | 1 |
+| r-231 | 3 |
+| r-232 | 5 |
+| r-233 | 4 |
+| r-234 | 5 |
+| r-235 | 5 |
+| r-237 | 13 |
+| r-238 | 9 |
+| r-239 | 9 |
+| r-240 | 4 |
+| r-241 | 8 |
+| r-243 | 4 |
+| r-244 | 8 |
+| r-245 | 5 |
+| r-246 | 9 |
+| r-249 | 0 |
+
+Seven country corrections: Hungarian oroszkremtorta was incorrectly assigned Russia by translated name; couscous now includes Mauritania. Cleared unsupported country attributions inferred from Paris batter, cauliflower patties called pogacsa, Russian dressing title, Parmesan ingredient, and Pompadour namesake. No removals reversed in this final chunk.
+
+Country cross-checks: [UNESCO couscous joint traditions](https://ich.unesco.org/en/RL/knowledge-know-how-and-practices-pertaining-to-the-production-and-consumption-of-couscous-01602); [Hungarian confectioner on oroszkremtorta](https://www.birocukraszda.hu/oroszkrem-torta-recept-klasszikus/). These cross-check country associations; they do not recover missing raw batches.
