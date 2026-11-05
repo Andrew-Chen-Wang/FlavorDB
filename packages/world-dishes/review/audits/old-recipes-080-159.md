@@ -23,3 +23,4 @@ Original batch raw sources are unavailable. This audit reads every remove/countr
 - r-098: audited all 17 remove/countries targets. Cleared three generic salad attributions; expanded Russian salad to Russia alongside Spain. Barley beverage removal retained based on original reviewer explicit source description; recovered cream-like method alone is ambiguous.
 - r-099: audited all 14 remove/countries targets. Expanded both cheese fondues to France alongside Switzerland. Tea extract and fernet cocktail removals upheld.
 - r-100: audited all 23 countries targets. Expanded refried black beans to Guatemala alongside Mexico; regional Spanish preparations and Colombian/Guatemalan bean stews upheld.
+- r-101: audited all 22 remove/countries targets. Restored grenadine as a prepared syrup condiment; cleared generic tender-bean attribution. Three finished drink removals upheld. Original raw unavailable; restored syrup recipe status reflects usable recovered method only.
