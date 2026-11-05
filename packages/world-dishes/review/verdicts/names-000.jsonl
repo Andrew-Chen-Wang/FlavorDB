@@ -67,7 +67,7 @@
 {"id":"Q1018117","verdict":"keep","countries":["DE"],"reason":"German soup, countries empty"}
 {"id":"Q1018138","verdict":"keep"}
 {"id":"Q1018934","verdict":"keep","countries":["DE"],"reason":"German dish, countries empty"}
-{"id":"Q101894969","verdict":"keep","countries":["RO"],"reason":"Romanian soup, countries empty"}
+{"id":"Q101894969","verdict":"keep","countries":["MD","RO"],"reason":"second opinion: zeamă is commonly associated with Moldova as well as Romania"}
 {"id":"Q1019164","verdict":"keep","countries":["DE"],"reason":"German ham, countries empty"}
 {"id":"Q1019273","verdict":"keep"}
 {"id":"Q1019927","verdict":"keep","countries":["BA","RS","HR","ME","MK","BG","AL","TR"],"reason":"Balkan pastry, countries empty"}
@@ -165,7 +165,7 @@
 {"id":"Q1032806","verdict":"keep"}
 {"id":"Q10328276","verdict":"keep"}
 {"id":"Q10331615","verdict":"keep"}
-{"id":"Q10332079","verdict":"keep","countries":["PT"],"reason":"Portuguese biscuit, countries empty"}
+{"id":"Q10332079","verdict":"keep","countries":["BR"],"reason":"second opinion: Monteiro Lopes is the biscuit from Belém, Pará, Brazil"}
 {"id":"Q10332768","verdict":"keep","countries":["BR"],"reason":"Brazilian dessert, countries empty"}
 {"id":"Q10333009","verdict":"keep","countries":["AO"],"reason":"Angolan dish, countries empty"}
 {"id":"Q10333224","verdict":"keep"}
@@ -212,11 +212,11 @@
 {"id":"Q10374398","verdict":"keep"}
 {"id":"Q10377857","verdict":"keep","countries":["BR"],"reason":"Brazilian dish, countries empty"}
 {"id":"Q1037853","verdict":"keep","countries":["KR"],"reason":"Korean soup, countries empty"}
-{"id":"Q1037909","verdict":"remove","reason":"category of Korean rice soups, not one dish"}
+{"id":"Q1037909","verdict":"keep","reason":"second opinion: gukbap is a real prepared Korean rice soup, with regional variants"}
 {"id":"Q10379618","verdict":"keep"}
 {"id":"Q10379641","verdict":"keep"}
 {"id":"Q10382382","verdict":"keep","countries":["PT"],"reason":"Portuguese dish, countries empty"}
-{"id":"Q10382383","verdict":"keep","countries":["PT"],"reason":"Portuguese bread toast, countries empty"}
+{"id":"Q10382383","verdict":"keep","countries":["PT","ES"],"reason":"second opinion: tiborna is associated with Portuguese and Spanish food, as the dish description states"}
 {"id":"Q10384855","verdict":"keep"}
 {"id":"Q1038537","verdict":"keep"}
 {"id":"Q10388615","verdict":"keep"}
@@ -272,7 +272,7 @@
 {"id":"Q104383034","verdict":"keep"}
 {"id":"Q10438666","verdict":"keep","countries":["SE"],"reason":"Swedish dish, countries empty"}
 {"id":"Q10440715","verdict":"keep"}
-{"id":"Q1044101","verdict":"keep","countries":["IT"],"reason":"Italian dish, countries empty"}
+{"id":"Q1044101","verdict":"keep","countries":["ES"],"reason":"second opinion: carnixulla is the cured sausage of Menorca, Spain"}
 {"id":"Q104412527","verdict":"keep","countries":["IN"],"reason":"Indian dish, countries empty"}
 {"id":"Q104413149","verdict":"remove","reason":"crab leg as ingredient cut, not a dish"}
 {"id":"Q10442304","verdict":"keep"}

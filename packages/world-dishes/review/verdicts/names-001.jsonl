@@ -27,7 +27,7 @@
 {"id":"Q104836072","verdict":"keep","countries":["US"],"reason":"Appalachian dish, countries empty"}
 {"id":"Q104842957","verdict":"remove","reason":"grouping of bar snacks, not one dish"}
 {"id":"Q104844158","verdict":"keep"}
-{"id":"Q104849442","verdict":"keep","countries":["IN"],"reason":"Odia congee, countries empty"}
+{"id":"Q104849442","verdict":"keep","countries":["LK"],"reason":"second opinion: kola kanda is Sri Lankan herbal congee, not an Odia dish"}
 {"id":"Q1048496","verdict":"keep","countries":["RU"],"reason":"Russian soup, countries empty"}
 {"id":"Q104852303","verdict":"keep"}
 {"id":"Q104853749","verdict":"keep","countries":["GB"],"reason":"English cake, countries empty"}
@@ -37,7 +37,7 @@
 {"id":"Q104856718","verdict":"keep"}
 {"id":"Q104857695","verdict":"keep"}
 {"id":"Q104858644","verdict":"keep","countries":["US"],"reason":"American dish, countries empty"}
-{"id":"Q104858815","verdict":"keep","countries":["US"],"reason":"American cake, countries empty"}
+{"id":"Q104858815","verdict":"keep","countries":[],"reason":"second opinion: white cake is a generic cake style without a specific national association"}
 {"id":"Q104862279","verdict":"remove","reason":"article on pies in American cuisine, not a dish"}
 {"id":"Q104864044","verdict":"keep"}
 {"id":"Q104881657","verdict":"keep"}
@@ -125,7 +125,7 @@
 {"id":"Q10544140","verdict":"keep"}
 {"id":"Q1054430","verdict":"keep","countries":["IT"],"reason":"Ligurian fish, countries empty"}
 {"id":"Q10544495","verdict":"keep"}
-{"id":"Q10545209","verdict":"keep","countries":["SE"],"reason":"Swedish confection, countries empty"}
+{"id":"Q10545209","verdict":"remove","reason":"second opinion: Kexchoklad is a Cloetta branded wafer bar"}
 {"id":"Q10546582","verdict":"keep"}
 {"id":"Q10546944","verdict":"keep"}
 {"id":"Q10547054","verdict":"keep"}
@@ -291,7 +291,7 @@
 {"id":"Q105658574","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
 {"id":"Q105658575","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
 {"id":"Q105658576","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
-{"id":"Q105658578","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
+{"id":"Q105658578","verdict":"remove","reason":"second opinion: kancha aamer sorbot is a raw mango drink"}
 {"id":"Q105658939","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
 {"id":"Q105658941","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}
 {"id":"Q105658942","verdict":"keep","countries":["IN","BD"],"reason":"Bengali dish, countries empty"}

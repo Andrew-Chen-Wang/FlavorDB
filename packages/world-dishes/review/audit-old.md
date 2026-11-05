@@ -45,3 +45,40 @@ The 17,530 checked-in dishes without recipes are in the order used by the suppli
 This is supporting evidence for rebuilding name metadata independently from data order. It does not
 recover original recipe raw sources, and the recovered files above intentionally retain their
 explicitly disclosed verdict-based ordering.
+
+All 59 name verdict files were subsequently compared to independent 300-entry slices of the
+17,530 recipe-free data records. Fifty-eight matched exactly. `names-048` contained the same IDs but
+had positions 100–103 rotated; those four unchanged verdicts were restored to data order. The local
+`batches/recovered-names/` directory contains all 59 metadata inputs in this independent data order,
+with explicit reconstruction labels. The original archive batches remain untouched.
+
+Recipe batch sizes vary with source text length (for example r-055 has 19 entries, r-212 has 23,
+and r-215 has 35, each around 69–77 KB). The available build-batches script describes an older
+60-entry scheme and cannot reproduce those boundaries. Without the raw cache, original recipe
+batch boundaries and source text cannot be independently reconstructed.
+
+## Second-opinion progress
+
+Reread every remove verdict and country override against the complete recovered metadata entry in
+`names-000` through `names-004`: 904 targeted entries. This is metadata review; no absent raw source
+is claimed to have been read. Remaining files are still pending second opinion.
+
+Corrections include restoring Gukbap, Korean hot bar, Jeotgal, and Akidi as prepared foods; removing
+the branded Kexchoklad product and five Bengali fruit/tea drinks previously retained as dishes;
+correcting Carnixulla to Spain, Monteiro Lopes to Brazil, Kola kanda to Sri Lanka, and French burnt
+peanuts to the United States; adding Moldova for Zeama, Spain for Tiborna, and Belgium for
+Suikerboon; and clearing unsupported national assignments on white cake and raw vegetable salad.
+
+Supporting sources consulted for these corrections:
+
+- [Menorca merchants: carn-i-xulla](https://www.comerciomenorca.es/comercio/381/carnisseria-siscu-pons/)
+- [Monteiro Lopes](https://pt.wikipedia.org/wiki/Monteiro_Lopes)
+- [Moldova business welcome pack: Zeama](https://mbw.md/wp-content/uploads/2024/09/Copie-a-Welcome-Pack-v2.pdf-1_compressed.pdf)
+- [Korea Tourism Organization: Gukbap](https://stg-russian.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=178144)
+- [Kola kanda population study](https://www.ijaar.in/index.php/journal/article/view/973)
+- [Cloetta brands](https://www.cloetta.com/en/about-cloetta/markets-and-brands/cloettas-brands/)
+- [Saptapadi: Bengali drinks](https://www.saptapadirestaurant.com/catering-services)
+- [Hot bar: Korean street food](https://www.lonelyplanet.com/articles/best-street-food-south-korea)
+- [Akidi prepared dish](https://commons.wikimedia.org/wiki/File%3AAkidi.jpg)
+- [French burnt peanuts producer explanation](https://www.lorentanuts.com/blog/french-burnt-peanuts-explained/)
+- [Suikerboon](https://en.wikipedia.org/wiki/Suikerboon)
