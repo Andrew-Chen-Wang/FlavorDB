@@ -260,3 +260,4 @@ Manually reread each selected name override against its original batch entry; fo
 | r-495.jsonl | wikibooks:cr-me-br-l-e-iii | Crème Brûlée | Crème Brûlée | Confirmed against original batch: spelling or preparation description is supported; variant suffix removal preserves the dish name. |
 | r-495.jsonl | wikibooks:cr-pes-i | Crêpes | Crêpes | Confirmed against original batch: spelling or preparation description is supported; variant suffix removal preserves the dish name. |
 | r-495.jsonl | wikibooks:cr-pes-ii | Crêpes | Crêpes | Confirmed against original batch: spelling or preparation description is supported; variant suffix removal preserves the dish name. |
+| r-587.jsonl | wikibooks:socca-italian-chickpea-flatbread | Socca (French and Italian Chickpea Flatbread) | Socca (French and Italian Chickpea Flatbread) | Confirmed against the full raw entry: it explicitly identifies French socca and Italian farinata/torta di ceci. |
