@@ -1,7 +1,7 @@
 {"id":"Q251981","verdict":"keep"}
 {"id":"Q25202841","verdict":"remove","reason":"branded candy (Sugar Babies line)"}
 {"id":"Q25203618","verdict":"keep"}
-{"id":"Q25206205","verdict":"keep","countries":["IN"],"reason":"Malayalam-named candy; added country"}
+{"id":"Q25206205","verdict":"keep","countries":[],"reason":"Second opinion: the Malayalam label alone does not establish India for this caramel candy."}
 {"id":"Q25212648","verdict":"keep","countries":["NA"],"reason":"Namibian grilled beef; added country"}
 {"id":"Q25220508","verdict":"remove","reason":"brand of sweets"}
 {"id":"Q25220535","verdict":"keep"}
@@ -25,10 +25,10 @@
 {"id":"Q25327061","verdict":"keep"}
 {"id":"Q25327105","verdict":"keep"}
 {"id":"Q2533856","verdict":"keep"}
-{"id":"Q25339635","verdict":"keep","countries":["CA"],"reason":"Canadian hot dog; added country"}
-{"id":"Q2535744","verdict":"keep","countries":["NL"],"reason":"Dutch bread; added country"}
+{"id":"Q25339635","verdict":"keep","countries":["US"],"reason":"Second opinion: Texas Tommy is a Philadelphia-area American hot dog (https://relishridley.com/menu/relish-401-macdade-boulevard)."}
+{"id":"Q2535744","verdict":"keep","countries":[],"reason":"Second opinion: generic malt bread; a Dutch label alone does not establish a country."}
 {"id":"Q25377559","verdict":"keep"}
-{"id":"Q25380201","verdict":"keep","countries":["DE"],"reason":"German fond; added country"}
+{"id":"Q25380201","verdict":"keep","countries":["FR"],"reason":"Second opinion: grand brown stock belongs to the French classical cooking repertoire; German translation does not make it German."}
 {"id":"Q25381365","verdict":"keep"}
 {"id":"Q25381779","verdict":"keep"}
 {"id":"Q25383130","verdict":"keep","countries":["SN"],"reason":"Senegalese soup; added country"}
@@ -44,7 +44,7 @@
 {"id":"Q253899","verdict":"keep","countries":["AT"],"reason":"Austrian dish; added country"}
 {"id":"Q25395624","verdict":"keep"}
 {"id":"Q25404221","verdict":"keep"}
-{"id":"Q25405067","verdict":"keep","countries":["ES"],"reason":"Spanish dish; added country"}
+{"id":"Q25405067","verdict":"keep","countries":[],"reason":"Second opinion: generic pork-head preparation; a Spanish label alone does not establish Spain."}
 {"id":"Q25409651","verdict":"keep"}
 {"id":"Q25410968","verdict":"keep"}
 {"id":"Q25412980","verdict":"keep","countries":["PL"],"reason":"Polish pastry; added country"}
@@ -53,7 +53,7 @@
 {"id":"Q254234","verdict":"keep"}
 {"id":"Q25428551","verdict":"keep","countries":["PT"],"reason":"Madeiran folk pastry; added country"}
 {"id":"Q25429699","verdict":"keep"}
-{"id":"Q25429735","verdict":"keep","countries":["PT"],"reason":"Portuguese confection; added country"}
+{"id":"Q25429735","verdict":"keep","countries":["PT","BR"],"reason":"Second opinion: bom-bocado has Portuguese and Brazilian confection traditions."}
 {"id":"Q25431007","verdict":"keep","countries":["BR"],"reason":"Parana dish; added country"}
 {"id":"Q2545009","verdict":"keep"}
 {"id":"Q25450904","verdict":"keep"}
@@ -92,7 +92,7 @@
 {"id":"Q25525331","verdict":"keep"}
 {"id":"Q25528989","verdict":"keep"}
 {"id":"Q25536192","verdict":"keep"}
-{"id":"Q25536638","verdict":"keep","countries":["AZ"],"reason":"Azerbaijani pie; added country"}
+{"id":"Q25536638","verdict":"keep","countries":[],"reason":"Second opinion: generic crocodile-shaped meat pie; Azerbaijani label alone does not establish a country."}
 {"id":"Q25537158","verdict":"keep"}
 {"id":"Q25537356","verdict":"keep"}
 {"id":"Q2553796","verdict":"keep","countries":["DE"],"reason":"Hessian dish; added country"}
@@ -174,14 +174,14 @@
 {"id":"Q2587663","verdict":"keep"}
 {"id":"Q259100","verdict":"keep"}
 {"id":"Q2591051","verdict":"keep"}
-{"id":"Q259148","verdict":"keep","countries":["DE"],"reason":"German dish; added country"}
-{"id":"Q2592256","verdict":"keep","countries":["NL"],"reason":"Dutch stew; added country"}
+{"id":"Q259148","verdict":"keep","countries":["DE","AT","CZ"],"reason":"Second opinion: the description explicitly identifies Germany, Austria and Czech Republic."}
+{"id":"Q2592256","verdict":"keep","countries":["NL","BE","FR"],"reason":"Second opinion: hochepot is shared in Dutch, Flemish and northern French cooking."}
 {"id":"Q25936230","verdict":"keep"}
 {"id":"Q2595034","verdict":"remove","reason":"not food (paper party bag)"}
 {"id":"Q2595324","verdict":"keep"}
 {"id":"Q259550","verdict":"keep"}
 {"id":"Q2595950","verdict":"keep"}
-{"id":"Q2597970","verdict":"keep","countries":["NL"],"reason":"Dutch salad; added country"}
+{"id":"Q2597970","verdict":"keep","countries":[],"reason":"Second opinion: generic salmon salad; Dutch label alone does not establish a national dish."}
 {"id":"Q259874","verdict":"keep","countries":["SG","MY"],"reason":"Singapore/Malaysia snack; added countries"}
 {"id":"Q25997959","verdict":"keep"}
 {"id":"Q2599893","verdict":"keep"}
@@ -214,12 +214,12 @@
 {"id":"Q26269264","verdict":"keep","countries":["DE"],"reason":"German pastry; added country"}
 {"id":"Q2626928","verdict":"keep"}
 {"id":"Q26271735","verdict":"keep","countries":["DE"],"reason":"German pastry; added country"}
-{"id":"Q262796","verdict":"keep","countries":["TR"],"reason":"Turkish dumpling; added country"}
+{"id":"Q262796","verdict":"keep","countries":["TR","AM","AZ","KZ","KG","UZ","TJ","AF"],"reason":"Second opinion: manti are shared across Turkish, Armenian, Caucasian and Central Asian traditions rather than exclusively Turkish."}
 {"id":"Q2628185","verdict":"keep","countries":["GB"],"reason":"Scottish dessert; added country"}
 {"id":"Q2629070","verdict":"keep","countries":["NL"],"reason":"Dutch bread; added country"}
 {"id":"Q2629673","verdict":"keep","countries":["NL"],"reason":"Dutch candy; added country"}
 {"id":"Q2631681","verdict":"keep","countries":["RU"],"reason":"SU is obsolete code for the Soviet Union; dish is Russian"}
-{"id":"Q2631692","verdict":"keep","countries":["IT"],"reason":"Italian PAT product; TR was wrong"}
+{"id":"Q2631692","verdict":"keep","countries":["IT","TR"],"reason":"Second opinion: almond-paste confectionery has both Italian and Turkish traditions; PAT status does not invalidate the existing Turkish association."}
 {"id":"Q263223","verdict":"keep"}
 {"id":"Q2632589","verdict":"keep"}
 {"id":"Q263351","verdict":"keep"}
@@ -233,7 +233,7 @@
 {"id":"Q26398337","verdict":"keep"}
 {"id":"Q2640746","verdict":"keep","countries":["RU"],"reason":"Tatar dish; added country"}
 {"id":"Q2641023","verdict":"keep","countries":["RU","KZ"],"reason":"Tatar and Bashkir pastry; added RU"}
-{"id":"Q2641073","verdict":"keep","countries":["NL"],"reason":"Dutch ham; added country"}
+{"id":"Q2641073","verdict":"remove","reason":"Second opinion: Ganda Ham is a commercial ham brand, not a generic regional ham (https://www.ganda.be/wp-content/uploads/2023/09/0120_ganda_ham_kort.pdf)."}
 {"id":"Q2641090","verdict":"keep"}
 {"id":"Q2642060","verdict":"keep","countries":["BR","PT"],"reason":"Broa is also Portuguese; added country"}
 {"id":"Q264215","verdict":"keep"}
@@ -242,7 +242,7 @@
 {"id":"Q264558","verdict":"keep","countries":["SI","HR"],"reason":"Slovenian and Croatian dish; added countries"}
 {"id":"Q264758","verdict":"keep"}
 {"id":"Q26492667","verdict":"keep"}
-{"id":"Q26492973","verdict":"keep","countries":["CZ"],"reason":"Czech dish; added country"}
+{"id":"Q26492973","verdict":"keep","countries":["CZ","SK"],"reason":"Second opinion: zivanska pecene is shared Czech and Slovak cooking."}
 {"id":"Q2649721","verdict":"keep","countries":["AT"],"reason":"Austrian pastry; added country"}
 {"id":"Q265457","verdict":"keep"}
 {"id":"Q2654880","verdict":"keep"}
@@ -286,7 +286,7 @@
 {"id":"Q26857408","verdict":"keep","countries":["JP"],"reason":"Japanese dish; added country"}
 {"id":"Q26857710","verdict":"keep","countries":["RU"],"reason":"Chechen dish; added country"}
 {"id":"Q2687127","verdict":"keep"}
-{"id":"Q26877711","verdict":"keep","countries":["DE"],"reason":"German dish; added country"}
+{"id":"Q26877711","verdict":"keep","countries":[],"reason":"Second opinion: generic milk jam; the German label alone does not establish Germany."}
 {"id":"Q2688167","verdict":"keep"}
 {"id":"Q26884006","verdict":"keep"}
 {"id":"Q26884481","verdict":"keep"}
