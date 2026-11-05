@@ -154,6 +154,18 @@ export type ReviewCounts = {
   recipesDropped: number
 }
 
+/** Validate the complete output, including dishes without a review override. */
+export function assertDishCountries(dishes: WorldDish[]): void {
+  const missing = dishes.filter((dish) => dish.countries.length === 0)
+  if (missing.length)
+    throw new Error(
+      `Every output dish must have at least one country: ${missing.length} missing (${missing
+        .slice(0, 10)
+        .map((dish) => dish.id)
+        .join(", ")}${missing.length > 10 ? ", …" : ""})`,
+    )
+}
+
 export function applyVerdicts(
   input: WorldDish[],
   verdicts: Verdicts,
@@ -223,6 +235,7 @@ export function applyVerdicts(
       counts.emptied++
     } else dishes.push(dish)
   }
+  assertDishCountries(dishes)
   return { dishes, counts }
 }
 

@@ -2,7 +2,13 @@ import { createHash } from "node:crypto"
 import { existsSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import path from "node:path"
 import { DEFAULT_DATA_DIR, loadWorldDishes } from "../index"
-import { applyVerdicts, loadVerdicts, REVIEW_DIR, verdictReport } from "./review"
+import {
+  applyVerdicts,
+  assertDishCountries,
+  loadVerdicts,
+  REVIEW_DIR,
+  verdictReport,
+} from "./review"
 
 const dataDir = DEFAULT_DATA_DIR
 const verdictFiles = readdirSync(path.join(REVIEW_DIR, "verdicts"))
@@ -24,6 +30,8 @@ if (existsSync(receiptPath)) {
     outputHash: string
   }
   if (receipt.verdictHash === verdictHash && receipt.outputHash === dataHash(input)) {
+    // An old receipt predates current output requirements and cannot waive them.
+    assertDishCountries(input)
     console.log(
       "These verdicts are already applied to these data shards; counts and files are unchanged.",
     )
