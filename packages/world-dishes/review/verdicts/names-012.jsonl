@@ -38,14 +38,14 @@
 {"id":"Q115040524","verdict":"keep","countries":["IN"],"reason":"Kolkata biryani; countries were empty"}
 {"id":"Q11504931","verdict":"keep","countries":["JP"],"reason":"Japanese confection; countries were empty"}
 {"id":"Q115049415","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries were empty"}
-{"id":"Q115054519","verdict":"keep","countries":["DE"],"reason":"German sweet dish; countries were empty"}
+{"id":"Q115054519","verdict":"keep","countries":["AT"],"reason":"second opinion: Schmalzkoch is the Austrian semolina dish associated with Mürztal, not a German dish"}
 {"id":"Q115055877","verdict":"keep","countries":["BD","IN"],"reason":"Bengali dish; countries were empty"}
 {"id":"Q115058597","verdict":"keep"}
 {"id":"Q11507075","verdict":"keep"}
 {"id":"Q115098530","verdict":"keep"}
 {"id":"Q11509898","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
 {"id":"Q1151092","verdict":"keep"}
-{"id":"Q11511882","verdict":"remove","reason":"technique page (kobujime), not a dish"}
+{"id":"Q11511882","verdict":"keep","countries":["JP"],"reason":"second opinion: kobujime is also the prepared kombu-cured fish dish of Toyama, documented by Japan's traditional food directory"}
 {"id":"Q11511884","verdict":"keep"}
 {"id":"Q11512091","verdict":"keep"}
 {"id":"Q11512298","verdict":"remove","reason":"branded packaged product (Meiji Probio Yogurt R-1)"}
@@ -58,7 +58,7 @@
 {"id":"Q11514495","verdict":"keep"}
 {"id":"Q115147923","verdict":"keep"}
 {"id":"Q115149470","verdict":"keep","countries":["FR"],"reason":"Berlingot de Berck is French; countries were empty"}
-{"id":"Q115152134","verdict":"keep","countries":["NO"],"reason":"Norwegian cookie; countries were empty"}
+{"id":"Q115152134","verdict":"keep","countries":["NO","SE"],"reason":"second opinion: havreflarn are shared Norwegian and Swedish oat cookies"}
 {"id":"Q11516405","verdict":"keep","countries":["JP"],"reason":"Japanese confection; countries were empty"}
 {"id":"Q115164521","verdict":"keep"}
 {"id":"Q115164693","verdict":"keep","countries":["RU"],"reason":"Russian stew; countries were empty"}
@@ -104,7 +104,7 @@
 {"id":"Q11538378","verdict":"keep"}
 {"id":"Q11538653","verdict":"keep"}
 {"id":"Q11538971","verdict":"keep","countries":["CN"],"reason":"Sichuan dish; countries were empty"}
-{"id":"Q11540467","verdict":"keep","countries":["JP"],"reason":"Japanese wagashi; countries were empty"}
+{"id":"Q11540467","verdict":"remove","reason":"second opinion: saogashi groups bar-shaped wagashi such as yokan and uiro, not one dish"}
 {"id":"Q1154164","verdict":"keep"}
 {"id":"Q11542213","verdict":"keep"}
 {"id":"Q1154225","verdict":"keep"}
@@ -116,7 +116,7 @@
 {"id":"Q11548023","verdict":"keep","countries":["JP"],"reason":"Japanese horumon; countries were empty"}
 {"id":"Q115483255","verdict":"keep","countries":["JP"],"reason":"Japanese wagashi; countries were empty"}
 {"id":"Q11548572","verdict":"keep"}
-{"id":"Q11548633","verdict":"remove","reason":"brand name of natto product, not a dish"}
+{"id":"Q11548633","verdict":"keep","reason":"second opinion: Mito natto is a traditional regional fermented soybean food made by multiple producers, not one branded product"}
 {"id":"Q11548637","verdict":"keep","countries":["JP"],"reason":"Japanese ramen; countries were empty"}
 {"id":"Q11548941","verdict":"keep"}
 {"id":"Q115490972","verdict":"keep"}
@@ -125,7 +125,7 @@
 {"id":"Q11549639","verdict":"keep","countries":["JP"],"reason":"Japanese curry; countries were empty"}
 {"id":"Q11549659","verdict":"keep","countries":["JP"],"reason":"Japanese namasu; countries were empty"}
 {"id":"Q11550577","verdict":"keep","countries":["JP"],"reason":"Japanese donburi; countries were empty"}
-{"id":"Q11550988","verdict":"keep","countries":["JP"],"reason":"Japanese sushi; countries were empty"}
+{"id":"Q11550988","verdict":"remove","reason":"second opinion: Edo three sushi groups three historical sushi shops/styles, not one dish"}
 {"id":"Q11551104","verdict":"keep"}
 {"id":"Q115512140","verdict":"keep"}
 {"id":"Q115515499","verdict":"keep"}
@@ -134,7 +134,7 @@
 {"id":"Q11552547","verdict":"keep"}
 {"id":"Q11554312","verdict":"keep"}
 {"id":"Q11554329","verdict":"keep"}
-{"id":"Q11554370","verdict":"keep","countries":["CN"],"reason":"Sichuan-style fried chicken; countries were empty"}
+{"id":"Q11554370","verdict":"keep","countries":["CN","JP","KR"],"reason":"second opinion: retain Chinese, Japanese-Chinese and Korean-Chinese associations of oil-dressed fried chicken, as described in the dish metadata"}
 {"id":"Q115549260","verdict":"keep"}
 {"id":"Q115549787","verdict":"keep","countries":["KR"],"reason":"Korean rice dish; countries were empty"}
 {"id":"Q115550020","verdict":"keep"}
@@ -149,7 +149,7 @@
 {"id":"Q11559815","verdict":"keep"}
 {"id":"Q11559819","verdict":"keep","countries":["JP"],"reason":"Japanese gyudon; countries were empty"}
 {"id":"Q11559843","verdict":"keep","countries":["JP"],"reason":"Japanese yokan; countries were empty"}
-{"id":"Q115607763","verdict":"remove","reason":"generic ingredient/category (bean paste), not a dish"}
+{"id":"Q115607763","verdict":"keep","reason":"second opinion: bean paste is prepared food, not a plain raw bean ingredient"}
 {"id":"Q115607987","verdict":"keep"}
 {"id":"Q115610227","verdict":"keep"}
 {"id":"Q115615436","verdict":"keep"}
@@ -171,7 +171,7 @@
 {"id":"Q1156634","verdict":"keep"}
 {"id":"Q115663659","verdict":"keep"}
 {"id":"Q11566510","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
-{"id":"Q1156703","verdict":"keep","countries":["DE"],"reason":"German pastry; countries were empty"}
+{"id":"Q1156703","verdict":"remove","reason":"second opinion: Dachhase is a nickname for a domestic cat, not the German pastry claimed by the first reviewer"}
 {"id":"Q11567137","verdict":"keep","countries":["JP"],"reason":"Japanese senbei; countries were empty"}
 {"id":"Q11567617","verdict":"keep"}
 {"id":"Q11567618","verdict":"keep"}
@@ -237,11 +237,11 @@
 {"id":"Q115801864","verdict":"keep"}
 {"id":"Q115801972","verdict":"keep"}
 {"id":"Q115802607","verdict":"keep","countries":["IT"],"reason":"Sicilian pasta dish; countries were empty"}
-{"id":"Q115802819","verdict":"keep","countries":["GU"],"reason":"Chamorro stew; countries were empty"}
-{"id":"Q115802987","verdict":"keep","countries":["PH"],"reason":"Filipino dish; countries were empty"}
+{"id":"Q115802819","verdict":"keep","countries":["GU","MP"],"reason":"second opinion: estufao belongs to shared Chamorro food traditions of the Mariana Islands"}
+{"id":"Q115802987","verdict":"keep","countries":["GU","MP"],"reason":"second opinion: tinaktak is Chamorro/Mariana Islands food, not Filipino"}
 {"id":"Q11580315","verdict":"keep","countries":["JP"],"reason":"Japanese curry; countries were empty"}
 {"id":"Q115804031","verdict":"keep"}
-{"id":"Q115804147","verdict":"keep","countries":["GU"],"reason":"Chamorro dish; countries were empty"}
+{"id":"Q115804147","verdict":"keep","countries":["GU","MP"],"reason":"second opinion: kaddon pika belongs to shared Chamorro food traditions of the Mariana Islands"}
 {"id":"Q11580451","verdict":"keep"}
 {"id":"Q11580511","verdict":"keep"}
 {"id":"Q11581336","verdict":"keep"}
