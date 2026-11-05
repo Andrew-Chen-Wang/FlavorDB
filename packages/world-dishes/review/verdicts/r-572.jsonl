@@ -1,0 +1,26 @@
+{"id":"wikibooks:quiche-batter","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AQuiche_Batter","status":"ok"}],"countries":["FR"]}
+{"id":"wikibooks:quick-and-delicious-pineapple-upside-down-cake","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AQuick_and_Delicious_Pineapple_Upside-Down_Cake","status":"ok"}],"countries":["US"],"name":"Pineapple Upside-Down Cake"}
+{"id":"wikibooks:quick-and-easy-beef-stroganoff","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AQuick_and_Easy_Beef_Stroganoff","status":"ok"}],"countries":["RU","US"],"name":"Beef Stroganoff"}
+{"id":"wikibooks:quick-and-easy-queso-dip","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AQuick_and_Easy_Queso_Dip","status":"ok"}],"countries":["US"],"name":"Queso Dip"}
+{"id":"wikibooks:quick-baked-beef-pasta-dish","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AQuick_Baked_Beef-Pasta_Dish","status":"ok"}]}
+{"id":"wikibooks:quick-finnish-lemon-mead-sima","verdict":"remove","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AQuick_Finnish_Lemon_Mead_(Sima)","status":"ok"}],"reason":"Fermented lemon beverage"}
+{"id":"wikibooks:quick-guacamole-i","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AQuick_Guacamole_I","status":"ok"}],"countries":["MX"],"name":"Quick Guacamole"}
+{"id":"wikibooks:quick-guacamole-ii","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AQuick_Guacamole_II","status":"ok"}],"countries":["MX"],"name":"Quick Guacamole"}
+{"id":"wikibooks:quick-puff-pastry","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AQuick_Puff_Pastry","status":"ok"}]}
+{"id":"wikibooks:quick-risotto","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AQuick_Risotto","status":"ok"}],"countries":["IT"]}
+{"id":"wikibooks:quick-sourdough-starter","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AQuick_Sourdough_Starter","status":"ok"}],"reason":"Prepared fermented starter recipe, not a bare raw ingredient"}
+{"id":"wikibooks:quick-sparkling-lemonade","verdict":"remove","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AQuick_Sparkling_Lemonade","status":"ok"}],"reason":"Lemonade beverage"}
+{"id":"wikibooks:quick-tomato-noodle-soup","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AQuick_Tomato_Noodle_Soup","status":"ok"}]}
+{"id":"wikibooks:quince-pudding","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AQuince_Pudding","status":"ok"}]}
+{"id":"wikibooks:quinoa-cooked","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AQuinoa_(Cooked)","status":"ok"}],"reason":"Cooked quinoa recipe, not a bare raw ingredient"}
+{"id":"wikibooks:quinoa-shiitake-mushrooms-and-adzuki-beans","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AQuinoa%2C_Shiitake_Mushrooms_and_Adzuki_Beans","status":"ok"}]}
+{"id":"wikibooks:quinoa-vegetable-slaw-with-peanut-dressing-gluten-free","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AQuinoa_Vegetable_Slaw_With_Peanut_Dressing_(Gluten-Free)","status":"ok"}]}
+{"id":"wikibooks:quorn-pitta","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AQuorn_Pitta","status":"ok"}],"reason":"Home sandwich recipe using a branded ingredient, not a brand entry"}
+{"id":"wikibooks:rabbit-with-abbey-beer-konijn-met-paterbier","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ARabbit_with_Abbey_Beer_(Konijn_met_Paterbier)","status":"ok"}]}
+{"id":"wikibooks:racuszki-polish-pancakes","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ARacuszki_(Polish_Pancakes)","status":"ok"}]}
+{"id":"wikibooks:radish-pie","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ARadish_Pie","status":"ok"}]}
+{"id":"wikibooks:radish-stew","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ARadish_Stew","status":"ok"}]}
+{"id":"wikibooks:radish-tart","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ARadish_Tart","status":"ok"}]}
+{"id":"wikibooks:ragi-dosa-south-indian-millet-and-rice-pancake","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ARagi_Dosa_(South_Indian_Millet_and_Rice_Pancake)","status":"ok"}]}
+{"id":"wikibooks:raisin-crumb-pie","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ARaisin_Crumb_Pie","status":"ok"}],"countries":["US"]}
+{"id":"wikibooks:raisin-oatmeal-muffins","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ARaisin_Oatmeal_Muffins","status":"ok"}]}
