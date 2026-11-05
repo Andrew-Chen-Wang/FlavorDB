@@ -32,7 +32,7 @@
 {"id":"Q124613458","verdict":"keep"}
 {"id":"Q124617888","verdict":"keep"}
 {"id":"Q124620814","verdict":"keep"}
-{"id":"Q124633909","verdict":"keep","countries":["CZ"],"reason":"Czech dessert; countries were empty"}
+{"id":"Q124633909","verdict":"keep","reason":"Generic no-bake dessert; Czech label insufficient for country inference"}
 {"id":"Q124637275","verdict":"keep"}
 {"id":"Q124637801","verdict":"keep"}
 {"id":"Q124647471","verdict":"keep","countries":["CZ"],"reason":"Czech sauce; countries were empty"}
@@ -74,7 +74,7 @@
 {"id":"Q12478002","verdict":"keep"}
 {"id":"Q12478448","verdict":"keep"}
 {"id":"Q12479417","verdict":"keep"}
-{"id":"Q124807379","verdict":"keep","countries":["FR"],"reason":"French toast dish; countries were empty"}
+{"id":"Q124807379","verdict":"keep","reason":"Valais Swiss bread and cheese dish, not French by label","countries":["CH"]}
 {"id":"Q12481242","verdict":"keep"}
 {"id":"Q12481254","verdict":"keep"}
 {"id":"Q12481775","verdict":"keep"}
@@ -90,7 +90,7 @@
 {"id":"Q124846713","verdict":"keep"}
 {"id":"Q124853013","verdict":"keep"}
 {"id":"Q12486","verdict":"keep"}
-{"id":"Q124861530","verdict":"keep","countries":["MA"],"reason":"Moroccan dish; countries were empty"}
+{"id":"Q124861530","verdict":"keep","reason":"Traditional Tunisian stuffed meat roll","countries":["TN"]}
 {"id":"Q12486868","verdict":"keep"}
 {"id":"Q124882180","verdict":"keep","name":"Soljanka","reason":"name had wiki namespace/page path; fixed to dish name"}
 {"id":"Q12488280","verdict":"keep"}
@@ -229,19 +229,19 @@
 {"id":"Q12535788","verdict":"keep"}
 {"id":"Q125360394","verdict":"keep"}
 {"id":"Q12536087","verdict":"keep"}
-{"id":"Q125362154","verdict":"keep","countries":["TW"],"reason":"Taiwanese dish; countries were empty"}
-{"id":"Q125362207","verdict":"keep","countries":["TW"],"reason":"Taiwanese dish; countries were empty"}
+{"id":"Q125362154","verdict":"keep","reason":"Nagoya seasoned Taiwan mince, not Taiwanese by name","countries":["JP"]}
+{"id":"Q125362207","verdict":"keep","reason":"Nagoya soupless noodle dish, not Taiwanese by name","countries":["JP"]}
 {"id":"Q125372014","verdict":"keep","countries":["US"],"reason":"American hors d'oeuvre; countries were empty"}
 {"id":"Q125372981","verdict":"keep"}
 {"id":"Q12537353","verdict":"keep"}
 {"id":"Q125376017","verdict":"keep","countries":["FR"],"reason":"French egg dish; countries were empty"}
-{"id":"Q125376078","verdict":"keep","countries":["FR"],"reason":"French egg dish; countries were empty"}
+{"id":"Q125376078","verdict":"keep","reason":"Generic eggs with sorrel; French label insufficient for exclusive country inference"}
 {"id":"Q125390344","verdict":"keep","countries":["UY"],"reason":"Uruguayan dish; countries were empty"}
 {"id":"Q12539537","verdict":"keep"}
 {"id":"Q12539586","verdict":"keep"}
 {"id":"Q12539685","verdict":"keep"}
 {"id":"Q12539849","verdict":"keep"}
-{"id":"Q12539904","verdict":"keep","countries":["MN"],"reason":"Mongolian/Kalmyk dish; kept"}
+{"id":"Q12539904","verdict":"keep","reason":"Retain Mongolian association and add Buryat/Kalmyk Russia","countries":["MN","RU"]}
 {"id":"Q12542057","verdict":"keep"}
 {"id":"Q125421625","verdict":"keep","countries":["ES"],"reason":"Galician dish; countries were empty"}
 {"id":"Q125427837","verdict":"remove","reason":"branded commercial ice cream product"}
