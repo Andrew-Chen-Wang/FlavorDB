@@ -35,8 +35,8 @@
 {"id":"Q272502","verdict":"keep"}
 {"id":"Q2725826","verdict":"keep"}
 {"id":"Q2728614","verdict":"keep"}
-{"id":"Q2729581","verdict":"keep","countries":["NL"],"reason":"Dutch cake; countries were empty"}
-{"id":"Q272964","verdict":"keep","countries":["TR"],"reason":"Turkic sweet dough; countries were empty"}
+{"id":"Q2729581","verdict":"keep","countries":[],"reason":"Second opinion: generic mocha cake; the Dutch label alone does not establish Netherlands."}
+{"id":"Q272964","verdict":"keep","countries":["RU","KZ","KG"],"reason":"Second opinion: chak-chak is Tatar/Bashkir and also established in Kazakhstan and Kyrgyzstan, not Turkish merely because Turkic (https://publications.iom.int/system/files/pdf/recepie_book_2.pdf)."}
 {"id":"Q2730578","verdict":"keep"}
 {"id":"Q2734043","verdict":"keep","countries":["NL"],"reason":"Dutch dessert; countries were empty"}
 {"id":"Q2734068","verdict":"keep"}
@@ -49,11 +49,11 @@
 {"id":"Q2743088","verdict":"keep"}
 {"id":"Q27442274","verdict":"keep"}
 {"id":"Q2744577","verdict":"keep"}
-{"id":"Q2746056","verdict":"keep","countries":["NL"],"reason":"Dutch salad; countries were empty"}
+{"id":"Q2746056","verdict":"keep","countries":[],"reason":"Second opinion: generic crab salad; the Dutch label alone does not establish Netherlands."}
 {"id":"Q2746070","verdict":"keep"}
 {"id":"Q2746599","verdict":"keep"}
 {"id":"Q2746948","verdict":"keep","countries":["CA"],"reason":"Quebec dish; countries were empty"}
-{"id":"Q2748359","verdict":"keep","countries":["IN"],"reason":"Indian curry; countries were empty"}
+{"id":"Q2748359","verdict":"keep","countries":["IN","PK"],"reason":"Second opinion: saag is a shared Indian and Pakistani greens dish."}
 {"id":"Q2748641","verdict":"keep"}
 {"id":"Q2749146","verdict":"keep"}
 {"id":"Q27493928","verdict":"keep"}
@@ -190,7 +190,7 @@
 {"id":"Q2820735","verdict":"keep","countries":["FR"],"reason":"French cheese; countries were empty"}
 {"id":"Q28208795","verdict":"keep","countries":["CM"],"reason":"Cameroonian soup; countries were empty"}
 {"id":"Q28208892","verdict":"keep"}
-{"id":"Q28209622","verdict":"keep","countries":["US"],"reason":"American candy; countries were empty"}
+{"id":"Q28209622","verdict":"remove","reason":"Second opinion: Candy Raisins is a branded commercial confection (https://candyraisins.com/about)."}
 {"id":"Q2821672","verdict":"keep"}
 {"id":"Q28219522","verdict":"keep"}
 {"id":"Q28220060","verdict":"keep"}
@@ -204,7 +204,7 @@
 {"id":"Q2826164","verdict":"keep"}
 {"id":"Q282620","verdict":"keep"}
 {"id":"Q2826923","verdict":"keep","countries":["ES"],"reason":"Spanish stew; countries were empty"}
-{"id":"Q2827137","verdict":"keep","countries":["BE"],"reason":"Belgian dish; countries were empty"}
+{"id":"Q2827137","verdict":"keep","countries":["FR"],"reason":"Second opinion: agriade saint-gilloise comes from Saint-Gilles in the French Gard (https://www.provence-camargue-tourisme.com/en/lagriade-saint-gilloise/)."}
 {"id":"Q2827721","verdict":"keep"}
 {"id":"Q2827931","verdict":"keep"}
 {"id":"Q2828870","verdict":"keep"}
@@ -269,7 +269,7 @@
 {"id":"Q284983","verdict":"keep","countries":["KR"],"reason":"Korean dumplings; countries were empty"}
 {"id":"Q2849855","verdict":"keep"}
 {"id":"Q28498813","verdict":"keep","countries":["CM"],"reason":"Cameroonian dish; countries were empty"}
-{"id":"Q28498839","verdict":"keep","countries":["GA"],"reason":"Gabonese dish; countries were empty"}
+{"id":"Q28498839","verdict":"keep","countries":["CM"],"reason":"Second opinion: mintoumba is Cameroonian (https://www.wipo.int/ip-development/fr/docs/scoping-study-cameroon.pdf)."}
 {"id":"Q28498840","verdict":"keep","countries":["CM"],"reason":"Cameroonian stew; countries were empty"}
 {"id":"Q28498842","verdict":"keep"}
 {"id":"Q28498848","verdict":"keep","countries":["CM"],"reason":"Cameroonian dish; countries were empty"}
@@ -279,7 +279,7 @@
 {"id":"Q2850350","verdict":"keep"}
 {"id":"Q28504005","verdict":"keep"}
 {"id":"Q28517237","verdict":"keep"}
-{"id":"Q28517700","verdict":"keep","countries":["CO"],"reason":"Colombian ajiaco; countries were empty"}
+{"id":"Q28517700","verdict":"keep","countries":["CO","CU","CL"],"reason":"Second opinion: ajiaco has Colombian, Cuban and Chilean traditions; the entry describes Latin America generally."}
 {"id":"Q2857837","verdict":"keep"}
 {"id":"Q286189","verdict":"keep"}
 {"id":"Q2864214","verdict":"keep"}
