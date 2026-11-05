@@ -29,3 +29,4 @@ Original batch raw sources are unavailable. This audit reads every remove/countr
 - r-104: audited all 21 remove/countries targets. Cleared three generic preparations; expanded marmitako and quince paste to shared ties. Masato and tereré beverage removals upheld.
 - r-105: audited all 26 remove/countries targets. No changes: Spanish migas variants, named regional stews and sweets, and inclusive moussaka attribution upheld; six beverage removals upheld.
 - r-106: audited all 17 countries targets. Expanded pita to omitted common Eastern Mediterranean ties; named paellas and regional prepared foods upheld.
+- r-107: audited all 17 remove/countries targets. Expanded pastilla and patacones to shared ties; cleared generic caper/olive spread. Panela lemonade removal upheld.
