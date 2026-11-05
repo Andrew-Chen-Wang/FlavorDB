@@ -5,6 +5,7 @@ import { describe, expect, test } from "vitest"
 import type { WorldDish, WorldRecipe } from "../types"
 import {
   applyVerdicts,
+  assertDishCountries,
   equivalentReviewId,
   loadVerdicts,
   type DishVerdict,
@@ -37,6 +38,40 @@ const verdicts = (...entries: DishVerdict[]): Verdicts => ({
 })
 
 describe("per-dish review application", () => {
+  test("requires countries for reviewed and unreviewed output dishes", () => {
+    const empty = { ...dish("Q1"), countries: [] }
+    expect(() => applyVerdicts([empty], verdicts())).toThrow("1 missing (Q1)")
+    expect(() =>
+      applyVerdicts([dish("Q1")], verdicts({ id: "Q1", verdict: "keep", countries: [] })),
+    ).toThrow("1 missing (Q1)")
+    expect(
+      applyVerdicts([empty], verdicts({ id: "Q1", verdict: "keep", countries: ["HU"] })).dishes[0]
+        .countries,
+    ).toEqual(["HU"])
+  })
+
+  test("validates countries after removals and last-recipe drops", () => {
+    const empty = { ...dish("wikibooks-en:soup"), countries: [] }
+    expect(applyVerdicts([empty], verdicts({ id: empty.id, verdict: "remove" })).dishes).toEqual([])
+    const drops: DishVerdict = {
+      id: empty.id,
+      verdict: "keep",
+      recipes: [
+        { source: "first", status: "drop" },
+        { source: "second", status: "drop" },
+      ],
+    }
+    expect(applyVerdicts([empty], verdicts(drops)).dishes).toEqual([])
+    const wikidata = { ...empty, id: "Q1" }
+    expect(() => applyVerdicts([wikidata], verdicts({ ...drops, id: "Q1" }))).toThrow(
+      "1 missing (Q1)",
+    )
+  })
+
+  test("rejects countryless already-applied output when validating a receipt", () => {
+    expect(() => assertDishCountries([{ ...dish("Q1"), countries: [] }])).toThrow("Q1")
+    expect(() => assertDishCountries([dish("Q1")])).not.toThrow()
+  })
   test("matches recipes by URL, applies overrides, and leaves inputs unchanged", () => {
     const input = dish("Q1")
     const result = applyVerdicts(
