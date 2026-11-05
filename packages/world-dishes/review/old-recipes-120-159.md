@@ -1,6 +1,6 @@
 # Second opinion: older recipe batches 120–159
 
-In progress. Completed r-120–r-129: all 161 existing remove/countries targets were read in full, including dish metadata, extracted recipe ingredients/steps and existing verdicts. The missing original batch files and raw page extracts cannot be recovered from git; this is a second opinion against the reconstructed metadata entries, not a fresh raw-source recipe verification. Prior recipe fixes are not independently certified by this pass.
+Completed r-120–r-129: all 161 existing remove/countries targets were read in full, including dish metadata, extracted recipe ingredients/steps and existing verdicts. The missing original batch files and raw page extracts cannot be recovered from git; this is a second opinion against the reconstructed metadata entries, not a fresh raw-source recipe verification. Prior recipe fixes are not independently certified by this pass.
 
 Nine country corrections: shared Catalan bullinada; American/Canadian marshmallow squares and egg rolls; Mauritania added to couscous; Gascon apple croustade corrected from Canada to France; Portuguese cod-potato croquettes; Swiss/Canadian Chinese-style fondue replacing unsupported Mongolia; Cypriot galaktoboureko; Nicaragua/Costa Rica added to tres leches. Every removal in these ten batches was confirmed as a drink/cocktail or non-dish overview. No raw ingredient was restored as a prepared dish.
 
@@ -19,4 +19,8 @@ Additional checks: [Austrian traditional food register](https://www.bmluk.gv.at/
 
 Completed r-140–r-143: all 76 targets read in full. Confirmed drinks and the rice recipe overview removal. Corrected Cinque Pi from Italy to Switzerland and broadened satay sauce countries. [Swiss embassy culinary publication](https://www.eda.admin.ch/content/dam/countries/countries-content/united-states-of-america/en/events-washington/SCFH_220802.pdf) explicitly calls Cinque Pi Swiss despite its Italian name.
 
-Pending: r-144–r-159.
+Completed r-144–r-159: all 207 targets read in full (r-152 has no remove/countries targets). Removed Sevillana after checking that this Huila recipe is a milk beverage; confirmed the other drinks, syrups for drinks, and the lamb-marination technique page. Added France to Welsh, Spain to both aioli entries, and the other commonly associated Levantine countries to tabbouleh. Prepared vegetable dishes, sauces, soups, sweets and cured/cooked pork dishes were retained.
+
+Checks: [Yaguará municipal publication on Sevillana](https://www.yaguara-huila.gov.co/Transparencia/BancoDocumentos/Revista%20Yaguar%C3%A1%202017%20-%201.pdf), [UNAD Huila food study](https://repository.unad.edu.co/handle/10596/20355?locale-attribute=es), [Lille tourism Welsh](https://www.lilletourism.com/explorer/hello-gastronomie/specialites-salees/), [Jordanian restaurant tabbouleh](https://romerogroup.jo/wp-content/uploads/2022/05/Website-Menu-En-1.pdf).
+
+All r-120–r-159 remove/countries targets have now received this metadata-based second opinion: 622 entries. The original raw-page and original recipe-batch boundary limitations above remain.
