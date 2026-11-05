@@ -262,3 +262,12 @@ Manually reread each selected name override against its original batch entry; fo
 | r-495.jsonl | wikibooks:cr-pes-ii | Crêpes | Crêpes | Confirmed against original batch: spelling or preparation description is supported; variant suffix removal preserves the dish name. |
 | r-587.jsonl | wikibooks:socca-italian-chickpea-flatbread | Socca (French and Italian Chickpea Flatbread) | Socca (French and Italian Chickpea Flatbread) | Confirmed against the full raw entry: it explicitly identifies French socca and Italian farinata/torta di ceci. |
 | r-268.jsonl | wikibooks-hu:szezámmagos-bundás-cukkini | Szezámmagos-bundás cukkini fasírt | Szezámmagos-bundás cukkini fasírt | Confirmed: exact raw heading includes fasírt, and the meat/zucchini patty preparation supports it. |
+| r-263.jsonl | wikibooks-hu:spenót | Spenótfőzelék | Spenótfőzelék | Confirmed: milk/flour-thickened cooked spinach is spenótfőzelék; full raw preparation supports the Hungarian dish name. |
+| r-462.jsonl | wikibooks:american-marinara-sauce-i | American Marinara Sauce | American Marinara Sauce | Confirmed: removes only the recipe variant numeral from the original name. |
+| r-462.jsonl | wikibooks:american-marinara-sauce-ii | American Marinara Sauce | American Marinara Sauce | Confirmed: removes only the recipe variant numeral from the original name. |
+| r-462.jsonl | wikibooks:american-potato-salad-i | American Potato Salad | American Potato Salad | Confirmed: removes only the recipe variant numeral from the original name. |
+| r-462.jsonl | wikibooks:american-potato-salad-ii | American Potato Salad | American Potato Salad | Confirmed: removes only the recipe variant numeral from the original name. |
+| r-462.jsonl | wikibooks:anzac-biscuits-i | Anzac Biscuits | Anzac Biscuits | Confirmed: removes only the recipe variant numeral from the original name. |
+| r-462.jsonl | wikibooks:anzac-biscuits-ii | Anzac Biscuits | Anzac Biscuits | Confirmed: removes only the recipe variant numeral from the original name. |
+| r-497.jsonl | wikibooks:cuban-sandwich-i | Cuban Sandwich | Cuban Sandwich | Confirmed: removes only the recipe variant numeral from the original name. |
+| r-497.jsonl | wikibooks:cuban-sandwich-ii | Cuban Sandwich | Cuban Sandwich | Confirmed: removes only the recipe variant numeral from the original name. |
