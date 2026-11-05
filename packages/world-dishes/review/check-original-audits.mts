@@ -68,7 +68,7 @@ console.log(
   `${batches.length} recovered original batches; ${targets} target IDs; ${missing} absent from original audit ledgers.`,
 )
 console.log(
-  `Baseline ${baseline}; targets include baseline flags plus current flags and changed rows.`,
+  `Baseline ${baseline}; historical targets include flags and changed rows through a1898bb.`,
 )
 console.log(
   `${coveredBatches} batches have every target ID recorded; ${zeroTargetBatches.length} zero-target batches: ${zeroTargetBatches.join(", ")}`,

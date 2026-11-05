@@ -1,12 +1,12 @@
 {
-  "verdictHash": "c41243e2a9781181afc9688195a2508ceb65fb1c7ee32c9d44be41a52c013026",
-  "outputHash": "4dcf7f54bc5561f5cac8437f9d118abf1c6b6424b28346333ea7482610f944d9",
+  "verdictHash": "0cb77c6c1ebe5c1b22e5a85f5504f850eb9d0f7a7f80ebf00519aa690323de75",
+  "outputHash": "f17d749d793f453aed24bd7b655a42b3d16be9c4c21d820955f44f57726ff9e6",
   "counts": {
-    "removed": 1658,
+    "removed": 1844,
     "emptied": 48,
     "renamed": 314,
-    "countriesChanged": 8903,
-    "recipesFixed": 1859,
-    "recipesDropped": 77
+    "countriesChanged": 19070,
+    "recipesFixed": 1857,
+    "recipesDropped": 81
   }
 }

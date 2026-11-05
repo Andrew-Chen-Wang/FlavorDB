@@ -1,5 +1,15 @@
 # Second-opinion coverage
 
+The mandatory-country follow-up uses `countries-first-01.jsonl` through
+`countries-first-25.jsonl` and matching `countries-second-*.jsonl` ledgers. The frozen
+`../country-targets.json` identifies 10,394 previously countryless entries by original batch
+position, plus two explicit special cases. Readers inspect each complete supplied entry and raw
+excerpt; the second reader independently checks the resulting decision. First ledgers preserve
+the initial decisions even when a second reader corrects them. `../check-countries.mts` checks
+exact coverage, order and agreement with final verdicts without making editorial decisions.
+Two continent-only African recipes retain explicitly provisional countries with user approval;
+their reasons and the review README record that provenance limitation.
+
 The original-input recheck supersedes the earlier metadata-only second opinions for all 297
 batches supplied in `original-batches.tgz`. Each `original-*.md` ledger records targeted dish IDs,
 positions, retained decisions and corrections after reading the actual entries and raw excerpts.
@@ -8,7 +18,7 @@ The fresh pass covered 8,160 targeted or changed records across the 297 recovere
 inputs are now available and independently match the positional manifest.
 
 `../check-original-audits.mts` mechanically checks that every original-scope removal, name or
-country target from commit `8476ba3`, plus subsequent changes, appears in the new ledgers. It does
+country target from commit `8476ba3`, plus changes through `a1898bb`, appears in the new ledgers. It does
 not judge dishes or substitute for the readers' completion reports.
 
 The table below preserves the earlier audit history; the new `original-*.md` ledgers are the

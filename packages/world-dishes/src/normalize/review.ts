@@ -256,6 +256,8 @@ export function verdictReport(counts: ReviewCounts, verdicts: Verdicts, mode: st
     `| Recipes fixed | ${counts.recipesFixed} |`,
     `| Recipes dropped | ${counts.recipesDropped} |`,
     "",
+    "Every retained dish has at least one country; the shared build/application code rejects countryless output. Country assignments include shared associations and use the actual recipe version for generic dishes.",
+    "",
     verdicts.batchesUnavailable.length === 0
       ? `All ${verdicts.files} verdict files were matched to original batch positions${verdicts.positionsPersisted ? " and checked against persisted positions" : ""}.`
       : verdicts.positionsPersisted

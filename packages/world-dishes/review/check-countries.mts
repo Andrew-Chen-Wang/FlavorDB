@@ -63,9 +63,11 @@ if (dataOnly) {
   for (const [group, assignment] of Object.entries(snapshot.groups).toSorted(([a], [b]) =>
     a.localeCompare(b),
   )) {
-    const expected = assignment.extraTargets ?? assignment.batches.flatMap((batch) =>
-      (snapshot.batches[batch] ?? []).map((target) => ({ batch, ...target })),
-    )
+    const expected =
+      assignment.extraTargets ??
+      assignment.batches.flatMap((batch) =>
+        (snapshot.batches[batch] ?? []).map((target) => ({ batch, ...target })),
+      )
     total += expected.length
     if (expected.length !== assignment.targets)
       issue(
@@ -156,8 +158,18 @@ if (dataOnly) {
     console.log(`Group ${group}: ${statuses.join("; ")}`)
   }
   const snapshotTotal = Object.values(snapshot.batches).reduce((sum, list) => sum + list.length, 0)
-  if (seenTargets.size !== snapshotTotal)
-    issue(`Snapshot assignment covers ${seenTargets.size}/${snapshotTotal} targets`)
+  const allTargets = new Set(
+    Object.entries(snapshot.batches).flatMap(([batch, targets]) =>
+      targets.map((target) => `${batch}:${target.position}`),
+    ),
+  )
+  for (const assignment of Object.values(snapshot.groups))
+    for (const target of assignment.extraTargets ?? [])
+      allTargets.add(`${target.batch}:${target.position}`)
+  if (seenTargets.size !== allTargets.size || [...allTargets].some((key) => !seenTargets.has(key)))
+    issue(
+      `Snapshot assignment covers ${seenTargets.size}/${allTargets.size} targets including special cases`,
+    )
   console.log(
     `Baseline ${snapshot.baseline}: ${snapshotTotal} targets in ${Object.keys(snapshot.batches).length} batches; ${Object.keys(snapshot.groups).length} groups.`,
   )
