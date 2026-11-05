@@ -31,3 +31,4 @@ Original batch raw sources are unavailable. This audit reads every remove/countr
 - r-106: audited all 17 countries targets. Expanded pita to omitted common Eastern Mediterranean ties; named paellas and regional prepared foods upheld.
 - r-107: audited all 17 remove/countries targets. Expanded pastilla and patacones to shared ties; cleared generic caper/olive spread. Panela lemonade removal upheld.
 - r-108: audited all 28 remove/countries targets. Cleared generic chard gratin and pears in wine; expanded cod fritters and picarones to shared ties. Seven pisco cocktail removals upheld.
+- r-109: audited all 17 remove/countries targets. Cleared three generic chicken preparations; expanded disputed tikka masala and black-bean chicken ties. Four drinks upheld.
