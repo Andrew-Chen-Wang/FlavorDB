@@ -1,0 +1,18 @@
+{"id":"Q257260","verdict":"remove","reason":"drink (cola)"}
+{"id":"Q2573204","verdict":"keep","countries":["LB","SY","JO","PS"],"reason":"no country; Levantine dish, added countries","recipes":[{"source":"https://it.wikibooks.org/wiki/Libro_di_cucina%2FRicette%2FSfiha","status":"ok"}]}
+{"id":"Q257971","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ASemolina_Pudding","status":"ok"}]}
+{"id":"Q260765","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FDamper","status":"ok"}]}
+{"id":"Q26081","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AShark_Fin_Soup","status":"ok"}]}
+{"id":"Q2631911","verdict":"keep","countries":["DZ","MA"],"reason":"no country; Maghreb flatbread (Algeria, Morocco), added countries","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AMsemmen","status":"ok"},{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FMsemmen","status":"ok"}]}
+{"id":"Q2633627","verdict":"keep","recipes":[{"source":"https://hu.wikibooks.org/wiki/Szak%C3%A1csk%C3%B6nyv%2FH%C3%BAsok%2FBorj%C3%BA%2FPuchero","status":"ok"}]}
+{"id":"Q267129","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChicken_and_Dumplings","status":"ok"}]}
+{"id":"Q267877","verdict":"keep","countries":["NL"],"reason":"no country; Dutch waffle, added country","recipes":[{"source":"https://nl.wikibooks.org/wiki/Kookboek%2FStroopwafel","status":"ok"}]}
+{"id":"Q2681008","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AHuevos_Rancheros","status":"ok"}]}
+{"id":"Q2697699","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FEscalivada","status":"ok"}]}
+{"id":"Q2706236","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FNatillas","status":"ok"}]}
+{"id":"Q2706698","verdict":"keep","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3AChip_Butty","status":"ok"}]}
+{"id":"Q271555","verdict":"keep","countries":["IN","PK","BD"],"reason":"no country; biryani from the Indian subcontinent, added countries","recipes":[{"source":"https://en.wikibooks.org/wiki/Cookbook%3ABiryani","status":"ok"}]}
+{"id":"Q2718037","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FNavarin","status":"ok"}]}
+{"id":"Q2724885","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FAligot","status":"ok"}]}
+{"id":"Q273426","verdict":"keep","recipes":[{"source":"https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FDesserts%2F%C3%89clair","status":"ok"}]}
+{"id":"Q2735024","verdict":"keep","recipes":[{"source":"https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FAnticucho","status":"ok"}]}

@@ -1,0 +1,300 @@
+{"id":"Q12019323","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech candy"}
+{"id":"Q12020911","verdict":"keep","countries":["US"],"reason":"countries empty; Hawaiian dish"}
+{"id":"Q1202221","verdict":"keep"}
+{"id":"Q1202255","verdict":"keep"}
+{"id":"Q12024336","verdict":"keep"}
+{"id":"Q120266072","verdict":"keep"}
+{"id":"Q120280461","verdict":"keep","countries":["UA"],"reason":"countries empty; Ukrainian dish"}
+{"id":"Q12031817","verdict":"keep"}
+{"id":"Q120333038","verdict":"remove","reason":"fast-food chain menu item"}
+{"id":"Q12033864","verdict":"keep"}
+{"id":"Q12033904","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech biscuits"}
+{"id":"Q12037401","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech confection"}
+{"id":"Q120378681","verdict":"keep"}
+{"id":"Q1203893","verdict":"keep"}
+{"id":"Q12038988","verdict":"keep"}
+{"id":"Q120391804","verdict":"keep"}
+{"id":"Q120394663","verdict":"keep","countries":["CN"],"reason":"countries empty; Chinese soup"}
+{"id":"Q120395550","verdict":"keep","countries":["GB"],"reason":"countries empty; British Chinese dish"}
+{"id":"Q120400795","verdict":"keep","countries":["ES"],"reason":"countries empty; Spanish fries"}
+{"id":"Q12040362","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech cheese dish"}
+{"id":"Q120404013","verdict":"keep","countries":["ES"],"reason":"countries empty; Spanish confection"}
+{"id":"Q120404251","verdict":"keep","countries":["ES"],"reason":"countries empty; Spanish dish"}
+{"id":"Q120422413","verdict":"keep"}
+{"id":"Q12044493","verdict":"keep","countries":["FR"],"reason":"countries empty; French salad"}
+{"id":"Q12045473","verdict":"keep","countries":["AT"],"reason":"countries empty; Austrian torte"}
+{"id":"Q12045578","verdict":"keep"}
+{"id":"Q1204605","verdict":"keep"}
+{"id":"Q120471689","verdict":"keep","countries":["ES"],"reason":"countries empty; Spanish chicken dish"}
+{"id":"Q12047663","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech snack"}
+{"id":"Q120486465","verdict":"keep"}
+{"id":"Q12048787","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech confection"}
+{"id":"Q120493206","verdict":"keep"}
+{"id":"Q120495847","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese shrimp dish"}
+{"id":"Q120495866","verdict":"keep"}
+{"id":"Q120499220","verdict":"keep","countries":["FR"],"reason":"petit four is French; IT was wrong"}
+{"id":"Q12050379","verdict":"keep"}
+{"id":"Q120512623","verdict":"remove","reason":"fast-food chain menu item"}
+{"id":"Q12054972","verdict":"keep","countries":["CZ"],"reason":"countries empty; Czech dish"}
+{"id":"Q1205609","verdict":"keep"}
+{"id":"Q12056671","verdict":"keep"}
+{"id":"Q12058996","verdict":"keep"}
+{"id":"Q120598334","verdict":"keep"}
+{"id":"Q120599590","verdict":"keep","countries":["IN"],"reason":"countries empty; Kerala dish"}
+{"id":"Q120600488","verdict":"keep"}
+{"id":"Q12061056","verdict":"keep"}
+{"id":"Q120640342","verdict":"keep"}
+{"id":"Q120648396","verdict":"keep"}
+{"id":"Q120648586","verdict":"keep"}
+{"id":"Q120669355","verdict":"keep"}
+{"id":"Q120681710","verdict":"keep"}
+{"id":"Q120682642","verdict":"keep"}
+{"id":"Q12070251","verdict":"keep","countries":["KE"],"reason":"countries empty; Kenyan dish"}
+{"id":"Q120703855","verdict":"keep","countries":["US"],"reason":"countries empty; American cookie"}
+{"id":"Q12071938","verdict":"keep"}
+{"id":"Q1207626","verdict":"keep"}
+{"id":"Q120766622","verdict":"remove","reason":"fictional video-game material"}
+{"id":"Q1207732","verdict":"keep"}
+{"id":"Q120783890","verdict":"keep"}
+{"id":"Q1208221","verdict":"keep"}
+{"id":"Q120824242","verdict":"keep","countries":["IN"],"reason":"countries empty; Rajasthani dish"}
+{"id":"Q120829140","verdict":"keep"}
+{"id":"Q120831995","verdict":"keep"}
+{"id":"Q120841934","verdict":"keep","countries":["JP"],"reason":"countries empty; Okinawan cuisine"}
+{"id":"Q12084278","verdict":"keep"}
+{"id":"Q12085692","verdict":"keep"}
+{"id":"Q120860928","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
+{"id":"Q120867636","verdict":"keep","countries":["JP"],"reason":"countries empty; Ryukyu confection"}
+{"id":"Q120878037","verdict":"keep"}
+{"id":"Q120890674","verdict":"keep","countries":["JP"],"reason":"countries empty; Fukuoka dish"}
+{"id":"Q120890947","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
+{"id":"Q120891123","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
+{"id":"Q120892828","verdict":"keep"}
+{"id":"Q120919679","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese tempura"}
+{"id":"Q120919888","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese soup"}
+{"id":"Q120919958","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
+{"id":"Q120920042","verdict":"keep"}
+{"id":"Q120944378","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean dish"}
+{"id":"Q120961670","verdict":"keep"}
+{"id":"Q120968865","verdict":"keep","countries":["IT"],"reason":"countries empty; Italian cheese"}
+{"id":"Q12097130","verdict":"keep","countries":["UA"],"reason":"countries empty; Ukrainian fritters"}
+{"id":"Q120972787","verdict":"keep"}
+{"id":"Q120973181","verdict":"keep","countries":["ID"],"reason":"countries empty; Rembang dish"}
+{"id":"Q12097630","verdict":"keep"}
+{"id":"Q121015594","verdict":"keep"}
+{"id":"Q121027105","verdict":"keep"}
+{"id":"Q12103008","verdict":"keep","countries":["UA"],"reason":"countries empty; Ukrainian dish"}
+{"id":"Q121037170","verdict":"keep"}
+{"id":"Q12105883","verdict":"remove","reason":"generic category (thickened soup), not one dish"}
+{"id":"Q12106077","verdict":"keep"}
+{"id":"Q12107189","verdict":"keep"}
+{"id":"Q121075973","verdict":"keep"}
+{"id":"Q121076628","verdict":"keep"}
+{"id":"Q121085597","verdict":"keep"}
+{"id":"Q121089786","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean porridge"}
+{"id":"Q12109320","verdict":"keep"}
+{"id":"Q121096316","verdict":"keep"}
+{"id":"Q121115158","verdict":"keep","countries":["US"],"reason":"countries empty; Southern US dish"}
+{"id":"Q1211297","verdict":"keep"}
+{"id":"Q121133789","verdict":"keep"}
+{"id":"Q121140766","verdict":"keep"}
+{"id":"Q121157049","verdict":"keep"}
+{"id":"Q121157575","verdict":"keep"}
+{"id":"Q121162872","verdict":"keep"}
+{"id":"Q1211684","verdict":"keep"}
+{"id":"Q12117602","verdict":"keep"}
+{"id":"Q121224424","verdict":"keep"}
+{"id":"Q121224535","verdict":"keep","countries":["IT"],"reason":"countries empty; Italian dessert"}
+{"id":"Q121257692","verdict":"keep","countries":["AM"],"reason":"countries empty; Armenian sweetmeat"}
+{"id":"Q121295961","verdict":"keep"}
+{"id":"Q121366296","verdict":"keep"}
+{"id":"Q12137633","verdict":"keep"}
+{"id":"Q121379458","verdict":"keep"}
+{"id":"Q121409949","verdict":"keep"}
+{"id":"Q121433974","verdict":"keep"}
+{"id":"Q121438054","verdict":"remove","reason":"2023 event, not a dish"}
+{"id":"Q121483583","verdict":"keep","countries":["UA"],"reason":"countries empty; Ukrainian soup"}
+{"id":"Q121544620","verdict":"keep"}
+{"id":"Q12156539","verdict":"keep"}
+{"id":"Q12158729","verdict":"keep"}
+{"id":"Q12159935","verdict":"keep"}
+{"id":"Q121600417","verdict":"keep"}
+{"id":"Q121600797","verdict":"keep","countries":["DE"],"reason":"countries empty; German dish"}
+{"id":"Q121601792","verdict":"keep","countries":["DE"],"reason":"countries empty; German dish"}
+{"id":"Q12160988","verdict":"keep","countries":["UA"],"reason":"countries empty; Ukrainian porridge"}
+{"id":"Q12162645","verdict":"keep"}
+{"id":"Q121632964","verdict":"keep","countries":["ES"],"reason":"countries empty; Catalan pasta"}
+{"id":"Q121686412","verdict":"keep"}
+{"id":"Q121695915","verdict":"keep"}
+{"id":"Q1216990","verdict":"keep","countries":["ES"],"reason":"countries empty; Navarrese dish"}
+{"id":"Q1216999","verdict":"keep"}
+{"id":"Q12170274","verdict":"keep"}
+{"id":"Q12172314","verdict":"keep"}
+{"id":"Q12172497","verdict":"keep"}
+{"id":"Q121757100","verdict":"keep"}
+{"id":"Q121788204","verdict":"keep"}
+{"id":"Q121788679","verdict":"keep","countries":["ES"],"reason":"countries empty; Spanish confection"}
+{"id":"Q121791577","verdict":"keep"}
+{"id":"Q12179369","verdict":"keep"}
+{"id":"Q121804925","verdict":"keep","countries":["CN"],"reason":"countries empty; Suzhou mooncake"}
+{"id":"Q121811773","verdict":"remove","reason":"article about bread in folk beliefs, not a dish"}
+{"id":"Q121832765","verdict":"keep"}
+{"id":"Q12184379","verdict":"keep"}
+{"id":"Q1218450","verdict":"keep"}
+{"id":"Q121858197","verdict":"keep"}
+{"id":"Q121862998","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
+{"id":"Q12187758","verdict":"keep"}
+{"id":"Q12187786","verdict":"keep"}
+{"id":"Q121878115","verdict":"keep","countries":["IN"],"reason":"countries empty; Kerala dosa"}
+{"id":"Q121889426","verdict":"keep","countries":["ES"],"reason":"countries empty; Catalan turron"}
+{"id":"Q121889462","verdict":"keep"}
+{"id":"Q12191243","verdict":"keep"}
+{"id":"Q12191857","verdict":"keep","countries":["SY"],"reason":"countries empty; Aleppo dessert"}
+{"id":"Q121920223","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
+{"id":"Q12192208","verdict":"keep"}
+{"id":"Q12192991","verdict":"keep","countries":["DZ"],"reason":"description says Algiers; MA was wrong"}
+{"id":"Q12195766","verdict":"keep"}
+{"id":"Q12197801","verdict":"keep"}
+{"id":"Q12199101","verdict":"keep","countries":["EH","MR"],"reason":"countries empty; Western Saharan dish"}
+{"id":"Q121994113","verdict":"keep"}
+{"id":"Q12200","verdict":"keep"}
+{"id":"Q122017831","verdict":"keep","countries":["ES"],"reason":"countries empty; Spanish recipe"}
+{"id":"Q12203234","verdict":"keep"}
+{"id":"Q122045403","verdict":"keep","countries":["IN"],"reason":"countries empty; Kerala dessert"}
+{"id":"Q12208569","verdict":"keep"}
+{"id":"Q12208571","verdict":"keep"}
+{"id":"Q12212000","verdict":"keep"}
+{"id":"Q12212197","verdict":"keep"}
+{"id":"Q12213597","verdict":"keep"}
+{"id":"Q12214836","verdict":"keep"}
+{"id":"Q122154","verdict":"keep"}
+{"id":"Q122167947","verdict":"keep"}
+{"id":"Q12218191","verdict":"keep","countries":["LB","SY"],"reason":"countries empty; Levantine stew"}
+{"id":"Q12218486","verdict":"keep"}
+{"id":"Q12219244","verdict":"keep"}
+{"id":"Q12220257","verdict":"keep"}
+{"id":"Q12220420","verdict":"keep","countries":["LB"],"reason":"countries empty; Lebanese dish"}
+{"id":"Q1222099","verdict":"keep"}
+{"id":"Q12221610","verdict":"keep"}
+{"id":"Q12221948","verdict":"keep"}
+{"id":"Q122228524","verdict":"keep"}
+{"id":"Q122237047","verdict":"keep","countries":["IN","BD"],"reason":"countries empty; Bengali dish"}
+{"id":"Q122237637","verdict":"keep","countries":["BD"],"reason":"countries empty; Dhaka dish"}
+{"id":"Q122237724","verdict":"keep","countries":["BD"],"reason":"countries empty; Dhaka dish"}
+{"id":"Q122237762","verdict":"keep","countries":["BD"],"reason":"countries empty; Dhaka dish"}
+{"id":"Q122241204","verdict":"remove","reason":"category (convenience store sweets), not one dish"}
+{"id":"Q122241480","verdict":"keep"}
+{"id":"Q122241559","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
+{"id":"Q12224442","verdict":"keep"}
+{"id":"Q12224780","verdict":"keep","countries":["YE"],"reason":"countries empty; South Arabian dish"}
+{"id":"Q122258938","verdict":"keep","countries":["JP"],"reason":"countries empty; Ogasawara cuisine"}
+{"id":"Q12227158","verdict":"keep"}
+{"id":"Q122292341","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese confection"}
+{"id":"Q122295640","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
+{"id":"Q12230290","verdict":"keep"}
+{"id":"Q122305565","verdict":"keep"}
+{"id":"Q122307637","verdict":"keep"}
+{"id":"Q12230920","verdict":"keep"}
+{"id":"Q122331596","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese sushi"}
+{"id":"Q122331690","verdict":"keep"}
+{"id":"Q122331930","verdict":"keep","countries":["ES"],"reason":"countries empty; Catalan tapas"}
+{"id":"Q122332939","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
+{"id":"Q122332947","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
+{"id":"Q12233354","verdict":"keep"}
+{"id":"Q122335037","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese sushi"}
+{"id":"Q1223352","verdict":"keep"}
+{"id":"Q12234417","verdict":"keep"}
+{"id":"Q122354930","verdict":"keep"}
+{"id":"Q122354953","verdict":"keep"}
+{"id":"Q12236278","verdict":"keep","countries":["PS"],"reason":"countries empty; Nablus dish"}
+{"id":"Q122362951","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
+{"id":"Q12236379","verdict":"keep","countries":["EG"],"reason":"countries empty; Egyptian dish"}
+{"id":"Q122370317","verdict":"keep"}
+{"id":"Q122370327","verdict":"keep"}
+{"id":"Q12237734","verdict":"keep"}
+{"id":"Q12238558","verdict":"keep"}
+{"id":"Q122389490","verdict":"keep"}
+{"id":"Q122411411","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
+{"id":"Q12241516","verdict":"keep"}
+{"id":"Q122417599","verdict":"keep"}
+{"id":"Q122417689","verdict":"keep"}
+{"id":"Q12243625","verdict":"keep"}
+{"id":"Q12244460","verdict":"keep"}
+{"id":"Q1224461","verdict":"keep"}
+{"id":"Q12244832","verdict":"keep"}
+{"id":"Q122451068","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
+{"id":"Q122453617","verdict":"keep"}
+{"id":"Q122514382","verdict":"keep"}
+{"id":"Q122528692","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese korokke"}
+{"id":"Q1225577","verdict":"keep","countries":["DE"],"reason":"countries empty; German dish"}
+{"id":"Q12259249","verdict":"keep"}
+{"id":"Q122599104","verdict":"keep"}
+{"id":"Q122609155","verdict":"keep","countries":["BO"],"reason":"countries empty; Bolivian food"}
+{"id":"Q12261332","verdict":"keep"}
+{"id":"Q122632985","verdict":"keep"}
+{"id":"Q12264276","verdict":"keep","countries":["AT"],"reason":"countries empty; Austrian pancake"}
+{"id":"Q122644102","verdict":"keep"}
+{"id":"Q122650685","verdict":"keep","countries":["TH"],"reason":"countries empty; Thai dish"}
+{"id":"Q1226539","verdict":"keep"}
+{"id":"Q122659569","verdict":"keep"}
+{"id":"Q122662498","verdict":"keep","countries":["CA"],"reason":"countries empty; Canadian confection"}
+{"id":"Q1226651","verdict":"keep"}
+{"id":"Q122667149","verdict":"keep"}
+{"id":"Q122676349","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
+{"id":"Q122676511","verdict":"keep"}
+{"id":"Q122677946","verdict":"keep"}
+{"id":"Q12268392","verdict":"keep","countries":["ES"],"reason":"countries empty; Basque dessert"}
+{"id":"Q122696086","verdict":"keep"}
+{"id":"Q12271168","verdict":"keep","countries":["MK"],"reason":"countries empty; Macedonian stew"}
+{"id":"Q1227144","verdict":"keep"}
+{"id":"Q12273417","verdict":"keep"}
+{"id":"Q122746645","verdict":"keep"}
+{"id":"Q12275182","verdict":"keep"}
+{"id":"Q122759178","verdict":"keep"}
+{"id":"Q122762284","verdict":"keep"}
+{"id":"Q122780671","verdict":"keep","countries":["DE"],"reason":"countries empty; German pastry"}
+{"id":"Q122780717","verdict":"keep"}
+{"id":"Q122780744","verdict":"keep","countries":["FR"],"reason":"countries empty; French bread"}
+{"id":"Q122782077","verdict":"keep"}
+{"id":"Q1227853","verdict":"keep"}
+{"id":"Q122790013","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
+{"id":"Q122790091","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese ramen"}
+{"id":"Q122790153","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese soup"}
+{"id":"Q12279155","verdict":"keep","countries":["RO"],"reason":"countries empty; Romanian dish"}
+{"id":"Q12279211","verdict":"keep"}
+{"id":"Q122792121","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese zoni"}
+{"id":"Q122808444","verdict":"keep","countries":["KR"],"reason":"countries empty; Korean dish"}
+{"id":"Q122808989","verdict":"keep"}
+{"id":"Q122809709","verdict":"keep"}
+{"id":"Q122811070","verdict":"keep"}
+{"id":"Q122818225","verdict":"keep"}
+{"id":"Q122829893","verdict":"keep","countries":["NG"],"reason":"countries empty; Nigerian dish"}
+{"id":"Q122842209","verdict":"keep"}
+{"id":"Q122842234","verdict":"keep"}
+{"id":"Q122851719","verdict":"keep","countries":["DE"],"reason":"countries empty; German dish"}
+{"id":"Q122851988","verdict":"remove","reason":"cookie shop chain, not a dish"}
+{"id":"Q12287205","verdict":"keep"}
+{"id":"Q122877681","verdict":"keep","countries":["TH"],"reason":"countries empty; Thai dish"}
+{"id":"Q122890669","verdict":"keep","countries":["IT"],"reason":"countries empty; Novara biscuit"}
+{"id":"Q12289076","verdict":"keep","countries":["BG"],"reason":"countries empty; Bulgarian ritual bread"}
+{"id":"Q122898181","verdict":"keep"}
+{"id":"Q12290687","verdict":"keep","countries":["BG"],"reason":"countries empty; Bulgarian dish"}
+{"id":"Q12290688","verdict":"keep","countries":["BG"],"reason":"countries empty; Bulgarian dish"}
+{"id":"Q122915710","verdict":"keep"}
+{"id":"Q122917163","verdict":"keep"}
+{"id":"Q12291791","verdict":"keep","countries":["BG"],"reason":"countries empty; Bulgarian dish"}
+{"id":"Q122921187","verdict":"keep","countries":["DE"],"reason":"countries empty; German bread"}
+{"id":"Q12292267","verdict":"keep"}
+{"id":"Q122925646","verdict":"keep"}
+{"id":"Q12293376","verdict":"keep","countries":["BG"],"reason":"countries empty; Bulgarian dish"}
+{"id":"Q12293377","verdict":"keep","countries":["BG"],"reason":"countries empty; Bulgarian dish"}
+{"id":"Q12293790","verdict":"keep"}
+{"id":"Q122938110","verdict":"keep","countries":["UA"],"reason":"countries empty; Ukrainian noodles"}
+{"id":"Q122940800","verdict":"keep","countries":["JP"],"reason":"countries empty; Japanese dish"}
+{"id":"Q122948159","verdict":"keep"}
+{"id":"Q122948483","verdict":"keep","countries":["NG"],"reason":"countries empty; Nigerian food"}
+{"id":"Q122956346","verdict":"keep"}
+{"id":"Q122957244","verdict":"keep"}
+{"id":"Q12295770","verdict":"keep"}
+{"id":"Q122958910","verdict":"keep"}
+{"id":"Q122960549","verdict":"keep"}

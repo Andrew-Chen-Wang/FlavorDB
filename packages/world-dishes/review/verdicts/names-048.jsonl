@@ -1,0 +1,300 @@
+{"id":"Q5768502","verdict":"keep"}
+{"id":"Q5768541","verdict":"remove","reason":"branded lollipop product (Chupa Chups-style brand)"}
+{"id":"Q5770216","verdict":"keep","countries":["IR"],"reason":"added countries"}
+{"id":"Q5775793","verdict":"keep"}
+{"id":"Q5775857","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q5779811","verdict":"keep","countries":["IR"],"reason":"added countries"}
+{"id":"Q5780954","verdict":"keep"}
+{"id":"Q578365","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q57864243","verdict":"keep","countries":["KR"],"reason":"added countries"}
+{"id":"Q5788351","verdict":"keep"}
+{"id":"Q5788535","verdict":"keep","countries":["MX"],"reason":"added countries"}
+{"id":"Q5790855","verdict":"keep"}
+{"id":"Q5793478","verdict":"keep"}
+{"id":"Q57935560","verdict":"keep"}
+{"id":"Q5795066","verdict":"keep"}
+{"id":"Q5796448","verdict":"keep"}
+{"id":"Q579671","verdict":"keep"}
+{"id":"Q57981532","verdict":"keep"}
+{"id":"Q57981542","verdict":"keep"}
+{"id":"Q58034470","verdict":"keep"}
+{"id":"Q5803846","verdict":"keep"}
+{"id":"Q58090266","verdict":"keep"}
+{"id":"Q58090277","verdict":"keep"}
+{"id":"Q58090319","verdict":"keep"}
+{"id":"Q58090327","verdict":"keep"}
+{"id":"Q58090401","verdict":"keep"}
+{"id":"Q5812034","verdict":"keep"}
+{"id":"Q5814975","verdict":"keep"}
+{"id":"Q5814982","verdict":"remove","reason":"category of candies, not one dish"}
+{"id":"Q581701","verdict":"keep"}
+{"id":"Q581884","verdict":"keep"}
+{"id":"Q58212664","verdict":"keep","countries":["CH","DE"],"reason":"added countries"}
+{"id":"Q58263","verdict":"keep","countries":["US"],"reason":"FR was wrong; Eggs Benedict is American"}
+{"id":"Q5831610","verdict":"keep"}
+{"id":"Q5831612","verdict":"keep"}
+{"id":"Q5831614","verdict":"keep"}
+{"id":"Q5831624","verdict":"keep"}
+{"id":"Q5831687","verdict":"keep"}
+{"id":"Q5832771","verdict":"keep"}
+{"id":"Q58339033","verdict":"keep"}
+{"id":"Q58339162","verdict":"keep"}
+{"id":"Q5834056","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q5834058","verdict":"keep"}
+{"id":"Q5834310","verdict":"keep"}
+{"id":"Q5834964","verdict":"keep"}
+{"id":"Q583522","verdict":"keep"}
+{"id":"Q58356585","verdict":"keep"}
+{"id":"Q5836776","verdict":"keep","countries":["IR"],"reason":"added countries"}
+{"id":"Q5837802","verdict":"keep","countries":["AD","ES"],"reason":"added countries"}
+{"id":"Q5840300","verdict":"keep"}
+{"id":"Q584035","verdict":"keep"}
+{"id":"Q58424037","verdict":"keep"}
+{"id":"Q58431093","verdict":"keep"}
+{"id":"Q584324","verdict":"keep"}
+{"id":"Q5843433","verdict":"keep","countries":["IR"],"reason":"added countries"}
+{"id":"Q584564","verdict":"keep"}
+{"id":"Q5849978","verdict":"keep"}
+{"id":"Q5851184","verdict":"keep","countries":["IR"],"reason":"added countries"}
+{"id":"Q5851361","verdict":"keep"}
+{"id":"Q5853667","verdict":"keep","countries":["HR"],"reason":"added countries"}
+{"id":"Q5854461","verdict":"keep","countries":["AR"],"reason":"added countries"}
+{"id":"Q5857706","verdict":"keep"}
+{"id":"Q5858980","verdict":"keep","countries":["IR"],"reason":"added countries"}
+{"id":"Q58610","verdict":"keep"}
+{"id":"Q58611926","verdict":"keep","countries":["CL"],"reason":"added countries"}
+{"id":"Q5862438","verdict":"keep"}
+{"id":"Q5862467","verdict":"keep","countries":["MX"],"reason":"added countries"}
+{"id":"Q586278","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q586307","verdict":"keep"}
+{"id":"Q5864774","verdict":"keep"}
+{"id":"Q586601","verdict":"keep"}
+{"id":"Q58667833","verdict":"keep","countries":["ID"],"reason":"added countries"}
+{"id":"Q5869227","verdict":"keep"}
+{"id":"Q5869561","verdict":"keep"}
+{"id":"Q5870874","verdict":"keep"}
+{"id":"Q58717221","verdict":"remove","reason":"a meal course concept, not a dish"}
+{"id":"Q5872280","verdict":"keep","countries":["IR"],"reason":"added countries"}
+{"id":"Q58730","verdict":"keep"}
+{"id":"Q5873872","verdict":"keep"}
+{"id":"Q5873987","verdict":"keep"}
+{"id":"Q5874068","verdict":"remove","reason":"branded packaged snack cake (Ho Hos)"}
+{"id":"Q5874625","verdict":"keep","countries":["KR"],"reason":"added countries"}
+{"id":"Q5875021","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q5875989","verdict":"keep"}
+{"id":"Q5876529","verdict":"keep"}
+{"id":"Q5876578","verdict":"keep"}
+{"id":"Q5877909","verdict":"keep"}
+{"id":"Q5878001","verdict":"keep"}
+{"id":"Q5878377","verdict":"keep"}
+{"id":"Q58799170","verdict":"keep"}
+{"id":"Q58799253","verdict":"remove","reason":"branded packaged lollipop (Whirly Pop)"}
+{"id":"Q5880655","verdict":"keep"}
+{"id":"Q5882479","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q588378","verdict":"keep"}
+{"id":"Q5884920","verdict":"keep"}
+{"id":"Q58853122","verdict":"keep"}
+{"id":"Q588828","verdict":"keep"}
+{"id":"Q5889331","verdict":"keep"}
+{"id":"Q58898059","verdict":"keep","countries":["IT"],"reason":"added countries"}
+{"id":"Q5890907","verdict":"keep"}
+{"id":"Q58898121","verdict":"keep","countries":["IT"],"reason":"added countries"}
+{"id":"Q58898166","verdict":"keep","countries":["IT"],"reason":"added countries"}
+{"id":"Q58898267","verdict":"keep","countries":["IT"],"reason":"added countries"}
+{"id":"Q5892267","verdict":"keep"}
+{"id":"Q5892337","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q590076","verdict":"keep"}
+{"id":"Q5900909","verdict":"keep"}
+{"id":"Q5904252","verdict":"keep"}
+{"id":"Q5904286","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q5904300","verdict":"keep","countries":["MX"],"reason":"added countries"}
+{"id":"Q5904313","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q5905305","verdict":"keep","countries":["AZ"],"reason":"added countries"}
+{"id":"Q5906095","verdict":"keep"}
+{"id":"Q590686","verdict":"keep"}
+{"id":"Q5907022","verdict":"keep"}
+{"id":"Q590739","verdict":"keep","countries":["CZ","SK"],"reason":"added Slovakia, which the description names"}
+{"id":"Q5909392","verdict":"remove","reason":"branded packaged snack cake (Hostess CupCake)"}
+{"id":"Q5909823","verdict":"keep"}
+{"id":"Q5910723","verdict":"keep"}
+{"id":"Q5911091","verdict":"keep"}
+{"id":"Q59134","verdict":"keep"}
+{"id":"Q59137506","verdict":"keep"}
+{"id":"Q59139","verdict":"keep"}
+{"id":"Q59187583","verdict":"keep"}
+{"id":"Q591888","verdict":"keep"}
+{"id":"Q59208435","verdict":"keep"}
+{"id":"Q592173","verdict":"keep"}
+{"id":"Q5922980","verdict":"remove","reason":"generic term for sweets, not one dish"}
+{"id":"Q592399","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q5925070","verdict":"keep","countries":["CN"],"reason":"added countries"}
+{"id":"Q5925953","verdict":"keep"}
+{"id":"Q5925956","verdict":"keep"}
+{"id":"Q5925980","verdict":"keep"}
+{"id":"Q59260812","verdict":"keep"}
+{"id":"Q5927952","verdict":"keep"}
+{"id":"Q5928080","verdict":"keep"}
+{"id":"Q5929327","verdict":"keep"}
+{"id":"Q5929345","verdict":"keep"}
+{"id":"Q59334084","verdict":"remove","reason":"bitters, an alcoholic drink"}
+{"id":"Q5934858","verdict":"keep","countries":["IR"],"reason":"added countries"}
+{"id":"Q5935553","verdict":"keep"}
+{"id":"Q59361662","verdict":"keep","countries":["NO"],"reason":"added countries"}
+{"id":"Q5940500","verdict":"keep"}
+{"id":"Q5941057","verdict":"keep"}
+{"id":"Q5942589","verdict":"keep"}
+{"id":"Q5942909","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q5946107","verdict":"keep"}
+{"id":"Q594675","verdict":"keep"}
+{"id":"Q5947112","verdict":"keep","countries":["IR"],"reason":"added countries"}
+{"id":"Q595261","verdict":"keep"}
+{"id":"Q59533377","verdict":"keep","countries":["KR"],"reason":"added countries"}
+{"id":"Q5953980","verdict":"keep"}
+{"id":"Q59542124","verdict":"keep"}
+{"id":"Q595744","verdict":"keep"}
+{"id":"Q5959435","verdict":"keep"}
+{"id":"Q59629576","verdict":"keep"}
+{"id":"Q596409","verdict":"keep"}
+{"id":"Q5964341","verdict":"keep"}
+{"id":"Q59652608","verdict":"keep"}
+{"id":"Q59707","verdict":"keep","countries":["IN","PK","BD"],"reason":"added countries"}
+{"id":"Q597082","verdict":"keep","countries":["IT"],"reason":"added countries"}
+{"id":"Q5971200","verdict":"keep","countries":["US"],"reason":"added countries"}
+{"id":"Q59713746","verdict":"keep"}
+{"id":"Q597159","verdict":"keep"}
+{"id":"Q5972737","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q5975010","verdict":"keep","countries":["IT"],"reason":"added countries"}
+{"id":"Q5977888","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q597836","verdict":"keep"}
+{"id":"Q5978632","verdict":"keep"}
+{"id":"Q5978645","verdict":"keep"}
+{"id":"Q598113","verdict":"keep"}
+{"id":"Q5984875","verdict":"keep"}
+{"id":"Q5985409","verdict":"keep","countries":["GB"],"reason":"added countries"}
+{"id":"Q5985600","verdict":"keep"}
+{"id":"Q5985621","verdict":"keep"}
+{"id":"Q5989305","verdict":"keep"}
+{"id":"Q5990243","verdict":"keep"}
+{"id":"Q5995340","verdict":"keep"}
+{"id":"Q5995345","verdict":"keep"}
+{"id":"Q599548","verdict":"keep"}
+{"id":"Q5996575","verdict":"keep"}
+{"id":"Q5997109","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q599901","verdict":"keep"}
+{"id":"Q5999282","verdict":"keep"}
+{"id":"Q5999895","verdict":"keep"}
+{"id":"Q6000077","verdict":"keep"}
+{"id":"Q6000956","verdict":"keep"}
+{"id":"Q6002018","verdict":"keep"}
+{"id":"Q6002629","verdict":"keep"}
+{"id":"Q60030154","verdict":"keep","countries":["KR"],"reason":"added countries"}
+{"id":"Q6004351","verdict":"keep","countries":["IN"],"reason":"added countries"}
+{"id":"Q6005710","verdict":"keep"}
+{"id":"Q6006053","verdict":"keep"}
+{"id":"Q6006788","verdict":"keep"}
+{"id":"Q60071727","verdict":"keep","countries":["EC","CO"],"reason":"added countries"}
+{"id":"Q6007813","verdict":"keep"}
+{"id":"Q6008339","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q6008497","verdict":"keep"}
+{"id":"Q6008643","verdict":"keep"}
+{"id":"Q6009527","verdict":"keep"}
+{"id":"Q6009729","verdict":"keep"}
+{"id":"Q6009774","verdict":"keep"}
+{"id":"Q6010228","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q6011052","verdict":"keep","countries":["CO"],"reason":"added countries"}
+{"id":"Q6011654","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q6012372","verdict":"keep"}
+{"id":"Q60126666","verdict":"keep"}
+{"id":"Q6013161","verdict":"keep"}
+{"id":"Q6013354","verdict":"keep"}
+{"id":"Q6013649","verdict":"keep"}
+{"id":"Q6013660","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q6013663","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q6013667","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q6013710","verdict":"keep"}
+{"id":"Q6013719","verdict":"keep"}
+{"id":"Q6015002","verdict":"keep"}
+{"id":"Q60150397","verdict":"keep"}
+{"id":"Q60162114","verdict":"keep"}
+{"id":"Q6017615","verdict":"keep"}
+{"id":"Q6017732","verdict":"keep"}
+{"id":"Q6018508","verdict":"keep"}
+{"id":"Q6018744","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q6018941","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q60194193","verdict":"keep","countries":["DE"],"reason":"added countries"}
+{"id":"Q6020696","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q6020881","verdict":"keep"}
+{"id":"Q6020906","verdict":"remove","reason":"grape variety, not a dish"}
+{"id":"Q6021439","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q6022454","verdict":"keep"}
+{"id":"Q6022608","verdict":"keep"}
+{"id":"Q6022671","verdict":"keep"}
+{"id":"Q6024261","verdict":"keep"}
+{"id":"Q6024500","verdict":"keep"}
+{"id":"Q6024923","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q60253813","verdict":"keep","countries":["LV"],"reason":"added countries"}
+{"id":"Q6026652","verdict":"keep"}
+{"id":"Q6027429","verdict":"keep"}
+{"id":"Q6027777","verdict":"keep"}
+{"id":"Q602810","verdict":"keep","countries":["DE"],"reason":"added countries"}
+{"id":"Q60284253","verdict":"keep","countries":["DE"],"reason":"added countries"}
+{"id":"Q6029192","verdict":"keep"}
+{"id":"Q6029320","verdict":"keep"}
+{"id":"Q6029514","verdict":"keep"}
+{"id":"Q6030071","verdict":"keep"}
+{"id":"Q60310981","verdict":"keep"}
+{"id":"Q60313138","verdict":"keep","countries":["PL"],"reason":"added countries"}
+{"id":"Q6031877","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q6031965","verdict":"keep"}
+{"id":"Q6032139","verdict":"keep"}
+{"id":"Q6034013","verdict":"keep"}
+{"id":"Q6034363","verdict":"keep"}
+{"id":"Q6035081","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q6036443","verdict":"keep"}
+{"id":"Q60375100","verdict":"keep"}
+{"id":"Q60375170","verdict":"keep"}
+{"id":"Q6037551","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q6037556","verdict":"keep"}
+{"id":"Q6037894","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q6038708","verdict":"keep","countries":["CN"],"reason":"added countries"}
+{"id":"Q6038754","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q6038836","verdict":"keep"}
+{"id":"Q6038850","verdict":"keep"}
+{"id":"Q6038914","verdict":"keep"}
+{"id":"Q60398433","verdict":"keep"}
+{"id":"Q6041660","verdict":"keep"}
+{"id":"Q6042330","verdict":"keep"}
+{"id":"Q60428660","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q6042947","verdict":"keep"}
+{"id":"Q60429771","verdict":"keep"}
+{"id":"Q60457322","verdict":"keep","countries":["DE"],"reason":"added countries"}
+{"id":"Q6047464","verdict":"keep"}
+{"id":"Q6049723","verdict":"keep"}
+{"id":"Q60499622","verdict":"keep"}
+{"id":"Q6050131","verdict":"keep"}
+{"id":"Q6051251","verdict":"keep"}
+{"id":"Q605277","verdict":"keep"}
+{"id":"Q6052975","verdict":"keep"}
+{"id":"Q60544188","verdict":"keep","countries":["DE"],"reason":"added countries"}
+{"id":"Q605444","verdict":"keep"}
+{"id":"Q6056817","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q6057938","verdict":"keep","countries":["TR"],"reason":"added countries"}
+{"id":"Q6059372","verdict":"keep","countries":["EC"],"reason":"added countries"}
+{"id":"Q6059375","verdict":"keep"}
+{"id":"Q6059378","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q6059380","verdict":"keep"}
+{"id":"Q6059387","verdict":"keep","countries":["MX"],"reason":"added countries"}
+{"id":"Q6059772","verdict":"keep"}
+{"id":"Q6059926","verdict":"keep"}
+{"id":"Q6060064","verdict":"keep","countries":["MX"],"reason":"added countries"}
+{"id":"Q6060099","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q6060108","verdict":"keep"}
+{"id":"Q60615079","verdict":"keep","countries":["DE"],"reason":"added countries"}
+{"id":"Q60620989","verdict":"keep"}
+{"id":"Q6066037","verdict":"keep"}
+{"id":"Q6066040","verdict":"keep"}
+{"id":"Q6066241","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q6066244","verdict":"keep"}
+{"id":"Q6066253","verdict":"keep","countries":["ES"],"reason":"added countries"}
+{"id":"Q60669107","verdict":"keep"}
+{"id":"Q6067630","verdict":"keep"}

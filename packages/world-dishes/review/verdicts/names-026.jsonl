@@ -1,0 +1,300 @@
+{"id":"Q14918696","verdict":"keep"}
+{"id":"Q14918748","verdict":"keep"}
+{"id":"Q1492566","verdict":"keep","countries":["NI","CR"],"reason":"countries were empty; dish is claimed by Nicaragua and Costa Rica"}
+{"id":"Q14930421","verdict":"keep"}
+{"id":"Q14931087","verdict":"keep"}
+{"id":"Q14940573","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese pastry"}
+{"id":"Q14942719","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch candy"}
+{"id":"Q14943090","verdict":"keep"}
+{"id":"Q1495867","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch candy"}
+{"id":"Q1496601","verdict":"keep"}
+{"id":"Q1497012","verdict":"keep","countries":["DE","AT","CH"],"reason":"countries were empty; German-speaking bakery tradition"}
+{"id":"Q14971","verdict":"keep","countries":["FR"],"reason":"countries were empty; French regional specialty"}
+{"id":"Q1498208","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"Q1498378","verdict":"keep"}
+{"id":"Q1498834","verdict":"keep","countries":["DE"],"reason":"countries were empty; German bread roll"}
+{"id":"Q1499559","verdict":"remove","reason":"grouping of confections rather than one dish"}
+{"id":"Q15010030","verdict":"keep","countries":["MX"],"reason":"countries were empty; Yucatecan dish"}
+{"id":"Q1501015","verdict":"keep"}
+{"id":"Q1501043","verdict":"keep"}
+{"id":"Q15014447","verdict":"keep"}
+{"id":"Q1501889","verdict":"keep"}
+{"id":"Q15023947","verdict":"keep"}
+{"id":"Q15042119","verdict":"keep"}
+{"id":"Q1504300","verdict":"keep"}
+{"id":"Q1505087","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"Q1505500","verdict":"keep"}
+{"id":"Q1505775","verdict":"keep","countries":["RO"],"reason":"countries were empty; Romanian dish"}
+{"id":"Q15059761","verdict":"keep"}
+{"id":"Q15060428","verdict":"keep"}
+{"id":"Q15062624","verdict":"keep"}
+{"id":"Q1506811","verdict":"keep","countries":["DK"],"reason":"countries were empty; Danish sausage"}
+{"id":"Q1509150","verdict":"keep","countries":["AT"],"reason":"countries were empty; Tyrolean dessert"}
+{"id":"Q1509400","verdict":"keep","countries":["SA"],"reason":"countries were empty; Hijazi food"}
+{"id":"Q1509414","verdict":"keep"}
+{"id":"Q1509738","verdict":"keep"}
+{"id":"Q1510478","verdict":"keep","countries":["DE"],"reason":"countries were empty; Westphalian ham"}
+{"id":"Q15106034","verdict":"remove","reason":"generic word for appetizer, not a specific dish"}
+{"id":"Q1511660","verdict":"keep","countries":["DE"],"reason":"countries were empty; German soup"}
+{"id":"Q15121455","verdict":"keep"}
+{"id":"Q151259","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cake"}
+{"id":"Q1512964","verdict":"keep"}
+{"id":"Q15139880","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese dish"}
+{"id":"Q151466","verdict":"keep","countries":["DE"],"reason":"countries were empty; German bread roll"}
+{"id":"Q15149436","verdict":"keep"}
+{"id":"Q1515205","verdict":"keep"}
+{"id":"Q1517954","verdict":"keep","countries":["DE"],"reason":"countries were empty; Swabian/Bavarian dish"}
+{"id":"Q15181","verdict":"keep","countries":["RU","GE","AM","AZ"],"reason":"countries were empty; Caucasian dish"}
+{"id":"Q1518169","verdict":"keep"}
+{"id":"Q1518177","verdict":"keep"}
+{"id":"Q1518603","verdict":"keep"}
+{"id":"Q151862","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"Q1518955","verdict":"keep"}
+{"id":"Q1519830","verdict":"keep"}
+{"id":"Q1520147","verdict":"keep","countries":["DE"],"reason":"countries were empty; German potato dish"}
+{"id":"Q1520778","verdict":"keep","countries":["ID","MY"],"reason":"added ID; dish is Indonesian and Malaysian"}
+{"id":"Q152088","verdict":"keep","countries":["BE","FR"],"reason":"added FR; fries are commonly claimed by Belgium and France"}
+{"id":"Q15215193","verdict":"keep","countries":["IT"],"reason":"countries were empty; pasta type"}
+{"id":"Q15215698","verdict":"keep"}
+{"id":"Q152192","verdict":"keep","countries":["DE"],"reason":"countries were empty; German New Year pastry"}
+{"id":"Q15220576","verdict":"keep"}
+{"id":"Q15223114","verdict":"keep"}
+{"id":"Q1522595","verdict":"keep"}
+{"id":"Q1522729","verdict":"keep"}
+{"id":"Q1522820","verdict":"keep","countries":["RS","BA","HR","ME","MK","SI"],"reason":"IT was wrong; Gibanica is a Balkan dish from the former Yugoslavia"}
+{"id":"Q152288","verdict":"keep"}
+{"id":"Q152336","verdict":"keep"}
+{"id":"Q152526","verdict":"keep"}
+{"id":"Q152547","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch chocolate sprinkles"}
+{"id":"Q1525655","verdict":"keep"}
+{"id":"Q15265706","verdict":"keep","countries":["IN"],"reason":"countries were empty; Odisha dish"}
+{"id":"Q1526667","verdict":"keep"}
+{"id":"Q152834","verdict":"keep"}
+{"id":"Q15285629","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean gimbap"}
+{"id":"Q15290802","verdict":"keep","countries":["CZ"],"reason":"countries were empty; Czech Christmas cookie"}
+{"id":"Q152981","verdict":"keep"}
+{"id":"Q1531771","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pastry"}
+{"id":"Q153179","verdict":"keep","countries":["FI","SE"],"reason":"countries were empty; Finnish and Swedish dish"}
+{"id":"Q153230","verdict":"keep"}
+{"id":"Q1533235","verdict":"keep"}
+{"id":"Q153352","verdict":"keep"}
+{"id":"Q15340455","verdict":"keep"}
+{"id":"Q1535277","verdict":"keep"}
+{"id":"Q153594","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"Q1536337","verdict":"keep"}
+{"id":"Q1537510","verdict":"keep"}
+{"id":"Q1537533","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dumpling"}
+{"id":"Q1537922","verdict":"keep"}
+{"id":"Q15393896","verdict":"keep","countries":["CZ"],"reason":"countries were empty; Czech dish"}
+{"id":"Q153944","verdict":"keep","countries":["CH","DE"],"reason":"added DE; Stutenkerl is also German"}
+{"id":"Q15401968","verdict":"keep"}
+{"id":"Q154043","verdict":"keep","countries":["BE","NL"],"reason":"added NL; vlaai is also from the Dutch Limburg"}
+{"id":"Q15409271","verdict":"keep","countries":["US"],"reason":"countries were empty; American sourdough cake"}
+{"id":"Q154166","verdict":"keep"}
+{"id":"Q1542215","verdict":"keep"}
+{"id":"Q15427731","verdict":"keep"}
+{"id":"Q1543722","verdict":"keep"}
+{"id":"Q1543770","verdict":"keep"}
+{"id":"Q1544629","verdict":"keep"}
+{"id":"Q154482","verdict":"keep"}
+{"id":"Q1545649","verdict":"keep"}
+{"id":"Q1546782","verdict":"keep","countries":["DE"],"reason":"DD is a retired ISO code (former GDR); changed to DE"}
+{"id":"Q1548693","verdict":"keep"}
+{"id":"Q154872","verdict":"keep"}
+{"id":"Q1550301","verdict":"keep"}
+{"id":"Q1551132","verdict":"keep","countries":["DE"],"reason":"countries were empty; German viennoiserie"}
+{"id":"Q1551242","verdict":"keep"}
+{"id":"Q1552373","verdict":"remove","reason":"soft part of bread (crumb), not a dish"}
+{"id":"Q1553379","verdict":"keep","countries":["DE"],"reason":"countries were empty; German deep-fried food"}
+{"id":"Q1554207","verdict":"keep"}
+{"id":"Q15544669","verdict":"remove","reason":"plant species, not a dish"}
+{"id":"Q1554570","verdict":"keep"}
+{"id":"Q1554726","verdict":"keep"}
+{"id":"Q15548160","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese roast duck"}
+{"id":"Q1555816","verdict":"keep"}
+{"id":"Q1558512","verdict":"keep"}
+{"id":"Q155922","verdict":"keep"}
+{"id":"Q1559781","verdict":"keep"}
+{"id":"Q156036","verdict":"keep"}
+{"id":"Q15604372","verdict":"keep"}
+{"id":"Q1560455","verdict":"keep","countries":["AT"],"reason":"countries were empty; Viennese bakery product"}
+{"id":"Q1561248","verdict":"keep"}
+{"id":"Q15622657","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch sweet"}
+{"id":"Q15629893","verdict":"keep"}
+{"id":"Q15630073","verdict":"keep"}
+{"id":"Q1563014","verdict":"keep"}
+{"id":"Q15635457","verdict":"keep","countries":["RS","BA","HR","ME","MK","TR"],"reason":"TR alone was incomplete; dish is Balkan and Turkish"}
+{"id":"Q1563684","verdict":"keep"}
+{"id":"Q15647777","verdict":"keep"}
+{"id":"Q15648182","verdict":"keep"}
+{"id":"Q15656515","verdict":"keep","countries":["NP"],"reason":"countries were empty; Newar dish of Nepal"}
+{"id":"Q15660894","verdict":"keep","countries":["MX"],"reason":"countries were empty; Mexican tortilla"}
+{"id":"Q1566840","verdict":"remove","reason":"a size or extent, not a dish"}
+{"id":"Q1567471","verdict":"keep"}
+{"id":"Q1567722","verdict":"keep","countries":["KR"],"reason":"countries were empty; Korean guk"}
+{"id":"Q15678227","verdict":"keep"}
+{"id":"Q1567954","verdict":"keep"}
+{"id":"Q1568296","verdict":"keep"}
+{"id":"Q15686391","verdict":"keep"}
+{"id":"Q1568754","verdict":"keep","countries":["MX","ES"],"reason":"BR was wrong; salpicon is Mexican and Spanish"}
+{"id":"Q1568905","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pastry"}
+{"id":"Q15693942","verdict":"keep","countries":["CO"],"reason":"ES was wrong; Colombian pastry"}
+{"id":"Q15695438","verdict":"keep"}
+{"id":"Q15696039","verdict":"keep"}
+{"id":"Q1570370","verdict":"keep"}
+{"id":"Q1570466","verdict":"keep","countries":["DE"],"reason":"countries were empty; German liver sausage"}
+{"id":"Q15705292","verdict":"keep","countries":["ES"],"reason":"countries were empty; Galician dish"}
+{"id":"Q15714224","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian biscuit"}
+{"id":"Q15715760","verdict":"keep"}
+{"id":"Q1571724","verdict":"keep","countries":["DE"],"reason":"countries were empty; Halligen dish"}
+{"id":"Q1572040","verdict":"keep"}
+{"id":"Q15724277","verdict":"keep"}
+{"id":"Q1572670","verdict":"keep"}
+{"id":"Q15730394","verdict":"keep"}
+{"id":"Q15733826","verdict":"keep"}
+{"id":"Q15735342","verdict":"keep","countries":["CZ"],"reason":"countries were empty; Olomouc dish"}
+{"id":"Q1574018","verdict":"keep"}
+{"id":"Q15751203","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pork dish"}
+{"id":"Q15751355","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pork dish"}
+{"id":"Q1575225","verdict":"keep","countries":["SK","UA","CZ","PL"],"reason":"added CZ and PL; dish is common across Central and Eastern Europe"}
+{"id":"Q1578239","verdict":"keep"}
+{"id":"Q1578447","verdict":"keep","countries":["IT"],"reason":"countries were empty; Roman sausage"}
+{"id":"Q15785303","verdict":"keep"}
+{"id":"Q15785486","verdict":"keep","countries":["ID"],"reason":"countries were empty; Indonesian bun"}
+{"id":"Q15789810","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"Q15790217","verdict":"keep"}
+{"id":"Q15792421","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pastry"}
+{"id":"Q15794115","verdict":"keep"}
+{"id":"Q1579751","verdict":"keep","countries":["NI","MX"],"reason":"countries were empty; tres leches is Nicaraguan and Mexican"}
+{"id":"Q15801159","verdict":"keep"}
+{"id":"Q1580437","verdict":"keep","countries":["SE"],"reason":"countries were empty; Swedish dish"}
+{"id":"Q1581463","verdict":"keep","countries":["HR"],"reason":"countries were empty; Croatian cheese"}
+{"id":"Q1582056","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"Q15822587","verdict":"keep","countries":["SE"],"reason":"countries were empty; Swedish pastry"}
+{"id":"Q15823102","verdict":"keep","countries":["CZ"],"reason":"countries were empty; Karlsbad sandwich"}
+{"id":"Q15835946","verdict":"keep","countries":["DE"],"reason":"countries were empty; German cruller"}
+{"id":"Q1583698","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pastry"}
+{"id":"Q15839499","verdict":"keep"}
+{"id":"Q15839804","verdict":"keep"}
+{"id":"Q15840444","verdict":"keep"}
+{"id":"Q15843485","verdict":"keep","countries":["DE"],"reason":"countries were empty; German dish"}
+{"id":"Q15845489","verdict":"keep"}
+{"id":"Q15845514","verdict":"keep"}
+{"id":"Q15845628","verdict":"keep"}
+{"id":"Q15846908","verdict":"remove","reason":"heading (difficult dishes), not a specific dish"}
+{"id":"Q1584788","verdict":"keep","countries":["TR","GR"],"reason":"added GR; dish is common to Turkish and Greek cuisine"}
+{"id":"Q1584798","verdict":"keep","countries":["DE"],"reason":"countries were empty; German potato dish"}
+{"id":"Q1585409","verdict":"keep"}
+{"id":"Q15854364","verdict":"keep"}
+{"id":"Q15855727","verdict":"keep"}
+{"id":"Q15856811","verdict":"keep","countries":["TR"],"reason":"countries were empty; Turkish borek"}
+{"id":"Q1587123","verdict":"keep"}
+{"id":"Q15873544","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch sandwich"}
+{"id":"Q15877316","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch ontbijtkoek"}
+{"id":"Q15877508","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch liquorice"}
+{"id":"Q15880225","verdict":"keep"}
+{"id":"Q15883356","verdict":"keep","countries":["NL"],"reason":"countries were empty; Limburg cookie"}
+{"id":"Q15884273","verdict":"keep","countries":["SE"],"reason":"countries were empty; Swedish dish"}
+{"id":"Q1588808","verdict":"keep"}
+{"id":"Q15888508","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese dish"}
+{"id":"Q15893577","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese dish"}
+{"id":"Q15894338","verdict":"keep"}
+{"id":"Q15894369","verdict":"keep"}
+{"id":"Q15894455","verdict":"keep"}
+{"id":"Q15896447","verdict":"keep"}
+{"id":"Q15896582","verdict":"keep"}
+{"id":"Q15896774","verdict":"keep"}
+{"id":"Q15896943","verdict":"keep"}
+{"id":"Q15897086","verdict":"keep"}
+{"id":"Q15898970","verdict":"keep"}
+{"id":"Q15899146","verdict":"keep","countries":["CN"],"reason":"countries were empty; Wuxi dish"}
+{"id":"Q15900078","verdict":"keep"}
+{"id":"Q15900310","verdict":"keep"}
+{"id":"Q15902096","verdict":"keep"}
+{"id":"Q15906640","verdict":"keep"}
+{"id":"Q15909171","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese pork floss"}
+{"id":"Q15912025","verdict":"keep","countries":["TW"],"reason":"countries were empty; Yuli noodles of Taiwan"}
+{"id":"Q15915476","verdict":"keep"}
+{"id":"Q15918345","verdict":"keep"}
+{"id":"Q15918831","verdict":"keep","countries":["RU"],"reason":"countries were empty; Bashkir pastry"}
+{"id":"Q15920051","verdict":"keep"}
+{"id":"Q15925446","verdict":"remove","reason":"regional seafood cuisine, not one dish"}
+{"id":"Q15927529","verdict":"keep","countries":["ES"],"reason":"countries were empty; Andalusian recipe"}
+{"id":"Q1592853","verdict":"keep"}
+{"id":"Q159290","verdict":"keep"}
+{"id":"Q15929559","verdict":"keep","countries":["TW"],"reason":"countries were empty; Taiwanese pastry"}
+{"id":"Q15930176","verdict":"keep"}
+{"id":"Q159304","verdict":"keep"}
+{"id":"Q15931384","verdict":"keep"}
+{"id":"Q15932277","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese fish dish"}
+{"id":"Q15932522","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese jiaozi"}
+{"id":"Q15935161","verdict":"keep"}
+{"id":"Q1593672","verdict":"remove","reason":"ingredient (yeast extract), not a dish"}
+{"id":"Q15939227","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese paomo dish"}
+{"id":"Q1594252","verdict":"keep","countries":["DE"],"reason":"countries were empty; German pastry"}
+{"id":"Q15942827","verdict":"keep"}
+{"id":"Q15943298","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch bread"}
+{"id":"Q15948677","verdict":"keep","countries":["CN"],"reason":"countries were empty; Tibetan dish of China"}
+{"id":"Q15949258","verdict":"keep"}
+{"id":"Q15952986","verdict":"keep"}
+{"id":"Q15954264","verdict":"keep","countries":["TW"],"reason":"countries were empty; Taiwanese dish"}
+{"id":"Q15955061","verdict":"keep"}
+{"id":"Q15955215","verdict":"keep","countries":["DK"],"reason":"countries were empty; Danish salad"}
+{"id":"Q15955973","verdict":"keep"}
+{"id":"Q15957214","verdict":"keep","countries":["NL"],"reason":"countries were empty; Low Saxon pastry of the Netherlands"}
+{"id":"Q1597319","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese Buddhist food"}
+{"id":"Q159754","verdict":"keep"}
+{"id":"Q15976317","verdict":"keep"}
+{"id":"Q15979670","verdict":"keep"}
+{"id":"Q15983343","verdict":"keep"}
+{"id":"Q159841","verdict":"keep"}
+{"id":"Q15984356","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese Nanbangashi confection"}
+{"id":"Q15985100","verdict":"keep"}
+{"id":"Q15985102","verdict":"keep"}
+{"id":"Q15990748","verdict":"keep","countries":["GE"],"reason":"countries were empty; Georgian kebab"}
+{"id":"Q1599125","verdict":"keep"}
+{"id":"Q15992430","verdict":"keep"}
+{"id":"Q15992463","verdict":"keep"}
+{"id":"Q16024165","verdict":"keep","countries":["JP"],"reason":"countries were empty; Japanese sandwich"}
+{"id":"Q1603166","verdict":"keep"}
+{"id":"Q16044494","verdict":"keep"}
+{"id":"Q16044734","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16044834","verdict":"keep"}
+{"id":"Q16044846","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian confection"}
+{"id":"Q16045177","verdict":"keep","countries":["TR"],"reason":"countries were empty; Turkish soup"}
+{"id":"Q16045302","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16045579","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16045671","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16045927","verdict":"remove","reason":"Wikimedia list article, not a dish"}
+{"id":"Q16045958","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian halva"}
+{"id":"Q16046026","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian halva"}
+{"id":"Q16046038","verdict":"keep"}
+{"id":"Q16046063","verdict":"keep"}
+{"id":"Q16046109","verdict":"keep"}
+{"id":"Q16046218","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian dish"}
+{"id":"Q16046395","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16046426","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian dessert"}
+{"id":"Q16046748","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16046769","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian halva"}
+{"id":"Q16048875","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16048915","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian halva"}
+{"id":"Q16048950","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian baklava"}
+{"id":"Q16049409","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16049421","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16049429","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16049438","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16049450","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16049460","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16049469","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16049477","verdict":"keep"}
+{"id":"Q16049486","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16049497","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16049507","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16049517","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16049527","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16049536","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16049599","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16049608","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16050293","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian cake"}
+{"id":"Q16050541","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}
+{"id":"Q16050684","verdict":"keep","countries":["IR"],"reason":"countries were empty; Iranian pastry"}

@@ -1,0 +1,300 @@
+{"id":"Q3412448","verdict":"keep"}
+{"id":"Q3414202","verdict":"keep"}
+{"id":"Q3419728","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese potato pancake"}
+{"id":"Q3420023","verdict":"keep"}
+{"id":"Q3420363","verdict":"keep"}
+{"id":"Q3420368","verdict":"keep","countries":["MG"],"reason":"countries were empty; Malagasy cassava leaf dish"}
+{"id":"Q3421424","verdict":"keep"}
+{"id":"Q3421984","verdict":"keep"}
+{"id":"Q342208","verdict":"keep"}
+{"id":"Q3422327","verdict":"keep","countries":["DK"],"reason":"countries were empty; Danish bread"}
+{"id":"Q3425445","verdict":"keep"}
+{"id":"Q3425450","verdict":"keep"}
+{"id":"Q3428078","verdict":"keep"}
+{"id":"Q34292","verdict":"keep"}
+{"id":"Q3431960","verdict":"keep","countries":["FR"],"reason":"countries were empty; French confection"}
+{"id":"Q3431975","verdict":"keep"}
+{"id":"Q3434019","verdict":"keep"}
+{"id":"Q3435353","verdict":"keep"}
+{"id":"Q3436095","verdict":"keep"}
+{"id":"Q3436828","verdict":"keep","countries":["US"],"reason":"countries were empty; American cube steak"}
+{"id":"Q343864","verdict":"keep"}
+{"id":"Q3439845","verdict":"keep","countries":["FR"],"reason":"countries were empty; Alsatian dish"}
+{"id":"Q344066","verdict":"keep"}
+{"id":"Q3441149","verdict":"keep"}
+{"id":"Q3441161","verdict":"keep"}
+{"id":"Q3441918","verdict":"keep","countries":["HR"],"reason":"countries were empty; Croatian dessert"}
+{"id":"Q3442077","verdict":"keep"}
+{"id":"Q34421086","verdict":"keep"}
+{"id":"Q3442427","verdict":"keep"}
+{"id":"Q3443096","verdict":"keep","countries":["FR"],"reason":"countries were empty; French candy"}
+{"id":"Q3443152","verdict":"keep"}
+{"id":"Q3443155","verdict":"keep"}
+{"id":"Q3443485","verdict":"keep"}
+{"id":"Q3447542","verdict":"keep"}
+{"id":"Q3449266","verdict":"keep"}
+{"id":"Q3449298","verdict":"keep"}
+{"id":"Q3460531","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3462362","verdict":"keep"}
+{"id":"Q3463262","verdict":"remove","reason":"apéritif, a drink"}
+{"id":"Q34674117","verdict":"keep"}
+{"id":"Q3469334","verdict":"keep","countries":["CD","CG"],"reason":"countries were empty; Congolese dish"}
+{"id":"Q3469458","verdict":"keep"}
+{"id":"Q3469460","verdict":"keep"}
+{"id":"Q3469461","verdict":"keep","countries":["FR"],"reason":"countries were empty; Comtois salad from Franche-Comté"}
+{"id":"Q3469463","verdict":"keep"}
+{"id":"Q3469465","verdict":"keep"}
+{"id":"Q3469471","verdict":"keep"}
+{"id":"Q3469472","verdict":"keep","countries":["FR"],"reason":"countries were empty; Norman salad"}
+{"id":"Q3469475","verdict":"keep"}
+{"id":"Q3469476","verdict":"keep"}
+{"id":"Q3469606","verdict":"keep"}
+{"id":"Q3472077","verdict":"keep"}
+{"id":"Q3472079","verdict":"keep"}
+{"id":"Q3472373","verdict":"keep","countries":["FR"],"reason":"countries were empty; Occitan dish"}
+{"id":"Q3473115","verdict":"keep"}
+{"id":"Q3473166","verdict":"keep"}
+{"id":"Q3473453","verdict":"keep"}
+{"id":"Q3473983","verdict":"keep","countries":["RO"],"reason":"countries were empty; Romanian preparation"}
+{"id":"Q3474126","verdict":"keep"}
+{"id":"Q3474166","verdict":"keep"}
+{"id":"Q3476509","verdict":"keep","countries":["CN"],"reason":"countries were empty; Chinese raw fish dish"}
+{"id":"Q3477693","verdict":"keep","countries":["MA"],"reason":"countries were empty; Moroccan dish"}
+{"id":"Q3478195","verdict":"keep"}
+{"id":"Q34804358","verdict":"keep","countries":["AT"],"reason":"countries were empty; Austrian dish"}
+{"id":"Q3480481","verdict":"keep"}
+{"id":"Q34807","verdict":"keep"}
+{"id":"Q3480991","verdict":"keep"}
+{"id":"Q3481297","verdict":"keep"}
+{"id":"Q3481488","verdict":"keep"}
+{"id":"Q3481800","verdict":"keep"}
+{"id":"Q3482613","verdict":"keep"}
+{"id":"Q3486962","verdict":"keep"}
+{"id":"Q3488926","verdict":"keep"}
+{"id":"Q3489093","verdict":"keep"}
+{"id":"Q3490797","verdict":"keep"}
+{"id":"Q3491264","verdict":"keep"}
+{"id":"Q3491553","verdict":"keep"}
+{"id":"Q3491819","verdict":"keep","countries":["CA"],"reason":"countries were empty; Quebec soup"}
+{"id":"Q3491822","verdict":"keep","countries":["FR"],"reason":"countries were empty; French fish soup"}
+{"id":"Q3493331","verdict":"keep","countries":["NL"],"reason":"countries were empty; Dutch soup"}
+{"id":"Q3494357","verdict":"remove","reason":"placeholder name, not an identifiable dish"}
+{"id":"Q3496916","verdict":"keep"}
+{"id":"Q3497556","verdict":"keep"}
+{"id":"Q3497742","verdict":"keep","countries":["BE","FR"],"reason":"steak frites is claimed by both Belgium and France"}
+{"id":"Q3498785","verdict":"keep"}
+{"id":"Q3499420","verdict":"keep","countries":["GR"],"reason":"countries were empty; Greek stew"}
+{"id":"Q3499431","verdict":"keep"}
+{"id":"Q3499615","verdict":"keep"}
+{"id":"Q3499942","verdict":"keep"}
+{"id":"Q3500074","verdict":"keep"}
+{"id":"Q3500519","verdict":"keep"}
+{"id":"Q3501098","verdict":"keep"}
+{"id":"Q3501106","verdict":"keep"}
+{"id":"Q3502845","verdict":"keep","countries":["GB"],"reason":"countries were empty; Scottish confection"}
+{"id":"Q3503191","verdict":"keep","countries":["FR"],"reason":"countries were empty; French biscuit"}
+{"id":"Q3505415","verdict":"keep"}
+{"id":"Q35056","verdict":"keep"}
+{"id":"Q3505757","verdict":"keep"}
+{"id":"Q3509587","verdict":"keep"}
+{"id":"Q3513513","verdict":"keep"}
+{"id":"Q3513992","verdict":"keep"}
+{"id":"Q3514113","verdict":"keep"}
+{"id":"Q3514675","verdict":"keep"}
+{"id":"Q3515850","verdict":"keep","countries":["FR"],"reason":"countries were empty; Maroilles is a French cheese"}
+{"id":"Q3515851","verdict":"keep","countries":["FR"],"reason":"countries were empty; French tart"}
+{"id":"Q3515852","verdict":"keep"}
+{"id":"Q3515855","verdict":"keep","countries":["FR"],"reason":"countries were empty; French tart from Alsace/Lorraine"}
+{"id":"Q3515859","verdict":"keep"}
+{"id":"Q3515860","verdict":"keep","countries":["FR"],"reason":"countries were empty; French pie"}
+{"id":"Q3515861","verdict":"keep"}
+{"id":"Q3515862","verdict":"keep"}
+{"id":"Q3518532","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3518777","verdict":"keep"}
+{"id":"Q3520287","verdict":"keep"}
+{"id":"Q3520299","verdict":"keep","countries":["MY"],"reason":"nasi kandar is a Malaysian dish, IN was wrong"}
+{"id":"Q352253","verdict":"keep"}
+{"id":"Q3528208","verdict":"keep","countries":["FR"],"reason":"countries were empty; tielle sétoise from Sète"}
+{"id":"Q3530197","verdict":"keep","countries":["RO"],"reason":"countries were empty; Romanian stew"}
+{"id":"Q3530321","verdict":"keep","countries":["FR"],"reason":"countries were empty; French potato dish"}
+{"id":"Q3531002","verdict":"keep","countries":["BE"],"reason":"countries were empty; Belgian stuffed tomato"}
+{"id":"Q3531005","verdict":"keep","countries":["FR"],"reason":"countries were empty; Provençal dish"}
+{"id":"Q3531219","verdict":"keep"}
+{"id":"Q3531223","verdict":"keep"}
+{"id":"Q3532515","verdict":"keep"}
+{"id":"Q3532517","verdict":"keep"}
+{"id":"Q3534131","verdict":"keep","countries":["FR"],"reason":"countries were empty; French cake"}
+{"id":"Q3535543","verdict":"keep","countries":["FR"],"reason":"countries were empty; Niçoise specialty"}
+{"id":"Q3535544","verdict":"keep"}
+{"id":"Q3535545","verdict":"keep"}
+{"id":"Q3535559","verdict":"keep","countries":["FR"],"reason":"countries were empty; Limousin tourtière"}
+{"id":"Q3535568","verdict":"keep"}
+{"id":"Q3535569","verdict":"keep"}
+{"id":"Q3537640","verdict":"keep"}
+{"id":"Q3539309","verdict":"keep"}
+{"id":"Q3540823","verdict":"keep"}
+{"id":"Q3542626","verdict":"keep","countries":["ES"],"reason":"countries were empty; Basque dish"}
+{"id":"Q3543273","verdict":"keep"}
+{"id":"Q3543297","verdict":"keep"}
+{"id":"Q3543359","verdict":"keep"}
+{"id":"Q3543376","verdict":"keep"}
+{"id":"Q3543394","verdict":"keep"}
+{"id":"Q3543397","verdict":"keep"}
+{"id":"Q3543525","verdict":"keep"}
+{"id":"Q3543686","verdict":"keep"}
+{"id":"Q3543811","verdict":"keep"}
+{"id":"Q3544203","verdict":"keep"}
+{"id":"Q3544562","verdict":"keep"}
+{"id":"Q3544579","verdict":"keep","countries":["FI"],"reason":"countries were empty; Finnish porridge"}
+{"id":"Q3545233","verdict":"keep"}
+{"id":"Q3545686","verdict":"keep"}
+{"id":"Q3548107","verdict":"keep"}
+{"id":"Q3549118","verdict":"keep"}
+{"id":"Q3549166","verdict":"keep"}
+{"id":"Q3550480","verdict":"keep"}
+{"id":"Q3552200","verdict":"keep"}
+{"id":"Q3552223","verdict":"keep"}
+{"id":"Q3553107","verdict":"keep"}
+{"id":"Q3553500","verdict":"remove","reason":"medicated cough drop, a branded product"}
+{"id":"Q3553945","verdict":"keep"}
+{"id":"Q3553946","verdict":"keep"}
+{"id":"Q3555005","verdict":"keep"}
+{"id":"Q3555007","verdict":"keep"}
+{"id":"Q3555103","verdict":"keep"}
+{"id":"Q3555157","verdict":"keep"}
+{"id":"Q3557655","verdict":"keep"}
+{"id":"Q35586024","verdict":"keep","countries":["PS"],"reason":"described as Palestinian; TR was wrong"}
+{"id":"Q3559983","verdict":"keep"}
+{"id":"Q3561219","verdict":"keep","countries":["SE"],"reason":"countries were empty; Swedish sausage"}
+{"id":"Q356346","verdict":"keep","countries":["DE"],"reason":"countries were empty; Bavarian soup"}
+{"id":"Q3565924","verdict":"keep"}
+{"id":"Q35661296","verdict":"keep"}
+{"id":"Q3569657","verdict":"keep"}
+{"id":"Q3570585","verdict":"keep"}
+{"id":"Q3571325","verdict":"keep"}
+{"id":"Q3572640","verdict":"keep"}
+{"id":"Q3573026","verdict":"remove","reason":"umbrella term for several kinds of food, not one dish"}
+{"id":"Q3573091","verdict":"keep"}
+{"id":"Q3574648","verdict":"remove","reason":"protected raw lamb meat, not a dish"}
+{"id":"Q3576541","verdict":"keep"}
+{"id":"Q3577245","verdict":"keep"}
+{"id":"Q3577420","verdict":"keep"}
+{"id":"Q35778572","verdict":"keep"}
+{"id":"Q358507","verdict":"keep"}
+{"id":"Q3589163","verdict":"keep","countries":["ES"],"reason":"countries were empty; Catalan dish"}
+{"id":"Q3594111","verdict":"keep"}
+{"id":"Q3594113","verdict":"keep"}
+{"id":"Q3594115","verdict":"keep"}
+{"id":"Q3594122","verdict":"keep"}
+{"id":"Q35944","verdict":"keep"}
+{"id":"Q3595351","verdict":"keep"}
+{"id":"Q3595555","verdict":"keep"}
+{"id":"Q3595628","verdict":"keep"}
+{"id":"Q3596097","verdict":"keep"}
+{"id":"Q3596227","verdict":"keep"}
+{"id":"Q3596242","verdict":"keep","countries":["IT"],"reason":"countries were empty; Neapolitan street food"}
+{"id":"Q3597267","verdict":"keep"}
+{"id":"Q3599457","verdict":"keep"}
+{"id":"Q3603155","verdict":"keep"}
+{"id":"Q3604288","verdict":"remove","reason":"PDO balsamic vinegar, a protected product rather than a dish"}
+{"id":"Q3606260","verdict":"keep"}
+{"id":"Q3606603","verdict":"keep"}
+{"id":"Q3606626","verdict":"remove","reason":"PGI fresh lamb meat, a raw product rather than a dish"}
+{"id":"Q3606633","verdict":"keep"}
+{"id":"Q3606896","verdict":"keep"}
+{"id":"Q3607167","verdict":"keep"}
+{"id":"Q3610216","verdict":"keep"}
+{"id":"Q3613295","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3613674","verdict":"remove","reason":"bitters liqueur, a drink"}
+{"id":"Q3614508","verdict":"keep"}
+{"id":"Q3616613","verdict":"keep"}
+{"id":"Q36180436","verdict":"keep"}
+{"id":"Q3618208","verdict":"keep"}
+{"id":"Q3621054","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3622651","verdict":"keep"}
+{"id":"Q3625357","verdict":"keep"}
+{"id":"Q3630112","verdict":"keep"}
+{"id":"Q3630852","verdict":"keep"}
+{"id":"Q3632870","verdict":"keep","countries":["IN"],"reason":"countries were empty; Hyderabadi dish"}
+{"id":"Q3632937","verdict":"keep"}
+{"id":"Q3633458","verdict":"keep"}
+{"id":"Q3634389","verdict":"keep"}
+{"id":"Q3634426","verdict":"keep","countries":["IN"],"reason":"countries were empty; Indian flatbread"}
+{"id":"Q3634538","verdict":"keep"}
+{"id":"Q3636224","verdict":"keep"}
+{"id":"Q36368321","verdict":"keep","countries":["PR","DO"],"reason":"countries were empty; Caribbean fried plantain"}
+{"id":"Q3637056","verdict":"keep"}
+{"id":"Q3639714","verdict":"keep"}
+{"id":"Q3640406","verdict":"keep"}
+{"id":"Q3640407","verdict":"keep"}
+{"id":"Q3640409","verdict":"keep"}
+{"id":"Q3640410","verdict":"keep"}
+{"id":"Q3640411","verdict":"keep"}
+{"id":"Q36415","verdict":"keep"}
+{"id":"Q3641520","verdict":"keep"}
+{"id":"Q3641568","verdict":"keep"}
+{"id":"Q3642641","verdict":"keep"}
+{"id":"Q3642907","verdict":"keep"}
+{"id":"Q3642935","verdict":"keep"}
+{"id":"Q3643465","verdict":"keep"}
+{"id":"Q3644493","verdict":"keep"}
+{"id":"Q3644926","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3645416","verdict":"keep"}
+{"id":"Q3646090","verdict":"keep"}
+{"id":"Q3646108","verdict":"keep"}
+{"id":"Q3646112","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3646253","verdict":"keep"}
+{"id":"Q3647260","verdict":"keep"}
+{"id":"Q3647314","verdict":"keep"}
+{"id":"Q3647608","verdict":"keep"}
+{"id":"Q3647615","verdict":"keep"}
+{"id":"Q3650577","verdict":"keep"}
+{"id":"Q3651097","verdict":"keep"}
+{"id":"Q3655318","verdict":"keep"}
+{"id":"Q3655321","verdict":"keep"}
+{"id":"Q3655393","verdict":"keep"}
+{"id":"Q3655437","verdict":"keep"}
+{"id":"Q3657738","verdict":"keep"}
+{"id":"Q3657790","verdict":"keep"}
+{"id":"Q3658173","verdict":"keep"}
+{"id":"Q3658569","verdict":"keep"}
+{"id":"Q3660404","verdict":"keep"}
+{"id":"Q3660408","verdict":"keep"}
+{"id":"Q3660463","verdict":"remove","reason":"raw fresh meat category, not a dish"}
+{"id":"Q3660942","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3661871","verdict":"keep"}
+{"id":"Q3661967","verdict":"keep"}
+{"id":"Q3661968","verdict":"keep"}
+{"id":"Q3661969","verdict":"keep"}
+{"id":"Q3662063","verdict":"keep"}
+{"id":"Q3663945","verdict":"keep"}
+{"id":"Q3664285","verdict":"keep"}
+{"id":"Q3664954","verdict":"keep"}
+{"id":"Q3665214","verdict":"keep","countries":["IT"],"reason":"countries were empty; Italian cake"}
+{"id":"Q3665589","verdict":"keep"}
+{"id":"Q3666048","verdict":"keep","countries":["IN"],"reason":"countries were empty; Bengali sweet"}
+{"id":"Q36672065","verdict":"keep"}
+{"id":"Q3667436","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3667736","verdict":"keep"}
+{"id":"Q3668413","verdict":"keep"}
+{"id":"Q3668429","verdict":"keep"}
+{"id":"Q3668485","verdict":"keep"}
+{"id":"Q367225","verdict":"keep"}
+{"id":"Q3674722","verdict":"keep"}
+{"id":"Q3675184","verdict":"keep"}
+{"id":"Q3675266","verdict":"keep"}
+{"id":"Q3675466","verdict":"keep"}
+{"id":"Q3676186","verdict":"keep"}
+{"id":"Q3676246","verdict":"keep"}
+{"id":"Q3676248","verdict":"keep"}
+{"id":"Q3676251","verdict":"keep"}
+{"id":"Q3676255","verdict":"keep"}
+{"id":"Q3676322","verdict":"keep"}
+{"id":"Q3676324","verdict":"keep"}
+{"id":"Q3676366","verdict":"keep"}
+{"id":"Q3676383","verdict":"keep"}
+{"id":"Q3676632","verdict":"remove","reason":"PDO olive oil, a product rather than a dish"}
+{"id":"Q3677424","verdict":"remove","reason":"raw vegetable variety, not a dish"}
+{"id":"Q3677884","verdict":"keep"}
+{"id":"Q3678059","verdict":"keep"}
+{"id":"Q3678143","verdict":"keep"}
