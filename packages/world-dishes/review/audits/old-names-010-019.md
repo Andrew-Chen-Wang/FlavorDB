@@ -7,6 +7,7 @@ In progress. Original batch inputs are absent. This audit reads each targeted ve
 | names-010 | 106 | Complete |
 | names-011 | 151 | Complete |
 | names-012 | 152 | Complete |
+| names-013 | 117 | Complete |
 
 names-010 corrections: restored zuke as prepared marinated fish; fixed Japanese pressed ham and Russian/Ukrainian kotleta countries; preserved Persian/Turkish/Cypriot as well as Levantine muhallebi ties; removed three overlooked branded products (Puyoman, Mamador, Peasen).
 
@@ -23,3 +24,5 @@ Sources used to resolve uncertain entries:
 names-011: restored generic Thai and Filipino soy sauces, removed unsupported language/neighbor-based country inferences, expanded tsampa and tamale shared ties, and removed Nanbangashi grouping. Sources: https://www.kikkoman.com/jp/kiifc/publication/foodculture/no25_asia.html ; https://en.wikipedia.org/wiki/Tsampa ; https://www.health.tas.gov.au/sites/default/files/2021-12/Bhutan_traditional_foods_DoHTasmania2004.pdf ; https://en.wikipedia.org/wiki/Tamale .
 
 names-012: restored kobujime, Mito natto and prepared bean paste; corrected Schmalzkoch to AT and tinaktak to GU/MP; preserved broader yulinji, havreflarn and Chamorro associations; removed cat-name and two grouping entries. Sources: https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/kobu_zime.html ; https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/natto_ibaraki.html ; https://www.visitguam.com/blog/post/2924/ ; https://en.wikipedia.org/wiki/Cuisine_of_the_Mariana_Islands ; https://de.wikipedia.org/wiki/Schmalzkoch ; https://www.duden.de/rechtschreibung/Dachhase ; https://en.wikipedia.org/wiki/Havreflarn .
+
+names-013: restored dipping chocolate as prepared sauce and sujime as vinegar-cured fish; removed branded Shimobashira candy. Retained craft-chocolate/85%-standard and decorative-candy grouping removals. Sources: https://ishikawa-sushi.com/en/sushi/techniques.php ; https://www.sirogohan.com/sp/recipe/ajisujime/amp/ ; https://tamazawa.jp/products/ ; https://www.sh-business.de/fileadmin/user_upload/Media_Relations/Presseartikel_PDF/PDF_2023/PI_231214_Schmackhaftes_Schleswig-Holstein.pdf (confirms Kohlpudding German association).

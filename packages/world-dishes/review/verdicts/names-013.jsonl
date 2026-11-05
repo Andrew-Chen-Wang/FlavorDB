@@ -132,7 +132,7 @@
 {"id":"Q11659802","verdict":"keep","countries":["JP"],"reason":"Japanese kakigori; countries were empty"}
 {"id":"Q116602313","verdict":"keep"}
 {"id":"Q11660390","verdict":"keep"}
-{"id":"Q11660771","verdict":"keep","countries":["JP"],"reason":"Japanese ame; countries were empty"}
+{"id":"Q11660771","verdict":"remove","reason":"Kokonoehonpo Tamazawa branded packaged candy product"}
 {"id":"Q116613910","verdict":"keep"}
 {"id":"Q11661478","verdict":"keep","countries":["JP"],"reason":"Japanese yakisoba; countries were empty"}
 {"id":"Q116620968","verdict":"remove","reason":"packaged chocolate bar brand, not a dish"}
@@ -215,7 +215,7 @@
 {"id":"Q11678020","verdict":"keep"}
 {"id":"Q116785309","verdict":"keep"}
 {"id":"Q116786071","verdict":"remove","reason":"product type (dark chocolate standard), not a dish"}
-{"id":"Q116786436","verdict":"remove","reason":"product type (dipping chocolate), not a dish"}
+{"id":"Q116786436","verdict":"keep","reason":"Prepared warm chocolate dipping sauce, not a raw ingredient or brand"}
 {"id":"Q116787453","verdict":"remove","reason":"product type (craft chocolate), not a dish"}
 {"id":"Q11678836","verdict":"keep"}
 {"id":"Q116788485","verdict":"keep"}
@@ -274,7 +274,7 @@
 {"id":"Q117268856","verdict":"keep"}
 {"id":"Q117270376","verdict":"keep"}
 {"id":"Q11727138","verdict":"remove","reason":"alcoholic drink (blackberry spirit), not a dish"}
-{"id":"Q117275822","verdict":"remove","reason":"cooking technique (sujime), not a dish"}
+{"id":"Q117275822","verdict":"keep","countries":["JP"],"reason":"Prepared vinegar-cured fish as well as its preparation method"}
 {"id":"Q1172858","verdict":"keep"}
 {"id":"Q117306296","verdict":"keep"}
 {"id":"Q117307020","verdict":"keep","countries":["RU"],"reason":"Soviet-era Russian cake; countries were empty"}
