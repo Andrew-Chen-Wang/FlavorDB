@@ -37,18 +37,24 @@ fried breads, not falafel. The user confirmed IN; its clarified name is
 `鹰嘴豆咖喱配炸饼（Chole bhature）`. Simit retains TR, GR, CY and BG, rather than the imported EG.
 Errötendes Mädchen remains a real German dessert with DE.
 
+Final ISO-code QA also prompted two readers to inspect 12 original entries retaining obsolete
+SU/DD codes. Eleven foods received modern country associations; Snezhok was removed as a
+fermented milk drink. The separate `countries-historical-first.jsonl` and
+`countries-historical-second.jsonl` ledgers preserve those decisions. Existing XK denotes Kosovo
+and is retained as a commonly used code, rather than substituting another country.
+
 ## Applied results
 
 The fetch cache is absent, so verdicts are applied directly to checked-in shards using the same
 code used by `build-data`, after restoring immutable baseline `9333faf`. The output contains
-**29,988 dishes and 14,322 recipes; every dish has at least one country**.
+**29,987 dishes and 14,322 recipes; every dish has at least one country**.
 
 | Applied change                                              |  Count |
 | ----------------------------------------------------------- | -----: |
-| Dishes removed                                              |  1,844 |
+| Dishes removed                                              |  1,845 |
 | …after their last recipe was dropped, without a Wikidata ID |     48 |
 | Dishes renamed                                              |    314 |
-| Country lists changed                                       | 19,070 |
+| Country lists changed                                       | 19,081 |
 | Recipes fixed                                               |  1,857 |
 | Recipes dropped                                             |     81 |
 

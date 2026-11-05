@@ -157,7 +157,7 @@
 {"id":"Q922429","verdict":"keep"}
 {"id":"Q922721","verdict":"keep","countries":["NL"],"reason":"countries were empty; described as Dutch bread"}
 {"id":"Q92298243","verdict":"keep","countries":["PE"],"reason":"countries were empty; Peruvian biscuit"}
-{"id":"Q923440","verdict":"keep"}
+{"id":"Q923440","verdict":"keep","countries":["DE"],"reason":"Keep Schwedeneisbecher: the original identifies East German cuisine and a vanilla-ice-cream, applesauce and Advocaat sundae; Germany is appropriate and the Swedish name does not establish Sweden."}
 {"id":"Q923490","verdict":"keep"}
 {"id":"Q923729","verdict":"keep"}
 {"id":"Q924689","verdict":"keep"}
