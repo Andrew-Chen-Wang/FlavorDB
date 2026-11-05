@@ -1,4 +1,6 @@
 import { DishCard } from "@website/components/site/dish-card"
+import { DishPhoto } from "@website/components/site/dish-photo"
+import { dishImages } from "@flavor-db/seed-data"
 import { WorldPreview } from "@website/components/site/world-preview"
 import { ChipLink, Container, SectionHeading, Stat, Tag } from "@website/components/site/ui"
 import {
@@ -10,7 +12,7 @@ import {
   ingredientUseCount,
   ingredients,
 } from "@website/lib/data"
-import { worldStats } from "@website/lib/world"
+import { catalogStats } from "@website/lib/catalog"
 import { ArrowRight } from "lucide-react"
 import Link from "next/link"
 
@@ -18,7 +20,7 @@ const pick = (slugs: string[]) => slugs.map((s) => findDish(s)).filter((d) => d 
 
 export default function Page() {
   const countryCount = new Set(dishes.flatMap(countriesOf)).size
-  const world = worldStats()
+  const world = catalogStats()
   const zongzi = findDish("zongzi")
   const tamale = findDish("tamale")
   const topIngredients = ingredients
@@ -199,7 +201,11 @@ export default function Page() {
                       "flex-[1_1_200px] rounded-2xl border border-line bg-white p-3.5 text-ink hover:border-chili"
                     }
                   >
-                    <div className={"photo-placeholder aspect-[4/3] rounded-[10px]"} />
+                    <DishPhoto
+                      file={dishImages[d.slug]}
+                      width={480}
+                      className={"aspect-[4/3] rounded-[10px]"}
+                    />
                     <div className={"mt-3 text-lg font-semibold"}>
                       {d.name}{" "}
                       <span className={"font-cjk font-normal text-ink-3"}>{d.localName}</span>
@@ -219,25 +225,26 @@ export default function Page() {
 
       <Container className={"pt-20"}>
         <Link
-          href={"/world"}
+          href={"/dishes"}
           className={
             "flex flex-wrap items-center justify-between gap-6 rounded-3xl bg-ink p-8 text-white sm:p-12"
           }
         >
           <div className={"max-w-[60ch]"}>
             <p className={"mb-3 text-sm font-semibold tracking-[0.08em] text-[#F2B8A8] uppercase"}>
-              From around the world
+              Every dish
             </p>
             <h2
               className={
                 "font-display text-[34px] leading-tight font-bold tracking-tight sm:text-4xl"
               }
             >
-              {world.dishes.toLocaleString("en")} more dishes from {world.countries} countries
+              {world.dishes.toLocaleString("en")} dishes from {world.countries} countries
             </h2>
             <p className={"mt-3 text-[17px] leading-relaxed text-[#D9D4CA]"}>
-              Imported from Wikidata, the Wikibooks Cookbook and HowToCook, with{" "}
-              {world.withRecipe.toLocaleString("en")} full recipes. Every one credits its source.
+              Search them by name, ingredient, cuisine or country.{" "}
+              {world.withRecipe.toLocaleString("en")} have full recipes, and every imported one
+              credits its source.
             </p>
           </div>
           <span

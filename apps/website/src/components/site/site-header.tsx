@@ -8,7 +8,6 @@ import { Logo } from "./logo"
 
 const links = [
   { href: "/dishes", label: "Dishes" },
-  { href: "/world", label: "World" },
   { href: "/map", label: "Map" },
   { href: "/ingredients", label: "Ingredients" },
   { href: "/places", label: "Places" },

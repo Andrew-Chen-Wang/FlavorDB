@@ -10,21 +10,39 @@ import {
   ingredientUseCount,
   similarDishes,
 } from "@website/lib/data"
+import { curatedSlugFor, dishImage, sameAsWorldDishes } from "@website/lib/catalog"
+import { commonsPage, commonsThumb, findWorldDish } from "@website/lib/world"
 import { MapPin } from "lucide-react"
 import type { Metadata } from "next"
 import Link from "next/link"
-import { notFound } from "next/navigation"
+import { notFound, permanentRedirect } from "next/navigation"
 import { RecipeTabs } from "./recipe-tabs"
+import { WorldDishView, WorldRecipes } from "./world-dish"
 
 type Props = { params: Promise<{ slug: string }> }
 
+/** Hand-written dishes are built ahead of time; imported ones render on first request and are cached. */
+export const revalidate = 86400
 export function generateStaticParams() {
   return dishes.map((d) => ({ slug: d.slug }))
 }
 
+/** A hand-written dish by slug, or an imported dish by id (redirecting to the hand-written page when they're the same dish). */
+async function resolve(params: Props["params"]) {
+  const key = decodeURIComponent((await params).slug)
+  const dish = findDish(key)
+  if (dish) return { dish }
+  const curated = curatedSlugFor(key)
+  if (curated) permanentRedirect(`/dishes/${curated}`)
+  const world = findWorldDish(key)
+  return world ? { world } : {}
+}
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const dish = findDish((await params).slug)
-  return dish ? { title: dish.name, description: dish.summary } : {}
+  const { dish, world } = await resolve(params)
+  if (dish) return { title: dish.name, description: dish.summary }
+  if (world) return { title: world.name, description: world.description }
+  return {}
 }
 
 const sectionLinks = [
@@ -37,8 +55,11 @@ const sectionLinks = [
 ] as const
 
 export default async function DishPage({ params }: Props) {
-  const dish = findDish((await params).slug)
+  const { dish, world } = await resolve(params)
+  if (world) return <WorldDishView dish={world} />
   if (!dish) notFound()
+  const image = dishImage(dish)
+  const moreRecipes = sameAsWorldDishes(dish.slug).flatMap((w) => w.recipes)
 
   const places = dish.places.map((p) => ({ ...p, place: getPlace(p.placeId) }))
   const mapPoints = [
@@ -87,13 +108,28 @@ export default async function DishPage({ params }: Props) {
             <p className={"mt-[18px] max-w-[60ch] text-lg leading-relaxed text-ink-2 sm:text-xl"}>
               {dish.summary}
             </p>
-            <div
-              className={"photo-placeholder mt-8 flex aspect-video items-end rounded-[20px] p-4"}
-            >
-              <span className={"rounded-lg bg-white/90 px-2.5 py-1.5 text-[13px] text-ink-3"}>
-                Photo coming soon
-              </span>
-            </div>
+            {image ? (
+              <figure className={"mt-8"}>
+                {/* oxlint-disable-next-line nextjs/no-img-element -- Commons thumbnails, sized by URL */}
+                <img
+                  src={commonsThumb(image, 1200)}
+                  alt={dish.name}
+                  className={"aspect-video w-full rounded-[20px] object-cover"}
+                />
+                <figcaption className={"mt-2 text-[13px] text-ink-3"}>
+                  Photo:{" "}
+                  <a
+                    href={commonsPage(image)}
+                    className={"underline underline-offset-2 hover:text-chili"}
+                  >
+                    Wikimedia Commons
+                  </a>{" "}
+                  (see the file page for author and license)
+                </figcaption>
+              </figure>
+            ) : (
+              <div className={"photo-placeholder mt-8 aspect-video rounded-[20px]"} />
+            )}
           </div>
 
           <aside className={"flex min-w-0 flex-[1_1_320px] flex-col gap-5"}>
@@ -265,6 +301,12 @@ export default async function DishPage({ params }: Props) {
               name: getIngredient(id).name,
             }))}
           />
+          {moreRecipes.length > 0 && (
+            <div className={"mt-12"}>
+              <h3 className={"mb-5 text-xl font-semibold"}>More recipes</h3>
+              <WorldRecipes recipes={moreRecipes} />
+            </div>
+          )}
         </section>
 
         <section id={"ingredients"} className={"scroll-mt-4 pt-[72px]"}>
@@ -313,11 +355,12 @@ export default async function DishPage({ params }: Props) {
                 <h3 className={"text-xl font-semibold"}>{title}</h3>
                 <p className={"mt-1.5 mb-5 text-[15px] text-ink-3"}>{description}</p>
                 <ul className={"flex flex-col gap-1"}>
-                  {list.map(({ key, href, name, localName, subtitle, score, why }) => (
+                  {list.map(({ key, href, name, localName, subtitle, score, why, worldId }) => (
                     <li key={key}>
                       <DishRow
-                        dish={{ name, localName }}
+                        dish={{ slug: worldId ? undefined : key, name, localName }}
                         href={href}
+                        image={worldId ? findWorldDish(worldId)?.image : undefined}
                         aside={
                           <span
                             className={

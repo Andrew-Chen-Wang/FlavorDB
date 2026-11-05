@@ -1,16 +1,7 @@
 import { Breadcrumb, ChipLink, Container, SectionHeading } from "@website/components/site/ui"
-import { commonsPage, commonsThumb, countryName, findWorldDish } from "@website/lib/world"
-import type { Metadata } from "next"
+import { type WorldDish, commonsPage, commonsThumb, countryName } from "@website/lib/world"
+import type { WorldRecipe } from "@flavor-db/world-dishes"
 import Link from "next/link"
-import { notFound } from "next/navigation"
-
-type Props = { params: Promise<{ id: string }> }
-
-/** Rendered on first request and cached: there are too many to build ahead of time. */
-export const revalidate = 86400
-export function generateStaticParams() {
-  return []
-}
 
 const LICENSE_NAMES: Record<string, { label: string; url: string }> = {
   "CC0-1.0": { label: "CC0 1.0", url: "https://creativecommons.org/publicdomain/zero/1.0/" },
@@ -18,26 +9,14 @@ const LICENSE_NAMES: Record<string, { label: string; url: string }> = {
   Unlicense: { label: "Unlicense (public domain)", url: "https://unlicense.org/" },
 }
 
-async function load(params: Props["params"]) {
-  return findWorldDish(decodeURIComponent((await params).id))
-}
-
-export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const dish = await load(params)
-  return dish ? { title: dish.name, description: dish.description } : {}
-}
-
-export default async function WorldDishPage({ params }: Props) {
-  const dish = await load(params)
-  if (!dish) notFound()
+/** The page for an imported dish. */
+export function WorldDishView({ dish }: { dish: WorldDish }) {
   const zh = dish.names.zh && dish.names.zh !== dish.name ? dish.names.zh : undefined
 
   return (
     <main>
       <Container>
-        <Breadcrumb
-          items={[{ href: "/world", label: "From around the world" }, { label: dish.name }]}
-        />
+        <Breadcrumb items={[{ href: "/dishes", label: "Dishes" }, { label: dish.name }]} />
         <section className={"flex flex-wrap gap-12 pt-7"}>
           <div className={"min-w-0 flex-[999_1_520px]"}>
             {dish.kinds.length > 0 && (
@@ -87,7 +66,7 @@ export default async function WorldDishPage({ params }: Props) {
                 </h2>
                 <div className={"flex flex-wrap gap-2"}>
                   {dish.countries.map((c) => (
-                    <ChipLink key={c} href={`/world?country=${c}`} variant={"sand"}>
+                    <ChipLink key={c} href={`/dishes?country=${c}`} variant={"sand"}>
                       {countryName(c)}
                     </ChipLink>
                   ))}
@@ -127,7 +106,7 @@ export default async function WorldDishPage({ params }: Props) {
               {dish.ingredients.map((i) => (
                 <Link
                   key={i}
-                  href={`/world?q=${encodeURIComponent(i)}`}
+                  href={`/dishes?q=${encodeURIComponent(i)}`}
                   className={
                     "inline-flex min-h-11 items-center rounded-full border border-line-strong px-4 text-[15px] hover:text-chili"
                   }
@@ -150,87 +129,7 @@ export default async function WorldDishPage({ params }: Props) {
               No recipe yet. Know how it&apos;s made? Add one.
             </p>
           ) : (
-            <div className={"flex flex-col gap-8"}>
-              {dish.recipes.map((r) => {
-                const license = LICENSE_NAMES[r.source.license]
-                return (
-                  <article
-                    key={r.source.url}
-                    lang={r.lang}
-                    className={"flex flex-wrap gap-10 rounded-[20px] border border-line p-6 sm:p-8"}
-                  >
-                    <div className={"min-w-0 flex-[1_1_300px]"}>
-                      <h3 className={"text-2xl font-semibold"}>{r.title}</h3>
-                      {r.serves && <p className={"mt-2 text-sm text-ink-2"}>Serves {r.serves}</p>}
-                      <h4
-                        className={
-                          "mt-6 mb-3 text-[13px] font-semibold tracking-[0.08em] text-ink-3 uppercase"
-                        }
-                      >
-                        Ingredients
-                      </h4>
-                      <ul>
-                        {r.ingredients.map((i, n) => (
-                          <li
-                            key={`${i.item}-${n}`}
-                            className={"flex gap-3 border-b border-[#EEEAE0] py-2.5 text-[15px]"}
-                          >
-                            {i.amount && <span className={"font-semibold"}>{i.amount}</span>}
-                            <span>{i.item}</span>
-                          </li>
-                        ))}
-                      </ul>
-                    </div>
-                    <div className={"min-w-0 flex-[999_1_440px]"}>
-                      <h4
-                        className={
-                          "mb-3 text-[13px] font-semibold tracking-[0.08em] text-ink-3 uppercase"
-                        }
-                      >
-                        Method
-                      </h4>
-                      <ol className={"flex flex-col gap-4"}>
-                        {r.steps.map((step, n) => (
-                          <li key={`${n}-${step.slice(0, 20)}`} className={"flex gap-4"}>
-                            <span
-                              className={
-                                "flex size-8 flex-none items-center justify-center rounded-full bg-ink text-sm font-semibold text-white"
-                              }
-                            >
-                              {n + 1}
-                            </span>
-                            <p className={"mt-1 text-[17px] leading-relaxed"}>{step}</p>
-                          </li>
-                        ))}
-                      </ol>
-                      <p className={"mt-6 text-[13px] text-ink-3"}>
-                        From{" "}
-                        <a
-                          href={r.source.url}
-                          className={"underline underline-offset-2 hover:text-chili"}
-                        >
-                          {r.source.name}
-                        </a>
-                        {license && (
-                          <>
-                            , licensed under{" "}
-                            <a
-                              href={license.url}
-                              className={"underline underline-offset-2 hover:text-chili"}
-                            >
-                              {license.label}
-                            </a>
-                          </>
-                        )}
-                        {r.source.license === "CC-BY-SA-4.0" &&
-                          ". Formatting adapted by FlavorDB; see the page history for authors"}
-                        .
-                      </p>
-                    </div>
-                  </article>
-                )
-              })}
-            </div>
+            <WorldRecipes recipes={dish.recipes} />
           )}
         </section>
 
@@ -256,5 +155,87 @@ export default async function WorldDishPage({ params }: Props) {
         </section>
       </Container>
     </main>
+  )
+}
+
+/** Recipes from the imported sources, each with its attribution. */
+export function WorldRecipes({ recipes }: { recipes: WorldRecipe[] }) {
+  return (
+    <div className={"flex flex-col gap-8"}>
+      {recipes.map((r) => {
+        const license = LICENSE_NAMES[r.source.license]
+        return (
+          <article
+            key={r.source.url}
+            lang={r.lang}
+            className={"flex flex-wrap gap-10 rounded-[20px] border border-line p-6 sm:p-8"}
+          >
+            <div className={"min-w-0 flex-[1_1_300px]"}>
+              <h3 className={"text-2xl font-semibold"}>{r.title}</h3>
+              {r.serves && <p className={"mt-2 text-sm text-ink-2"}>Serves {r.serves}</p>}
+              <h4
+                className={
+                  "mt-6 mb-3 text-[13px] font-semibold tracking-[0.08em] text-ink-3 uppercase"
+                }
+              >
+                Ingredients
+              </h4>
+              <ul>
+                {r.ingredients.map((i, n) => (
+                  <li
+                    key={`${i.item}-${n}`}
+                    className={"flex gap-3 border-b border-[#EEEAE0] py-2.5 text-[15px]"}
+                  >
+                    {i.amount && <span className={"font-semibold"}>{i.amount}</span>}
+                    <span>{i.item}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+            <div className={"min-w-0 flex-[999_1_440px]"}>
+              <h4
+                className={"mb-3 text-[13px] font-semibold tracking-[0.08em] text-ink-3 uppercase"}
+              >
+                Method
+              </h4>
+              <ol className={"flex flex-col gap-4"}>
+                {r.steps.map((step, n) => (
+                  <li key={`${n}-${step.slice(0, 20)}`} className={"flex gap-4"}>
+                    <span
+                      className={
+                        "flex size-8 flex-none items-center justify-center rounded-full bg-ink text-sm font-semibold text-white"
+                      }
+                    >
+                      {n + 1}
+                    </span>
+                    <p className={"mt-1 text-[17px] leading-relaxed"}>{step}</p>
+                  </li>
+                ))}
+              </ol>
+              <p className={"mt-6 text-[13px] text-ink-3"}>
+                From{" "}
+                <a href={r.source.url} className={"underline underline-offset-2 hover:text-chili"}>
+                  {r.source.name}
+                </a>
+                {license && (
+                  <>
+                    , licensed under{" "}
+                    <a
+                      href={license.url}
+                      className={"underline underline-offset-2 hover:text-chili"}
+                    >
+                      {license.label}
+                    </a>
+                  </>
+                )}
+                {r.source.license === "CC-BY-SA-4.0" &&
+                  ". Formatting adapted by FlavorDB; see the page history for authors"}
+                .
+              </p>
+            </div>
+          </article>
+        )
+      })}
+    </div>
   )
 }

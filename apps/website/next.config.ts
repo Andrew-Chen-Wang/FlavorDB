@@ -7,8 +7,21 @@ const nextConfig: NextConfig = {
   // routes that need them.
   outputFileTracingRoot: path.join(__dirname, "..", ".."),
   outputFileTracingIncludes: {
-    "/world": ["../../packages/world-dishes/data/*.jsonl"],
-    "/world/[id]": ["../../packages/world-dishes/data/*.jsonl"],
+    "/dishes": [
+      "../../packages/world-dishes/data/*.jsonl",
+      "../../packages/world-dishes/data/images.json",
+    ],
+    "/dishes/[slug]": [
+      "../../packages/world-dishes/data/*.jsonl",
+      "../../packages/world-dishes/data/images.json",
+    ],
+  },
+  // The imported dishes used to have their own section.
+  async redirects() {
+    return [
+      { source: "/world", destination: "/dishes", permanent: true },
+      { source: "/world/:id", destination: "/dishes/:id", permanent: true },
+    ]
   },
   turbopack: {
     root: path.join(__dirname, "..", ".."),

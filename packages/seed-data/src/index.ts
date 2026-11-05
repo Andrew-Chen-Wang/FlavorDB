@@ -23,6 +23,7 @@ export {
 export { BASE_GRAPH, FORM_GRAPH, categoryLabel, type FormCategory } from "./categories"
 export { ancestors, graphSimilarity, type CategoryGraph } from "./graph"
 export { worldLinks, type WorldLink } from "./world-links"
+export { dishImages, sameAs } from "./media"
 export { ingredients, places }
 
 export const dishes: Dish[] = [

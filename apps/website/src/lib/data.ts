@@ -150,6 +150,8 @@ export type SimilarEntry = {
   localName?: string
   /** Where it's from */
   subtitle: string
+  /** The imported dish this links to, if it isn't a hand-written one */
+  worldId?: string
   score: number
   why: string[]
 }
@@ -192,7 +194,8 @@ function entry(item: Comparable, score: number, why: string[]): SimilarEntry {
   const { world } = item
   return {
     key: world.id,
-    href: `/world/${encodeURIComponent(world.id)}`,
+    worldId: world.id,
+    href: `/dishes/${encodeURIComponent(world.id)}`,
     name: world.name,
     ...(world.localName ? { localName: world.localName } : {}),
     subtitle: world.countries.slice(0, 2).map(countryLabel).join(", "),

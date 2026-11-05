@@ -66,45 +66,13 @@ function load() {
   return index
 }
 
-export function worldStats() {
-  const { all, countries } = load()
-  return {
-    dishes: all.length,
-    withRecipe: all.filter((i) => i.dish.recipes.length > 0).length,
-    countries: countries.length,
-  }
-}
-
 export const worldCountries = () => load().countries
 export const findWorldDish = (id: string) => load().byId.get(id)
+/** Every world dish with its search text. */
+export const worldIndex = () => load().all
 
-export type WorldQuery = { q?: string; country?: string; recipe?: boolean; page?: number }
-export const PAGE_SIZE = 48
-
-export function searchWorld({ q, country, recipe, page = 1 }: WorldQuery) {
-  const words = (q ?? "").trim().toLowerCase().split(/\s+/).filter(Boolean)
-  const hits = load()
-    .all.filter(
-      ({ dish, haystack }) =>
-        (!country || dish.countries.includes(country)) &&
-        (!recipe || dish.recipes.length > 0) &&
-        words.every((w) => haystack.includes(w)),
-    )
-    .map((i) => i.dish)
-    // Dishes with recipes and pictures first: they make the best first page.
-    .toSorted(
-      (a, b) =>
-        Number(b.recipes.length > 0) - Number(a.recipes.length > 0) ||
-        Number(!!b.image) - Number(!!a.image) ||
-        a.name.localeCompare(b.name),
-    )
-  return { total: hits.length, results: hits.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE) }
-}
-
-/** A small thumbnail from Wikimedia Commons. */
-export const commonsThumb = (file: string, width = 480) =>
-  `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(file)}?width=${width}`
+export { commonsThumb } from "@website/components/site/dish-photo"
 export const commonsPage = (file: string) =>
   `https://commons.wikimedia.org/wiki/File:${encodeURIComponent(file.replaceAll(" ", "_"))}`
 
-export const worldHref = (id: string) => `/world/${encodeURIComponent(id)}`
+export const worldHref = (id: string) => `/dishes/${encodeURIComponent(id)}`

@@ -35,6 +35,10 @@ export type WorldDish = {
   ingredients: string[]
   /** Wikimedia Commons file name */
   image?: string
+  /** A photo hosted elsewhere under the source's license (HowToCook's own pictures) */
+  imageUrl?: string
+  /** The page the photo was found on, when it didn't come with the dish (see data/images.json) */
+  imageFrom?: string
   wikipedia: Record<string, string>
   recipes: WorldRecipe[]
   sources: Source[]
