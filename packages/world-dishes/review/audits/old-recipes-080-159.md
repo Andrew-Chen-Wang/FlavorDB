@@ -1,4 +1,4 @@
-# Older recipe second opinion: r-080–159
+# Older recipe second opinion: r-080–119
 
 Original batch raw sources are unavailable. This audit reads every remove/countries target against its whole reconstructed metadata entry, including extracted ingredients and steps. It cannot revalidate original extraction, positions or completeness.
 
@@ -40,3 +40,7 @@ Original batch raw sources are unavailable. This audit reads every remove/countr
 - r-115: audited all 17 countries targets. Expanded porteño tiramisù to Italy alongside Argentina; regional named sweets and dishes upheld.
 - r-116: audited all 24 remove/countries targets. Expanded fried wontons and Catalan anchovies to shared ties. Eight drink removals upheld; grape spirit entry describes consuming the aguardiente and supplies no recovered fruit-serving method.
 - r-117: audited all 21 remove/countries targets. Cleared two generic potato fritter entries; expanded rum baba, chimichurri beef and courgette-flower fritters. Five beverage removals upheld.
+- r-118: audited all 19 remove/countries targets. No changes: regional dishes, prepared butter and homemade biscuits upheld; eight cocktail/beer drink removals upheld.
+- r-119: audited all 16 remove/countries targets. Expanded creamy borscht, Catalan bougnettes and brandade to common shared ties. Two cocktail removals upheld.
+
+Completed all 40 batches (r-080–119): 718 remove/countries targets reread, 95 country corrections and one removal reversal (grenadine syrup). All 40 verdict files parse; line counts and ID order are unchanged from the pre-audit verdict files. This does not prove original batch position equivalence because those original raw batches are unavailable.
