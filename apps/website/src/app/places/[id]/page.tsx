@@ -1,3 +1,5 @@
+import { CountryDishes } from "@website/components/site/country-dishes"
+import { countryForPlaceId, countryPlaceStats } from "@website/lib/place-data"
 import { dishesWithIngredient } from "@flavor-db/seed-data"
 import { DishCard } from "@website/components/site/dish-card"
 import { MiniMap } from "@website/components/site/mini-map"
@@ -17,7 +19,10 @@ import type { Metadata } from "next"
 import Link from "next/link"
 import { notFound } from "next/navigation"
 
-type Props = { params: Promise<{ id: string }> }
+type Props = {
+  params: Promise<{ id: string }>
+  searchParams: Promise<{ page?: string | string[] }>
+}
 
 export function generateStaticParams() {
   return placesWithDishes().flatMap((g) => g.places.map(({ place }) => ({ id: place.id })))
@@ -25,7 +30,8 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const place = findPlace((await params).id)
-  return place ? { title: place.name } : {}
+  const country = countryForPlaceId((await params).id)
+  return place ? { title: place.name } : country ? { title: country.name } : {}
 }
 
 function distanceKm(a: { lat: number; lng: number }, b: { lat: number; lng: number }) {
@@ -36,9 +42,35 @@ function distanceKm(a: { lat: number; lng: number }, b: { lat: number; lng: numb
   return 2 * 6371 * Math.asin(Math.sqrt(h))
 }
 
-export default async function PlacePage({ params }: Props) {
-  const place = findPlace((await params).id)
-  if (!place) notFound()
+export default async function PlacePage({ params, searchParams }: Props) {
+  const { id } = await params
+  const { page } = await searchParams
+  const place = findPlace(id)
+  if (!place) {
+    const country = countryForPlaceId(id)
+    if (!country) notFound()
+    return (
+      <main>
+        <Container>
+          <Breadcrumb items={[{ href: "/places", label: "Places" }, { label: country.name }]} />
+          <section className={"pt-7"}>
+            <span className={"text-sm text-ink-3"}>Country or territory</span>
+            <h1 className={"mt-3 font-display text-5xl font-bold"}>{country.name}</h1>
+            <p className={"mt-4 text-ink-2"}>
+              {country.count.toLocaleString("en")} dishes belong here.
+            </p>
+          </section>
+          <CountryDishes
+            country={country.code}
+            placeId={id}
+            placeName={country.name}
+            requestedPage={page}
+            countryOnly
+          />
+        </Container>
+      </main>
+    )
+  }
 
   const dishes = dishesForPlace(place)
   const fromHere = dishes.filter(
@@ -47,6 +79,10 @@ export default async function PlacePage({ params }: Props) {
   const variationsHere = dishes.flatMap((d) =>
     d.variations.filter((v) => v.placeId === place.id).map((v) => ({ dish: d, variation: v })),
   )
+  const countryStats = place.kind === "country" ? countryPlaceStats(place.country) : undefined
+  const fromHereCount = countryStats?.total ?? fromHere.length
+  const withRecipeCount =
+    countryStats?.withRecipe ?? fromHere.filter((d) => d.recipes.length).length
   const shared = fromHere.filter((d) => d.places.length > 1)
 
   // Ingredients used here far more than elsewhere.
@@ -100,13 +136,10 @@ export default async function PlacePage({ params }: Props) {
             </h1>
             <div className={"mt-6 flex flex-wrap gap-8"}>
               <Stat
-                value={fromHere.length}
-                label={fromHere.length === 1 ? "dish from here" : "dishes from here"}
+                value={fromHereCount}
+                label={fromHereCount === 1 ? "dish from here" : "dishes from here"}
               />
-              <Stat
-                value={fromHere.filter((d) => d.recipes.length).length}
-                label={"with recipes"}
-              />
+              <Stat value={withRecipeCount} label={"with recipes"} />
               <Stat value={variationsHere.length} label={"local variations"} />
             </div>
           </div>
@@ -146,6 +179,14 @@ export default async function PlacePage({ params }: Props) {
             <p className={"text-ink-2"}>No dishes are listed for {place.name} itself yet.</p>
           )}
         </section>
+
+        <CountryDishes
+          country={place.country}
+          placeId={place.id}
+          placeName={place.name}
+          requestedPage={page}
+          countryOnly={place.kind === "country"}
+        />
 
         {variationsHere.length > 0 && (
           <section className={"pt-16"}>
