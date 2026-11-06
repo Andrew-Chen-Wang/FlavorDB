@@ -1,0 +1,199 @@
+{
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&titles=File%3AShirini+mashhadi+2.jpg%7CTemplate%3AGFDL+or+cc-by-nc-2.0&prop=imageinfo%7Crevisions&iiprop=metadata&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "31649594": {
+          "pageid": 31649594,
+          "ns": 6,
+          "title": "File:Shirini mashhadi 2.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "metadata": [
+                {
+                  "name": "Make",
+                  "value": "Canon"
+                },
+                {
+                  "name": "Model",
+                  "value": "Canon EOS 60D"
+                },
+                {
+                  "name": "Orientation",
+                  "value": 1
+                },
+                {
+                  "name": "XResolution",
+                  "value": "72/1"
+                },
+                {
+                  "name": "YResolution",
+                  "value": "72/1"
+                },
+                {
+                  "name": "ResolutionUnit",
+                  "value": 2
+                },
+                {
+                  "name": "DateTime",
+                  "value": "2014:03:15 14:39:26"
+                },
+                {
+                  "name": "YCbCrPositioning",
+                  "value": 2
+                },
+                {
+                  "name": "ExposureTime",
+                  "value": "1/60"
+                },
+                {
+                  "name": "FNumber",
+                  "value": "56/10"
+                },
+                {
+                  "name": "ExposureProgram",
+                  "value": 2
+                },
+                {
+                  "name": "ISOSpeedRatings",
+                  "value": 400
+                },
+                {
+                  "name": "ExifVersion",
+                  "value": "0230"
+                },
+                {
+                  "name": "DateTimeOriginal",
+                  "value": "2014:03:15 14:39:26"
+                },
+                {
+                  "name": "DateTimeDigitized",
+                  "value": "2014:03:15 14:39:26"
+                },
+                {
+                  "name": "ComponentsConfiguration",
+                  "value": "\n#1\n#2\n#3\n#0"
+                },
+                {
+                  "name": "ShutterSpeedValue",
+                  "value": "393216/65536"
+                },
+                {
+                  "name": "ApertureValue",
+                  "value": "327680/65536"
+                },
+                {
+                  "name": "ExposureBiasValue",
+                  "value": "0/1"
+                },
+                {
+                  "name": "MeteringMode",
+                  "value": 5
+                },
+                {
+                  "name": "Flash",
+                  "value": 9
+                },
+                {
+                  "name": "FocalLength",
+                  "value": "75/1"
+                },
+                {
+                  "name": "SubSecTime",
+                  "value": "39"
+                },
+                {
+                  "name": "SubSecTimeOriginal",
+                  "value": "39"
+                },
+                {
+                  "name": "SubSecTimeDigitized",
+                  "value": "39"
+                },
+                {
+                  "name": "FlashPixVersion",
+                  "value": "0100"
+                },
+                {
+                  "name": "ColorSpace",
+                  "value": 1
+                },
+                {
+                  "name": "FocalPlaneXResolution",
+                  "value": "5184000/905"
+                },
+                {
+                  "name": "FocalPlaneYResolution",
+                  "value": "3456000/595"
+                },
+                {
+                  "name": "FocalPlaneResolutionUnit",
+                  "value": 2
+                },
+                {
+                  "name": "CustomRendered",
+                  "value": 0
+                },
+                {
+                  "name": "ExposureMode",
+                  "value": 0
+                },
+                {
+                  "name": "WhiteBalance",
+                  "value": 0
+                },
+                {
+                  "name": "SceneCaptureType",
+                  "value": 0
+                },
+                {
+                  "name": "Rating",
+                  "value": "0"
+                },
+                {
+                  "name": "MEDIAWIKI_EXIF_VERSION",
+                  "value": 1
+                }
+              ]
+            }
+          ],
+          "revisions": [
+            {
+              "revid": 1240456849,
+              "parentid": 1180983459,
+              "timestamp": "2026-06-28T22:33:02Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "== {{int:filedesc}} ==\n{{Information\n |description = Shirini mashhadi  شیرینی مشهدی\n |date = {{According to EXIF data|2014-03-15}}\n |source = {{own assumed}}\n |author = {{Author assumed|[[User:Roozitaa|Roozitaa]]}}\n |permission = \n |other_versions = \n}}\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-sa-all|migration=redundant}}\n\n[[Category:Pastries of Iran]]\n[[Category:Taken with Canon EOS 60D]]"
+                }
+              }
+            }
+          ]
+        },
+        "14394877": {
+          "pageid": 14394877,
+          "ns": 10,
+          "title": "Template:GFDL or cc-by-nc-2.0",
+          "revisions": [
+            {
+              "revid": 701671800,
+              "parentid": 358281759,
+              "timestamp": "2022-11-02T03:48:18Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "<div style=\"text-align: center;\">\n'''If you want to use this file commercially, you have to do this under the terms of the GFDL.'''\n<br/>''Otherwise, you are free to choose between the GFDL and CC-BY-NC-2.0.''\n</div>\n\n{{GFDL|migration={{{migration|}}}}}\n{{Cc-non-compliant|Attribution '''NonCommercial''' Generic 2.0|by-nc/2.0/|nowarn=yes|category=<nowiki></nowiki>}}\n<noinclude>\n{{Documentation}}\n[[Category:CC license tags|{{PAGENAME}}]]\n[[Category:GFDL license tags|{{PAGENAME}}]]\n[[Category:License tags attribution|{{PAGENAME}}]]\n[[Category:License tags share-alike|{{PAGENAME}}]]\n[[Category:License tags full-text|{{PAGENAME}}]]\n[[Category:Multi-license license tags]]\n</noinclude>"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

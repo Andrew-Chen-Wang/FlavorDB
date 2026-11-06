@@ -1,0 +1,71 @@
+[
+  {
+    "candidate": 3065,
+    "decision": "credit",
+    "author": "Hannes Grobe",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Frankfurter_kranz_hg.jpg&oldid=981970634 — current source explicitly labels Fotograf: Hannes Grobe, source selbst erstellt; original German upload log also labels Fotograf: Hannes Grobe.",
+    "creditAuthorUrl": "https://de.wikipedia.org/wiki/Benutzer:Hgrobe",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Frankfurter_kranz_hg.jpg",
+    "reason": "Retain metadata Public domain: PD-User names Hgrobe at German Wikipedia. Credit Hannes Grobe as the explicitly identified photographer, although attribution is not legally required for the public-domain image. EvaK is the Commons transfer uploader; Rainer Zenz is listed only as another original image contributor, without a photographer claim. Do not substitute either for Grobe."
+  },
+  {
+    "candidate": 3071,
+    "decision": "credit",
+    "author": "gerard cohen",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Bearnaise.JPG&oldid=5773161 — initial 23 May 2007 revision explicitly says Source=gerard cohen and Author=gerard cohen, with self/copyright-holder licensing; current file-history upload comment preserves the same fields.",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Gerard_cohen",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Bearnaise.JPG",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "reason": "Restore literal original author credit gerard cohen from the intact original author declaration; do not render the current garbled gerarduui/We/W/Aalw/S/cohen text. Current source revision1083108297 expressly offers migrated CC BY-SA 3.0 alongside GFDL and CC BY-SA 2.5/2.0/1.0, so retain metadata CC BY-SA 3.0. This is an explicit historical Author field, not a guess from account name."
+  },
+  {
+    "candidate": 3074,
+    "decision": "credit",
+    "author": "Chensiyuan",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Linguine_seafood.JPG&oldid=4634157 — original 5 March 2007 page was created by Chensiyuan with self|GFDL|cc-by-sa-2.5,2.0,1.0, explicitly declaring I, the copyright holder; the current original upload is by that same account, with no transfer or derivative chain.",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Chensiyuan",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Linguine_seafood.JPG",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "reason": "Credit the original self-declaring copyright holder Chensiyuan. Evidence is the original account's own self-licensing declaration, rather than merely the later automatic Author assumed template or an editor/transfer account. The linked account's gallery also includes Linguine with Seafood. No independently supplied real name is established, so retain the account name. Current licensing source revision1045471345 expressly offers migrated CC BY-SA 3.0; retain metadata license."
+  },
+  {
+    "candidate": 3077,
+    "decision": "credit",
+    "author": "Jungle",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Houtou.jpg&oldid=1530429 — original 16 March 2006 revision was created by Jungle and already included the self/copyright-holder license declaration; Jungle's subsequent revision1530451 retains it.",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Jungle",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Houtou.jpg",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "reason": "Credit Jungle on the original self-declaring copyright-holder evidence, not merely because an account uploaded a file. The current binary was restored by Greenland4 after that editor briefly uploaded an unrelated building in 2007; Greenland4's photographer/PD declaration belongs to that unrelated overwritten image, not this food photograph. Current revision1187915361 expressly retains Jungle and migrated CC BY-SA 3.0, matching metadata. No real name is established."
+  },
+  {
+    "candidate": 3090,
+    "decision": "credit",
+    "author": "Anders Jonsson (Andejons)",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Janssons_frestelse.jpg&oldid=1176124595 — description explicitly says Photographer: Anders Jonsson, linked to User:Andejons, independently of the fallback assumed Author field.",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Andejons",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Janssons_frestelse.jpg",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "reason": "Use the explicit photographer name Anders Jonsson and preserve the linked account identity Andejons. Current self license includes migrated CC BY-SA 3.0, matching metadata. Do not replace the photographer declaration with a transfer/editor identity."
+  },
+  {
+    "candidate": 3006,
+    "decision": "credit",
+    "author": "Fir0002/Flagstaffotos",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Salad_platter.jpg&oldid=1106203886 — Own work with author User:Fir0002/17 credits; full Permission HTML explicitly requires the literal attribution Fir0002/Flagstaffotos under GFDL 1.2.",
+    "creditAuthorUrl": "https://en.wikipedia.org/wiki/User:Fir0002",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Salad_platter.jpg",
+    "creditLicenseUrl": "https://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "reason": "Retain metadata GFDL 1.2, the freely licensed option, and literal Fir0002/Flagstaffotos credit. The alternative CC BY-NC 3.0 is nonfree and must not be used as this catalog's license. The page specifies GFDL version1.2 only, requires this attribution and a copy of or full hyperlinked GFDL1.2 URL alongside every reproduction, and requires the image and derivatives remain GFDL1.2. Use the provided full GFDL1.2 license link in the photo credit; do not substitute CC BY-SA3.0 or a generic latest-version GFDL link. Camera/email/layout prose is not the attribution. No contact is needed or authorized."
+  },
+  {
+    "candidate": 3013,
+    "decision": "credit",
+    "author": "matsuyuki; retouching by AlMare (AM); crop by Jbarta",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Aglio_e_olio.jpg&oldid=786252382 identifies derivative work/crop by Jbarta and names its retouched source; https://commons.wikimedia.org/wiki/File:Spaghetti_aglio_olio_e_peperoncino_by_matsuyuki_retouched.jpg explicitly identifies original Author matsuyuki and Editor AM (User:AlMare), with changes Removed distortion, cropped, levels. The original Commons file confirms matsuyuki and Flickr license review.",
+    "creditAuthorUrl": "https://www.flickr.com/photos/matsuyuki/",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Aglio_e_olio.jpg",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "reason": "Preserve the full author/derivative chain: matsuyuki photographed the original Flickr image (https://www.flickr.com/photos/12173213@N00/152350262), AlMare/AM retouched it, and Jbarta cropped the retouched version to the plate. Both editors are explicitly credited for creative changes, not inferred from uploader roles. Their credit links are https://commons.wikimedia.org/wiki/User:AlMare and https://commons.wikimedia.org/wiki/User:Jbarta; keep these if the display permits multiple linked credits. Opponent is the original Commons reviewer/uploader, not photographer. Original, intermediate and current file pages offer CC BY-SA2.0; retain metadata license."
+  }
+]

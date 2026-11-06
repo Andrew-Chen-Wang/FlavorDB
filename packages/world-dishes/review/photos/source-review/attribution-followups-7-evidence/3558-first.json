@@ -1,0 +1,62 @@
+{
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&titles=File%3AShirini+mashhadi+2.jpg&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Ccomment%7Ccontent&rvslots=main&rvdir=newer&rvlimit=3&format=json",
+  "response": {
+    "continue": {
+      "rvcontinue": "20150818215804|168995912",
+      "continue": "||"
+    },
+    "query": {
+      "pages": {
+        "31649594": {
+          "pageid": 31649594,
+          "ns": 6,
+          "title": "File:Shirini mashhadi 2.jpg",
+          "revisions": [
+            {
+              "revid": 119420639,
+              "parentid": 0,
+              "user": "Roozitaa",
+              "timestamp": "2014-03-16T22:56:16Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "== {{int:filedesc}} ==\nShirini mashhadi  شیرینی مشهدی\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-sa-all|migration=redundant}}"
+                }
+              },
+              "comment": "Shirini mashhadi  شیرینی مشهدی"
+            },
+            {
+              "revid": 119421695,
+              "parentid": 119420639,
+              "user": "Roozitaa",
+              "timestamp": "2014-03-16T23:11:23Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "== {{int:filedesc}} ==\nShirini mashhadi  شیرینی مشهدی\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-sa-all|migration=redundant}}\n\n[[Category:Pastries of Iran]]"
+                }
+              },
+              "comment": ""
+            },
+            {
+              "revid": 150772097,
+              "parentid": 119421695,
+              "user": "JarektBot",
+              "timestamp": "2015-02-23T16:37:39Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "== {{int:filedesc}} ==\nShirini mashhadi  شیرینی مشهدی\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-sa-all|migration=redundant}}\n\n[[Category:Pastries of Iran]]\n[[Category:Media missing infobox template]]"
+                }
+              },
+              "comment": "/* {{int:license-header}} */delete [[Category:Media missing infobox template]]"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

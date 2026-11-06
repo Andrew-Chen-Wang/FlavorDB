@@ -11,6 +11,11 @@ const LICENSE_NAMES: Record<string, { label: string; url: string }> = {
 
 /** The page for an imported dish. */
 export function WorldDishView({ dish }: { dish: WorldDish }) {
+  const licenseCopy = dish.imageCredit?.license.startsWith("GFDL")
+    ? "/licenses/GFDL-1.2.txt"
+    : dish.imageCredit?.license === "CeCILL"
+      ? "/licenses/CECILL-2.0.txt"
+      : dish.imageCredit?.licenseUrl
   const zh = dish.names.zh && dish.names.zh !== dish.name ? dish.names.zh : undefined
 
   return (
@@ -95,18 +100,73 @@ export function WorldDishView({ dish }: { dish: WorldDish }) {
                     >
                       Wikimedia Commons
                     </a>{" "}
-                    (see the file page for author and license)
+                    {dish.imageCredit ? (
+                      <>
+                        ·{" "}
+                        {dish.imageCredit.authorUrl ? (
+                          <a
+                            href={dish.imageCredit.authorUrl}
+                            className={"underline underline-offset-2 hover:text-chili"}
+                          >
+                            {dish.imageCredit.author}
+                          </a>
+                        ) : (
+                          dish.imageCredit.author
+                        )}{" "}
+                        ·{" "}
+                        {licenseCopy ? (
+                          <a
+                            href={licenseCopy}
+                            className={"underline underline-offset-2 hover:text-chili"}
+                          >
+                            {dish.imageCredit.license}
+                          </a>
+                        ) : (
+                          dish.imageCredit.license
+                        )}
+                        {dish.imageCredit.sourceUrl && (
+                          <>
+                            {" · "}
+                            <a
+                              href={dish.imageCredit.sourceUrl}
+                              className={"underline underline-offset-2 hover:text-chili"}
+                            >
+                              Original source
+                            </a>
+                          </>
+                        )}
+                      </>
+                    ) : (
+                      "(see the file page for author and license)"
+                    )}
                   </>
                 ) : (
                   <>
                     Photo:{" "}
                     <a
-                      href={dish.imageFrom ?? "https://github.com/Anduin2017/HowToCook"}
+                      href={
+                        dish.imageCredit?.sourceUrl ??
+                        dish.imageFrom ??
+                        "https://github.com/Anduin2017/HowToCook"
+                      }
                       className={"underline underline-offset-2 hover:text-chili"}
                     >
-                      HowToCook
+                      {dish.imageCredit?.author ?? "HowToCook"}
                     </a>{" "}
-                    (Unlicense, public domain)
+                    {dish.imageCredit ? (
+                      licenseCopy ? (
+                        <a
+                          href={licenseCopy}
+                          className={"underline underline-offset-2 hover:text-chili"}
+                        >
+                          {dish.imageCredit.license}
+                        </a>
+                      ) : (
+                        dish.imageCredit.license
+                      )
+                    ) : (
+                      "(Unlicense, public domain)"
+                    )}
                   </>
                 )}
               </figcaption>

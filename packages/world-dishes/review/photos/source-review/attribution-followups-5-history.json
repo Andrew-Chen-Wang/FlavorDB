@@ -1,0 +1,126 @@
+[
+  {
+    "continue": {
+      "rvcontinue": "20060906034027|2910478",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 905058,
+          "ns": 6,
+          "title": "File:Baklava - Turkish special, 80-ply.JPEG",
+          "revisions": [
+            {
+              "revid": 2271334,
+              "parentid": 0,
+              "user": "Kultigin~commonswiki",
+              "timestamp": "2006-06-29T11:47:29Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "== Summary ==\n{{Information\n|Description=80-ply dough baklava (which is usually 40-ply), speciality of Beypazarı district of Ankara,Turkey\n|Source=My own work\n|Date=2006-06-18\n|Author=[[User:Kultigin]]\n|Permission=I hereby grant this file for usage in all Wikimedia projects.\n|other_versions=NONE\n}}\n== Licensing ==\n{{PD-self}}"
+                }
+              },
+              "comment": "{{Information\n|Description=80-ply dough baklava (which is usually 40-ply), speciality of Beypazarı district of Ankara,Turkey\n|Source=My own work\n|Date=2006-06-18\n|Author=[[User:Kultigin]]\n|Permission=I hereby grant this file for usage in all Wikimedia pr"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "continue": {
+      "rvcontinue": "20060712105437|2366689",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 499295,
+          "ns": 6,
+          "title": "File:Sarmale.jpg",
+          "revisions": [
+            {
+              "revid": 1159578,
+              "parentid": 0,
+              "user": "Zserghei",
+              "timestamp": "2006-01-06T19:20:50Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "== Краткое описание ==\n[[Category:Food]]\n== Licensing ==\n{{PD-self}}"
+                }
+              },
+              "comment": "[[Category:Food]]"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "continue": {
+      "rvcontinue": "20090830122032|27764335",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 2198240,
+          "ns": 6,
+          "title": "File:Apple fritter from-wpen.jpg",
+          "revisions": [
+            {
+              "revid": 5925064,
+              "parentid": 0,
+              "user": "Tomer T",
+              "timestamp": "2007-06-03T19:38:39Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{Information\n|Description=A tasty apple fritter.\n|Source=Originally from [http://en.wikipedia.org en.wikipedia]; description page is/was [http://en.wikipedia.org/w/index.php?title=Image%3AApple_fritter.jpg here].\n|Date=2006-01-26 (original upload date)\n|Author=Original uploader was [[:en:User:Aanidaani|Aanidaani]] at [http://en.wikipedia.org en.wikipedia]\n|Permission=NORIGHTSRESERVED.\n|other_versions=\n}}\n\n== License information ==\n{{NoRightsReserved}}\n{{No rights reserved}}\n\n== Original upload log ==\n(All user names refer to en.wikipedia)\n* 2006-01-26 21:07 [[:en:User:Aanidaani|Aanidaani]] 350×263×8 (22154 bytes) ''<nowiki>A tasty apple fritter.</nowiki>''\n__NOTOC__\n\n[[Category:Doughnuts]]"
+                }
+              },
+              "comment": "{{Information\n|Description=A tasty apple fritter.\n|Source=Originally from [http://en.wikipedia.org en.wikipedia]; description page is/was [http://en.wikipedia.org/w/index.php?title=Image%3AApple_fritter.jpg here].\n|Date=2006-01-26 (original upload date)\n|"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "continue": {
+      "rvcontinue": "20060411102334|1685417",
+      "continue": "||"
+    },
+    "query": {
+      "pages": [
+        {
+          "pageid": 696774,
+          "ns": 6,
+          "title": "File:Hainanese Chicken Rice.jpg",
+          "revisions": [
+            {
+              "revid": 1685403,
+              "parentid": 0,
+              "user": "I64s",
+              "timestamp": "2006-04-11T10:20:43Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "== Summary ==\nHainanese Chicken Rice. Taken by Terence Ong in March 2006, modified using ACDSee by Vsion. \n== Licensing ==\n{{self2|GFDL|cc-by-2.5}}"
+                }
+              },
+              "comment": "Hainanese Chicken Rice. Taken by Terence Ong in March 2006, modified using ACDSee by Vsion."
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

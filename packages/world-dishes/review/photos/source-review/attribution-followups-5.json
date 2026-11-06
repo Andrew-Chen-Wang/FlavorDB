@@ -1,0 +1,77 @@
+[
+  {
+    "candidate": 3042,
+    "decision": "credit",
+    "author": "HungryHuy",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Banh_Xeo_with_fish_sauce_and_vegetables.jpg&oldid=896135750",
+    "creditAuthorUrl": "https://www.hungryhuy.com/",
+    "creditSourceUrl": "https://www.hungryhuy.com/banh-xeo-savory-vietnamese-crepes/",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "reason": "Primary Commons author field names HungryHuy; FlickreviewR passed CC BY 2.0 for the exact Flickr photo on 2020-02-28. Preserve the expressly supplied adjacent-image credit/source link to HungryHuy home or original recipe post (use original post above), alongside CC BY 2.0 and Commons file provenance. No creator inferred from a transfer account."
+  },
+  {
+    "candidate": 3043,
+    "decision": "credit",
+    "author": "© N. Saum, n.saum@yahoo.com.mx",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:B%C3%A1nh_m%C3%AC_th%E1%BB%8Bt_n%C6%B0%E1%BB%9Bng.png&oldid=840337814",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Nsaum75",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:B%C3%A1nh_m%C3%AC_th%E1%BB%8Bt_n%C6%B0%E1%BB%9Bng.png",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "reason": "Primary Commons self-authorship declaration and permission notice explicitly name photographer N. Saum and give the supplied copyright/credit text. Select the offered CC BY-SA 3.0 option (not GFDL). Preserve this notice, creator/source/license links and applicable share-alike for image adaptations. The notice explicitly states notification is not required by the license and asks only as a courtesy; no notification/contact occurred or is needed for this offered license. Special permission requests apply only to uses outside its terms."
+  },
+  {
+    "candidate": 3046,
+    "decision": "credit",
+    "author": "Kultigin",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Baklava_-_Turkish_special,_80-ply.JPEG&oldid=2271334",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Kultigin",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Baklava_-_Turkish_special,_80-ply.JPEG",
+    "reason": "Fetched original Commons revision 2271334 (2006-06-29), authored by Kultigin: Source=My own work, Author=Kultigin, and PD-self were present together from initial upload. The permission sentence grants use in all Wikimedia projects but contains no only/exclusive limitation; the separate deliberate PD-self release is broad and remains on current revision1110961893. This is direct creator self-release evidence, not merely current metadata inferred from uploader identity. Credit voluntarily as public-domain work; do not mislabel it CC licensed."
+  },
+  {
+    "candidate": 3066,
+    "decision": "drop",
+    "author": "Unresolved (Aanidaani is identified only as original uploader)",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Apple_fritter_from-wpen.jpg&oldid=5925064",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_fritter_from-wpen.jpg",
+    "reason": "Fetched initial Commons transfer revision5925064 (2007-06-03): Tomer T transferred it; Aanidaani is expressly original uploader, with no photographer/own-work statement. Original NoRightsReserved release was unrestricted (including commercial use/modification and no attribution obligation), and current Copyrighted free use is not a noncommercial restriction. However, the original enwiki File:Apple fritter.jpg page is now missing and its creator/rights-holder evidence cannot be recovered from supplied log. Do not convert original uploader Aanidaani or transfer editor Tomer T into a confirmed photographer; drop under the task requirement to resolve author attribution."
+  },
+  {
+    "candidate": 3114,
+    "decision": "credit",
+    "author": "Nesnad",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Tempurainjapan-ikebukuro-dec312007.jpg&oldid=1265069822",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Nesnad",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Tempurainjapan-ikebukuro-dec312007.jpg",
+    "creditLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "reason": "Primary Commons own-work/Author=Nesnad and self CC0 release are explicit. Description asks for credit but immediately says there is no obligation, and expressly permits private/commercial use. Preserve Nesnad as voluntary credit; no contact or additional permission needed."
+  },
+  {
+    "candidate": 3123,
+    "decision": "credit",
+    "author": "Terence Ong; modified by Vsion",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Hainanese_Chicken_Rice.jpg&oldid=1685403",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Hainanese_Chicken_Rice.jpg",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "reason": "Fetched first Commons revision1685403 (2006-04-11), which explicitly says taken by Terence Ong in March2006, modified using ACDSee by Vsion, and offers self2 GFDL/CC BY2.5. Current revision1290847724 retains both named contributors and CC BY2.5. Credit photographer and modifier together; do not infer authorship from initial editor I64s or current assumed-author template. Select CC BY2.5; no need to rely on GFDL."
+  },
+  {
+    "candidate": 3168,
+    "decision": "credit",
+    "author": "Zserghei",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Sarmale.jpg&oldid=1159578",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Zserghei",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Sarmale.jpg",
+    "reason": "Fetched original Commons revision1159578 (2006-01-06), by Zserghei, containing PD-self from creation. PD-self is a first-person creator/copyright-holder release, so this supports Zserghei attribution beyond the later machine-readable author-assumed guess. The current revision1052121517 still carries PD-self. Credit voluntarily as public-domain work, with file/source link; no unsupported full name inferred."
+  },
+  {
+    "candidate": 3167,
+    "decision": "credit",
+    "author": "Jonathunder",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:EggSalad.jpg&oldid=1224705315",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Jonathunder",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:EggSalad.jpg",
+    "creditLicenseUrl": "https://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "reason": "Primary Commons own-work declaration explicitly names Jonathunder, and the sole license is GFDL-1.2 (version1.2 only), confirmed by file template/current metadata; there is no CC migration/relicense option. Outside-use notice invites contact only when the offered terms do not meet needs, not as a mandatory notification. Author and license are resolved, but reuse must retain copyright/license notices and comply with GFDL1.2 including accompanying the distributed image with the full license text; a generic CC label or author-only credit is insufficient. Parent must implement the full GFDL1.2 notice/license-copy requirement or omit this candidate. No contact made."
+  }
+]

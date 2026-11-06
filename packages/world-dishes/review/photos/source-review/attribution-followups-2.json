@@ -1,0 +1,62 @@
+[
+  {
+    "candidate": 2955,
+    "decision": "credit",
+    "author": "Ollylain",
+    "authorSource": "https://commons.wikimedia.org/wiki/File:BLT_sandwich_(1).jpg — prose Photographer field explicitly names Ollylain; the Flickr review independently names the same author.",
+    "creditAuthorUrl": "https://www.flickr.com/photos/ollie_lizard/",
+    "creditSourceUrl": "https://www.flickr.com/photos/ollie_lizard/274401804/",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "reason": "Credit the explicitly named photographer Ollylain, not Commons uploader Edward. Commons records FlickreviewR's 18 February 2007 confirmation of CC BY 2.0, and explains that the subsequent Flickr license change does not revoke that grant. Keep metadata license CC BY 2.0. The linked Flickr profile now displays DarleneEats, but preserve the photographer name supplied on the Commons file rather than infer another legal name."
+  },
+  {
+    "candidate": 3000,
+    "decision": "credit",
+    "author": "Yuchinkay from Flickr; brightened by ReneeWrites",
+    "authorSource": "https://commons.wikimedia.org/wiki/File:Summer_roll.jpg — Summary explicitly names Author: Yuchinkay in Flickr and asks for attribution to Yuchinkay from Flickr. File history explicitly identifies ReneeWrites's 20 May 2024 brightening.",
+    "creditAuthorUrl": "https://www.flickr.com/photos/yuchinkay/",
+    "creditSourceUrl": "https://www.flickr.com/photos/17768424@N00/127449625",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "reason": "Keep the expressly requested Yuchinkay from Flickr credit. Binh Giang is the Commons transfer uploader, not the photographer. The current file is the brightened version, so preserve ReneeWrites's named processing credit too without calling that editor the photographer. FlickreviewR confirmed CC BY 2.0 on 3 November 2007; Commons explicitly says the upload's original CC BY-SA 2.0 assertion was not the verified license. Keep metadata license CC BY 2.0."
+  },
+  {
+    "candidate": 2953,
+    "decision": "credit",
+    "author": "Qurren",
+    "authorSource": "https://commons.wikimedia.org/wiki/File:Pasco_Shinshu_milk_bread.jpg — Author explicitly says photo: Qurren; licensing explicitly requests Attribution: Qurren, also present in original upload description.",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Qurren",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Pasco_Shinshu_milk_bread.jpg",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "reason": "Preserve literal requested attribution Qurren; omit camera, talk-link and layout text from machine Artist HTML. CC BY-SA 4.0 is explicitly among the available licenses and matches metadata. The page permits choosing one listed license."
+  },
+  {
+    "candidate": 2992,
+    "decision": "credit",
+    "author": "Javier Somoza",
+    "authorSource": "https://commons.wikimedia.org/wiki/File:Espaguetis_carbonara.jpg — Author and explicit Attribution fields both say Javier Somoza; reviewed VRT ticket 2016041010007866 confirms the copyright holder's permission under the page's terms.",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Javiersomoza",
+    "creditSourceUrl": "http://www.velvetandpasta.com/recetas/espaguetis-carbonara/",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "reason": "Preserve literal requested attribution Javier Somoza and original Velvet and Pasta source. Commons publishes CC BY-SA 4.0 and a public VRT permission confirmation; this is independent of assuming authorship from the similarly named upload account. Keep metadata license CC BY-SA 4.0."
+  },
+  {
+    "candidate": 2995,
+    "decision": "credit",
+    "author": "David Corby (User:Miskatonic)",
+    "authorSource": "https://commons.wikimedia.org/wiki/File:Granola03242006.JPG — Description explicitly states Photographed by and copyright of (c) David Corby (User:Miskatonic, uploader) 2006; original file-history comment repeats this.",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Miskatonic",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Granola03242006.JPG",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "reason": "Use the explicit photographic authorship and copyright declaration David Corby (User:Miskatonic), not the fallback machine Artist assumption. CC BY 2.5 is explicitly offered alongside GFDL and migrated CC BY-SA 3.0; the page allows selecting one license. Keep metadata license CC BY 2.5."
+  },
+  {
+    "candidate": 2987,
+    "decision": "credit",
+    "author": "Sakurai Midori",
+    "authorSource": "https://commons.wikimedia.org/wiki/File:Gado_gado.jpg — Author explicitly identifies Sakurai Midori, with Own work source; original file-history description records the creator's release.",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Midori",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Gado_gado.jpg",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "reason": "Keep metadata license CC BY-SA 3.0: the live Commons licensing section expressly offers Attribution-ShareAlike 3.0 Unported and says this tag was added as part of the GFDL licensing update. This is a documented migration from the original GFDL grant, not an unsupported replacement for the older Permission field's CC BY-SA 2.0/GFDL wording. Another current tag renders as CC BY-SA 2.1 Japan; selecting the separately documented migrated 3.0 avoids silently interpreting that older template/version discrepancy. Credit Sakurai Midori as explicitly named."
+  }
+]
