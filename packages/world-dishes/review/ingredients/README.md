@@ -18,3 +18,10 @@ the loader turns into each dish's `ingredientIds`.
   or more and can be matched in the pantry.
 
 Not ingredients: headings ("For the sauce:"), equipment, instructions and serving notes map to nothing.
+
+## Follow-up audit
+
+The [audit](audit/README.md) reread 6,812 distinct strings, including samples from all 144 batches and
+every string mapped to a rarely used ingredient. It corrected 765 shared mappings and six
+recipe-specific meanings. It also made the archived merge reproducible from the repository. See the
+[unusual ingredient list](audit/UNUSUAL.md) for user decisions; those entries remain in the catalog.

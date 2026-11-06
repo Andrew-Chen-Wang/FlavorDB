@@ -1,0 +1,200 @@
+{"audit": 2000, "lang": "hu", "text": "vanília por.", "ids": ["vanilla-powder"]}
+{"audit": 2001, "lang": "hu", "text": "vaníliakrém", "ids": ["vanilla-cream"]}
+{"audit": 2002, "lang": "hu", "text": "virágpor,", "ids": ["bee-pollen"], "unusual": "Bee pollen retained as a real food ingredient for user review."}
+{"audit": 2003, "lang": "hu", "text": "vízzel 1 literre felöntve", "ids": ["water"]}
+{"audit": 2004, "lang": "hu", "text": "zellersó, őrölt bors,", "ids": ["celery-salt", "black-pepper"]}
+{"audit": 2005, "lang": "hu", "text": "zselésítő anyag", "ids": ["gelling-agent"]}
+{"audit": 2006, "lang": "hu", "text": "¼ teáskanál pirospaprika,", "ids": ["paprika"]}
+{"audit": 2007, "lang": "hu", "text": "ízlés szerint alma-, vagy borecet,", "ids": ["apple-cider-vinegar"], "reason": "Hungarian apple vinegar is the same shopping ingredient as the established apple-cider-vinegar id; the first alternative is apple vinegar."}
+{"audit": 2008, "lang": "hu", "text": "ízlés szerint almaecet vagy borecet,", "ids": ["apple-cider-vinegar"], "reason": "Apple vinegar is the established apple-cider-vinegar ingredient; wine vinegar is only the second alternative."}
+{"audit": 2009, "lang": "hu", "text": "ízlés szerint citromlé,", "ids": ["lemon"]}
+{"audit": 2010, "lang": "hu", "text": "ízlés szerint citromlé, ecet, kevés cukor és só.", "ids": ["lemon", "vinegar", "sugar", "salt"]}
+{"audit": 2011, "lang": "hu", "text": "ízlés szerint szegfűszeg.", "ids": ["clove"]}
+{"audit": 2012, "lang": "hu", "text": "ízlés szerint só, őrölt bors, pirospaprika, ételízesítő", "ids": ["salt", "black-pepper", "paprika", "seasoning-powder"]}
+{"audit": 2013, "lang": "hu", "text": "Ízlés szerinti kompót", "ids": ["fruit-compote"]}
+{"audit": 2014, "lang": "hu", "text": "őrölt bors, só,", "ids": ["black-pepper", "salt"]}
+{"audit": 2015, "lang": "hu", "text": "⅛ teáskanál cayenne paprika (cayenne-bors).", "ids": ["cayenne"]}
+{"audit": 2016, "lang": "it", "text": "\"cip’duzz\" (già cotte in acqua e sale)", "ids": [], "unusual": "The Roto di Carpino recipe lists cooked cipduzz as a real regional bulb ingredient, likely wild lampascioni; no suitable named bulb id exists. Current empty mapping retained for parent follow-up rather than inventing a species/id."}
+{"audit": 2017, "lang": "it", "text": "1 aringa affumicata", "ids": ["smoked-herring"]}
+{"audit": 2018, "lang": "it", "text": "1 bicchierino di limoncello o rum", "ids": ["limoncello"]}
+{"audit": 2019, "lang": "it", "text": "1 confezione di budino al cioccolato", "ids": ["chocolate-pudding"]}
+{"audit": 2020, "lang": "it", "text": "1 coppa di maiale (fresca, non l'insaccato!)", "ids": ["pork"], "reason": "The line explicitly requests fresh coppa, not the cured sausage; use raw pork rather than the cured-product id."}
+{"audit": 2021, "lang": "it", "text": "1 cucchiaino di cannella", "ids": ["cinnamon"]}
+{"audit": 2022, "lang": "it", "text": "1 cucchiaino malto (o in mancanza zucchero)", "ids": ["malt-extract"], "reason": "In the two bread recipes this teaspoon of malto is baking malt extract, not purified maltose; sugar is only an alternative."}
+{"audit": 2023, "lang": "it", "text": "1 dl di biscotti sbriciolati", "ids": ["biscuit-crumbs"]}
+{"audit": 2024, "lang": "it", "text": "1 frisella", "ids": ["frisella"]}
+{"audit": 2025, "lang": "it", "text": "1 gallinella", "ids": ["gurnard"]}
+{"audit": 2026, "lang": "it", "text": "1 goccio di alchermes", "ids": ["alchermes"]}
+{"audit": 2027, "lang": "it", "text": "1 kg di bacche di rosa selvatiche (gratacuj)", "ids": ["rosehips"]}
+{"audit": 2028, "lang": "it", "text": "1 kg di farina di tipo 00", "ids": ["flour"]}
+{"audit": 2029, "lang": "it", "text": "1 kg di Reale di Asino;", "ids": ["donkey"], "unusual": "Donkey meat retained as a real regional food for user review."}
+{"audit": 2030, "lang": "it", "text": "1 kg. di trippa ovina (o bovina)", "ids": ["sheep-tripe"], "unusual": "Sheep tripe retained as a real offal ingredient."}
+{"audit": 2031, "lang": "it", "text": "1 osso di manzo con midollo", "ids": ["marrow-bone"], "reason": "The beef bone explicitly includes marrow; the existing marrow-bone id captures that more specifically."}
+{"audit": 2032, "lang": "it", "text": "1 piedino di maiale", "ids": ["pig-trotter"]}
+{"audit": 2033, "lang": "it", "text": "1 pizzico maggiorana essiccata", "ids": ["marjoram"]}
+{"audit": 2034, "lang": "it", "text": "1 vasetto di farina di cocco", "ids": ["desiccated-coconut"], "reason": "The coconut-yogurt cake uses this alongside wheat flour and scatters it on top; Italian farina di cocco here means dried grated coconut, not defatted coconut flour."}
+{"audit": 2035, "lang": "it", "text": "1/2 kg di pane raffermo", "ids": ["bread"]}
+{"audit": 2036, "lang": "it", "text": "1/2 kg di patate tagliate a bastoncino", "ids": ["potato"]}
+{"audit": 2037, "lang": "it", "text": "10 g miglioratore per impasti(non necessario)", "ids": ["dough-improver"]}
+{"audit": 2038, "lang": "it", "text": "10 gr. di limoncello", "ids": ["limoncello"]}
+{"audit": 2039, "lang": "it", "text": "100 g di arancia candita", "ids": ["candied-orange"]}
+{"audit": 2040, "lang": "it", "text": "100 g di farina di cocco", "ids": ["desiccated-coconut"], "reason": "The coconut-biscuit recipe combines this with wheat flour and a small egg amount; it is the dried grated coconut called cocco in the method, not defatted coconut flour."}
+{"audit": 2041, "lang": "it", "text": "100 g di olio di riso o di sesamo", "ids": ["rice-oil"]}
+{"audit": 2042, "lang": "it", "text": "100 g di prescinsôea", "ids": ["prescinseua"]}
+{"audit": 2043, "lang": "it", "text": "100 g di scamorza (o provola affumicata)", "ids": ["scamorza"]}
+{"audit": 2044, "lang": "it", "text": "100 g pancetta affumicata tesa", "ids": ["pancetta"]}
+{"audit": 2045, "lang": "it", "text": "100 grammi castelmagno", "ids": ["castelmagno"]}
+{"audit": 2046, "lang": "it", "text": "100 grammi raschera", "ids": ["raschera"]}
+{"audit": 2047, "lang": "it", "text": "130 grammi di formaggio Montasio fresco", "ids": ["montasio"]}
+{"audit": 2048, "lang": "it", "text": "130 grammi di formaggio Montasio stagionato", "ids": ["montasio"]}
+{"audit": 2049, "lang": "it", "text": "140 g di zucchero semolato", "ids": ["sugar"]}
+{"audit": 2050, "lang": "it", "text": "150 g pasta all'uovo", "ids": ["egg-pasta"]}
+{"audit": 2051, "lang": "it", "text": "150 gr. di birra guinness", "ids": ["stout-beer"]}
+{"audit": 2052, "lang": "it", "text": "150 gr. di cotognata (marmellata di cotogne)", "ids": ["quince-paste"]}
+{"audit": 2053, "lang": "it", "text": "150 grammi di soppressata calabrese piccante", "ids": ["soppressata"]}
+{"audit": 2054, "lang": "it", "text": "1kg di scarola", "ids": ["escarole"]}
+{"audit": 2055, "lang": "it", "text": "2 bicchieri di vino bianco", "ids": ["white-wine"]}
+{"audit": 2056, "lang": "it", "text": "2 cefali puliti ed eviscerati", "ids": ["mullet"]}
+{"audit": 2057, "lang": "it", "text": "2 missoltini del Lario", "ids": ["shad"], "unusual": "Missoltini are traditional dried Lake Como shad; shad is a valid broad mapping, but a preserved-shad ingredient could be added if desired."}
+{"audit": 2058, "lang": "it", "text": "2 pomodori tagliati a pezzi", "ids": ["tomato"]}
+{"audit": 2059, "lang": "it", "text": "2 porri", "ids": ["leek"]}
+{"audit": 2060, "lang": "it", "text": "20 fiori di zucchina freschi", "ids": ["zucchini-flowers"]}
+{"audit": 2061, "lang": "it", "text": "200 g di formaggio fresco \"primosale\"", "ids": ["primosale"]}
+{"audit": 2062, "lang": "it", "text": "200 g di noci di Bancoul", "ids": ["candlenuts"]}
+{"audit": 2063, "lang": "it", "text": "200 g di uva bianca apirena (senza semi) matura", "ids": ["white-grapes"]}
+{"audit": 2064, "lang": "it", "text": "200 g scorza di agrume", "ids": ["citrus-zest"]}
+{"audit": 2065, "lang": "it", "text": "200 g. di ricotta o di quagliata o prescinseua, secondo la ricetta di Recco", "ids": ["ricotta"]}
+{"audit": 2066, "lang": "it", "text": "25 g di farina di carrube", "ids": ["carob-flour"]}
+{"audit": 2067, "lang": "it", "text": "250 g di formaggio Casera grasso;", "ids": ["casera"]}
+{"audit": 2068, "lang": "it", "text": "250 g di formaggio Casera stagionato;", "ids": ["casera"]}
+{"audit": 2069, "lang": "it", "text": "250 g di vacherin fribourgeois a persona", "ids": ["vacherin-fribourgeois"]}
+{"audit": 2070, "lang": "it", "text": "250g di zucchero", "ids": ["sugar"]}
+{"audit": 2071, "lang": "it", "text": "250g Nduja", "ids": ["nduja"]}
+{"audit": 2072, "lang": "it", "text": "3 cucchiai di gelatina di ribes", "ids": ["redcurrant-jelly"]}
+{"audit": 2073, "lang": "it", "text": "3 cucchiai di insalata russa ridotta in purea", "ids": ["russian-salad"]}
+{"audit": 2074, "lang": "it", "text": "3 noci di Aleurite moluccana ridotte in polvere", "ids": ["candlenuts"], "unusual": "Candlenuts retained as a real food ingredient for user review."}
+{"audit": 2075, "lang": "it", "text": "3 o 4 fogli di carta da musica (pane carasau)", "ids": ["carasau-bread"]}
+{"audit": 2076, "lang": "it", "text": "30 noci di Bancoul equivalente a 200 g di polpa schiacciata.", "ids": ["candlenuts"]}
+{"audit": 2077, "lang": "it", "text": "300 g di crescenza", "ids": ["crescenza"]}
+{"audit": 2078, "lang": "it", "text": "300 g di funghi porcini freschi", "ids": ["porcini"]}
+{"audit": 2079, "lang": "it", "text": "300 g fegato di vitello", "ids": ["calf-liver"]}
+{"audit": 2080, "lang": "it", "text": "300 gr. di cicale", "ids": ["mantis-shrimp"], "reason": "Cicale in the Cacciucco seafood recipe denotes mantis shrimp, not slipper lobster.", "unusual": "Mantis shrimp retained as the actual seafood ingredient after correcting the crustacean identity."}
+{"audit": 2081, "lang": "it", "text": "300 gr. di palombo", "ids": ["smooth-hound"]}
+{"audit": 2082, "lang": "it", "text": "300 grammi di provola affumicata asciutta", "ids": ["provola"]}
+{"audit": 2083, "lang": "it", "text": "300/350 gr di crescenza freschissima - prodotta con latte ligure tracciabile", "ids": ["crescenza"]}
+{"audit": 2084, "lang": "it", "text": "300g spezzatino di soia tritato ed idratato", "ids": ["soy-chunks"]}
+{"audit": 2085, "lang": "it", "text": "4 bicchierini di mistrà", "ids": ["mistra-liqueur"]}
+{"audit": 2086, "lang": "it", "text": "4 cefali", "ids": ["grey-mullet"]}
+{"audit": 2087, "lang": "it", "text": "4 cucchiai di prezzemolo tritato", "ids": ["parsley"]}
+{"audit": 2088, "lang": "it", "text": "4 cucchiai di zucchero", "ids": ["sugar"]}
+{"audit": 2089, "lang": "it", "text": "40g di tartufo nero", "ids": ["truffle"]}
+{"audit": 2090, "lang": "it", "text": "450 g di funghi enokitake", "ids": ["enoki-mushrooms"]}
+{"audit": 2091, "lang": "it", "text": "5 kg di uva nera (Montepulciano o altro tipo per fare il vino)", "ids": ["black-grapes"]}
+{"audit": 2092, "lang": "it", "text": "5 olive piccanti al peperoncino", "ids": ["chili-olives"]}
+{"audit": 2093, "lang": "it", "text": "50 g di Prescinsôea", "ids": ["prescinseua"]}
+{"audit": 2094, "lang": "it", "text": "50 g formaggio grattugiato (ci vorrebbe la formaggella di S.Stefano d'Aveto stagionata ma va bene anche il grana o il pecorino)", "ids": ["formaggella"]}
+{"audit": 2095, "lang": "it", "text": "50 gr. di 'Nduja", "ids": ["nduja"]}
+{"audit": 2096, "lang": "it", "text": "500 g carne magra di manzo, tagliata a cubetti o striscioline.", "ids": ["beef"]}
+{"audit": 2097, "lang": "it", "text": "500 g di asparagi bianchi (preferibilmente di Bassano)", "ids": ["white-asparagus"]}
+{"audit": 2098, "lang": "it", "text": "500 g di gianchetti freschissimi", "ids": ["whitebait"]}
+{"audit": 2099, "lang": "it", "text": "500 g di preböggiön", "ids": ["preboggion"]}
+{"audit": 2100, "lang": "it", "text": "500 g. di preboggion (un insieme di erbe selvatiche composto da: cicerbita, grattalingua, pimpinella, dente di cane, bieta selvatica, prezzemolo, raperonzolo, ortica, pissarella e borragine)", "ids": ["preboggion"], "unusual": "Named mixed wild-herb preparation retained; the parenthetical list explains the mixture."}
+{"audit": 2101, "lang": "it", "text": "500 gr di di monacelle", "ids": ["snails"], "reason": "Italian monacelle are edible land snails, not marine sea snails."}
+{"audit": 2102, "lang": "it", "text": "500 gr. di pesce da zuppa (gallinelle, cappone, scorfano)", "ids": ["soup-fish"]}
+{"audit": 2103, "lang": "it", "text": "500 gr. di pesce San Pietro o cernia.", "ids": ["john-dory"]}
+{"audit": 2104, "lang": "it", "text": "6/7 peperoni cruschi", "ids": ["cruschi-peppers"]}
+{"audit": 2105, "lang": "it", "text": "60 g di burro", "ids": ["butter"]}
+{"audit": 2106, "lang": "it", "text": "600 gr di carne di asino", "ids": ["donkey"], "unusual": "Donkey meat retained as a real regional food for user review."}
+{"audit": 2107, "lang": "it", "text": "700 gr. di pesce misto da zuppa (gallinella, rana pescatrice, scorfano rosso e nero, vopa, pagello, anguilla, palombo, spigola)", "ids": ["soup-fish"]}
+{"audit": 2108, "lang": "it", "text": "8 gamberi rossi di Sicilia freschi", "ids": ["red-prawns"]}
+{"audit": 2109, "lang": "it", "text": "80 gr. olive taggiasche", "ids": ["taggiasche-olives"]}
+{"audit": 2110, "lang": "it", "text": "800 g di pesce di varie qualità (Boghe dette \"ope\", vopilli detti \"cupiddhi\" o altro)", "ids": ["mixed-fish"]}
+{"audit": 2111, "lang": "it", "text": "800 g di pomodori maturi", "ids": ["tomato"]}
+{"audit": 2112, "lang": "it", "text": "800 g di rane (500 se già pulite)", "ids": ["frog-legs"], "unusual": "Frogs retained as a real food ingredient for user review."}
+{"audit": 2113, "lang": "it", "text": "Amaretti", "ids": ["amaretti-cookies"]}
+{"audit": 2114, "lang": "it", "text": "amaretti sbriciolati (se piacciono)", "ids": ["amaretti-cookies"]}
+{"audit": 2115, "lang": "it", "text": "Amaretti sbriciolati;", "ids": ["amaretti-cookies"]}
+{"audit": 2116, "lang": "it", "text": "animella", "ids": ["sweetbreads"], "unusual": "Sweetbreads retained as a real offal ingredient."}
+{"audit": 2117, "lang": "it", "text": "baharat;", "ids": ["baharat"]}
+{"audit": 2118, "lang": "it", "text": "bottarga di tonno non essiccata (circa 1/3 rispetto al peso dei filetti)", "ids": ["tuna-bottarga"]}
+{"audit": 2119, "lang": "it", "text": "burro: due noci", "ids": ["butter"]}
+{"audit": 2120, "lang": "it", "text": "caciocavallo grattugiato", "ids": ["caciocavallo"]}
+{"audit": 2121, "lang": "it", "text": "Casera Valtellina;", "ids": ["casera"]}
+{"audit": 2122, "lang": "it", "text": "cervella", "ids": ["brains"], "unusual": "Brains retained as a real offal ingredient for user review."}
+{"audit": 2123, "lang": "it", "text": "confettini cannellini (confettini che all'interno contengono aromi alla cannella)", "ids": ["cinnamon-candies"]}
+{"audit": 2124, "lang": "it", "text": "due cefali", "ids": ["mullet"]}
+{"audit": 2125, "lang": "it", "text": "due tuorli d’uovo", "ids": ["egg"]}
+{"audit": 2126, "lang": "it", "text": "fegato del coniglio", "ids": ["rabbit-liver"], "unusual": "Rabbit liver retained as a real offal ingredient."}
+{"audit": 2127, "lang": "it", "text": "giardiniera sott’aceto e funghi conservati sott'olio", "ids": ["giardiniera", "mushroom"]}
+{"audit": 2128, "lang": "it", "text": "gronco, calamaretti,", "ids": ["conger-eel", "squid"], "reason": "Gronco in this fish-stew ingredient list is conger eel; use the existing shared conger-eel id rather than an untranslated duplicate."}
+{"audit": 2129, "lang": "it", "text": "insalata giardiniera (cinque o sei pezzi possibilmente diversi)", "ids": ["giardiniera"]}
+{"audit": 2130, "lang": "it", "text": "linome", "ids": ["lemon"]}
+{"audit": 2131, "lang": "it", "text": "marmellata di pesche o albicocche q.b. (senza pezzi)", "ids": ["peach-jam"]}
+{"audit": 2132, "lang": "it", "text": "mezzo pandoro", "ids": ["pandoro"]}
+{"audit": 2133, "lang": "it", "text": "murici (caperroni),", "ids": ["murex"]}
+{"audit": 2134, "lang": "it", "text": "Olio extravergine di oliva: 20 ml", "ids": ["olive-oil"]}
+{"audit": 2135, "lang": "it", "text": "olio extravergine d’oliva", "ids": ["olive-oil"]}
+{"audit": 2136, "lang": "it", "text": "ostie", "ids": ["wafer-paper"]}
+{"audit": 2137, "lang": "it", "text": "ostie per ricoprire la placca del forno", "ids": ["wafer-paper"]}
+{"audit": 2138, "lang": "it", "text": "parti molli di bovino quali animelle, filoni (midollo spinale), cervella", "ids": ["beef-offal"], "unusual": "Mixed beef offal, including sweetbreads, spinal cord and brains, retained for user review."}
+{"audit": 2139, "lang": "it", "text": "Per trofiette bianche: 500 g di farina di grano duro, acqua.", "ids": ["durum-flour", "water"], "reason": "This specifies flour and water to make white trofie; the finished trofie is not an additional input ingredient."}
+{"audit": 2140, "lang": "it", "text": "Per trofiette di farina di castagne: 300 g di farina di castagne e 200 g di farina di grano, acqua.", "ids": ["chestnut-flour", "flour", "water"], "reason": "This specifies the two flours and water to make trofie; the finished pasta is not itself an input."}
+{"audit": 2141, "lang": "it", "text": "pesce misto (merluzzo, rana pescatrice, sogliola, cicale di mare)", "ids": ["cod", "monkfish", "sole", "mantis-shrimp"], "reason": "Cicale di mare in the Porto Recanati Adriatic fish broth are mantis shrimp; preserve the other explicitly named fish."}
+{"audit": 2142, "lang": "it", "text": "pesce spada pulito e tagliato a fette sottili", "ids": ["swordfish"]}
+{"audit": 2143, "lang": "it", "text": "piante aromatiche e spezie, (facoltativo)", "ids": ["mixed-herbs", "spices"]}
+{"audit": 2144, "lang": "it", "text": "Piedino di maiale", "ids": ["pig-trotter"]}
+{"audit": 2145, "lang": "it", "text": "Punsch, liquore alla mandorla o rum", "ids": ["punch-liqueur"]}
+{"audit": 2146, "lang": "it", "text": "Ragù di carne", "ids": ["meat-ragu"]}
+{"audit": 2147, "lang": "it", "text": "sale quanto basta,", "ids": ["salt"]}
+{"audit": 2148, "lang": "it", "text": "salsa tartufata", "ids": ["truffle-sauce"]}
+{"audit": 2149, "lang": "it", "text": "sbarro, trancia di dentice,", "ids": ["white-seabream", "dentex"]}
+{"audit": 2150, "lang": "it", "text": "semi di anice", "ids": ["anise"], "reason": "Anise seeds use the established anise id; the plural anise-seeds id duplicates it."}
+{"audit": 2151, "lang": "it", "text": "spezie", "ids": ["spices"]}
+{"audit": 2152, "lang": "it", "text": "testone,", "ids": ["testone"], "unusual": "Category correction required: testone is listed among fish in Ciambotta pugliese, not a grain. Retain its ingredient id but change category to seafood; precise regional species should not be guessed."}
+{"audit": 2153, "lang": "it", "text": "tettina", "ids": ["tettina"], "unusual": "Category correction required: tettina in Cima alla Genovese is udder/offal, not dairy. Retain id and classify as protein; flag this uncommon ingredient for user decision."}
+{"audit": 2154, "lang": "it", "text": "un bicchierino di limoncello", "ids": ["limoncello"]}
+{"audit": 2155, "lang": "it", "text": "un bicchierino di vin santo", "ids": ["vin-santo"]}
+{"audit": 2156, "lang": "it", "text": "Un cucchiaino di sale", "ids": ["salt"]}
+{"audit": 2157, "lang": "it", "text": "un cucchiaio di martini dry", "ids": ["dry-vermouth"]}
+{"audit": 2158, "lang": "it", "text": "un litro abbondante di brodo d'oca", "ids": ["goose-broth"]}
+{"audit": 2159, "lang": "it", "text": "un mazzetto verde di piantine di papavero di campo", "ids": ["poppy-sprouts"], "unusual": "Young field-poppy greens retained as a real traditional plant ingredient for user review."}
+{"audit": 2160, "lang": "it", "text": "un pacco di savoiardi", "ids": ["savoiardi"], "unusual": "Category correction required: savoiardi are ladyfinger biscuits, so grain rather than other."}
+{"audit": 2161, "lang": "it", "text": "una confezione da 500 g di pizzoccheri:", "ids": ["pizzoccheri"]}
+{"audit": 2162, "lang": "it", "text": "una confezione piccola di stracchino o philadelphia", "ids": ["stracchino"], "unusual": "Category correction required: stracchino is a cheese, so dairy rather than other."}
+{"audit": 2163, "lang": "it", "text": "una zucchetta da pergola (Lagenaria longissima)", "ids": ["bottle-gourd"]}
+{"audit": 2164, "lang": "it", "text": "uova sode", "ids": ["egg"]}
+{"audit": 2165, "lang": "it", "text": "uova sode q.b.", "ids": ["egg"]}
+{"audit": 2166, "lang": "it", "text": "vino cotto o miele", "ids": ["vincotto"], "reason": "Vino cotto is the existing cooked-grape-must condiment vincotto, rather than uncooked generic grape must; honey is the second alternative."}
+{"audit": 2167, "lang": "it", "text": "Zucchero 300 g", "ids": ["sugar"]}
+{"audit": 2168, "lang": "it", "text": "½ bicchierino di liquore (ratafià o rum o qualsiasi altro liquore)", "ids": ["ratafia"]}
+{"audit": 2169, "lang": "it", "text": "½ bustina di vanillina", "ids": ["vanillin"], "reason": "Vanillina is explicitly vanillin, which has its own existing id; it is not vanilla bean or extract."}
+{"audit": 2170, "lang": "it", "text": "½ verza media", "ids": ["savoy-cabbage"], "reason": "Italian verza specifically names Savoy cabbage, for which an existing id is available."}
+{"audit": 2171, "lang": "ja", "text": "0.5kgのさつまいも", "ids": ["sweet-potato"]}
+{"audit": 2172, "lang": "ja", "text": "うどん: 1玉", "ids": ["udon"]}
+{"audit": 2173, "lang": "ja", "text": "しめじ：1株", "ids": ["shimeji-mushroom"]}
+{"audit": 2174, "lang": "ja", "text": "たかきび粉 1カップ", "ids": ["sorghum-flour"]}
+{"audit": 2175, "lang": "ja", "text": "ちゃんぽん麺: 2玉", "ids": ["champon-noodles"]}
+{"audit": 2176, "lang": "ja", "text": "なると: 2切れ", "ids": ["naruto-fish-cake"]}
+{"audit": 2177, "lang": "ja", "text": "ほうとう麺: 400g", "ids": ["houtou-noodles"]}
+{"audit": 2178, "lang": "ja", "text": "みりん: 大さじ2", "ids": ["mirin"]}
+{"audit": 2179, "lang": "ja", "text": "アチーニ・ディ・ペペ 200g", "ids": ["acini-di-pepe"]}
+{"audit": 2180, "lang": "ja", "text": "アニョロッティ 250g", "ids": ["agnolotti"]}
+{"audit": 2181, "lang": "ja", "text": "インスタントラーメン: 2袋", "ids": ["instant-ramen"]}
+{"audit": 2182, "lang": "ja", "text": "エリンギ：2本", "ids": ["king-oyster-mushroom"]}
+{"audit": 2183, "lang": "ja", "text": "オレキエッテ 200g", "ids": ["orecchiette"]}
+{"audit": 2184, "lang": "ja", "text": "カペッリーニ 200g", "ids": ["capellini"]}
+{"audit": 2185, "lang": "ja", "text": "カンパネッレ 200g", "ids": ["campanelle"]}
+{"audit": 2186, "lang": "ja", "text": "カヴァテッリ 200g", "ids": ["cavatelli"]}
+{"audit": 2187, "lang": "ja", "text": "ガックの種子と仮種皮", "ids": ["gac-fruit"]}
+{"audit": 2188, "lang": "ja", "text": "ガルガネッリ 200g", "ids": ["garganelli"]}
+{"audit": 2189, "lang": "ja", "text": "クミンパウダー 小さじ1", "ids": ["cumin"]}
+{"audit": 2190, "lang": "ja", "text": "サーニェ・ンカンヌラーテ 300g", "ids": ["sagne-incannulate"]}
+{"audit": 2191, "lang": "ja", "text": "シャラテッリ 300g", "ids": ["scialatielli"]}
+{"audit": 2192, "lang": "ja", "text": "チェダーチーズ 50g", "ids": ["cheddar"]}
+{"audit": 2193, "lang": "ja", "text": "チャーシュー: 10枚", "ids": ["chashu"]}
+{"audit": 2194, "lang": "ja", "text": "チャーシュー: 2枚", "ids": ["chashu"]}
+{"audit": 2195, "lang": "ja", "text": "チャーシュー: 50g（細切り）", "ids": ["chashu"]}
+{"audit": 2196, "lang": "ja", "text": "ヌクチャム: 適量", "ids": ["nuoc-cham"]}
+{"audit": 2197, "lang": "ja", "text": "バター: 125g", "ids": ["butter"]}
+{"audit": 2198, "lang": "ja", "text": "バター: 200g", "ids": ["butter"]}
+{"audit": 2199, "lang": "ja", "text": "バヴェッテ 200g", "ids": ["bavette"]}

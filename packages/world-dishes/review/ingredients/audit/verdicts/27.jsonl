@@ -1,0 +1,100 @@
+{"audit": 5184, "lang": "en", "text": "100 g coriander seed", "ids": ["coriander-seed"]}
+{"audit": 5185, "lang": "en", "text": "1000 g full-fat curd cheese (e.g. quark, pot cheese, or farmer cheese)", "ids": ["quark"]}
+{"audit": 5186, "lang": "en", "text": "15 coriander seeds", "ids": ["coriander-seed"]}
+{"audit": 5187, "lang": "en", "text": "1½ teaspoon ground coriander", "ids": ["coriander-seed"]}
+{"audit": 5188, "lang": "en", "text": "1½ teaspoons coriander seeds or ground coriander", "ids": ["coriander-seed"]}
+{"audit": 5189, "lang": "en", "text": "1½ tsp coriander powder", "ids": ["coriander-seed"]}
+{"audit": 5190, "lang": "en", "text": "1½ tsp ground coriander", "ids": ["coriander-seed"]}
+{"audit": 5191, "lang": "en", "text": "2 cups (500 g) curd cheese (e.g. quark, pot cheese, or farmer cheese)", "ids": ["quark"]}
+{"audit": 5192, "lang": "en", "text": "2 cups chopped parsnips", "ids": ["parsnip"]}
+{"audit": 5193, "lang": "en", "text": "2 cups prepared filling: white cheese, minced meat, chicken, or spinach", "ids": ["cheese"], "reason": "Read the Börek recipe: white cheese is the first filling choice but no quark type is specified; keep the broader cheese id rather than inventing a curd-cheese identity."}
+{"audit": 5194, "lang": "en", "text": "2 ea. (~450 g) leeks", "ids": ["leek"]}
+{"audit": 5195, "lang": "en", "text": "2 kidneys", "ids": ["kidney"]}
+{"audit": 5196, "lang": "en", "text": "2 lb (900 g) leeks", "ids": ["leek"]}
+{"audit": 5197, "lang": "en", "text": "2 leeks, chopped finely", "ids": ["leek"]}
+{"audit": 5198, "lang": "en", "text": "2 leeks, green and white parts cut in 1-inch chunks", "ids": ["leek"]}
+{"audit": 5199, "lang": "en", "text": "2 leeks, in chunks", "ids": ["leek"]}
+{"audit": 5200, "lang": "en", "text": "2 leeks, including green part, trimmed and thoroughly washed to remove all sand", "ids": ["leek"]}
+{"audit": 5201, "lang": "en", "text": "2 oz (60 g) leeks (optional), in medium dice", "ids": ["leek"]}
+{"audit": 5202, "lang": "en", "text": "2 oz (60 g) parsnips (optional), in medium dice", "ids": ["parsnip"]}
+{"audit": 5203, "lang": "en", "text": "2 parsnips", "ids": ["parsnip"]}
+{"audit": 5204, "lang": "en", "text": "2 pinches coriander powder", "ids": ["coriander-seed"]}
+{"audit": 5205, "lang": "en", "text": "2 small leeks or 1 bunch of spring onion tops, chopped", "ids": ["leek"]}
+{"audit": 5206, "lang": "en", "text": "2 tablespoons coriander seed", "ids": ["coriander-seed"]}
+{"audit": 5207, "lang": "en", "text": "2 tablespoons ground coriander", "ids": ["coriander-seed"]}
+{"audit": 5208, "lang": "en", "text": "2 tbsp coriander powder", "ids": ["coriander-seed"]}
+{"audit": 5209, "lang": "en", "text": "2 Tbsp coriander seeds (dhaniya)", "ids": ["coriander-seed"]}
+{"audit": 5210, "lang": "en", "text": "2 tbsp dried coriander seeds", "ids": ["coriander-seed"]}
+{"audit": 5211, "lang": "en", "text": "2 tbsp whole coriander seeds", "ids": ["coriander-seed"]}
+{"audit": 5212, "lang": "en", "text": "2 teaspoons coriander seeds or ground coriander or more to taste", "ids": ["coriander-seed"]}
+{"audit": 5213, "lang": "en", "text": "2 tsp coriander powder", "ids": ["coriander-seed"]}
+{"audit": 5214, "lang": "en", "text": "2 tsp coriander, ground", "ids": ["coriander-seed"]}
+{"audit": 5215, "lang": "en", "text": "2 tsp ground coriander", "ids": ["coriander-seed"]}
+{"audit": 5216, "lang": "en", "text": "2 tsp ground coriander seed", "ids": ["coriander-seed"]}
+{"audit": 5217, "lang": "en", "text": "2 tsp whole coriander seeds", "ids": ["coriander-seed"]}
+{"audit": 5218, "lang": "en", "text": "2½ tsp (12 g) coriander seeds", "ids": ["coriander-seed"]}
+{"audit": 5219, "lang": "en", "text": "3 large leeks, white parts only, split in half lengthwise and cut into bite-sized pieces", "ids": ["leek"]}
+{"audit": 5220, "lang": "en", "text": "3 tbsp coriander", "ids": ["coriander-seed"]}
+{"audit": 5221, "lang": "en", "text": "30 g fresh coriander (cilantro)", "ids": ["cilantro"], "reason": "Fresh coriander explicitly identified as cilantro is the herb, not coriander seed."}
+{"audit": 5222, "lang": "en", "text": "35 grams coriander seeds", "ids": ["coriander-seed"]}
+{"audit": 5223, "lang": "en", "text": "3–4 big leeks, coarsely chopped", "ids": ["leek"]}
+{"audit": 5224, "lang": "en", "text": "3–4 cups (~1 lb / 450 g) sliced leeks or onions", "ids": ["leek"]}
+{"audit": 5225, "lang": "en", "text": "4 large diced leeks (white and yellow parts only)", "ids": ["leek"]}
+{"audit": 5226, "lang": "en", "text": "4 oz (2 medium) leeks including 2 inches of the green part, sliced and washed thoroughly", "ids": ["leek"]}
+{"audit": 5227, "lang": "en", "text": "4 teaspoons coarsely-ground coriander seeds", "ids": ["coriander-seed"]}
+{"audit": 5228, "lang": "en", "text": "400 g white cheese", "ids": ["sirene-cheese"], "reason": "Read Sirene po Shopski recipe: its white Bulgarian cheese is sirene; the specific sirene-cheese id exists."}
+{"audit": 5229, "lang": "en", "text": "5–6 slices white cheese", "ids": ["cheese"], "reason": "Read Chiles en Nogada recipe: sliced white cheese for the walnut sauce is not identified as quark; use the broader cheese id."}
+{"audit": 5230, "lang": "en", "text": "6–8 coriander seeds", "ids": ["coriander-seed"]}
+{"audit": 5231, "lang": "en", "text": "7 tbsp coarsely ground coriander seed", "ids": ["coriander-seed"]}
+{"audit": 5232, "lang": "en", "text": "930 g leeks (not including the toughest portion of their green tops), halved lengthwise and sliced", "ids": ["leek"]}
+{"audit": 5233, "lang": "en", "text": "Additional spices, e.g., coriander, cardamom, thyme and oregano", "ids": ["coriander-seed", "cardamom", "thyme", "oregano"]}
+{"audit": 5234, "lang": "en", "text": "Broth: 1 cup coarsely-chopped leeks", "ids": ["leek"]}
+{"audit": 5235, "lang": "en", "text": "Ground coriander", "ids": ["coriander-seed"]}
+{"audit": 5236, "lang": "en", "text": "leek", "ids": ["leek"]}
+{"audit": 5237, "lang": "en", "text": "Leek (optional)", "ids": ["leek"]}
+{"audit": 5238, "lang": "en", "text": "Leeks, chopped", "ids": ["leek"]}
+{"audit": 5239, "lang": "en", "text": "Powdered coriander", "ids": ["coriander-seed"]}
+{"audit": 5240, "lang": "en", "text": "Roast parsnips", "ids": ["parsnip"]}
+{"audit": 5241, "lang": "en", "text": "Stock: 2 cups leeks, 1-inch diced", "ids": ["leek"]}
+{"audit": 5242, "lang": "en", "text": "Zucchini and leeks", "ids": ["zucchini", "leek"]}
+{"audit": 5243, "lang": "en", "text": "¼ cup coarsely ground coriander seed", "ids": ["coriander-seed"]}
+{"audit": 5244, "lang": "en", "text": "¼ cup ground coriander", "ids": ["coriander-seed"]}
+{"audit": 5245, "lang": "en", "text": "¼ cup whole coriander seeds", "ids": ["coriander-seed"]}
+{"audit": 5246, "lang": "en", "text": "¼ teaspoon coriander", "ids": ["coriander-seed"]}
+{"audit": 5247, "lang": "en", "text": "¼ teaspoon coriander powder", "ids": ["coriander-seed"]}
+{"audit": 5248, "lang": "en", "text": "¼ teaspoon coriander seeds", "ids": ["coriander-seed"]}
+{"audit": 5249, "lang": "en", "text": "¼ teaspoon ground coriander", "ids": ["coriander-seed"]}
+{"audit": 5250, "lang": "en", "text": "½ leek stem , chopped", "ids": ["leek"]}
+{"audit": 5251, "lang": "en", "text": "½ parsnip, chopped", "ids": ["parsnip"]}
+{"audit": 5252, "lang": "en", "text": "½ parsnip, diced", "ids": ["parsnip"]}
+{"audit": 5253, "lang": "en", "text": "½ tbsp cumin-coriander powder", "ids": ["cumin", "coriander-seed"]}
+{"audit": 5254, "lang": "en", "text": "½ teaspoon coriander", "ids": ["coriander-seed"]}
+{"audit": 5255, "lang": "en", "text": "½ teaspoon coriander powder", "ids": ["coriander-seed"]}
+{"audit": 5256, "lang": "en", "text": "½ teaspoon ground coriander", "ids": ["coriander-seed"]}
+{"audit": 5257, "lang": "en", "text": "½ teaspoon ground coriander (optional)", "ids": ["coriander-seed"]}
+{"audit": 5258, "lang": "en", "text": "½ teaspoon of ground coriander", "ids": ["coriander-seed"]}
+{"audit": 5259, "lang": "en", "text": "½ tsp coriander powder", "ids": ["coriander-seed"]}
+{"audit": 5260, "lang": "en", "text": "½ tsp whole coriander (optional)", "ids": ["coriander-seed"]}
+{"audit": 5261, "lang": "en", "text": "⅓ cup leeks or green onions including green part, sliced and thoroughly washed", "ids": ["leek"]}
+{"audit": 5262, "lang": "es", "text": "1 ajo puerro (opcional).", "ids": ["leek"]}
+{"audit": 5263, "lang": "es", "text": "1 cebolla, 1 puerro, 1 zanahoria", "ids": ["onion", "leek", "carrot"]}
+{"audit": 5264, "lang": "es", "text": "1 chirivía.", "ids": ["parsnip"]}
+{"audit": 5265, "lang": "es", "text": "1 pedazo de puerro", "ids": ["leek"]}
+{"audit": 5266, "lang": "es", "text": "1 pimiento, 1 zanahoria y 1 puerro (del puerro solo la parte blanca), bien picados, que podemos añadir de forma opcional y que se hacen en la receta al mismo tiempo que el tomate.", "ids": ["bell-pepper", "carrot", "leek"]}
+{"audit": 5267, "lang": "es", "text": "1 puerro", "ids": ["leek"]}
+{"audit": 5268, "lang": "es", "text": "1 tallo de porro", "ids": ["leek"]}
+{"audit": 5269, "lang": "es", "text": "1/4 de taza de cilantro molido", "ids": ["cilantro"], "reason": "Read Arroz con pato recipe: cilantro molido is the fresh green herb/paste cooked with the duck and rice, not ground coriander seed."}
+{"audit": 5270, "lang": "es", "text": "100 g de queso blanco seco", "ids": ["queso-blanco"], "reason": "Queso blanco seco explicitly names white cheese and a dry/grated texture; queso-blanco is a closer existing id than moist quark."}
+{"audit": 5271, "lang": "es", "text": "12 puerros", "ids": ["leek"]}
+{"audit": 5272, "lang": "es", "text": "150 g. de queso fresco", "ids": ["queso-fresco"], "reason": "Queso fresco is explicitly named; its specific id exists and is not quark."}
+{"audit": 5273, "lang": "es", "text": "150 gramos de queso de campo.", "ids": ["farmers-cheese"], "reason": "Read Caburé recipe: queso de campo is country/farmers cheese; use the existing farmers-cheese id rather than assuming quark."}
+{"audit": 5274, "lang": "es", "text": "2 cdas de queso blanco", "ids": ["queso-blanco"], "reason": "Queso blanco is explicitly named; use its existing id rather than quark."}
+{"audit": 5275, "lang": "es", "text": "2 cucharadas de café de las semillas del coriandro", "ids": ["coriander-seed"]}
+{"audit": 5276, "lang": "es", "text": "2 libras de queso blanco rallado", "ids": ["queso-blanco"], "reason": "Grated queso blanco is the named ingredient; use queso-blanco rather than assuming quark."}
+{"audit": 5277, "lang": "es", "text": "2 puerros.", "ids": ["leek"]}
+{"audit": 5278, "lang": "es", "text": "2-3 tallitos de ajo porro", "ids": ["leek"]}
+{"audit": 5279, "lang": "es", "text": "200 g. de queso blanco descremado", "ids": ["queso-blanco"], "reason": "Skimmed queso blanco remains the explicitly named cheese; use queso-blanco rather than assuming quark."}
+{"audit": 5280, "lang": "es", "text": "25 g de queso fresco para untar", "ids": ["cream-cheese"], "reason": "Read Bocaditos de Cabrales: queso fresco para untar names a spreadable fresh cream cheese, not unspecified quark."}
+{"audit": 5281, "lang": "es", "text": "250 g de Queso blanco rallado", "ids": ["queso-blanco"], "reason": "Read Golfeado: grated queso blanco is specified; use queso-blanco rather than quark."}
+{"audit": 5282, "lang": "es", "text": "600 g de Queso serrano fresco cortados en trozos largos.", "ids": ["queso-fresco"], "reason": "Read Rocoto relleno: fresh highland cheese cut into strips is a queso-fresco type, not quark."}
+{"audit": 5283, "lang": "es", "text": "Opcionales: apio, perejil, albahaca, puerro", "ids": ["celery", "parsley", "basil", "leek"]}

@@ -1,0 +1,200 @@
+{"audit": 3400, "lang": "pl", "text": "1 łyżka spirytusu lub octu", "ids": ["spirits"], "reason": "First alternative is spirit; vinegar is the alternative, not an additional required ingredient."}
+{"audit": 3401, "lang": "pl", "text": "1 łyżka stołowa przypraw do pizzy (bazylia, estragon, oregano, czosnek)", "ids": ["pizza-seasoning"]}
+{"audit": 3402, "lang": "pl", "text": "1 łyżka stołowa syropu z róży", "ids": ["rose-syrup"]}
+{"audit": 3403, "lang": "pl", "text": "1 łyżka wódki anyżowej (uzo)", "ids": ["ouzo"]}
+{"audit": 3404, "lang": "pl", "text": "1 średnia cebula, drobno posiekana", "ids": ["onion"]}
+{"audit": 3405, "lang": "pl", "text": "1,5 l owoców głogu", "ids": ["hawthorn-berries"]}
+{"audit": 3406, "lang": "pl", "text": "1/2 kg żółtego suchego grochu", "ids": ["yellow-peas"]}
+{"audit": 3407, "lang": "pl", "text": "1/4 l wina ze śliwek", "ids": ["plum-wine"]}
+{"audit": 3408, "lang": "pl", "text": "1/4 płaskiej łyżeczki tymianku", "ids": ["thyme"]}
+{"audit": 3409, "lang": "pl", "text": "1/4 szklanki białego octu winnego", "ids": ["wine-vinegar"], "reason": "Explicit white wine vinegar; existing wine-vinegar is more precise than generic vinegar."}
+{"audit": 3410, "lang": "pl", "text": "100 g pokruszonego sera feta", "ids": ["feta"]}
+{"audit": 3411, "lang": "pl", "text": "100-150 g ikry", "ids": ["roe"]}
+{"audit": 3412, "lang": "pl", "text": "12 dag sosu śliwkowego", "ids": ["plum-sauce"]}
+{"audit": 3413, "lang": "pl", "text": "120 ml zakwasu żytniego", "ids": ["rye-sourdough"]}
+{"audit": 3414, "lang": "pl", "text": "15 jagód jałowca", "ids": ["juniper-berries"]}
+{"audit": 3415, "lang": "pl", "text": "170 ml oleju z orzeszków pinii (lub oleju migdałowego)", "ids": ["nut-oil"]}
+{"audit": 3416, "lang": "pl", "text": "2 filety z karmazyna po 25 dag", "ids": ["redfish"]}
+{"audit": 3417, "lang": "pl", "text": "2 galaretki żółte", "ids": ["jelly-mix"]}
+{"audit": 3418, "lang": "pl", "text": "2 i 1/2 łyżki likieru migdałowego", "ids": ["almond-liqueur"]}
+{"audit": 3419, "lang": "pl", "text": "2 l poziomek", "ids": ["wild-strawberry"]}
+{"audit": 3420, "lang": "pl", "text": "2 opakowania serka homogenizowanego", "ids": ["quark"], "reason": "Plain homogenized curd is specified; sweetness is not stated and the source recipe adds sugar separately."}
+{"audit": 3421, "lang": "pl", "text": "2 suszone śliwki", "ids": ["prunes"]}
+{"audit": 3422, "lang": "pl", "text": "2 szalotki", "ids": ["shallot"]}
+{"audit": 3423, "lang": "pl", "text": "2 szklanki owoców aronii", "ids": ["aronia-berry"]}
+{"audit": 3424, "lang": "pl", "text": "2 łyżki likieru wiśniowego", "ids": ["cherry-liqueur"]}
+{"audit": 3425, "lang": "pl", "text": "2 łyżki oleju", "ids": ["vegetable-oil"]}
+{"audit": 3426, "lang": "pl", "text": "2 łyżki oleju orzechowego", "ids": ["nut-oil"]}
+{"audit": 3427, "lang": "pl", "text": "20 dag masła,", "ids": ["butter"]}
+{"audit": 3428, "lang": "pl", "text": "200 ml zakrzepłej krwi kaczej", "ids": ["duck-blood"], "unusual": "Duck blood is an explicit real ingredient; retain for user decision."}
+{"audit": 3429, "lang": "pl", "text": "225 g startego sera havarti", "ids": ["havarti"]}
+{"audit": 3430, "lang": "pl", "text": "25 dag bryndzy", "ids": ["bryndza"]}
+{"audit": 3431, "lang": "pl", "text": "25 dag serka homogenizowanego", "ids": ["quark"], "reason": "Homogenized curd without a sweetened or vanilla qualifier; the source recipe sweetens the filling separately."}
+{"audit": 3432, "lang": "pl", "text": "25 dag twarożku", "ids": ["quark"]}
+{"audit": 3433, "lang": "pl", "text": "3 jajka", "ids": ["egg"]}
+{"audit": 3434, "lang": "pl", "text": "3 jajka - 4 jaja", "ids": ["egg"]}
+{"audit": 3435, "lang": "pl", "text": "3 serki homogenizowane o smaku waniliowym", "ids": ["sweet-curd"]}
+{"audit": 3436, "lang": "pl", "text": "3 słoiczki selera marynowanego", "ids": ["pickled-celery"]}
+{"audit": 3437, "lang": "pl", "text": "3 łyżki octu malinowego", "ids": ["raspberry-vinegar"]}
+{"audit": 3438, "lang": "pl", "text": "3 łyżki oleju orzechowego", "ids": ["nut-oil"]}
+{"audit": 3439, "lang": "pl", "text": "3 łyżki oliwy truflowej", "ids": ["truffle-oil"]}
+{"audit": 3440, "lang": "pl", "text": "3 łyżki śmietanki", "ids": ["cream"]}
+{"audit": 3441, "lang": "pl", "text": "3/4 litra zakwasu białego barszczu", "ids": ["sourdough-starter"], "reason": "White borscht sour starter is specified without a grain; rye cannot be inferred."}
+{"audit": 3442, "lang": "pl", "text": "30 dag konopi", "ids": ["hemp-seeds"], "unusual": "Hemp seeds (konopie) are a traditional food ingredient here; retain for user decision."}
+{"audit": 3443, "lang": "pl", "text": "300 g kremu karmelowego korzennego, najlepiej Lotus (200 g do masy, 100 g polewę)", "ids": ["speculoos-spread"]}
+{"audit": 3444, "lang": "pl", "text": "300 g tirapii", "ids": ["tilapia"], "reason": "Source recipe is Tilapia with mushrooms and rosemary and cooks this as fish; tirapii is a typo, not tubetti pasta."}
+{"audit": 3445, "lang": "pl", "text": "375 g mąki", "ids": ["flour"]}
+{"audit": 3446, "lang": "pl", "text": "3–4 małe grzybki boczniaki", "ids": ["oyster-mushroom"]}
+{"audit": 3447, "lang": "pl", "text": "4 łyżki oleju lub oliwy z oliwek (w wersji bezchoresterolowej)", "ids": ["vegetable-oil"]}
+{"audit": 3448, "lang": "pl", "text": "40 dag podgrzybków", "ids": ["bolete"]}
+{"audit": 3449, "lang": "pl", "text": "400 g świeżej roszponki", "ids": ["lamb-lettuce"]}
+{"audit": 3450, "lang": "pl", "text": "5 dag migdałów", "ids": ["almonds"]}
+{"audit": 3451, "lang": "pl", "text": "5 dag mąki", "ids": ["flour"]}
+{"audit": 3452, "lang": "pl", "text": "50 dag żółtego sera", "ids": ["cheese"]}
+{"audit": 3453, "lang": "pl", "text": "50 g świeżych kiełków pszenicy", "ids": ["wheat-sprouts"]}
+{"audit": 3454, "lang": "pl", "text": "500 ml żuru (lub koncentratu)", "ids": ["rye-sour"]}
+{"audit": 3455, "lang": "pl", "text": "6 ząbków czosnku", "ids": ["garlic"]}
+{"audit": 3456, "lang": "pl", "text": "6 łyżek kaszy gryczanej (ugotowanej)", "ids": ["buckwheat-groats"]}
+{"audit": 3457, "lang": "pl", "text": "6 świeżych kumkwatów", "ids": ["kumquat"]}
+{"audit": 3458, "lang": "pl", "text": "6–8 naleśników", "ids": ["crepes"], "reason": "Polish nalesniki are thin crepes; source recipe stacks them into a vegetable crepe cake."}
+{"audit": 3459, "lang": "pl", "text": "70 g niedojrzałych owoców lipy (zanim spadną z drzewa, nadają się owoce dowolnego gatunku lipy, ale najlepsze są lipy drobnolistnej)", "ids": ["linden-fruit"], "unusual": "Unripe linden fruit, roasted and ground in the source praline recipe; retain for user decision."}
+{"audit": 3460, "lang": "pl", "text": "750 g ryb (leszcza, szczupaka)", "ids": ["pike", "common-bream"]}
+{"audit": 3461, "lang": "pl", "text": "8 spodów karczochów (z puszki lub słoika)", "ids": ["artichoke"]}
+{"audit": 3462, "lang": "pl", "text": "85 g smarties lub jakichkolwiek kolorowych draży dekoracyjnych (1 przykład), albo lukier + barwniki naturalne (2 przykład)", "ids": ["candy"], "reason": "First choice Smarties are coated candies, not candy sprinkles; other decoration choices are alternatives."}
+{"audit": 3463, "lang": "pl", "text": "aromat pomarańczowy", "ids": ["orange-extract"]}
+{"audit": 3464, "lang": "pl", "text": "budyń waniliowy", "ids": ["pudding-powder"], "reason": "Source cheesecake recipe adds the vanilla budyn directly to the batter; this is dry pudding powder, not prepared pudding."}
+{"audit": 3465, "lang": "pl", "text": "budyń śmietankowy", "ids": ["cream-pudding"]}
+{"audit": 3466, "lang": "pl", "text": "chrabąszcze majowe", "ids": ["cockchafer"], "unusual": "Cockchafer beetles are an explicit real ingredient; retain for user decision."}
+{"audit": 3467, "lang": "pl", "text": "Ciasto", "ids": ["dough"]}
+{"audit": 3468, "lang": "pl", "text": "Ciasto na pierogi", "ids": ["dumpling-dough"]}
+{"audit": 3469, "lang": "pl", "text": "cukier żelujący (ilość wg przepisu producenta)", "ids": ["jam-sugar"]}
+{"audit": 3470, "lang": "pl", "text": "curry", "ids": ["curry-powder"]}
+{"audit": 3471, "lang": "pl", "text": "cykoria", "ids": ["chicory"]}
+{"audit": 3472, "lang": "pl", "text": "czuszka", "ids": ["green-chile"], "reason": "Source mussel pasta chops half a czuszka, a fresh hot pepper; it is not an herb."}
+{"audit": 3473, "lang": "pl", "text": "dżem z czarnych porzeczek", "ids": ["blackcurrant-jam"]}
+{"audit": 3474, "lang": "pl", "text": "groszek ptysiowy", "ids": ["choux-pastry"]}
+{"audit": 3475, "lang": "pl", "text": "grubo obrana skórka z 2 całych owoców", "ids": ["citrus-peel"]}
+{"audit": 3476, "lang": "pl", "text": "i różne inne według uznania", "ids": []}
+{"audit": 3477, "lang": "pl", "text": "kilka łyżek suszonych kwiatów lipy (około dwie łyżeczki na jedną łyżkę owoców)", "ids": ["linden-flowers"]}
+{"audit": 3478, "lang": "pl", "text": "kilkanaście naleśników", "ids": ["crepes"], "reason": "Source croquette recipes fill and roll thin Polish nalesniki, represented by crepes."}
+{"audit": 3479, "lang": "pl", "text": "kilogram cukru żelującego", "ids": ["jam-sugar"]}
+{"audit": 3480, "lang": "pl", "text": "kilogram jarzębiny", "ids": ["rowan-berries"]}
+{"audit": 3481, "lang": "pl", "text": "kilogram miąższu z owoców cytrusowych", "ids": ["citrus-fruit"]}
+{"audit": 3482, "lang": "pl", "text": "kilogram schabu bez kości", "ids": ["pork-loin"]}
+{"audit": 3483, "lang": "pl", "text": "koncentrat żurku", "ids": ["rye-sour"]}
+{"audit": 3484, "lang": "pl", "text": "konfitura różana", "ids": ["rose-jam"]}
+{"audit": 3485, "lang": "pl", "text": "konfitura wiśniowa", "ids": ["cherry-jam"]}
+{"audit": 3486, "lang": "pl", "text": "konserwa mięsna", "ids": ["canned-meat"]}
+{"audit": 3487, "lang": "pl", "text": "kwiat akacji", "ids": ["acacia-flowers"]}
+{"audit": 3488, "lang": "pl", "text": "litr zakwasu na żur", "ids": ["rye-sour"]}
+{"audit": 3489, "lang": "pl", "text": "litr zsiadłego mleka", "ids": ["sour-milk"]}
+{"audit": 3490, "lang": "pl", "text": "marynata staropolska do mięs i drobiu", "ids": ["marinade"]}
+{"audit": 3491, "lang": "pl", "text": "mielona ostra papryka", "ids": ["chili-powder"]}
+{"audit": 3492, "lang": "pl", "text": "Naleśniki", "ids": ["crepes"], "reason": "Source pancake soup cuts cooked thin Polish nalesniki into strips; this is an ingredient, not a heading."}
+{"audit": 3493, "lang": "pl", "text": "nut paste", "ids": ["nut-paste"]}
+{"audit": 3494, "lang": "pl", "text": "odrobina likieru wiśniowego (kirsch)", "ids": ["kirsch"], "reason": "The cherry spirit is explicitly identified as kirsch, which has a specific existing id."}
+{"audit": 3495, "lang": "pl", "text": "około 30 młodych liści funkii", "ids": ["hosta-leaves"], "unusual": "Young hosta leaves are an explicit real ingredient; retain for user decision."}
+{"audit": 3496, "lang": "pl", "text": "opakowanie budyniu śmietankowego", "ids": ["pudding-powder"], "reason": "An opakowanie of cream-flavoured pudding is packaged powder; source recipe cooks it with milk."}
+{"audit": 3497, "lang": "pl", "text": "opcjonalnie liście wiśni lub winorośli", "ids": ["cherry-leaves"]}
+{"audit": 3498, "lang": "pl", "text": "ostra papryczka chili", "ids": ["green-chile"]}
+{"audit": 3499, "lang": "pl", "text": "ostra papryka", "ids": ["chili-powder"]}
+{"audit": 3500, "lang": "pl", "text": "papryczkę pepperoni", "ids": ["pepperoncini"]}
+{"audit": 3501, "lang": "pl", "text": "po 1 łyżeczce słodkiej papryki i cuszki", "ids": ["paprika", "ground-chile"], "reason": "A teaspoon each of sweet paprika and cuszka is powdered sweet and hot pepper seasoning, not an herb."}
+{"audit": 3502, "lang": "pl", "text": "przyprawa typu vegeta", "ids": ["vegeta-seasoning"]}
+{"audit": 3503, "lang": "pl", "text": "pół cebuli", "ids": ["onion"]}
+{"audit": 3504, "lang": "pl", "text": "pół łyżeczki syropu miętowego", "ids": ["mint-syrup"]}
+{"audit": 3505, "lang": "pl", "text": "pół łyżki soli", "ids": ["salt"]}
+{"audit": 3506, "lang": "pl", "text": "pęczek boćwiny z małymi buraczkami", "ids": ["beet-greens", "beetroot"], "reason": "Young greens with attached small beets are beet greens and beetroot, rather than Swiss chard."}
+{"audit": 3507, "lang": "pl", "text": "płetwy rekina", "ids": ["shark-fin"], "unusual": "Shark fin is explicitly named; retain for user decision."}
+{"audit": 3508, "lang": "pl", "text": "szczypta ostrej mielonej papryki,", "ids": ["chili-powder"]}
+{"audit": 3509, "lang": "pl", "text": "szklanka dowolnych marynowanych owoców", "ids": ["pickled-fruit"]}
+{"audit": 3510, "lang": "pl", "text": "tabasco", "ids": ["hot-sauce"]}
+{"audit": 3511, "lang": "pl", "text": "tabliczka czekolady", "ids": ["chocolate"]}
+{"audit": 3512, "lang": "pl", "text": "Tarty żółty ser lub mozarella", "ids": ["yellow-cheese"]}
+{"audit": 3513, "lang": "pl", "text": "woda i maggi", "ids": ["water", "liquid-seasoning"]}
+{"audit": 3514, "lang": "pl", "text": "zakwas", "ids": ["sourdough-starter"], "reason": "Source bread recipe uses retained dough starter and allows spelt or mixed flours; rye is not specified."}
+{"audit": 3515, "lang": "pl", "text": "zakwas buraczany", "ids": ["beet-kvass"]}
+{"audit": 3516, "lang": "pl", "text": "zioła prowansalskie", "ids": ["provencal-herbs"]}
+{"audit": 3517, "lang": "pl", "text": "ziół prowansalskich (gdy nie ma, można wziąć majeranek, bazylię lub oregano - wedle uznania)", "ids": ["provencal-herbs"]}
+{"audit": 3518, "lang": "pl", "text": "½ kg filetów z dorsza", "ids": ["cod"]}
+{"audit": 3519, "lang": "pl", "text": "ćwiartka korzenia selera", "ids": ["celery-root"]}
+{"audit": 3520, "lang": "pl", "text": "łyżeczka mielonego imbiru", "ids": ["ground-ginger"], "reason": "Explicitly ground ginger; specific existing spice id is more precise than fresh/generic ginger."}
+{"audit": 3521, "lang": "pl", "text": "łyżeczka przyprawy prowansalskiej", "ids": ["provencal-herbs"]}
+{"audit": 3522, "lang": "pl", "text": "łyżka kiełków rzodkiewki", "ids": ["radish-sprouts"]}
+{"audit": 3523, "lang": "pl", "text": "łyżka ostrego chutneya owocowego", "ids": ["fruit-chutney"]}
+{"audit": 3524, "lang": "pl", "text": "łyżka pikli z czosnku", "ids": ["garlic"]}
+{"audit": 3525, "lang": "pl", "text": "świeże owoce", "ids": ["fresh-fruit"]}
+{"audit": 3526, "lang": "pl", "text": "żółty ser", "ids": ["yellow-cheese"]}
+{"audit": 3527, "lang": "pl", "text": "⅓ łyżeczki soli,", "ids": ["salt"]}
+{"audit": 3528, "lang": "pt", "text": "(opcional) 1 a 2 linguiças", "ids": ["pork-sausage"]}
+{"audit": 3529, "lang": "pt", "text": "1 bolo de chocolate, de 500 gramas, esfarelado", "ids": ["chocolate-cake"]}
+{"audit": 3530, "lang": "pt", "text": "1 c/sopa de levedo de cerveja em flocos (opcional);", "ids": ["brewers-yeast"]}
+{"audit": 3531, "lang": "pt", "text": "1 colher (café) cheia de Emustab Selecta (10 gramas).", "ids": ["emulsifier"]}
+{"audit": 3532, "lang": "pt", "text": "1 colher (chá) de farinha de beterraba;", "ids": ["beet-powder"]}
+{"audit": 3533, "lang": "pt", "text": "1 colher (chá) de farinha de cenoura;", "ids": ["carrot-powder"]}
+{"audit": 3534, "lang": "pt", "text": "1 colher (chá) de farinha de espinafre;", "ids": ["spinach-powder"]}
+{"audit": 3535, "lang": "pt", "text": "1 colher (sopa) de adoçante culinário.", "ids": ["cooking-sweetener"]}
+{"audit": 3536, "lang": "pt", "text": "1 colher (sopa) de açúcar;", "ids": ["sugar"]}
+{"audit": 3537, "lang": "pt", "text": "1 colher (sopa) de cachaça (aguardente);", "ids": ["cachaca"]}
+{"audit": 3538, "lang": "pt", "text": "1 colher (sopa) de ervas finas;", "ids": ["fine-herbs"]}
+{"audit": 3539, "lang": "pt", "text": "1 colher (sopa) de pinga (aguardente);", "ids": ["cachaca"]}
+{"audit": 3540, "lang": "pt", "text": "1 colher (sopa) de sal amoníaco;", "ids": ["baker-ammonia"]}
+{"audit": 3541, "lang": "pt", "text": "1 colher (sopa) rasa de Sorvetina Selecta Especial sabor (10 gramas) ou 1 colher (sopa) quase cheia de Base para Sorvete ALGEMIX (20 gramas);", "ids": ["ice-cream-base"]}
+{"audit": 3542, "lang": "pt", "text": "1 colher (sopa) rasa de Sorvetina Selecta Super Liga Neutra (10 gramas);", "ids": ["ice-cream-stabilizer"], "reason": "Super Liga Neutra is neutral ice cream stabilizer, distinct from the separately listed flavoured ice cream base. Proposed new ingredient ice-cream-stabilizer (other), for parent reread and addition."}
+{"audit": 3543, "lang": "pt", "text": "1 colher (sopa, bem cheia) de sal amoníaco;", "ids": ["baker-ammonia"]}
+{"audit": 3544, "lang": "pt", "text": "1 copo de leite de amêndoas sem açúcar;", "ids": ["almond-milk"]}
+{"audit": 3545, "lang": "pt", "text": "1 copo de óleo (menos dois dedo para enchê-lo);", "ids": ["vegetable-oil"]}
+{"audit": 3546, "lang": "pt", "text": "1 e 1/2 xícara de café bem forte", "ids": ["strong-coffee"]}
+{"audit": 3547, "lang": "pt", "text": "1 garrafa de champanhe;", "ids": ["champagne"]}
+{"audit": 3548, "lang": "pt", "text": "1 Limão;", "ids": ["lemon"]}
+{"audit": 3549, "lang": "pt", "text": "1 litro de caldo de camarão;", "ids": ["shrimp-stock"]}
+{"audit": 3550, "lang": "pt", "text": "1 rapadura;", "ids": ["rapadura"]}
+{"audit": 3551, "lang": "pt", "text": "1 xícara (chá) de adoçante culinário;", "ids": ["cooking-sweetener"]}
+{"audit": 3552, "lang": "pt", "text": "1 xícara (chá) de açúcar refinado;", "ids": ["sugar"]}
+{"audit": 3553, "lang": "pt", "text": "1 xícara (chá) de açúcar.", "ids": ["sugar"]}
+{"audit": 3554, "lang": "pt", "text": "1 xícara (chá) de café frio, forte e sem açúcar.", "ids": ["strong-coffee"]}
+{"audit": 3555, "lang": "pt", "text": "1 xícara (chá) de iogurte de soja natural sem gordura", "ids": ["soy-yoghurt"]}
+{"audit": 3556, "lang": "pt", "text": "1-colher de(sopa)de banha de sorvete (emustab)", "ids": ["emulsifier"]}
+{"audit": 3557, "lang": "pt", "text": "1/2 colher (sopa) de essência de panettone;", "ids": ["panettone-flavoring"]}
+{"audit": 3558, "lang": "pt", "text": "1/2 litro de leite", "ids": ["milk"]}
+{"audit": 3559, "lang": "pt", "text": "10 flores de courgete grandes;", "ids": ["zucchini-flowers"]}
+{"audit": 3560, "lang": "pt", "text": "10 g de sal amargo (Sulfato de Magnésio) – vende na farmácia.", "ids": ["epsom-salt"], "unusual": "Epsom salt/magnesium sulfate is explicitly included; retain and flag this unusual processing ingredient for user decision."}
+{"audit": 3561, "lang": "pt", "text": "12 pequis;", "ids": ["pequi"]}
+{"audit": 3562, "lang": "pt", "text": "125g de tofu firme, cortado em palitos pequenos", "ids": ["tofu"]}
+{"audit": 3563, "lang": "pt", "text": "2 colheres (sopa), cheia, de margarina;", "ids": ["margarine"]}
+{"audit": 3564, "lang": "pt", "text": "2 colheres de sopa de levedo de cerveja", "ids": ["brewers-yeast"]}
+{"audit": 3565, "lang": "pt", "text": "2 cupuaçus;", "ids": ["cupuacu"]}
+{"audit": 3566, "lang": "pt", "text": "2 xícaras (chá) de farinha de trigo", "ids": ["flour"]}
+{"audit": 3567, "lang": "pt", "text": "2 xícaras (chá) de farinha de trigo --", "ids": ["flour"]}
+{"audit": 3568, "lang": "pt", "text": "2 xícaras (chá) de polvilho azedo;", "ids": ["sour-tapioca-starch"]}
+{"audit": 3569, "lang": "pt", "text": "2 xícaras (chá) de vatapá;", "ids": ["vatapa"]}
+{"audit": 3570, "lang": "pt", "text": "200 gramas de farinha de trigo com fermento;", "ids": ["self-rising-flour"]}
+{"audit": 3571, "lang": "pt", "text": "250 gramas de castanha-do-Pará", "ids": ["brazil-nuts"]}
+{"audit": 3572, "lang": "pt", "text": "3 colheres (chá) de fermento em pó.", "ids": ["baking-powder"]}
+{"audit": 3573, "lang": "pt", "text": "3 colheres (sopa) de adoçante;", "ids": ["artificial-sweetener"]}
+{"audit": 3574, "lang": "pt", "text": "300 gramas de charque frescal --", "ids": ["charque"]}
+{"audit": 3575, "lang": "pt", "text": "300 gramas de polvilho azedo --", "ids": ["sour-tapioca-starch"]}
+{"audit": 3576, "lang": "pt", "text": "300 gramas de queijo prato ou queijo mussarela, fatiado;", "ids": ["prato-cheese"]}
+{"audit": 3577, "lang": "pt", "text": "300 gramas de queijo prato.", "ids": ["prato-cheese"]}
+{"audit": 3578, "lang": "pt", "text": "300g de cenoura", "ids": ["carrot"]}
+{"audit": 3579, "lang": "pt", "text": "4 xícaras (chá) de polvilho azedo;", "ids": ["sour-tapioca-starch"]}
+{"audit": 3580, "lang": "pt", "text": "5 gramas de sal amoníaco;", "ids": ["ammonium-carbonate"]}
+{"audit": 3581, "lang": "pt", "text": "50 gramas de queijo;", "ids": ["cheese"]}
+{"audit": 3582, "lang": "pt", "text": "500 gramas de carne-de-sol;", "ids": ["carne-de-sol"]}
+{"audit": 3583, "lang": "pt", "text": "6 cascudos de tamanho médio, limpos --", "ids": ["armored-catfish"]}
+{"audit": 3584, "lang": "pt", "text": "70 gramas de queijo da canastra ralado;", "ids": ["canastra-cheese"]}
+{"audit": 3585, "lang": "pt", "text": "700 gramas de goiabada cascão;", "ids": ["guava-paste"]}
+{"audit": 3586, "lang": "pt", "text": "Aji-no-moto à gosto;", "ids": ["msg"]}
+{"audit": 3587, "lang": "pt", "text": "Alecrim a gosto.", "ids": ["rosemary"]}
+{"audit": 3588, "lang": "pt", "text": "Cal virgem (para cada 24 pedaços de abóbora, usar uma colher (das de sopa) do produto (é usada para impedir que os pedaços se desmanchem na panela).", "ids": ["quicklime"], "unusual": "Quicklime is explicitly used to firm pumpkin pieces; retain and flag this unusual processing ingredient for user decision."}
+{"audit": 3589, "lang": "pt", "text": "Farinha de rosca (pão ralado) para envolver;", "ids": ["breadcrumbs"]}
+{"audit": 3590, "lang": "pt", "text": "Farinha de trigo com fermento (aproximadamente meio quilo)", "ids": ["self-rising-flour"]}
+{"audit": 3591, "lang": "pt", "text": "Jabuticabas, mais verdes do que maduras, em qualquer quantidade;", "ids": ["jabuticaba"]}
+{"audit": 3592, "lang": "pt", "text": "l envelope de sopa creme de cebola;", "ids": ["onion-soup-mix"]}
+{"audit": 3593, "lang": "pt", "text": "Licor de cacau.", "ids": ["cocoa-liqueur"]}
+{"audit": 3594, "lang": "pt", "text": "Líquido contido em uma lata de grão de bico (ou caixinha) de 280g (peso total)", "ids": ["aquafaba"]}
+{"audit": 3595, "lang": "pt", "text": "Mel de rapadura (opcional).", "ids": ["cane-syrup"], "reason": "Mel de rapadura is cane sugar syrup made from rapadura, rather than solid rapadura sugar."}
+{"audit": 3596, "lang": "pt", "text": "molho carioca;", "ids": ["carioca-sauce"]}
+{"audit": 3597, "lang": "pt", "text": "Pimenta do reino;", "ids": ["black-pepper"]}
+{"audit": 3598, "lang": "pt", "text": "Queijo Catupiry ( Pode-se Anular o Catupiry se Não Gostar ou Não Quiser Colocar)", "ids": ["catupiry"]}
+{"audit": 3599, "lang": "pt", "text": "recheio de sua preferência: carne-seca, queijo, manteiga, geleia etc.", "ids": ["carne-seca"], "reason": "The line offers preferred filling alternatives; retain the first option rather than requiring all the suggested fillings."}

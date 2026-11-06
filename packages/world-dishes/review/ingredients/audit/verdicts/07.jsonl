@@ -1,0 +1,200 @@
+{"audit": 1400, "lang": "fr", "text": "50 g de mie de pain rassis", "ids": ["bread"]}
+{"audit": 1401, "lang": "fr", "text": "500 g de brocciu frais", "ids": ["brocciu"]}
+{"audit": 1402, "lang": "fr", "text": "500 g de bucatini", "ids": ["bucatini"]}
+{"audit": 1403, "lang": "fr", "text": "500 g de haricots rouges (haricot azuki/hong dou)", "ids": ["azuki-beans"]}
+{"audit": 1404, "lang": "fr", "text": "500 g de pâte feuilletée (recette),", "ids": ["puff-pastry"]}
+{"audit": 1405, "lang": "fr", "text": "500 g de tomme de Cantal ou de Laguiole bien égouttée mais pas trop sèche,", "ids": ["cantal-cheese"]}
+{"audit": 1406, "lang": "fr", "text": "500 grammes de crème de marrons", "ids": ["chestnut-cream"]}
+{"audit": 1407, "lang": "fr", "text": "50ml d'alcool de fraise", "ids": ["strawberry-liqueur"]}
+{"audit": 1408, "lang": "fr", "text": "6 cuillerées à soupe de sirop de sucre de canne", "ids": ["cane-syrup"]}
+{"audit": 1409, "lang": "fr", "text": "6 cuillerées à soupe de sirop de sucre de canne,", "ids": ["cane-syrup"]}
+{"audit": 1410, "lang": "fr", "text": "6 tomates séchées conservées dans l’huile", "ids": ["sun-dried-tomatoes"]}
+{"audit": 1411, "lang": "fr", "text": "6 tomates séchées conservées dans l’huile,", "ids": ["sun-dried-tomatoes"]}
+{"audit": 1412, "lang": "fr", "text": "60 g de perles du Japon", "ids": ["tapioca-pearls"], "reason": "Perles du Japon are tapioca pearls, not pasta."}
+{"audit": 1413, "lang": "fr", "text": "60 à 80 g de brocciu sec, dessalé puis écrasé à la fourchette", "ids": ["brocciu"]}
+{"audit": 1414, "lang": "fr", "text": "600 g de sucre perlé (gros).", "ids": ["pearl-sugar"]}
+{"audit": 1415, "lang": "fr", "text": "75 g de sucre râpé", "ids": ["sugar"]}
+{"audit": 1416, "lang": "fr", "text": "75 g de truffes noires hachées ;", "ids": ["black-truffle"]}
+{"audit": 1417, "lang": "fr", "text": "8 nems", "ids": ["spring-rolls"]}
+{"audit": 1418, "lang": "fr", "text": "accompagnement de saucisse de veau pour les Röstis à la Saint-Galloise", "ids": ["veal-sausage"]}
+{"audit": 1419, "lang": "fr", "text": "basilic", "ids": ["basil"]}
+{"audit": 1420, "lang": "fr", "text": "billes de tapioca", "ids": ["tapioca-pearls"]}
+{"audit": 1421, "lang": "fr", "text": "boyaux.", "ids": ["sausage-casings"]}
+{"audit": 1422, "lang": "fr", "text": "Cantal", "ids": ["cantal"]}
+{"audit": 1423, "lang": "fr", "text": "Cinq piments africains", "ids": ["chili-peppers"]}
+{"audit": 1424, "lang": "fr", "text": "Cinq piments frais", "ids": ["chili-peppers"]}
+{"audit": 1425, "lang": "fr", "text": "crépine de porc", "ids": ["pork-caul"], "unusual": "Pork caul is retained as a real culinary ingredient."}
+{"audit": 1426, "lang": "fr", "text": "Curry, persil.", "ids": ["curry-powder", "parsley"]}
+{"audit": 1427, "lang": "fr", "text": "de la gelée de cuisson (vendu avec les pansettes)", "ids": ["cooking-gelatin"]}
+{"audit": 1428, "lang": "fr", "text": "des aiguilles de pin (un volume assez important)", "ids": [], "reason": "Read the full Éclade recipe: these dry pine needles are set alight and burned as cooking fuel, not eaten."}
+{"audit": 1429, "lang": "fr", "text": "Des champignons noirs", "ids": ["wood-ear-mushrooms"]}
+{"audit": 1430, "lang": "fr", "text": "Des poivrons de piquillo (pimiento del piquillo ou pimiento de piquillo)", "ids": ["piquillo-pepper"], "reason": "Piquillo peppers are explicitly named; use the existing specific id rather than assuming roasted generic peppers."}
+{"audit": 1431, "lang": "fr", "text": "deux jaunes d'œuf,", "ids": ["egg"]}
+{"audit": 1432, "lang": "fr", "text": "deux litres et demi d'eau", "ids": ["water"]}
+{"audit": 1433, "lang": "fr", "text": "environ 5 cuillères à soupe de vin cuit de poires (selon l'épaisseur du vin cuit)", "ids": ["pear-syrup"]}
+{"audit": 1434, "lang": "fr", "text": "farine pour le plan de travail", "ids": ["flour"]}
+{"audit": 1435, "lang": "fr", "text": "Feuilles d'haricot ou d'aubergine amère", "ids": ["bean-leaves"]}
+{"audit": 1436, "lang": "fr", "text": "fruits rouges et/ou amandes effilées et grillées et/ou vermicelles et/ou copeaux de chocolats...", "ids": ["red-berries"], "reason": "The and/or choices are alternatives; select the first red-berry garnish only."}
+{"audit": 1437, "lang": "fr", "text": "galette dure préparée sans huile (kisra).", "ids": ["kisra"]}
+{"audit": 1438, "lang": "fr", "text": "glands,", "ids": ["acorns"], "unusual": "Acorns are retained; flag for user review as an uncommon ingredient."}
+{"audit": 1439, "lang": "fr", "text": "graines de fenouil, gomasio, poivre, chapelure, huile d’arachide.", "ids": ["fennel-seed", "gomasio", "black-pepper", "breadcrumbs", "peanut-oil"]}
+{"audit": 1440, "lang": "fr", "text": "graines de ginkgo (peut être omis)", "ids": ["ginkgo-nuts"], "unusual": "Ginkgo nuts are retained; flag for user review as an uncommon ingredient."}
+{"audit": 1441, "lang": "fr", "text": "grana padano.", "ids": ["grana-padano"]}
+{"audit": 1442, "lang": "fr", "text": "jambu (cresson du para, appelée brède mafane à Madagascar, une variété originaire de l’Amazonie)", "ids": ["jambu"], "unusual": "Jambu / brède mafane is retained as a named culinary herb."}
+{"audit": 1443, "lang": "fr", "text": "Laurier, sel, poivre, baies de genièvre.", "ids": ["bay-leaf", "salt", "black-pepper", "juniper-berries"]}
+{"audit": 1444, "lang": "fr", "text": "le quart d'un maroilles", "ids": ["maroilles"]}
+{"audit": 1445, "lang": "fr", "text": "Mirabelles (compter 20 à 30 mirabelles par personne)", "ids": ["mirabelle-plums"]}
+{"audit": 1446, "lang": "fr", "text": "mouloukhiye hachée", "ids": ["molokhia"]}
+{"audit": 1447, "lang": "fr", "text": "oranges confites", "ids": ["candied-orange"]}
+{"audit": 1448, "lang": "fr", "text": "poisson séché.", "ids": ["dried-fish"]}
+{"audit": 1449, "lang": "fr", "text": "polenta", "ids": ["polenta"]}
+{"audit": 1450, "lang": "fr", "text": "poudre de nanoukou", "ids": ["nanoukou"], "unusual": "Nanoukou powder is retained; unusual local ingredient name merits a descriptive catalog review."}
+{"audit": 1451, "lang": "fr", "text": "pâte de tamarin (ou sinon citron),", "ids": ["tamarind-paste"]}
+{"audit": 1452, "lang": "fr", "text": "Quelques centilitres de thé (thé au cynorhodon, idéalement)", "ids": ["rosehip-tea"]}
+{"audit": 1453, "lang": "fr", "text": "raisin, pommes, poires", "ids": ["grapes", "apple", "pears"]}
+{"audit": 1454, "lang": "fr", "text": "Sauce de poisson « nam pla » ou « nuoc mam »", "ids": ["fish-sauce"]}
+{"audit": 1455, "lang": "fr", "text": "sauce de soja", "ids": ["soy-sauce"]}
+{"audit": 1456, "lang": "fr", "text": "sauce pour nem (vendue en boutique spécialisée en bouteille de 1 litre, plus économique qu'en grande surface)", "ids": ["nem-sauce"]}
+{"audit": 1457, "lang": "fr", "text": "saucisse de Montbéliard", "ids": ["montbeliard-sausage"]}
+{"audit": 1458, "lang": "fr", "text": "saucisse de Morteau", "ids": ["morteau-sausage"]}
+{"audit": 1459, "lang": "fr", "text": "sel, poivre, gomasio, chapelure, huile d’arachide.", "ids": ["salt", "black-pepper", "gomasio", "breadcrumbs", "peanut-oil"]}
+{"audit": 1460, "lang": "fr", "text": "sucre en poudre.", "ids": ["sugar"]}
+{"audit": 1461, "lang": "fr", "text": "tucupi (un bouillon fait avec du jus de manioc)", "ids": ["tucupi"], "unusual": "Tucupi cassava broth is retained; flag for user review as an uncommon ingredient."}
+{"audit": 1462, "lang": "fr", "text": "Un peu de Chartreuse verte", "ids": ["chartreuse"]}
+{"audit": 1463, "lang": "fr", "text": "un poivron vert, tranché", "ids": ["bell-pepper"]}
+{"audit": 1464, "lang": "fr", "text": "une botte de persicaire (boutiques chinoises/vietnamiennes)", "ids": ["vietnamese-coriander"]}
+{"audit": 1465, "lang": "fr", "text": "une cuillère à café d'eau de vie de myrte, de cédrat ou de cointreau.", "ids": ["myrtle-liqueur"]}
+{"audit": 1466, "lang": "fr", "text": "Une cuillère à soupe de pâte de curry jaune ou massaman,", "ids": ["yellow-curry-paste"]}
+{"audit": 1467, "lang": "fr", "text": "Une poignée d'akpi", "ids": ["akpi"]}
+{"audit": 1468, "lang": "fr", "text": "Une poignée de champignons noirs", "ids": ["wood-ear-mushrooms"]}
+{"audit": 1469, "lang": "fr", "text": "une poignée de persil", "ids": ["parsley"]}
+{"audit": 1470, "lang": "fr", "text": "Viande de brousse de votre choix", "ids": ["bushmeat"], "unusual": "Bushmeat is retained; generic wild-animal meat merits user review."}
+{"audit": 1471, "lang": "fr", "text": "Viande de brousse ou 5 gros poissons silures fumés", "ids": ["bushmeat"], "unusual": "Bushmeat is the first alternative and is retained for user review."}
+{"audit": 1472, "lang": "fr", "text": "viande de cheval", "ids": ["horse"], "unusual": "Horse meat is retained and flagged for user review."}
+{"audit": 1473, "lang": "fr", "text": "½ c. à café de graines de fenugrec", "ids": ["fenugreek-seed"]}
+{"audit": 1474, "lang": "fr", "text": "⅞ d'une tasse d'eau (220 mL)", "ids": ["water"]}
+{"audit": 1475, "lang": "hu", "text": "(1 avokádó)", "ids": ["avocado"]}
+{"audit": 1476, "lang": "hu", "text": "(esetleg erős paprika, ízlés szerint) és ha van, körülbelül 2 l abalé esetleg még egy darab hasaalja szalonna.", "ids": ["paprika", "abale", "pork-belly"], "unusual": "Abalé is pork-poaching broth; retain the reader id but its English name Abale should be clarified."}
+{"audit": 1477, "lang": "hu", "text": "(esetleg erős paprika, ízlés szerint) és ha van, körülbelül 2 liter abalé, esetleg még egy darab hasaalja szalonna.", "ids": ["paprika", "abale", "pork-belly"], "unusual": "Abalé is pork-poaching broth; retain the reader id but its English name Abale should be clarified."}
+{"audit": 1478, "lang": "hu", "text": "0,5 dl savanyúkáposzta-lé,", "ids": ["sauerkraut-juice"]}
+{"audit": 1479, "lang": "hu", "text": "0,5 dl tejszín", "ids": ["cream"]}
+{"audit": 1480, "lang": "hu", "text": "0,5 kg konzervlazac,", "ids": ["canned-salmon"]}
+{"audit": 1481, "lang": "hu", "text": "0,5 liternyi kovászosuborka-lé", "ids": ["pickle-brine"]}
+{"audit": 1482, "lang": "hu", "text": "0,5-1 liter abalé", "ids": ["abale"], "unusual": "Abalé is pork-poaching broth; retain the reader id but its English name Abale should be clarified."}
+{"audit": 1483, "lang": "hu", "text": "1 1/2 dl tej,", "ids": ["milk"]}
+{"audit": 1484, "lang": "hu", "text": "1 adag muszlinmártás", "ids": ["mousseline-sauce"]}
+{"audit": 1485, "lang": "hu", "text": "1 adag Remulád-mártás,", "ids": ["remoulade"]}
+{"audit": 1486, "lang": "hu", "text": "1 cs vaníliás cukor,", "ids": ["vanilla-sugar"], "reason": "Vaníliás cukor is vanilla sugar; the specific id preserves the named flavor."}
+{"audit": 1487, "lang": "hu", "text": "1 cs. Vadászmártás.", "ids": ["hunter-sauce"]}
+{"audit": 1488, "lang": "hu", "text": "1 csipet tárkony,", "ids": ["tarragon"]}
+{"audit": 1489, "lang": "hu", "text": "1 csipet zsálya", "ids": ["sage"]}
+{"audit": 1490, "lang": "hu", "text": "1 csokoládés tortalap", "ids": ["chocolate-sponge"]}
+{"audit": 1491, "lang": "hu", "text": "1 csomag kréker sós keksz", "ids": ["crackers"], "reason": "Kréker sós keksz means salted crackers generally, not specifically saltines."}
+{"audit": 1492, "lang": "hu", "text": "1 csomag petrezselyem apróra vágva", "ids": ["parsley"]}
+{"audit": 1493, "lang": "hu", "text": "1 csomag sertés vékonybél a töltéshez.", "ids": ["hog-casings"]}
+{"audit": 1494, "lang": "hu", "text": "1 csomag szójakocka,", "ids": ["soy-cubes"]}
+{"audit": 1495, "lang": "hu", "text": "1 csésze apróra vágott, kimagozott, levétől lecsöpögtetett őszibarackbefőtt,", "ids": ["peach-preserve"]}
+{"audit": 1496, "lang": "hu", "text": "1 csésze retekcsíra vagy lucernacsíra", "ids": ["radish-sprouts"]}
+{"audit": 1497, "lang": "hu", "text": "1 csésze víz", "ids": ["water"]}
+{"audit": 1498, "lang": "hu", "text": "1 db borjúvelő,", "ids": ["veal-brains"], "reason": "Borjúvelő means calf brains here; bone marrow would be csontvelő.", "unusual": "Veal brains are retained as a real ingredient and flagged for user review."}
+{"audit": 1499, "lang": "hu", "text": "1 db disznófej,", "ids": ["pork-head"], "unusual": "Pork head is retained as a real ingredient and flagged for user review."}
+{"audit": 1500, "lang": "hu", "text": "1 db filézett füstölt pisztráng (vagy bármilyen füstölt hal),", "ids": ["smoked-trout"]}
+{"audit": 1501, "lang": "hu", "text": "1 db kb. 1,20 kg spárgatök,", "ids": ["summer-squash"], "reason": "Hungarian spárgatök is the summer vegetable-marrow squash, not spaghetti squash."}
+{"audit": 1502, "lang": "hu", "text": "1 db közepes méretű fekete retek,", "ids": ["black-radish"]}
+{"audit": 1503, "lang": "hu", "text": "1 db közepes nagyságú sárgarépa,", "ids": ["carrot"]}
+{"audit": 1504, "lang": "hu", "text": "1 db sertésgyomor", "ids": ["pork-stomach"], "unusual": "Pork stomach is retained as a real ingredient and flagged for user review."}
+{"audit": 1505, "lang": "hu", "text": "1 disznófej,", "ids": ["pork-head"], "unusual": "Pork head is retained as a real ingredient and flagged for user review."}
+{"audit": 1506, "lang": "hu", "text": "1 dkg enyv,", "ids": [], "unusual": "Ajz recipe explicitly uses dissolved enyv with sugar, alum and potato flour. Animal glue material is named, but food grade is not established. Proposed animal-glue id requires parent/source decision; existing[] retained pending that decision.", "proposed": {"id": "animal-glue", "name": "Animal glue", "category": "other"}}
+{"audit": 1507, "lang": "hu", "text": "1 dkg fahéj", "ids": ["cinnamon"]}
+{"audit": 1508, "lang": "hu", "text": "1 dkg paprika püré,", "ids": ["red-pepper-paste"]}
+{"audit": 1509, "lang": "hu", "text": "1 dl ananászdzsem, (vagy eperdzsem)", "ids": ["pineapple-jam"]}
+{"audit": 1510, "lang": "hu", "text": "1 dl aszpik", "ids": ["aspic"]}
+{"audit": 1511, "lang": "hu", "text": "1 dl barna sör,", "ids": ["dark-beer"]}
+{"audit": 1512, "lang": "hu", "text": "1 dl bodza szörp,", "ids": ["elderflower-syrup"]}
+{"audit": 1513, "lang": "hu", "text": "1 dl cukorrépaszirup vagy méz", "ids": ["sugar-beet-syrup"]}
+{"audit": 1514, "lang": "hu", "text": "1 dl mogyorólikőr,", "ids": ["hazelnut-liqueur"]}
+{"audit": 1515, "lang": "hu", "text": "1 dl málnaecet.", "ids": ["raspberry-vinegar"]}
+{"audit": 1516, "lang": "hu", "text": "1 dl olaj, 2,5 dl víz.", "ids": ["vegetable-oil", "water"]}
+{"audit": 1517, "lang": "hu", "text": "1 dl olajos paprikalé", "ids": ["pickle-brine"], "reason": "Read both cabbage-salad recipes: this is the oily liquid from marinated pickled peppers, not oil flavored with ground paprika."}
+{"audit": 1518, "lang": "hu", "text": "1 dl rozspehely.", "ids": ["rye-flakes"]}
+{"audit": 1519, "lang": "hu", "text": "1 doboz (850 ml) trópusi gyümölcskoktél,", "ids": ["fruit-cocktail"]}
+{"audit": 1520, "lang": "hu", "text": "1 doboz gyorsfagyasztott leveles tészta,", "ids": ["puff-pastry"]}
+{"audit": 1521, "lang": "hu", "text": "1 doboz paradicsomfilé (250 g),", "ids": ["canned-tomatoes"], "reason": "A box of tomato fillets is canned tomatoes, not strained tomato purée."}
+{"audit": 1522, "lang": "hu", "text": "1 ek erdei vegyes íz (lekvár),", "ids": ["forest-fruit-jam"]}
+{"audit": 1523, "lang": "hu", "text": "1 ek narancsdzsem,", "ids": ["orange-jam"]}
+{"audit": 1524, "lang": "hu", "text": "1 ek pirospaprika,", "ids": ["paprika"]}
+{"audit": 1525, "lang": "hu", "text": "1 ek. rózsalikőr.", "ids": ["rose-liqueur"]}
+{"audit": 1526, "lang": "hu", "text": "1 ek. átszitált porcukor", "ids": ["powdered-sugar"], "reason": "Porcukor is powdered sugar, explicitly sifted here."}
+{"audit": 1527, "lang": "hu", "text": "1 ek. édes pirospaprika,", "ids": ["paprika"]}
+{"audit": 1528, "lang": "hu", "text": "1 evőkanál Créme de Cassis", "ids": ["cassis-liqueur"]}
+{"audit": 1529, "lang": "hu", "text": "1 evőkanál húskivonat.", "ids": ["meat-extract"]}
+{"audit": 1530, "lang": "hu", "text": "1 evőkanál konyak vagy áfonyaszörp", "ids": ["cognac"], "reason": "Vagy marks an alternative: choose the first cognac only."}
+{"audit": 1531, "lang": "hu", "text": "1 evőkanál olívaolaj,", "ids": ["olive-oil"]}
+{"audit": 1532, "lang": "hu", "text": "1 evőkanál szederszörp,", "ids": ["blackberry-syrup"]}
+{"audit": 1533, "lang": "hu", "text": "1 evőkanál tejpor (sovány)", "ids": ["skimmed-milk-powder"]}
+{"audit": 1534, "lang": "hu", "text": "1 evőkanál tojáslikőr,", "ids": ["advocaat"]}
+{"audit": 1535, "lang": "hu", "text": "1 fej fejes saláta.", "ids": ["lettuce"]}
+{"audit": 1536, "lang": "hu", "text": "1 füstölt angolna, (60-80 dkg)", "ids": ["smoked-eel"]}
+{"audit": 1537, "lang": "hu", "text": "1 füstölt makréla konzerv", "ids": ["canned-mackerel"]}
+{"audit": 1538, "lang": "hu", "text": "1 húsos zöldpaprika apróra vágva", "ids": ["bell-pepper"]}
+{"audit": 1539, "lang": "hu", "text": "1 kakas,", "ids": ["rooster"]}
+{"audit": 1540, "lang": "hu", "text": "1 kanál húskivonat,", "ids": ["meat-extract"]}
+{"audit": 1541, "lang": "hu", "text": "1 kapszula Yobiotik Brie sajtkultúra", "ids": ["cheese-culture"]}
+{"audit": 1542, "lang": "hu", "text": "1 kerek csokoládés piskótalap,", "ids": ["chocolate-sponge"]}
+{"audit": 1543, "lang": "hu", "text": "1 kg fehér káposzta,", "ids": ["cabbage"]}
+{"audit": 1544, "lang": "hu", "text": "1 kg fehér spárga,", "ids": ["white-asparagus"], "reason": "Fehér spárga explicitly names white asparagus; a specific id exists."}
+{"audit": 1545, "lang": "hu", "text": "1 kg rózsalevél,", "ids": ["rose-petal"]}
+{"audit": 1546, "lang": "hu", "text": "1 kg sötét szemű szőlő (pl. Otelló),", "ids": ["grapes"]}
+{"audit": 1547, "lang": "hu", "text": "1 kis doboz vagdalthús-konzerv,", "ids": ["canned-minced-meat"], "reason": "Vagdalthús-konzerv specifically names canned minced meat."}
+{"audit": 1548, "lang": "hu", "text": "1 kis gerezd zúzott fokhagyma", "ids": ["garlic"]}
+{"audit": 1549, "lang": "hu", "text": "1 kiskanál őrölt bazsalikom vagy 10 db friss bazsalikomlevél,", "ids": ["basil"]}
+{"audit": 1550, "lang": "hu", "text": "1 kk durvára tört rózsabors,", "ids": ["pink-peppercorn"]}
+{"audit": 1551, "lang": "hu", "text": "1 kk habfixáló por,", "ids": ["whip-stabilizer"]}
+{"audit": 1552, "lang": "hu", "text": "1 kocka margarin", "ids": ["margarine"]}
+{"audit": 1553, "lang": "hu", "text": "1 kocka margarin (25 dkg)", "ids": ["margarine"]}
+{"audit": 1554, "lang": "hu", "text": "1 kávéskanál borkénpor,", "ids": ["potassium-metabisulfite"], "reason": "Borkénpor is potassium metabisulfite used as a food preservative, not elemental sulfur; precise new id proposed and confirmed by another reader.", "unusual": "Preserving sulfite compound retained, precise proposed ingredient needs parent vocabulary addition.", "proposed": {"id": "potassium-metabisulfite", "name": "Potassium metabisulfite", "category": "other"}}
+{"audit": 1555, "lang": "hu", "text": "1 kávéskanál tartósító.", "ids": ["preservative"]}
+{"audit": 1556, "lang": "hu", "text": "1 késhegynyi őrölt szegfűszeg,", "ids": ["clove"]}
+{"audit": 1557, "lang": "hu", "text": "1 közepes patisszon,", "ids": ["patty-pan-squash"]}
+{"audit": 1558, "lang": "hu", "text": "1 lapos evőkanál szójatejpor, vagy teljes kiőrlésű liszt,", "ids": ["soy-milk-powder"]}
+{"audit": 1559, "lang": "hu", "text": "1 liba vagy kacsa vére, vagy ½ liter sertésvér,", "ids": ["goose-blood"], "unusual": "Goose blood is the first alternative; retained and flagged for user review."}
+{"audit": 1560, "lang": "hu", "text": "1 liba vére,", "ids": ["goose-blood"], "unusual": "Goose blood is retained and flagged for user review."}
+{"audit": 1561, "lang": "hu", "text": "1 marék apró libatepertő,", "ids": ["goose-cracklings"]}
+{"audit": 1562, "lang": "hu", "text": "1 marék dió", "ids": ["walnuts"]}
+{"audit": 1563, "lang": "hu", "text": "1 mokkáskanál kapormag (gyógynövényboltban kapható),", "ids": ["dill-seed"]}
+{"audit": 1564, "lang": "hu", "text": "1 mokkáskanál mézes sütemény fűszer", "ids": ["gingerbread-spice"]}
+{"audit": 1565, "lang": "hu", "text": "1 nagy padlizsán,", "ids": ["eggplant"]}
+{"audit": 1566, "lang": "hu", "text": "1 nagy paradicsom,", "ids": ["tomato"]}
+{"audit": 1567, "lang": "hu", "text": "1 pohár tejszín,", "ids": ["cream"]}
+{"audit": 1568, "lang": "hu", "text": "1 rumaroma,", "ids": ["rum-aroma"]}
+{"audit": 1569, "lang": "hu", "text": "1 szál zellerszár", "ids": ["celery"]}
+{"audit": 1570, "lang": "hu", "text": "1 szárnyas vére,", "ids": ["poultry-blood"], "unusual": "Poultry blood is retained and flagged for user review."}
+{"audit": 1571, "lang": "hu", "text": "1 tasak Dr. Oetker Tortabevonó", "ids": ["cake-coating"]}
+{"audit": 1572, "lang": "hu", "text": "1 tasak Jamaica Rum aroma", "ids": ["rum-aroma"]}
+{"audit": 1573, "lang": "hu", "text": "1 tasak pudingpor (eperízű)", "ids": ["strawberry-pudding-mix"], "reason": "Eperízű pudding powder explicitly specifies strawberry; the specific pudding-mix id exists."}
+{"audit": 1574, "lang": "hu", "text": "1 tasak vaníliás pudingpor", "ids": ["vanilla-pudding-mix"], "reason": "Vaníliás pudingpor explicitly specifies vanilla pudding mix."}
+{"audit": 1575, "lang": "hu", "text": "1 tasak vaníliás pudingpor,", "ids": ["vanilla-pudding-mix"], "reason": "Vaníliás pudingpor explicitly specifies vanilla pudding mix."}
+{"audit": 1576, "lang": "hu", "text": "1 teáskanál alap maszala", "ids": ["masala"]}
+{"audit": 1577, "lang": "hu", "text": "1 teáskanál szárított kapor,", "ids": ["dill"]}
+{"audit": 1578, "lang": "hu", "text": "1 teáskanál szójaolaj vagy olívabogyó", "ids": ["soybean-oil"]}
+{"audit": 1579, "lang": "hu", "text": "1 teáskanál sütőtök-pite fűszer (ez szerepel az eredeti receptben... talán megfelel a mézeskalács fűszer is)", "ids": ["pumpkin-pie-spice"]}
+{"audit": 1580, "lang": "hu", "text": "1 tk. frissen vágott petrezselyemzöld,", "ids": ["parsley"]}
+{"audit": 1581, "lang": "hu", "text": "1 tk. juharszirup", "ids": ["maple-syrup"]}
+{"audit": 1582, "lang": "hu", "text": "1 tk. pikáns fűszer,", "ids": ["spice-blend"]}
+{"audit": 1583, "lang": "hu", "text": "1 tk. Ras el hamad (fahéj és szárított rózsaszirom),", "ids": ["cinnamon", "dried-rose-petals"]}
+{"audit": 1584, "lang": "hu", "text": "1 tubus kolbászkrém,", "ids": ["sausage-spread"]}
+{"audit": 1585, "lang": "hu", "text": "1 tyúkhúsleves-kocka,", "ids": ["chicken-stock-cube"]}
+{"audit": 1586, "lang": "hu", "text": "1 tyúkhúsleveskocka,", "ids": ["chicken-stock-cube"]}
+{"audit": 1587, "lang": "hu", "text": "1 vagdalthús-konzerv,", "ids": ["canned-minced-meat"]}
+{"audit": 1588, "lang": "hu", "text": "1 zacskó citromízű tortazselé,", "ids": ["lemon-jelly-mix"]}
+{"audit": 1589, "lang": "hu", "text": "1 zacskó gombalevespor,", "ids": ["mushroom-soup-mix"]}
+{"audit": 1590, "lang": "hu", "text": "1 zsömle vagy 1 nagy szelet kenyér 1-2 dl tejbe áztatva (amennyit magába szív)", "ids": ["bread-bun", "milk"]}
+{"audit": 1591, "lang": "hu", "text": "1 zöldségleves kocka", "ids": ["vegetable-stock-cube"]}
+{"audit": 1592, "lang": "hu", "text": "1 zöldségleves kocka,", "ids": ["vegetable-stock-cube"]}
+{"audit": 1593, "lang": "hu", "text": "1 zöldségleveskocka,", "ids": ["vegetable-stock-cube"]}
+{"audit": 1594, "lang": "hu", "text": "1 ½ l káposztalé", "ids": ["sauerkraut-brine"]}
+{"audit": 1595, "lang": "hu", "text": "1 üveg csipkebogyó lekvár,", "ids": ["rosehip-jam"]}
+{"audit": 1596, "lang": "hu", "text": "1 üveg rumaroma,", "ids": ["rum-essence"]}
+{"audit": 1597, "lang": "hu", "text": "1 üveg vegyes gyümölcsbefőtt.", "ids": ["mixed-fruit-preserves"]}
+{"audit": 1598, "lang": "hu", "text": "1, 5 kg malaccomb", "ids": ["suckling-pig"]}
+{"audit": 1599, "lang": "hu", "text": "1,2 kg pulykamell,", "ids": ["turkey-breast"]}

@@ -1,0 +1,200 @@
+{"audit": 1800, "lang": "hu", "text": "4 ek aszalt meggy,", "ids": ["dried-sour-cherries"], "reason": "Aszalt meggy specifically means dried sour cherries; that more specific id exists."}
+{"audit": 1801, "lang": "hu", "text": "4 ek narancsszörp,", "ids": ["orange-syrup"]}
+{"audit": 1802, "lang": "hu", "text": "4 ek. majonéz,", "ids": ["mayonnaise"]}
+{"audit": 1803, "lang": "hu", "text": "4 ek. őszi- vagy sárgabaracklekvár", "ids": ["peach-jam"]}
+{"audit": 1804, "lang": "hu", "text": "4 ek.cappuccinopor,", "ids": ["cappuccino-powder"]}
+{"audit": 1805, "lang": "hu", "text": "4 evőkanál instant cappuccinopor", "ids": ["cappuccino-powder"]}
+{"audit": 1806, "lang": "hu", "text": "4 evőkanál lencsecsíra (a fotón)", "ids": ["lentil-sprouts"]}
+{"audit": 1807, "lang": "hu", "text": "4 evőkanál rózsadzsem,", "ids": ["rose-jam"]}
+{"audit": 1808, "lang": "hu", "text": "4 kis csirkemell", "ids": ["chicken"]}
+{"audit": 1809, "lang": "hu", "text": "4 sárgarépa", "ids": ["carrot"]}
+{"audit": 1810, "lang": "hu", "text": "4 sárgarépa,", "ids": ["carrot"]}
+{"audit": 1811, "lang": "hu", "text": "4 ágacska fekete üröm,", "ids": ["mugwort"], "reason": "Fekete üröm is mugwort, not absinthe wormwood.", "unusual": "Mugwort herb retained; unusual botanical ingredient for user review."}
+{"audit": 1812, "lang": "hu", "text": "4 érdes lepényhal- vagy lepényhal-filé (10-10 dkg),", "ids": ["flounder"]}
+{"audit": 1813, "lang": "hu", "text": "4-5 db zúza", "ids": ["poultry-gizzard"]}
+{"audit": 1814, "lang": "hu", "text": "4-6 szelet pulykamell filé,", "ids": ["turkey-breast"], "reason": "Pulykamell filé explicitly names turkey breast; a specific id exists."}
+{"audit": 1815, "lang": "hu", "text": "40 dkg baromfivirsli", "ids": ["poultry-sausage"]}
+{"audit": 1816, "lang": "hu", "text": "40 dkg fehér spárga", "ids": ["white-asparagus"]}
+{"audit": 1817, "lang": "hu", "text": "40 dkg idénygyümölcs,", "ids": ["seasonal-fruit"]}
+{"audit": 1818, "lang": "hu", "text": "40 dkg juhtúró,", "ids": ["sheep-curd"]}
+{"audit": 1819, "lang": "hu", "text": "40 dkg marhamáj,", "ids": ["beef-liver"]}
+{"audit": 1820, "lang": "hu", "text": "40 dkg savanyú káposzta,", "ids": ["sauerkraut"]}
+{"audit": 1821, "lang": "hu", "text": "40 ml Cherry Brandy.", "ids": ["cherry-brandy"]}
+{"audit": 1822, "lang": "hu", "text": "450 g egres,", "ids": ["gooseberries"]}
+{"audit": 1823, "lang": "hu", "text": "5 cl olaj.", "ids": ["vegetable-oil"]}
+{"audit": 1824, "lang": "hu", "text": "5 cl rostos szilvalé,", "ids": ["plum-juice"]}
+{"audit": 1825, "lang": "hu", "text": "5 cl szilvapálinka", "ids": ["plum-brandy"]}
+{"audit": 1826, "lang": "hu", "text": "5 cső száraz édes paprika", "ids": ["dried-sweet-pepper"]}
+{"audit": 1827, "lang": "hu", "text": "5 dkg gorgonzola (vagy rokfort) sajt.", "ids": ["gorgonzola"], "reason": "The first option is Gorgonzola, with Roquefort only an alternative; Gorgonzola has its own id."}
+{"audit": 1828, "lang": "hu", "text": "5 dkg gyors fa­gyasztott paraj,", "ids": ["spinach"]}
+{"audit": 1829, "lang": "hu", "text": "5 dkg reszelt tészta,", "ids": ["egg-noodles"], "reason": "Reszelt tészta is grated egg-noodle/soup pasta, not pastry dough."}
+{"audit": 1830, "lang": "hu", "text": "5 dkg tisztított fehér mandula,", "ids": ["almonds"]}
+{"audit": 1831, "lang": "hu", "text": "5 dkg tortadara", "ids": ["sprinkles"], "reason": "Tortadara means decorative cake sprinkles, not crumbs of sponge cake; the line does not specify a color or chocolate type."}
+{"audit": 1832, "lang": "hu", "text": "5 evőkanál konyak (én 2 adag konyak aromát használtam helyette)", "ids": ["cognac"]}
+{"audit": 1833, "lang": "hu", "text": "5 fűszer keverék,", "ids": ["five-spice"], "reason": "The line names five-spice mix; the specific five-spice id exists."}
+{"audit": 1834, "lang": "hu", "text": "5 g salétromsó", "ids": ["saltpeter"], "unusual": "Saltpeter curing salt retained for user decision."}
+{"audit": 1835, "lang": "hu", "text": "5-6 db alma,", "ids": ["apple"]}
+{"audit": 1836, "lang": "hu", "text": "50 dkg borjú vesepecsenye,", "ids": ["veal"], "reason": "Borjú vesepecsenye is veal tenderloin, not kidney; use veal because no veal-tenderloin id exists."}
+{"audit": 1837, "lang": "hu", "text": "50 dkg borjúbríz (borjúmirigy)", "ids": ["veal-sweetbread"], "reason": "Borjúbríz explicitly specifies veal sweetbread; the more specific id exists."}
+{"audit": 1838, "lang": "hu", "text": "50 dkg borjúdió,", "ids": ["veal"], "reason": "Borjúdió is a veal leg/round cut, not a thymus/pancreas sweetbread."}
+{"audit": 1839, "lang": "hu", "text": "50 dkg csirkezúza,", "ids": ["chicken-gizzard"]}
+{"audit": 1840, "lang": "hu", "text": "50 dkg csont,", "ids": ["bones"]}
+{"audit": 1841, "lang": "hu", "text": "50 dkg hagyma,", "ids": ["onion"]}
+{"audit": 1842, "lang": "hu", "text": "50 dkg halbelső,", "ids": ["fish-offal"], "reason": "Halbelső means fish innards/offal, not beef. New precise seafood ingredient needed.", "unusual": "Fish offal retained as a real ingredient, with corrected identity."}
+{"audit": 1843, "lang": "hu", "text": "50 dkg libazúza,", "ids": ["goose-gizzard"]}
+{"audit": 1844, "lang": "hu", "text": "50 dkg májas hurka,", "ids": ["liver-sausage"]}
+{"audit": 1845, "lang": "hu", "text": "50 dkg pulykamáj (szív nélkül),", "ids": ["turkey-liver"]}
+{"audit": 1846, "lang": "hu", "text": "50 dkg pulykamáj,", "ids": ["turkey-liver"]}
+{"audit": 1847, "lang": "hu", "text": "50 dkg szárított őszibarack", "ids": ["dried-peach"]}
+{"audit": 1848, "lang": "hu", "text": "50 dkg sárgaborsó,", "ids": ["yellow-split-peas"], "reason": "Hungarian sárgaborsó is the dried yellow split-pea ingredient, which has a precise existing id."}
+{"audit": 1849, "lang": "hu", "text": "50 dkg tarhonya,", "ids": ["tarhonya"]}
+{"audit": 1850, "lang": "hu", "text": "50 dkg tisztított reszelt alma,", "ids": ["apple"]}
+{"audit": 1851, "lang": "hu", "text": "50 ml kókuszlikőr, pl. Batida de coco", "ids": ["coconut-liqueur"]}
+{"audit": 1852, "lang": "hu", "text": "6 db savanyú uborka, (lehet több is, ki hogy szereti)", "ids": ["pickles"]}
+{"audit": 1853, "lang": "hu", "text": "6 dkg (2 szelet) párizsi felvágott,", "ids": ["parisian-sausage"]}
+{"audit": 1854, "lang": "hu", "text": "6 dkg aszalt alma", "ids": ["dried-apple"]}
+{"audit": 1855, "lang": "hu", "text": "6 dkg borkénpor", "ids": ["potassium-metabisulfite"], "reason": "Borkénpor is the potassium-metabisulfite preservative, not elemental sulfur. New precise ingredient needed.", "unusual": "Potassium-metabisulfite food preservative retained for user decision; corrected from sulfur."}
+{"audit": 1856, "lang": "hu", "text": "6 dkg csípős fűszerpaprika,", "ids": ["hot-paprika"]}
+{"audit": 1857, "lang": "hu", "text": "6 evőkanál csipkebogyólekvár,", "ids": ["rosehip-jam"]}
+{"audit": 1858, "lang": "hu", "text": "6 evőkanál mentalikőr", "ids": ["mint-liqueur"]}
+{"audit": 1859, "lang": "hu", "text": "6 evőkanál málnalikőr", "ids": ["raspberry-liqueur"]}
+{"audit": 1860, "lang": "hu", "text": "6 evőkanál olaj,", "ids": ["vegetable-oil"]}
+{"audit": 1861, "lang": "hu", "text": "6 evőkanál tojáslikőr", "ids": ["egg-liqueur"]}
+{"audit": 1862, "lang": "hu", "text": "6 vastag szelet májas hurka,", "ids": ["liver-sausage"]}
+{"audit": 1863, "lang": "hu", "text": "60 dkg fekete retek", "ids": ["black-radish"]}
+{"audit": 1864, "lang": "hu", "text": "60 dkg fekete retek,", "ids": ["black-radish"]}
+{"audit": 1865, "lang": "hu", "text": "60 dkg fűszerpaprikás körözött,", "ids": ["cheese-spread", "paprika"], "reason": "Körözött is a prepared cheese spread, explicitly paprika-seasoned here, rather than a generic cheese block."}
+{"audit": 1866, "lang": "hu", "text": "60 dkg gomba,", "ids": ["mushroom"]}
+{"audit": 1867, "lang": "hu", "text": "60 dkg grillázsfagylalt,", "ids": ["praline-ice-cream"]}
+{"audit": 1868, "lang": "hu", "text": "60 dkg leveszöldség,", "ids": ["soup-greens"]}
+{"audit": 1869, "lang": "hu", "text": "60 dkg metélőhagymás körözött,", "ids": ["cheese-spread", "chives"]}
+{"audit": 1870, "lang": "hu", "text": "60 dkg málnafagylalt,", "ids": ["raspberry-ice-cream"]}
+{"audit": 1871, "lang": "hu", "text": "60 dkg vadhús (őz, szarvas, nyúl),", "ids": ["game-meat"]}
+{"audit": 1872, "lang": "hu", "text": "60 dkg vegyes leveszöldség", "ids": ["soup-greens"]}
+{"audit": 1873, "lang": "hu", "text": "60 dkg vásárolt mákfagylalt,", "ids": ["poppy-seed-ice-cream"]}
+{"audit": 1874, "lang": "hu", "text": "60 dkg vásárolt pisztáciafagylalt,", "ids": ["pistachio-ice-cream"]}
+{"audit": 1875, "lang": "hu", "text": "60 dkg vásárolt zöld-alma-fagylalt,", "ids": ["green-apple-ice-cream"]}
+{"audit": 1876, "lang": "hu", "text": "60 dkg őszibarackfagylalt,", "ids": ["peach-ice-cream"]}
+{"audit": 1877, "lang": "hu", "text": "7 csepp mandarin illóolaj,", "ids": ["mandarin-oil"]}
+{"audit": 1878, "lang": "hu", "text": "7 dkg tortabevonó étcsokoládé (tetejére)", "ids": ["dark-chocolate"], "reason": "Étcsokoládé explicitly specifies dark chocolate coating, not unspecified chocolate."}
+{"audit": 1879, "lang": "hu", "text": "7 dl ananász szörp", "ids": ["pineapple-syrup"]}
+{"audit": 1880, "lang": "hu", "text": "7 evőkanál száraz vermut,", "ids": ["dry-vermouth"]}
+{"audit": 1881, "lang": "hu", "text": "7-7 dkg kandírozott citromhéj, apróra vágott mazsola,", "ids": ["candied-lemon-peel", "raisins"]}
+{"audit": 1882, "lang": "hu", "text": "70 dkg keszeg,", "ids": ["common-bream"], "reason": "Hungarian keszeg in this food context is bream, not roach; use common-bream rather than the curated Wuchang-bream id."}
+{"audit": 1883, "lang": "hu", "text": "70-80 dkg (gyümölcs)cukor", "ids": ["fructose"]}
+{"audit": 1884, "lang": "hu", "text": "70-80 dkg ponty ikra,", "ids": ["carp-roe"]}
+{"audit": 1885, "lang": "hu", "text": "75 dkg túró,", "ids": ["quark"]}
+{"audit": 1886, "lang": "hu", "text": "8 db mag nélküli, édes mandarin (Clementine)", "ids": ["clementine"]}
+{"audit": 1887, "lang": "hu", "text": "8 dkg gyökér", "ids": ["parsley-root"], "reason": "Gyökér in Hungarian recipe shorthand names parsley root, not an unspecified mixture of root vegetables."}
+{"audit": 1888, "lang": "hu", "text": "8 dkg pisztáciafagylalt,", "ids": ["pistachio-ice-cream"]}
+{"audit": 1889, "lang": "hu", "text": "8 dkg szójapehely", "ids": ["soy-flakes"]}
+{"audit": 1890, "lang": "hu", "text": "8 dkg vaj vagy margarin", "ids": ["butter"]}
+{"audit": 1891, "lang": "hu", "text": "8 dl grapefruit lé,", "ids": ["grapefruit-juice"]}
+{"audit": 1892, "lang": "hu", "text": "8 ek tönkölydara,", "ids": ["spelt-semolina"]}
+{"audit": 1893, "lang": "hu", "text": "8 g csípős paprikakrém", "ids": ["hot-pepper-paste"]}
+{"audit": 1894, "lang": "hu", "text": "8 gombóc mandula fagylalt", "ids": ["almond-ice-cream"]}
+{"audit": 1895, "lang": "hu", "text": "8 szelet gyümölcskenyér", "ids": ["fruit-bread"]}
+{"audit": 1896, "lang": "hu", "text": "8 tojás szétválasztva.", "ids": ["egg"]}
+{"audit": 1897, "lang": "hu", "text": "8 tojás,", "ids": ["egg"]}
+{"audit": 1898, "lang": "hu", "text": "8 vastag szelet párizsi,", "ids": ["parisian-sausage"]}
+{"audit": 1899, "lang": "hu", "text": "8 vékony szelet (24 dkg) barna kenyér", "ids": ["brown-bread"]}
+{"audit": 1900, "lang": "hu", "text": "8,5-8,5 dkg aprított, pirított mandula, aprított, pirított dió, aprított, kandírozott gyömbér,", "ids": ["almonds", "walnuts", "candied-ginger"]}
+{"audit": 1901, "lang": "hu", "text": "80 dkg sertésdagadó,", "ids": ["pork-belly"], "reason": "Sertésdagadó is pork belly/flank, not pork cheek/jowl."}
+{"audit": 1902, "lang": "hu", "text": "80 g cukkíni fagyasztott", "ids": ["zucchini"]}
+{"audit": 1903, "lang": "hu", "text": "9 tönkölydara,", "ids": ["spelt-semolina"]}
+{"audit": 1904, "lang": "hu", "text": "A páchoz: mustárba kevés Erős-pistát keverj el", "ids": [], "reason": "This is an instruction to mix mustard and hot-pepper paste into a marinade, rather than an ingredient-list line."}
+{"audit": 1905, "lang": "hu", "text": "a tetejére porcukor", "ids": ["powdered-sugar"]}
+{"audit": 1906, "lang": "hu", "text": "a tálaláshoz narancsszörp.", "ids": ["orange-syrup"]}
+{"audit": 1907, "lang": "hu", "text": "ananászfagylalt", "ids": ["pineapple-ice-cream"]}
+{"audit": 1908, "lang": "hu", "text": "annyi szelet párizsi, ahány tojás,", "ids": ["parisian-sausage", "egg"]}
+{"audit": 1909, "lang": "hu", "text": "berkenye (jó sok)", "ids": ["rowan-berries"], "unusual": "Rowan berries retained as a real fruit ingredient for user review."}
+{"audit": 1910, "lang": "hu", "text": "bors, babérlevél,", "ids": ["black-pepper", "bay-leaf"]}
+{"audit": 1911, "lang": "hu", "text": "bármilyen idénygyümölcs", "ids": ["seasonal-fruit"]}
+{"audit": 1912, "lang": "hu", "text": "Bármilyen zöldség, ill. gyümölcs( ha illik a többi hozzávalóhoz)", "ids": ["seasonal-vegetables"]}
+{"audit": 1913, "lang": "hu", "text": "csipet bors, majoránna,", "ids": ["black-pepper", "marjoram"]}
+{"audit": 1914, "lang": "hu", "text": "csipet csili,", "ids": ["chili-powder"]}
+{"audit": 1915, "lang": "hu", "text": "cukkini", "ids": ["zucchini"]}
+{"audit": 1916, "lang": "hu", "text": "egy dl olívaolaj", "ids": ["olive-oil"]}
+{"audit": 1917, "lang": "hu", "text": "egy marék natúr magkeverék", "ids": ["seed-mix"]}
+{"audit": 1918, "lang": "hu", "text": "esetleg 1 kávéskanál pirospaprika.", "ids": ["paprika"]}
+{"audit": 1919, "lang": "hu", "text": "fajtánként 2-3 dkg rózsa, szegfű, primula, ibolya-szirmok metéltre vágva.", "ids": ["edible-flowers"], "unusual": "Mixed rose, carnation, primula and violet flower petals retained for user review."}
+{"audit": 1920, "lang": "hu", "text": "francia-saláta,", "ids": ["french-salad"]}
+{"audit": 1921, "lang": "hu", "text": "frissen reszelt szerecsendió,", "ids": ["nutmeg"]}
+{"audit": 1922, "lang": "hu", "text": "frissen tartó fólia.", "ids": []}
+{"audit": 1923, "lang": "hu", "text": "fél csomag sós pálcika (ropi),", "ids": ["pretzel"]}
+{"audit": 1924, "lang": "hu", "text": "fél dl befőttlé,", "ids": ["preserve-juice"]}
+{"audit": 1925, "lang": "hu", "text": "fél dl tejszín,", "ids": ["cream"]}
+{"audit": 1926, "lang": "hu", "text": "fél kg friss, vagy 2 csomag mirelit sárga-bab,", "ids": ["wax-beans"]}
+{"audit": 1927, "lang": "hu", "text": "fél kg haltej, halikra, vegyesen,", "ids": ["milt", "fish-roe"], "reason": "Haltej and halikra name both fish milt and roe; milt was omitted.", "unusual": "Fish milt retained alongside fish roe for user review."}
+{"audit": 1928, "lang": "hu", "text": "fél kg lencse,", "ids": ["lentil"]}
+{"audit": 1929, "lang": "hu", "text": "Fél kg sárgaborsó,", "ids": ["yellow-split-peas"], "reason": "Sárgaborsó specifies dried yellow split peas; the more specific existing id is available."}
+{"audit": 1930, "lang": "hu", "text": "fél l paradicsompüré,", "ids": ["tomato-puree"], "reason": "The line names half a litre of tomato puree; do not replace it with concentrated tomato paste."}
+{"audit": 1931, "lang": "hu", "text": "fél liter leveslé.", "ids": ["stock"], "reason": "Leveslé is generic soup stock, synonymous with the established stock ingredient."}
+{"audit": 1932, "lang": "hu", "text": "fél mk zellerfűszersó,", "ids": ["celery-salt"], "reason": "Zellerfűszersó is one celery-salt seasoning, not an additional separate plain-salt ingredient."}
+{"audit": 1933, "lang": "hu", "text": "Félliteres üveg csalamádé,", "ids": ["pickled-vegetables"]}
+{"audit": 1934, "lang": "hu", "text": "félliternyi erőleves (leveskockából is jó),", "ids": ["stock"], "reason": "Erőleves here is prepared broth/stock, with a stock cube merely an alternative preparation."}
+{"audit": 1935, "lang": "hu", "text": "gabona kása.", "ids": ["cereal"]}
+{"audit": 1936, "lang": "hu", "text": "gomba 2-3 db,", "ids": ["mushroom"]}
+{"audit": 1937, "lang": "hu", "text": "grill zöldség mediterrán fűszerkeverék", "ids": ["mediterranean-herbs"]}
+{"audit": 1938, "lang": "hu", "text": "gyümölcslekvár", "ids": ["fruit-jam"]}
+{"audit": 1939, "lang": "hu", "text": "gyümölcsíz", "ids": ["fruit-jam"]}
+{"audit": 1940, "lang": "hu", "text": "gyümölcsíz (lekvár), vajas vagy margarinos krém a töltéshez", "ids": ["fruit-jam", "buttercream"], "reason": "The filling is fruit jam and a butter-based cream, not plain butter; margarine is an alternative to butter."}
+{"audit": 1941, "lang": "hu", "text": "görög fűszerkeverék", "ids": ["greek-seasoning"]}
+{"audit": 1942, "lang": "hu", "text": "házi savanyúság: zöld paradicsom, káposztával töltött paprika, ecetes almapaprika, stb.", "ids": ["pickled-vegetables"], "reason": "The vegetables listed are examples of prepared homemade pickles, not additional raw tomato, cabbage and pepper shopping ingredients."}
+{"audit": 1943, "lang": "hu", "text": "izsóp,", "ids": ["hyssop"], "unusual": "Hyssop herb retained for user review."}
+{"audit": 1944, "lang": "hu", "text": "kalcium-klorid 10 liter tejhez/ 1-1,5 gramm", "ids": ["calcium-chloride"], "unusual": "Calcium chloride for cheesemaking retained for user decision."}
+{"audit": 1945, "lang": "hu", "text": "karamellfagylalt rumban áztatott mazsolával,", "ids": ["caramel-ice-cream", "rum", "raisins"]}
+{"audit": 1946, "lang": "hu", "text": "karobmáz.", "ids": ["carob-glaze"], "reason": "Karobmáz is prepared carob glaze, not raw carob. New precise sweetener ingredient needed."}
+{"audit": 1947, "lang": "hu", "text": "kb 0,5 közepes nagyságú burgonya reszelve,", "ids": ["potato"]}
+{"audit": 1948, "lang": "hu", "text": "kevés durvára vágott dió.", "ids": ["walnuts"]}
+{"audit": 1949, "lang": "hu", "text": "kevés gyömbérpor.", "ids": ["ginger-powder"]}
+{"audit": 1950, "lang": "hu", "text": "kevés szójaolaj (vagy olívaolaj)", "ids": ["soybean-oil"]}
+{"audit": 1951, "lang": "hu", "text": "kis csomag szárított narancsvirág,", "ids": ["orange-blossom"], "unusual": "Dried orange blossoms retained as a culinary floral ingredient."}
+{"audit": 1952, "lang": "hu", "text": "kis darabka zeller és karalábé),", "ids": ["celeriac", "kohlrabi"], "reason": "A small piece of zeller alongside kohlrabi in Hungarian cooking refers to celery root/celeriac, not celery stalks."}
+{"audit": 1953, "lang": "hu", "text": "kis üveg (fél liter) meggybefőtt, kis üveg (fél liter) csalamádé,", "ids": ["sour-cherry", "pickled-vegetables"]}
+{"audit": 1954, "lang": "hu", "text": "Krém: 2 vaníliás puding", "ids": ["vanilla-pudding"]}
+{"audit": 1955, "lang": "hu", "text": "Krémhez: 1 csomag vaníliás puding", "ids": ["vanilla-pudding-mix"], "reason": "A packet of vanilla pudding in this ingredient line is dry pudding mix, not a ready-made bowl of pudding."}
+{"audit": 1956, "lang": "hu", "text": "késhegynyi gyömbérpor,", "ids": ["ginger-powder"]}
+{"audit": 1957, "lang": "hu", "text": "késhegynyi szódabikarbóna,", "ids": ["baking-soda"]}
+{"audit": 1958, "lang": "hu", "text": "kész réteslap,", "ids": ["strudel-sheets"]}
+{"audit": 1959, "lang": "hu", "text": "kínai kel, karalábé,", "ids": ["napa-cabbage", "kohlrabi"], "reason": "Kínai kel means Chinese/Napa cabbage, not Chinese kale/gai lan."}
+{"audit": 1960, "lang": "hu", "text": "l szál kóser kolbász.", "ids": ["kosher-sausage"]}
+{"audit": 1961, "lang": "hu", "text": "ledarált füstölt sonka", "ids": ["ham"]}
+{"audit": 1962, "lang": "hu", "text": "legalább 1 liter olaj", "ids": ["vegetable-oil"]}
+{"audit": 1963, "lang": "hu", "text": "levesgyöngy vagy pirított kenyérkockák", "ids": ["soup-pearls"], "reason": "Levesgyöngy are fried batter soup pearls, not boiled pasta; toasted bread cubes are only the second alternative. New grain ingredient needed."}
+{"audit": 1964, "lang": "hu", "text": "levestészta,", "ids": ["soup-pasta"]}
+{"audit": 1965, "lang": "hu", "text": "licsi konzerv,", "ids": ["lychee"]}
+{"audit": 1966, "lang": "hu", "text": "lucernalevél,", "ids": ["alfalfa"]}
+{"audit": 1967, "lang": "hu", "text": "mokkáskanálnyi őrölt fekete bors,", "ids": ["black-pepper"]}
+{"audit": 1968, "lang": "hu", "text": "néhány szem mogyoró, dió és mandula,", "ids": ["hazelnuts", "walnuts", "almonds"]}
+{"audit": 1969, "lang": "hu", "text": "néhány szem teaízesítő vagy késhegynyi citromsav,", "ids": ["tea-flavoring"]}
+{"audit": 1970, "lang": "hu", "text": "pici só és olaj", "ids": ["salt", "vegetable-oil"]}
+{"audit": 1971, "lang": "hu", "text": "piros paprikalekvár", "ids": ["pepper-jam"]}
+{"audit": 1972, "lang": "hu", "text": "pörkölt (bármilyen csont nélküli)", "ids": ["meat-stew"], "reason": "Pörkölt here is an already-cooked boneless meat stew, not raw stewing meat. New prepared protein ingredient needed."}
+{"audit": 1973, "lang": "hu", "text": "pörköltkrém,", "ids": ["stew-seasoning"]}
+{"audit": 1974, "lang": "hu", "text": "rizs,", "ids": ["rice"]}
+{"audit": 1975, "lang": "hu", "text": "Rizs- vagy burgonyaliszt", "ids": ["rice-flour"]}
+{"audit": 1976, "lang": "hu", "text": "saláta fűszerkeverék.", "ids": ["salad-seasoning"]}
+{"audit": 1977, "lang": "hu", "text": "sertés fül,", "ids": ["pork-ears"]}
+{"audit": 1978, "lang": "hu", "text": "Sertés köröm, sertés fül, sertés farok, bőrke,", "ids": ["pork-trotters", "pork-ears", "pork-tail", "pork-skin"], "reason": "Bőrke in this raw pork-parts list is pork skin, not prepared/fried pork rinds."}
+{"audit": 1979, "lang": "hu", "text": "steak fűszersó,", "ids": ["steak-seasoning"]}
+{"audit": 1980, "lang": "hu", "text": "Supréme mártás", "ids": ["supreme-sauce"]}
+{"audit": 1981, "lang": "hu", "text": "szemes bors, babér, piros arany, pörköltkrém,", "ids": ["black-pepper", "bay-leaf", "paprika-paste", "stew-seasoning"], "reason": "Piros Arany is paprika paste, not dry paprika powder; use the unbranded shopping ingredient."}
+{"audit": 1982, "lang": "hu", "text": "szójaszósz.", "ids": ["soy-sauce"]}
+{"audit": 1983, "lang": "hu", "text": "szükség szerint tönkölykorpa", "ids": ["spelt-bran"]}
+{"audit": 1984, "lang": "hu", "text": "sárgaborsóliszt,", "ids": ["yellow-pea-flour"]}
+{"audit": 1985, "lang": "hu", "text": "Só, bors, majoránna,", "ids": ["salt", "black-pepper", "marjoram"]}
+{"audit": 1986, "lang": "hu", "text": "só, bors, vadmenta (elhagyható)", "ids": ["salt", "black-pepper", "wild-mint"]}
+{"audit": 1987, "lang": "hu", "text": "só, bors, és ha van, 5-6 szem apróra vágott libatöpörtyű.", "ids": ["salt", "black-pepper", "goose-cracklings"]}
+{"audit": 1988, "lang": "hu", "text": "só, késhegynyi currypor,", "ids": ["salt", "curry-powder"], "reason": "Currypor explicitly names curry powder rather than generic curry."}
+{"audit": 1989, "lang": "hu", "text": "só, salátafűszer,", "ids": ["salt", "salad-seasoning"]}
+{"audit": 1990, "lang": "hu", "text": "sötét csokimáz, bonbon, cukorka, marcipán, baracklekvár", "ids": ["dark-chocolate", "candy", "marzipan", "apricot-jam"], "reason": "Sötét csokimáz names a dark-chocolate coating, so prefer dark-chocolate to unspecified chocolate."}
+{"audit": 1991, "lang": "hu", "text": "sütéshez olaj", "ids": ["vegetable-oil"]}
+{"audit": 1992, "lang": "hu", "text": "sütéshez olaj.", "ids": ["vegetable-oil"]}
+{"audit": 1993, "lang": "hu", "text": "sütőpapír, a díszítéshez koktélcseresznye és tejszínhab", "ids": ["cocktail-cherries", "whipped-cream"], "reason": "Tejszínhab is whipped cream, not plain cream; parchment remains excluded as equipment."}
+{"audit": 1994, "lang": "hu", "text": "tortabevonó", "ids": ["cake-coating"]}
+{"audit": 1995, "lang": "hu", "text": "tárkonyt", "ids": ["tarragon"]}
+{"audit": 1996, "lang": "hu", "text": "tökvirág,", "ids": ["squash-blossom"]}
+{"audit": 1997, "lang": "hu", "text": "tönkölydara,", "ids": ["spelt-semolina"], "reason": "Tönkölydara is spelt semolina, matching the other identical Hungarian term, rather than whole spelt groats."}
+{"audit": 1998, "lang": "hu", "text": "vagy valamilyen gyümölcs likőr", "ids": ["fruit-liqueur"]}
+{"audit": 1999, "lang": "hu", "text": "vanília por, biomargarin, karob por,", "ids": ["vanilla-powder", "margarine", "carob-powder"]}

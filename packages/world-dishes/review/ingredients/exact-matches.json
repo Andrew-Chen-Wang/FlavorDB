@@ -1,0 +1,29 @@
+{
+  "en": {
+    "bbq sauce": ["bbq-sauce"],
+    "flour": ["flour"],
+    "hot sauce": ["hot-sauce"],
+    "leek": ["leek"],
+    "mushroom": ["mushroom"]
+  },
+  "labels": {
+    "apple": ["apple"],
+    "black vinegar": ["black-vinegar"],
+    "cheddar": ["cheddar"],
+    "condensed milk": ["condensed-milk"],
+    "douchi": ["douchi"],
+    "flour": ["flour"],
+    "graham cracker": ["graham-cracker"],
+    "hot sauce": ["hot-sauce"],
+    "jalapeno": ["jalapeno"],
+    "lamb": ["lamb"],
+    "leek": ["leek"],
+    "mushroom": ["mushroom"],
+    "old bay": ["old-bay"],
+    "radish": ["radish"],
+    "shiitake": ["shiitake"],
+    "sichuan pepper": ["sichuan-pepper"],
+    "tianmianjiang": ["tianmianjiang"],
+    "tuna": ["tuna"]
+  }
+}

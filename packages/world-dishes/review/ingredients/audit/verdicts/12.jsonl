@@ -1,0 +1,200 @@
+{"audit": 2400, "lang": "labels", "text": "Cane Syrup", "ids": ["cane-syrup"]}
+{"audit": 2401, "lang": "labels", "text": "Cannabis", "ids": ["cannabis"], "unusual": "Cannabis retained for user decision; no removal made."}
+{"audit": 2402, "lang": "labels", "text": "cannabis seed", "ids": ["hemp-seed"]}
+{"audit": 2403, "lang": "labels", "text": "Capsicum baccatum", "ids": ["aji-pepper"]}
+{"audit": 2404, "lang": "labels", "text": "Carangidae", "ids": ["jack-fish"]}
+{"audit": 2405, "lang": "labels", "text": "Caranginae", "ids": ["jack-fish"]}
+{"audit": 2406, "lang": "labels", "text": "carrageenan", "ids": ["carrageenan"]}
+{"audit": 2407, "lang": "labels", "text": "carrot", "ids": ["carrot"]}
+{"audit": 2408, "lang": "labels", "text": "cashew apple", "ids": ["cashew-apple"]}
+{"audit": 2409, "lang": "labels", "text": "cassis", "ids": ["blackcurrant"]}
+{"audit": 2410, "lang": "labels", "text": "castor oil", "ids": ["castor-oil"], "unusual": "Castor oil retained as an unusual culinary listing for user decision."}
+{"audit": 2411, "lang": "labels", "text": "cat meat", "ids": ["cat-meat"], "unusual": "Cat meat retained for user decision."}
+{"audit": 2412, "lang": "labels", "text": "caul fat", "ids": ["caul-fat"]}
+{"audit": 2413, "lang": "labels", "text": "cazalla", "ids": ["cazalla"]}
+{"audit": 2414, "lang": "labels", "text": "Centella asiatica", "ids": ["centella"]}
+{"audit": 2415, "lang": "labels", "text": "cereal flakes", "ids": ["breakfast-cereal"]}
+{"audit": 2416, "lang": "labels", "text": "chamois meat", "ids": ["chamois"], "unusual": "Chamois meat retained as uncommon game meat for user decision."}
+{"audit": 2417, "lang": "labels", "text": "chamoy", "ids": ["chamoy"]}
+{"audit": 2418, "lang": "labels", "text": "Channa striata", "ids": ["snakehead"]}
+{"audit": 2419, "lang": "labels", "text": "Channidae", "ids": ["snakehead"]}
+{"audit": 2420, "lang": "labels", "text": "Chanos chanos", "ids": ["milkfish"]}
+{"audit": 2421, "lang": "labels", "text": "charmout", "ids": ["charmout"]}
+{"audit": 2422, "lang": "labels", "text": "Charqui", "ids": ["charqui"]}
+{"audit": 2423, "lang": "labels", "text": "Chartreuse", "ids": ["chartreuse"]}
+{"audit": 2424, "lang": "labels", "text": "cheesecake", "ids": ["cake"], "reason": "Cheesecake is prepared food, not equipment or a heading; cake is the available broad prepared-cake fallback, with no cheesecake id present."}
+{"audit": 2425, "lang": "labels", "text": "Cheesecloth", "ids": []}
+{"audit": 2426, "lang": "labels", "text": "Chenna", "ids": ["chenna"]}
+{"audit": 2427, "lang": "labels", "text": "chhena", "ids": ["chenna"]}
+{"audit": 2428, "lang": "labels", "text": "Chia Seed", "ids": ["chia-seeds"]}
+{"audit": 2429, "lang": "labels", "text": "chicken offal", "ids": ["chicken-offal"]}
+{"audit": 2430, "lang": "labels", "text": "chicken skin", "ids": ["chicken-skin"]}
+{"audit": 2431, "lang": "labels", "text": "Chikuwa", "ids": ["chikuwa"]}
+{"audit": 2432, "lang": "labels", "text": "Chilacayote", "ids": ["chilacayote"]}
+{"audit": 2433, "lang": "labels", "text": "Chinese liquorice", "ids": ["licorice-root"]}
+{"audit": 2434, "lang": "labels", "text": "Chinese softshell turtle", "ids": ["soft-shell-turtle"], "unusual": "Softshell turtle retained for user decision."}
+{"audit": 2435, "lang": "labels", "text": "chipilín", "ids": ["chipilin"]}
+{"audit": 2436, "lang": "labels", "text": "chirimen jako", "ids": ["chirimen-jako"]}
+{"audit": 2437, "lang": "labels", "text": "Chirocentrus", "ids": ["wolf-herring"]}
+{"audit": 2438, "lang": "labels", "text": "chrabąszcze majowe", "ids": ["may-beetle"], "unusual": "Polish chrabaszcze majowe means cockchafer/May beetles; retained for user decision."}
+{"audit": 2439, "lang": "labels", "text": "Chromis notata", "ids": ["chromis"]}
+{"audit": 2440, "lang": "labels", "text": "chub mackerel", "ids": ["chub-mackerel"]}
+{"audit": 2441, "lang": "labels", "text": "chunjang", "ids": ["chunjang"]}
+{"audit": 2442, "lang": "labels", "text": "Citrinos × clementina", "ids": ["clementine"]}
+{"audit": 2443, "lang": "labels", "text": "Citrullus colocynthis", "ids": ["colocynth"], "unusual": "Colocynth botanical ingredient retained as an unusual listing for user decision."}
+{"audit": 2444, "lang": "labels", "text": "Citrus", "ids": ["citrus"]}
+{"audit": 2445, "lang": "labels", "text": "citrus fruit", "ids": ["citrus"]}
+{"audit": 2446, "lang": "labels", "text": "Clitoria ternatea", "ids": ["butterfly-pea"]}
+{"audit": 2447, "lang": "labels", "text": "cloudberry", "ids": ["cloudberry"]}
+{"audit": 2448, "lang": "labels", "text": "cockle as food", "ids": ["cockles"]}
+{"audit": 2449, "lang": "labels", "text": "cocoa butter", "ids": ["cocoa-butter"]}
+{"audit": 2450, "lang": "labels", "text": "Coix lacryma-jobi", "ids": ["job-tears"]}
+{"audit": 2451, "lang": "labels", "text": "colorant alimentaire", "ids": ["food-coloring"], "reason": "French colorant alimentaire means food coloring, a real culinary ingredient."}
+{"audit": 2452, "lang": "labels", "text": "conch", "ids": ["conch"]}
+{"audit": 2453, "lang": "labels", "text": "congre", "ids": ["conger-eel"]}
+{"audit": 2454, "lang": "labels", "text": "conpoy", "ids": ["dried-scallop"]}
+{"audit": 2455, "lang": "labels", "text": "cookbook: Aji amarillo", "ids": ["aji-pepper"]}
+{"audit": 2456, "lang": "labels", "text": "cookbook:Dijon Mustard", "ids": ["dijon-mustard"], "reason": "The label specifically names Dijon mustard and that specific id exists."}
+{"audit": 2457, "lang": "labels", "text": "cookbook:Montreal Steak Seasoning", "ids": ["steak-seasoning"]}
+{"audit": 2458, "lang": "labels", "text": "cookbook:Red Chile Sauce", "ids": ["red-chile-sauce"]}
+{"audit": 2459, "lang": "labels", "text": "cookbook:Safflower Oil", "ids": ["safflower-oil"]}
+{"audit": 2460, "lang": "labels", "text": "cookbook:Seasoned Salt", "ids": ["seasoned-salt"]}
+{"audit": 2461, "lang": "labels", "text": "cookbook:Sesame Seed", "ids": ["sesame-seeds"]}
+{"audit": 2462, "lang": "labels", "text": "cookbook:sherry", "ids": ["sherry"]}
+{"audit": 2463, "lang": "labels", "text": "corn flakes", "ids": ["corn-flakes"], "reason": "The label names corn flakes and a corn-flakes id exists; breakfast cereal was unnecessarily broad."}
+{"audit": 2464, "lang": "labels", "text": "corn salad", "ids": ["corn-salad"]}
+{"audit": 2465, "lang": "labels", "text": "Cotija Cheese", "ids": ["cotija"]}
+{"audit": 2466, "lang": "labels", "text": "Cottonseed", "ids": ["cottonseed"], "unusual": "Cottonseed retained as an unusual ingredient listing for user decision."}
+{"audit": 2467, "lang": "labels", "text": "cottonseed oil", "ids": ["cottonseed-oil"]}
+{"audit": 2468, "lang": "labels", "text": "cow's trotters", "ids": ["beef-feet"]}
+{"audit": 2469, "lang": "labels", "text": "cowhide", "ids": ["cowhide"], "unusual": "Cowhide retained as a traditional prepared-food ingredient for user decision."}
+{"audit": 2470, "lang": "labels", "text": "Cowpea", "ids": ["cowpeas"]}
+{"audit": 2471, "lang": "labels", "text": "crab roe", "ids": ["crab-roe"]}
+{"audit": 2472, "lang": "labels", "text": "Cracker", "ids": ["crackers"]}
+{"audit": 2473, "lang": "labels", "text": "cranberry bean", "ids": ["cranberry-beans"]}
+{"audit": 2474, "lang": "labels", "text": "Cranberry Sauce", "ids": ["cranberry-sauce"]}
+{"audit": 2475, "lang": "labels", "text": "Crawfish", "ids": ["crawfish"]}
+{"audit": 2476, "lang": "labels", "text": "crayfish", "ids": ["crawfish"]}
+{"audit": 2477, "lang": "labels", "text": "crayfish as food", "ids": ["crawfish"]}
+{"audit": 2478, "lang": "labels", "text": "Cream of Wheat", "ids": ["cream-of-wheat"]}
+{"audit": 2479, "lang": "labels", "text": "croissant", "ids": ["croissant"]}
+{"audit": 2480, "lang": "labels", "text": "Crown Daisy", "ids": ["crown-daisy"]}
+{"audit": 2481, "lang": "labels", "text": "crozet", "ids": ["buckwheat-pasta"]}
+{"audit": 2482, "lang": "labels", "text": "Cryptotaenia japonica", "ids": ["mitsuba"]}
+{"audit": 2483, "lang": "labels", "text": "crépine de porc", "ids": ["caul-fat"]}
+{"audit": 2484, "lang": "labels", "text": "cupuaçu fruit", "ids": ["cupuacu"]}
+{"audit": 2485, "lang": "labels", "text": "curd", "ids": ["curd"]}
+{"audit": 2486, "lang": "labels", "text": "Cyttaria espinosae", "ids": ["cyttaria-mushroom"]}
+{"audit": 2487, "lang": "labels", "text": "cédrat", "ids": ["citron"]}
+{"audit": 2488, "lang": "labels", "text": "Dabeli Masala", "ids": ["dabeli-masala"]}
+{"audit": 2489, "lang": "labels", "text": "Daggertooth pike conger", "ids": ["pike-conger"]}
+{"audit": 2490, "lang": "labels", "text": "Dal", "ids": ["dal"]}
+{"audit": 2491, "lang": "labels", "text": "damson", "ids": ["damson"]}
+{"audit": 2492, "lang": "labels", "text": "date honey", "ids": ["date-syrup"]}
+{"audit": 2493, "lang": "labels", "text": "Date Syrup", "ids": ["date-syrup"]}
+{"audit": 2494, "lang": "labels", "text": "Datshi", "ids": ["datshi"]}
+{"audit": 2495, "lang": "labels", "text": "Dawadawa", "ids": ["dawadawa"]}
+{"audit": 2496, "lang": "labels", "text": "debrecener", "ids": ["debrecener"]}
+{"audit": 2497, "lang": "labels", "text": "Decapterus", "ids": ["scad"]}
+{"audit": 2498, "lang": "labels", "text": "dika nut", "ids": ["dika-nut"]}
+{"audit": 2499, "lang": "labels", "text": "diot", "ids": ["diot"]}
+{"audit": 2500, "lang": "labels", "text": "djon djon", "ids": ["djon-djon"]}
+{"audit": 2501, "lang": "labels", "text": "DL-lactic acid", "ids": ["lactic-acid"]}
+{"audit": 2502, "lang": "labels", "text": "doenjang", "ids": ["doenjang"]}
+{"audit": 2503, "lang": "labels", "text": "dog meat", "ids": ["dog-meat"], "unusual": "Dog meat retained for user decision."}
+{"audit": 2504, "lang": "labels", "text": "domesticated reindeer", "ids": ["reindeer"], "unusual": "Reindeer retained as uncommon game meat for user decision."}
+{"audit": 2505, "lang": "labels", "text": "donkey meat", "ids": ["donkey"], "unusual": "Donkey meat retained for user decision."}
+{"audit": 2506, "lang": "labels", "text": "donkey milk", "ids": ["donkey-milk"], "unusual": "Donkey milk retained for user decision."}
+{"audit": 2507, "lang": "labels", "text": "doradas", "ids": ["gilthead-bream"]}
+{"audit": 2508, "lang": "labels", "text": "Dripping", "ids": ["dripping"]}
+{"audit": 2509, "lang": "labels", "text": "Drippings", "ids": ["dripping"]}
+{"audit": 2510, "lang": "labels", "text": "dry sausage", "ids": ["dry-sausage"]}
+{"audit": 2511, "lang": "labels", "text": "duck egg", "ids": ["duck-egg"]}
+{"audit": 2512, "lang": "labels", "text": "Duck Stock", "ids": ["duck-broth"]}
+{"audit": 2513, "lang": "labels", "text": "Edam", "ids": ["edam"]}
+{"audit": 2514, "lang": "labels", "text": "edible bird's nest", "ids": ["bird-nest"], "unusual": "Edible bird nest retained for user decision."}
+{"audit": 2515, "lang": "labels", "text": "egusi", "ids": ["egusi"]}
+{"audit": 2516, "lang": "labels", "text": "Egusi Seed", "ids": ["egusi"]}
+{"audit": 2517, "lang": "labels", "text": "Ehuru", "ids": ["ehuru"]}
+{"audit": 2518, "lang": "labels", "text": "Eleusine coracana", "ids": ["finger-millet"]}
+{"audit": 2519, "lang": "labels", "text": "embutido", "ids": ["embutido"]}
+{"audit": 2520, "lang": "labels", "text": "emping", "ids": ["emping"]}
+{"audit": 2521, "lang": "labels", "text": "English muffin", "ids": ["english-muffin"]}
+{"audit": 2522, "lang": "labels", "text": "English Muffins", "ids": ["english-muffin"]}
+{"audit": 2523, "lang": "labels", "text": "Ensete ventricosum", "ids": ["ensete"]}
+{"audit": 2524, "lang": "labels", "text": "Epazote", "ids": ["epazote"]}
+{"audit": 2525, "lang": "labels", "text": "Epinephelus", "ids": ["grouper"]}
+{"audit": 2526, "lang": "labels", "text": "Etlingera coccinea", "ids": ["torch-ginger"]}
+{"audit": 2527, "lang": "labels", "text": "Etlingera elatior", "ids": ["torch-ginger"]}
+{"audit": 2528, "lang": "labels", "text": "Eulachon", "ids": ["eulachon"]}
+{"audit": 2529, "lang": "labels", "text": "European seabass", "ids": ["seabass"]}
+{"audit": 2530, "lang": "labels", "text": "Exocoetidae", "ids": ["flying-fish"]}
+{"audit": 2531, "lang": "labels", "text": "Fabes verdinas", "ids": ["fabes"]}
+{"audit": 2532, "lang": "labels", "text": "falukorv", "ids": ["falukorv"]}
+{"audit": 2533, "lang": "labels", "text": "farro", "ids": ["farro"]}
+{"audit": 2534, "lang": "labels", "text": "fennel leaves", "ids": ["fennel"]}
+{"audit": 2535, "lang": "labels", "text": "fenugrec", "ids": ["fenugreek"]}
+{"audit": 2536, "lang": "labels", "text": "fenugreek leaf", "ids": ["fenugreek-leaf"]}
+{"audit": 2537, "lang": "labels", "text": "fenugreek seed", "ids": ["fenugreek-seed"]}
+{"audit": 2538, "lang": "labels", "text": "fermented bean paste", "ids": ["fermented-bean-paste"]}
+{"audit": 2539, "lang": "labels", "text": "Fiddlehead", "ids": ["fiddlehead-fern"]}
+{"audit": 2540, "lang": "labels", "text": "filmjölk", "ids": ["filmjolk"]}
+{"audit": 2541, "lang": "labels", "text": "filé", "ids": ["file-powder"]}
+{"audit": 2542, "lang": "labels", "text": "fines herbes", "ids": ["fines-herbes"]}
+{"audit": 2543, "lang": "labels", "text": "Fish Oil", "ids": ["fish-oil"]}
+{"audit": 2544, "lang": "labels", "text": "fish paste", "ids": ["fish-paste"]}
+{"audit": 2545, "lang": "labels", "text": "Flammulina filiformis", "ids": ["enoki-mushroom"]}
+{"audit": 2546, "lang": "labels", "text": "Flathead", "ids": ["flathead"]}
+{"audit": 2547, "lang": "labels", "text": "Fleckerl", "ids": ["fleckerl-pasta"]}
+{"audit": 2548, "lang": "labels", "text": "Fluted Pumpkin", "ids": ["fluted-pumpkin"]}
+{"audit": 2549, "lang": "labels", "text": "Focaccia Genovese Dough", "ids": ["focaccia-dough"]}
+{"audit": 2550, "lang": "labels", "text": "foie gras", "ids": ["foie-gras"], "unusual": "Foie gras retained for user decision."}
+{"audit": 2551, "lang": "labels", "text": "fortified wine", "ids": ["fortified-wine"]}
+{"audit": 2552, "lang": "labels", "text": "Frangipane", "ids": ["frangipane"]}
+{"audit": 2553, "lang": "labels", "text": "Freekeh", "ids": ["freekeh"]}
+{"audit": 2554, "lang": "labels", "text": "fresh Tomme", "ids": ["tomme-cheese"]}
+{"audit": 2555, "lang": "labels", "text": "Fresh Seafood", "ids": ["seafood"]}
+{"audit": 2556, "lang": "labels", "text": "fried dough", "ids": ["dough"]}
+{"audit": 2557, "lang": "labels", "text": "Frog", "ids": ["frog"], "unusual": "Frog retained for user decision."}
+{"audit": 2558, "lang": "labels", "text": "frog legs", "ids": ["frog"], "unusual": "Frog legs retained for user decision."}
+{"audit": 2559, "lang": "labels", "text": "Fromage Frais", "ids": ["fromage-frais"]}
+{"audit": 2560, "lang": "labels", "text": "Frosting", "ids": ["frosting"]}
+{"audit": 2561, "lang": "labels", "text": "Fructose", "ids": ["fructose"]}
+{"audit": 2562, "lang": "labels", "text": "fruit preserves", "ids": ["fruit-preserves"]}
+{"audit": 2563, "lang": "labels", "text": "fécule", "ids": ["starch"]}
+{"audit": 2564, "lang": "labels", "text": "gac melon", "ids": ["gac-melon"]}
+{"audit": 2565, "lang": "labels", "text": "gai lan", "ids": ["gai-lan"]}
+{"audit": 2566, "lang": "labels", "text": "Galeorhinus galeus", "ids": ["school-shark"]}
+{"audit": 2567, "lang": "labels", "text": "galiameloen", "ids": ["galia-melon"]}
+{"audit": 2568, "lang": "labels", "text": "Garcinia atroviridis", "ids": ["garcinia"]}
+{"audit": 2569, "lang": "labels", "text": "Garcinia xanthochymus", "ids": ["garcinia"]}
+{"audit": 2570, "lang": "labels", "text": "Garcinia xanthochymus fruit", "ids": ["garcinia"]}
+{"audit": 2571, "lang": "labels", "text": "gardenia yellow", "ids": ["gardenia-yellow"]}
+{"audit": 2572, "lang": "labels", "text": "garri", "ids": ["garri"]}
+{"audit": 2573, "lang": "labels", "text": "Gaultheria procumbens", "ids": ["wintergreen"]}
+{"audit": 2574, "lang": "labels", "text": "geleisuiker", "ids": ["preserving-sugar"]}
+{"audit": 2575, "lang": "labels", "text": "gemberpoeder", "ids": ["ginger-powder"]}
+{"audit": 2576, "lang": "labels", "text": "Genypterus chilensis", "ids": ["kingklip"]}
+{"audit": 2577, "lang": "labels", "text": "Giant snakehead", "ids": ["snakehead"]}
+{"audit": 2578, "lang": "labels", "text": "Giardiniera", "ids": ["giardiniera"]}
+{"audit": 2579, "lang": "labels", "text": "Gizzard", "ids": ["gizzard"]}
+{"audit": 2580, "lang": "labels", "text": "glass eel", "ids": ["glass-eel"]}
+{"audit": 2581, "lang": "labels", "text": "glasswort", "ids": ["glasswort"]}
+{"audit": 2582, "lang": "labels", "text": "Glebionis coronaria", "ids": ["garland-chrysanthemum"]}
+{"audit": 2583, "lang": "labels", "text": "glucomannan", "ids": ["glucomannan"]}
+{"audit": 2584, "lang": "labels", "text": "Glucose", "ids": ["glucose"]}
+{"audit": 2585, "lang": "labels", "text": "glucose syrup", "ids": ["glucose-syrup"]}
+{"audit": 2586, "lang": "labels", "text": "Gluten-Free Flour", "ids": ["gluten-free-flour"]}
+{"audit": 2587, "lang": "labels", "text": "goat meat stock", "ids": ["goat-stock"]}
+{"audit": 2588, "lang": "labels", "text": "Gochugaru", "ids": ["gochugaru"]}
+{"audit": 2589, "lang": "labels", "text": "Gofio", "ids": ["gofio"]}
+{"audit": 2590, "lang": "labels", "text": "Goiabada", "ids": ["guava-paste"]}
+{"audit": 2591, "lang": "labels", "text": "goji", "ids": ["goji-berry"]}
+{"audit": 2592, "lang": "labels", "text": "gourd", "ids": ["gourd"]}
+{"audit": 2593, "lang": "labels", "text": "Graham flour", "ids": ["graham-flour"]}
+{"audit": 2594, "lang": "labels", "text": "Grana Cheese", "ids": ["cheese"], "reason": "Grana is a hard-cheese family; this generic label does not specify Grana Padano, so use the available broad cheese id."}
+{"audit": 2595, "lang": "labels", "text": "grana padano", "ids": ["grana-padano"]}
+{"audit": 2596, "lang": "labels", "text": "grape syrup", "ids": ["grape-syrup"]}
+{"audit": 2597, "lang": "labels", "text": "Grass Carp", "ids": ["grass-carp"]}
+{"audit": 2598, "lang": "labels", "text": "grass jelly", "ids": ["grass-jelly"]}
+{"audit": 2599, "lang": "labels", "text": "grasshopper", "ids": ["grasshopper"], "unusual": "Grasshopper retained as an edible-insect ingredient for user decision."}

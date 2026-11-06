@@ -1,0 +1,200 @@
+{"audit": 3000, "lang": "labels", "text": "soured milk", "ids": ["soured-milk"]}
+{"audit": 3001, "lang": "labels", "text": "Spaetzle", "ids": ["spaetzle"]}
+{"audit": 3002, "lang": "labels", "text": "Spam", "ids": ["spam"], "unusual": "Branded processed meat name (Spam); retained for the user’s shared-vocabulary naming decision."}
+{"audit": 3003, "lang": "labels", "text": "Spekesild", "ids": ["herring"], "reason": "Spekesild is salt-cured herring, not smoked herring; use the existing broad herring id because there is no salted-herring id."}
+{"audit": 3004, "lang": "labels", "text": "Sphyraena", "ids": ["barracuda"]}
+{"audit": 3005, "lang": "labels", "text": "Spicara maena", "ids": ["picarel"]}
+{"audit": 3006, "lang": "labels", "text": "Spicara smaris", "ids": ["picarel"]}
+{"audit": 3007, "lang": "labels", "text": "Spirulina", "ids": ["spirulina"]}
+{"audit": 3008, "lang": "labels", "text": "spleen", "ids": ["spleen"], "unusual": "Spleen/offal retained; list for the user’s decision on unusual ingredient coverage."}
+{"audit": 3009, "lang": "labels", "text": "spleen as food", "ids": ["spleen"], "unusual": "Spleen/offal retained; list for the user’s decision on unusual ingredient coverage."}
+{"audit": 3010, "lang": "labels", "text": "split chickpea", "ids": ["split-chickpeas"], "reason": "The input explicitly says split chickpea; the shared vocabulary has split-chickpeas."}
+{"audit": 3011, "lang": "labels", "text": "Spondias dulcis", "ids": ["ambarella"]}
+{"audit": 3012, "lang": "labels", "text": "Spreewaldsauce", "ids": ["spreewald-sauce"]}
+{"audit": 3013, "lang": "labels", "text": "spätzle", "ids": ["spaetzle"]}
+{"audit": 3014, "lang": "labels", "text": "Squalidae", "ids": ["dogfish"]}
+{"audit": 3015, "lang": "labels", "text": "squash blossom", "ids": ["squash-blossom"]}
+{"audit": 3016, "lang": "labels", "text": "starch", "ids": ["starch"]}
+{"audit": 3017, "lang": "labels", "text": "Stenochlaena palustris", "ids": ["fern"]}
+{"audit": 3018, "lang": "labels", "text": "sterlet", "ids": ["sterlet"]}
+{"audit": 3019, "lang": "labels", "text": "Stockfish", "ids": ["stockfish"]}
+{"audit": 3020, "lang": "labels", "text": "Stout", "ids": ["stout"]}
+{"audit": 3021, "lang": "labels", "text": "sturgeon", "ids": ["sturgeon"]}
+{"audit": 3022, "lang": "labels", "text": "sugar beet", "ids": ["sugar-beet"]}
+{"audit": 3023, "lang": "labels", "text": "sugo alla puttanesca", "ids": ["puttanesca-sauce"]}
+{"audit": 3024, "lang": "labels", "text": "Sulguni", "ids": ["sulguni"]}
+{"audit": 3025, "lang": "labels", "text": "Sumbala", "ids": ["sumbala"]}
+{"audit": 3026, "lang": "labels", "text": "sumiso", "ids": ["sumiso"]}
+{"audit": 3027, "lang": "labels", "text": "Suya Spice", "ids": ["suya-spice"]}
+{"audit": 3028, "lang": "labels", "text": "sweetbread", "ids": ["sweetbread"]}
+{"audit": 3029, "lang": "labels", "text": "Sweetfish", "ids": ["sweetfish"]}
+{"audit": 3030, "lang": "labels", "text": "Syzygium aqueum", "ids": ["water-apple"]}
+{"audit": 3031, "lang": "labels", "text": "Syzygium malaccense", "ids": ["malay-apple"], "reason": "New ingredient needed: Syzygium malaccense is Malay apple, distinct from the Syzygium aqueum water apple."}
+{"audit": 3032, "lang": "labels", "text": "sōmen", "ids": ["somen"]}
+{"audit": 3033, "lang": "labels", "text": "taco shell", "ids": ["taco-shell"]}
+{"audit": 3034, "lang": "labels", "text": "Tagetes minuta", "ids": ["huacatay"]}
+{"audit": 3035, "lang": "labels", "text": "tail fat", "ids": ["tail-fat"]}
+{"audit": 3036, "lang": "labels", "text": "tallarines", "ids": ["pasta"]}
+{"audit": 3037, "lang": "labels", "text": "Tangerine", "ids": ["tangerine"]}
+{"audit": 3038, "lang": "labels", "text": "tapai singkong", "ids": ["fermented-cassava"]}
+{"audit": 3039, "lang": "labels", "text": "tapenade", "ids": ["tapenade"]}
+{"audit": 3040, "lang": "labels", "text": "tare sauce", "ids": ["tare-sauce"]}
+{"audit": 3041, "lang": "labels", "text": "tartaric acid", "ids": ["tartaric-acid"]}
+{"audit": 3042, "lang": "labels", "text": "Tauco", "ids": ["tauco"]}
+{"audit": 3043, "lang": "labels", "text": "teff", "ids": ["teff"]}
+{"audit": 3044, "lang": "labels", "text": "teff flour", "ids": ["teff-flour"], "reason": "The input names flour rather than whole teff grain; teff-flour already exists."}
+{"audit": 3045, "lang": "labels", "text": "Tempero Baiano", "ids": ["tempero-baiano"]}
+{"audit": 3046, "lang": "labels", "text": "tentsuyu", "ids": ["tentsuyu"]}
+{"audit": 3047, "lang": "labels", "text": "Tenualosa ilisha", "ids": ["hilsa"]}
+{"audit": 3048, "lang": "labels", "text": "termite", "ids": ["termite"], "unusual": "Termites as an edible insect ingredient retained for the user’s decision."}
+{"audit": 3049, "lang": "labels", "text": "testicle", "ids": ["testicle"], "unusual": "Animal testicle/offal ingredient retained for the user’s decision."}
+{"audit": 3050, "lang": "labels", "text": "testicle as food", "ids": ["testicle"], "unusual": "Animal testicle/offal ingredient retained for the user’s decision."}
+{"audit": 3051, "lang": "labels", "text": "Tex Mex kruidenmix", "ids": ["tex-mex-spice"]}
+{"audit": 3052, "lang": "labels", "text": "Textured Vegetable Protein", "ids": ["tvp"]}
+{"audit": 3053, "lang": "labels", "text": "Thai basil", "ids": ["thai-basil"]}
+{"audit": 3054, "lang": "labels", "text": "Thua nao", "ids": ["thua-nao"]}
+{"audit": 3055, "lang": "labels", "text": "tiger penis", "ids": ["tiger-penis"], "unusual": "Tiger penis animal product retained and explicitly flagged for the user’s decision."}
+{"audit": 3056, "lang": "labels", "text": "Tilia leaf", "ids": ["linden-leaf"]}
+{"audit": 3057, "lang": "labels", "text": "Tkemali", "ids": ["tkemali"]}
+{"audit": 3058, "lang": "labels", "text": "Tocino", "ids": ["tocino"]}
+{"audit": 3059, "lang": "labels", "text": "tomato paste", "ids": ["tomato-paste"]}
+{"audit": 3060, "lang": "labels", "text": "tomato soup", "ids": ["tomato-soup"]}
+{"audit": 3061, "lang": "labels", "text": "Tomino", "ids": ["tomino-cheese"]}
+{"audit": 3062, "lang": "labels", "text": "tomme", "ids": ["tomme-cheese"]}
+{"audit": 3063, "lang": "labels", "text": "Tortelli", "ids": ["tortelli"]}
+{"audit": 3064, "lang": "labels", "text": "tortis", "ids": ["tortis"]}
+{"audit": 3065, "lang": "labels", "text": "trenette", "ids": ["trenette"]}
+{"audit": 3066, "lang": "labels", "text": "tsampa", "ids": ["tsampa"]}
+{"audit": 3067, "lang": "labels", "text": "tucupi", "ids": ["tucupi"]}
+{"audit": 3068, "lang": "labels", "text": "Tuma", "ids": ["tuma-cheese"]}
+{"audit": 3069, "lang": "labels", "text": "Turbinado Sugar", "ids": ["turbinado-sugar"]}
+{"audit": 3070, "lang": "labels", "text": "Turkish delight", "ids": ["turkish-delight"]}
+{"audit": 3071, "lang": "labels", "text": "turmeric leaf", "ids": ["turmeric-leaf"]}
+{"audit": 3072, "lang": "labels", "text": "turrón", "ids": ["nougat"]}
+{"audit": 3073, "lang": "labels", "text": "Tzatziki", "ids": ["tzatziki"]}
+{"audit": 3074, "lang": "labels", "text": "Ube", "ids": ["ube"]}
+{"audit": 3075, "lang": "labels", "text": "ube halaya", "ids": ["ube-jam"], "reason": "Ube halaya is the prepared sweet purple-yam jam, not raw ube; ube-jam already exists."}
+{"audit": 3076, "lang": "labels", "text": "Ugba", "ids": ["ugba"]}
+{"audit": 3077, "lang": "labels", "text": "Ugni molinae", "ids": ["chilean-guava"]}
+{"audit": 3078, "lang": "labels", "text": "Ullucus tuberosus", "ids": ["ulluco"]}
+{"audit": 3079, "lang": "labels", "text": "umeboshi", "ids": ["umeboshi"]}
+{"audit": 3080, "lang": "labels", "text": "uni", "ids": ["sea-urchin"]}
+{"audit": 3081, "lang": "labels", "text": "Urad Bean", "ids": ["urad-beans"]}
+{"audit": 3082, "lang": "labels", "text": "Urfa biber", "ids": ["urfa-pepper"]}
+{"audit": 3083, "lang": "labels", "text": "Urfa butter", "ids": ["butter"], "reason": "Urfa butter names the regional butter used in the walnut dessert Şıllık; it does not name Urfa chile pepper."}
+{"audit": 3084, "lang": "labels", "text": "Utazi", "ids": ["utazi-leaf"]}
+{"audit": 3085, "lang": "labels", "text": "vacherin", "ids": ["vacherin-cheese"]}
+{"audit": 3086, "lang": "labels", "text": "vacherin fribourgeois", "ids": ["vacherin-fribourgeois"], "reason": "The specific Fribourgeois cheese has an existing ingredient id; retain that specificity."}
+{"audit": 3087, "lang": "labels", "text": "Vacherin Mont-d'Or", "ids": ["vacherin-mont-dor"], "reason": "The specific Mont d’Or cheese has an existing ingredient id; retain that specificity."}
+{"audit": 3088, "lang": "labels", "text": "Vada", "ids": ["vada"], "reason": "New ingredient needed: Vada names a prepared fritter used by the source dishes, not raw lentils."}
+{"audit": 3089, "lang": "labels", "text": "Valtellina Casera PDO", "ids": ["valtellina-cheese"]}
+{"audit": 3090, "lang": "labels", "text": "vanilla sugar", "ids": ["vanilla-sugar"]}
+{"audit": 3091, "lang": "labels", "text": "vegan burger patty product", "ids": ["vegan-burger"]}
+{"audit": 3092, "lang": "labels", "text": "Vegemite", "ids": ["vegemite"]}
+{"audit": 3093, "lang": "labels", "text": "velouté sauce", "ids": ["veloute-sauce"]}
+{"audit": 3094, "lang": "labels", "text": "verjus", "ids": ["verjus"]}
+{"audit": 3095, "lang": "labels", "text": "Vi ranci", "ids": ["wine"], "reason": "Vi ranci identifies aged oxidative wine and does not by itself establish fortification; no specific rancio-wine id exists."}
+{"audit": 3096, "lang": "labels", "text": "Vigna mungo", "ids": ["urad-beans"]}
+{"audit": 3097, "lang": "labels", "text": "Vigna unguiculata", "ids": ["cowpea"]}
+{"audit": 3098, "lang": "labels", "text": "vin jaune", "ids": ["yellow-wine"]}
+{"audit": 3099, "lang": "labels", "text": "Vincotto", "ids": ["vincotto"]}
+{"audit": 3100, "lang": "labels", "text": "Vino cotto", "ids": ["vino-cotto"]}
+{"audit": 3101, "lang": "labels", "text": "Vleeskruiden", "ids": ["meat-seasoning"]}
+{"audit": 3102, "lang": "labels", "text": "Wafer Paper", "ids": ["wafer-paper"]}
+{"audit": 3103, "lang": "labels", "text": "waffle", "ids": ["waffle"]}
+{"audit": 3104, "lang": "labels", "text": "Walleye", "ids": ["walleye"]}
+{"audit": 3105, "lang": "labels", "text": "water buffalo", "ids": ["water-buffalo"]}
+{"audit": 3106, "lang": "labels", "text": "water buffalo milk", "ids": ["buffalo-milk"]}
+{"audit": 3107, "lang": "labels", "text": "Water Celery", "ids": ["water-celery"]}
+{"audit": 3108, "lang": "labels", "text": "Water Chestnut", "ids": ["water-chestnut"]}
+{"audit": 3109, "lang": "labels", "text": "waterleaf", "ids": ["waterleaf"]}
+{"audit": 3110, "lang": "labels", "text": "watermelon seed", "ids": ["watermelon-seeds"]}
+{"audit": 3111, "lang": "labels", "text": "Wedge sole", "ids": ["sole"]}
+{"audit": 3112, "lang": "labels", "text": "West African Pepper", "ids": ["west-african-pepper"]}
+{"audit": 3113, "lang": "labels", "text": "whale meat", "ids": ["whale"], "unusual": "Whale meat retained and explicitly flagged for the user’s decision."}
+{"audit": 3114, "lang": "labels", "text": "white bean paste", "ids": ["white-bean-paste"]}
+{"audit": 3115, "lang": "labels", "text": "whole wheat bread", "ids": ["whole-wheat-bread"]}
+{"audit": 3116, "lang": "labels", "text": "winter savory", "ids": ["winter-savory"]}
+{"audit": 3117, "lang": "labels", "text": "yak butter", "ids": ["yak-butter"]}
+{"audit": 3118, "lang": "labels", "text": "yak milk", "ids": ["yak-milk"]}
+{"audit": 3119, "lang": "labels", "text": "Yakisoba", "ids": ["yakisoba-noodles"]}
+{"audit": 3120, "lang": "labels", "text": "Yardlong bean", "ids": ["yardlong-beans"]}
+{"audit": 3121, "lang": "labels", "text": "yeolmu", "ids": ["radish-greens"]}
+{"audit": 3122, "lang": "labels", "text": "yi mein", "ids": ["yi-mein"]}
+{"audit": 3123, "lang": "labels", "text": "Youmian", "ids": ["youmian-noodles"]}
+{"audit": 3124, "lang": "labels", "text": "youtiao", "ids": ["youtiao"]}
+{"audit": 3125, "lang": "labels", "text": "yufka bread", "ids": ["yufka"]}
+{"audit": 3126, "lang": "labels", "text": "yuxiang", "ids": ["yuxiang-sauce"]}
+{"audit": 3127, "lang": "labels", "text": "yuzu", "ids": ["yuzu"]}
+{"audit": 3128, "lang": "labels", "text": "yuzufruit", "ids": ["yuzu"]}
+{"audit": 3129, "lang": "labels", "text": "za'atar", "ids": ["zaatar"]}
+{"audit": 3130, "lang": "labels", "text": "zanahorias", "ids": ["carrot"]}
+{"audit": 3131, "lang": "labels", "text": "zhajiang", "ids": ["zhajiang-sauce"]}
+{"audit": 3132, "lang": "labels", "text": "zilveruitjes", "ids": ["pearl-onions"]}
+{"audit": 3133, "lang": "labels", "text": "zunda", "ids": ["zunda"]}
+{"audit": 3134, "lang": "labels", "text": "Époisses", "ids": ["epoisses-cheese"]}
+{"audit": 3135, "lang": "labels", "text": "ししとう", "ids": ["shishito-pepper"]}
+{"audit": 3136, "lang": "labels", "text": "しめじ", "ids": ["shimeji-mushroom"]}
+{"audit": 3137, "lang": "labels", "text": "ちゃんぽん麺", "ids": ["chanpon-noodles"]}
+{"audit": 3138, "lang": "labels", "text": "ほうとう麺", "ids": ["houtou-noodles"]}
+{"audit": 3139, "lang": "labels", "text": "アチーニ・ディ・ペペ", "ids": ["acini-di-pepe"]}
+{"audit": 3140, "lang": "labels", "text": "アニョロッティ", "ids": ["agnolotti"]}
+{"audit": 3141, "lang": "labels", "text": "アプリコットジャム", "ids": ["apricot-jam"]}
+{"audit": 3142, "lang": "labels", "text": "エリンギ", "ids": ["king-oyster-mushroom"]}
+{"audit": 3143, "lang": "labels", "text": "オレキエッテ", "ids": ["orecchiette"]}
+{"audit": 3144, "lang": "labels", "text": "カシャルチーズ", "ids": ["kashar-cheese"]}
+{"audit": 3145, "lang": "labels", "text": "カフィアライムの葉", "ids": ["kaffir-lime-leaf"]}
+{"audit": 3146, "lang": "labels", "text": "カフィルライムリーフ", "ids": ["kaffir-lime-leaf"]}
+{"audit": 3147, "lang": "labels", "text": "カペッリーニ", "ids": ["capellini"]}
+{"audit": 3148, "lang": "labels", "text": "カンパネッレ", "ids": ["campanelle"]}
+{"audit": 3149, "lang": "labels", "text": "カヴァテッリ", "ids": ["cavatelli"]}
+{"audit": 3150, "lang": "labels", "text": "ガックの種子と仮種皮", "ids": ["gac-fruit"]}
+{"audit": 3151, "lang": "labels", "text": "ガルガネッリ", "ids": ["garganelli"]}
+{"audit": 3152, "lang": "labels", "text": "クリームソース", "ids": ["cream-sauce"]}
+{"audit": 3153, "lang": "labels", "text": "ココナッツフレーク", "ids": ["coconut-flakes"]}
+{"audit": 3154, "lang": "labels", "text": "サーニェ・ンカンヌラーテ", "ids": ["sagne-ncannulate"]}
+{"audit": 3155, "lang": "labels", "text": "シシャモ", "ids": ["fish"], "reason": "Shishamo identifies the Japanese smelt, whereas capelin is a different fish often sold as a substitute; no shishamo id exists, so use fish."}
+{"audit": 3156, "lang": "labels", "text": "シャラテッリ", "ids": ["scialatielli"]}
+{"audit": 3157, "lang": "labels", "text": "スパゲッティーニ", "ids": ["spaghettini"]}
+{"audit": 3158, "lang": "labels", "text": "スパゲットーニ", "ids": ["spaghettoni"]}
+{"audit": 3159, "lang": "labels", "text": "タマリンドペースト", "ids": ["tamarind-paste"]}
+{"audit": 3160, "lang": "labels", "text": "ナッツ", "ids": ["nuts"]}
+{"audit": 3161, "lang": "labels", "text": "ヌクチャム", "ids": ["nuoc-cham"]}
+{"audit": 3162, "lang": "labels", "text": "バイマックルー", "ids": ["kaffir-lime-leaf"]}
+{"audit": 3163, "lang": "labels", "text": "ビゴリ", "ids": ["bigoli"]}
+{"audit": 3164, "lang": "labels", "text": "ピカッジェ", "ids": ["picagge"]}
+{"audit": 3165, "lang": "labels", "text": "フェデリーニ", "ids": ["fedelini"], "reason": "フェデリーニ names fedelini; the vocabulary already has that distinct pasta id instead of capellini."}
+{"audit": 3166, "lang": "labels", "text": "ブカティーニ", "ids": ["bucatini"]}
+{"audit": 3167, "lang": "labels", "text": "マッケロンチーニ・ディ・カンポフィローネ", "ids": ["maccheroncini"]}
+{"audit": 3168, "lang": "labels", "text": "メンマ", "ids": ["menma"]}
+{"audit": 3169, "lang": "labels", "text": "ユフカ", "ids": ["yufka"]}
+{"audit": 3170, "lang": "labels", "text": "ロメインレタス", "ids": ["romaine"]}
+{"audit": 3171, "lang": "labels", "text": "七味唐辛子", "ids": ["shichimi"]}
+{"audit": 3172, "lang": "labels", "text": "三杯酢", "ids": ["sanbaizu"]}
+{"audit": 3173, "lang": "labels", "text": "中華麺", "ids": ["chinese-noodles"]}
+{"audit": 3174, "lang": "labels", "text": "乾燥バジル", "ids": ["basil"]}
+{"audit": 3175, "lang": "labels", "text": "冰粉籽 200g", "ids": ["ice-jelly-seeds"]}
+{"audit": 3176, "lang": "labels", "text": "冷冻花卷", "ids": ["steamed-bun"]}
+{"audit": 3177, "lang": "labels", "text": "冷凍アサイーピューレ", "ids": ["acai-puree"], "reason": "The Japanese label explicitly names frozen acai puree; acai-puree exists and is more specific than whole acai."}
+{"audit": 3178, "lang": "labels", "text": "凉粉", "ids": ["cold-jelly"], "reason": "凉粉 is a generic starch jelly and does not specify mung bean; cold-jelly is already used for the identical Chinese recipe text."}
+{"audit": 3179, "lang": "labels", "text": "剁椒", "ids": ["chopped-chili"]}
+{"audit": 3180, "lang": "labels", "text": "卤料包", "ids": ["braising-spice"]}
+{"audit": 3181, "lang": "labels", "text": "印度黑盐— 可用普通盐替代", "ids": ["black-salt"]}
+{"audit": 3182, "lang": "labels", "text": "原味奥利奥", "ids": ["chocolate-sandwich-cookies"], "reason": "Original-flavor Oreo names chocolate sandwich cookies; that existing shopping-level ingredient is more specific than generic cookie."}
+{"audit": 3183, "lang": "labels", "text": "去心莲子", "ids": ["lotus-seeds"]}
+{"audit": 3184, "lang": "labels", "text": "味付けメンマ", "ids": ["menma"]}
+{"audit": 3185, "lang": "labels", "text": "咖喱块", "ids": ["curry-roux"]}
+{"audit": 3186, "lang": "labels", "text": "土豆干粉条", "ids": ["potato-noodles"]}
+{"audit": 3187, "lang": "labels", "text": "复配食品增稠剂", "ids": ["thickener"]}
+{"audit": 3188, "lang": "labels", "text": "密封袋", "ids": []}
+{"audit": 3189, "lang": "labels", "text": "小薄饼", "ids": ["thin-pancake"]}
+{"audit": 3190, "lang": "labels", "text": "巴沙鱼", "ids": ["basa-fish"]}
+{"audit": 3191, "lang": "labels", "text": "新鲜菜心", "ids": ["choy-sum"]}
+{"audit": 3192, "lang": "labels", "text": "明太子", "ids": ["mentaiko"]}
+{"audit": 3193, "lang": "labels", "text": "春菊", "ids": ["shungiku"]}
+{"audit": 3194, "lang": "labels", "text": "未过期的一袋速冻水饺", "ids": ["frozen-dumplings"]}
+{"audit": 3195, "lang": "labels", "text": "未过期的一袋速冻馄饨", "ids": ["frozen-wontons"]}
+{"audit": 3196, "lang": "labels", "text": "柱侯酱", "ids": ["zhuhou-sauce"]}
+{"audit": 3197, "lang": "labels", "text": "柱候酱", "ids": ["zhuhou-sauce"]}
+{"audit": 3198, "lang": "labels", "text": "桂圆", "ids": ["longan"]}
+{"audit": 3199, "lang": "labels", "text": "梅菜", "ids": ["pickled-mustard"]}
