@@ -1,4 +1,5 @@
 import { readFileSync } from "node:fs"
+import { createHash } from "node:crypto"
 import path from "node:path"
 import { describe, expect, test } from "vitest"
 import { DEFAULT_DATA_DIR, type FoundImage, loadWorldDishes } from "./index"
@@ -23,6 +24,39 @@ describe("found photos", () => {
     const dish = byId.get(id)!
     expect(dish.image ?? dish.imageUrl).toBe(image.image ?? image.imageUrl)
     expect(dish.imageFrom).toBe(image.from)
+  })
+
+  test("copied Google Images matches retain their reviewed bytes and source credits", () => {
+    const reviews = readFileSync(
+      path.join(DEFAULT_DATA_DIR, "../review/photos/google.jsonl"),
+      "utf8",
+    )
+      .trim()
+      .split("\n")
+      .map(
+        (line) =>
+          JSON.parse(line) as {
+            id: string
+            verdict: string
+            source: string
+            localImage?: string
+            sha256?: string
+          },
+      )
+      .filter((review) => review.verdict === "keep")
+    expect(new Set(reviews.map((review) => review.id)).size).toBe(reviews.length)
+    for (const review of reviews) {
+      const photo = found[review.id]
+      expect(photo.imageUrl).toBe(review.localImage)
+      expect(photo.from).toBe(review.source)
+      expect(photo.credit?.sourceUrl).toBe(review.source)
+      expect(byId.get(review.id)?.imageCredit).toEqual(photo.credit)
+      expect(review.localImage).toMatch(/^\/images\/world-dishes\/[^/]+$/)
+      const bytes = readFileSync(
+        path.join(DEFAULT_DATA_DIR, "../../../apps/website/public", review.localImage!),
+      )
+      expect(createHash("sha256").update(bytes).digest("hex")).toBe(review.sha256)
+    }
   })
 
   test("reviewed photos retain their Commons license and credit through the loader", () => {

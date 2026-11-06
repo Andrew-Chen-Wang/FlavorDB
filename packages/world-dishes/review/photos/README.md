@@ -1,5 +1,20 @@
 # Commons photo review
 
+## Google Images follow-up: 6 November 2026
+
+At the user's request, discovery now also uses Google Images through Codex's Chrome browser bridge.
+Five individually inspected matches were copied into `apps/website/public/images/world-dishes/` and
+added to `data/images.json`: curry crab, sizzling shredded eel, microwave ginger-scallion black cod,
+steamed oysters and braised fish head. `google.jsonl` records each decision, original image URL,
+source page and SHA-256 of the copied bytes. One fish-head casserole candidate was rejected after
+reading its different cooking method. No script chooses images.
+
+External captions now show the actual source and recorded rights statement rather than assuming
+every external photo belongs to HowToCook. This pass includes source-attributed images without a
+stated free license, following the user's expanded scope; attribution does not change their terms.
+The earlier Commons ledger remains separate. Supplemental images now total 3,260 and **16,240 dishes
+still lack photos**. This is an initial browser batch; the rest of the Google Images review remains.
+
 ## First pass: 6 November 2026
 
 From main `c49866d`, 17,632 of 29,984 imported dishes had no photo. Reviewed 3,585 candidates: **1,387 accepted**, **2,198 rejected**. Supplemental photos rose from 1,868 to 3,255; **16,245 dishes still lack photos**. See `summary.json`. Every accepted image was viewed against the dish; unavailable thumbnails were rejected rather than guessed.

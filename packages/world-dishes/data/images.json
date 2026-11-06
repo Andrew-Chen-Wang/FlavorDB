@@ -7972,6 +7972,26 @@
     "image": "Ålandspannkaka.jpg",
     "from": "https://en.wikipedia.org/wiki/%C3%85land_pancake"
   },
+  "howtocook:aquatic:咖喱炒蟹": {
+    "imageUrl": "/images/world-dishes/curry-crab.webp",
+    "from": "https://www.ytower.com.tw/recipe/B03-1013",
+    "credit": {
+      "author": "楊桃美食網 · 快樂廚房雜誌第74期",
+      "license": "All rights reserved",
+      "sourceUrl": "https://www.ytower.com.tw/recipe/B03-1013"
+    }
+  },
+  "howtocook:aquatic:响油鳝丝": {
+    "imageUrl": "/images/world-dishes/sizzling-shredded-eel.jpg",
+    "from": "https://commons.wikimedia.org/wiki/File:Stir-fried_shredded_eel_with_hot_oil_and_ginger_at_Songhelou_Suzhou_Noodles,_Parkview_Green_(20210126165145).jpg",
+    "credit": {
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stir-fried_shredded_eel_with_hot_oil_and_ginger_at_Songhelou_Suzhou_Noodles,_Parkview_Green_(20210126165145).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "authorUrl": "https://commons.wikimedia.org/wiki/User:N509FZ"
+    }
+  },
   "howtocook:aquatic:小龙虾:小龙虾": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/aquatic/%E5%B0%8F%E9%BE%99%E8%99%BE/%E6%88%90%E5%93%81.jpg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/aquatic/小龙虾/小龙虾.md"
@@ -7980,9 +8000,27 @@
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/aquatic/%E5%B9%B2%E7%85%8E%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%BA%A2%E8%99%BE/%E5%B9%B2%E7%85%8E%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%BA%A2%E8%99%BE.jpg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md"
   },
+  "howtocook:aquatic:微波葱姜黑鳕鱼": {
+    "imageUrl": "/images/world-dishes/microwave-ginger-scallion-black-cod.jpg",
+    "from": "https://ambrosia.kitchen/recipes/finished/main_course/微波葱姜黑鳕鱼.html",
+    "credit": {
+      "author": "Ambrosia.Kitchen",
+      "license": "License not stated",
+      "sourceUrl": "https://ambrosia.kitchen/recipes/finished/main_course/微波葱姜黑鳕鱼.html"
+    }
+  },
   "howtocook:aquatic:油焖大虾:油焖大虾": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/aquatic/%E6%B2%B9%E7%84%96%E5%A4%A7%E8%99%BE/%E6%B2%B9%E7%84%96%E5%A4%A7%E8%99%BE.jpg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/aquatic/油焖大虾/油焖大虾.md"
+  },
+  "howtocook:aquatic:清蒸生蚝": {
+    "imageUrl": "/images/world-dishes/steamed-oysters.avif",
+    "from": "https://cookidoo.com.cn/recipes/recipe/zh-Hans-CN/r782364",
+    "credit": {
+      "author": "Cookidoo · Vorwerk Information Technology (Shanghai) Co., Ltd.",
+      "license": "All rights reserved",
+      "sourceUrl": "https://cookidoo.com.cn/recipes/recipe/zh-Hans-CN/r782364"
+    }
   },
   "howtocook:aquatic:清蒸鲈鱼:清蒸鲈鱼": {
     "image": "清蒸鲈鱼.jpg",
@@ -8000,6 +8038,16 @@
       "author": "Huaying1988",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "howtocook:aquatic:红烧鱼头": {
+    "imageUrl": "/images/world-dishes/braised-fish-head.webp",
+    "from": "https://icook.tw/recipes/115919",
+    "credit": {
+      "author": "賴珮芳 · 愛料理",
+      "authorUrl": "https://icook.tw/users/100000207746256",
+      "license": "License not stated",
+      "sourceUrl": "https://icook.tw/recipes/115919"
     }
   },
   "howtocook:aquatic:红烧鲤鱼": {
