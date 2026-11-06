@@ -54790,20 +54790,8 @@
     },
     {
       "host": "id.wikipedia.org",
-      "titles": [
-        "Bebai maghing",
-        "pacri nenas Pontianak",
-        "bubur sagu Ambon",
-        "Ale ale",
-        "gangan"
-      ],
-      "dishIds": [
-        "Q65210412",
-        "Q65211925",
-        "Q97308081",
-        "Q97308883",
-        "Q97455427"
-      ]
+      "titles": ["Bebai maghing", "pacri nenas Pontianak", "bubur sagu Ambon", "Ale ale", "gangan"],
+      "dishIds": ["Q65210412", "Q65211925", "Q97308081", "Q97308883", "Q97455427"]
     },
     {
       "host": "lmo.wikipedia.org",
@@ -56788,12 +56776,7 @@
     },
     {
       "host": "ja.wikipedia.org",
-      "titles": [
-        "酸辣湯",
-        "醤油ラーメン",
-        "青椒肉絲",
-        "餃子"
-      ],
+      "titles": ["酸辣湯", "醤油ラーメン", "青椒肉絲", "餃子"],
       "dishIds": [
         "wikibooks-ja:酸辣湯",
         "wikibooks-ja:醤油ラーメン",
@@ -57004,16 +56987,8 @@
     },
     {
       "host": "nn.wikipedia.org",
-      "titles": [
-        "Snitte",
-        "Vikabröd",
-        "vassgraut"
-      ],
-      "dishIds": [
-        "Q10672689",
-        "Q10715213",
-        "Q31281129"
-      ]
+      "titles": ["Snitte", "Vikabröd", "vassgraut"],
+      "dishIds": ["Q10672689", "Q10715213", "Q31281129"]
     },
     {
       "host": "no.wikipedia.org",
@@ -58795,13 +58770,7 @@
     },
     {
       "host": "fr.wikipedia.org",
-      "titles": [
-        "Velouté de légumes variés",
-        "Velouté de potiron",
-        "Verjus",
-        "Vongole",
-        "Zviti"
-      ],
+      "titles": ["Velouté de légumes variés", "Velouté de potiron", "Verjus", "Vongole", "Zviti"],
       "dishIds": [
         "wikibooks-fr:velouté-de-légumes-variés",
         "wikibooks-fr:velouté-de-potiron",
@@ -58835,20 +58804,8 @@
     },
     {
       "host": "bn.wikipedia.org",
-      "titles": [
-        "ডিমের ধোঁকা",
-        "পেঁপে বড়ি তরকারি",
-        "বিলপাড়ার চমচম",
-        "সাবিত্রী",
-        "রোস"
-      ],
-      "dishIds": [
-        "Q108216983",
-        "Q108217205",
-        "Q118115016",
-        "Q130425634",
-        "Q134250583"
-      ]
+      "titles": ["ডিমের ধোঁকা", "পেঁপে বড়ি তরকারি", "বিলপাড়ার চমচম", "সাবিত্রী", "রোস"],
+      "dishIds": ["Q108216983", "Q108217205", "Q118115016", "Q130425634", "Q134250583"]
     },
     {
       "host": "ca.wikipedia.org",
@@ -61145,12 +61102,8 @@
     },
     {
       "host": "fon.wikipedia.org",
-      "titles": [
-        "Acɔnmɔ"
-      ],
-      "dishIds": [
-        "Q109017053"
-      ]
+      "titles": ["Acɔnmɔ"],
+      "dishIds": ["Q109017053"]
     },
     {
       "host": "ru.wikipedia.org",
@@ -61894,22 +61847,8 @@
     },
     {
       "host": "eu.wikipedia.org",
-      "titles": [
-        "Kostrada",
-        "Samin goxo",
-        "Artopil",
-        "Tigre",
-        "Katalabrox",
-        "Barte"
-      ],
-      "dishIds": [
-        "Q110189370",
-        "Q135910841",
-        "Q136523624",
-        "Q6146843",
-        "Q65216477",
-        "Q94279818"
-      ]
+      "titles": ["Kostrada", "Samin goxo", "Artopil", "Tigre", "Katalabrox", "Barte"],
+      "dishIds": ["Q110189370", "Q135910841", "Q136523624", "Q6146843", "Q65216477", "Q94279818"]
     },
     {
       "host": "ko.wikipedia.org",
@@ -62012,18 +61951,8 @@
     },
     {
       "host": "th.wikipedia.org",
-      "titles": [
-        "อัชบาน",
-        "ไข่ป่าม",
-        "เปิงคะดอจก์",
-        "ไข่น้ำ"
-      ],
-      "dishIds": [
-        "Q115016178",
-        "Q16308022",
-        "Q20560831",
-        "Q25537356"
-      ]
+      "titles": ["อัชบาน", "ไข่ป่าม", "เปิงคะดอจก์", "ไข่น้ำ"],
+      "dishIds": ["Q115016178", "Q16308022", "Q20560831", "Q25537356"]
     },
     {
       "host": "fy.wikipedia.org",
@@ -62064,27 +61993,13 @@
     },
     {
       "host": "et.wikipedia.org",
-      "titles": [
-        "magushapu peenleib"
-      ],
-      "dishIds": [
-        "Q118601096"
-      ]
+      "titles": ["magushapu peenleib"],
+      "dishIds": ["Q118601096"]
     },
     {
       "host": "he.wikipedia.org",
-      "titles": [
-        "ארבעס",
-        "תרה",
-        "פיתה סורית",
-        "קוקייה"
-      ],
-      "dishIds": [
-        "Q119812449",
-        "Q12412201",
-        "Q130298849",
-        "Q13178400"
-      ]
+      "titles": ["ארבעס", "תרה", "פיתה סורית", "קוקייה"],
+      "dishIds": ["Q119812449", "Q12412201", "Q130298849", "Q13178400"]
     },
     {
       "host": "jv.wikipedia.org",
@@ -62096,25 +62011,12 @@
         "tape ketan ireng",
         "nuget gedhang"
       ],
-      "dishIds": [
-        "Q120973181",
-        "Q135484032",
-        "Q137565708",
-        "Q56232108",
-        "Q56232430",
-        "Q65322420"
-      ]
+      "dishIds": ["Q120973181", "Q135484032", "Q137565708", "Q56232108", "Q56232430", "Q65322420"]
     },
     {
       "host": "hy.wikipedia.org",
-      "titles": [
-        "Պահքի ուտեստը Գյումրիում",
-        "դալնաշ"
-      ],
-      "dishIds": [
-        "Q121788204",
-        "Q28666336"
-      ]
+      "titles": ["Պահքի ուտեստը Գյումրիում", "դալնաշ"],
+      "dishIds": ["Q121788204", "Q28666336"]
     },
     {
       "host": "bg.wikipedia.org",
@@ -62163,18 +62065,8 @@
     },
     {
       "host": "gl.wikipedia.org",
-      "titles": [
-        "Colineta",
-        "Torradas de crema",
-        "orella de porco",
-        "chanfaina galega"
-      ],
-      "dishIds": [
-        "Q12386330",
-        "Q12401202",
-        "Q133828898",
-        "Q134295102"
-      ]
+      "titles": ["Colineta", "Torradas de crema", "orella de porco", "chanfaina galega"],
+      "dishIds": ["Q12386330", "Q12401202", "Q133828898", "Q134295102"]
     },
     {
       "host": "fa.wikipedia.org",
@@ -62312,25 +62204,13 @@
     },
     {
       "host": "lb.wikipedia.org",
-      "titles": [
-        "Fueskichelchen"
-      ],
-      "dishIds": [
-        "Q124306322"
-      ]
+      "titles": ["Fueskichelchen"],
+      "dishIds": ["Q124306322"]
     },
     {
       "host": "hr.wikipedia.org",
-      "titles": [
-        "Goranski nadjev",
-        "WikiKuharica/Recepti/Soljanka",
-        "Ćupter"
-      ],
-      "dishIds": [
-        "Q124464108",
-        "Q124882180",
-        "Q130225202"
-      ]
+      "titles": ["Goranski nadjev", "WikiKuharica/Recepti/Soljanka", "Ćupter"],
+      "dishIds": ["Q124464108", "Q124882180", "Q130225202"]
     },
     {
       "host": "kk.wikipedia.org",
@@ -62369,113 +62249,53 @@
     },
     {
       "host": "ce.wikipedia.org",
-      "titles": [
-        "Быжы"
-      ],
-      "dishIds": [
-        "Q12579156"
-      ]
+      "titles": ["Быжы"],
+      "dishIds": ["Q12579156"]
     },
     {
       "host": "ba.wikipedia.org",
-      "titles": [
-        "сяканя"
-      ],
-      "dishIds": [
-        "Q126171749"
-      ]
+      "titles": ["сяканя"],
+      "dishIds": ["Q126171749"]
     },
     {
       "host": "ro.wikipedia.org",
-      "titles": [
-        "Gâscă (mâncare)",
-        "Plachie",
-        "Covrig muscelean",
-        "chitonoagă"
-      ],
-      "dishIds": [
-        "Q12729772",
-        "Q12738131",
-        "Q136557181",
-        "Q4222490"
-      ]
+      "titles": ["Gâscă (mâncare)", "Plachie", "Covrig muscelean", "chitonoagă"],
+      "dishIds": ["Q12729772", "Q12738131", "Q136557181", "Q4222490"]
     },
     {
       "host": "bjn.wikipedia.org",
-      "titles": [
-        "Babongko (wadai)",
-        "ular-ular"
-      ],
-      "dishIds": [
-        "Q130437003",
-        "Q139856415"
-      ]
+      "titles": ["Babongko (wadai)", "ular-ular"],
+      "dishIds": ["Q130437003", "Q139856415"]
     },
     {
       "host": "su.wikipedia.org",
-      "titles": [
-        "Bubur bodas"
-      ],
-      "dishIds": [
-        "Q131125406"
-      ]
+      "titles": ["Bubur bodas"],
+      "dishIds": ["Q131125406"]
     },
     {
       "host": "cy.wikipedia.org",
-      "titles": [
-        "bara llaeth",
-        "brwchan",
-        "Brywes",
-        "Picws mali",
-        "Tatws a llaeth"
-      ],
-      "dishIds": [
-        "Q13125722",
-        "Q13126300",
-        "Q20585312",
-        "Q20590936",
-        "Q20600209"
-      ]
+      "titles": ["bara llaeth", "brwchan", "Brywes", "Picws mali", "Tatws a llaeth"],
+      "dishIds": ["Q13125722", "Q13126300", "Q20585312", "Q20590936", "Q20600209"]
     },
     {
       "host": "am.wikipedia.org",
-      "titles": [
-        "ቋንጣ"
-      ],
-      "dishIds": [
-        "Q13144104"
-      ]
+      "titles": ["ቋንጣ"],
+      "dishIds": ["Q13144104"]
     },
     {
       "host": "ast.wikipedia.org",
-      "titles": [
-        "Fiyuela",
-        "güevos encapotaos"
-      ],
-      "dishIds": [
-        "Q13147186",
-        "Q5651265"
-      ]
+      "titles": ["Fiyuela", "güevos encapotaos"],
+      "dishIds": ["Q13147186", "Q5651265"]
     },
     {
       "host": "ta.wikipedia.org",
-      "titles": [
-        "சீனி அரியாரம்",
-        "பொரிவிளங்காய் உருண்டை"
-      ],
-      "dishIds": [
-        "Q131545921",
-        "Q136093120"
-      ]
+      "titles": ["சீனி அரியாரம்", "பொரிவிளங்காய் உருண்டை"],
+      "dishIds": ["Q131545921", "Q136093120"]
     },
     {
       "host": "ary.wikipedia.org",
-      "titles": [
-        "جاري"
-      ],
-      "dishIds": [
-        "Q131591198"
-      ]
+      "titles": ["جاري"],
+      "dishIds": ["Q131591198"]
     },
     {
       "host": "uk.wikipedia.org",
@@ -62518,148 +62338,78 @@
     },
     {
       "host": "scn.wikipedia.org",
-      "titles": [
-        "Mustata"
-      ],
-      "dishIds": [
-        "Q13196930"
-      ]
+      "titles": ["Mustata"],
+      "dishIds": ["Q13196930"]
     },
     {
       "host": "tg.wikipedia.org",
-      "titles": [
-        "шакароб"
-      ],
-      "dishIds": [
-        "Q13202244"
-      ]
+      "titles": ["шакароб"],
+      "dishIds": ["Q13202244"]
     },
     {
       "host": "qu.wikipedia.org",
-      "titles": [
-        "Uchuku"
-      ],
-      "dishIds": [
-        "Q133894419"
-      ]
+      "titles": ["Uchuku"],
+      "dishIds": ["Q133894419"]
     },
     {
       "host": "min.wikipedia.org",
-      "titles": [
-        "Dendeng masiak",
-        "Gulai sukun",
-        "Gulai gajeboh",
-        "Palai rinuak"
-      ],
-      "dishIds": [
-        "Q134774918",
-        "Q134775146",
-        "Q136621351",
-        "Q65251674"
-      ]
+      "titles": ["Dendeng masiak", "Gulai sukun", "Gulai gajeboh", "Palai rinuak"],
+      "dishIds": ["Q134774918", "Q134775146", "Q136621351", "Q65251674"]
     },
     {
       "host": "tcy.wikipedia.org",
-      "titles": [
-        "ಕೋರಿ ಪುಳಿಮುಂಚಿ",
-        "ಕೇನೆದ ಪುಂಡಿ",
-        "ತೇರೆದ ಕೊಡಿತ್ತ ಚಟ್ನಿ"
-      ],
-      "dishIds": [
-        "Q134960082",
-        "Q135283413",
-        "Q135454522"
-      ]
+      "titles": ["ಕೋರಿ ಪುಳಿಮುಂಚಿ", "ಕೇನೆದ ಪುಂಡಿ", "ತೇರೆದ ಕೊಡಿತ್ತ ಚಟ್ನಿ"],
+      "dishIds": ["Q134960082", "Q135283413", "Q135454522"]
     },
     {
       "host": "yo.wikipedia.org",
-      "titles": [
-        "Kiliṣi"
-      ],
-      "dishIds": [
-        "Q135180792"
-      ]
+      "titles": ["Kiliṣi"],
+      "dishIds": ["Q135180792"]
     },
     {
       "host": "xh.wikipedia.org",
-      "titles": [
-        "Umxhaxha"
-      ],
-      "dishIds": [
-        "Q135222814"
-      ]
+      "titles": ["Umxhaxha"],
+      "dishIds": ["Q135222814"]
     },
     {
       "host": "cv.wikipedia.org",
-      "titles": [
-        "Кукар"
-      ],
-      "dishIds": [
-        "Q135487511"
-      ]
+      "titles": ["Кукар"],
+      "dishIds": ["Q135487511"]
     },
     {
       "host": "pap.wikipedia.org",
-      "titles": [
-        "Sopi aw'i Playa"
-      ],
-      "dishIds": [
-        "Q135623631"
-      ]
+      "titles": ["Sopi aw'i Playa"],
+      "dishIds": ["Q135623631"]
     },
     {
       "host": "rue.wikipedia.org",
-      "titles": [
-        "пудбивана пасуля"
-      ],
-      "dishIds": [
-        "Q135740198"
-      ]
+      "titles": ["пудбивана пасуля"],
+      "dishIds": ["Q135740198"]
     },
     {
       "host": "ts.wikipedia.org",
-      "titles": [
-        "Xinghwimbi"
-      ],
-      "dishIds": [
-        "Q135908643"
-      ]
+      "titles": ["Xinghwimbi"],
+      "dishIds": ["Q135908643"]
     },
     {
       "host": "om.wikipedia.org",
-      "titles": [
-        "Cumboo"
-      ],
-      "dishIds": [
-        "Q135981036"
-      ]
+      "titles": ["Cumboo"],
+      "dishIds": ["Q135981036"]
     },
     {
       "host": "guc.wikipedia.org",
-      "titles": [
-        "Shira kaa'ula"
-      ],
-      "dishIds": [
-        "Q136319879"
-      ]
+      "titles": ["Shira kaa'ula"],
+      "dishIds": ["Q136319879"]
     },
     {
       "host": "ln.wikipedia.org",
-      "titles": [
-        "Pondu ya madesu"
-      ],
-      "dishIds": [
-        "Q136950129"
-      ]
+      "titles": ["Pondu ya madesu"],
+      "dishIds": ["Q136950129"]
     },
     {
       "host": "wuu.wikipedia.org",
-      "titles": [
-        "干炸响铃"
-      ],
-      "dishIds": [
-        "Q137428052"
-      ]
+      "titles": ["干炸响铃"],
+      "dishIds": ["Q137428052"]
     },
     {
       "host": "li.wikipedia.org",
@@ -62684,39 +62434,23 @@
     },
     {
       "host": "frr.wikipedia.org",
-      "titles": [
-        "Halagknerken"
-      ],
-      "dishIds": [
-        "Q137605428"
-      ]
+      "titles": ["Halagknerken"],
+      "dishIds": ["Q137605428"]
     },
     {
       "host": "bcl.wikipedia.org",
-      "titles": [
-        "Sinabawan nin Agta"
-      ],
-      "dishIds": [
-        "Q137697985"
-      ]
+      "titles": ["Sinabawan nin Agta"],
+      "dishIds": ["Q137697985"]
     },
     {
       "host": "af.wikipedia.org",
-      "titles": [
-        "Poetoepap"
-      ],
-      "dishIds": [
-        "Q137825795"
-      ]
+      "titles": ["Poetoepap"],
+      "dishIds": ["Q137825795"]
     },
     {
       "host": "bew.wikipedia.org",
-      "titles": [
-        "Sagu sèp"
-      ],
-      "dishIds": [
-        "Q141576662"
-      ]
+      "titles": ["Sagu sèp"],
+      "dishIds": ["Q141576662"]
     },
     {
       "host": "be-tarask.wikipedia.org",
@@ -62728,98 +62462,47 @@
         "Скумбрыя ў кажушку",
         "крышаны"
       ],
-      "dishIds": [
-        "Q14543923",
-        "Q16566892",
-        "Q20504418",
-        "Q6515767",
-        "Q97279333",
-        "Q9955294"
-      ]
+      "dishIds": ["Q14543923", "Q16566892", "Q20504418", "Q6515767", "Q97279333", "Q9955294"]
     },
     {
       "host": "nds-nl.wikipedia.org",
-      "titles": [
-        "Nijjoarsrollechie"
-      ],
-      "dishIds": [
-        "Q15957214"
-      ]
+      "titles": ["Nijjoarsrollechie"],
+      "dishIds": ["Q15957214"]
     },
     {
       "host": "sr.wikipedia.org",
-      "titles": [
-        "Врањска самса"
-      ],
-      "dishIds": [
-        "Q16088653"
-      ]
+      "titles": ["Врањска самса"],
+      "dishIds": ["Q16088653"]
     },
     {
       "host": "sq.wikipedia.org",
-      "titles": [
-        "Bathë të njoma jahni",
-        "Pasta derri kanadeze",
-        "Presh jahni",
-        "Bamje jahni"
-      ],
-      "dishIds": [
-        "Q16350217",
-        "Q16351737",
-        "Q25563576",
-        "Q25563591"
-      ]
+      "titles": ["Bathë të njoma jahni", "Pasta derri kanadeze", "Presh jahni", "Bamje jahni"],
+      "dishIds": ["Q16350217", "Q16351737", "Q25563576", "Q25563591"]
     },
     {
       "host": "is.wikipedia.org",
-      "titles": [
-        "Kúlusúkk",
-        "Dillkartöflur"
-      ],
-      "dishIds": [
-        "Q16419632",
-        "Q16422576"
-      ]
+      "titles": ["Kúlusúkk", "Dillkartöflur"],
+      "dishIds": ["Q16419632", "Q16422576"]
     },
     {
       "host": "lo.wikipedia.org",
-      "titles": [
-        "ຕຳໝາກແຕງ"
-      ],
-      "dishIds": [
-        "Q19696604"
-      ]
+      "titles": ["ຕຳໝາກແຕງ"],
+      "dishIds": ["Q19696604"]
     },
     {
       "host": "mdf.wikipedia.org",
-      "titles": [
-        "Пачат"
-      ],
-      "dishIds": [
-        "Q19910927"
-      ]
+      "titles": ["Пачат"],
+      "dishIds": ["Q19910927"]
     },
     {
       "host": "csb.wikipedia.org",
-      "titles": [
-        "brzadowô zupa"
-      ],
-      "dishIds": [
-        "Q20851509"
-      ]
+      "titles": ["brzadowô zupa"],
+      "dishIds": ["Q20851509"]
     },
     {
       "host": "eo.wikipedia.org",
-      "titles": [
-        "oranĝa vlao",
-        "Nudaj gluteoj en la herbo",
-        "Flavaĵoj de la Tranĉo"
-      ],
-      "dishIds": [
-        "Q2217953",
-        "Q2407727",
-        "Q6169928"
-      ]
+      "titles": ["oranĝa vlao", "Nudaj gluteoj en la herbo", "Flavaĵoj de la Tranĉo"],
+      "dishIds": ["Q2217953", "Q2407727", "Q6169928"]
     },
     {
       "host": "ltg.wikipedia.org",
@@ -62910,124 +62593,68 @@
     },
     {
       "host": "ltg.wikipedia.org",
-      "titles": [
-        "Škvarkys",
-        "Ūlukne",
-        "Stoks"
-      ],
-      "dishIds": [
-        "Q22666384",
-        "Q22666385",
-        "Q24238468"
-      ]
+      "titles": ["Škvarkys", "Ūlukne", "Stoks"],
+      "dishIds": ["Q22666384", "Q22666385", "Q24238468"]
     },
     {
       "host": "uz.wikipedia.org",
-      "titles": [
-        "Soʻk oshi"
-      ],
-      "dishIds": [
-        "Q25520186"
-      ]
+      "titles": ["Soʻk oshi"],
+      "dishIds": ["Q25520186"]
     },
     {
       "host": "se.wikipedia.org",
-      "titles": [
-        "Gumposat"
-      ],
-      "dishIds": [
-        "Q25659210"
-      ]
+      "titles": ["Gumposat"],
+      "dishIds": ["Q25659210"]
     },
     {
       "host": "zea.wikipedia.org",
-      "titles": [
-        "Kruukplaetjes"
-      ],
-      "dishIds": [
-        "Q25681686"
-      ]
+      "titles": ["Kruukplaetjes"],
+      "dishIds": ["Q25681686"]
     },
     {
       "host": "ay.wikipedia.org",
-      "titles": [
-        "Kaya phuthi"
-      ],
-      "dishIds": [
-        "Q25685948"
-      ]
+      "titles": ["Kaya phuthi"],
+      "dishIds": ["Q25685948"]
     },
     {
       "host": "lbe.wikipedia.org",
-      "titles": [
-        "хьхьахьхьари"
-      ],
-      "dishIds": [
-        "Q25703460"
-      ]
+      "titles": ["хьхьахьхьари"],
+      "dishIds": ["Q25703460"]
     },
     {
       "host": "br.wikipedia.org",
-      "titles": [
-        "Yod kerc'h"
-      ],
-      "dishIds": [
-        "Q2843641"
-      ]
+      "titles": ["Yod kerc'h"],
+      "dishIds": ["Q2843641"]
     },
     {
       "host": "eml.wikipedia.org",
-      "titles": [
-        "Savōr"
-      ],
-      "dishIds": [
-        "Q3951172"
-      ]
+      "titles": ["Savōr"],
+      "dishIds": ["Q3951172"]
     },
     {
       "host": "an.wikipedia.org",
-      "titles": [
-        "Empanadico"
-      ],
-      "dishIds": [
-        "Q5831612"
-      ]
+      "titles": ["Empanadico"],
+      "dishIds": ["Q5831612"]
     },
     {
       "host": "lt.wikipedia.org",
-      "titles": [
-        "Ragaišis"
-      ],
-      "dishIds": [
-        "Q61379780"
-      ]
+      "titles": ["Ragaišis"],
+      "dishIds": ["Q61379780"]
     },
     {
       "host": "sl.wikipedia.org",
-      "titles": [
-        "prleška gibanica"
-      ],
-      "dishIds": [
-        "Q61958895"
-      ]
+      "titles": ["prleška gibanica"],
+      "dishIds": ["Q61958895"]
     },
     {
       "host": "gu.wikipedia.org",
-      "titles": [
-        "પૌંઆનો શીરો"
-      ],
-      "dishIds": [
-        "Q65398168"
-      ]
+      "titles": ["પૌંઆનો શીરો"],
+      "dishIds": ["Q65398168"]
     },
     {
       "host": "ku.wikipedia.org",
-      "titles": [
-        "Pişorik"
-      ],
-      "dishIds": [
-        "Q7015856"
-      ]
+      "titles": ["Pişorik"],
+      "dishIds": ["Q7015856"]
     }
   ]
 }

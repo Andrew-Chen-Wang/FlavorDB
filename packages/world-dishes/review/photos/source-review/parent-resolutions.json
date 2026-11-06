@@ -65,10 +65,7 @@
     "reason": "Read Commons description/file history/licensing."
   },
   {
-    "candidates": [
-      1689,
-      1699
-    ],
+    "candidates": [1689, 1699],
     "decision": "credit",
     "source": "https://www.kogl.or.kr/info/licenseType1.do",
     "reason": "Official KOGL Type 1 terms allow commercial use and adaptations with attribution. Preserve original EBS source link, work title and 2015 creation year."
