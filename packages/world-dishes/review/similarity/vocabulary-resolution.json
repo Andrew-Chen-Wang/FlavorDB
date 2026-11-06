@@ -1,0 +1,504 @@
+{
+  "graphnodes": {
+    "form": {
+      "grilled": [],
+      "steamed": [],
+      "composed-dish": [],
+      "dough-dish": [],
+      "meat-dish": [],
+      "sauce": [],
+      "pan-cooked": [],
+      "soft-dish": [],
+      "snack": [],
+      "cooked-egg": [],
+      "fried-flatbread": ["bread-based", "fried-crisp"],
+      "layered-dessert": ["sweets", "cold-dish"],
+      "caramelized-custard": ["sweets"],
+      "savory-fritters": ["fried-crisp"],
+      "cold-soup": ["soup", "cold-dish"],
+      "cold-creamy-soup": ["soup", "cold-dish"],
+      "dip": ["sauce"],
+      "creamy-rice": ["rice-dish"],
+      "open-sandwich": ["bread-based"],
+      "griddled-flatbread": ["bread-based", "griddled"],
+      "baked-cheesecake": ["sweets", "baked"],
+      "baked-flatbread": ["bread-based", "baked"],
+      "pancake": ["griddled"],
+      "layer-cake": ["sweets", "baked"],
+      "biscuit": ["sweets", "baked"],
+      "brothy-soup": ["soup"],
+      "yeast-bread": ["bread-based", "baked"],
+      "wrapped-flatbread": ["wrapped", "bread-based"],
+      "rice-roll": ["rice-dish", "wrapped", "cold-dish"],
+      "pouring-sauce": ["sauce"],
+      "fried-dough": ["bread-based", "fried-crisp", "sweets"],
+      "egg-dipped-bread": ["bread-based", "griddled"],
+      "cake": ["baked", "sweets"],
+      "grilled-minced-meat": ["grilled"],
+      "topped-chips": ["fried-crisp", "baked"],
+      "rice-ball": ["rice-dish"],
+      "meringue-dessert": ["baked", "sweets"],
+      "puffed-snack": ["snack"],
+      "poached-meat": ["meat-dish"],
+      "fried-cutlet": ["fried-crisp"],
+      "savory-pie": ["wrapped", "baked"],
+      "layered-pastry": ["baked", "sweets"],
+      "frozen-dessert": ["sweets", "cold-dish"],
+      "plated-meal": ["composed-dish"],
+      "chilled-pie": ["sweets", "cold-dish"],
+      "croquette": ["fried-crisp"],
+      "meat-sauce": ["sauce", "in-sauce"],
+      "baked-pudding": ["baked", "sweets"],
+      "grilled-slices": ["grilled", "sliced-meat"],
+      "fried-filled-pastry": ["wrapped", "fried-crisp"],
+      "bread-bowl": ["bread-based"],
+      "salad": ["cold-dish"],
+      "savory-custard": ["steamed"],
+      "steamed-pudding": ["sweets", "steamed"],
+      "laminated-pastry": ["bread-based", "baked"],
+      "filled-pancake": ["griddled", "wrapped"],
+      "confit-piece": ["meat-dish"],
+      "baked-filled-flatbread": ["wrapped", "bread-based", "baked"],
+      "toasted-crumbs": ["fried-crisp"],
+      "baked-bread": ["bread-based", "baked"],
+      "unfilled-dumplings": ["dough-dish"],
+      "savory-pudding": ["wrapped"],
+      "cracker": ["bread-based", "baked"],
+      "pickled-vegetables": ["cold-dish"],
+      "grain-pudding": ["sweets", "cold-dish"],
+      "sliced-meat-in-sauce": ["sliced-meat", "in-sauce"],
+      "omelette": ["pan-cooked"],
+      "baked-roll": ["bread-based", "baked"],
+      "cured-fish": ["cold-dish"],
+      "poached-egg": ["cooked-egg"],
+      "filled-flatbread": ["bread-based", "wrapped", "griddled"],
+      "rice-pudding": ["rice-dish", "sweets"],
+      "whole-roast": ["meat-dish"],
+      "fruit-soup": ["soup", "sweets"],
+      "layered-flatbread": ["bread-based", "griddled"],
+      "crisp-rice": ["rice-dish", "fried-crisp"],
+      "eggs-in-sauce": ["in-sauce"],
+      "raw-minced-meat": ["cold-dish"],
+      "filled-wafer": ["griddled", "sweets"],
+      "folded-tortilla": ["bread-based"],
+      "seasoned-egg": ["cooked-egg"],
+      "raw-relish": ["sauce", "cold-dish"],
+      "steamed-pieces": ["steamed"],
+      "grilled-skewers": ["grilled"],
+      "baked-batter-pudding": ["baked", "bread-based"],
+      "savory-tart": ["baked"],
+      "custard-sauce": ["sauce", "sweets"],
+      "spit-cake": ["bread-based", "grilled", "sweets"],
+      "pie-in-soup": ["bread-based", "soup"],
+      "cold-terrine": ["cold-dish"],
+      "poached-pieces-in-broth": ["soup", "in-sauce"],
+      "mashed-dish": ["soft-dish"],
+      "scrambled-mixture": ["pan-cooked"],
+      "poached-dumplings": ["dough-dish", "soup"],
+      "thickened-soup": ["soup"]
+    },
+    "base": {
+      "chickpea": ["beans"],
+      "yogurt": ["dairy"],
+      "cucumber": ["vegetable"],
+      "eggplant": ["vegetable"],
+      "cabbage": ["vegetable"],
+      "flour-tortilla": ["bread"],
+      "herbs": ["vegetable"],
+      "oil": [],
+      "mushroom": ["vegetable"],
+      "buckwheat": ["grain"],
+      "coconut": ["fruit"],
+      "nuts": [],
+      "beet": ["vegetable"],
+      "lettuce": ["vegetable"],
+      "tomato": ["vegetable"],
+      "carrot": ["vegetable"],
+      "cassava": [],
+      "almond": ["nuts"],
+      "oats": ["grain"],
+      "bulgur": ["wheat"],
+      "miso": ["soy"],
+      "veal": ["beef"],
+      "peanut": ["nuts"],
+      "rye": ["grain"],
+      "cake": ["wheat", "sweets"],
+      "starch": [],
+      "stock": [],
+      "hazelnut": ["nuts"],
+      "honey": ["sweets"],
+      "black-eyed-peas": ["beans"],
+      "spinach": ["vegetable"],
+      "yam": [],
+      "palm-fruit": ["fruit"],
+      "semolina": ["wheat"],
+      "banana": ["fruit"]
+    }
+  },
+  "steps": [
+    "proof",
+    "whip",
+    "blend",
+    "shape",
+    "invert",
+    "drain",
+    "toast",
+    "roll-out",
+    "grate",
+    "make-mixture",
+    "pop",
+    "mash",
+    "layer",
+    "make-roux",
+    "pickle",
+    "clarify",
+    "laminate",
+    "cure",
+    "confit",
+    "microwave",
+    "emulsify",
+    "ferment",
+    "freeze",
+    "grind",
+    "whisk",
+    "poach",
+    "reduce",
+    "crisp",
+    "mince",
+    "crack",
+    "set",
+    "flambe",
+    "hot-oil-finish",
+    "scramble"
+  ],
+  "notes": [
+    "coffee",
+    "vanilla",
+    "caramel",
+    "olive-oil",
+    "cucumber",
+    "wine",
+    "roasted-pepper",
+    "whole-wheat",
+    "paprika",
+    "yogurt",
+    "saffron",
+    "olive",
+    "caper",
+    "walnut",
+    "mushroom",
+    "cherry",
+    "shallot",
+    "seaweed",
+    "wheat",
+    "onion",
+    "caraway",
+    "buckwheat",
+    "coconut",
+    "galangal",
+    "leek",
+    "anise",
+    "nuts",
+    "molasses",
+    "beer",
+    "carrot",
+    "spirits",
+    "yeast",
+    "mayonnaise",
+    "honey",
+    "red-bean",
+    "juniper",
+    "almond",
+    "rum",
+    "poppy-seed",
+    "offal",
+    "orange-blossom",
+    "alkaline",
+    "rhubarb",
+    "milk",
+    "sourdough",
+    "ginseng",
+    "toasted-grain",
+    "tea",
+    "brown-sugar",
+    "sherry",
+    "rosewater",
+    "white-pepper",
+    "palm-oil"
+  ],
+  "renameMap": {
+    "form": {
+      "baked-cake": "cake",
+      "small-cake": "cake",
+      "crumb-cake": "cake",
+      "cookies": "biscuit",
+      "baked-custard": "caramelized-custard",
+      "pureed-dip": "dip",
+      "cold-dip": "dip",
+      "vegetable-spread": "dip",
+      "topped-toast": "open-sandwich",
+      "open-faced-toast": "open-sandwich",
+      "savory-pancake": "pancake",
+      "small-pancakes": "pancake",
+      "chunky-soup": "brothy-soup",
+      "sushi-roll": "rice-roll",
+      "sauce": "pouring-sauce",
+      "smooth-sauce": "pouring-sauce",
+      "creamy-sauce": "pouring-sauce",
+      "roux-sauce": "pouring-sauce",
+      "flatbread": "griddled-flatbread",
+      "plain-flatbread": "baked-flatbread",
+      "meat-and-mash": "plated-meal",
+      "flatbread-wrap": "wrapped-flatbread",
+      "breaded-cutlet": "fried-cutlet",
+      "sweet-pudding": "steamed-pudding",
+      "stuffed-tortilla": "baked-filled-flatbread",
+      "sweet-yeast-bread": "yeast-bread",
+      "pudding": "rice-pudding",
+      "raw-slices": "cold-sliced",
+      "folded-flatbread": "layered-flatbread",
+      "ice-cream-dessert": "frozen-dessert",
+      "boiled-meat-and-vegetables": "poached-meat"
+    },
+    "base": {},
+    "steps": {
+      "puree": "blend"
+    },
+    "notes": {
+      "nut": "nuts",
+      "nutty": "nuts",
+      "pastry": "bread",
+      "floral": "orange-blossom"
+    }
+  },
+  "rationaleMD": "# Manual vocabulary reconciliation\n\nRead all10 complete notes files and all285 literal profiles across batches00–09, categories.ts, profiles.ts and graph.ts. Existing category ancestors are preserved; additions below are proposals for integration, not tracked edits. Flavor values remain editorial estimates. The notes-file coverage list records completed input reading.\n\n## Same labels, same transformations\n\nBaked-cake/small-cake/crumb-cake consolidate into cake: molded size and crumble topping remain in dish names/steps. Keep layer-cake for an assembled stack, baked-cheesecake for a set cheese custard, and baked-pudding for soaked soft bread. Cookies and biscuit use biscuit. Savory/small pancakes consolidate into pancake, without a sweets ancestor: sugar is a taste, and rosti and okonomiyaki must not inherit a sweet form. Filled-pancake remains a distinct assembled pocket/sandwich.\n\nRice rolls use one rice-roll form whether sushi or gimbap; vinegar seasoning belongs in flavor notes. Sweet-yeast-bread becomes yeast-bread, shared with enriched brioche and hot-cross buns already tagged that way. Proof and taste intensities carry the relevant distinctions. Griddled and baked flatbreads remain distinct. Folded-flatbread and layered-flatbread are synonymous for msemmen/scallion pancake; apply the separately flagged Laobing override for consistency. Wrapped burritos and open-folded tacos stay separate because a taco is not a closed parcel. Quesadilla stays filled-flatbread.\n\nPureed-dip/cold-dip/vegetable-spread merge into dip: blending, draining, roasting and simmering already explain their different processes. Dip has a sauce parent without a compulsory cold parent, because anchoïade is warmed. Generic sauce cannot be a root and a tagged form simultaneously. Establish root sauce, then pouring-sauce for chimichurri/dressing/marinara/bechamel/hollandaise/veloute; make-roux, emulsify and cooking steps distinguish construction. Meat ragout, raw relish and pouring custard retain real served-form differences. Roux is a process rather than an otherwise identical sauce shape.\n\nOpen-faced-toast and topped-toast become open-sandwich; toast remains a defining step when present. Plain unheated tomato bread must not inherit mandatory toast/bake. Garlic bread retains baked-bread because it is a reheated coated loaf rather than topped open slices. Small baked rolls remain baked-roll; yeast is not inferred for cassava-cheese starch rolls. Plain-flatbread is baked-flatbread for the assigned pita, and flatbread is griddled-flatbread for the assigned arepa; those are literal renames restricted to these reviewed proposals.\n\nChunky-soup and brothy-soup merge: the shared shape is solids in broth without claiming transparent consommé. Keep existing clear-soup unchanged, plus cold-creamy-soup and starch-thickened-soup: smooth cold emulsions, roux/purees and starch-thickened broths differ in how they eat. Pudding is renamed rice-pudding only because its sole reviewed use is rice pudding. Steamed Christmas pudding and figgy pudding share steamed-pudding; baked bread pudding stays distinct. Creme brulee and crema catalana share caramelized-custard; an inherent baked ancestor would wrongly prescribe one process to all caramel-topped custards.\n\n## Avoid forced ancestry\n\nBreaded chicken parmesan and tonkatsu share fried-cutlet under fried-crisp. Do not make baking an ancestor: parmesan baking remains explicit in its steps. Fried-filled-pastry is wrapped/fried-crisp without sweets, because cannoli/paczki and savory samosa all use it. Laminated-pastry likewise does not require sweets: butter lamination is the shape/process, and sweetness varies. Savory pies/tarts avoid the existing sweet pie/tart ancestors.\n\nUse meat-dish for confit and whole roast as well as drained poached meat. Confit is not obligatorily baked, sliced or in sauce. Pot-au-feu can use poached-meat for its drained meat/vegetables while broth service is described in the review; no thick stew implied. Unfilled and liver dumplings use dough-dish rather than wrapped: neither encloses a filling. Liver dumplings also connect to soup for their served broth. Omelette and scrambled cod/potato use pan-cooked, not griddled or wok-fried by force. Root soft-dish permits mashed-dish without calling aligot soup/casserole. Whole seasoned/poached eggs use cooked-egg. Sashimi raw-slices maps to existing cold-sliced, which already covers fish via gravlax as well as meat.\n\n## Bases and aromatics\n\nAll36 requested bases have direct culinary parent judgments. Nuts are their own culinary family; almond/hazelnut/peanut descend from it (peanut is botanically a legume, but this culinary family reflects nut-like taste and peanut-butter use). Chickpea/black-eyed-pea descend from beans. Mushroom is culinary vegetable; coconut/banana/palm fruit descend from fruit. Stock/oil/starch and distinct starchy roots remain independent families: do not pretend generic stock is a known meat species or yam/cassava is potato. No existing base ancestry changes are proposed.\n\nNut/nutty consolidate into nuts, and the single pastry aroma label becomes the existing bread note for generic baked-wheat flavor, without inferring butter. Floral is resolved to orange-blossom because the only assigned use explicitly names orange-blossom water. Specific almond/walnut, wine/sherry/rum, whole-wheat/buckwheat, black/white pepper and milk/cream remain distinct supported aromatics. Sugar-syrup adds no nonbasic flavor and is removed by a dish-specific exception instead of assigned a fictional synonym.\n\nPuree and blend consolidate into blend. Keep grind/mince, whisk/whip and ferment/proof distinct: grain/poppy grinding differs from raw-meat fine chopping, gentle egg mixing differs from aeration, and souring/fermentation of kimchi/dosa differs from dough expansion. Correct meringue whisk to whip explicitly. Cooked-sugar set, rice crisping, tea-egg shell cracking and hot-oil finish are defining changes, not ordinary chopping/stirring added indiscriminately.\n\nSparse note sets are preferable to fabricated flavors: accept the plain steamed egg, gnocchi, hardtack, meringue, poached egg and sashimi exceptions, and rosewater-only lokum after removing the basic-sweetness note. Recipe/identity blockers already skipped by readers remain deferred. Root should review flags below before adopting generic variant profiles; taxonomy normalization does not resolve source identity conflicts.\n",
+  "profileFlags": [
+    {
+      "id": "Q15895670",
+      "name": "Lychee pork",
+      "severity": "form-fix",
+      "recommendation": "Use fried-pieces rather than pieces-in-sauce: source double-fries battered pork before tossing with sauce. This preserves similarity to crisp sweet-and-sour fried pieces.",
+      "suggestedOverride": {
+        "form": "fried-pieces"
+      }
+    },
+    {
+      "id": "Q138542244",
+      "name": "Acarajé",
+      "severity": "form-fix",
+      "recommendation": "Use savory-fritters rather than fried-pieces: ground, beaten bean batter forms fritters, sharing falafel’s structure, then split/fill.",
+      "suggestedOverride": {
+        "form": "savory-fritters"
+      }
+    },
+    {
+      "id": "Q276276",
+      "name": "Meringue",
+      "severity": "form-and-step-fix",
+      "recommendation": "Use meringue-dessert and whip: source beats egg whites stiff, unlike gentle whisking in omelette. Single egg note is honest.",
+      "suggestedOverride": {
+        "form": "meringue-dessert",
+        "steps": ["whip", "bake"]
+      }
+    },
+    {
+      "id": "Q182339",
+      "name": "Turkish delight",
+      "severity": "basic-taste-note",
+      "recommendation": "Drop sugar-syrup note; it only restates the basic sweet taste. Keep rosewater alone, with explicit sparse-note exception.",
+      "suggestedOverride": {
+        "notes": ["rosewater"]
+      }
+    },
+    {
+      "id": "Q1054891",
+      "name": "Laobing",
+      "severity": "form-consistency",
+      "recommendation": "Use layered-flatbread, like scallion pancake and msemmen: reader explicitly describes oil-paste rolling/folding. This is a per-profile judgment, not a global griddled-flatbread rename.",
+      "suggestedOverride": {
+        "form": "layered-flatbread"
+      }
+    },
+    {
+      "id": "Q312839",
+      "name": "Crème brûlée",
+      "severity": "check-process",
+      "recommendation": "Check whip step: egg/sugar whisking is not necessarily aeration; ordinary custard should not acquire meringue/cake aeration affinity without source support. Form resolves to caramelized-custard."
+    },
+    {
+      "id": "Q59170",
+      "name": "Strudel",
+      "severity": "broad-identity",
+      "recommendation": "Generic record includes savory fillings. Existing fruit/sweet profile is explicitly an apple representative; disclose/narrow this representative or defer instead of presenting universal taste."
+    },
+    {
+      "id": "Q205762",
+      "name": "Goulash",
+      "severity": "broad-identity",
+      "recommendation": "Reader chose thick-stew despite soup recipe and Hungarian ordinary identity. Review alongside Gulyásleves Q3503333 to avoid profiling the same Hungarian soup twice or conflating distinct stew/soup forms."
+    },
+    {
+      "id": "Q4243948",
+      "name": "Mango pomelo sago",
+      "severity": "recipe-identity",
+      "recommendation": "Only supplied method substitutes chia and grapefruit, with no sago cooking. Current profile models that fruit cup, not canonical sago process. Label as supplied variant or defer canonical identity."
+    },
+    {
+      "id": "Q24837089",
+      "name": "Ayam buah keluak",
+      "severity": "recipe-identity",
+      "recommendation": "Recipe calls nuts Bancoul (candlenut) rather than characteristic buah keluak. Reader excludes nut identity/taste, leaving generic chicken/herbs/seafood; consider deferring until source ingredient identity is checked."
+    },
+    {
+      "id": "Q842566",
+      "name": "Crema catalana",
+      "severity": "variant-process",
+      "recommendation": "Supplied recipe bakes in water bath, but ordinary crema catalana is stove-set. Keep only as explicitly recipe-backed variant or review source before making generic process claims. Canonical caramelized-custard form itself fits."
+    },
+    {
+      "id": "Q5728279",
+      "name": "Bienmesabe",
+      "severity": "broad-identity",
+      "recommendation": "Spanish almond paste profile does not describe Venezuelan coconut cake under merged countries; profile should say representative Spanish almond version."
+    },
+    {
+      "id": "Q7811415",
+      "name": "Toast sandwich",
+      "severity": "optional-flavor",
+      "recommendation": "Butter/pepper are optional pan-toast variants; ensure profile notes do not imply universal butter richness."
+    },
+    {
+      "id": "Q1139527",
+      "name": "California roll",
+      "severity": "base-variant",
+      "recommendation": "Crab versus fish-based surimi varies; base shellfish is only representative. Rice-roll form is correctly shared with gimbap while vinegar remains a note, not form taxonomy."
+    },
+    {
+      "id": "Q654159",
+      "name": "Chicken tikka masala",
+      "severity": "inferred-upstream-process",
+      "recommendation": "Marinate/grill are inferred from prepared tikka, not performed in supplied sauce recipe. Defining ordinary process can justify them, but evidence should explicitly preserve this inference."
+    },
+    {
+      "id": "Q836151",
+      "name": "Cannoli",
+      "severity": "inferred-upstream-process",
+      "recommendation": "Deep-fry is inferred from the prepared cannoli shell identity. Evidence should distinguish that from an explicit shell-making method."
+    },
+    {
+      "id": "Q20129",
+      "name": "Omelette",
+      "severity": "step-semantics",
+      "recommendation": "Keep whisk only if treating homogenized egg mixture as defining; do not globally rename whisk to whip. Meringue has a dish-specific whip correction."
+    },
+    {
+      "id": "Q1797271",
+      "name": "Pumpkin soup",
+      "severity": "inferred-process",
+      "recommendation": "Pureeing is supported by description, not the sole supplied chunky method. Preserve disclosed representative puree inference or choose the shown chunky recipe explicitly."
+    },
+    {
+      "id": "Q1335219",
+      "name": "Samgyetang",
+      "severity": "inferred-flavor",
+      "recommendation": "Ginseng note is supported by ordinary identity/ingredient metadata but absent from the supplied method. Keep provenance of that inference."
+    }
+  ],
+  "coverage": {
+    "profileFiles": [
+      {
+        "file": "/tmp/flavor-profiles-output/00.jsonl",
+        "sha256": "5144e110fb6fcc37b5c5fa6b54a2cd78fc54c9538b29e39be4e855c65e9a29a5",
+        "count": 30
+      },
+      {
+        "file": "/tmp/flavor-profiles-output/01.jsonl",
+        "sha256": "48f480338bca40b067813f4dc5d87a21807f0649a06847280468a362021415ed",
+        "count": 30
+      },
+      {
+        "file": "/tmp/flavor-profiles-output/02.jsonl",
+        "sha256": "a43d29d39355083799ec8fbdeac68a926d7b14251d471cd7eaa994f7cec8a961",
+        "count": 29
+      },
+      {
+        "file": "/tmp/flavor-profiles-output/03.jsonl",
+        "sha256": "5253b6f6495b91e9ac6610fadfe680560d98c81847ffb731c8071dec5f04c6ed",
+        "count": 27
+      },
+      {
+        "file": "/tmp/flavor-profiles-output/04.jsonl",
+        "sha256": "d09934564d20d56e7498a274d2444b0e210250382712eef02db9bae14c9b3ebc",
+        "count": 28
+      },
+      {
+        "file": "/tmp/flavor-profiles-output/05.jsonl",
+        "sha256": "dad415a7d2787e04453597d6b91b3bf0f811ded63e715d2d9116bf1d939b8bf3",
+        "count": 28
+      },
+      {
+        "file": "/tmp/flavor-profiles-output/06.jsonl",
+        "sha256": "0e43c2e1e9c766fbf19a55c13679f0d6f6d3451f821c5e001216a2f2d904ff5d",
+        "count": 30
+      },
+      {
+        "file": "/tmp/flavor-profiles-output/07.jsonl",
+        "sha256": "81996aa9ef76ec2435c53d734ccbc3bf2454a4b5ba694c7173cb6d4d31bec668",
+        "count": 26
+      },
+      {
+        "file": "/tmp/flavor-profiles-output/08.jsonl",
+        "sha256": "9d4df6606ebf2cf45f01a0ff3f856826a7dcb2d441b95a8cee913277cedf9fd5",
+        "count": 29
+      },
+      {
+        "file": "/tmp/flavor-profiles-output/09.jsonl",
+        "sha256": "9909b9947e4972713ef9eaa1276f6ed9baec1778bccdb51bd4530d1d4e960dc7",
+        "count": 28
+      }
+    ],
+    "notesFiles": [
+      {
+        "file": "/tmp/flavor-profiles-output/00-notes.md",
+        "sha256": "4cacdb1bc59b19bbe5ad95b5420a7b9145ebd6138a87cbad695fac82e00302a6"
+      },
+      {
+        "file": "/tmp/flavor-profiles-output/01-notes.md",
+        "sha256": "fecf45617697ba3da59b005368425a453075e2fb4a90b043323a6ac9d677dc3d"
+      },
+      {
+        "file": "/tmp/flavor-profiles-output/02-notes.md",
+        "sha256": "03eafba4dd0b94290af15463249e8534aac66763394a86c45cf9489de9e6da88"
+      },
+      {
+        "file": "/tmp/flavor-profiles-output/03-notes.md",
+        "sha256": "efcd444ae2b13c8061f6074c3b5a0d794693b200bd34374af1beaacb2d31c42b"
+      },
+      {
+        "file": "/tmp/flavor-profiles-output/04-notes.md",
+        "sha256": "6ac8beb6f9d387a63de17c25020f9b44494ce649fc160502c8cbea2eaa16a06b"
+      },
+      {
+        "file": "/tmp/flavor-profiles-output/05-notes.md",
+        "sha256": "4d9d75445e65a298b6e7633f94dcfe50185124157dab7cfabfabdf8dcedc3e06"
+      },
+      {
+        "file": "/tmp/flavor-profiles-output/06-notes.md",
+        "sha256": "13380a4702f86d6fdbace7eb1330b568af025ea868d8a2ffcc87c6799f3d3781"
+      },
+      {
+        "file": "/tmp/flavor-profiles-output/07-notes.md",
+        "sha256": "ecb27ab4999354384c1b03afb0fa6b535936cd6337f4b576750a6463c71953d0"
+      },
+      {
+        "file": "/tmp/flavor-profiles-output/08-notes.md",
+        "sha256": "b9e1b5a67e31e9abe9349a0d3aa679d2c4e4850677b52e8702121456de3954f7"
+      },
+      {
+        "file": "/tmp/flavor-profiles-output/09-notes.md",
+        "sha256": "d040073b872c9459ebaf197b888c6e17d21f4bb728b7d8dcc2c57e9d6c64fe45"
+      }
+    ],
+    "profileCount": 285
+  }
+}

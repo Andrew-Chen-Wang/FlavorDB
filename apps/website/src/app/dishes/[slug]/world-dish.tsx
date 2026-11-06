@@ -1,3 +1,5 @@
+import { SimilarDishes } from "@website/components/site/similar-dishes"
+import { similarWorldDishes } from "@website/lib/data"
 import { Breadcrumb, ChipLink, Container, SectionHeading } from "@website/components/site/ui"
 import { type WorldDish, commonsPage, commonsThumb, countryName } from "@website/lib/world"
 import type { WorldRecipe } from "@flavor-db/world-dishes"
@@ -11,6 +13,7 @@ const LICENSE_NAMES: Record<string, { label: string; url: string }> = {
 
 /** The page for an imported dish. */
 export function WorldDishView({ dish }: { dish: WorldDish }) {
+  const similar = similarWorldDishes(dish.id)
   const zh = dish.names.zh && dish.names.zh !== dish.name ? dish.names.zh : undefined
 
   return (
@@ -147,6 +150,8 @@ export function WorldDishView({ dish }: { dish: WorldDish }) {
             <WorldRecipes recipes={dish.recipes} />
           )}
         </section>
+
+        {similar && <SimilarDishes similar={similar} />}
 
         <section className={"pt-14 text-sm text-ink-3"}>
           <h2 className={"mb-2 text-[13px] font-semibold tracking-[0.08em] uppercase"}>Sources</h2>
