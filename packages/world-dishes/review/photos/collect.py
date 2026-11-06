@@ -58,7 +58,8 @@ def fetch_uncached(url, file, binary):
         data = file.read_bytes()
         return data if binary else json.loads(data)
     for attempt in range(6):
-        time.sleep(1.5)
+        # Static thumbnail downloads use a shorter serialized pause; API calls stay slower.
+        time.sleep(0.35 if binary else 1.5)
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA})
             with urllib.request.urlopen(req, timeout=60) as response:
@@ -132,17 +133,50 @@ def collect(args):
                     add(dish, image, source)
         save(file, candidates)
         print("Candidates", len(candidates), flush=True)
-    elif args.source == "wikipedia":
+    elif args.source in ("wikipedia", "wikipedia-names"):
         groups = {}
+        unavailable_names = []
+        wikipedia_hosts = {}
+        if args.source == "wikipedia-names":
+            matrix = api("www.wikidata.org", action="sitematrix")["sitematrix"]
+            for item in matrix.values():
+                if not isinstance(item, dict) or "site" not in item:
+                    continue
+                for site in item["site"]:
+                    if site.get("code") == "wiki" and "closed" not in site:
+                        wikipedia_hosts[item["code"]] = urllib.parse.urlparse(site["url"]).hostname
+            wikipedia_hosts["nb"] = wikipedia_hosts["no"]
+            wikipedia_hosts["pt-br"] = wikipedia_hosts["pt"]
+            wikipedia_hosts["zh-tw"] = wikipedia_hosts["zh"]
         for dish in dishes:
             for url in dish["wikipedia"].values():
                 parsed = urllib.parse.urlparse(url)
                 title = urllib.parse.unquote(parsed.path.removeprefix("/wiki/"))
                 groups.setdefault(parsed.hostname, {}).setdefault(title, []).append((dish, url))
+            if args.source == "wikipedia-names":
+                # Titles only generate candidates; readers must still establish identity.
+                names = dict(dish.get("names", {}))
+                source = dish["id"].split(":", 1)[0]
+                language = source.removeprefix("wikibooks-") if source.startswith("wikibooks-") else "zh" if source == "howtocook" else "en"
+                names.setdefault(language, dish["name"])
+                for lang, title in names.items():
+                    host = wikipedia_hosts.get(lang)
+                    if host:
+                        url = "https://" + host + "/wiki/" + urllib.parse.quote(title.replace(" ", "_"))
+                        groups.setdefault(host, {}).setdefault(title, []).append((dish, url))
+                    else:
+                        unavailable_names.append({"id": dish["id"], "language": lang, "name": title})
+        coverage_file = CACHE / (args.source + "-coverage.json")
+        coverage = {"source": args.source, "missingIds": [d["id"] for d in dishes],
+                    "plannedTitles": {host: len(titles) for host, titles in groups.items()},
+                    "namesWithoutWikipediaSite": unavailable_names,
+                    "completed": []}
+        save(coverage_file, coverage)
         for host, titles in groups.items():
             names = list(titles)
             for start in range(0, len(names), 40):
                 batch = names[start:start + 40]
+                previous_count = len(candidates)
                 data = api(host, action="query", prop="pageimages", piprop="name",
                            pilicense="free", redirects=1, titles="|".join(batch))
                 aliases = {p["title"]: p for p in data.get("query", {}).get("pages", [])}
@@ -157,7 +191,11 @@ def collect(args):
                     if image:
                         for dish, url in titles[title]:
                             add(dish, image, url)
-                save(file, candidates)
+                if len(candidates) != previous_count:
+                    save(file, candidates)
+                coverage["completed"].append({"host": host, "titles": batch,
+                    "dishIds": sorted({d["id"] for title in batch for d, _ in titles[title]})})
+                save(coverage_file, coverage)
                 print(host, start + len(batch), "/", len(names), "candidates", len(candidates), flush=True)
     elif args.source == "search":
         for dish in dishes[args.offset:args.offset + args.limit]:
@@ -216,7 +254,7 @@ def sheets(args):
     for start in range(args.offset, min(len(candidates), args.offset + args.limit), 30):
         sheet = Image.new("RGB", (1500, 1320), "white")
         draw = ImageDraw.Draw(sheet)
-        for i, candidate in enumerate(candidates[start:start + 30]):
+        for i, candidate in enumerate(candidates[start:min(start + 30, args.offset + args.limit)]):
             x, y = (i % 6) * 250, (i // 6) * 264
             info = candidate.get("commons", {})
             url = info.get("thumburl")
@@ -259,10 +297,16 @@ def apply(args):
         value = {"image": candidate["image"], "from": candidate["from"]}
         meta = info["extmetadata"]
         credit = {"author": verdict.get("author") or PlainText(meta.get("Attribution", meta.get("Artist", {})).get("value", "")).text(), "license": verdict["license"]}
-        license_url = meta.get("LicenseUrl", {}).get("value")
+        if verdict.get("creditAuthorUrl"):
+            assert urllib.parse.urlparse(verdict["creditAuthorUrl"]).scheme in ("http", "https")
+            credit["authorUrl"] = verdict["creditAuthorUrl"]
+        license_url = verdict.get("creditLicenseUrl") or meta.get("LicenseUrl", {}).get("value")
         if license_url:
             assert urllib.parse.urlparse(license_url).scheme in ("http", "https")
             credit["licenseUrl"] = license_url
+        if verdict.get("creditSourceUrl"):
+            assert urllib.parse.urlparse(verdict["creditSourceUrl"]).scheme in ("http", "https")
+            credit["sourceUrl"] = verdict["creditSourceUrl"]
         assert credit["author"]
         value["credit"] = credit
         assert candidate["id"] not in images or images[candidate["id"]] == value
@@ -277,7 +321,7 @@ def snapshot(args):
         candidate["commons"] = {k: info[k] for k in ("descriptionurl", "extmetadata") if k in info}
         meta = candidate["commons"].get("extmetadata", {})
         candidate["commons"]["extmetadata"] = {k: meta[k] for k in (
-            "ImageDescription", "Artist", "Credit", "LicenseShortName", "LicenseUrl",
+            "ImageDescription", "ObjectName", "DateTimeOriginal", "Artist", "Credit", "LicenseShortName", "LicenseUrl",
             "UsageTerms", "Attribution", "Restrictions",
         ) if k in meta}
     save(ROOT / "review/photos/candidates.json", candidates)
@@ -286,7 +330,7 @@ def snapshot(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("command", choices=["collect", "metadata", "sheets", "snapshot", "apply"])
-    parser.add_argument("--source", choices=["wikipedia", "wikidata", "search", "known"], default="wikipedia")
+    parser.add_argument("--source", choices=["wikipedia", "wikipedia-names", "wikidata", "search", "known"], default="wikipedia")
     parser.add_argument("--offset", type=int, default=0)
     parser.add_argument("--limit", type=int, default=30)
     args = parser.parse_args()

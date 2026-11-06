@@ -49,8 +49,15 @@ describe("found photos", () => {
       expect(image.image).toBe(verdict.image)
       expect(image.credit?.license).toBe(verdict.license)
       expect(image.credit?.license).toMatch(
-        /^(CC BY(?:-SA)? (?:[1-4]\.0|2\.5)|CC0|Public domain|GFDL 1\.2)$/,
+        /^(CC BY(?:-SA)? (?:[1-4]\.0|2\.5)(?: (?:de|fr|kr|pl))?|CC0|Public domain|GFDL(?: 1\.2)?|KOGL Type 1|Copyrighted free use|CeCILL)$/,
       )
+      if (image.credit?.license === "KOGL Type 1") {
+        expect(image.credit.sourceUrl).toMatch(/^https?:\/\//)
+      }
+      if (image.image === "Red_bean_paste.png") {
+        expect(image.credit?.sourceUrl).toBe("http://uci.or.kr/G903:PI0-000752253")
+        expect(image.credit?.author).toBe("EBS, Red bean paste (2015)")
+      }
       expect(image.credit?.author).toBeTruthy()
       expect(byId.get(verdict.id)?.imageCredit).toEqual(image.credit)
       expect(verdict.reason).toBeTruthy()

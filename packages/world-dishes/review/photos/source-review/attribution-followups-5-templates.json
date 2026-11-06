@@ -1,0 +1,98 @@
+[
+  {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "ns": 6,
+          "title": "File:Apple fritter.jpg",
+          "missing": true,
+          "known": true
+        }
+      ]
+    }
+  },
+  {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 1473,
+          "ns": 10,
+          "title": "Template:Copyrighted free use",
+          "revisions": [
+            {
+              "revid": 849118607,
+              "parentid": 358279807,
+              "timestamp": "2024-02-05T04:36:56Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{{#invoke:Autotranslate|autotranslate|base=Copyrighted free use|1={{{nowarn|}}}|2={{{author|}}} }}{{#ifeq:{{NAMESPACE}}|File|{{{category|[[Category:Copyrighted free use|{{PAGENAME}}]]}}}}}<noinclude>\n\n{{In category|Copyrighted free use}}\n\n{{documentation}}\n\n[[Category:License tags|{{PAGENAME}}]]\n</noinclude>"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 26765,
+          "ns": 10,
+          "title": "Template:PD-self",
+          "revisions": [
+            {
+              "revid": 708258897,
+              "parentid": 702164491,
+              "timestamp": "2022-11-21T01:31:16Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{| {{PD-Layout|lang={{int:lang}}}}\n| [[File:PD-icon.svg|64px|link=|Public domain]]\n| {{#if:{{{author|}}}\n | {{int:Wm-license-pd-author-with-author-text|{{{author|}}}}}<br /><small>{{int:Wm-license-pd-author-not-legally-possible}}</small><br />''{{int:wm-license-pd-author-with-author-any-purpose|{{{author|}}}}}''\n | {{int:Wm-license-pd-author-self-text}}<br /><small>{{int:Wm-license-pd-author-not-legally-possible}}</small><br />''{{int:wm-license-pd-author-self-any-purpose}}''\n }}\n|}<includeonly>{{#ifeq:{{NAMESPACE}}|File|{{{category|[[Category:Self-published work|{{PAGENAME}}]][[Category:PD-self|{{PAGENAME}}]]}}}\n{{SDC_statement_has_value\n |property             = P275\n |value                = Q98592850\n |missing_category     = Released into the public domain by the copyright holder missing SDC copyright license\n |mismatching_category = Released into the public domain by the copyright holder with different SDC copyright license\n}}\n}}</includeonly><noinclude>\n\n{{In category|PD-self}}\n\n{{documentation}}\n\n[[Category:PD license tags|Self]]\n</noinclude>"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 317731,
+          "ns": 10,
+          "title": "Template:GFDL-1.2",
+          "revisions": [
+            {
+              "revid": 907790755,
+              "parentid": 485838259,
+              "timestamp": "2024-08-08T19:09:51Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "{| {{GNU-Layout|lang={{int:lang}}}}\n|[[File:{{#ifeq:{{#dir:{{int:lang}}}}|rtl|Heckert GNU left white|Heckert GNU white}}.svg|64px|link=|GNU head]]\n| {{int:Wm-license-gfdl-1.2-only}}\n| <span style=\"font-size:20px; font-weight:bold\">{{int:Wm-license-gfdl-1.2-only-header}}</span><span class=\"licensetpl_link\" style=\"display:none;\"><nowiki>http://</nowiki>www.gnu.org/licenses/old-licenses/fdl-1.2.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL 1.2</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License 1.2</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span>\n|}<includeonly>{{#ifeq:{{NAMESPACE}}|File|{{{category|[[Category:GFDL-1.2|{{PAGENAME}}]]}}}\n{{SDC_statement_has_value\n |property             = P275\n |value                = Q26921686\n |missing_category     = GNU Free Documentation License missing SDC copyright license\n |mismatching_category = GNU Free Documentation License with different SDC copyright license\n}}\n}}</includeonly><noinclude>\n\n{{Documentation}}\n\n</noinclude>"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 35149343,
+          "ns": 10,
+          "title": "Template:NoRightsReserved",
+          "revisions": [
+            {
+              "revid": 58819501,
+              "parentid": 57630608,
+              "timestamp": "2011-09-03T02:07:25Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "content": "#REDIRECT [[Template:No rights reserved]] {{Template redirect|deprecated}} {{Template redirect|license}}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

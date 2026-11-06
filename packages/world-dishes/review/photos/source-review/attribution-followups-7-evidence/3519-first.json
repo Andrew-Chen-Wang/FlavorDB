@@ -1,0 +1,62 @@
+{
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&titles=File%3ADippin%27+Dots+Rainbow+Flavored+Ice.jpg&prop=revisions&rvprop=ids%7Ctimestamp%7Cuser%7Ccomment%7Ccontent&rvslots=main&rvdir=newer&rvlimit=3&format=json",
+  "response": {
+    "continue": {
+      "rvcontinue": "20050811223028|617849",
+      "continue": "||"
+    },
+    "query": {
+      "pages": {
+        "265392": {
+          "pageid": 265392,
+          "ns": 6,
+          "title": "File:Dippin' Dots Rainbow Flavored Ice.jpg",
+          "revisions": [
+            {
+              "revid": 617837,
+              "parentid": 0,
+              "user": "RadioActive~commonswiki",
+              "timestamp": "2005-08-11T22:28:37Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "[[:en:Dippin' Dots]] Raindow Flavored Ice, taken by me.\n{{PD-User|RadioActive}}"
+                }
+              },
+              "comment": "[[:en:Dippin' Dots]] Raindow Flavored Ice, taken by me.\n{{PD-User|RadioActive}}"
+            },
+            {
+              "revid": 617839,
+              "parentid": 617837,
+              "user": "RadioActive~commonswiki",
+              "timestamp": "2005-08-11T22:28:50Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "[[:en:Dippin' Dots]] Raindow Flavored Ice, taken by me.\n{{PD-user|RadioActive}}"
+                }
+              },
+              "comment": ""
+            },
+            {
+              "revid": 617846,
+              "parentid": 617839,
+              "user": "RadioActive~commonswiki",
+              "timestamp": "2005-08-11T22:29:48Z",
+              "slots": {
+                "main": {
+                  "contentmodel": "wikitext",
+                  "contentformat": "text/x-wiki",
+                  "*": "[[w:Dippin' Dots|Dippin' Dots]] Raindow Flavored Ice, taken by me.\n{{PD-user|RadioActive}}"
+                }
+              },
+              "comment": ""
+            }
+          ]
+        }
+      }
+    }
+  }
+}

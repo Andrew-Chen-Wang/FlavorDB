@@ -1,0 +1,54 @@
+[
+  {
+    "candidate": 2473,
+    "decision": "credit",
+    "author": "Rainer Zenz",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Rheinische_Muscheln.jpg&oldid=1501450",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Rainer_Zenz",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Rheinische_Muscheln.jpg",
+    "reason": "Read original 11 March 2006 revision authored by Rainer Zenz: it contains a first-person copyright-holder publication under GFDL and CC BY-SA 2.5/2.0/1.0. This establishes his license claim beyond merely being the uploader. Current page offers CC BY-SA 3.0. File history shows his 2010 restoration of original background, superseding Liandrei's crop. Current summary's assumed author comes from that original copyright claim."
+  },
+  {
+    "candidate": 2676,
+    "decision": "credit",
+    "author": "Txapulín",
+    "authorSource": "https://commons.wikimedia.org/wiki/File:Cal%C3%A7ots_i_romesco.jpg",
+    "creditSourceUrl": "https://www.flickr.com/photos/txapulin/6311625/",
+    "reason": "File page explicitly labels the author Txapulín and supplies this Flickr source; all three original upload summaries repeat that author and source. Commons records Dodo's 30 November 2006 Flickr review confirming CC BY 2.0. Missing machine-readable Artist is an infobox omission, not absent author evidence."
+  },
+  {
+    "candidate": 2728,
+    "decision": "credit",
+    "author": "Rainer Zenz (photograph); Kittycataclysm (brightness/color adjustment)",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Joghurt.jpg&oldid=1647371",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Rainer_Zenz",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Joghurt.jpg",
+    "reason": "Read original 4 April 2006 revision by Rainer Zenz, containing a first-person copyright-holder publication under GFDL and CC BY-SA 2.5/2.0/1.0; this is his license claim, not uploader inference alone. Current file history additionally identifies Kittycataclysm's 23 November 2023 brightness/color edit, so include that edit credit for the current version. Current page offers CC BY-SA 3.0."
+  },
+  {
+    "candidate": 2787,
+    "decision": "credit",
+    "author": "Jon Sullivan",
+    "authorSource": "https://commons.wikimedia.org/wiki/File:Sugar_cones.jpg#Licensing",
+    "creditSourceUrl": "http://pdphoto.org/PictureDetail.php?mat=pdef&pg=8604",
+    "reason": "Commons licensing section explicitly identifies author and copyright holder Jon Sullivan and records worldwide public-domain release with fallback unrestricted use. Original upload log identifies PDPhoto source. Larsinio is only the English Wikipedia uploader and must not be credited as photographer. Credit is informative rather than required by this public-domain release."
+  },
+  {
+    "candidate": 2663,
+    "decision": "credit",
+    "author": "onnoth",
+    "authorSource": "https://commons.wikimedia.org/wiki/File:Peras_al_vino_-_onnoth.jpg#Licensing",
+    "creditAuthorUrl": "https://www.flickr.com/people/50403002@N00",
+    "creditSourceUrl": "https://www.flickr.com/photos/vaionnoth/7556402382/",
+    "reason": "Commons explicitly requests attribution as onnoth under CC BY 2.0, despite Author display name demi. Flickr review identifies the same numerical account as onnoth and confirms license on 21 July 2012. Use requested attribution, with linked source and author account, rather than replacing it with the current display name."
+  },
+  {
+    "candidate": 2721,
+    "decision": "credit",
+    "author": "Fpenteado at en.wikipedia",
+    "authorSource": "https://commons.wikimedia.org/wiki/File:Bacalhau_a_Bras.jpg#Licensing",
+    "creditAuthorUrl": "https://en.wikipedia.org/wiki/User:Fpenteado",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Bacalhau_a_Bras.jpg",
+    "reason": "Summary quotes Fpenteado's own-work statement, original upload log repeats it, and CC BY-SA 3.0 licensing explicitly requests Fpenteado at en.wikipedia. Ggabriel is the Commons transfer user and must not replace the creator credit."
+  }
+]

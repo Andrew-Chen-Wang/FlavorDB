@@ -2,20 +2,19 @@
 
 ## First pass: 6 November 2026
 
-From main `c49866d`, 17,632 of 29,984 imported dishes had no photo. This pass reviewed **502
-candidates**, accepted **157 photos** and rejected **345**. Supplemental photos rose from 1,868 to
-2,025; **17,475 dishes still have no photo**. This is an initial pass, not complete photo coverage.
+From main `c49866d`, 17,632 of 29,984 imported dishes had no photo. Reviewed 3,585 candidates: **1,387 accepted**, **2,198 rejected**. Supplemental photos rose from 1,868 to 3,255; **16,245 dishes still lack photos**. See `summary.json`. Every accepted image was viewed against the dish; unavailable thumbnails were rejected rather than guessed.
 
-Discovery covered every supplied Wikipedia link among the missing dishes (764 dishes), exact-name
-candidate comparisons against existing catalog photos, P18/P373 for the first 40 missing Wikidata
-ids, and Commons searches for all supplied names of the first 120 missing dishes in sorted shard
-order. The Wikipedia, existing-source, Wikidata and name-search passes contributed 118, 144, 21 and
-219 candidates respectively. See `discovery.json` for the precise ids/queries and baseline.
+Discovery covered every supplied Wikipedia link among missing dishes (764 dishes), exact-name
+comparisons against existing catalog photos, P18/P373 for 6,442 distinct Wikidata ids, and Commons
+searches for all supplied names of 254 dishes. After the first 157 approvals, every one of the
+17,475 still-missing records received Wikipedia title checks: 20,780 titles across 97 language
+hosts. `wikipedia-name-coverage.json` records every completed title and dish id, plus aliases without
+an active Wikipedia host. Wikipedia leads requested `pilicense=free` still required separate Commons
+license and visual review. See `discovery.json` for exact ids, queries and discovery windows.
 
-**Still to do:** Commons name searches for the remaining dishes, P18/P373 checks for the remaining
-Wikidata ids, and further category/search alternatives where the first results were unsuitable. A
-missing image must not be interpreted as proof that no suitable Commons image exists. Original
-photos present before this pass were not re-reviewed.
+**Still to do:** broader Commons name searches beyond those 254 dishes, deeper categories beyond
+the first five files, and alternatives where lead images failed review. A missing image is not proof
+that no suitable Commons image exists. Original photos present before this work were not re-reviewed.
 
 Photo candidates are suggestions, not approved matches. A model reads each dish's name and description
 (and its recipe when necessary), looks at the thumbnail, and records an individual decision and reason
@@ -46,6 +45,7 @@ the application produces the same `images.json`.
 
 ```sh
 python3 packages/world-dishes/review/photos/collect.py collect --source wikipedia
+python3 packages/world-dishes/review/photos/collect.py collect --source wikipedia-names
 python3 packages/world-dishes/review/photos/collect.py collect --source known
 python3 packages/world-dishes/review/photos/collect.py collect --source wikidata --offset 0 --limit 40
 python3 packages/world-dishes/review/photos/collect.py collect --source search --offset 0 --limit 120
@@ -82,3 +82,16 @@ python3 packages/world-dishes/review/photos/collect.py apply
 
 The snapshot excludes downloaded image bytes. Nothing chooses a photo based on keywords, extensions,
 search rank, category membership or name equality.
+
+## Attribution follow-up
+
+`source-review/` retains primary Commons revisions, individual attribution investigations and visual
+duplicate comparisons. The final ledger includes those literal corrections. Missing creator fields
+were resolved from explicit photographer or original copyright-holder declarations, not transfer
+accounts. Conflicting third-party rights on the MAFF Keiran photo and unresolved provenance on an
+apple-fritter photo caused rejection. No creator was contacted.
+
+Credits retain required author text and original-source links. Full, unmodified GFDL 1.2 and CeCILL
+2.0 license copies ship in `apps/website/public/licenses/`; applicable captions link to those copies.
+The source URLs and SHA-256 hashes are in `source-review/license-copies.json`. These licenses apply to
+the corresponding photos, not the application. Existing credit and Commons file links remain visible.
