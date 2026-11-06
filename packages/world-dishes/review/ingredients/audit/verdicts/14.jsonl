@@ -1,0 +1,200 @@
+{"audit": 2800, "lang": "labels", "text": "paleron", "ids": ["beef-chuck"]}
+{"audit": 2801, "lang": "labels", "text": "palillo", "ids": ["palillo"]}
+{"audit": 2802, "lang": "labels", "text": "Palinuridae", "ids": ["spiny-lobster"]}
+{"audit": 2803, "lang": "labels", "text": "Panamito", "ids": ["panamito"]}
+{"audit": 2804, "lang": "labels", "text": "Panax ginseng", "ids": ["ginseng"]}
+{"audit": 2805, "lang": "labels", "text": "panch phoron", "ids": ["panch-phoron"]}
+{"audit": 2806, "lang": "labels", "text": "panga", "ids": ["panga"]}
+{"audit": 2807, "lang": "labels", "text": "Pangasiidae", "ids": ["panga"]}
+{"audit": 2808, "lang": "labels", "text": "Pangasius", "ids": ["panga"]}
+{"audit": 2809, "lang": "labels", "text": "Pangium edule", "ids": ["pangi-nut"], "unusual": "Pangi nut is an unusual regional ingredient; retained for user decision."}
+{"audit": 2810, "lang": "labels", "text": "Pansette de Gerzat", "ids": ["pansette"]}
+{"audit": 2811, "lang": "labels", "text": "papad", "ids": ["papad"]}
+{"audit": 2812, "lang": "labels", "text": "papada de cerdo", "ids": ["pork-jowl"]}
+{"audit": 2813, "lang": "labels", "text": "papain", "ids": ["papain"]}
+{"audit": 2814, "lang": "labels", "text": "Paphies ventricosa", "ids": ["clams"], "reason": "Paphies ventricosa is toheroa, not pipi (Paphies australis); use the existing broad clam id because no toheroa id exists."}
+{"audit": 2815, "lang": "labels", "text": "pappardelle", "ids": ["pappardelle"]}
+{"audit": 2816, "lang": "labels", "text": "Paraguay cheese", "ids": ["paraguay-cheese"]}
+{"audit": 2817, "lang": "labels", "text": "paratha", "ids": ["paratha"]}
+{"audit": 2818, "lang": "labels", "text": "Parkia speciosa", "ids": ["petai"]}
+{"audit": 2819, "lang": "labels", "text": "Parkia timoriana", "ids": ["beans"], "reason": "Parkia timoriana is tree bean, distinct from petai (Parkia speciosa); use the existing broad beans id."}
+{"audit": 2820, "lang": "labels", "text": "Parmesan Cheese", "ids": ["parmesan"]}
+{"audit": 2821, "lang": "labels", "text": "parrot", "ids": ["parrot"], "unusual": "Parrot as a meat ingredient is unusual; retained for user decision."}
+{"audit": 2822, "lang": "labels", "text": "pasta all'uovo", "ids": ["egg-pasta"]}
+{"audit": 2823, "lang": "labels", "text": "pastrami", "ids": ["pastrami"]}
+{"audit": 2824, "lang": "labels", "text": "pastırma", "ids": ["cured-meat"], "reason": "Turkish pastirma in Ayvalik tostu is air-dried cured meat, not brined/smoked pastrami; use the existing cured-meat fallback."}
+{"audit": 2825, "lang": "labels", "text": "Patella vulgata", "ids": ["limpet"]}
+{"audit": 2826, "lang": "labels", "text": "Pawpaw", "ids": ["pawpaw"]}
+{"audit": 2827, "lang": "labels", "text": "pejerreyes", "ids": ["silverside"]}
+{"audit": 2828, "lang": "labels", "text": "pekmez", "ids": ["pekmez"]}
+{"audit": 2829, "lang": "labels", "text": "Pennisetum glaucum", "ids": ["pearl-millet"]}
+{"audit": 2830, "lang": "labels", "text": "Peperone crusco", "ids": ["dried-pepper"]}
+{"audit": 2831, "lang": "labels", "text": "Pepperoncini", "ids": ["pepperoncini"]}
+{"audit": 2832, "lang": "labels", "text": "peri-peri sauce", "ids": ["peri-peri-sauce"]}
+{"audit": 2833, "lang": "labels", "text": "Persicaria bistorta", "ids": ["bistort"]}
+{"audit": 2834, "lang": "labels", "text": "Persicaria odorata", "ids": ["vietnamese-coriander"]}
+{"audit": 2835, "lang": "labels", "text": "Petroselinum crispum", "ids": ["parsley"]}
+{"audit": 2836, "lang": "labels", "text": "Phaseolus", "ids": ["beans"], "reason": "Phaseolus names the bean genus, not specifically common bean (Phaseolus vulgaris); avoid the over-specific species mapping."}
+{"audit": 2837, "lang": "labels", "text": "Phaseolus vulgaris", "ids": ["common-bean"]}
+{"audit": 2838, "lang": "labels", "text": "Phrynium placentarium", "ids": ["phrynium-leaf"]}
+{"audit": 2839, "lang": "labels", "text": "Phyllanthus emblica", "ids": ["amla"]}
+{"audit": 2840, "lang": "labels", "text": "pickled carrot", "ids": ["pickled-carrot"]}
+{"audit": 2841, "lang": "labels", "text": "pig head", "ids": ["pig-head"]}
+{"audit": 2842, "lang": "labels", "text": "pig's stomach", "ids": ["pork-stomach"]}
+{"audit": 2843, "lang": "labels", "text": "pigeon pea", "ids": ["pigeon-pea"]}
+{"audit": 2844, "lang": "labels", "text": "Pila ampullacea", "ids": ["apple-snail"]}
+{"audit": 2845, "lang": "labels", "text": "Pili pili", "ids": ["pili-pili"]}
+{"audit": 2846, "lang": "labels", "text": "Pilpelchuma", "ids": ["pilpelchuma"]}
+{"audit": 2847, "lang": "labels", "text": "pimiento choricero", "ids": ["choricero-pepper"]}
+{"audit": 2848, "lang": "labels", "text": "pimientos de piquillo", "ids": ["piquillo-pepper"]}
+{"audit": 2849, "lang": "labels", "text": "pink cusk-eel", "ids": ["cusk-eel"]}
+{"audit": 2850, "lang": "labels", "text": "pipe rigata", "ids": ["pipe-rigate"]}
+{"audit": 2851, "lang": "labels", "text": "Piper longum", "ids": ["long-pepper"]}
+{"audit": 2852, "lang": "labels", "text": "Pipián", "ids": ["pipian-sauce"]}
+{"audit": 2853, "lang": "labels", "text": "piranha", "ids": ["piranha"], "unusual": "Piranha is an unusual regional food fish; retained for user decision."}
+{"audit": 2854, "lang": "labels", "text": "pistou", "ids": ["pistou"]}
+{"audit": 2855, "lang": "labels", "text": "Placenta", "ids": ["placenta"], "unusual": "Placenta is unusual and the bare label is ambiguous between organ tissue and the historical pastry; retained pending source clarification/user decision."}
+{"audit": 2856, "lang": "labels", "text": "Plecoglossus altivelis", "ids": ["sweetfish"]}
+{"audit": 2857, "lang": "labels", "text": "Plum Sauce", "ids": ["plum-sauce"]}
+{"audit": 2858, "lang": "labels", "text": "poblano", "ids": ["poblano"]}
+{"audit": 2859, "lang": "labels", "text": "Pochas", "ids": ["pochas-beans"]}
+{"audit": 2860, "lang": "labels", "text": "poha", "ids": ["poha"]}
+{"audit": 2861, "lang": "labels", "text": "pois chiche", "ids": ["chickpea"]}
+{"audit": 2862, "lang": "labels", "text": "Polenta", "ids": ["polenta"]}
+{"audit": 2863, "lang": "labels", "text": "pollock roe", "ids": ["pollock-roe"]}
+{"audit": 2864, "lang": "labels", "text": "pomegranate molasses", "ids": ["pomegranate-molasses"]}
+{"audit": 2865, "lang": "labels", "text": "Pompano", "ids": ["pompano"]}
+{"audit": 2866, "lang": "labels", "text": "Pond loach", "ids": ["loach"]}
+{"audit": 2867, "lang": "labels", "text": "popcorn", "ids": ["popcorn"]}
+{"audit": 2868, "lang": "labels", "text": "pork bones", "ids": ["pork-bones"]}
+{"audit": 2869, "lang": "labels", "text": "pork large intestine", "ids": ["pork-intestine"]}
+{"audit": 2870, "lang": "labels", "text": "Portulaca oleracea", "ids": ["purslane"]}
+{"audit": 2871, "lang": "labels", "text": "potato syrup", "ids": ["potato-syrup"]}
+{"audit": 2872, "lang": "labels", "text": "potimarron", "ids": ["kuri-squash"]}
+{"audit": 2873, "lang": "labels", "text": "prahok", "ids": ["prahok"]}
+{"audit": 2874, "lang": "labels", "text": "prawn cracker", "ids": ["prawn-cracker"]}
+{"audit": 2875, "lang": "labels", "text": "Prei", "ids": ["leek"]}
+{"audit": 2876, "lang": "labels", "text": "Pretzel", "ids": ["pretzel"]}
+{"audit": 2877, "lang": "labels", "text": "Provel cheese", "ids": ["provel"]}
+{"audit": 2878, "lang": "labels", "text": "Prunus mume", "ids": ["ume"]}
+{"audit": 2879, "lang": "labels", "text": "Pseudorinelepis genibarbis", "ids": ["armored-catfish"], "reason": "Pseudorinelepis genibarbis is an armored catfish (the carachama in Caldo de carachama), not a loach."}
+{"audit": 2880, "lang": "labels", "text": "Psidium cattleyanum", "ids": ["guava"]}
+{"audit": 2881, "lang": "labels", "text": "Psidium guajava", "ids": ["guava"]}
+{"audit": 2882, "lang": "labels", "text": "Psophocarpus tetragonolobus", "ids": ["winged-bean"]}
+{"audit": 2883, "lang": "labels", "text": "Pteridium aquilinum", "ids": ["fern"]}
+{"audit": 2884, "lang": "labels", "text": "pumpernickel", "ids": ["pumpernickel"]}
+{"audit": 2885, "lang": "labels", "text": "Puntius", "ids": ["barb"]}
+{"audit": 2886, "lang": "labels", "text": "purslane herb", "ids": ["purslane"]}
+{"audit": 2887, "lang": "labels", "text": "pâte korma", "ids": ["korma-paste"]}
+{"audit": 2888, "lang": "labels", "text": "qishta", "ids": ["qishta"]}
+{"audit": 2889, "lang": "labels", "text": "qizha", "ids": ["qizha"], "reason": "New ingredient needed: qizha is black-cumin paste used in the semolina cake, distinct from dairy qishta cream."}
+{"audit": 2890, "lang": "labels", "text": "quatre-épices", "ids": ["quatre-epices"]}
+{"audit": 2891, "lang": "labels", "text": "quesillo", "ids": ["quesillo"]}
+{"audit": 2892, "lang": "labels", "text": "queso de Cabrales", "ids": ["cabrales"]}
+{"audit": 2893, "lang": "labels", "text": "Queso Fresco", "ids": ["queso-fresco"]}
+{"audit": 2894, "lang": "labels", "text": "queso manchego", "ids": ["manchego"]}
+{"audit": 2895, "lang": "labels", "text": "queso oaxaca", "ids": ["oaxaca-cheese"]}
+{"audit": 2896, "lang": "labels", "text": "ramen", "ids": ["ramen"]}
+{"audit": 2897, "lang": "labels", "text": "Ranch Dressing", "ids": ["ranch-dressing"]}
+{"audit": 2898, "lang": "labels", "text": "ratafia", "ids": ["ratafia"]}
+{"audit": 2899, "lang": "labels", "text": "recheado masala", "ids": ["masala"]}
+{"audit": 2900, "lang": "labels", "text": "rectified spirit", "ids": ["spirit"]}
+{"audit": 2901, "lang": "labels", "text": "Red Chile Sauce", "ids": ["red-chile-sauce"]}
+{"audit": 2902, "lang": "labels", "text": "red rice", "ids": ["red-rice"]}
+{"audit": 2903, "lang": "labels", "text": "Red Snapper", "ids": ["red-snapper"]}
+{"audit": 2904, "lang": "labels", "text": "Red-bellied piranha", "ids": ["piranha"], "unusual": "Red-bellied piranha is an unusual regional food fish; retained for user decision."}
+{"audit": 2905, "lang": "labels", "text": "reindeer meat", "ids": ["reindeer"]}
+{"audit": 2906, "lang": "labels", "text": "Relish", "ids": ["relish"]}
+{"audit": 2907, "lang": "labels", "text": "remoulade", "ids": ["remoulade"]}
+{"audit": 2908, "lang": "labels", "text": "Rhinobatidae", "ids": ["guitarfish"]}
+{"audit": 2909, "lang": "labels", "text": "rice bran", "ids": ["rice-bran"]}
+{"audit": 2910, "lang": "labels", "text": "rice water", "ids": ["rice-water"]}
+{"audit": 2911, "lang": "labels", "text": "Roe", "ids": ["fish-roe"]}
+{"audit": 2912, "lang": "labels", "text": "rognon", "ids": ["kidney"]}
+{"audit": 2913, "lang": "labels", "text": "Rohu", "ids": ["rohu"]}
+{"audit": 2914, "lang": "labels", "text": "roquefort", "ids": ["roquefort"]}
+{"audit": 2915, "lang": "labels", "text": "rose syrup", "ids": ["rose-syrup"]}
+{"audit": 2916, "lang": "labels", "text": "Roselle", "ids": ["roselle"]}
+{"audit": 2917, "lang": "labels", "text": "roti", "ids": ["roti"]}
+{"audit": 2918, "lang": "labels", "text": "roti canai", "ids": ["roti"]}
+{"audit": 2919, "lang": "labels", "text": "rouille", "ids": ["rouille"]}
+{"audit": 2920, "lang": "labels", "text": "rousong", "ids": ["meat-floss"]}
+{"audit": 2921, "lang": "labels", "text": "Russian dressing", "ids": ["russian-dressing"]}
+{"audit": 2922, "lang": "labels", "text": "saag", "ids": ["saag"]}
+{"audit": 2923, "lang": "labels", "text": "Safflower Oil", "ids": ["safflower-oil"]}
+{"audit": 2924, "lang": "labels", "text": "Sago", "ids": ["sago"]}
+{"audit": 2925, "lang": "labels", "text": "sago flour", "ids": ["sago-flour"], "reason": "The label explicitly specifies sago flour and that specific id exists."}
+{"audit": 2926, "lang": "labels", "text": "Saikyo miso", "ids": ["white-miso"]}
+{"audit": 2927, "lang": "labels", "text": "Sake kasu", "ids": ["sake-lees"]}
+{"audit": 2928, "lang": "labels", "text": "Salacca zalacca", "ids": ["salak"]}
+{"audit": 2929, "lang": "labels", "text": "Salangidae", "ids": ["icefish"]}
+{"audit": 2930, "lang": "labels", "text": "salep", "ids": ["salep"], "unusual": "Salep is orchid-tuber flour, an unusual regional ingredient; retained for user decision."}
+{"audit": 2931, "lang": "labels", "text": "Salsa americana", "ids": ["salsa-americana"]}
+{"audit": 2932, "lang": "labels", "text": "Salsa brava", "ids": ["salsa-brava"]}
+{"audit": 2933, "lang": "labels", "text": "salsa criolla", "ids": ["salsa-criolla"]}
+{"audit": 2934, "lang": "labels", "text": "Salsa golf", "ids": ["salsa-golf"]}
+{"audit": 2935, "lang": "labels", "text": "Salsa negra", "ids": ["salsa-negra"]}
+{"audit": 2936, "lang": "labels", "text": "salsa rosa", "ids": ["salsa-rosa"]}
+{"audit": 2937, "lang": "labels", "text": "Salt cod", "ids": ["salt-cod"]}
+{"audit": 2938, "lang": "labels", "text": "salt-cured meat", "ids": ["cured-meat"]}
+{"audit": 2939, "lang": "labels", "text": "salted duck egg yolk", "ids": ["salted-duck-egg"]}
+{"audit": 2940, "lang": "labels", "text": "salted fish", "ids": ["salted-fish"]}
+{"audit": 2941, "lang": "labels", "text": "Sambar masalar", "ids": ["sambar-masala"]}
+{"audit": 2942, "lang": "labels", "text": "sansho pepper", "ids": ["sansho-pepper"]}
+{"audit": 2943, "lang": "labels", "text": "Santol", "ids": ["santol"]}
+{"audit": 2944, "lang": "labels", "text": "Sarza Criolla", "ids": ["salsa-criolla"]}
+{"audit": 2945, "lang": "labels", "text": "Sasa", "ids": ["bamboo-leaves"]}
+{"audit": 2946, "lang": "labels", "text": "satay sauce", "ids": ["satay-sauce"]}
+{"audit": 2947, "lang": "labels", "text": "Satésaus", "ids": ["satay-sauce"]}
+{"audit": 2948, "lang": "labels", "text": "sauce Bourguignonne", "ids": ["bourguignonne-sauce"]}
+{"audit": 2949, "lang": "labels", "text": "sauce chasseur", "ids": ["chasseur-sauce"]}
+{"audit": 2950, "lang": "labels", "text": "Savoy cabbage", "ids": ["savoy-cabbage"]}
+{"audit": 2951, "lang": "labels", "text": "Scallop", "ids": ["scallop"]}
+{"audit": 2952, "lang": "labels", "text": "Schmaltz", "ids": ["schmaltz"]}
+{"audit": 2953, "lang": "labels", "text": "Scolymus hispanicus", "ids": ["golden-thistle"]}
+{"audit": 2954, "lang": "labels", "text": "sea snail", "ids": ["sea-snail"]}
+{"audit": 2955, "lang": "labels", "text": "sekihan", "ids": ["sekihan"], "reason": "New ingredient needed: sekihan is prepared glutinous rice with adzuki beans, used as Iga manju filling, not pigmented red rice."}
+{"audit": 2956, "lang": "labels", "text": "Separating Eggs", "ids": []}
+{"audit": 2957, "lang": "labels", "text": "Sepia", "ids": ["cuttlefish"]}
+{"audit": 2958, "lang": "labels", "text": "Seriola quinqueradiata", "ids": ["yellowtail"]}
+{"audit": 2959, "lang": "labels", "text": "Sesbania grandiflora", "ids": ["agati"]}
+{"audit": 2960, "lang": "labels", "text": "Setaria italica", "ids": ["foxtail-millet"]}
+{"audit": 2961, "lang": "labels", "text": "Seville orange", "ids": ["seville-orange"]}
+{"audit": 2962, "lang": "labels", "text": "shacha sauce", "ids": ["shacha-sauce"]}
+{"audit": 2963, "lang": "labels", "text": "Shanklish", "ids": ["shanklish"]}
+{"audit": 2964, "lang": "labels", "text": "Shatkora", "ids": ["shatkora"]}
+{"audit": 2965, "lang": "labels", "text": "shea butter", "ids": ["shea-butter"]}
+{"audit": 2966, "lang": "labels", "text": "sheep milk", "ids": ["sheep-milk"]}
+{"audit": 2967, "lang": "labels", "text": "sheep milk cheese", "ids": ["sheep-milk-cheese"]}
+{"audit": 2968, "lang": "labels", "text": "shellfish", "ids": ["shellfish"]}
+{"audit": 2969, "lang": "labels", "text": "Shepherdia canadensis", "ids": ["soapberry"], "unusual": "Canadian soapberry (Shepherdia canadensis) is an unusual traditional food fruit; retain and distinguish it from unrelated soapberry species."}
+{"audit": 2970, "lang": "labels", "text": "shirasu", "ids": ["shirasu"]}
+{"audit": 2971, "lang": "labels", "text": "Shiromiso", "ids": ["white-miso"]}
+{"audit": 2972, "lang": "labels", "text": "Shoarmakruiden", "ids": ["shawarma-spice"]}
+{"audit": 2973, "lang": "labels", "text": "short ribs", "ids": ["beef-short-ribs"]}
+{"audit": 2974, "lang": "labels", "text": "silver needle noodles", "ids": ["silver-needle-noodles"]}
+{"audit": 2975, "lang": "labels", "text": "Sint Jacobsschelpen", "ids": ["scallop"]}
+{"audit": 2976, "lang": "labels", "text": "siraegi", "ids": ["radish-greens"], "reason": "Siraegi consists of dried radish leaves/greens, not the dried radish root represented by dried-radish; use radish-greens."}
+{"audit": 2977, "lang": "labels", "text": "sirene", "ids": ["sirene-cheese"]}
+{"audit": 2978, "lang": "labels", "text": "sirop d’orgeat", "ids": ["orgeat"]}
+{"audit": 2979, "lang": "labels", "text": "skhug", "ids": ["skhug"]}
+{"audit": 2980, "lang": "labels", "text": "Smelt", "ids": ["smelt"]}
+{"audit": 2981, "lang": "labels", "text": "smen", "ids": ["smen"]}
+{"audit": 2982, "lang": "labels", "text": "Smilax glabra", "ids": ["smilax"]}
+{"audit": 2983, "lang": "labels", "text": "smoked haddock", "ids": ["smoked-haddock"]}
+{"audit": 2984, "lang": "labels", "text": "smoked Provola", "ids": ["provola"]}
+{"audit": 2985, "lang": "labels", "text": "Smokie", "ids": ["smoked-sausage"], "reason": "The label occurs in Kenyan Smocha with kachumbari and chapati, where smokie is sausage, not Arbroath smoked haddock."}
+{"audit": 2986, "lang": "labels", "text": "Smoky Chipotle Hot Sauce", "ids": ["chipotle-hot-sauce"]}
+{"audit": 2987, "lang": "labels", "text": "snake meat", "ids": ["snake"], "unusual": "Snake meat is unusual; retained for user decision."}
+{"audit": 2988, "lang": "labels", "text": "snakehead paste", "ids": ["fish-paste"]}
+{"audit": 2989, "lang": "labels", "text": "snelkookrijst", "ids": ["rice"]}
+{"audit": 2990, "lang": "labels", "text": "soba", "ids": ["soba"]}
+{"audit": 2991, "lang": "labels", "text": "Sobrassada", "ids": ["sobrassada"]}
+{"audit": 2992, "lang": "labels", "text": "soda bread", "ids": ["soda-bread"]}
+{"audit": 2993, "lang": "labels", "text": "sodium alginate", "ids": ["sodium-alginate"]}
+{"audit": 2994, "lang": "labels", "text": "sodium carbonate", "ids": ["sodium-carbonate"]}
+{"audit": 2995, "lang": "labels", "text": "sodium hydroxide", "ids": ["lye"]}
+{"audit": 2996, "lang": "labels", "text": "sofrito", "ids": ["sofrito"]}
+{"audit": 2997, "lang": "labels", "text": "Soubise sauce", "ids": ["soubise-sauce"]}
+{"audit": 2998, "lang": "labels", "text": "Sour cream chili sauce", "ids": ["sour-cream-chili-sauce"]}
+{"audit": 2999, "lang": "labels", "text": "sourdough", "ids": ["sourdough"]}

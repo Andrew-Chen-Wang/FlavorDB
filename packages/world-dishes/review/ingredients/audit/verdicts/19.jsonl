@@ -1,0 +1,84 @@
+{"audit": 3800, "lang": "zh", "text": "玉竹， 5 片", "ids": ["solomon-seal-root"], "unusual": "Solomon seal root, a less familiar soup herb; retained for user review."}
+{"audit": 3801, "lang": "zh", "text": "瓠瓜（葫芦）1 根（约 400g）", "ids": ["bottle-gourd"]}
+{"audit": 3802, "lang": "zh", "text": "甘草 2 片", "ids": ["licorice-root"], "unusual": "Licorice root used as a culinary spice; retained for user review."}
+{"audit": 3803, "lang": "zh", "text": "番茄酱 / 黑胡椒酱", "ids": ["ketchup"], "reason": "The Chinese stir-fried pasta recipe adds only10g of 番茄酱 as a condiment, with black-pepper sauce as an alternative; ketchup is the first choice, not generic pasta tomato sauce."}
+{"audit": 3804, "lang": "zh", "text": "白芷", "ids": ["angelica-root"], "unusual": "Angelica root used as an aromatic herb; retained for user review."}
+{"audit": 3805, "lang": "zh", "text": "白芷 10 g", "ids": ["angelica-root"], "unusual": "Angelica root used as an aromatic herb; retained for user review."}
+{"audit": 3806, "lang": "zh", "text": "白面煎饼", "ids": ["pancake"]}
+{"audit": 3807, "lang": "zh", "text": "皮蛋", "ids": ["preserved-egg"]}
+{"audit": 3808, "lang": "zh", "text": "皮蛋 一个（没有也可以不放）", "ids": ["preserved-egg"]}
+{"audit": 3809, "lang": "zh", "text": "石斛， 6 颗", "ids": ["dendrobium"], "unusual": "Dendrobium used as a soup herb; retained for user review."}
+{"audit": 3810, "lang": "zh", "text": "石榴粉— 可用柠檬汁替代", "ids": ["pomegranate-powder"]}
+{"audit": 3811, "lang": "zh", "text": "砂仁 10 g", "ids": ["amomum-seeds"]}
+{"audit": 3812, "lang": "zh", "text": "筷子或牙签", "ids": []}
+{"audit": 3813, "lang": "zh", "text": "粉圓", "ids": ["tapioca-pearls"]}
+{"audit": 3814, "lang": "zh", "text": "糍粑 两块", "ids": ["glutinous-rice-cake"]}
+{"audit": 3815, "lang": "zh", "text": "紫苏叶", "ids": ["perilla-leaves"]}
+{"audit": 3816, "lang": "zh", "text": "红柚果肉", "ids": ["pomelo"]}
+{"audit": 3817, "lang": "zh", "text": "红葱油", "ids": ["shallot-oil"]}
+{"audit": 3818, "lang": "zh", "text": "网购蛋挞液 1 盒，蛋挞皮 1 盒（附近的大超市也可以，比如家乐福、沃尔玛等等）", "ids": ["egg-tart-filling", "pie-crust"]}
+{"audit": 3819, "lang": "zh", "text": "翘嘴鱼 2 斤最佳", "ids": ["topmouth-culter"]}
+{"audit": 3820, "lang": "zh", "text": "肉沫", "ids": ["ground-meat"], "reason": "肉沫 names minced meat without specifying pork; both Chinese pancake and Italian meat-sauce recipes leave the species unspecified."}
+{"audit": 3821, "lang": "zh", "text": "肉蟹 1 只（约 300g）", "ids": ["crab"]}
+{"audit": 3822, "lang": "zh", "text": "肥肠1000克", "ids": ["pork-intestine"]}
+{"audit": 3823, "lang": "zh", "text": "花椒油", "ids": ["sichuan-pepper-oil"]}
+{"audit": 3824, "lang": "zh", "text": "花椒油 10ml", "ids": ["sichuan-pepper-oil"]}
+{"audit": 3825, "lang": "zh", "text": "茭白", "ids": ["water-bamboo"]}
+{"audit": 3826, "lang": "zh", "text": "草寇", "ids": ["caokou"], "reason": "草寇/草蔻 is caokou (Alpinia katsumadai), distinct from 草果/tsaoko. New exact ingredient needed: Caokou, category spice."}
+{"audit": 3827, "lang": "zh", "text": "草果 10 g", "ids": ["tsaoko"]}
+{"audit": 3828, "lang": "zh", "text": "草果 2 颗", "ids": ["tsaoko"]}
+{"audit": 3829, "lang": "zh", "text": "荜拨 5 g", "ids": ["long-pepper"]}
+{"audit": 3830, "lang": "zh", "text": "荞麦面", "ids": ["buckwheat-noodles"]}
+{"audit": 3831, "lang": "zh", "text": "莲子 25 g", "ids": ["lotus-seeds"]}
+{"audit": 3832, "lang": "zh", "text": "葱姜蒜", "ids": ["green-onion", "ginger", "garlic"]}
+{"audit": 3833, "lang": "zh", "text": "蒲烧汁", "ids": ["unagi-sauce"]}
+{"audit": 3834, "lang": "zh", "text": "蒸肉米粉 100g", "ids": ["steamed-meat-powder"]}
+{"audit": 3835, "lang": "zh", "text": "蒸肉粉", "ids": ["steamed-meat-powder"]}
+{"audit": 3836, "lang": "zh", "text": "蕨根粉", "ids": ["bracken-starch"]}
+{"audit": 3837, "lang": "zh", "text": "薏仁", "ids": ["coix-seed"]}
+{"audit": 3838, "lang": "zh", "text": "薏米 50 g", "ids": ["coix-seed"]}
+{"audit": 3839, "lang": "zh", "text": "藤椒油", "ids": ["green-sichuan-pepper-oil"]}
+{"audit": 3840, "lang": "zh", "text": "藤椒油 10ml", "ids": ["green-sichuan-pepper-oil"]}
+{"audit": 3841, "lang": "zh", "text": "蛏子", "ids": ["razor-clam"]}
+{"audit": 3842, "lang": "zh", "text": "螺蛳肉包", "ids": ["river-snail"]}
+{"audit": 3843, "lang": "zh", "text": "西洋参（又名花旗参），9 片", "ids": ["american-ginseng"], "unusual": "American ginseng root used as a soup ingredient; retained for user review."}
+{"audit": 3844, "lang": "zh", "text": "话梅", "ids": ["preserved-plum"]}
+{"audit": 3845, "lang": "zh", "text": "豆干", "ids": ["dried-tofu"]}
+{"audit": 3846, "lang": "zh", "text": "豆瓣（郫县） 1000 g", "ids": ["doubanjiang"]}
+{"audit": 3847, "lang": "zh", "text": "豆角", "ids": ["long-beans"]}
+{"audit": 3848, "lang": "zh", "text": "豆角 150g", "ids": ["long-beans"]}
+{"audit": 3849, "lang": "zh", "text": "豌豆淀粉", "ids": ["pea-starch"]}
+{"audit": 3850, "lang": "zh", "text": "豬腦: 少許 (提味用, 切碎後備用, 怕吃豬腦或怕高膽固醇的人可以不用加這項)", "ids": ["pork-brain"], "unusual": "Pork brain is explicitly named and optional; retained for user decision."}
+{"audit": 3851, "lang": "zh", "text": "酒糟", "ids": ["rice-wine-lees"]}
+{"audit": 3852, "lang": "zh", "text": "酸笋包、花生包、豆皮包、木耳包等配料包", "ids": ["sour-bamboo-shoots", "peanuts", "tofu-skin", "wood-ear-fungus"], "reason": "酸笋 is sour/pickled bamboo shoots, not plain bamboo shoot; the luosifen recipe names separate prepared topping packets."}
+{"audit": 3853, "lang": "zh", "text": "酸菜 500 克", "ids": ["pickled-cabbage"], "reason": "In the full northeastern 杀猪菜 recipe with blood sausage and ribs, 酸菜 is fermented cabbage, not preserved mustard greens."}
+{"audit": 3854, "lang": "zh", "text": "酸豆角", "ids": ["pickled-long-beans"]}
+{"audit": 3855, "lang": "zh", "text": "醪糟 50 克 * 份数", "ids": ["sweet-fermented-rice"]}
+{"audit": 3856, "lang": "zh", "text": "银耳", "ids": ["snow-fungus"]}
+{"audit": 3857, "lang": "zh", "text": "雪梨薄片", "ids": ["asian-pear"]}
+{"audit": 3858, "lang": "zh", "text": "雪碧 2 瓶盖, 20ml", "ids": ["lemon-lime-soda"]}
+{"audit": 3859, "lang": "zh", "text": "青椒 25g", "ids": ["bell-pepper"], "reason": "The full Cantonese 咕噜肉 recipe pairs this 青椒 with pineapple in sweet-and-sour pork; this is green bell pepper, not fresh chile."}
+{"audit": 3860, "lang": "zh", "text": "面粉500克、温水280克、纯酵母5克、生猪网油100克、鸡蛋10只。", "ids": ["flour", "water", "yeast", "pork-caul-fat", "egg"]}
+{"audit": 3861, "lang": "zh", "text": "餡料：糖冬瓜，白芝麻，椰絲，糖（若不想太甜可減少或不加），鹽，豬油，水，糯米麵粉。", "ids": ["candied-winter-melon", "sesame-seeds", "shredded-coconut", "sugar", "salt", "lard", "water", "glutinous-rice-flour"], "reason": "椰絲 explicitly names shredded coconut, and that more specific existing id is available. Other filling ingredients match."}
+{"audit": 3862, "lang": "zh", "text": "香干 = 份数 * 75g", "ids": ["dried-tofu"]}
+{"audit": 3863, "lang": "zh", "text": "香菜 1 根（可选）", "ids": ["cilantro"]}
+{"audit": 3864, "lang": "zh", "text": "香菜 10g", "ids": ["cilantro"]}
+{"audit": 3865, "lang": "zh", "text": "魔芋粉", "ids": ["konjac-powder"]}
+{"audit": 3866, "lang": "zh", "text": "鲜荷叶４张", "ids": ["lotus-leaves"]}
+{"audit": 3867, "lang": "zh", "text": "鲜香菇 2 朵", "ids": ["fresh-shiitake"], "reason": "鲜香菇 explicitly specifies fresh shiitake; current shiitake id is named Dried shiitake and a fresh-shiitake id already exists."}
+{"audit": 3868, "lang": "zh", "text": "鲜鸭血", "ids": ["duck-blood"], "unusual": "Fresh duck blood is explicitly named; retained for user decision."}
+{"audit": 3869, "lang": "zh", "text": "鲮鱼罐头 1 罐（250g 上下）", "ids": ["mud-carp"]}
+{"audit": 3870, "lang": "zh", "text": "鳊鱼 550 克", "ids": ["fish"], "reason": "鳊鱼 names a Chinese freshwater bream generically; the tofu stew does not establish the specific Wuchang bream required by existing bream id. Broad fish avoids inventing a species."}
+{"audit": 3871, "lang": "zh", "text": "鸡蛋 1 个（可选）", "ids": ["egg"]}
+{"audit": 3872, "lang": "zh", "text": "麦冬， 7 个", "ids": ["ophiopogon-root"], "unusual": "Ophiopogon root used as a soup herb; retained for user review."}
+{"audit": 3873, "lang": "zh", "text": "麦芽粉（肉香） 12.5 g", "ids": ["malt-powder"], "unusual": "Source says 麦芽粉（肉香） in hotpot base; retained literal malt-powder mapping pending clarification whether this is an aroma additive rather than grain malt powder."}
+{"audit": 3874, "lang": "zh", "text": "麻辣香锅调料 110 克", "ids": ["mala-seasoning"]}
+{"audit": 3875, "lang": "zh", "text": "麻辣鲜 5 克", "ids": ["mala-xian-seasoning"]}
+{"audit": 3876, "lang": "zh", "text": "黃魚（或鱸魚）", "ids": ["yellow-croaker"]}
+{"audit": 3877, "lang": "zh", "text": "黄油 15g", "ids": ["butter"]}
+{"audit": 3878, "lang": "zh", "text": "黄花", "ids": ["day-lily-flowers"]}
+{"audit": 3879, "lang": "zh", "text": "黑木耳", "ids": ["wood-ear-fungus"]}
+{"audit": 3880, "lang": "zh", "text": "黑米 50 g", "ids": ["black-rice"]}
+{"audit": 3881, "lang": "zh", "text": "黑鳕鱼", "ids": ["black-cod"]}
+{"audit": 3882, "lang": "zh", "text": "龟苓膏粉 25 克", "ids": ["guilinggao-powder"], "reason": "The complete 龟苓膏 recipe explicitly uses prepared guilinggao powder; it is distinct from grass/仙草 jelly powder. New exact ingredient needed: Guilinggao powder, category other."}
+{"audit": 3883, "lang": "zh", "text": "（通常會使用「Size B, Grade US No. 2」標準的馬鈴薯製作）", "ids": []}

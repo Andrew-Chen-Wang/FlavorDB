@@ -1,0 +1,200 @@
+{"audit": 3600, "lang": "pt", "text": "Requeijão cremoso a gosto.", "ids": ["requeijao"]}
+{"audit": 3601, "lang": "pt", "text": "sal rosa do himalaia, azeite de oliva extravirgem, vinagre balsâmico para temperar", "ids": ["salt", "olive-oil", "balsamic-vinegar"]}
+{"audit": 3602, "lang": "pt", "text": "½ xícara de gochugaru (pimenta em pó coreana)", "ids": ["gochugaru"]}
+{"audit": 3603, "lang": "pt", "text": "óleo;", "ids": ["vegetable-oil"]}
+{"audit": 3604, "lang": "ru", "text": "\"кислая\" (минеральная) вода", "ids": ["water"]}
+{"audit": 3605, "lang": "ru", "text": "1 л рубленого подготовленного борщевика", "ids": ["hogweed"], "unusual": "Hogweed is named literally as prepared chopped greens; retain for user review."}
+{"audit": 3606, "lang": "ru", "text": "1 стакан рубленой зелени (крапивы, лебеды)", "ids": ["nettle", "orach"]}
+{"audit": 3607, "lang": "ru", "text": "1 чайная ложка стартовой культуры для темпе (закваска ragi tempe)", "ids": ["tempeh-starter"]}
+{"audit": 3608, "lang": "ru", "text": "10-12 воробьёв", "ids": ["sparrow"], "unusual": "Sparrows are explicitly named as food; retain for user review."}
+{"audit": 3609, "lang": "ru", "text": "100 г копчёной солонины", "ids": ["salted-meat"]}
+{"audit": 3610, "lang": "ru", "text": "15 % варёные свиные лёгкие", "ids": ["pork-lungs"], "unusual": "Boiled pork lungs are explicitly named; retain offal ingredient for user review."}
+{"audit": 3611, "lang": "ru", "text": "2 варёных яйца", "ids": ["egg"]}
+{"audit": 3612, "lang": "ru", "text": "200 грамм отваренных моллюсков (в нашем случае это были рапаны)", "ids": ["whelks"]}
+{"audit": 3613, "lang": "ru", "text": "30-40 г ячневой крупы (2 ст. ложки)", "ids": ["barley-groats"]}
+{"audit": 3614, "lang": "ru", "text": "50 граммов сухой стеклянной лапши (фунчозы)", "ids": ["glass-noodles"]}
+{"audit": 3615, "lang": "ru", "text": "аджика: 0,5 кофейной ложки аджики (по желанию)", "ids": ["adjika"]}
+{"audit": 3616, "lang": "ru", "text": "айвар: 150 г", "ids": ["ajvar"]}
+{"audit": 3617, "lang": "ru", "text": "аргановое масло (тёмное) 50 мл", "ids": ["argan-oil"]}
+{"audit": 3618, "lang": "ru", "text": "бедренец (кровохлёбка)", "ids": ["burnet"]}
+{"audit": 3619, "lang": "ru", "text": "белое вино: 200 г", "ids": ["white-wine"]}
+{"audit": 3620, "lang": "ru", "text": "белый Ру: 100 г", "ids": ["roux"]}
+{"audit": 3621, "lang": "ru", "text": "бульон бараний", "ids": ["lamb-stock"]}
+{"audit": 3622, "lang": "ru", "text": "ветка вишни", "ids": ["cherry-wood"], "unusual": "The full bors fermentation recipe steeps a cherry twig for aroma; retain as an unusual aromatic ingredient, not smoking fuel."}
+{"audit": 3623, "lang": "ru", "text": "вишни или сливы: 20 г", "ids": ["cherry"]}
+{"audit": 3624, "lang": "ru", "text": "вишня (консервированная): 100 г (можно заменить консервированными сливами или тёрном)", "ids": ["cherry"]}
+{"audit": 3625, "lang": "ru", "text": "говядина (баранина) 100 г", "ids": ["beef"]}
+{"audit": 3626, "lang": "ru", "text": "Грибы (опята замороженные)", "ids": ["honey-mushrooms"]}
+{"audit": 3627, "lang": "ru", "text": "груши сушеные 300 г", "ids": ["dried-pears"]}
+{"audit": 3628, "lang": "ru", "text": "дошаб: 40 г (уваренный виноградный сок)", "ids": ["grape-molasses"]}
+{"audit": 3629, "lang": "ru", "text": "желтки свежие: 3 шт", "ids": ["egg"]}
+{"audit": 3630, "lang": "ru", "text": "жёлтое вино: 1 бокал", "ids": ["yellow-wine"]}
+{"audit": 3631, "lang": "ru", "text": "Заатар (или другие специи) - 1 ст. л.", "ids": ["zaatar"]}
+{"audit": 3632, "lang": "ru", "text": "зира, куркума, барбарис, паприка", "ids": ["cumin", "turmeric", "barberry", "paprika"]}
+{"audit": 3633, "lang": "ru", "text": "Зубчики чеснока - 10 г", "ids": ["garlic"]}
+{"audit": 3634, "lang": "ru", "text": "Икра тобико", "ids": ["tobiko"]}
+{"audit": 3635, "lang": "ru", "text": "картофель: 15-12 шт", "ids": ["potato"]}
+{"audit": 3636, "lang": "ru", "text": "картофель: 150 г", "ids": ["potato"]}
+{"audit": 3637, "lang": "ru", "text": "квас: 0,5 стакана (в оригинале просто квас, вероятнее отрубной квас борш)", "ids": ["kvass"]}
+{"audit": 3638, "lang": "ru", "text": "Квас: 2 бутылки", "ids": ["kvass"]}
+{"audit": 3639, "lang": "ru", "text": "корица: 0,1 г", "ids": ["cinnamon"]}
+{"audit": 3640, "lang": "ru", "text": "креветочное масло: 60 г", "ids": ["shrimp-butter"], "reason": "New fat ingredient proposed: the full Escoffier Joinville-sauce recipe finishes Normande sauce with crayfish butter and shrimp butter, not liquid shrimp oil."}
+{"audit": 3641, "lang": "ru", "text": "крыжовник: 500 г (насыщенного зелёного цвета)", "ids": ["gooseberries"]}
+{"audit": 3642, "lang": "ru", "text": "кусочек сливочного масла", "ids": ["butter"]}
+{"audit": 3643, "lang": "ru", "text": "Лаваш - для подачи", "ids": ["lavash"]}
+{"audit": 3644, "lang": "ru", "text": "лук репчатый 18 г", "ids": ["onion"]}
+{"audit": 3645, "lang": "ru", "text": "лёгкие: 60 г", "ids": ["lung"], "reason": "Russian легкие names animal lungs, an actual offal ingredient; it was incorrectly unmapped."}
+{"audit": 3646, "lang": "ru", "text": "лёгкое: 850 г (нарезать кубиками)", "ids": ["lung"], "reason": "Russian легкое cut into cubes is lung, an actual offal ingredient; it was incorrectly unmapped."}
+{"audit": 3647, "lang": "ru", "text": "маринад: 0,2 л", "ids": ["marinade"]}
+{"audit": 3648, "lang": "ru", "text": "Масло сливочное - 125 г", "ids": ["butter"]}
+{"audit": 3649, "lang": "ru", "text": "молоко: 2,5 галлона (11,36 л)", "ids": ["milk"]}
+{"audit": 3650, "lang": "ru", "text": "мука из чёрной чечевицы: 8 чашек", "ids": ["lentil-flour"]}
+{"audit": 3651, "lang": "ru", "text": "мука пшеничная: 15 г", "ids": ["flour"]}
+{"audit": 3652, "lang": "ru", "text": "мука теф: 1 чашка", "ids": ["teff-flour"]}
+{"audit": 3653, "lang": "ru", "text": "мясное желе: 0,6 - 0,7 л", "ids": ["meat-jelly"]}
+{"audit": 3654, "lang": "ru", "text": "мясной сок: 1 фунт (0,453 кг)", "ids": ["meat-juice"]}
+{"audit": 3655, "lang": "ru", "text": "мясной сок: 6 фунтов (2,72 кг)", "ids": ["meat-juice"]}
+{"audit": 3656, "lang": "ru", "text": "Небольшая морковь — 1 шт.,", "ids": ["carrot"]}
+{"audit": 3657, "lang": "ru", "text": "небольшие крутоны (гренки) в форме сердечек", "ids": ["croutons"], "reason": "The text explicitly names small heart-shaped croutons, so use the available specific id instead of bread."}
+{"audit": 3658, "lang": "ru", "text": "Паприка: 1,5 ст. л.", "ids": ["paprika"]}
+{"audit": 3659, "lang": "ru", "text": "песочное тесто накрыть пирог", "ids": []}
+{"audit": 3660, "lang": "ru", "text": "печенье сливочное 300 г", "ids": ["butter-cookies"]}
+{"audit": 3661, "lang": "ru", "text": "пищевод: 20 г", "ids": ["gullet"], "unusual": "Animal gullet/esophagus is explicitly named; retain for user review."}
+{"audit": 3662, "lang": "ru", "text": "порошок манго: 1 ч. л.", "ids": ["mango-powder"]}
+{"audit": 3663, "lang": "ru", "text": "порошок путту (рисовая мука грубого помола): 4 чашки", "ids": ["rice-flour"]}
+{"audit": 3664, "lang": "ru", "text": "потроха бараньи(легкие,сердце,печень) 0.5 кг", "ids": ["lamb-offal"], "unusual": "Lamb lungs, heart and liver are explicitly named together as offal; retain for user review."}
+{"audit": 3665, "lang": "ru", "text": "приправа: кислое молоко 1 стакан или пережаренный в масле лук (\"пиёздог\" - 50 г масла, 2-3 головки лука), или виноградный уксус 1 ст. л., или чёрный перец 1 ч. л.", "ids": ["sour-milk"]}
+{"audit": 3666, "lang": "ru", "text": "продукты для приготовления 1 л соуса Норманд", "ids": ["normande-sauce"]}
+{"audit": 3667, "lang": "ru", "text": "рамён: 1 пачка", "ids": ["ramen-noodles"]}
+{"audit": 3668, "lang": "ru", "text": "Рапаны - 200 г", "ids": ["whelk"]}
+{"audit": 3669, "lang": "ru", "text": "Рис", "ids": ["rice"]}
+{"audit": 3670, "lang": "ru", "text": "Рис - 0,5 стакана", "ids": ["rice"]}
+{"audit": 3671, "lang": "ru", "text": "русский соус: 2 ст. л. (сливочный)", "ids": ["russian-dressing"]}
+{"audit": 3672, "lang": "ru", "text": "ряженка 60 мл", "ids": ["ryazhenka"]}
+{"audit": 3673, "lang": "ru", "text": "сало конское (с рёбер) 500 г", "ids": ["horse-fat"], "unusual": "Horse rib fat is explicitly named; retain for user review."}
+{"audit": 3674, "lang": "ru", "text": "сахар ванильный 1 ст. ложка", "ids": ["vanilla-sugar"]}
+{"audit": 3675, "lang": "ru", "text": "свиная кишечная оболочка: 60—70 см.", "ids": ["casings"]}
+{"audit": 3676, "lang": "ru", "text": "свиные головы с костями: 25 кг (примерно 4 шт)", "ids": ["pig-head"], "unusual": "Whole pig heads with bones are explicitly named; retain for user review."}
+{"audit": 3677, "lang": "ru", "text": "Сельдерей - 3 стебля", "ids": ["celery"]}
+{"audit": 3678, "lang": "ru", "text": "слива ткемали с косточками: 200 г", "ids": ["tkemali-plum"]}
+{"audit": 3679, "lang": "ru", "text": "смалец (комбижир или маргарин): 0,5 кг", "ids": ["lard"]}
+{"audit": 3680, "lang": "ru", "text": "смесь перцев миньонет", "ids": ["mixed-peppercorns"]}
+{"audit": 3681, "lang": "ru", "text": "смесь перцев миньонет: 1 щепотка", "ids": ["mixed-peppercorns"]}
+{"audit": 3682, "lang": "ru", "text": "смесь перцев миньонет: 10 г", "ids": ["mixed-peppercorns"]}
+{"audit": 3683, "lang": "ru", "text": "смесь специй панч пхорон (горчица, тмин, пажитник, кориандр)", "ids": ["panch-phoron"]}
+{"audit": 3684, "lang": "ru", "text": "смесь шкурок цитрусовых(?): 2 фунта (0,907 кг)", "ids": ["citrus-peel"]}
+{"audit": 3685, "lang": "ru", "text": "соль и приправы (сухая аджика, паприка, хмели-сунели)", "ids": ["salt", "adjika", "paprika", "khmeli-suneli"]}
+{"audit": 3686, "lang": "ru", "text": "Соль и черный перец — по вкусу", "ids": ["salt", "black-pepper"]}
+{"audit": 3687, "lang": "ru", "text": "соль и чёрный молотый перец: по 1 щепотке", "ids": ["salt", "black-pepper"]}
+{"audit": 3688, "lang": "ru", "text": "соль нитритная (\"Praganda\"): 25 г", "ids": ["curing-salt"]}
+{"audit": 3689, "lang": "ru", "text": "солёный лимон: 0,5 шт (мелко нарезать)", "ids": ["preserved-lemon"]}
+{"audit": 3690, "lang": "ru", "text": "Сосиска 10 шт.", "ids": ["sausages"]}
+{"audit": 3691, "lang": "ru", "text": "Сосиски (желательно подкопчённые или копчёные) - 400 г", "ids": ["sausages"]}
+{"audit": 3692, "lang": "ru", "text": "соус Harvey's: 1 ст. л.", "ids": ["harveys-sauce"]}
+{"audit": 3693, "lang": "ru", "text": "соус аллеманд: 1 л", "ids": ["allemande-sauce"]}
+{"audit": 3694, "lang": "ru", "text": "соус Бер руж: 40 г", "ids": ["beurre-rouge"], "reason": "New sauce ingredient needed: Бер руж is beurre rouge, not bearnaise. The full lobster-sauce recipe lists it separately from veloute, cream and lobster butter."}
+{"audit": 3695, "lang": "ru", "text": "соус берси: 1,25 л", "ids": ["bercy-sauce"]}
+{"audit": 3696, "lang": "ru", "text": "соус борделез: 400 мл", "ids": ["bordelaise-sauce"]}
+{"audit": 3697, "lang": "ru", "text": "соус демиглас: 1 л", "ids": ["demi-glace"]}
+{"audit": 3698, "lang": "ru", "text": "соус морне: 0,25 кг", "ids": ["mornay-sauce"]}
+{"audit": 3699, "lang": "ru", "text": "соус Норманд: 0,8 л (без добавления сливочного масла)", "ids": ["normande-sauce"]}
+{"audit": 3700, "lang": "ru", "text": "Соус норманд: 1 л", "ids": ["normande-sauce"]}
+{"audit": 3701, "lang": "ru", "text": "соус пуаврад: 1 л", "ids": ["poivrade-sauce"]}
+{"audit": 3702, "lang": "ru", "text": "соус пуаврад: 2,25 стакана", "ids": ["poivrade-sauce"]}
+{"audit": 3703, "lang": "ru", "text": "соус равигот: 10 л (см. соотв. рецепт)", "ids": ["ravigote-sauce"]}
+{"audit": 3704, "lang": "ru", "text": "соус Робер: 1 л", "ids": ["robert-sauce"]}
+{"audit": 3705, "lang": "ru", "text": "соус супрем: 1 л", "ids": ["supreme-sauce"]}
+{"audit": 3706, "lang": "ru", "text": "соуса борделез или аналогичный: 900 г", "ids": ["bordelaise-sauce"]}
+{"audit": 3707, "lang": "ru", "text": "Специи для плова.", "ids": ["plov-spice"]}
+{"audit": 3708, "lang": "ru", "text": "субпродукты мясные ноги, уши, хвосты:230 г", "ids": ["offal"]}
+{"audit": 3709, "lang": "ru", "text": "сушёные корочки апельсина", "ids": ["dried-orange-peel"]}
+{"audit": 3710, "lang": "ru", "text": "сыр брусс: 100 г (или обычный творог)", "ids": ["brousse"]}
+{"audit": 3711, "lang": "ru", "text": "сыр: 110-120 г (гравьера, кефалотири, также формала, халлуми или мастелло)", "ids": ["graviera"]}
+{"audit": 3712, "lang": "ru", "text": "телячья ножка весом в 1 кг", "ids": ["veal-feet"], "reason": "Телячья ножка here names a calf foot; the specific veal-feet ingredient exists."}
+{"audit": 3713, "lang": "ru", "text": "ткемали: 20 г (или винный уксус)", "ids": ["tkemali"], "reason": "The kharcho recipe adds tkemali or wine vinegar as its acid seasoning near the end; this is the sauce, not raw tkemali plums."}
+{"audit": 3714, "lang": "ru", "text": "тонкие свиные кишки: 25 см", "ids": ["casings"]}
+{"audit": 3715, "lang": "ru", "text": "топлёный жир для жарки", "ids": ["rendered-fat"]}
+{"audit": 3716, "lang": "ru", "text": "топлёный или нутряной жир: 6 фунтов (2,72 кг)", "ids": ["rendered-fat"]}
+{"audit": 3717, "lang": "ru", "text": "тортильяс пшеничные 2 шт.", "ids": ["flour-tortillas"]}
+{"audit": 3718, "lang": "ru", "text": "трюфельная эссенция", "ids": ["truffle-essence"]}
+{"audit": 3719, "lang": "ru", "text": "трюфельная эссенция (для постных блюд)", "ids": ["truffle-essence"]}
+{"audit": 3720, "lang": "ru", "text": "трюфельная эссенция: 0,1 л", "ids": ["truffle-essence"]}
+{"audit": 3721, "lang": "ru", "text": "уксус, вода, специи", "ids": ["vinegar", "water", "spices"], "reason": "The line explicitly includes spices alongside vinegar and water; spices were omitted."}
+{"audit": 3722, "lang": "ru", "text": "фруктовая соль: 1,5 ч. л.", "ids": ["fruit-salt"]}
+{"audit": 3723, "lang": "ru", "text": "хвосты говяжьи: 10 фунтов (4,536 кг)", "ids": ["beef-tail"]}
+{"audit": 3724, "lang": "ru", "text": "цукаты лимонные измельченные 50 г", "ids": ["candied-lemon-peel"]}
+{"audit": 3725, "lang": "ru", "text": "Чеснок - 4 зубчика.", "ids": ["garlic"]}
+{"audit": 3726, "lang": "ru", "text": "Чеснок - 50 г", "ids": ["garlic"]}
+{"audit": 3727, "lang": "ru", "text": "чёрный кардамон: 10 (10 г)", "ids": ["black-cardamom"]}
+{"audit": 3728, "lang": "ru", "text": "чёрствый кекс: 7 фунтов (3,175 кг)", "ids": ["cake"]}
+{"audit": 3729, "lang": "ru", "text": "шампанское или белое сухое вино: 0,4 л", "ids": ["champagne"]}
+{"audit": 3730, "lang": "ru", "text": "Шоколадный крем - 180г.", "ids": ["chocolate-spread"]}
+{"audit": 3731, "lang": "ru", "text": "щавель: 250 г", "ids": ["sorrel"]}
+{"audit": 3732, "lang": "ru", "text": "яйца вкрутую: 6 шт", "ids": ["egg"]}
+{"audit": 3733, "lang": "ru", "text": "⅓ стакана (80 мл) яблочного уксуса", "ids": ["apple-cider-vinegar"]}
+{"audit": 3734, "lang": "zh", "text": "1 袋 半成品意大利面（推荐品牌圃美多）", "ids": ["pasta"], "reason": "The Chinese text says premade Italian pasta without specifying spaghetti shape; use generic pasta."}
+{"audit": 3735, "lang": "zh", "text": "一塊仙草", "ids": ["grass-jelly"]}
+{"audit": 3736, "lang": "zh", "text": "东北酸菜", "ids": ["pickled-cabbage"]}
+{"audit": 3737, "lang": "zh", "text": "主料：中国花鲢鱼头/1个/约500克（尽量是刚杀的鱼头）", "ids": ["bighead-carp"]}
+{"audit": 3738, "lang": "zh", "text": "九層塔（或薄荷葉）", "ids": ["thai-basil"]}
+{"audit": 3739, "lang": "zh", "text": "冰粉籽 200g", "ids": ["ice-jelly-seeds"]}
+{"audit": 3740, "lang": "zh", "text": "冷水 120 毫升", "ids": ["water"]}
+{"audit": 3741, "lang": "zh", "text": "凉皮、面筋", "ids": ["liangpi-noodles", "wheat-gluten"]}
+{"audit": 3742, "lang": "zh", "text": "凉皮用量为 300 g/人 向下取整", "ids": ["liangpi-noodles"]}
+{"audit": 3743, "lang": "zh", "text": "凉粉", "ids": ["cold-jelly"]}
+{"audit": 3744, "lang": "zh", "text": "切丝柳橙干 （可选）", "ids": ["dried-orange"]}
+{"audit": 3745, "lang": "zh", "text": "切丝芒果干 （可选）", "ids": ["dried-mango"]}
+{"audit": 3746, "lang": "zh", "text": "剁椒", "ids": ["chopped-chili"]}
+{"audit": 3747, "lang": "zh", "text": "剑骨鱼或鲤鱼", "ids": ["sword-bone-fish"]}
+{"audit": 3748, "lang": "zh", "text": "半干荞麦面 100g", "ids": ["buckwheat-noodles"]}
+{"audit": 3749, "lang": "zh", "text": "卤料包", "ids": ["braising-spice-mix"]}
+{"audit": 3750, "lang": "zh", "text": "印度黑盐— 可用普通盐替代", "ids": ["black-salt"]}
+{"audit": 3751, "lang": "zh", "text": "原味奥利奥 6 块", "ids": ["chocolate-sandwich-cookies"]}
+{"audit": 3752, "lang": "zh", "text": "去心莲子", "ids": ["lotus-seeds"]}
+{"audit": 3753, "lang": "zh", "text": "叉烧酱 20g", "ids": ["char-siu-sauce"]}
+{"audit": 3754, "lang": "zh", "text": "咖喱块", "ids": ["curry-roux"]}
+{"audit": 3755, "lang": "zh", "text": "咖喱块 15g（一小块）", "ids": ["curry-roux"]}
+{"audit": 3756, "lang": "zh", "text": "咸鸭蛋", "ids": ["salted-duck-egg"]}
+{"audit": 3757, "lang": "zh", "text": "土豆干粉条", "ids": ["potato-starch-noodles"]}
+{"audit": 3758, "lang": "zh", "text": "基础蛋糕一小块（可以购买现成或自行制作）", "ids": ["cake"]}
+{"audit": 3759, "lang": "zh", "text": "复配食品增稠剂", "ids": ["thickener"]}
+{"audit": 3760, "lang": "zh", "text": "大田螺", "ids": ["river-snail"]}
+{"audit": 3761, "lang": "zh", "text": "大约三斤 草鱼", "ids": ["grass-carp"]}
+{"audit": 3762, "lang": "zh", "text": "大鸡腿 2 个", "ids": ["chicken"]}
+{"audit": 3763, "lang": "zh", "text": "奇亚籽 24g", "ids": ["chia-seeds"]}
+{"audit": 3764, "lang": "zh", "text": "奶精（随个人口味决定是否加入）", "ids": ["creamer"]}
+{"audit": 3765, "lang": "zh", "text": "小薄饼", "ids": ["thin-pancake"], "reason": "The full Zibo barbecue recipe uses small thin wheat wrappers to roll cooked pork and scallions; thin-pancake is the available specific form."}
+{"audit": 3766, "lang": "zh", "text": "山药", "ids": ["chinese-yam"]}
+{"audit": 3767, "lang": "zh", "text": "山药 1 根（大约 300g）", "ids": ["chinese-yam"]}
+{"audit": 3768, "lang": "zh", "text": "巧克力脆米150克", "ids": ["chocolate", "crisped-rice"]}
+{"audit": 3769, "lang": "zh", "text": "巴斯马蒂长粒香米", "ids": ["basmati-rice"]}
+{"audit": 3770, "lang": "zh", "text": "巴斯马蒂香米或普通大米", "ids": ["basmati-rice"]}
+{"audit": 3771, "lang": "zh", "text": "巴沙鱼 500g", "ids": ["basa-fish"]}
+{"audit": 3772, "lang": "zh", "text": "开水 350 ml", "ids": ["water"]}
+{"audit": 3773, "lang": "zh", "text": "当归", "ids": ["angelica-root"]}
+{"audit": 3774, "lang": "zh", "text": "新奥尔良烤翅调料 15 - 20 g", "ids": ["roast-chicken-seasoning"], "reason": "Chinese New Orleans-style wing marinade is a roast-chicken seasoning; it should not be equated specifically with Louisiana Creole seasoning."}
+{"audit": 3775, "lang": "zh", "text": "新鲜菜心 250g", "ids": ["choy-sum"]}
+{"audit": 3776, "lang": "zh", "text": "无骨肉共需 430 克，其中猪肉、牛肉、鸡肉、鱼丸、火腿肠的比例按自己喜好分配即可", "ids": ["pork", "beef", "chicken", "fish-balls", "ham-sausage"]}
+{"audit": 3777, "lang": "zh", "text": "昂刺鱼或者沙光鱼", "ids": ["catfish"], "reason": "昂刺鱼 is a yellow catfish, not a spiny eel. Use the existing catfish id for the first alternative."}
+{"audit": 3778, "lang": "zh", "text": "未过期的一袋速冻水饺", "ids": ["frozen-dumplings"]}
+{"audit": 3779, "lang": "zh", "text": "未过期的一袋速冻馄饨（自带调味料包更佳）", "ids": ["frozen-wontons"]}
+{"audit": 3780, "lang": "zh", "text": "桂圆 15 颗", "ids": ["longan"]}
+{"audit": 3781, "lang": "zh", "text": "桂圆 25 g", "ids": ["longan"]}
+{"audit": 3782, "lang": "zh", "text": "梅菜", "ids": ["pickled-mustard"]}
+{"audit": 3783, "lang": "zh", "text": "橄榄菜", "ids": ["olive-vegetable-relish"], "reason": "New sauce ingredient needed: 橄榄菜 is Chaoshan preserved olive-and-mustard-greens relish, not plain preserved olives. The full green-bean/pork recipe sautés20g of it with garlic and chili."}
+{"audit": 3784, "lang": "zh", "text": "水 4kg", "ids": ["water"]}
+{"audit": 3785, "lang": "zh", "text": "水 50 ml（调水淀粉）", "ids": ["water"]}
+{"audit": 3786, "lang": "zh", "text": "汤料包", "ids": ["soup-base"]}
+{"audit": 3787, "lang": "zh", "text": "沙參 (人參)", "ids": ["glehnia-root"], "unusual": "The source says shashen with a ginseng parenthesis; these are distinct roots. Retained the primary shashen mapping pending source clarification."}
+{"audit": 3788, "lang": "zh", "text": "河豚﹝危險，有喪命之虞﹞", "ids": ["pufferfish"], "unusual": "Pufferfish is explicitly named, with a caution already present in the source text; retain for user decision."}
+{"audit": 3789, "lang": "zh", "text": "海鲜酱 15 g（替代：蚝油 12 g + 白砂糖 3 g）", "ids": ["hoisin"], "reason": "海鲜酱 is the Chinese name for hoisin sauce; the named oyster-sauce-and-sugar mixture is an alternative, not the primary ingredient."}
+{"audit": 3790, "lang": "zh", "text": "滷味包 1份(各大超市皆可購買)", "ids": ["braising-spice-mix"]}
+{"audit": 3791, "lang": "zh", "text": "火腿肠", "ids": ["ham-sausage"]}
+{"audit": 3792, "lang": "zh", "text": "火腿肠或鸡胸肉", "ids": ["ham-sausage"]}
+{"audit": 3793, "lang": "zh", "text": "火锅底料", "ids": ["hotpot-base"]}
+{"audit": 3794, "lang": "zh", "text": "火锅底料 25g", "ids": ["hotpot-base"]}
+{"audit": 3795, "lang": "zh", "text": "灯影牛肉丝/午餐肉/腊肠/卤肉...等熟肉", "ids": ["dried-beef-shreds"]}
+{"audit": 3796, "lang": "zh", "text": "炸魚蛋 24粒", "ids": ["fish-balls"]}
+{"audit": 3797, "lang": "zh", "text": "煮熟的腊肉", "ids": ["cured-pork"]}
+{"audit": 3798, "lang": "zh", "text": "牛奶", "ids": ["milk"]}
+{"audit": 3799, "lang": "zh", "text": "牛蛙肉", "ids": ["bullfrog"], "unusual": "Bullfrog meat is explicitly named; retain for user review."}

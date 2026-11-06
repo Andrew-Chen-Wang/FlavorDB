@@ -1,0 +1,200 @@
+{"audit": 2200, "lang": "ja", "text": "パテ: 50g", "ids": ["pate"]}
+{"audit": 2201, "lang": "ja", "text": "ビゴリ 200g", "ids": ["bigoli"]}
+{"audit": 2202, "lang": "ja", "text": "ピカッジェ 200g", "ids": ["picagge"]}
+{"audit": 2203, "lang": "ja", "text": "フィレヤ 200g", "ids": ["fileja"]}
+{"audit": 2204, "lang": "ja", "text": "フェデリーニ 200g", "ids": ["fedelini"]}
+{"audit": 2205, "lang": "ja", "text": "ブカティーニ 200g", "ids": ["bucatini"]}
+{"audit": 2206, "lang": "ja", "text": "ボローニャソーセージ: 4～6枚", "ids": ["bologna-sausage"]}
+{"audit": 2207, "lang": "ja", "text": "マスタード 小さじ1（お好みで）", "ids": ["mustard"]}
+{"audit": 2208, "lang": "ja", "text": "マッケロンチーニ・ディ・カンポフィローネ 200g", "ids": ["maccheroncini"]}
+{"audit": 2209, "lang": "ja", "text": "ユフカ生地: 300g", "ids": ["yufka-dough"]}
+{"audit": 2210, "lang": "ja", "text": "ヨークシャー・プディング: 適量", "ids": ["yorkshire-pudding"]}
+{"audit": 2211, "lang": "ja", "text": "ルスティケ 250g", "ids": ["pasta"], "reason": "Japanese ルスティケ names a pasta; Rustichella is a branded name and is not what this text states."}
+{"audit": 2212, "lang": "ja", "text": "七味唐辛子: お好みで", "ids": ["shichimi-togarashi"]}
+{"audit": 2213, "lang": "ja", "text": "三つ葉 … 適量", "ids": ["mitsuba"]}
+{"audit": 2214, "lang": "ja", "text": "三つ葉 （または小ねぎ） 1カップ", "ids": ["mitsuba"]}
+{"audit": 2215, "lang": "ja", "text": "三杯酢 適量", "ids": ["sanbaizu"]}
+{"audit": 2216, "lang": "ja", "text": "具: お好みで（梅干し、鮭フレーク、ツナマヨなど）", "ids": ["umeboshi"], "reason": "Optional filling examples are alternatives, so retain the first named filling, umeboshi, rather than requiring all three fillings."}
+{"audit": 2217, "lang": "ja", "text": "冷凍アサイーピューレ: 100g", "ids": ["acai-puree"]}
+{"audit": 2218, "lang": "ja", "text": "卵: 2個", "ids": ["egg"]}
+{"audit": 2219, "lang": "ja", "text": "春菊: 1束", "ids": ["garland-chrysanthemum"]}
+{"audit": 2220, "lang": "ja", "text": "梅: 適量（約1kg）", "ids": ["ume"]}
+{"audit": 2221, "lang": "ja", "text": "水 3リットル", "ids": ["water"]}
+{"audit": 2222, "lang": "ja", "text": "焼酎（お好みで）: 少々", "ids": ["shochu"]}
+{"audit": 2223, "lang": "ja", "text": "玉ねぎ：1個（約200g）", "ids": ["onion"]}
+{"audit": 2224, "lang": "ja", "text": "甘辛いソース（ケチャップマニス）: 大さじ1", "ids": ["kecap-manis"]}
+{"audit": 2225, "lang": "ja", "text": "穀物（例：トウモロコシなど）", "ids": ["corn"], "reason": "This is an ingredient entry for grain with corn explicitly named as its first example, not a heading or equipment."}
+{"audit": 2226, "lang": "ja", "text": "紅しょうが: 適量 (お好みで)", "ids": ["pickled-red-ginger"]}
+{"audit": 2227, "lang": "ja", "text": "緑茶 適量", "ids": ["green-tea"]}
+{"audit": 2228, "lang": "ja", "text": "羊乳: 1リットル", "ids": ["sheep-milk"]}
+{"audit": 2229, "lang": "ja", "text": "蕗の薹 … 150g", "ids": ["butterbur"]}
+{"audit": 2230, "lang": "ja", "text": "豚肉（薄切り）100g", "ids": ["pork"]}
+{"audit": 2231, "lang": "ja", "text": "青パパイヤ：1個（皮をむいて千切り）", "ids": ["green-papaya"]}
+{"audit": 2232, "lang": "ja", "text": "青菜: 適量", "ids": ["leafy-greens"]}
+{"audit": 2233, "lang": "ja", "text": "青菜（ほうれん草やカラシ菜）: 1束", "ids": ["spinach"]}
+{"audit": 2234, "lang": "ja", "text": "黒蜜 お好みで", "ids": ["kuromitsu"]}
+{"audit": 2235, "lang": "ja", "text": "黒酢：大さじ1", "ids": ["black-vinegar"]}
+{"audit": 2236, "lang": "labels", "text": "(kastanje)champignons", "ids": ["mushroom"]}
+{"audit": 2237, "lang": "labels", "text": "A tarhonya", "ids": ["tarhonya"]}
+{"audit": 2238, "lang": "labels", "text": "abalone", "ids": ["abalone"]}
+{"audit": 2239, "lang": "labels", "text": "abomasum", "ids": ["abomasum"], "unusual": "Abomasum (stomach offal), retained for user review."}
+{"audit": 2240, "lang": "labels", "text": "Acanthocybium solandri", "ids": ["wahoo"]}
+{"audit": 2241, "lang": "labels", "text": "Achillea nana", "ids": ["yarrow"]}
+{"audit": 2242, "lang": "labels", "text": "acini di pepe", "ids": ["acini-di-pepe"]}
+{"audit": 2243, "lang": "labels", "text": "Ackawi", "ids": ["akawi-cheese"]}
+{"audit": 2244, "lang": "labels", "text": "Acmella oleracea", "ids": ["paracress"]}
+{"audit": 2245, "lang": "labels", "text": "Acorn", "ids": ["acorn"]}
+{"audit": 2246, "lang": "labels", "text": "Acorn Squash", "ids": ["acorn-squash"]}
+{"audit": 2247, "lang": "labels", "text": "acıka", "ids": ["acuka"]}
+{"audit": 2248, "lang": "labels", "text": "Adobo Sauce", "ids": ["adobo-sauce"], "reason": "Adobo sauce does not necessarily contain whole chipotle peppers; use the existing adobo-sauce ingredient."}
+{"audit": 2249, "lang": "labels", "text": "Advocaat", "ids": ["advocaat"]}
+{"audit": 2250, "lang": "labels", "text": "Aegopodium", "ids": ["ground-elder"]}
+{"audit": 2251, "lang": "labels", "text": "Afang", "ids": ["afang-leaves"]}
+{"audit": 2252, "lang": "labels", "text": "Afghan bread", "ids": ["afghan-bread"]}
+{"audit": 2253, "lang": "labels", "text": "African Pear", "ids": ["african-pear"]}
+{"audit": 2254, "lang": "labels", "text": "Ajwain", "ids": ["ajwain"]}
+{"audit": 2255, "lang": "labels", "text": "Ají verde", "ids": ["green-chile"]}
+{"audit": 2256, "lang": "labels", "text": "Akamu Paste", "ids": ["akamu"]}
+{"audit": 2257, "lang": "labels", "text": "akpi", "ids": ["akpi"], "reason": "Akpi is the named seed ingredient, not egusi melon seeds; the exact akpi ingredient exists."}
+{"audit": 2258, "lang": "labels", "text": "Aleppo pepper", "ids": ["aleppo-pepper"]}
+{"audit": 2259, "lang": "labels", "text": "Alfalfa", "ids": ["alfalfa"]}
+{"audit": 2260, "lang": "labels", "text": "Alfredo Sauce", "ids": ["alfredo-sauce"]}
+{"audit": 2261, "lang": "labels", "text": "alginate", "ids": ["alginate"]}
+{"audit": 2262, "lang": "labels", "text": "Alligator", "ids": ["alligator"], "unusual": "Alligator meat, retained for user review."}
+{"audit": 2263, "lang": "labels", "text": "Alligator Pepper", "ids": ["alligator-pepper"]}
+{"audit": 2264, "lang": "labels", "text": "Almond Butter", "ids": ["almond-butter"]}
+{"audit": 2265, "lang": "labels", "text": "almond cream", "ids": ["almond-cream"]}
+{"audit": 2266, "lang": "labels", "text": "Almíbar", "ids": ["simple-syrup"]}
+{"audit": 2267, "lang": "labels", "text": "Alosa agone", "ids": ["shad"], "reason": "Alosa agone is a shad, not the alewife species; use the existing broader shad ingredient."}
+{"audit": 2268, "lang": "labels", "text": "alphabet pasta", "ids": ["alphabet-pasta"]}
+{"audit": 2269, "lang": "labels", "text": "Amaranth", "ids": ["amaranth"]}
+{"audit": 2270, "lang": "labels", "text": "Amaranthus", "ids": ["amaranth"]}
+{"audit": 2271, "lang": "labels", "text": "amatriciana sauce", "ids": ["amatriciana-sauce"]}
+{"audit": 2272, "lang": "labels", "text": "ame", "ids": ["maltose"], "reason": "The bare label ame is ambiguous between candy and starch syrup; retaining the previous mapping pending source context rather than guessing."}
+{"audit": 2273, "lang": "labels", "text": "Amelanchier alnifolia", "ids": ["saskatoon-berry"]}
+{"audit": 2274, "lang": "labels", "text": "Ammodytes personatus", "ids": ["sand-eel"]}
+{"audit": 2275, "lang": "labels", "text": "ammonium chloride", "ids": ["ammonium-chloride"], "unusual": "Ammonium chloride as a confectionery ingredient, retained for user review."}
+{"audit": 2276, "lang": "labels", "text": "Amorphophallus konjac", "ids": ["konjac"]}
+{"audit": 2277, "lang": "labels", "text": "anago", "ids": ["sea-eel"]}
+{"audit": 2278, "lang": "labels", "text": "ankimo", "ids": ["monkfish-liver"]}
+{"audit": 2279, "lang": "labels", "text": "ant eggs", "ids": ["ant-eggs"], "unusual": "Ant eggs, retained for user review."}
+{"audit": 2280, "lang": "labels", "text": "appelen", "ids": ["apple"]}
+{"audit": 2281, "lang": "labels", "text": "apricot kernel", "ids": ["apricot-kernel"], "unusual": "Apricot kernels, retained for user review."}
+{"audit": 2282, "lang": "labels", "text": "Aptocyclus ventricosus", "ids": ["fish"], "reason": "Aptocyclus ventricosus is smooth lumpfish, not sculpin; no lumpfish ingredient exists, so use the existing fish fallback."}
+{"audit": 2283, "lang": "labels", "text": "Aquafaba", "ids": ["aquafaba"]}
+{"audit": 2284, "lang": "labels", "text": "Araucaria angustifolia nut", "ids": ["araucaria-nut"]}
+{"audit": 2285, "lang": "labels", "text": "Archidendron pauciflorum", "ids": ["jengkol"]}
+{"audit": 2286, "lang": "labels", "text": "Arctoscopus japonicus", "ids": ["japanese-sandfish"]}
+{"audit": 2287, "lang": "labels", "text": "areca nut", "ids": ["betel-nut"], "unusual": "Areca/betel nut, retained for user review."}
+{"audit": 2288, "lang": "labels", "text": "Arenga pinnata", "ids": ["sugar-palm"]}
+{"audit": 2289, "lang": "labels", "text": "argan oil", "ids": ["argan-oil"]}
+{"audit": 2290, "lang": "labels", "text": "Aristotelia chilensis", "ids": ["maqui-berry"]}
+{"audit": 2291, "lang": "labels", "text": "Armagnac", "ids": ["armagnac"]}
+{"audit": 2292, "lang": "labels", "text": "Arracacha", "ids": ["arracacha"]}
+{"audit": 2293, "lang": "labels", "text": "arrack", "ids": ["arrack"]}
+{"audit": 2294, "lang": "labels", "text": "Arrow loach", "ids": ["loach"]}
+{"audit": 2295, "lang": "labels", "text": "Artemisia princeps", "ids": ["mugwort"]}
+{"audit": 2296, "lang": "labels", "text": "Ascidiacea", "ids": ["sea-squirt"]}
+{"audit": 2297, "lang": "labels", "text": "Asiago", "ids": ["asiago"]}
+{"audit": 2298, "lang": "labels", "text": "Asian Pear", "ids": ["asian-pear"]}
+{"audit": 2299, "lang": "labels", "text": "Asparagus bean", "ids": ["yardlong-bean"]}
+{"audit": 2300, "lang": "labels", "text": "Aspergillus flavus var. oryzae", "ids": ["koji"]}
+{"audit": 2301, "lang": "labels", "text": "Aspergillus wentii", "ids": ["koji"], "reason": "Aspergillus wentii is a fermentation organism; retaining the existing broad mapping pending a contextual check of the intended culture/starter ingredient."}
+{"audit": 2302, "lang": "labels", "text": "Astrocaryum vulgare", "ids": ["tucuma"]}
+{"audit": 2303, "lang": "labels", "text": "Atlantic Puffin", "ids": ["puffin"], "unusual": "Atlantic puffin meat, retained for user review."}
+{"audit": 2304, "lang": "labels", "text": "au jus", "ids": ["au-jus"]}
+{"audit": 2305, "lang": "labels", "text": "Averrhoa bilimbi", "ids": ["bilimbi"]}
+{"audit": 2306, "lang": "labels", "text": "Averrhoa carambola", "ids": ["star-fruit"]}
+{"audit": 2307, "lang": "labels", "text": "ayran", "ids": ["ayran"]}
+{"audit": 2308, "lang": "labels", "text": "ayu sweetfish as food", "ids": ["ayu-sweetfish"]}
+{"audit": 2309, "lang": "labels", "text": "Azuki Bean", "ids": ["azuki-beans"]}
+{"audit": 2310, "lang": "labels", "text": "Baccaurea motleyana", "ids": ["rambai"]}
+{"audit": 2311, "lang": "labels", "text": "bagoong", "ids": ["bagoong"]}
+{"audit": 2312, "lang": "labels", "text": "baharat", "ids": ["baharat"]}
+{"audit": 2313, "lang": "labels", "text": "Baking Sugar", "ids": ["sugar"]}
+{"audit": 2314, "lang": "labels", "text": "Bambara Bean", "ids": ["bambara-beans"]}
+{"audit": 2315, "lang": "labels", "text": "Bambara groundnut", "ids": ["bambara-beans"]}
+{"audit": 2316, "lang": "labels", "text": "banana chip", "ids": ["banana-chips"]}
+{"audit": 2317, "lang": "labels", "text": "banana ketchup", "ids": ["banana-ketchup"]}
+{"audit": 2318, "lang": "labels", "text": "Banana pepper", "ids": ["banana-pepper"]}
+{"audit": 2319, "lang": "labels", "text": "Baobab", "ids": ["baobab"]}
+{"audit": 2320, "lang": "labels", "text": "baobab leaf", "ids": ["baobab-leaves"]}
+{"audit": 2321, "lang": "labels", "text": "Barberry", "ids": ["barberry"]}
+{"audit": 2322, "lang": "labels", "text": "Barolo DOCG", "ids": ["barolo"]}
+{"audit": 2323, "lang": "labels", "text": "Barramundi", "ids": ["barramundi"]}
+{"audit": 2324, "lang": "labels", "text": "basil seed", "ids": ["basil-seeds"]}
+{"audit": 2325, "lang": "labels", "text": "bat", "ids": ["bat"], "unusual": "Bat meat, retained for user review."}
+{"audit": 2326, "lang": "labels", "text": "Batillaria zonalis", "ids": ["mud-snail"]}
+{"audit": 2327, "lang": "labels", "text": "Batomorphi", "ids": ["ray"]}
+{"audit": 2328, "lang": "labels", "text": "Bawang goreng", "ids": ["fried-shallots"]}
+{"audit": 2329, "lang": "labels", "text": "beaten aquafaba", "ids": ["aquafaba"]}
+{"audit": 2330, "lang": "labels", "text": "beaver", "ids": ["beaver"], "unusual": "Beaver meat, retained for user review."}
+{"audit": 2331, "lang": "labels", "text": "beet kvass", "ids": ["beet-kvass"]}
+{"audit": 2332, "lang": "labels", "text": "beetle", "ids": ["beetle"], "unusual": "Beetles as food, retained for user review."}
+{"audit": 2333, "lang": "labels", "text": "Bengali Five-Spice Mix (Panch Puran)", "ids": ["panch-phoron"]}
+{"audit": 2334, "lang": "labels", "text": "berberechos", "ids": ["cockles"]}
+{"audit": 2335, "lang": "labels", "text": "Bergkäse", "ids": ["mountain-cheese"]}
+{"audit": 2336, "lang": "labels", "text": "Bertholletia excelsa", "ids": ["brazil-nuts"], "reason": "Bertholletia excelsa is the Brazil nut tree; use the same existing Brazil-nut ingredient as the plain Brazil Nut label in this batch."}
+{"audit": 2337, "lang": "labels", "text": "Bessensap", "ids": ["berry-juice"]}
+{"audit": 2338, "lang": "labels", "text": "betel", "ids": ["betel-leaf"]}
+{"audit": 2339, "lang": "labels", "text": "bhaji", "ids": [], "reason": "Bhaji is ambiguous between vegetables and prepared fritters without source context; no exact ingredient mapping can be made confidently."}
+{"audit": 2340, "lang": "labels", "text": "bhut jolokia", "ids": ["bhut-jolokia"]}
+{"audit": 2341, "lang": "labels", "text": "biber salçası", "ids": ["pepper-paste"]}
+{"audit": 2342, "lang": "labels", "text": "bietenstroop", "ids": ["beet-syrup"]}
+{"audit": 2343, "lang": "labels", "text": "Bijao", "ids": ["bijao-leaves"]}
+{"audit": 2344, "lang": "labels", "text": "bilberry", "ids": ["bilberry"]}
+{"audit": 2345, "lang": "labels", "text": "bile", "ids": ["bile"], "unusual": "Bile as a culinary ingredient, retained for user review."}
+{"audit": 2346, "lang": "labels", "text": "Bilimbi", "ids": ["bilimbi"]}
+{"audit": 2347, "lang": "labels", "text": "Biltong", "ids": ["biltong"]}
+{"audit": 2348, "lang": "labels", "text": "bird", "ids": ["bird-meat"]}
+{"audit": 2349, "lang": "labels", "text": "bird meat", "ids": ["bird-meat"]}
+{"audit": 2350, "lang": "labels", "text": "bird's eye chili", "ids": ["bird-eye-chili"]}
+{"audit": 2351, "lang": "labels", "text": "Bistorta officinalis", "ids": ["bistort"]}
+{"audit": 2352, "lang": "labels", "text": "Bitter Bean", "ids": ["bitter-bean"]}
+{"audit": 2353, "lang": "labels", "text": "Biwa trout", "ids": ["biwa-trout"]}
+{"audit": 2354, "lang": "labels", "text": "black gram", "ids": ["black-gram"]}
+{"audit": 2355, "lang": "labels", "text": "black gram flour", "ids": ["black-gram-flour"]}
+{"audit": 2356, "lang": "labels", "text": "black lentil", "ids": ["black-lentil"]}
+{"audit": 2357, "lang": "labels", "text": "Black lime", "ids": ["black-lime"]}
+{"audit": 2358, "lang": "labels", "text": "black raspberry", "ids": ["black-raspberry"]}
+{"audit": 2359, "lang": "labels", "text": "black soybean", "ids": ["black-soybean"]}
+{"audit": 2360, "lang": "labels", "text": "Blighia sapida", "ids": ["ackee"]}
+{"audit": 2361, "lang": "labels", "text": "blood curd", "ids": ["blood-curd"], "unusual": "Blood curd, retained for user review."}
+{"audit": 2362, "lang": "labels", "text": "Blood Orange", "ids": ["blood-orange"]}
+{"audit": 2363, "lang": "labels", "text": "blubber", "ids": ["blubber"], "unusual": "Blubber, retained for user review."}
+{"audit": 2364, "lang": "labels", "text": "bockwurst", "ids": ["bockwurst"]}
+{"audit": 2365, "lang": "labels", "text": "boerewors", "ids": ["boerewors"]}
+{"audit": 2366, "lang": "labels", "text": "Bombyx mori", "ids": ["silkworm"], "unusual": "Silkworm as food, retained for user review."}
+{"audit": 2367, "lang": "labels", "text": "Botargo", "ids": ["botargo"]}
+{"audit": 2368, "lang": "labels", "text": "Boter", "ids": ["butter"]}
+{"audit": 2369, "lang": "labels", "text": "bouye", "ids": ["baobab-fruit"]}
+{"audit": 2370, "lang": "labels", "text": "bracken starch", "ids": ["bracken-starch"]}
+{"audit": 2371, "lang": "labels", "text": "brain", "ids": ["brain"], "unusual": "Brain as offal, retained for user review."}
+{"audit": 2372, "lang": "labels", "text": "brain as food", "ids": ["brain"], "unusual": "Brain as offal, retained for user review."}
+{"audit": 2373, "lang": "labels", "text": "Brassica oleracea var. medullosa", "ids": ["marrow-stem-kale"]}
+{"audit": 2374, "lang": "labels", "text": "Brassica rapa subsp. nipposinica", "ids": ["mizuna"]}
+{"audit": 2375, "lang": "labels", "text": "Bratwurst", "ids": ["bratwurst"]}
+{"audit": 2376, "lang": "labels", "text": "Brazil Nut", "ids": ["brazil-nuts"]}
+{"audit": 2377, "lang": "labels", "text": "breadfruit", "ids": ["breadfruit"]}
+{"audit": 2378, "lang": "labels", "text": "breakfast cereal", "ids": ["breakfast-cereal"]}
+{"audit": 2379, "lang": "labels", "text": "brocciu", "ids": ["brocciu"]}
+{"audit": 2380, "lang": "labels", "text": "Broccoli Rabe", "ids": ["broccoli-rabe"]}
+{"audit": 2381, "lang": "labels", "text": "brown lentil", "ids": ["brown-lentils"]}
+{"audit": 2382, "lang": "labels", "text": "Brown Rice Syrup", "ids": ["brown-rice-syrup"]}
+{"audit": 2383, "lang": "labels", "text": "Bryndza", "ids": ["bryndza"]}
+{"audit": 2384, "lang": "labels", "text": "buah keluak", "ids": ["keluak"]}
+{"audit": 2385, "lang": "labels", "text": "Buccinum undatum", "ids": ["whelk"]}
+{"audit": 2386, "lang": "labels", "text": "buffalo meat", "ids": ["buffalo"]}
+{"audit": 2387, "lang": "labels", "text": "bushmeat", "ids": ["bushmeat"], "unusual": "Bushmeat is an unusually broad animal-food label, retained for user review."}
+{"audit": 2388, "lang": "labels", "text": "bánh chay", "ids": ["glutinous-rice-balls"], "reason": "Bánh chay is a prepared glutinous-rice-ball sweet; the existing glutinous-rice-balls ingredient represents it rather than leaving the label unmapped."}
+{"audit": 2389, "lang": "labels", "text": "Caelifera", "ids": ["grasshopper"], "unusual": "Grasshoppers as food, retained for user review."}
+{"audit": 2390, "lang": "labels", "text": "Caesionidae", "ids": ["fusilier-fish"]}
+{"audit": 2391, "lang": "labels", "text": "cal", "ids": ["slaked-lime"], "unusual": "Slaked lime as a food-processing ingredient, retained for user review."}
+{"audit": 2392, "lang": "labels", "text": "Calabrian chili pepper", "ids": ["calabrian-chili"]}
+{"audit": 2393, "lang": "labels", "text": "calamansi", "ids": ["calamansi"]}
+{"audit": 2394, "lang": "labels", "text": "calcium hydroxide", "ids": ["slaked-lime"], "unusual": "Calcium hydroxide/slaked lime as a food-processing ingredient, retained for user review."}
+{"audit": 2395, "lang": "labels", "text": "calf liver", "ids": ["calf-liver"]}
+{"audit": 2396, "lang": "labels", "text": "camel meat", "ids": ["camel"]}
+{"audit": 2397, "lang": "labels", "text": "camel milk", "ids": ["camel-milk"]}
+{"audit": 2398, "lang": "labels", "text": "camphor", "ids": ["camphor"], "unusual": "Camphor as a culinary ingredient, retained for user review."}
+{"audit": 2399, "lang": "labels", "text": "candi syrup", "ids": ["candi-syrup"]}

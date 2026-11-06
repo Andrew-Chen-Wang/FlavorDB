@@ -1,0 +1,100 @@
+{"audit": 5284, "lang": "es", "text": "puerro", "ids": ["leek"]}
+{"audit": 5285, "lang": "es", "text": "Puerro.", "ids": ["leek"]}
+{"audit": 5286, "lang": "es", "text": "Queso fresco", "ids": ["fresh-white-cheese"], "reason": "Spanish queso fresco is fresh white cheese, not specifically quark."}
+{"audit": 5287, "lang": "es", "text": "Queso fresco (al gusto)", "ids": ["fresh-white-cheese"], "reason": "Spanish queso fresco is fresh white cheese, not specifically quark."}
+{"audit": 5288, "lang": "fr", "text": "1 blanc de poireau,", "ids": ["leek"]}
+{"audit": 5289, "lang": "fr", "text": "1 carré de fromage frais (gervais)", "ids": ["fromage-frais"], "reason": "Gervais fromage frais is fresh soft cheese; the existing fromage-frais concept is more precise than quark."}
+{"audit": 5290, "lang": "fr", "text": "1 cuiller à café de coriandre en poudre", "ids": ["coriander-seed"]}
+{"audit": 5291, "lang": "fr", "text": "1 cuillère à café de coriandre moulue", "ids": ["coriander-seed"]}
+{"audit": 5292, "lang": "fr", "text": "1 càs de coriandre pilée,", "ids": ["coriander-seed"]}
+{"audit": 5293, "lang": "fr", "text": "1 kg de fromage blanc égoutté (en faisselle)", "ids": ["fromage-frais"], "reason": "French fromage blanc en faisselle belongs to fromage frais; the existing fromage-frais concept preserves that identity."}
+{"audit": 5294, "lang": "fr", "text": "100 g de poireaux en gros quartiers", "ids": ["leek"]}
+{"audit": 5295, "lang": "fr", "text": "100 g de poireaux,", "ids": ["leek"]}
+{"audit": 5296, "lang": "fr", "text": "1200 g de crème (fromage blanc + crème épaisse pour obtenir 50%MG),", "ids": ["fromage-frais", "cream"], "reason": "The named fromage blanc component is fromage frais; retain cream as the second actual ingredient."}
+{"audit": 5297, "lang": "fr", "text": "125 g de fromage blanc", "ids": ["fromage-frais"], "reason": "French fromage blanc is fresh soft cheese represented by existing fromage-frais rather than specifically quark."}
+{"audit": 5298, "lang": "fr", "text": "15 graines de coriandre", "ids": ["coriander-seed"]}
+{"audit": 5299, "lang": "fr", "text": "2 blancs de poireaux (facultatif)*,", "ids": ["leek"]}
+{"audit": 5300, "lang": "fr", "text": "2 blancs de poireaux taillés en fines lamelles", "ids": ["leek"]}
+{"audit": 5301, "lang": "fr", "text": "2 poireaux", "ids": ["leek"]}
+{"audit": 5302, "lang": "fr", "text": "2 poireaux,", "ids": ["leek"]}
+{"audit": 5303, "lang": "fr", "text": "20 g de fromage blanc", "ids": ["fromage-frais"], "reason": "French fromage blanc is represented by existing fromage-frais rather than specifically quark."}
+{"audit": 5304, "lang": "fr", "text": "200 g de blancs de poireaux", "ids": ["leek"]}
+{"audit": 5305, "lang": "fr", "text": "200 g de fromage blanc", "ids": ["fromage-frais"], "reason": "French fromage blanc is represented by existing fromage-frais rather than specifically quark."}
+{"audit": 5306, "lang": "fr", "text": "200 g de poireaux", "ids": ["leek"]}
+{"audit": 5307, "lang": "fr", "text": "200 grammes de fromage blanc à 20 % de matière grasse", "ids": ["fromage-frais"], "reason": "Fat content does not change the named fromage blanc, represented by fromage-frais."}
+{"audit": 5308, "lang": "fr", "text": "250 g de fromage blanc très frais (en Poitou c'est du fromage de chèvre, en faisselle par exemple)", "ids": ["goat-cheese"], "reason": "This line explicitly identifies the fresh cheese as goat cheese in its Poitou preparation."}
+{"audit": 5309, "lang": "fr", "text": "3 beaux poireaux", "ids": ["leek"]}
+{"audit": 5310, "lang": "fr", "text": "3 blancs de poireaux", "ids": ["leek"]}
+{"audit": 5311, "lang": "fr", "text": "3 poireaux", "ids": ["leek"]}
+{"audit": 5312, "lang": "fr", "text": "3 poireaux,", "ids": ["leek"]}
+{"audit": 5313, "lang": "fr", "text": "30 g de fromage blanc", "ids": ["fromage-frais"], "reason": "French fromage blanc is represented by existing fromage-frais rather than specifically quark."}
+{"audit": 5314, "lang": "fr", "text": "300 g de fromage blanc", "ids": ["fromage-frais"], "reason": "French fromage blanc is represented by existing fromage-frais rather than specifically quark."}
+{"audit": 5315, "lang": "fr", "text": "300 g de fromage blanc bien égoutté", "ids": ["fromage-frais"], "reason": "Drained fromage blanc remains fromage frais rather than specifically quark."}
+{"audit": 5316, "lang": "fr", "text": "4 c. à c. de fromage blanc maigre", "ids": ["fromage-frais"], "reason": "Low-fat fromage blanc remains fromage frais rather than specifically quark."}
+{"audit": 5317, "lang": "fr", "text": "4 c. à café de graines de coriandre noir de préférence", "ids": ["coriander-seed"]}
+{"audit": 5318, "lang": "fr", "text": "4 petits poireaux,", "ids": ["leek"]}
+{"audit": 5319, "lang": "fr", "text": "400 g de poireaux", "ids": ["leek"]}
+{"audit": 5320, "lang": "fr", "text": "5 cuillers à soupe de fromage blanc (éventuellement 0 % de matière grasse)", "ids": ["fromage-frais"], "reason": "French fromage blanc is represented by existing fromage-frais; the optional fat percentage does not change the ingredient."}
+{"audit": 5321, "lang": "fr", "text": "500 g de poireaux", "ids": ["leek"]}
+{"audit": 5322, "lang": "fr", "text": "6 tranches de fromage frais", "ids": ["fresh-white-cheese"], "reason": "Local Rocoto relleno recipe uses sliced fresh cheese, matching fresh-white-cheese rather than quark."}
+{"audit": 5323, "lang": "fr", "text": "600g de poireaux;", "ids": ["leek"]}
+{"audit": 5324, "lang": "fr", "text": "graines de coriandre", "ids": ["coriander-seed"]}
+{"audit": 5325, "lang": "fr", "text": "poireau ;", "ids": ["leek"]}
+{"audit": 5326, "lang": "fr", "text": "Quelques légumes du potager (carottes, navet, chou, pommes de terre, poireaux)", "ids": ["carrot", "turnip", "cabbage", "potato", "leek"]}
+{"audit": 5327, "lang": "fr", "text": "Un blanc de poireau nettoyé et coupé en petits cubes", "ids": ["leek"]}
+{"audit": 5328, "lang": "hu", "text": "0,25 dkg tehéntúró,", "ids": ["quark"]}
+{"audit": 5329, "lang": "hu", "text": "0,5 kg túró,", "ids": ["quark"]}
+{"audit": 5330, "lang": "hu", "text": "1 db fehérrépa,", "ids": ["parsley-root"], "reason": "Hungarian fehérrépa means parsley root in this culinary usage; parsnip is paszternák."}
+{"audit": 5331, "lang": "hu", "text": "1 db krémtúró, v.25 dkg tehéntúró", "ids": ["quark"]}
+{"audit": 5332, "lang": "hu", "text": "1 db póréhagyma,", "ids": ["leek"]}
+{"audit": 5333, "lang": "hu", "text": "1 db túrókrém", "ids": ["quark"]}
+{"audit": 5334, "lang": "hu", "text": "1 fehérrépa", "ids": ["parsley-root"], "reason": "Hungarian fehérrépa means parsley root, not parsnip."}
+{"audit": 5335, "lang": "hu", "text": "1 fehérrépa,", "ids": ["parsley-root"], "reason": "Hungarian fehérrépa means parsley root, not parsnip."}
+{"audit": 5336, "lang": "hu", "text": "1 kiló túró", "ids": ["quark"]}
+{"audit": 5337, "lang": "hu", "text": "1 kis szál póréhagyma fe­hér része,", "ids": ["leek"]}
+{"audit": 5338, "lang": "hu", "text": "1 kis szál póréhagyma,", "ids": ["leek"]}
+{"audit": 5339, "lang": "hu", "text": "1 kk őrölt koriander,.", "ids": ["coriander-seed"]}
+{"audit": 5340, "lang": "hu", "text": "1 kk őrölt köménymag, kakukkfű, koriander,", "ids": ["caraway", "thyme", "coriander-seed"], "reason": "Hungarian köménymag is caraway seed; cumin would be római kömény. Retain thyme and coriander seed."}
+{"audit": 5341, "lang": "hu", "text": "1 kávéskanál őrölt koriander,", "ids": ["coriander-seed"]}
+{"audit": 5342, "lang": "hu", "text": "1 kávéskanál őrölt koriandermag,", "ids": ["coriander-seed"]}
+{"audit": 5343, "lang": "hu", "text": "1 mk koriander,", "ids": ["coriander-seed"]}
+{"audit": 5344, "lang": "hu", "text": "1 mokkáskanál koriander és törött fekete bors,", "ids": ["coriander-seed", "black-pepper"]}
+{"audit": 5345, "lang": "hu", "text": "1 paszternák", "ids": ["parsnip"]}
+{"audit": 5346, "lang": "hu", "text": "1 póréhagyma", "ids": ["leek"]}
+{"audit": 5347, "lang": "hu", "text": "1 póréhagyma,", "ids": ["leek"]}
+{"audit": 5348, "lang": "hu", "text": "1 szál póréhagyma", "ids": ["leek"]}
+{"audit": 5349, "lang": "hu", "text": "1 szál póréhagyma vagy egy nagyobb fej hagyma", "ids": ["leek"]}
+{"audit": 5350, "lang": "hu", "text": "1 szál póréhagyma,", "ids": ["leek"]}
+{"audit": 5351, "lang": "hu", "text": "1 szép szál póréhagyma", "ids": ["leek"]}
+{"audit": 5352, "lang": "hu", "text": "1 teáskanál koriander,", "ids": ["coriander-seed"]}
+{"audit": 5353, "lang": "hu", "text": "1 vékony póréhagyma,", "ids": ["leek"]}
+{"audit": 5354, "lang": "hu", "text": "1-1 csapott kk őrölt mustármag meg koriander.", "ids": ["mustard-seed", "coriander-seed"]}
+{"audit": 5355, "lang": "hu", "text": "1-1 csipet, zsálya, borsika, koriander,", "ids": ["sage", "savory", "coriander-seed"]}
+{"audit": 5356, "lang": "hu", "text": "1-1 db kígyó uborka, sárgarépa, fehér répa, zöld hagyma, paradicsom,", "ids": ["cucumber", "carrot", "parsley-root", "green-onion", "tomato"], "reason": "Hungarian fehér répa is parsley root; retain the separately listed cucumber, carrot, green onion and tomato."}
+{"audit": 5357, "lang": "hu", "text": "1-1 db. felkarikázott sárgarépa, fehérrépa,", "ids": ["carrot", "parsley-root"], "reason": "Hungarian fehérrépa is parsley root; retain carrot."}
+{"audit": 5358, "lang": "hu", "text": "1-1 evőkanál korianderpor, currypor és őrölt kömény,", "ids": ["coriander-seed", "curry-powder", "caraway"], "reason": "The source says ordinary ground kömény, meaning caraway; it does not specify római kömény/cumin despite the curry seasoning."}
+{"audit": 5359, "lang": "hu", "text": "1-1 kávéskanál őrölt koriander, köménymag, kurkuma, curry, garam masala, só.", "ids": ["coriander-seed", "caraway", "turmeric", "curry-powder", "garam-masala", "salt"]}
+{"audit": 5360, "lang": "hu", "text": "1-1 késhegynyi őrölt koriander és kurkumapor,", "ids": ["coriander-seed", "turmeric"]}
+{"audit": 5361, "lang": "hu", "text": "1-1 késhegynyi őrölt koriander,", "ids": ["coriander-seed"]}
+{"audit": 5362, "lang": "hu", "text": "1-1 késhegynyi őrölt szegfűszeg és őrölt koriander,", "ids": ["clove", "coriander-seed"]}
+{"audit": 5363, "lang": "hu", "text": "1-1 mokkáskanál, őrölt szegfűszeg, fahéj, és szerecsendió, csillagánizs, koriander, kardamom, szegfűbors, gyömbérből egy-egy csipettel.", "ids": ["clove", "cinnamon", "nutmeg", "star-anise", "coriander-seed", "cardamom", "allspice", "ginger"]}
+{"audit": 5364, "lang": "hu", "text": "1-1 szál sárgarépa, fehérrépa", "ids": ["carrot", "parsley-root"], "reason": "Hungarian fehérrépa is parsley root; retain carrot."}
+{"audit": 5365, "lang": "hu", "text": "1-1 szál sárgarépa, fehérrépa,", "ids": ["carrot", "parsley-root"], "reason": "Hungarian fehérrépa is parsley root; retain carrot."}
+{"audit": 5366, "lang": "hu", "text": "1-1 sárgarépa, fehérrépa,", "ids": ["carrot", "parsley-root"], "reason": "Hungarian fehérrépa is parsley root; retain carrot."}
+{"audit": 5367, "lang": "hu", "text": "1-2 db fehérrépa,", "ids": ["parsley-root"], "reason": "Hungarian fehérrépa means parsley root, not parsnip."}
+{"audit": 5368, "lang": "hu", "text": "1/2 kg tehéntúró", "ids": ["quark"]}
+{"audit": 5369, "lang": "hu", "text": "1/2 kg tehéntúró,", "ids": ["quark"]}
+{"audit": 5370, "lang": "hu", "text": "1/2 kg túró", "ids": ["quark"]}
+{"audit": 5371, "lang": "hu", "text": "1/2 kg túró,", "ids": ["quark"]}
+{"audit": 5372, "lang": "hu", "text": "1/2 kk őrölt koriander,", "ids": ["coriander-seed"]}
+{"audit": 5373, "lang": "hu", "text": "1/2 kávéskanál őrölt koriander", "ids": ["coriander-seed"]}
+{"audit": 5374, "lang": "hu", "text": "1/2 póréhagyma,", "ids": ["leek"]}
+{"audit": 5375, "lang": "hu", "text": "1/4 kg túró,", "ids": ["quark"]}
+{"audit": 5376, "lang": "hu", "text": "10 - 10 dkg sárgarépa, fehérrépa,", "ids": ["carrot", "parsley-root"], "reason": "Hungarian fehérrépa is parsley root; retain carrot."}
+{"audit": 5377, "lang": "hu", "text": "10 dkg fehérrépa", "ids": ["parsley-root"], "reason": "Hungarian fehérrépa means parsley root, not parsnip."}
+{"audit": 5378, "lang": "hu", "text": "10 dkg fehérrépa,", "ids": ["parsley-root"], "reason": "Hungarian fehérrépa means parsley root, not parsnip."}
+{"audit": 5379, "lang": "hu", "text": "10 dkg fehérrépát,", "ids": ["parsley-root"], "reason": "Hungarian fehérrépát is the inflected form of parsley root, not parsnip."}
+{"audit": 5380, "lang": "hu", "text": "10 dkg póré,", "ids": ["leek"]}
+{"audit": 5381, "lang": "hu", "text": "10 dkg póréhagyma,", "ids": ["leek"]}
+{"audit": 5382, "lang": "hu", "text": "10 dkg sovány tehéntúró", "ids": ["quark"]}
+{"audit": 5383, "lang": "hu", "text": "10 dkg sovány túró,", "ids": ["quark"]}

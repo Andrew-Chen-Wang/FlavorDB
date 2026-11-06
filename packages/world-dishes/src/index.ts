@@ -32,13 +32,23 @@ const readJson = <T>(file: string, fallback: T): T =>
   existsSync(file) ? (JSON.parse(readFileSync(file, "utf8")) as T) : fallback
 
 /** A dish's ingredient ids, from its ingredient names and every recipe line. */
-export function ingredientIdsOf(dish: WorldDish, map: IngredientMap): string[] {
+export function ingredientIdsOf(
+  dish: WorldDish,
+  map: IngredientMap,
+  overrides: IngredientMap = {},
+): string[] {
   const ids = new Set<string>()
   for (const name of dish.ingredients)
-    for (const id of map.labels?.[name.trim().toLowerCase()] ?? []) ids.add(id)
+    for (const id of overrides.labels?.[name.trim().toLowerCase()] ??
+      map.labels?.[name.trim().toLowerCase()] ??
+      [])
+      ids.add(id)
   for (const recipe of dish.recipes)
     for (const line of recipe.ingredients)
-      for (const id of map[recipe.lang]?.[line.item.trim().toLowerCase()] ?? []) ids.add(id)
+      for (const id of overrides[recipe.lang]?.[line.item.trim().toLowerCase()] ??
+        map[recipe.lang]?.[line.item.trim().toLowerCase()] ??
+        [])
+        ids.add(id)
   return [...ids]
 }
 
@@ -46,6 +56,10 @@ export function loadWorldDishes(dataDir: string = DEFAULT_DATA_DIR): WorldDish[]
   if (cache) return cache
   const found = readJson<Record<string, FoundImage>>(path.join(dataDir, "images.json"), {})
   const ingredientMap = readJson<IngredientMap>(path.join(dataDir, "ingredient-map.json"), {})
+  const ingredientOverrides = readJson<Record<string, IngredientMap>>(
+    path.join(dataDir, "ingredient-overrides.json"),
+    {},
+  )
   cache = readdirSync(dataDir)
     .filter((f) => f.endsWith(".jsonl"))
     .toSorted()
@@ -55,7 +69,11 @@ export function loadWorldDishes(dataDir: string = DEFAULT_DATA_DIR): WorldDish[]
         .filter(Boolean)
         .map((line) => {
           const parsed = JSON.parse(line) as WorldDish
-          const ingredientIds = ingredientIdsOf(parsed, ingredientMap)
+          const ingredientIds = ingredientIdsOf(
+            parsed,
+            ingredientMap,
+            ingredientOverrides[parsed.id],
+          )
           const dish = ingredientIds.length ? { ...parsed, ingredientIds } : parsed
           const extra = found[dish.id]
           if (dish.image || dish.imageUrl || !extra) return dish

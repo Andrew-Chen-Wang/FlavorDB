@@ -1,0 +1,233 @@
+{"audit": 85, "lang": "de", "text": "Blattgold (optional)", "ids": ["gold-leaf"], "unusual": "Edible gold leaf is an unusual decorative ingredient; preserved for user decision."}
+{"audit": 121, "lang": "en", "text": "1 beef heart", "ids": ["beef-heart"], "unusual": "Beef heart/offal is explicitly requested; preserved for user review of unusual ingredients."}
+{"audit": 133, "lang": "en", "text": "1 calf's foot, boned and cut into pieces", "ids": ["calf-foot"], "unusual": "Calfs foot/offal is explicitly requested; preserved for user review of unusual ingredients."}
+{"audit": 167, "lang": "en", "text": "1 cup dried and ground wild orchid tubers (chikanda roots)", "ids": ["orchid-tubers"], "unusual": "Wild orchid tubers/chikanda roots are explicitly named; preserved for user decision on unusual ingredients."}
+{"audit": 172, "lang": "en", "text": "1 cup finely-ground pure cannabis", "ids": ["cannabis"], "unusual": "Cannabis is explicitly named; retained and flagged for user decision, not removed."}
+{"audit": 174, "lang": "en", "text": "1 cup fresh animal blood (optional)", "ids": ["animal-blood"], "unusual": "Fresh animal blood is explicitly named; retained and flagged for user decision."}
+{"audit": 176, "lang": "en", "text": "1 cup fresh or dried flying ants", "ids": ["flying-ants"], "unusual": "Flying ants are explicitly named as food; retained and flagged for user decision."}
+{"audit": 177, "lang": "en", "text": "1 cup fresh or dried mopane worms", "ids": ["mopane-worms"], "unusual": "Mopane worms are explicitly named as food; retained and flagged for user decision."}
+{"audit": 179, "lang": "en", "text": "1 cup masau (African eggplant) slices (optional)", "ids": ["masau"], "unusual": "Source calls masau African eggplant, but the mapped id is a fruit; retain the explicit local-name mapping pending user/source clarification of the conflicting gloss."}
+{"audit": 202, "lang": "en", "text": "1 dash of tobacco (optional)", "ids": ["tobacco"], "unusual": "Tobacco is explicitly written in the Sweet Beef recipe; likely a source typo for Tabasco, but retained for the user to decide rather than silently replacing or removing it."}
+{"audit": 213, "lang": "en", "text": "1 grain ambergris (no modern substitute)", "ids": ["ambergris"], "unusual": "Ambergris is an unusual historical animal-derived flavouring; retained for user review."}
+{"audit": 214, "lang": "en", "text": "1 grain musk (substitute edible musk essence)", "ids": ["musk"], "unusual": "Musk is an unusual historical animal-derived flavouring, with edible musk essence offered as a substitute; retained for user review."}
+{"audit": 245, "lang": "en", "text": "1 medium iguana", "ids": ["iguana"], "unusual": "Iguana meat is a real but unusual regional food; retained for user review."}
+{"audit": 480, "lang": "en", "text": "2 cups soapberries (Canada buffaloberries)", "ids": ["soapberries"], "unusual": "Canadian buffaloberries are the edible soapberries specified here; retained, but the common name should not be confused with soapnuts."}
+{"audit": 507, "lang": "en", "text": "2 medium iguanas", "ids": ["iguana"], "unusual": "Iguana meat is an unusual animal ingredient for the user to decide on; retained unchanged."}
+{"audit": 681, "lang": "en", "text": "4 g cannabis, ground", "ids": ["cannabis"], "unusual": "Cannabis is explicitly used as a recipe ingredient; retained for the user's decision."}
+{"audit": 694, "lang": "en", "text": "4 Twinkies, halved", "ids": ["twinkies"], "unusual": "Branded cream-filled sponge cakes are used as an ingredient; retained, with generic vocabulary naming left to the user."}
+{"audit": 701, "lang": "en", "text": "400 g shark fins", "ids": ["shark-fin"], "unusual": "Shark fins are explicitly named; retained for the user's decision on unusual ingredients."}
+{"audit": 754, "lang": "en", "text": "6 tablespoons finely-chopped turtle meat", "ids": ["turtle-meat"], "unusual": "Turtle meat is explicitly named; retained for the user's decision on unusual ingredients."}
+{"audit": 842, "lang": "en", "text": "Cottonseeds", "ids": ["cottonseed"], "unusual": "Cottonseeds are an unusual listed food ingredient; preserved for user review."}
+{"audit": 843, "lang": "en", "text": "Cow feet", "ids": ["cow-feet"], "unusual": "Cow feet are an offal ingredient; preserved for user review."}
+{"audit": 855, "lang": "en", "text": "Edible gold glitter spray", "ids": ["edible-glitter"], "unusual": "Edible gold glitter spray is a decorative food additive; preserved for user review."}
+{"audit": 856, "lang": "en", "text": "Edible silver leaf/foil", "ids": ["edible-silver-leaf"], "unusual": "Edible silver leaf is a decorative metal food ingredient; preserved for user review."}
+{"audit": 908, "lang": "en", "text": "Moi-moi leaves, cleaned", "ids": ["moi-moi-leaves"], "unusual": "Moi-moi leaves are used as cooking wrappers; retained for user decision on wrapper ingredients."}
+{"audit": 928, "lang": "en", "text": "Quorn", "ids": ["quorn"], "unusual": "Quorn is a branded mycoprotein meat substitute; retained for user decision. Its catalog category legume is inaccurate."}
+{"audit": 936, "lang": "en", "text": "Sausage casing", "ids": ["sausage-casing"], "unusual": "Sausage casing is retained; whether a particular casing is edible depends on its type."}
+{"audit": 939, "lang": "en", "text": "Several lbs apple wood", "ids": ["apple-wood"], "unusual": "Apple wood is smoking fuel/flavoring rather than consumed food; retained consistently with existing smoke-wood ingredients for user decision."}
+{"audit": 954, "lang": "en", "text": "starch-based creamer", "ids": ["creamer"], "unusual": "Starch-based creamer is retained; its catalog dairy category does not describe the explicitly starch-based version."}
+{"audit": 989, "lang": "en", "text": "¼ cup each hickory and applewood chips for smoking", "ids": ["hickory-wood", "apple-wood"], "unusual": "Hickory and applewood chips are smoking fuel/flavorings rather than consumed food; retained for user decision."}
+{"audit": 1022, "lang": "en", "text": "½ cup fireweed blossoms", "ids": ["fireweed"], "unusual": "Fireweed blossoms are an unusual edible flower; retained for user decision."}
+{"audit": 1034, "lang": "en", "text": "½ kilo of pig's intestines, grilled and minced", "ids": ["pork-intestine"], "unusual": "Pig intestines are an unusual offal ingredient; retained for user decision."}
+{"audit": 1035, "lang": "en", "text": "½ kilo of pig's lungs, grilled and minced", "ids": ["pork-lung"], "unusual": "Pig lungs are an unusual offal ingredient; retained for user decision."}
+{"audit": 1037, "lang": "en", "text": "½ lb muskrat meat, cut into pieces", "ids": ["muskrat"], "unusual": "Muskrat meat is unusual game; retained for user decision."}
+{"audit": 1049, "lang": "en", "text": "½ tsp potash (akaun), ground to a powder", "ids": ["potash"], "unusual": "Edible potash/akaun is an unusual food-processing ingredient; retained for user decision."}
+{"audit": 1109, "lang": "es", "text": "1/2 taza de cal", "ids": ["slaked-lime"], "unusual": "Food-grade slaked lime is an unusual food-processing ingredient; retained for user decision."}
+{"audit": 1115, "lang": "es", "text": "100 g de sesos de cordero", "ids": ["lamb-brains"], "unusual": "Lamb brains are unusual offal; retained for user decision."}
+{"audit": 1123, "lang": "es", "text": "12 pacayas (fruto comestible de la Chamaedorea)", "ids": ["pacaya"], "unusual": "Pacaya palm inflorescences are an unusual regional vegetable; retained for user decision."}
+{"audit": 1187, "lang": "es", "text": "Alcohol (2 cdas soperas)", "ids": ["alcohol"], "unusual": "Alcohol is an unusually nonspecific ingredient entry; retained for user decision."}
+{"audit": 1256, "lang": "es", "text": "½ kg de sangre de cordero cocida", "ids": ["lamb-blood"], "unusual": "Cooked lamb blood is a real traditional ingredient; retain for user decision."}
+{"audit": 1262, "lang": "fr", "text": "\"Poissons tendres\" : loup, roucaou, saint-pierre,", "ids": ["sea-bass", "fish", "john-dory"], "reason": "Roucaou is not identified as red mullet by this text; use generic fish for that unmatched local name while retaining the other named fish.", "note": "Local fish name roucaou needs a verified specific ingredient id if finer species matching is desired."}
+{"audit": 1295, "lang": "fr", "text": "1 rate de bœuf, de veau ou de porc (de préférence non percée)", "ids": ["spleen"], "unusual": "Spleen is explicitly named as edible offal, with beef first and veal/pork alternatives; retain for user decision."}
+{"audit": 1302, "lang": "fr", "text": "1.000 g de poissons divers (vivaneau, chat, grand-gueule, tanche, thon, thazard...)", "ids": ["snapper", "catfish", "fish", "tench", "tuna", "mackerel"], "reason": "Retain the named fish already mapped; represent thazard with broader mackerel and the unresolved local grand-gueule name with fish instead of omitting both.", "note": "Grand-gueule is an unresolved local fish name; finer species identity needs source review."}
+{"audit": 1389, "lang": "fr", "text": "4 cuillères à soupe de néroli", "ids": ["neroli"], "unusual": "Neroli is explicitly named at four tablespoons; retain its id but flag the unusual floral ingredient and quantity for source/user review."}
+{"audit": 1425, "lang": "fr", "text": "crépine de porc", "ids": ["pork-caul"], "unusual": "Pork caul is retained as a real culinary ingredient."}
+{"audit": 1438, "lang": "fr", "text": "glands,", "ids": ["acorns"], "unusual": "Acorns are retained; flag for user review as an uncommon ingredient."}
+{"audit": 1440, "lang": "fr", "text": "graines de ginkgo (peut être omis)", "ids": ["ginkgo-nuts"], "unusual": "Ginkgo nuts are retained; flag for user review as an uncommon ingredient."}
+{"audit": 1442, "lang": "fr", "text": "jambu (cresson du para, appelée brède mafane à Madagascar, une variété originaire de l’Amazonie)", "ids": ["jambu"], "unusual": "Jambu / brède mafane is retained as a named culinary herb."}
+{"audit": 1450, "lang": "fr", "text": "poudre de nanoukou", "ids": ["nanoukou"], "unusual": "Nanoukou powder is retained; unusual local ingredient name merits a descriptive catalog review."}
+{"audit": 1461, "lang": "fr", "text": "tucupi (un bouillon fait avec du jus de manioc)", "ids": ["tucupi"], "unusual": "Tucupi cassava broth is retained; flag for user review as an uncommon ingredient."}
+{"audit": 1470, "lang": "fr", "text": "Viande de brousse de votre choix", "ids": ["bushmeat"], "unusual": "Bushmeat is retained; generic wild-animal meat merits user review."}
+{"audit": 1471, "lang": "fr", "text": "Viande de brousse ou 5 gros poissons silures fumés", "ids": ["bushmeat"], "unusual": "Bushmeat is the first alternative and is retained for user review."}
+{"audit": 1472, "lang": "fr", "text": "viande de cheval", "ids": ["horse"], "unusual": "Horse meat is retained and flagged for user review."}
+{"audit": 1476, "lang": "hu", "text": "(esetleg erős paprika, ízlés szerint) és ha van, körülbelül 2 l abalé esetleg még egy darab hasaalja szalonna.", "ids": ["paprika", "abale", "pork-belly"], "unusual": "Abalé is pork-poaching broth; retain the reader id but its English name Abale should be clarified."}
+{"audit": 1477, "lang": "hu", "text": "(esetleg erős paprika, ízlés szerint) és ha van, körülbelül 2 liter abalé, esetleg még egy darab hasaalja szalonna.", "ids": ["paprika", "abale", "pork-belly"], "unusual": "Abalé is pork-poaching broth; retain the reader id but its English name Abale should be clarified."}
+{"audit": 1482, "lang": "hu", "text": "0,5-1 liter abalé", "ids": ["abale"], "unusual": "Abalé is pork-poaching broth; retain the reader id but its English name Abale should be clarified."}
+{"audit": 1498, "lang": "hu", "text": "1 db borjúvelő,", "ids": ["veal-brains"], "reason": "Borjúvelő means calf brains here; bone marrow would be csontvelő.", "unusual": "Veal brains are retained as a real ingredient and flagged for user review."}
+{"audit": 1499, "lang": "hu", "text": "1 db disznófej,", "ids": ["pork-head"], "unusual": "Pork head is retained as a real ingredient and flagged for user review."}
+{"audit": 1504, "lang": "hu", "text": "1 db sertésgyomor", "ids": ["pork-stomach"], "unusual": "Pork stomach is retained as a real ingredient and flagged for user review."}
+{"audit": 1505, "lang": "hu", "text": "1 disznófej,", "ids": ["pork-head"], "unusual": "Pork head is retained as a real ingredient and flagged for user review."}
+{"audit": 1506, "lang": "hu", "text": "1 dkg enyv,", "ids": [], "unusual": "Ajz recipe explicitly uses dissolved enyv with sugar, alum and potato flour. Animal glue material is named, but food grade is not established. Proposed animal-glue id requires parent/source decision; existing[] retained pending that decision.", "proposed": {"id": "animal-glue", "name": "Animal glue", "category": "other"}}
+{"audit": 1554, "lang": "hu", "text": "1 kávéskanál borkénpor,", "ids": ["potassium-metabisulfite"], "reason": "Borkénpor is potassium metabisulfite used as a food preservative, not elemental sulfur; precise new id proposed and confirmed by another reader.", "unusual": "Preserving sulfite compound retained, precise proposed ingredient needs parent vocabulary addition.", "proposed": {"id": "potassium-metabisulfite", "name": "Potassium metabisulfite", "category": "other"}}
+{"audit": 1559, "lang": "hu", "text": "1 liba vagy kacsa vére, vagy ½ liter sertésvér,", "ids": ["goose-blood"], "unusual": "Goose blood is the first alternative; retained and flagged for user review."}
+{"audit": 1560, "lang": "hu", "text": "1 liba vére,", "ids": ["goose-blood"], "unusual": "Goose blood is retained and flagged for user review."}
+{"audit": 1570, "lang": "hu", "text": "1 szárnyas vére,", "ids": ["poultry-blood"], "unusual": "Poultry blood is retained and flagged for user review."}
+{"audit": 1662, "lang": "hu", "text": "15 dkg borjúmirigy", "ids": ["veal-sweetbread"], "reason": "Borjúmirigy specifies veal sweetbreads; the specific veal-sweetbread id exists.", "unusual": "Veal sweetbreads (organ meat); retained for user decision."}
+{"audit": 1671, "lang": "hu", "text": "2 csepp rózsaolaj,", "ids": ["rose-oil"], "reason": "Rózsaolaj means rose oil, not rose water. Parent requested proposal of new culinary rose-oil (fat).", "unusual": "Concentrated culinary rose oil; retained as a proposed distinct ingredient for user decision."}
+{"audit": 1674, "lang": "hu", "text": "2 db Borjú velő,", "ids": ["veal-brains"], "unusual": "Veal brains; retained for user decision."}
+{"audit": 1675, "lang": "hu", "text": "2 db borjúláb,", "ids": ["veal-feet"], "unusual": "Veal feet; retained for user decision."}
+{"audit": 1770, "lang": "hu", "text": "3 szál frézia szirmai,", "ids": ["freesia-petals"], "unusual": "Freesia flower petals listed as food; retained for user decision."}
+{"audit": 1776, "lang": "hu", "text": "30 dkg agyvelő", "ids": ["brain"], "unusual": "Animal brains; retained for user decision."}
+{"audit": 1784, "lang": "hu", "text": "30 dkg sertéstüdő", "ids": ["pork-lung"], "unusual": "Pork lung; retained for user decision."}
+{"audit": 1811, "lang": "hu", "text": "4 ágacska fekete üröm,", "ids": ["mugwort"], "reason": "Fekete üröm is mugwort, not absinthe wormwood.", "unusual": "Mugwort herb retained; unusual botanical ingredient for user review."}
+{"audit": 1834, "lang": "hu", "text": "5 g salétromsó", "ids": ["saltpeter"], "unusual": "Saltpeter curing salt retained for user decision."}
+{"audit": 1842, "lang": "hu", "text": "50 dkg halbelső,", "ids": ["fish-offal"], "reason": "Halbelső means fish innards/offal, not beef. New precise seafood ingredient needed.", "unusual": "Fish offal retained as a real ingredient, with corrected identity."}
+{"audit": 1855, "lang": "hu", "text": "6 dkg borkénpor", "ids": ["potassium-metabisulfite"], "reason": "Borkénpor is the potassium-metabisulfite preservative, not elemental sulfur. New precise ingredient needed.", "unusual": "Potassium-metabisulfite food preservative retained for user decision; corrected from sulfur."}
+{"audit": 1909, "lang": "hu", "text": "berkenye (jó sok)", "ids": ["rowan-berries"], "unusual": "Rowan berries retained as a real fruit ingredient for user review."}
+{"audit": 1919, "lang": "hu", "text": "fajtánként 2-3 dkg rózsa, szegfű, primula, ibolya-szirmok metéltre vágva.", "ids": ["edible-flowers"], "unusual": "Mixed rose, carnation, primula and violet flower petals retained for user review."}
+{"audit": 1927, "lang": "hu", "text": "fél kg haltej, halikra, vegyesen,", "ids": ["milt", "fish-roe"], "reason": "Haltej and halikra name both fish milt and roe; milt was omitted.", "unusual": "Fish milt retained alongside fish roe for user review."}
+{"audit": 1943, "lang": "hu", "text": "izsóp,", "ids": ["hyssop"], "unusual": "Hyssop herb retained for user review."}
+{"audit": 1944, "lang": "hu", "text": "kalcium-klorid 10 liter tejhez/ 1-1,5 gramm", "ids": ["calcium-chloride"], "unusual": "Calcium chloride for cheesemaking retained for user decision."}
+{"audit": 1951, "lang": "hu", "text": "kis csomag szárított narancsvirág,", "ids": ["orange-blossom"], "unusual": "Dried orange blossoms retained as a culinary floral ingredient."}
+{"audit": 2002, "lang": "hu", "text": "virágpor,", "ids": ["bee-pollen"], "unusual": "Bee pollen retained as a real food ingredient for user review."}
+{"audit": 2016, "lang": "it", "text": "\"cip’duzz\" (già cotte in acqua e sale)", "ids": [], "unusual": "The Roto di Carpino recipe lists cooked cipduzz as a real regional bulb ingredient, likely wild lampascioni; no suitable named bulb id exists. Current empty mapping retained for parent follow-up rather than inventing a species/id."}
+{"audit": 2029, "lang": "it", "text": "1 kg di Reale di Asino;", "ids": ["donkey"], "unusual": "Donkey meat retained as a real regional food for user review."}
+{"audit": 2030, "lang": "it", "text": "1 kg. di trippa ovina (o bovina)", "ids": ["sheep-tripe"], "unusual": "Sheep tripe retained as a real offal ingredient."}
+{"audit": 2057, "lang": "it", "text": "2 missoltini del Lario", "ids": ["shad"], "unusual": "Missoltini are traditional dried Lake Como shad; shad is a valid broad mapping, but a preserved-shad ingredient could be added if desired."}
+{"audit": 2074, "lang": "it", "text": "3 noci di Aleurite moluccana ridotte in polvere", "ids": ["candlenuts"], "unusual": "Candlenuts retained as a real food ingredient for user review."}
+{"audit": 2080, "lang": "it", "text": "300 gr. di cicale", "ids": ["mantis-shrimp"], "reason": "Cicale in the Cacciucco seafood recipe denotes mantis shrimp, not slipper lobster.", "unusual": "Mantis shrimp retained as the actual seafood ingredient after correcting the crustacean identity."}
+{"audit": 2100, "lang": "it", "text": "500 g. di preboggion (un insieme di erbe selvatiche composto da: cicerbita, grattalingua, pimpinella, dente di cane, bieta selvatica, prezzemolo, raperonzolo, ortica, pissarella e borragine)", "ids": ["preboggion"], "unusual": "Named mixed wild-herb preparation retained; the parenthetical list explains the mixture."}
+{"audit": 2106, "lang": "it", "text": "600 gr di carne di asino", "ids": ["donkey"], "unusual": "Donkey meat retained as a real regional food for user review."}
+{"audit": 2112, "lang": "it", "text": "800 g di rane (500 se già pulite)", "ids": ["frog-legs"], "unusual": "Frogs retained as a real food ingredient for user review."}
+{"audit": 2116, "lang": "it", "text": "animella", "ids": ["sweetbreads"], "unusual": "Sweetbreads retained as a real offal ingredient."}
+{"audit": 2122, "lang": "it", "text": "cervella", "ids": ["brains"], "unusual": "Brains retained as a real offal ingredient for user review."}
+{"audit": 2126, "lang": "it", "text": "fegato del coniglio", "ids": ["rabbit-liver"], "unusual": "Rabbit liver retained as a real offal ingredient."}
+{"audit": 2138, "lang": "it", "text": "parti molli di bovino quali animelle, filoni (midollo spinale), cervella", "ids": ["beef-offal"], "unusual": "Mixed beef offal, including sweetbreads, spinal cord and brains, retained for user review."}
+{"audit": 2152, "lang": "it", "text": "testone,", "ids": ["testone"], "unusual": "Category correction required: testone is listed among fish in Ciambotta pugliese, not a grain. Retain its ingredient id but change category to seafood; precise regional species should not be guessed."}
+{"audit": 2153, "lang": "it", "text": "tettina", "ids": ["tettina"], "unusual": "Category correction required: tettina in Cima alla Genovese is udder/offal, not dairy. Retain id and classify as protein; flag this uncommon ingredient for user decision."}
+{"audit": 2159, "lang": "it", "text": "un mazzetto verde di piantine di papavero di campo", "ids": ["poppy-sprouts"], "unusual": "Young field-poppy greens retained as a real traditional plant ingredient for user review."}
+{"audit": 2160, "lang": "it", "text": "un pacco di savoiardi", "ids": ["savoiardi"], "unusual": "Category correction required: savoiardi are ladyfinger biscuits, so grain rather than other."}
+{"audit": 2162, "lang": "it", "text": "una confezione piccola di stracchino o philadelphia", "ids": ["stracchino"], "unusual": "Category correction required: stracchino is a cheese, so dairy rather than other."}
+{"audit": 2239, "lang": "labels", "text": "abomasum", "ids": ["abomasum"], "unusual": "Abomasum (stomach offal), retained for user review."}
+{"audit": 2262, "lang": "labels", "text": "Alligator", "ids": ["alligator"], "unusual": "Alligator meat, retained for user review."}
+{"audit": 2275, "lang": "labels", "text": "ammonium chloride", "ids": ["ammonium-chloride"], "unusual": "Ammonium chloride as a confectionery ingredient, retained for user review."}
+{"audit": 2279, "lang": "labels", "text": "ant eggs", "ids": ["ant-eggs"], "unusual": "Ant eggs, retained for user review."}
+{"audit": 2281, "lang": "labels", "text": "apricot kernel", "ids": ["apricot-kernel"], "unusual": "Apricot kernels, retained for user review."}
+{"audit": 2287, "lang": "labels", "text": "areca nut", "ids": ["betel-nut"], "unusual": "Areca/betel nut, retained for user review."}
+{"audit": 2303, "lang": "labels", "text": "Atlantic Puffin", "ids": ["puffin"], "unusual": "Atlantic puffin meat, retained for user review."}
+{"audit": 2325, "lang": "labels", "text": "bat", "ids": ["bat"], "unusual": "Bat meat, retained for user review."}
+{"audit": 2330, "lang": "labels", "text": "beaver", "ids": ["beaver"], "unusual": "Beaver meat, retained for user review."}
+{"audit": 2332, "lang": "labels", "text": "beetle", "ids": ["beetle"], "unusual": "Beetles as food, retained for user review."}
+{"audit": 2345, "lang": "labels", "text": "bile", "ids": ["bile"], "unusual": "Bile as a culinary ingredient, retained for user review."}
+{"audit": 2361, "lang": "labels", "text": "blood curd", "ids": ["blood-curd"], "unusual": "Blood curd, retained for user review."}
+{"audit": 2363, "lang": "labels", "text": "blubber", "ids": ["blubber"], "unusual": "Blubber, retained for user review."}
+{"audit": 2366, "lang": "labels", "text": "Bombyx mori", "ids": ["silkworm"], "unusual": "Silkworm as food, retained for user review."}
+{"audit": 2371, "lang": "labels", "text": "brain", "ids": ["brain"], "unusual": "Brain as offal, retained for user review."}
+{"audit": 2372, "lang": "labels", "text": "brain as food", "ids": ["brain"], "unusual": "Brain as offal, retained for user review."}
+{"audit": 2387, "lang": "labels", "text": "bushmeat", "ids": ["bushmeat"], "unusual": "Bushmeat is an unusually broad animal-food label, retained for user review."}
+{"audit": 2389, "lang": "labels", "text": "Caelifera", "ids": ["grasshopper"], "unusual": "Grasshoppers as food, retained for user review."}
+{"audit": 2391, "lang": "labels", "text": "cal", "ids": ["slaked-lime"], "unusual": "Slaked lime as a food-processing ingredient, retained for user review."}
+{"audit": 2394, "lang": "labels", "text": "calcium hydroxide", "ids": ["slaked-lime"], "unusual": "Calcium hydroxide/slaked lime as a food-processing ingredient, retained for user review."}
+{"audit": 2398, "lang": "labels", "text": "camphor", "ids": ["camphor"], "unusual": "Camphor as a culinary ingredient, retained for user review."}
+{"audit": 2401, "lang": "labels", "text": "Cannabis", "ids": ["cannabis"], "unusual": "Cannabis retained for user decision; no removal made."}
+{"audit": 2410, "lang": "labels", "text": "castor oil", "ids": ["castor-oil"], "unusual": "Castor oil retained as an unusual culinary listing for user decision."}
+{"audit": 2411, "lang": "labels", "text": "cat meat", "ids": ["cat-meat"], "unusual": "Cat meat retained for user decision."}
+{"audit": 2416, "lang": "labels", "text": "chamois meat", "ids": ["chamois"], "unusual": "Chamois meat retained as uncommon game meat for user decision."}
+{"audit": 2434, "lang": "labels", "text": "Chinese softshell turtle", "ids": ["soft-shell-turtle"], "unusual": "Softshell turtle retained for user decision."}
+{"audit": 2438, "lang": "labels", "text": "chrabąszcze majowe", "ids": ["may-beetle"], "unusual": "Polish chrabaszcze majowe means cockchafer/May beetles; retained for user decision."}
+{"audit": 2443, "lang": "labels", "text": "Citrullus colocynthis", "ids": ["colocynth"], "unusual": "Colocynth botanical ingredient retained as an unusual listing for user decision."}
+{"audit": 2466, "lang": "labels", "text": "Cottonseed", "ids": ["cottonseed"], "unusual": "Cottonseed retained as an unusual ingredient listing for user decision."}
+{"audit": 2469, "lang": "labels", "text": "cowhide", "ids": ["cowhide"], "unusual": "Cowhide retained as a traditional prepared-food ingredient for user decision."}
+{"audit": 2503, "lang": "labels", "text": "dog meat", "ids": ["dog-meat"], "unusual": "Dog meat retained for user decision."}
+{"audit": 2504, "lang": "labels", "text": "domesticated reindeer", "ids": ["reindeer"], "unusual": "Reindeer retained as uncommon game meat for user decision."}
+{"audit": 2505, "lang": "labels", "text": "donkey meat", "ids": ["donkey"], "unusual": "Donkey meat retained for user decision."}
+{"audit": 2506, "lang": "labels", "text": "donkey milk", "ids": ["donkey-milk"], "unusual": "Donkey milk retained for user decision."}
+{"audit": 2514, "lang": "labels", "text": "edible bird's nest", "ids": ["bird-nest"], "unusual": "Edible bird nest retained for user decision."}
+{"audit": 2550, "lang": "labels", "text": "foie gras", "ids": ["foie-gras"], "unusual": "Foie gras retained for user decision."}
+{"audit": 2557, "lang": "labels", "text": "Frog", "ids": ["frog"], "unusual": "Frog retained for user decision."}
+{"audit": 2558, "lang": "labels", "text": "frog legs", "ids": ["frog"], "unusual": "Frog legs retained for user decision."}
+{"audit": 2599, "lang": "labels", "text": "grasshopper", "ids": ["grasshopper"], "unusual": "Grasshopper retained as an edible-insect ingredient for user decision."}
+{"audit": 2611, "lang": "labels", "text": "hachinoko", "ids": ["hachinoko"], "unusual": "Bee/wasp larvae ingredient; retained for user decision."}
+{"audit": 2615, "lang": "labels", "text": "hanenkammen", "ids": ["cockscomb"], "unusual": "Edible cockscomb/offal ingredient; retained for user decision."}
+{"audit": 2620, "lang": "labels", "text": "Harp Seal", "ids": ["harp-seal"], "unusual": "Harp seal meat; retained for user decision."}
+{"audit": 2623, "lang": "labels", "text": "hedgehog", "ids": ["hedgehog"], "unusual": "Hedgehog meat; retained for user decision."}
+{"audit": 2626, "lang": "labels", "text": "hemp oil", "ids": ["hemp-oil"], "unusual": "Hemp-derived oil; retained for user decision."}
+{"audit": 2633, "lang": "labels", "text": "Horse", "ids": ["horse"], "unusual": "Horse meat ingredient; retained for user decision."}
+{"audit": 2634, "lang": "labels", "text": "Horse fat", "ids": ["horse-fat"], "unusual": "Horse fat ingredient; retained for user decision."}
+{"audit": 2636, "lang": "labels", "text": "horse meat", "ids": ["horse"], "unusual": "Horse meat ingredient; retained for user decision."}
+{"audit": 2647, "lang": "labels", "text": "Iguana", "ids": ["iguana"], "unusual": "Iguana meat; retained for user decision."}
+{"audit": 2710, "lang": "labels", "text": "llama", "ids": ["llama"], "unusual": "Llama meat; retained for user decision."}
+{"audit": 2738, "lang": "labels", "text": "Melolontha melolontha", "ids": ["cockchafer"], "unusual": "Cockchafer beetles; retained for user decision."}
+{"audit": 2745, "lang": "labels", "text": "milt", "ids": ["milt"], "unusual": "Fish milt; retained for user decision."}
+{"audit": 2746, "lang": "labels", "text": "Minke whale", "ids": ["minke-whale"], "unusual": "Minke whale meat; retained for user decision."}
+{"audit": 2765, "lang": "labels", "text": "Muskrat", "ids": ["muskrat"], "unusual": "Muskrat meat; retained for user decision."}
+{"audit": 2773, "lang": "labels", "text": "Nereididae", "ids": ["ragworm"], "unusual": "Ragworm ingredient; retained for user decision."}
+{"audit": 2790, "lang": "labels", "text": "Ortolan Bunting", "ids": ["ortolan"], "unusual": "Ortolan bunting ingredient; retained for user decision."}
+{"audit": 2809, "lang": "labels", "text": "Pangium edule", "ids": ["pangi-nut"], "unusual": "Pangi nut is an unusual regional ingredient; retained for user decision."}
+{"audit": 2821, "lang": "labels", "text": "parrot", "ids": ["parrot"], "unusual": "Parrot as a meat ingredient is unusual; retained for user decision."}
+{"audit": 2853, "lang": "labels", "text": "piranha", "ids": ["piranha"], "unusual": "Piranha is an unusual regional food fish; retained for user decision."}
+{"audit": 2855, "lang": "labels", "text": "Placenta", "ids": ["placenta"], "unusual": "Placenta is unusual and the bare label is ambiguous between organ tissue and the historical pastry; retained pending source clarification/user decision."}
+{"audit": 2904, "lang": "labels", "text": "Red-bellied piranha", "ids": ["piranha"], "unusual": "Red-bellied piranha is an unusual regional food fish; retained for user decision."}
+{"audit": 2930, "lang": "labels", "text": "salep", "ids": ["salep"], "unusual": "Salep is orchid-tuber flour, an unusual regional ingredient; retained for user decision."}
+{"audit": 2969, "lang": "labels", "text": "Shepherdia canadensis", "ids": ["soapberry"], "unusual": "Canadian soapberry (Shepherdia canadensis) is an unusual traditional food fruit; retain and distinguish it from unrelated soapberry species."}
+{"audit": 2987, "lang": "labels", "text": "snake meat", "ids": ["snake"], "unusual": "Snake meat is unusual; retained for user decision."}
+{"audit": 3002, "lang": "labels", "text": "Spam", "ids": ["spam"], "unusual": "Branded processed meat name (Spam); retained for the user’s shared-vocabulary naming decision."}
+{"audit": 3008, "lang": "labels", "text": "spleen", "ids": ["spleen"], "unusual": "Spleen/offal retained; list for the user’s decision on unusual ingredient coverage."}
+{"audit": 3009, "lang": "labels", "text": "spleen as food", "ids": ["spleen"], "unusual": "Spleen/offal retained; list for the user’s decision on unusual ingredient coverage."}
+{"audit": 3048, "lang": "labels", "text": "termite", "ids": ["termite"], "unusual": "Termites as an edible insect ingredient retained for the user’s decision."}
+{"audit": 3049, "lang": "labels", "text": "testicle", "ids": ["testicle"], "unusual": "Animal testicle/offal ingredient retained for the user’s decision."}
+{"audit": 3050, "lang": "labels", "text": "testicle as food", "ids": ["testicle"], "unusual": "Animal testicle/offal ingredient retained for the user’s decision."}
+{"audit": 3055, "lang": "labels", "text": "tiger penis", "ids": ["tiger-penis"], "unusual": "Tiger penis animal product retained and explicitly flagged for the user’s decision."}
+{"audit": 3113, "lang": "labels", "text": "whale meat", "ids": ["whale"], "unusual": "Whale meat retained and explicitly flagged for the user’s decision."}
+{"audit": 3212, "lang": "labels", "text": "牛蛙肉", "ids": ["frog"], "unusual": "Bullfrog meat is a real ingredient; retained for user consideration."}
+{"audit": 3213, "lang": "labels", "text": "玉竹", "ids": ["solomon-seal"], "unusual": "Solomon-seal rhizome is an uncommon soup/herbal ingredient; retained."}
+{"audit": 3217, "lang": "labels", "text": "皮蛋", "ids": ["century-egg"], "unusual": "Century egg is a traditional preserved egg ingredient; retained."}
+{"audit": 3219, "lang": "labels", "text": "石斛", "ids": ["dendrobium"], "unusual": "Dendrobium is an orchid ingredient; retained for user consideration."}
+{"audit": 3234, "lang": "labels", "text": "蕨根粉", "ids": ["bracken-starch"], "unusual": "Bracken starch is an uncommon traditional starch; retained."}
+{"audit": 3235, "lang": "labels", "text": "虫草花", "ids": ["cordyceps-flowers"], "unusual": "Cordyceps flowers names the cultivated fungus ingredient; retained."}
+{"audit": 3238, "lang": "labels", "text": "西洋参", "ids": ["american-ginseng"], "unusual": "American ginseng is an uncommon herbal soup ingredient; retained."}
+{"audit": 3253, "lang": "labels", "text": "鲜鸭血", "ids": ["duck-blood"], "unusual": "Fresh duck blood is a real culinary ingredient; retained for user consideration."}
+{"audit": 3258, "lang": "labels", "text": "麦冬", "ids": ["ophiopogon-root"], "unusual": "Ophiopogon root is an uncommon herbal ingredient; retained."}
+{"audit": 3315, "lang": "nl", "text": "25 gram vislijm", "ids": ["isinglass"], "unusual": "Isinglass is a fish-derived fining/gelling ingredient; retained."}
+{"audit": 3371, "lang": "nl", "text": "poeder van rood sandelhout", "ids": ["red-sandalwood"], "unusual": "Red sandalwood powder is an uncommon food coloring/spice ingredient; retained."}
+{"audit": 3388, "lang": "pl", "text": "1 kg dziczyzny (np. płetwonogich, wielorybów, reniferów lub ptaków morskich), pokrojonej w kostkę", "ids": ["game"], "unusual": "The line explicitly gives pinniped, whale, reindeer and seabird meat as examples of game; retained and flagged for user decision."}
+{"audit": 3428, "lang": "pl", "text": "200 ml zakrzepłej krwi kaczej", "ids": ["duck-blood"], "unusual": "Duck blood is an explicit real ingredient; retain for user decision."}
+{"audit": 3442, "lang": "pl", "text": "30 dag konopi", "ids": ["hemp-seeds"], "unusual": "Hemp seeds (konopie) are a traditional food ingredient here; retain for user decision."}
+{"audit": 3459, "lang": "pl", "text": "70 g niedojrzałych owoców lipy (zanim spadną z drzewa, nadają się owoce dowolnego gatunku lipy, ale najlepsze są lipy drobnolistnej)", "ids": ["linden-fruit"], "unusual": "Unripe linden fruit, roasted and ground in the source praline recipe; retain for user decision."}
+{"audit": 3466, "lang": "pl", "text": "chrabąszcze majowe", "ids": ["cockchafer"], "unusual": "Cockchafer beetles are an explicit real ingredient; retain for user decision."}
+{"audit": 3495, "lang": "pl", "text": "około 30 młodych liści funkii", "ids": ["hosta-leaves"], "unusual": "Young hosta leaves are an explicit real ingredient; retain for user decision."}
+{"audit": 3507, "lang": "pl", "text": "płetwy rekina", "ids": ["shark-fin"], "unusual": "Shark fin is explicitly named; retain for user decision."}
+{"audit": 3560, "lang": "pt", "text": "10 g de sal amargo (Sulfato de Magnésio) – vende na farmácia.", "ids": ["epsom-salt"], "unusual": "Epsom salt/magnesium sulfate is explicitly included; retain and flag this unusual processing ingredient for user decision."}
+{"audit": 3588, "lang": "pt", "text": "Cal virgem (para cada 24 pedaços de abóbora, usar uma colher (das de sopa) do produto (é usada para impedir que os pedaços se desmanchem na panela).", "ids": ["quicklime"], "unusual": "Quicklime is explicitly used to firm pumpkin pieces; retain and flag this unusual processing ingredient for user decision."}
+{"audit": 3605, "lang": "ru", "text": "1 л рубленого подготовленного борщевика", "ids": ["hogweed"], "unusual": "Hogweed is named literally as prepared chopped greens; retain for user review."}
+{"audit": 3608, "lang": "ru", "text": "10-12 воробьёв", "ids": ["sparrow"], "unusual": "Sparrows are explicitly named as food; retain for user review."}
+{"audit": 3610, "lang": "ru", "text": "15 % варёные свиные лёгкие", "ids": ["pork-lungs"], "unusual": "Boiled pork lungs are explicitly named; retain offal ingredient for user review."}
+{"audit": 3622, "lang": "ru", "text": "ветка вишни", "ids": ["cherry-wood"], "unusual": "The full bors fermentation recipe steeps a cherry twig for aroma; retain as an unusual aromatic ingredient, not smoking fuel."}
+{"audit": 3661, "lang": "ru", "text": "пищевод: 20 г", "ids": ["gullet"], "unusual": "Animal gullet/esophagus is explicitly named; retain for user review."}
+{"audit": 3664, "lang": "ru", "text": "потроха бараньи(легкие,сердце,печень) 0.5 кг", "ids": ["lamb-offal"], "unusual": "Lamb lungs, heart and liver are explicitly named together as offal; retain for user review."}
+{"audit": 3673, "lang": "ru", "text": "сало конское (с рёбер) 500 г", "ids": ["horse-fat"], "unusual": "Horse rib fat is explicitly named; retain for user review."}
+{"audit": 3676, "lang": "ru", "text": "свиные головы с костями: 25 кг (примерно 4 шт)", "ids": ["pig-head"], "unusual": "Whole pig heads with bones are explicitly named; retain for user review."}
+{"audit": 3787, "lang": "zh", "text": "沙參 (人參)", "ids": ["glehnia-root"], "unusual": "The source says shashen with a ginseng parenthesis; these are distinct roots. Retained the primary shashen mapping pending source clarification."}
+{"audit": 3788, "lang": "zh", "text": "河豚﹝危險，有喪命之虞﹞", "ids": ["pufferfish"], "unusual": "Pufferfish is explicitly named, with a caution already present in the source text; retain for user decision."}
+{"audit": 3799, "lang": "zh", "text": "牛蛙肉", "ids": ["bullfrog"], "unusual": "Bullfrog meat is explicitly named; retain for user review."}
+{"audit": 3800, "lang": "zh", "text": "玉竹， 5 片", "ids": ["solomon-seal-root"], "unusual": "Solomon seal root, a less familiar soup herb; retained for user review."}
+{"audit": 3802, "lang": "zh", "text": "甘草 2 片", "ids": ["licorice-root"], "unusual": "Licorice root used as a culinary spice; retained for user review."}
+{"audit": 3804, "lang": "zh", "text": "白芷", "ids": ["angelica-root"], "unusual": "Angelica root used as an aromatic herb; retained for user review."}
+{"audit": 3805, "lang": "zh", "text": "白芷 10 g", "ids": ["angelica-root"], "unusual": "Angelica root used as an aromatic herb; retained for user review."}
+{"audit": 3809, "lang": "zh", "text": "石斛， 6 颗", "ids": ["dendrobium"], "unusual": "Dendrobium used as a soup herb; retained for user review."}
+{"audit": 3843, "lang": "zh", "text": "西洋参（又名花旗参），9 片", "ids": ["american-ginseng"], "unusual": "American ginseng root used as a soup ingredient; retained for user review."}
+{"audit": 3850, "lang": "zh", "text": "豬腦: 少許 (提味用, 切碎後備用, 怕吃豬腦或怕高膽固醇的人可以不用加這項)", "ids": ["pork-brain"], "unusual": "Pork brain is explicitly named and optional; retained for user decision."}
+{"audit": 3868, "lang": "zh", "text": "鲜鸭血", "ids": ["duck-blood"], "unusual": "Fresh duck blood is explicitly named; retained for user decision."}
+{"audit": 3872, "lang": "zh", "text": "麦冬， 7 个", "ids": ["ophiopogon-root"], "unusual": "Ophiopogon root used as a soup herb; retained for user review."}
+{"audit": 3873, "lang": "zh", "text": "麦芽粉（肉香） 12.5 g", "ids": ["malt-powder"], "unusual": "Source says 麦芽粉（肉香） in hotpot base; retained literal malt-powder mapping pending clarification whether this is an aroma additive rather than grain malt powder."}
+{"audit": 3956, "lang": "en", "text": "1 kg assorted meat (beef, goat, cow tripe, etc.)", "ids": ["beef", "goat", "beef-tripe"], "unusual": "Assorted meats explicitly include cow tripe/offal; preserved for user review of unusual ingredients."}
+{"audit": 3971, "lang": "en", "text": "1 kg chicken gizzard, washed", "ids": ["chicken-gizzard"], "unusual": "Chicken gizzard/offal is explicitly requested; retained for user review of unusual ingredients."}
+{"audit": 3990, "lang": "en", "text": "1 kg horse meat", "ids": ["horse-meat"], "unusual": "Horse meat is explicitly requested; retained and flagged for user decision on unusual ingredients."}
+{"audit": 4036, "lang": "en", "text": "1 kuli kuli, ground", "ids": ["peanuts"], "unusual": "Kuli-kuli is a prepared groundnut cake/snack rather than plain peanuts. No kuli-kuli id exists in the supplied vocabulary; retain peanut fallback pending addition of a specific prepared-ingredient id."}
+{"audit": 4457, "lang": "en", "text": "1 medium iguana", "ids": ["iguana"], "unusual": "Iguana meat is retained as a real ingredient for the user to decide on."}
+{"audit": 4505, "lang": "fr", "text": "1 kg de tortue", "ids": ["turtle"], "unusual": "Turtle is explicitly a recipe ingredient; retained for the user's decision on unusual foods."}
+{"audit": 4553, "lang": "fr", "text": "1 litre de sang de porc,", "ids": ["pig-blood"], "unusual": "Pig blood is explicitly used as an ingredient; retained for the user's decision on unusual foods."}
+{"audit": 4798, "lang": "fr", "text": "1 quenelle de veau pour 2 personnes", "ids": ["veal"], "unusual": "Prepared veal quenelle is represented only by veal; an additional prepared quenelle ingredient would avoid conflating it with raw meat."}
+{"audit": 4799, "lang": "fr", "text": "1 queue ou 1 pied de porc (facultatif),", "ids": ["pork-tail"], "reason": "The first alternative is pig tail; use the existing specific pork-tail ingredient.", "unusual": "Pig tail or pig foot is an actual optional animal-part ingredient; retained for user consideration."}
+{"audit": 4801, "lang": "fr", "text": "1 rate de bœuf, de veau ou de porc (de préférence non percée)", "ids": ["spleen"], "unusual": "Animal spleen is an actual offal ingredient; retained for user consideration."}
+{"audit": 4802, "lang": "fr", "text": "1 ris de veau pour 1 personne", "ids": ["veal-sweetbread"], "unusual": "Veal sweetbread is an actual offal ingredient; retained for user consideration."}
+{"audit": 5144, "lang": "en", "text": "1 packet of demi-sel cheese", "ids": ["cheese"], "note": "Optional precise concept: demi-sel-cheese, dairy, lightly salted French fresh cheese; Eggs Connaught recipe works it into the creamy egg filling.", "reason": "The source names demi-sel cheese and never identifies it as quark. Use generic cheese until a specific demi-sel-cheese ingredient is added."}
+{"audit": 5155, "lang": "en", "text": "1 tablespoon coriander", "ids": ["coriander-seed"], "note": "Shared text collision: preserve the spice mapping here, but the Pani Puri recipe explicitly needs cilantro. The exact contextual override is in /tmp/ingredient-audit-26-overrides.json."}
+{"audit": 5505, "lang": "hu", "text": "fejenként 10 dkg vese, 5-10 dkg velő,", "ids": ["kidney", "brain"], "reason": "The Metzger máj recipe cooks vese-velő with liver: velő is the brains cooked with kidney, not marrow extracted from bones.", "unusual": "Brains and kidney are real traditional offal ingredients; preserved rather than removed."}
+{"audit": 5560, "lang": "labels", "text": "Olomouc curd cheese", "ids": ["olomouc-curd-cheese"], "reason": "PROPOSE NEW dairy id olomouc-curd-cheese, name Olomouc curd cheese: the Czech cheese is ripened and pungent, unlike fresh quark, and no matching existing id was found.", "unusual": "Named pungent ripened Czech cheese; requires the proposed distinct dairy ingredient rather than a quark synonym."}
+{"audit": 5574, "lang": "labels", "text": "コリアンダー", "ids": ["coriander-seed"], "unusual": "Context-dependent label: コリアンダー is seed spice in the köfte recipe but fresh chopped cilantro in salsa and as tandoori garnish. A single global label mapping cannot fit both; retained seed mapping pending dish-specific resolution."}
+{"audit": 5857, "lang": "pl", "text": "50 dag oczyszczonych flaków wołowych", "ids": ["beef-tripe"], "unusual": "Beef tripe is a real offal ingredient; preserved for user consideration."}
+{"audit": 6123, "lang": "pl", "text": "70 g niedojrzałych owoców lipy (zanim spadną z drzewa, nadają się owoce dowolnego gatunku lipy, ale najlepsze są lipy drobnolistnej)", "ids": ["linden-fruit"], "unusual": "Unripe linden fruits, preferably small-leaved lime, are real unusual foods; retain for the user to decide."}
+{"audit": 6305, "lang": "pl", "text": "chrabąszcze majowe", "ids": ["cockchafer"], "unusual": "May cockchafer beetles are a real named ingredient; retained unchanged for the user to decide on."}
+{"audit": 6527, "lang": "ja", "text": "イカスミ30g", "ids": ["squid-ink"], "unusual": "Squid ink is a real food ingredient; retained for user consideration."}
+{"audit": 6608, "lang": "ja", "text": "ガックの種子と仮種皮", "ids": ["gac-fruit"], "unusual": "The ingredient explicitly includes gac seeds as well as their red arils; preserve the real food mapping, but flag seed use for the user to decide."}

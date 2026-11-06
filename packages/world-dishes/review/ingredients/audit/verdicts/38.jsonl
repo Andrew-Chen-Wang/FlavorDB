@@ -1,0 +1,200 @@
+{"audit": 6731, "lang": "ja", "text": "スパゲッティ160g（デュラム小麦製）", "ids": ["spaghetti"]}
+{"audit": 6732, "lang": "ja", "text": "スパゲッティ320g（デュラム小麦製）", "ids": ["spaghetti"]}
+{"audit": 6733, "lang": "ja", "text": "スパゲッティーニ 200g", "ids": ["spaghettini"], "reason": "Specifically spaghettini, not the broader spaghetti."}
+{"audit": 6734, "lang": "ja", "text": "スパゲッティ：200g", "ids": ["spaghetti"]}
+{"audit": 6735, "lang": "ja", "text": "スパゲットーニ 200g", "ids": ["spaghettoni"], "reason": "Specifically spaghettoni."}
+{"audit": 6736, "lang": "ja", "text": "スライスしたペペロンチーニ … 大匙２", "ids": ["pepperoncini"], "reason": "Sliced pepperoncini in the cucumber sandwich; not dried chiles."}
+{"audit": 6737, "lang": "ja", "text": "スライスした全粒粉パン … ２枚", "ids": ["whole-wheat-bread"], "reason": "Specifies whole wheat bread."}
+{"audit": 6738, "lang": "ja", "text": "ズッキーニ1本（約200g）", "ids": ["zucchini"]}
+{"audit": 6739, "lang": "ja", "text": "セロリ 1本", "ids": ["celery"]}
+{"audit": 6740, "lang": "ja", "text": "セロリ 1本（みじん切り）", "ids": ["celery"]}
+{"audit": 6741, "lang": "ja", "text": "セロリ1本", "ids": ["celery"]}
+{"audit": 6742, "lang": "ja", "text": "セロリ1本（みじん切り）", "ids": ["celery"]}
+{"audit": 6743, "lang": "ja", "text": "セロリ: 1本", "ids": ["celery"]}
+{"audit": 6744, "lang": "ja", "text": "セロリ: 2本（みじん切り）", "ids": ["celery"]}
+{"audit": 6745, "lang": "ja", "text": "セロリ：1本", "ids": ["celery"]}
+{"audit": 6746, "lang": "ja", "text": "セロリ：カップ1/2（セロリの葉っぱも含む）", "ids": ["celery"]}
+{"audit": 6747, "lang": "ja", "text": "セージ 適量", "ids": ["sage"]}
+{"audit": 6748, "lang": "ja", "text": "ゼラチン: 10g", "ids": ["gelatin"]}
+{"audit": 6749, "lang": "ja", "text": "ソーセージ: 150g（スライス）", "ids": ["sausage"], "reason": "Unspecified sausage; the text does not establish pork."}
+{"audit": 6750, "lang": "ja", "text": "タイム 1枝", "ids": ["thyme"]}
+{"audit": 6751, "lang": "ja", "text": "タイム 2枝", "ids": ["thyme"]}
+{"audit": 6752, "lang": "ja", "text": "タイム 適量", "ids": ["thyme"]}
+{"audit": 6753, "lang": "ja", "text": "タイム: 数枝", "ids": ["thyme"]}
+{"audit": 6754, "lang": "ja", "text": "タイム少々", "ids": ["thyme"]}
+{"audit": 6755, "lang": "ja", "text": "タイム少々（乾燥でも生でも可）", "ids": ["thyme"]}
+{"audit": 6756, "lang": "ja", "text": "タイム（乾燥または生） 1小さじ", "ids": ["thyme"]}
+{"audit": 6757, "lang": "ja", "text": "タイム（乾燥）: 小さじ1", "ids": ["thyme"]}
+{"audit": 6758, "lang": "ja", "text": "タケノコ：100g（スライスする）", "ids": ["bamboo-shoot"]}
+{"audit": 6759, "lang": "ja", "text": "タコノキの葉（サンダン）: 数枚（代わりにバナナの葉でも可）", "ids": ["pandan-leaves"]}
+{"audit": 6760, "lang": "ja", "text": "タヒニ（ごまペースト） 1/4カップ", "ids": ["tahini"], "reason": "Explicitly tahini, with sesame paste as its explanation."}
+{"audit": 6761, "lang": "ja", "text": "タピオカ粉: 150g", "ids": ["tapioca-flour"]}
+{"audit": 6762, "lang": "ja", "text": "タピオカ粉: 50g", "ids": ["tapioca-flour"]}
+{"audit": 6763, "lang": "ja", "text": "タマネギ: 1個（みじん切り）", "ids": ["onion"]}
+{"audit": 6764, "lang": "ja", "text": "タマネギ: 2個（みじん切り）", "ids": ["onion"]}
+{"audit": 6765, "lang": "ja", "text": "タマネギ: 小1個（すりおろし）", "ids": ["onion"]}
+{"audit": 6766, "lang": "ja", "text": "タマネギ（みじん切り）: 1個", "ids": ["onion"]}
+{"audit": 6767, "lang": "ja", "text": "タマネギ：1個（スライス）", "ids": ["onion"]}
+{"audit": 6768, "lang": "ja", "text": "タマリンドペースト: 3〜4大さじ（またはタマリンドの実: 100g）", "ids": ["tamarind-paste"], "reason": "Specifies prepared tamarind paste."}
+{"audit": 6769, "lang": "ja", "text": "タマリンドペースト: 大さじ1", "ids": ["tamarind-paste"], "reason": "Specifies prepared tamarind paste."}
+{"audit": 6770, "lang": "ja", "text": "タマリンドペースト: 小さじ1", "ids": ["tamarind-paste"], "reason": "Specifies prepared tamarind paste."}
+{"audit": 6771, "lang": "ja", "text": "タマリンドペースト：大さじ2", "ids": ["tamarind-paste"], "reason": "Specifies prepared tamarind paste."}
+{"audit": 6772, "lang": "ja", "text": "タラコなど: 100g", "ids": ["cod-roe"]}
+{"audit": 6773, "lang": "ja", "text": "タラコまたは明太子 100g", "ids": ["cod-roe"]}
+{"audit": 6774, "lang": "ja", "text": "タラゴン 2大さじ（みじん切り）", "ids": ["tarragon"]}
+{"audit": 6775, "lang": "ja", "text": "タリアテッレ 200g", "ids": ["tagliatelle"]}
+{"audit": 6776, "lang": "ja", "text": "ターメリックパウダー: 小さじ1", "ids": ["turmeric"]}
+{"audit": 6777, "lang": "ja", "text": "ターメリックパウダー：小さじ1", "ids": ["turmeric"]}
+{"audit": 6778, "lang": "ja", "text": "ターメリック：小さじ1", "ids": ["turmeric"]}
+{"audit": 6779, "lang": "ja", "text": "ダークチョコレート: 140g", "ids": ["dark-chocolate"], "reason": "Specifies dark chocolate."}
+{"audit": 6780, "lang": "ja", "text": "ダークチョコレート（ガナッシュ用）: 200g", "ids": ["dark-chocolate"], "reason": "Specifies dark chocolate."}
+{"audit": 6781, "lang": "ja", "text": "チェダーチーズ 50g", "ids": ["cheddar"]}
+{"audit": 6782, "lang": "ja", "text": "チェダーチーズ（すりおろし） 1カップ", "ids": ["cheddar"]}
+{"audit": 6783, "lang": "ja", "text": "チェリー（トッピング用）: 適量", "ids": ["cherry"]}
+{"audit": 6784, "lang": "ja", "text": "チェリー（缶詰またはフレッシュ）: 300g", "ids": ["cherry"]}
+{"audit": 6785, "lang": "ja", "text": "チキンスープ: 2カップ", "ids": ["chicken-stock"], "reason": "Chicken soup used as a measured cooking liquid means chicken stock."}
+{"audit": 6786, "lang": "ja", "text": "チキンブイヨン: 4カップ（スープストックでも可）", "ids": ["chicken-stock"], "reason": "Chicken bouillon or stock, not unspecified stock."}
+{"audit": 6787, "lang": "ja", "text": "チキンブロス（鶏ガラスープ） 500ml", "ids": ["chicken-stock"], "reason": "Chicken broth explicitly explained as chicken carcass stock."}
+{"audit": 6788, "lang": "ja", "text": "チャイブ 適量（刻んだもの）", "ids": ["chives"]}
+{"audit": 6789, "lang": "ja", "text": "チャイブ（飾り用） 少々", "ids": ["chives"]}
+{"audit": 6790, "lang": "ja", "text": "チャーシュー: 10枚", "ids": ["chashu"]}
+{"audit": 6791, "lang": "ja", "text": "チャーシュー: 2枚", "ids": ["chashu"]}
+{"audit": 6792, "lang": "ja", "text": "チャーシュー: 50g（細切り）", "ids": ["chashu"]}
+{"audit": 6793, "lang": "ja", "text": "チャールア: 適量（スライス）", "ids": ["pork-sausage"]}
+{"audit": 6794, "lang": "ja", "text": "チョコレート（削ったもの）: 適量", "ids": ["chocolate"]}
+{"audit": 6795, "lang": "ja", "text": "チリソース: お好みで", "ids": ["chili-sauce"]}
+{"audit": 6796, "lang": "ja", "text": "チリパウダー 小さじ1", "ids": ["chili-powder"]}
+{"audit": 6797, "lang": "ja", "text": "チリパウダー: 小さじ1（お好みで調整）", "ids": ["chili-powder"]}
+{"audit": 6798, "lang": "ja", "text": "チリパウダー：小さじ1（お好みで調整）", "ids": ["chili-powder"]}
+{"audit": 6799, "lang": "ja", "text": "チリペースト: 大さじ2（お好みで調整）", "ids": ["chili-paste"]}
+{"audit": 6800, "lang": "ja", "text": "チリペースト: 好みで", "ids": ["chili-paste"]}
+{"audit": 6801, "lang": "ja", "text": "チリペースト（サンバルなど）: 大さじ1（好みにより調整）", "ids": ["chili-paste"]}
+{"audit": 6802, "lang": "ja", "text": "チーズ 100g（おろし、パルメザンなど）", "ids": ["cheese"]}
+{"audit": 6803, "lang": "ja", "text": "チーズ 100g（おろし）", "ids": ["cheese"]}
+{"audit": 6804, "lang": "ja", "text": "チーズスライス: (オプション) 適量", "ids": ["cheese"], "reason": "Generic sliced cheese does not specify American cheese."}
+{"audit": 6805, "lang": "ja", "text": "チーズ（オプショナル）", "ids": ["cheese"]}
+{"audit": 6806, "lang": "ja", "text": "チーズ（チェダー、モッツァレラなど）: 50g（お好みで調整）", "ids": ["cheddar"]}
+{"audit": 6807, "lang": "ja", "text": "ディジョンマスタード … 茶匙１", "ids": ["dijon-mustard"], "reason": "Explicit Dijon mustard."}
+{"audit": 6808, "lang": "ja", "text": "ディジョンマスタード 小さじ1", "ids": ["dijon-mustard"], "reason": "Explicit Dijon mustard."}
+{"audit": 6809, "lang": "ja", "text": "ディップソース - ガーリックソース、バーベキューソース、マヨネーズなど", "ids": ["garlic-sauce"], "reason": "First suggested dipping sauce is garlic sauce, a prepared sauce rather than garlic alone."}
+{"audit": 6810, "lang": "ja", "text": "トウモロコシのトルティーヤ 6枚", "ids": ["corn-tortilla"]}
+{"audit": 6811, "lang": "ja", "text": "トマト 1個", "ids": ["tomato"]}
+{"audit": 6812, "lang": "ja", "text": "トマト 1個（みじん切り）", "ids": ["tomato"]}
+{"audit": 6813, "lang": "ja", "text": "トマト 2個", "ids": ["tomato"]}
+{"audit": 6814, "lang": "ja", "text": "トマト 2個（小さく角切り）", "ids": ["tomato"]}
+{"audit": 6815, "lang": "ja", "text": "トマト 4個（中サイズ）", "ids": ["tomato"]}
+{"audit": 6816, "lang": "ja", "text": "トマト … １個（スライスする）", "ids": ["tomato"]}
+{"audit": 6817, "lang": "ja", "text": "トマト2個（約300g）", "ids": ["tomato"]}
+{"audit": 6818, "lang": "ja", "text": "トマト: (オプション) 適量", "ids": ["tomato"]}
+{"audit": 6819, "lang": "ja", "text": "トマト: 1個", "ids": ["tomato"]}
+{"audit": 6820, "lang": "ja", "text": "トマト: 1個（スライス）", "ids": ["tomato"]}
+{"audit": 6821, "lang": "ja", "text": "トマト: 2個（くし切り）", "ids": ["tomato"]}
+{"audit": 6822, "lang": "ja", "text": "トマト: 2個（みじん切り）", "ids": ["tomato"]}
+{"audit": 6823, "lang": "ja", "text": "トマト: 2個（皮をむき、みじん切り）", "ids": ["tomato"]}
+{"audit": 6824, "lang": "ja", "text": "トマトソース 1カップ", "ids": ["tomato-sauce"]}
+{"audit": 6825, "lang": "ja", "text": "トマトソース 200g", "ids": ["tomato-sauce"]}
+{"audit": 6826, "lang": "ja", "text": "トマトソース お好みで", "ids": ["tomato-sauce"]}
+{"audit": 6827, "lang": "ja", "text": "トマトソース: 適量", "ids": ["tomato-sauce"]}
+{"audit": 6828, "lang": "ja", "text": "トマトペースト 2大さじ", "ids": ["tomato-paste"], "reason": "Specifies tomato paste, not tomato sauce."}
+{"audit": 6829, "lang": "ja", "text": "トマトペースト … 大匙２", "ids": ["tomato-paste"], "reason": "Specifies tomato paste, not tomato sauce."}
+{"audit": 6830, "lang": "ja", "text": "トマトペースト2大さじ", "ids": ["tomato-paste"], "reason": "Specifies tomato paste, not tomato sauce."}
+{"audit": 6831, "lang": "ja", "text": "トマト缶 1缶（400g）", "ids": ["canned-tomatoes"]}
+{"audit": 6832, "lang": "ja", "text": "トマト缶 1缶（約400g）", "ids": ["canned-tomatoes"]}
+{"audit": 6833, "lang": "ja", "text": "トマト缶 400g（ダイスカット）", "ids": ["canned-tomatoes"]}
+{"audit": 6834, "lang": "ja", "text": "トマト缶400g（カットトマト）", "ids": ["canned-tomatoes"]}
+{"audit": 6835, "lang": "ja", "text": "トマト缶: 1缶（400g）", "ids": ["canned-tomatoes"]}
+{"audit": 6836, "lang": "ja", "text": "トマト缶（カットトマト）：400g", "ids": ["canned-tomatoes"]}
+{"audit": 6837, "lang": "ja", "text": "トマト（みじん切り）：2個", "ids": ["tomato"]}
+{"audit": 6838, "lang": "ja", "text": "トマト：2個（くし切り）", "ids": ["tomato"]}
+{"audit": 6839, "lang": "ja", "text": "トルティーヤ（お好みで）", "ids": ["tortilla"], "reason": "No grain is specified for this optional tortilla."}
+{"audit": 6840, "lang": "ja", "text": "トルテリーニ 250g", "ids": ["tortellini"]}
+{"audit": 6841, "lang": "ja", "text": "ドライイースト: 小さじ1", "ids": ["yeast"]}
+{"audit": 6842, "lang": "ja", "text": "ドライフルーツ（レーズン、クランベリーなど）: 1/2カップ", "ids": ["raisins"]}
+{"audit": 6843, "lang": "ja", "text": "ドレッシング（オリーブオイル、酢、レモン汁、マヨネーズなど）", "ids": ["salad-dressing"], "reason": "Prepared salad dressing with examples; the salad recipe offers oil-vinegar or lemon and mayonnaise-based alternatives, not all four required ingredients."}
+{"audit": 6844, "lang": "ja", "text": "ナス1本（約250g）", "ids": ["eggplant"]}
+{"audit": 6845, "lang": "ja", "text": "ナス: 1本（輪切り）", "ids": ["eggplant"]}
+{"audit": 6846, "lang": "ja", "text": "ナス：2個（一口大に切る）", "ids": ["eggplant"]}
+{"audit": 6847, "lang": "ja", "text": "ナッツやチョコレートチップ: 100g（任意）", "ids": ["nuts"], "reason": "Optional nuts or chocolate chips; retain the first alternative, nuts."}
+{"audit": 6848, "lang": "ja", "text": "ナッツやチーズ、生ハムなどのトッピング（オプション）", "ids": ["nuts"], "reason": "Examples of optional toppings; select the first, nuts, rather than requiring cheese and ham too."}
+{"audit": 6849, "lang": "ja", "text": "ナッツ（アーモンド、くるみなど）: 1カップ（粗く刻む）", "ids": ["almonds"]}
+{"audit": 6850, "lang": "ja", "text": "ナッツ（アーモンド、くるみなど）: 適量", "ids": ["almonds"]}
+{"audit": 6851, "lang": "ja", "text": "ナツメグ 少々（お好みで）", "ids": ["nutmeg"]}
+{"audit": 6852, "lang": "ja", "text": "ナツメグ: 小さじ1", "ids": ["nutmeg"]}
+{"audit": 6853, "lang": "ja", "text": "ナツメグ: 小さじ1/4（オプション）", "ids": ["nutmeg"]}
+{"audit": 6854, "lang": "ja", "text": "ナツメグ: 少々", "ids": ["nutmeg"]}
+{"audit": 6855, "lang": "ja", "text": "ナツメグ少々", "ids": ["nutmeg"]}
+{"audit": 6856, "lang": "ja", "text": "ナツメグ少々（お好みで）", "ids": ["nutmeg"]}
+{"audit": 6857, "lang": "ja", "text": "ナツメグ（お好みで） 小さじ1/4", "ids": ["nutmeg"]}
+{"audit": 6858, "lang": "ja", "text": "ナンプラー: 大さじ2", "ids": ["fish-sauce"], "reason": "Nam pla is fish sauce; nutmeg belongs to preceding rows."}
+{"audit": 6859, "lang": "ja", "text": "ナンプラー：大さじ2", "ids": ["fish-sauce"]}
+{"audit": 6860, "lang": "ja", "text": "ナンプラー：大さじ3", "ids": ["fish-sauce"]}
+{"audit": 6861, "lang": "ja", "text": "ニラ: 1/2束（みじん切り）", "ids": ["chinese-chives"], "reason": "Nira is Chinese chives, not fish sauce."}
+{"audit": 6862, "lang": "ja", "text": "ニラ: 1/4束", "ids": ["chinese-chives"]}
+{"audit": 6863, "lang": "ja", "text": "ニンジン", "ids": ["carrot"], "reason": "Ninjin is carrot, not Chinese chives."}
+{"audit": 6864, "lang": "ja", "text": "ニンジン: 1本", "ids": ["carrot"]}
+{"audit": 6865, "lang": "ja", "text": "ニンジン: 4本", "ids": ["carrot"]}
+{"audit": 6866, "lang": "ja", "text": "ニンジン：中1本", "ids": ["carrot"]}
+{"audit": 6867, "lang": "ja", "text": "ニンニク 1片（みじん切り、お好みで）", "ids": ["garlic"], "reason": "Ninniku is garlic, not carrot."}
+{"audit": 6868, "lang": "ja", "text": "ニンニク 2片", "ids": ["garlic"]}
+{"audit": 6869, "lang": "ja", "text": "ニンニク 2片（みじん切り）", "ids": ["garlic"]}
+{"audit": 6870, "lang": "ja", "text": "ニンニク 3片", "ids": ["garlic"]}
+{"audit": 6871, "lang": "ja", "text": "ニンニク 3片（みじん切り）", "ids": ["garlic"]}
+{"audit": 6872, "lang": "ja", "text": "ニンニク … ２片", "ids": ["garlic"]}
+{"audit": 6873, "lang": "ja", "text": "ニンニク （みじん切り） 1片", "ids": ["garlic"]}
+{"audit": 6874, "lang": "ja", "text": "ニンニク2片", "ids": ["garlic"]}
+{"audit": 6875, "lang": "ja", "text": "ニンニク: 1片", "ids": ["garlic"]}
+{"audit": 6876, "lang": "ja", "text": "ニンニク: 2片（みじん切り）", "ids": ["garlic"]}
+{"audit": 6877, "lang": "ja", "text": "ニンニク（みじん切り）: 2片", "ids": ["garlic"]}
+{"audit": 6878, "lang": "ja", "text": "ニンニク：1片（みじん切り）", "ids": ["garlic"]}
+{"audit": 6879, "lang": "ja", "text": "ニンニク：2片（みじん切り）", "ids": ["garlic"]}
+{"audit": 6880, "lang": "ja", "text": "ニンニク：3片（つぶす）", "ids": ["garlic"]}
+{"audit": 6881, "lang": "ja", "text": "ヌクチャム: 適量", "ids": ["nuoc-cham"]}
+{"audit": 6882, "lang": "ja", "text": "ヌクマム 50ml", "ids": ["fish-sauce"]}
+{"audit": 6883, "lang": "ja", "text": "ヌクマム: 小さじ2（またはお好みのソース）", "ids": ["fish-sauce"]}
+{"audit": 6884, "lang": "ja", "text": "ヌクマム（nước mắm）（ベトナムの魚醤）、ライム（chanh）汁、砂糖（đường）、唐辛子（ớt）などの調味料", "ids": ["fish-sauce", "lime", "sugar", "green-chile"], "reason": "Lists fish sauce, lime juice, sugar and chile; chile is not specified as dried."}
+{"audit": 6885, "lang": "ja", "text": "ネギ(みじん切り): 1本分", "ids": ["green-onion"]}
+{"audit": 6886, "lang": "ja", "text": "ネギ(斜め切り): 1本", "ids": ["green-onion"]}
+{"audit": 6887, "lang": "ja", "text": "ネギ1本", "ids": ["green-onion"]}
+{"audit": 6888, "lang": "ja", "text": "ネギ: 1/4本（小口切り）", "ids": ["green-onion"]}
+{"audit": 6889, "lang": "ja", "text": "ネギ: 1本", "ids": ["green-onion"]}
+{"audit": 6890, "lang": "ja", "text": "ネギ: 1本（斜め切り）", "ids": ["green-onion"]}
+{"audit": 6891, "lang": "ja", "text": "ネギ: 2本（細かく刻む）", "ids": ["green-onion"]}
+{"audit": 6892, "lang": "ja", "text": "ネギ：2本（みじん切り）", "ids": ["green-onion"]}
+{"audit": 6893, "lang": "ja", "text": "ネギ：2本（白い部分）", "ids": ["green-onion"]}
+{"audit": 6894, "lang": "ja", "text": "ネギ：4本（白い部分、つぶす）", "ids": ["green-onion"]}
+{"audit": 6895, "lang": "ja", "text": "ハチミツ大さじ3~5杯（好みに合わせて）", "ids": ["honey"], "reason": "Hachimitsu is honey, not green onion."}
+{"audit": 6896, "lang": "ja", "text": "ハム または チキン（細かく刻む）: 100g", "ids": ["ham"], "reason": "Ham or chicken: select the first alternative, ham; not green onion."}
+{"audit": 6897, "lang": "ja", "text": "ハム: 4枚", "ids": ["ham"], "reason": "Four slices of ham, not honey."}
+{"audit": 6898, "lang": "ja", "text": "ハム: 50g（薄切り）", "ids": ["ham"]}
+{"audit": 6899, "lang": "ja", "text": "ハラペーニョ 1本（みじん切り、お好みで）", "ids": ["jalapeno"], "reason": "Optional chopped jalapeno, not ham."}
+{"audit": 6900, "lang": "ja", "text": "ハーブ: 適量", "ids": ["mixed-herbs"], "reason": "Actual herbs added to croquettes in the source recipe; not ham."}
+{"audit": 6901, "lang": "ja", "text": "ハーブ: 適量（バジル、ミント、コリアンダーなど）", "ids": ["basil"], "reason": "Cao Lau recipe gives a choice of fresh herbs; select first named basil, not jalapeno."}
+{"audit": 6902, "lang": "ja", "text": "ハーブやスパイス（オプショナル）", "ids": ["mixed-herbs"], "reason": "Optional herbs or spices are actual hamburger additions, not a heading; select herbs first."}
+{"audit": 6903, "lang": "ja", "text": "ハーブ（パクチー（ngò rí）、ミント（húng quế）、バジル（húng lủi）など）", "ids": ["cilantro"], "reason": "Goi recipe lists cilantro first among herb choices; both Japanese pakuchi and Vietnamese ngo ri identify cilantro."}
+{"audit": 6904, "lang": "ja", "text": "バイマックルー（コブミカンの葉）：3枚", "ids": ["kaffir-lime-leaves"], "reason": "Bai makrut explicitly glossed as kaffir lime leaves is an actual ingredient."}
+{"audit": 6905, "lang": "ja", "text": "バゲット 適量（サーブ用）", "ids": ["baguette"], "reason": "Baguette served with the dish, not cilantro."}
+{"audit": 6906, "lang": "ja", "text": "バゲット: 1本（約半分、斜めに切って8-10枚程度）", "ids": ["baguette"], "reason": "Sliced baguette, not kaffir lime leaves."}
+{"audit": 6907, "lang": "ja", "text": "バジル1カップ（新鮮な葉、粗く刻む）", "ids": ["basil"], "reason": "Fresh basil leaves, not baguette."}
+{"audit": 6908, "lang": "ja", "text": "バジル: 小さじ2（新鮮なもの）または乾燥バジル小さじ1", "ids": ["basil"], "reason": "Fresh or dried basil, not baguette."}
+{"audit": 6909, "lang": "ja", "text": "バジルの葉 1/4カップ（みじん切り）", "ids": ["basil"]}
+{"audit": 6910, "lang": "ja", "text": "バジルの葉 2カップ", "ids": ["basil"]}
+{"audit": 6911, "lang": "ja", "text": "バジルソース（ペスト・ジェノヴェーゼなど）100g", "ids": ["pesto"], "reason": "Prepared basil sauce explicitly exemplified by pesto Genovese, not basil alone."}
+{"audit": 6912, "lang": "ja", "text": "バジル適量（飾り用）", "ids": ["basil"]}
+{"audit": 6913, "lang": "ja", "text": "バジル（乾燥または生、みじん切り） 適量", "ids": ["basil"]}
+{"audit": 6914, "lang": "ja", "text": "バジル（乾燥または生） 大さじ1（オプション）", "ids": ["basil"]}
+{"audit": 6915, "lang": "ja", "text": "バジル：1束（生、トッピング用）", "ids": ["basil"]}
+{"audit": 6916, "lang": "ja", "text": "バスマティライス：2カップ", "ids": ["basmati-rice"], "reason": "Basmati rice, not basil."}
+{"audit": 6917, "lang": "ja", "text": "バスマティ米: 2カップ", "ids": ["basmati-rice"], "reason": "Explicit basmati rice has an existing specific id."}
+{"audit": 6918, "lang": "ja", "text": "バター 1/2カップ", "ids": ["butter"], "reason": "Half a cup of butter, not rice."}
+{"audit": 6919, "lang": "ja", "text": "バター 100g", "ids": ["butter"]}
+{"audit": 6920, "lang": "ja", "text": "バター 100g（溶かしたもの）", "ids": ["butter"]}
+{"audit": 6921, "lang": "ja", "text": "バター 2大さじ", "ids": ["butter"]}
+{"audit": 6922, "lang": "ja", "text": "バター 4大さじ", "ids": ["butter"]}
+{"audit": 6923, "lang": "ja", "text": "バター 50g", "ids": ["butter"]}
+{"audit": 6924, "lang": "ja", "text": "バター … 50g", "ids": ["butter"]}
+{"audit": 6925, "lang": "ja", "text": "バター 大さじ2", "ids": ["butter"]}
+{"audit": 6926, "lang": "ja", "text": "バター100g", "ids": ["butter"]}
+{"audit": 6927, "lang": "ja", "text": "バター50g", "ids": ["butter"]}
+{"audit": 6928, "lang": "ja", "text": "バター: 100g", "ids": ["butter"]}
+{"audit": 6929, "lang": "ja", "text": "バター: 100g（室温に戻しておく）", "ids": ["butter"]}
+{"audit": 6930, "lang": "ja", "text": "バター: 125g", "ids": ["butter"]}

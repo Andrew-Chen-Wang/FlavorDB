@@ -1,0 +1,200 @@
+{"audit": 4284, "lang": "en", "text": "1 lb asparagus", "ids": ["asparagus"]}
+{"audit": 4285, "lang": "en", "text": "1 lb asparagus, trimmed and thinly sliced on the bias", "ids": ["asparagus"]}
+{"audit": 4286, "lang": "en", "text": "1 lb bacon, fried and crumbled (reserve about ¼ cup drippings)", "ids": ["bacon"]}
+{"audit": 4287, "lang": "en", "text": "1 lb beef chuck rib", "ids": ["beef-ribs"], "reason": "Chuck rib explicitly identifies a beef rib cut, rather than unspecified beef."}
+{"audit": 4288, "lang": "en", "text": "1 lb beef chuck, cut into ½-inch pieces", "ids": ["beef-chuck"], "reason": "Beef chuck is explicitly named and has a specific existing id."}
+{"audit": 4289, "lang": "en", "text": "1 lb boneless chicken meat, cut into cubes", "ids": ["chicken"]}
+{"audit": 4290, "lang": "en", "text": "1 lb boneless chicken, diced", "ids": ["chicken"]}
+{"audit": 4291, "lang": "en", "text": "1 lb boneless skinless chicken thigh, cut in 1 inch (2–3 cm) pieces", "ids": ["chicken"]}
+{"audit": 4292, "lang": "en", "text": "1 lb boneless, skinless chicken meat, cut into 1-inch cubes", "ids": ["chicken"]}
+{"audit": 4293, "lang": "en", "text": "1 lb brown roux", "ids": ["roux"], "reason": "Prepared brown roux has its own existing id; the text does not specify butter as its fat."}
+{"audit": 4294, "lang": "en", "text": "1 lb butter", "ids": ["butter"]}
+{"audit": 4295, "lang": "en", "text": "1 lb cake flour", "ids": ["cake-flour"], "reason": "Cake flour is explicitly named and has a specific existing id."}
+{"audit": 4296, "lang": "en", "text": "1 lb chicken breast, cubed", "ids": ["chicken"]}
+{"audit": 4297, "lang": "en", "text": "1 lb chicken carcasses", "ids": ["chicken"]}
+{"audit": 4298, "lang": "en", "text": "1 lb confectioners sugar", "ids": ["powdered-sugar"]}
+{"audit": 4299, "lang": "en", "text": "1 lb dark brown sugar", "ids": ["brown-sugar"]}
+{"audit": 4300, "lang": "en", "text": "1 lb diced pork hock meat", "ids": ["pork-hock"], "reason": "Pork hock is explicitly named and has a specific id; curing is not stated, so do not use ham hock."}
+{"audit": 4301, "lang": "en", "text": "1 lb dried assorted fruit (e.g. raisins, cherries, etc.)", "ids": ["dried-fruit"]}
+{"audit": 4302, "lang": "en", "text": "1 lb dry linguine", "ids": ["linguine"], "reason": "Linguine is explicitly named and has a specific existing pasta id."}
+{"audit": 4303, "lang": "en", "text": "1 lb dry split peas", "ids": ["split-peas"]}
+{"audit": 4304, "lang": "en", "text": "1 lb elbow macaroni pasta, cooked, drained, and chilled", "ids": ["macaroni"]}
+{"audit": 4305, "lang": "en", "text": "1 lb filet of carp", "ids": ["carp"]}
+{"audit": 4306, "lang": "en", "text": "1 lb filet of perch", "ids": ["perch"]}
+{"audit": 4307, "lang": "en", "text": "1 lb filet of pike", "ids": ["pike"]}
+{"audit": 4308, "lang": "en", "text": "1 lb flour", "ids": ["flour"]}
+{"audit": 4309, "lang": "en", "text": "1 lb frozen mixed berries (blueberries, blackberries, raspberries)", "ids": ["mixed-berries"]}
+{"audit": 4310, "lang": "en", "text": "1 lb frozen tilapia or cod fillet (or other firm white fish; optional)", "ids": ["tilapia"]}
+{"audit": 4311, "lang": "en", "text": "1 lb ground beef", "ids": ["ground-beef"]}
+{"audit": 4312, "lang": "en", "text": "1 lb ground meat", "ids": ["ground-meat"], "reason": "The meat is explicitly ground and has an existing ground-meat id."}
+{"audit": 4313, "lang": "en", "text": "1 lb ground or minced chicken, turkey, lamb, or pork", "ids": ["ground-chicken"], "reason": "First alternative is ground/minced chicken; the existing ground-chicken id is more specific than chicken."}
+{"audit": 4314, "lang": "en", "text": "1 lb ground pork or beef, cooked and drained", "ids": ["ground-pork"]}
+{"audit": 4315, "lang": "en", "text": "1 lb ground/minced lamb", "ids": ["lamb"]}
+{"audit": 4316, "lang": "en", "text": "1 lb kidney beans", "ids": ["kidney-beans"]}
+{"audit": 4317, "lang": "en", "text": "1 lb lamb meat, cut into cubes", "ids": ["lamb"]}
+{"audit": 4318, "lang": "en", "text": "1 lb large shrimp, peeled (use peels to make stock)", "ids": ["shrimp"]}
+{"audit": 4319, "lang": "en", "text": "1 lb lasagna pasta sheets", "ids": ["lasagna-sheets"]}
+{"audit": 4320, "lang": "en", "text": "1 lb meat (e.g. stew beef), cut into ½-inch cubes", "ids": ["meat"], "reason": "Meat is generic here; stew beef is only an example, not the sole specified species."}
+{"audit": 4321, "lang": "en", "text": "1 lb mirepoix", "ids": ["onion", "carrot", "celery"]}
+{"audit": 4322, "lang": "en", "text": "1 lb of arborio rice (this is the type of rice used to make risotto)", "ids": ["arborio-rice"], "reason": "Arborio rice is explicitly named and has a specific existing id."}
+{"audit": 4323, "lang": "en", "text": "1 lb or more baguettes (French bread), cut into bite-size cubes", "ids": ["baguette"], "reason": "The first specified bread is baguette and its specific id exists."}
+{"audit": 4324, "lang": "en", "text": "1 lb phyllo dough, at room temperature", "ids": ["phyllo-dough"]}
+{"audit": 4325, "lang": "en", "text": "1 lb pork, cut into pieces", "ids": ["pork"]}
+{"audit": 4326, "lang": "en", "text": "1 lb potatoes", "ids": ["potato"]}
+{"audit": 4327, "lang": "en", "text": "1 lb red or Cargamanto beans", "ids": ["red-beans"]}
+{"audit": 4328, "lang": "en", "text": "1 lb red tomatoes", "ids": ["tomato"]}
+{"audit": 4329, "lang": "en", "text": "1 lb ricotta or cottage cheese", "ids": ["ricotta"]}
+{"audit": 4330, "lang": "en", "text": "1 lb salt cod, skinless and boneless", "ids": ["salt-cod"]}
+{"audit": 4331, "lang": "en", "text": "1 lb shrimp", "ids": ["shrimp"]}
+{"audit": 4332, "lang": "en", "text": "1 lb smoked catfish or any fish of your choice", "ids": ["catfish"]}
+{"audit": 4333, "lang": "en", "text": "1 lb spicy Italian sausage, crumbled", "ids": ["italian-sausage"], "reason": "Italian sausage is explicitly named and has a more specific id than pork sausage."}
+{"audit": 4334, "lang": "en", "text": "1 lb spinach", "ids": ["spinach"]}
+{"audit": 4335, "lang": "en", "text": "1 lb spinach, patted dry of any liquid", "ids": ["spinach"]}
+{"audit": 4336, "lang": "en", "text": "1 lb steak", "ids": ["beef-steak"], "reason": "Steak has a specific existing beef-steak id rather than generic beef."}
+{"audit": 4337, "lang": "en", "text": "1 lb stew bones", "ids": ["soup-bones"], "reason": "Stew bones identify bones for stock/soup; the text does not specify beef."}
+{"audit": 4338, "lang": "en", "text": "1 lb string beans", "ids": ["green-beans"]}
+{"audit": 4339, "lang": "en", "text": "1 lb string beans or 2 regular-sized cans French-Style string beans", "ids": ["green-beans"]}
+{"audit": 4340, "lang": "en", "text": "1 lb uncooked spaghetti", "ids": ["spaghetti"]}
+{"audit": 4341, "lang": "en", "text": "1 lb veal marrow bones", "ids": ["veal-bone"], "reason": "Veal marrow bones are bones rather than unspecified veal meat; the veal-bone id exists."}
+{"audit": 4342, "lang": "en", "text": "1 lb vegetable shortening", "ids": ["shortening"]}
+{"audit": 4343, "lang": "en", "text": "1 lb whole-wheat spaghetti", "ids": ["spaghetti"]}
+{"audit": 4344, "lang": "en", "text": "1 lb. lump crabmeat", "ids": ["crab"]}
+{"audit": 4345, "lang": "en", "text": "1 leaf green leaf lettuce", "ids": ["lettuce"]}
+{"audit": 4346, "lang": "en", "text": "1 leek", "ids": ["leek"]}
+{"audit": 4347, "lang": "en", "text": "1 leek, chopped", "ids": ["leek"]}
+{"audit": 4348, "lang": "en", "text": "1 leek, cleaned and julienned", "ids": ["leek"]}
+{"audit": 4349, "lang": "en", "text": "1 leek, cut into fine rings", "ids": ["leek"]}
+{"audit": 4350, "lang": "en", "text": "1 leek, sliced into rings", "ids": ["leek"]}
+{"audit": 4351, "lang": "en", "text": "1 leek, white and light green parts only, sliced and rinsed well", "ids": ["leek"]}
+{"audit": 4352, "lang": "en", "text": "1 leek, white part chopped", "ids": ["leek"]}
+{"audit": 4353, "lang": "en", "text": "1 leg of lamb, sized according to the number of servings", "ids": ["lamb"]}
+{"audit": 4354, "lang": "en", "text": "1 lemon", "ids": ["lemon"]}
+{"audit": 4355, "lang": "en", "text": "1 lemon (optional), juiced", "ids": ["lemon"]}
+{"audit": 4356, "lang": "en", "text": "1 lemon (thinly sliced, with rind removed; only the flesh should be left)", "ids": ["lemon"]}
+{"audit": 4357, "lang": "en", "text": "1 lemon or citric acid to taste", "ids": ["lemon"]}
+{"audit": 4358, "lang": "en", "text": "1 lemon rind, grated", "ids": ["lemon-peel"], "reason": "Only grated lemon rind is named; the existing lemon-peel id is more precise than whole lemon."}
+{"audit": 4359, "lang": "en", "text": "1 lemon, cut into quarters", "ids": ["lemon"]}
+{"audit": 4360, "lang": "en", "text": "1 lemon, cut into wedges", "ids": ["lemon"]}
+{"audit": 4361, "lang": "en", "text": "1 lemon, finely zested", "ids": ["lemon-peel"], "reason": "The lemon is specified for finely grated zest; use existing lemon peel."}
+{"audit": 4362, "lang": "en", "text": "1 lemon, halved", "ids": ["lemon"]}
+{"audit": 4363, "lang": "en", "text": "1 lemon, juiced", "ids": ["lemon"]}
+{"audit": 4364, "lang": "en", "text": "1 lemon, juiced and strained", "ids": ["lemon"]}
+{"audit": 4365, "lang": "en", "text": "1 lemon, or 3 tablespoons lemon juice", "ids": ["lemon"]}
+{"audit": 4366, "lang": "en", "text": "1 lemon, quartered", "ids": ["lemon"]}
+{"audit": 4367, "lang": "en", "text": "1 lemon, sliced", "ids": ["lemon"]}
+{"audit": 4368, "lang": "en", "text": "1 lemon, wedged", "ids": ["lemon"]}
+{"audit": 4369, "lang": "en", "text": "1 lemon, zest removed", "ids": ["lemon"]}
+{"audit": 4370, "lang": "en", "text": "1 lemon, zested", "ids": ["lemon-peel"], "reason": "Only the zested preparation is specified; existing lemon peel represents the zest."}
+{"audit": 4371, "lang": "en", "text": "1 lemon, zested and juiced", "ids": ["lemon"]}
+{"audit": 4372, "lang": "en", "text": "1 level teaspoon mixed spice", "ids": ["mixed-spice"]}
+{"audit": 4373, "lang": "en", "text": "1 level teaspoon salt", "ids": ["salt"]}
+{"audit": 4374, "lang": "en", "text": "1 leveled tbsp salt", "ids": ["salt"]}
+{"audit": 4375, "lang": "en", "text": "1 lime", "ids": ["lime"]}
+{"audit": 4376, "lang": "en", "text": "1 lime (or lemon)", "ids": ["lime"]}
+{"audit": 4377, "lang": "en", "text": "1 lime , juiced", "ids": ["lime"]}
+{"audit": 4378, "lang": "en", "text": "1 lime, finely zested", "ids": ["lime"]}
+{"audit": 4379, "lang": "en", "text": "1 lime, juiced", "ids": ["lime"]}
+{"audit": 4380, "lang": "en", "text": "1 lime, thoroughly juiced", "ids": ["lime"]}
+{"audit": 4381, "lang": "en", "text": "1 lime, zested and juiced", "ids": ["lime"]}
+{"audit": 4382, "lang": "en", "text": "1 liter (4 cups) vegetable broth or beef broth", "ids": ["vegetable-stock"]}
+{"audit": 4383, "lang": "en", "text": "1 liter (4 cups) whole milk", "ids": ["milk"]}
+{"audit": 4384, "lang": "en", "text": "1 liter milk", "ids": ["milk"]}
+{"audit": 4385, "lang": "en", "text": "1 liter of milk", "ids": ["milk"]}
+{"audit": 4386, "lang": "en", "text": "1 liter of plain yogurt (two regular containers in Bulgaria)", "ids": ["yogurt"]}
+{"audit": 4387, "lang": "en", "text": "1 liter water", "ids": ["water"]}
+{"audit": 4388, "lang": "en", "text": "1 liter water (for boiling)", "ids": ["water"]}
+{"audit": 4389, "lang": "en", "text": "1 liter whole milk", "ids": ["milk"]}
+{"audit": 4390, "lang": "en", "text": "1 liter yogurt", "ids": ["yogurt"]}
+{"audit": 4391, "lang": "en", "text": "1 litre (1¾ pint) vegetable oil for deep-frying", "ids": ["vegetable-oil"]}
+{"audit": 4392, "lang": "en", "text": "1 litre (4 cups) milk", "ids": ["milk"]}
+{"audit": 4393, "lang": "en", "text": "1 litre (4¼ cups) water", "ids": ["water"]}
+{"audit": 4394, "lang": "en", "text": "1 Litre Boiling water", "ids": ["water"]}
+{"audit": 4395, "lang": "en", "text": "1 litre cooking oil", "ids": ["vegetable-oil"]}
+{"audit": 4396, "lang": "en", "text": "1 litre dried black beans", "ids": ["black-beans"]}
+{"audit": 4397, "lang": "en", "text": "1 litre fresh rosehips", "ids": ["rosehips"]}
+{"audit": 4398, "lang": "en", "text": "1 litre kefir or yogurt", "ids": ["kefir"]}
+{"audit": 4399, "lang": "en", "text": "1 litre milk", "ids": ["milk"]}
+{"audit": 4400, "lang": "en", "text": "1 litre or more chicken broth", "ids": ["chicken-stock"]}
+{"audit": 4401, "lang": "en", "text": "1 litre water for the lentils (needed for the sauce; don't use more)", "ids": ["water"]}
+{"audit": 4402, "lang": "en", "text": "1 live northern lobster", "ids": ["lobster"]}
+{"audit": 4403, "lang": "en", "text": "1 live octopus (optional), cleaned and cut into pieces", "ids": ["octopus"]}
+{"audit": 4404, "lang": "en", "text": "1 loaf (16 oz / 450 g) French bread or other non-sour white bread, preferably stale", "ids": ["french-bread"], "reason": "French bread is the first alternative and its existing id is more specific than bread."}
+{"audit": 4405, "lang": "en", "text": "1 loaf baguette-style bread", "ids": ["baguette"], "reason": "Baguette-style bread is explicitly specified and the baguette id exists."}
+{"audit": 4406, "lang": "en", "text": "1 loaf bread", "ids": ["bread"]}
+{"audit": 4407, "lang": "en", "text": "1 loaf bread, crumbed", "ids": ["bread"]}
+{"audit": 4408, "lang": "en", "text": "1 loaf Cuban bread", "ids": ["bread"]}
+{"audit": 4409, "lang": "en", "text": "1 loaf French bread, cut in small slices", "ids": ["french-bread"], "reason": "French bread is explicitly specified and has an existing id."}
+{"audit": 4410, "lang": "en", "text": "1 loaf French white bread", "ids": ["french-bread"], "reason": "French white bread is explicitly specified; use the existing French-bread id."}
+{"audit": 4411, "lang": "en", "text": "1 loaf of day-old rye bread (preferably without whole grain)", "ids": ["rye-bread"]}
+{"audit": 4412, "lang": "en", "text": "1 loaf of Italian or French bread, sliced ½ inch (1.25 cm) thick on the bias", "ids": ["bread"]}
+{"audit": 4413, "lang": "en", "text": "1 loaf of white, pappy sort of bread or brioche, crusts removed and sliced", "ids": ["white-bread"], "reason": "First alternative is soft white bread; use its existing specific id rather than the brioche alternative."}
+{"audit": 4414, "lang": "en", "text": "1 long loaf of crusty French bread", "ids": ["french-bread"], "reason": "Crusty French bread is explicitly specified and has an existing id."}
+{"audit": 4415, "lang": "en", "text": "1 longganisa sausage", "ids": ["pork-sausage"]}
+{"audit": 4416, "lang": "en", "text": "1 lontong rice cake, cut into pieces as desired", "ids": ["rice-cake"]}
+{"audit": 4417, "lang": "en", "text": "1 Maggi cube", "ids": ["stock-cube"]}
+{"audit": 4418, "lang": "en", "text": "1 Maggi cube, crushed", "ids": ["stock-cube"]}
+{"audit": 4419, "lang": "en", "text": "1 maggi cubes", "ids": ["stock-cube"]}
+{"audit": 4420, "lang": "en", "text": "1 mango", "ids": ["mango"]}
+{"audit": 4421, "lang": "en", "text": "1 mango, peeled, seeded, and thinly sliced (optional)", "ids": ["mango"]}
+{"audit": 4422, "lang": "en", "text": "1 Mars Bar (UK/Canada) or 1 Milky Way bar (USA)", "ids": ["candy"], "reason": "Mars/Milky Way here is a filled nougat-and-caramel confectionery bar rather than plain chocolate; generic candy is the existing broader match."}
+{"audit": 4423, "lang": "en", "text": "1 marshmallow", "ids": ["marshmallow"]}
+{"audit": 4424, "lang": "en", "text": "1 mashed banana", "ids": ["banana"]}
+{"audit": 4425, "lang": "en", "text": "1 meat pie (commercial pies are fine)", "ids": ["meat-pie"]}
+{"audit": 4426, "lang": "en", "text": "1 medium (3 oz / 85 g) onion, finely chopped", "ids": ["onion"]}
+{"audit": 4427, "lang": "en", "text": "1 medium (about 1 kg) yam, peeled and cubed", "ids": ["yam"]}
+{"audit": 4428, "lang": "en", "text": "1 medium (about 6 ounces / 170 g) eggplant, halved lengthwise, and sliced ½ inch thick", "ids": ["eggplant"]}
+{"audit": 4429, "lang": "en", "text": "1 medium acorn squash, halved lengthwise", "ids": ["acorn-squash"], "reason": "Acorn squash has its own existing ingredient id."}
+{"audit": 4430, "lang": "en", "text": "1 medium apple, cored and sliced thin", "ids": ["apple"]}
+{"audit": 4431, "lang": "en", "text": "1 medium apple, finely chopped", "ids": ["apple"]}
+{"audit": 4432, "lang": "en", "text": "1 medium artichoke", "ids": ["artichoke"]}
+{"audit": 4433, "lang": "en", "text": "1 medium ball ogili", "ids": ["ogili"]}
+{"audit": 4434, "lang": "en", "text": "1 medium bell pepper, diced", "ids": ["bell-pepper"]}
+{"audit": 4435, "lang": "en", "text": "1 medium bitter melon (ampalaya), sliced", "ids": ["bitter-melon"]}
+{"audit": 4436, "lang": "en", "text": "1 medium boiling potato, unpeeled and cut into bite-size chunks", "ids": ["potato"]}
+{"audit": 4437, "lang": "en", "text": "1 medium butternut squash", "ids": ["butternut-squash"], "reason": "Butternut squash has its own existing ingredient id."}
+{"audit": 4438, "lang": "en", "text": "1 medium cabbage, finely shredded", "ids": ["cabbage"]}
+{"audit": 4439, "lang": "en", "text": "1 medium carrot, chopped", "ids": ["carrot"]}
+{"audit": 4440, "lang": "en", "text": "1 medium carrot, chopped fine", "ids": ["carrot"]}
+{"audit": 4441, "lang": "en", "text": "1 medium carrot, diced", "ids": ["carrot"]}
+{"audit": 4442, "lang": "en", "text": "1 medium carrot, grated", "ids": ["carrot"]}
+{"audit": 4443, "lang": "en", "text": "1 medium carrot, sliced", "ids": ["carrot"]}
+{"audit": 4444, "lang": "en", "text": "1 medium cinnamon stick", "ids": ["cinnamon"]}
+{"audit": 4445, "lang": "en", "text": "1 medium cucumber", "ids": ["cucumber"]}
+{"audit": 4446, "lang": "en", "text": "1 medium cucumber, chopped", "ids": ["cucumber"]}
+{"audit": 4447, "lang": "en", "text": "1 medium cucumber, diced", "ids": ["cucumber"]}
+{"audit": 4448, "lang": "en", "text": "1 medium egg, beaten", "ids": ["egg"]}
+{"audit": 4449, "lang": "en", "text": "1 medium eggplant, diced", "ids": ["eggplant"]}
+{"audit": 4450, "lang": "en", "text": "1 medium eggplant, peeled and chopped into ½-inch (1 cm) cubes", "ids": ["eggplant"]}
+{"audit": 4451, "lang": "en", "text": "1 medium green bell pepper, chopped", "ids": ["bell-pepper"]}
+{"audit": 4452, "lang": "en", "text": "1 medium green bell pepper, cut into thin strips", "ids": ["bell-pepper"]}
+{"audit": 4453, "lang": "en", "text": "1 medium green cabbage", "ids": ["cabbage"]}
+{"audit": 4454, "lang": "en", "text": "1 medium green chile pepper, such as jalapeño, seeded and chopped", "ids": ["green-chile"]}
+{"audit": 4455, "lang": "en", "text": "1 medium green or red bell pepper", "ids": ["bell-pepper"]}
+{"audit": 4456, "lang": "en", "text": "1 medium green pepper, broken into chunks", "ids": ["bell-pepper"]}
+{"audit": 4457, "lang": "en", "text": "1 medium iguana", "ids": ["iguana"], "unusual": "Iguana meat is retained as a real ingredient for the user to decide on."}
+{"audit": 4458, "lang": "en", "text": "1 medium kabocha squash", "ids": ["kabocha-squash"], "reason": "Kabocha squash is explicitly named and has its own existing id."}
+{"audit": 4459, "lang": "en", "text": "1 medium mace javitri", "ids": ["mace"]}
+{"audit": 4460, "lang": "en", "text": "1 medium Nigerian smoked catfish or titus fish", "ids": ["catfish"]}
+{"audit": 4461, "lang": "en", "text": "1 medium onion", "ids": ["onion"]}
+{"audit": 4462, "lang": "en", "text": "1 medium onion (optional), chopped", "ids": ["onion"]}
+{"audit": 4463, "lang": "en", "text": "1 medium onion (optional), diced, chopped, or sliced", "ids": ["onion"]}
+{"audit": 4464, "lang": "en", "text": "1 medium onion (optional), finely chopped", "ids": ["onion"]}
+{"audit": 4465, "lang": "en", "text": "1 medium onion or ½ large onion, peeled and finely chopped", "ids": ["onion"]}
+{"audit": 4466, "lang": "en", "text": "1 medium onion, chopped", "ids": ["onion"]}
+{"audit": 4467, "lang": "en", "text": "1 medium onion, chopped (or a little less)", "ids": ["onion"]}
+{"audit": 4468, "lang": "en", "text": "1 medium onion, chopped fine", "ids": ["onion"]}
+{"audit": 4469, "lang": "en", "text": "1 medium onion, chopped thin", "ids": ["onion"]}
+{"audit": 4470, "lang": "en", "text": "1 medium onion, coarsely chopped", "ids": ["onion"]}
+{"audit": 4471, "lang": "en", "text": "1 medium onion, diced", "ids": ["onion"]}
+{"audit": 4472, "lang": "en", "text": "1 medium onion, finely chopped", "ids": ["onion"]}
+{"audit": 4473, "lang": "en", "text": "1 medium onion, finely chopped (or 1 ½ teaspoons onion powder)", "ids": ["onion"]}
+{"audit": 4474, "lang": "en", "text": "1 medium onion, finely diced", "ids": ["onion"]}
+{"audit": 4475, "lang": "en", "text": "1 medium onion, grated on the large side of a box grater", "ids": ["onion"]}
+{"audit": 4476, "lang": "en", "text": "1 medium onion, minced", "ids": ["onion"]}
+{"audit": 4477, "lang": "en", "text": "1 medium onion, peeled", "ids": ["onion"]}
+{"audit": 4478, "lang": "en", "text": "1 medium onion, peeled and chopped", "ids": ["onion"]}
+{"audit": 4479, "lang": "en", "text": "1 medium onion, peeled and diced", "ids": ["onion"]}
+{"audit": 4480, "lang": "en", "text": "1 medium onion, quartered", "ids": ["onion"]}
+{"audit": 4481, "lang": "en", "text": "1 medium onion, sliced", "ids": ["onion"]}
+{"audit": 4482, "lang": "en", "text": "1 medium onion, sliced thin", "ids": ["onion"]}
+{"audit": 4483, "lang": "en", "text": "1 medium onions, quartered", "ids": ["onion"]}

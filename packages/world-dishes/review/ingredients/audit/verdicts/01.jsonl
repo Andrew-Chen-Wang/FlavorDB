@@ -1,0 +1,200 @@
+{"audit": 200, "lang": "en", "text": "1 cup ukpaka", "ids": ["ukpaka"]}
+{"audit": 201, "lang": "en", "text": "1 cup yellow split peas", "ids": ["yellow-split-peas"]}
+{"audit": 202, "lang": "en", "text": "1 dash of tobacco (optional)", "ids": ["tobacco"], "unusual": "Tobacco is explicitly written in the Sweet Beef recipe; likely a source typo for Tabasco, but retained for the user to decide rather than silently replacing or removing it."}
+{"audit": 203, "lang": "en", "text": "1 dash of truffle oil, for drizzling (optional)", "ids": ["truffle-oil"]}
+{"audit": 204, "lang": "en", "text": "1 dash white vinegar", "ids": ["white-vinegar"], "reason": "The line explicitly names white vinegar; use the existing specific ingredient rather than generic vinegar."}
+{"audit": 205, "lang": "en", "text": "1 dozen big tangerines", "ids": ["tangerine"]}
+{"audit": 206, "lang": "en", "text": "1 dried catfish, cleaned", "ids": ["dried-catfish"]}
+{"audit": 207, "lang": "en", "text": "1 drop red food colouring (optional)", "ids": ["red-food-colouring"]}
+{"audit": 208, "lang": "en", "text": "1 ea. (2 lb) whole red snapper, cleaned, fins removed and head and tail left intact", "ids": ["red-snapper"]}
+{"audit": 209, "lang": "en", "text": "1 ea. (7 ounces) mahi-mahi fillet, thinly sliced", "ids": ["mahi-mahi"]}
+{"audit": 210, "lang": "en", "text": "1 ea. (8 ounces) pompano fillet, thinly sliced", "ids": ["pompano"]}
+{"audit": 211, "lang": "en", "text": "1 envelope vegetable soup mix", "ids": ["vegetable-soup-mix"]}
+{"audit": 212, "lang": "en", "text": "1 g salt", "ids": ["salt"]}
+{"audit": 213, "lang": "en", "text": "1 grain ambergris (no modern substitute)", "ids": ["ambergris"], "unusual": "Ambergris is an unusual historical animal-derived flavouring; retained for user review."}
+{"audit": 214, "lang": "en", "text": "1 grain musk (substitute edible musk essence)", "ids": ["musk"], "unusual": "Musk is an unusual historical animal-derived flavouring, with edible musk essence offered as a substitute; retained for user review."}
+{"audit": 215, "lang": "en", "text": "1 head (3–4 cups of leaves) tat soi or any other dark leafy green, base removed (tear into smaller pieces if using a large leaf plant like chard)", "ids": ["tatsoi"]}
+{"audit": 216, "lang": "en", "text": "1 heaping tbsp cayenne pepper", "ids": ["cayenne"]}
+{"audit": 217, "lang": "en", "text": "1 heaping tbsp red curry paste", "ids": ["red-curry-paste"]}
+{"audit": 218, "lang": "en", "text": "1 hot banana pepper, seeded and chopped", "ids": ["banana-pepper"]}
+{"audit": 219, "lang": "en", "text": "1 instant vegetable bouillon cube (enough to make 1 cup of bouillon), crushed", "ids": ["vegetable-stock-cube"], "reason": "An instant vegetable bouillon cube is the existing vegetable-stock-cube ingredient, not liquid vegetable bouillon."}
+{"audit": 220, "lang": "en", "text": "1 jar (11.75 ounces) plus 2 tablespoons hot fudge topping", "ids": ["hot-fudge"]}
+{"audit": 221, "lang": "en", "text": "1 jar (12 ounces) of refrigerated chunky blue cheese dressing", "ids": ["blue-cheese-dressing"]}
+{"audit": 222, "lang": "en", "text": "1 jar (7 oz / 200 g) marshmallow creme", "ids": ["marshmallow-creme"]}
+{"audit": 223, "lang": "en", "text": "1 jar of grape jelly (US) or jam (UK)", "ids": ["grape-jelly"]}
+{"audit": 224, "lang": "en", "text": "1 kg chicken gizzard, washed", "ids": ["chicken-gizzard"]}
+{"audit": 225, "lang": "en", "text": "1 kg fruit mince mixture", "ids": ["mincemeat"]}
+{"audit": 226, "lang": "en", "text": "1 kg hilsa fish (kelee shad), cut into 10 pieces", "ids": ["hilsa"]}
+{"audit": 227, "lang": "en", "text": "1 kg palm nut cream", "ids": ["palm-nut-cream"]}
+{"audit": 228, "lang": "en", "text": "1 kg palmyra palm fruit (Borassus flabellifer)", "ids": ["palmyra-palm-fruit"]}
+{"audit": 229, "lang": "en", "text": "1 kg whole milkfish", "ids": ["milkfish"]}
+{"audit": 230, "lang": "en", "text": "1 kohlrabi (colinabo), roughly diced", "ids": ["kohlrabi"]}
+{"audit": 231, "lang": "en", "text": "1 large can (53 ounces) pork and beans", "ids": ["pork-and-beans"]}
+{"audit": 232, "lang": "en", "text": "1 large dawa dawa lump", "ids": ["dawadawa"]}
+{"audit": 233, "lang": "en", "text": "1 large jar of Alfredo sauce", "ids": ["alfredo-sauce"]}
+{"audit": 234, "lang": "en", "text": "1 large sprinkle of paprika", "ids": ["paprika"], "reason": "Paprika is a spice, not feta cheese; original en-003 row appears positionally misaligned."}
+{"audit": 235, "lang": "en", "text": "1 large whole carrot, washed", "ids": ["carrot"], "reason": "The line names a whole carrot, not a maple cooking plank; original en-003 row appears positionally misaligned."}
+{"audit": 236, "lang": "en", "text": "1 lb (450 g) bacon slices", "ids": ["bacon"], "reason": "The line names bacon slices, not sev noodles; original en-003 row appears positionally misaligned."}
+{"audit": 237, "lang": "en", "text": "1 lb (450 g) Velveeta cheese", "ids": ["velveeta"]}
+{"audit": 238, "lang": "en", "text": "1 lb (450 g) Velveeta cheese, cubed", "ids": ["velveeta"]}
+{"audit": 239, "lang": "en", "text": "1 lb Andouille sausage, cut in pieces", "ids": ["andouille"]}
+{"audit": 240, "lang": "en", "text": "1 lb frozen mixed berries (blueberries, blackberries, raspberries)", "ids": ["mixed-berries"]}
+{"audit": 241, "lang": "en", "text": "1 lb spinach", "ids": ["spinach"]}
+{"audit": 242, "lang": "en", "text": "1 litre fresh rosehips", "ids": ["rosehips"]}
+{"audit": 243, "lang": "en", "text": "1 meat pie (commercial pies are fine)", "ids": ["meat-pie"]}
+{"audit": 244, "lang": "en", "text": "1 medium ball ogili", "ids": ["ogili"]}
+{"audit": 245, "lang": "en", "text": "1 medium iguana", "ids": ["iguana"], "unusual": "Iguana meat is a real but unusual regional food; retained for user review."}
+{"audit": 246, "lang": "en", "text": "1 medium onions, quartered", "ids": ["onion"]}
+{"audit": 247, "lang": "en", "text": "1 medium or 2 small onions, thinly sliced", "ids": ["onion"]}
+{"audit": 248, "lang": "en", "text": "1 or more slices of bagel with sesame seeds, sized to fit your grill", "ids": ["bagel"]}
+{"audit": 249, "lang": "en", "text": "1 ounce white granulated sugar", "ids": ["sugar"]}
+{"audit": 250, "lang": "en", "text": "1 oz (28 g) black raspberry liqueur", "ids": ["raspberry-liqueur"]}
+{"audit": 251, "lang": "en", "text": "1 oz (28 g) hazelnut liqueur", "ids": ["hazelnut-liqueur"]}
+{"audit": 252, "lang": "en", "text": "1 pack of bulla cakes", "ids": ["bulla-cakes"]}
+{"audit": 253, "lang": "en", "text": "1 pack of butter cookies", "ids": ["butter-cookies"]}
+{"audit": 254, "lang": "en", "text": "1 package (15–18 oz/450 g) chocolate chip cookies (recipe uses 26 cookies)", "ids": ["chocolate-cookies"]}
+{"audit": 255, "lang": "en", "text": "1 package (340 g) Yves \"Veggie Ground Round\" ground beef substitute", "ids": ["meat-substitute"]}
+{"audit": 256, "lang": "en", "text": "1 package (450 grams) kataifi pastry", "ids": ["kataifi"]}
+{"audit": 257, "lang": "en", "text": "1 package (5.2 ounces) Boursin brand cheese, room temperature", "ids": ["garlic-herb-cheese"]}
+{"audit": 258, "lang": "en", "text": "1 package (8 ounces) croissant roll dough", "ids": ["croissant-dough"]}
+{"audit": 259, "lang": "en", "text": "1 package frozen biscuit dough", "ids": ["biscuit-dough"]}
+{"audit": 260, "lang": "en", "text": "1 package of 6-inch round flour tortillas", "ids": ["flour-tortillas"]}
+{"audit": 261, "lang": "en", "text": "1 packet \"chicken and herb\" seasoning", "ids": ["chicken-seasoning"]}
+{"audit": 262, "lang": "en", "text": "1 packet of flat crispy puris (available in Indian groceries)", "ids": ["puris"]}
+{"audit": 263, "lang": "en", "text": "1 packet of Oriental flavoring (from one of the ramen packages)", "ids": ["ramen-seasoning"]}
+{"audit": 264, "lang": "en", "text": "1 part (14%) by weight amaranth flour", "ids": ["amaranth-flour"]}
+{"audit": 265, "lang": "en", "text": "1 part cooked lo mein noodles", "ids": ["lo-mein-noodles"]}
+{"audit": 266, "lang": "en", "text": "1 pastry dough recipe", "ids": ["pastry-dough"]}
+{"audit": 267, "lang": "en", "text": "1 piece of fillet of veal", "ids": ["veal"]}
+{"audit": 268, "lang": "en", "text": "1 pinch red food colouring in 1 teaspoon water", "ids": ["red-food-colouring", "water"], "reason": "The line names red food colouring dissolved in a measured teaspoon of water; both ingredients are explicit."}
+{"audit": 269, "lang": "en", "text": "1 pinch Vegeta seasoning (optional, has MSG)", "ids": ["vegeta-seasoning"]}
+{"audit": 270, "lang": "en", "text": "1 pinch yellow/orange artificial food colour", "ids": ["yellow-food-colouring"]}
+{"audit": 271, "lang": "en", "text": "1 pint crème pâtissière, still hot", "ids": ["creme-patissiere"]}
+{"audit": 272, "lang": "en", "text": "1 potato (either washed or peeled)", "ids": ["potato"]}
+{"audit": 273, "lang": "en", "text": "1 pound (450 g) fiddleheads, cleaned and trimmed", "ids": ["fiddleheads"]}
+{"audit": 274, "lang": "en", "text": "1 pound (½ kilogram) dry yellow split peas", "ids": ["yellow-split-peas"]}
+{"audit": 275, "lang": "en", "text": "1 pound bitter leaves or spinach", "ids": ["bitter-leaves"]}
+{"audit": 276, "lang": "en", "text": "1 pound cheese (Romano, Mexican or feta work well)", "ids": ["romano"]}
+{"audit": 277, "lang": "en", "text": "1 pound ground beef substitute (e.g. MorningStar Farms Grillers Recipe Crumbles)", "ids": ["meat-substitute"]}
+{"audit": 278, "lang": "en", "text": "1 pound Shanghai noodles (the thick ones)", "ids": ["shanghai-noodles"]}
+{"audit": 279, "lang": "en", "text": "1 pound shredded mozzarella cheese", "ids": ["mozzarella"]}
+{"audit": 280, "lang": "en", "text": "1 pound shrimp", "ids": ["shrimp"]}
+{"audit": 281, "lang": "en", "text": "1 slice of deli ham", "ids": ["ham"]}
+{"audit": 282, "lang": "en", "text": "1 slice of queso fresco", "ids": ["queso-fresco"]}
+{"audit": 283, "lang": "en", "text": "1 small bunch ikong ubong (ugu leaves)", "ids": ["ugu-leaves"]}
+{"audit": 284, "lang": "en", "text": "1 small can (4 oz, 110 g) green salsa", "ids": ["green-salsa"]}
+{"audit": 285, "lang": "en", "text": "1 small package of snap peas", "ids": ["snap-peas"]}
+{"audit": 286, "lang": "en", "text": "1 small pork stomach (order from your butcher)", "ids": ["pork-stomach"]}
+{"audit": 287, "lang": "en", "text": "1 small sprig fresh or dried epazote (optional)", "ids": ["epazote"]}
+{"audit": 288, "lang": "en", "text": "1 small yellow or Spanish onion, chopped", "ids": ["onion"]}
+{"audit": 289, "lang": "en", "text": "1 splash of liquid aminos", "ids": ["liquid-aminos"]}
+{"audit": 290, "lang": "en", "text": "1 spoonful anchovy sauce", "ids": ["anchovy-sauce"]}
+{"audit": 291, "lang": "en", "text": "1 spoonful nattomoto powder", "ids": ["natto-starter"], "reason": "new ingredient needed: natto fermentation starter; the associated natto recipe dissolves nattomoto in sterilized water to inoculate soybeans, not powdered finished natto."}
+{"audit": 292, "lang": "en", "text": "1 tablespoon awaze sauce", "ids": ["awaze"]}
+{"audit": 293, "lang": "en", "text": "1 tablespoon baking powder", "ids": ["baking-powder"]}
+{"audit": 294, "lang": "en", "text": "1 tablespoon caribe or another ground hot pepper", "ids": ["ground-chile"]}
+{"audit": 295, "lang": "en", "text": "1 tablespoon coconut aminos", "ids": ["coconut-aminos"]}
+{"audit": 296, "lang": "en", "text": "1 tablespoon coconut flour", "ids": ["coconut-flour"]}
+{"audit": 297, "lang": "en", "text": "1 tablespoon dried and ground tangerine peel (optional; can use orange zest instead)", "ids": ["tangerine-peel"]}
+{"audit": 298, "lang": "en", "text": "1 tablespoon eggnog", "ids": ["eggnog"]}
+{"audit": 299, "lang": "en", "text": "1 tablespoon fruit chutney", "ids": ["fruit-chutney"]}
+{"audit": 300, "lang": "en", "text": "1 tablespoon glucose syrup", "ids": ["glucose-syrup"]}
+{"audit": 301, "lang": "en", "text": "1 tablespoon instant coffee powder", "ids": ["coffee"]}
+{"audit": 302, "lang": "en", "text": "1 tablespoon instant yeast", "ids": ["yeast"]}
+{"audit": 303, "lang": "en", "text": "1 tablespoon mitmita spice blend", "ids": ["mitmita"]}
+{"audit": 304, "lang": "en", "text": "1 tablespoon of Nước màu", "ids": ["nuoc-mau"]}
+{"audit": 305, "lang": "en", "text": "1 tablespoon peppermint extract", "ids": ["peppermint-extract"], "reason": "Use the existing peppermint-extract ingredient; peppermint leaves are a different shopping ingredient."}
+{"audit": 306, "lang": "en", "text": "1 tablespoon toasted hazelnut oil", "ids": ["hazelnut-oil"]}
+{"audit": 307, "lang": "en", "text": "1 Tbsp (15 mL) citric acid", "ids": ["citric-acid"]}
+{"audit": 308, "lang": "en", "text": "1 tbsp blackcurrant liqueur", "ids": ["blackcurrant-liqueur"]}
+{"audit": 309, "lang": "en", "text": "1 Tbsp finely-chopped cilantro", "ids": ["cilantro"]}
+{"audit": 310, "lang": "en", "text": "1 Tbsp fish oil", "ids": ["fish-oil"]}
+{"audit": 311, "lang": "en", "text": "1 tbsp matcha powder, sifted", "ids": ["matcha"]}
+{"audit": 312, "lang": "en", "text": "1 tbsp mushroom ketchup and/or port wine", "ids": ["mushroom-ketchup"]}
+{"audit": 313, "lang": "en", "text": "1 tbsp mustard seed oil (see notes)", "ids": ["mustard-seed-oil"]}
+{"audit": 314, "lang": "en", "text": "1 tbsp parsley, finely minced", "ids": ["parsley"]}
+{"audit": 315, "lang": "en", "text": "1 tbsp piccalilli (mustard can be substituted)", "ids": ["piccalilli"]}
+{"audit": 316, "lang": "en", "text": "1 tbsp ube jam (sweet purple yam paste)", "ids": ["ube-jam"]}
+{"audit": 317, "lang": "en", "text": "1 tbsp vegetarian oyster sauce substitute (or omit)", "ids": ["vegetarian-oyster-sauce"]}
+{"audit": 318, "lang": "en", "text": "1 Tbsp white cumin (sufaid zeera)", "ids": ["white-cumin"]}
+{"audit": 319, "lang": "en", "text": "1 tbsp zḥug (hot sauce made from red peppers, garlic, coriander leaves, etc.)", "ids": ["zhug"]}
+{"audit": 320, "lang": "en", "text": "1 teacup dal (e.g. moong dhal, arhar dal or masoor dal or combination thereof)", "ids": ["dal"]}
+{"audit": 321, "lang": "en", "text": "1 teaspoon active dry yeast", "ids": ["yeast"]}
+{"audit": 322, "lang": "en", "text": "1 teaspoon allspice, ground", "ids": ["allspice"]}
+{"audit": 323, "lang": "en", "text": "1 teaspoon Banga spice mix (optional but traditional)", "ids": ["banga-spice"]}
+{"audit": 324, "lang": "en", "text": "1 teaspoon Creole seasoning", "ids": ["creole-seasoning"]}
+{"audit": 325, "lang": "en", "text": "1 teaspoon hatxora", "ids": ["hatxora"]}
+{"audit": 326, "lang": "en", "text": "1 teaspoon instant yeast", "ids": ["yeast"]}
+{"audit": 327, "lang": "en", "text": "1 teaspoon Kewra water (pandan flower extract)", "ids": ["kewra-water"]}
+{"audit": 328, "lang": "en", "text": "1 teaspoon of kaeng chu chee curry paste", "ids": ["kaeng-chu-chee"]}
+{"audit": 329, "lang": "en", "text": "1 teaspoon tempeh starter (or ragi tempe)", "ids": ["tempeh-starter"]}
+{"audit": 330, "lang": "en", "text": "1 teaspoon truffle oil", "ids": ["truffle-oil"]}
+{"audit": 331, "lang": "en", "text": "1 teaspoons ground ehuru (African nutmeg)", "ids": ["ehuru"]}
+{"audit": 332, "lang": "en", "text": "1 Thai bird chile, minced", "ids": ["thai-bird-chile"]}
+{"audit": 333, "lang": "en", "text": "1 Thai bird chili, finely minced", "ids": ["thai-bird-chile"]}
+{"audit": 334, "lang": "en", "text": "1 tomato", "ids": ["tomato"]}
+{"audit": 335, "lang": "en", "text": "1 tsp (5 ml) Thai chile paste (Sriracha recommended)", "ids": ["thai-chile-paste"]}
+{"audit": 336, "lang": "en", "text": "1 tsp chia seeds", "ids": ["chia-seeds"]}
+{"audit": 337, "lang": "en", "text": "1 tsp dalda (vanaspati)", "ids": ["vanaspati"]}
+{"audit": 338, "lang": "en", "text": "1 tsp finely-grated garlic", "ids": ["garlic"]}
+{"audit": 339, "lang": "en", "text": "1 tsp garlic chili sauce", "ids": ["garlic-chili-sauce"]}
+{"audit": 340, "lang": "en", "text": "1 tsp green chili paste", "ids": ["green-chili-paste"]}
+{"audit": 341, "lang": "en", "text": "1 tsp mango powder", "ids": ["mango-powder"]}
+{"audit": 342, "lang": "en", "text": "1 tsp marmite", "ids": ["marmite"]}
+{"audit": 343, "lang": "en", "text": "1 tsp mint sauce", "ids": ["mint-sauce"]}
+{"audit": 344, "lang": "en", "text": "1 tsp Montreal Steak Seasoning", "ids": ["montreal-steak-seasoning"]}
+{"audit": 345, "lang": "en", "text": "1 tsp suya spice", "ids": ["suya-spice"]}
+{"audit": 346, "lang": "en", "text": "1 tsp table salt", "ids": ["salt"]}
+{"audit": 347, "lang": "en", "text": "1 tsp za'atar (can substitute ¼ tsp thyme)", "ids": ["zaatar"]}
+{"audit": 348, "lang": "en", "text": "1 whole (2 lb/1 kg) red snapper, cleaned, fins removed, head and tail intact", "ids": ["red-snapper"]}
+{"audit": 349, "lang": "en", "text": "1 wineglassful (175 ml / 5.9 oz / ¾ cup) Benedictine or Maraschino liqueur", "ids": ["herbal-liqueur"], "reason": "The first alternative is Benedictine, an herbal liqueur; maraschino is the second alternative and should not be selected."}
+{"audit": 350, "lang": "en", "text": "1 ¼ cup non-dairy milk", "ids": ["non-dairy-milk"]}
+{"audit": 351, "lang": "en", "text": "1 ½ cups (360 ml) tomato sauce", "ids": ["tomato-sauce"]}
+{"audit": 352, "lang": "en", "text": "1 ½ pounds sea biscuit, broken", "ids": ["hardtack"]}
+{"audit": 353, "lang": "en", "text": "1 ½ quarts turkey stock or chicken stock", "ids": ["turkey-stock"]}
+{"audit": 354, "lang": "en", "text": "1 ½ teaspoons (7.5 ml) jerk seasoning", "ids": ["jerk-seasoning"]}
+{"audit": 355, "lang": "en", "text": "1 ½ tsp fruit salt", "ids": ["fruit-salt"]}
+{"audit": 356, "lang": "en", "text": "1 ½ tsp sambar masalar", "ids": ["sambar-masala"]}
+{"audit": 357, "lang": "en", "text": "1 ⅔ cup falafel mix", "ids": ["falafel-mix"]}
+{"audit": 358, "lang": "en", "text": "1-2 tablespoons ground Pepper (fresh or dried)", "ids": ["ground-chile"], "reason": "The associated Ofe Onugbu bitter-leaf soup recipe uses ground fresh or dried hot pepper; this means ground chile, not black pepper."}
+{"audit": 359, "lang": "en", "text": "1.25 L (or less) Fanta orange soda, chilled", "ids": ["orange-soda"]}
+{"audit": 360, "lang": "en", "text": "1.5 kg assorted meat, cut in small pieces", "ids": ["assorted-meat"]}
+{"audit": 361, "lang": "en", "text": "10 g perilla leaves, sliced", "ids": ["perilla"]}
+{"audit": 362, "lang": "en", "text": "10 njansan seeds", "ids": ["njansang-seed"]}
+{"audit": 363, "lang": "en", "text": "10 oz (280 g) canned tomatoes stewed with green chiles (e.g. Rotel brand)", "ids": ["canned-tomatoes", "green-chile"], "reason": "The line explicitly uses canned tomatoes with green chiles; retain both and prefer canned-tomatoes over fresh tomato."}
+{"audit": 364, "lang": "en", "text": "10 oz canned tomato soup (you may also use homemade tomato sauce)", "ids": ["tomato-soup"]}
+{"audit": 365, "lang": "en", "text": "10 pastry dough wrappers", "ids": ["pastry-dough"]}
+{"audit": 366, "lang": "en", "text": "10 petai seeds, skin removed", "ids": ["petai"]}
+{"audit": 367, "lang": "en", "text": "10 rolls of either Arabic village bread (markouk, or taboun or tannour) or spring roll pastry", "ids": ["arabic-bread"]}
+{"audit": 368, "lang": "en", "text": "10 Saltine crackers, crushed or ½ cup bread crumbs", "ids": ["saltine-crackers"]}
+{"audit": 369, "lang": "en", "text": "10 sea urchins", "ids": ["sea-urchin"]}
+{"audit": 370, "lang": "en", "text": "10 slices of country bread", "ids": ["country-bread"]}
+{"audit": 371, "lang": "en", "text": "10 uncooked lasagne noodles, broken into squares", "ids": ["lasagne-noodles"]}
+{"audit": 372, "lang": "en", "text": "100 g (3.5 ounces) small haricot beans (canned or fresh)", "ids": ["haricot-beans"]}
+{"audit": 373, "lang": "en", "text": "100 g (3.53 oz) shirataki noodles", "ids": ["shirataki-noodles"]}
+{"audit": 374, "lang": "en", "text": "100 g chouriço or smoked sausage, sliced", "ids": ["chourico"]}
+{"audit": 375, "lang": "en", "text": "100 g ikan bilis (dried anchovies)", "ids": ["dried-anchovy"]}
+{"audit": 376, "lang": "en", "text": "100 g mixed vine fruit", "ids": ["mixed-dried-fruit"]}
+{"audit": 377, "lang": "en", "text": "100 g salted fish", "ids": ["salted-fish"]}
+{"audit": 378, "lang": "en", "text": "100 g salty ripped cod, salt removed", "ids": ["salted-cod"]}
+{"audit": 379, "lang": "en", "text": "100 g salty tuna, salt removed", "ids": ["tuna"]}
+{"audit": 380, "lang": "en", "text": "100 g self-raising flour", "ids": ["self-raising-flour"], "reason": "The line explicitly names self-raising flour; use the existing specific ingredient rather than plain wheat flour."}
+{"audit": 381, "lang": "en", "text": "100 g yardlong beans", "ids": ["yardlong-beans"]}
+{"audit": 382, "lang": "en", "text": "100 grams (3.5 oz) straw mushrooms, halved", "ids": ["straw-mushroom"]}
+{"audit": 383, "lang": "en", "text": "100 grams boiled or fried cow’s snout (cingur)", "ids": ["cow-snout"]}
+{"audit": 384, "lang": "en", "text": "100 ml coconut yogurt", "ids": ["coconut-yogurt"]}
+{"audit": 385, "lang": "en", "text": "1000 g cracked rye seeds", "ids": ["cracked-rye"]}
+{"audit": 386, "lang": "en", "text": "10–15 poblano peppers", "ids": ["poblano"]}
+{"audit": 387, "lang": "en", "text": "11–12 tsp chicken salt/season salt", "ids": ["chicken-salt"]}
+{"audit": 388, "lang": "en", "text": "11–17 long green peppers", "ids": ["long-green-pepper"]}
+{"audit": 389, "lang": "en", "text": "12 canned water chestnut slices, halved", "ids": ["water-chestnut"]}
+{"audit": 390, "lang": "en", "text": "12 dl water", "ids": ["water"]}
+{"audit": 391, "lang": "en", "text": "12 ounces dry angel hair pasta", "ids": ["angel-hair-pasta"]}
+{"audit": 392, "lang": "en", "text": "12 oz (340 g) pasta dough or 1 package of wonton wrappers", "ids": ["pasta-dough"]}
+{"audit": 393, "lang": "en", "text": "12 oz (350 g) mixed dried fruit", "ids": ["mixed-dried-fruit"]}
+{"audit": 394, "lang": "en", "text": "12 oz seashell (or other) pasta", "ids": ["seashell-pasta"]}
+{"audit": 395, "lang": "en", "text": "12 oz spicy chicken sausage (pre-cooked)", "ids": ["chicken-sausage"]}
+{"audit": 396, "lang": "en", "text": "12 tablespoons Azeite de dendê (a very tasty, heavy, saffron-colored palm oil, which may not be omitted under any circumstances)", "ids": ["dende-oil"]}
+{"audit": 397, "lang": "en", "text": "12 taro (dasheen or callaloo) leaves", "ids": ["taro-leaves"]}
+{"audit": 398, "lang": "en", "text": "120 g sago pearls", "ids": ["sago"]}
+{"audit": 399, "lang": "en", "text": "125 g (4.5 ounces) large haricot beans (canned or fresh)", "ids": ["haricot-beans"]}
