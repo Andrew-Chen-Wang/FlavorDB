@@ -1,10 +1,54 @@
 [
-  {"candidate":2188,"id":"Q100249968","verdict":"drop","reason":"Personally viewed both sheets: the same finished decorated Torta margherita photograph as 1484, with an identical caption and only filename spacing differing. Keep the earlier candidate once."},
-  {"candidate":1484,"id":"Q100249968","verdict":"keep","reason":"Finished decorated cake with chocolate flakes and sprinkles, explicitly identified by its Commons caption as Torta margherita. Candidate 2188 is the identical photograph; retain this earlier candidate once.","license":"CC BY-SA 4.0"},
-  {"candidate":2191,"id":"Q116698160","verdict":"drop","reason":"Correct stacked mistocchine with matching Ferrara caption, but the grey washed-out view gives weaker food detail than the warmer, brighter alternate 811."},
-  {"candidate":811,"id":"Q116698160","verdict":"keep","reason":"Personally compared both: clear stack of finished dusted chestnut cakes, matching the explicit Mistocchine a Ferrara caption. Brighter lighting makes the cakes and their surface more legible than 2191.","license":"CC BY-SA 4.0"},
-  {"candidate":1491,"id":"Q100258624","verdict":"keep","reason":"Finished crisp kunafa layers enclosing mango ice cream, matching the explicit Arabic caption and named ice-cream kunafa dish. Personally viewed 2311 and confirmed it is the identical photo; retain this earlier candidate once.","license":"CC BY-SA 4.0"},
-  {"candidate":2311,"id":"Q100258624","verdict":"drop","reason":"Identical ice-cream kunafa photograph and caption as 1491, differing only in filename spacing; avoid retaining the same photo twice."},
-  {"candidate":1523,"id":"Q1018934","verdict":"keep","reason":"Clear finished serving of thin sliced baked potatoes on a plate, explicitly captioned Bäckerkartoffeln. Personally viewed both sheets and confirmed 2329 is the identical photograph; retain this earlier candidate once.","license":"CC BY 2.0"},
-  {"candidate":2329,"id":"Q1018934","verdict":"drop","reason":"Identical plated Bäckerkartoffeln photograph and caption as 1523, with filename underscores in place of spaces; retain only 1523."}
+  {
+    "candidate": 2188,
+    "id": "Q100249968",
+    "verdict": "drop",
+    "reason": "Personally viewed both sheets: the same finished decorated Torta margherita photograph as 1484, with an identical caption and only filename spacing differing. Keep the earlier candidate once."
+  },
+  {
+    "candidate": 1484,
+    "id": "Q100249968",
+    "verdict": "keep",
+    "reason": "Finished decorated cake with chocolate flakes and sprinkles, explicitly identified by its Commons caption as Torta margherita. Candidate 2188 is the identical photograph; retain this earlier candidate once.",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "candidate": 2191,
+    "id": "Q116698160",
+    "verdict": "drop",
+    "reason": "Correct stacked mistocchine with matching Ferrara caption, but the grey washed-out view gives weaker food detail than the warmer, brighter alternate 811."
+  },
+  {
+    "candidate": 811,
+    "id": "Q116698160",
+    "verdict": "keep",
+    "reason": "Personally compared both: clear stack of finished dusted chestnut cakes, matching the explicit Mistocchine a Ferrara caption. Brighter lighting makes the cakes and their surface more legible than 2191.",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "candidate": 1491,
+    "id": "Q100258624",
+    "verdict": "keep",
+    "reason": "Finished crisp kunafa layers enclosing mango ice cream, matching the explicit Arabic caption and named ice-cream kunafa dish. Personally viewed 2311 and confirmed it is the identical photo; retain this earlier candidate once.",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "candidate": 2311,
+    "id": "Q100258624",
+    "verdict": "drop",
+    "reason": "Identical ice-cream kunafa photograph and caption as 1491, differing only in filename spacing; avoid retaining the same photo twice."
+  },
+  {
+    "candidate": 1523,
+    "id": "Q1018934",
+    "verdict": "keep",
+    "reason": "Clear finished serving of thin sliced baked potatoes on a plate, explicitly captioned Bäckerkartoffeln. Personally viewed both sheets and confirmed 2329 is the identical photograph; retain this earlier candidate once.",
+    "license": "CC BY 2.0"
+  },
+  {
+    "candidate": 2329,
+    "id": "Q1018934",
+    "verdict": "drop",
+    "reason": "Identical plated Bäckerkartoffeln photograph and caption as 1523, with filename underscores in place of spaces; retain only 1523."
+  }
 ]
