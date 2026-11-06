@@ -1,0 +1,60 @@
+[
+  {
+    "candidate": 2823,
+    "decision": "credit",
+    "author": "るがこむ",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Unagi_hone.jpg&oldid=645232374",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Unagi_hone.jpg",
+    "reason": "Read supplied primary Commons wikitext revision 645232374: description explicitly says るがこむ撮影 (photographed by Rugakom). This is a photographer statement, independent of file transfer/editor identity. GFDL-ja migration=relicense and metadata supply CC BY-SA 3.0. Preserve the actual Japanese creator name rather than inventing a romanization or user link."
+  },
+  {
+    "candidate": 2833,
+    "decision": "credit",
+    "author": "Tempaku44",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Toraya_manju.jpg&oldid=13473613",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Tempaku44",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Toraya_manju.jpg",
+    "reason": "Read original 11 August 2008 Commons revision by Tempaku44: it contains first-person copyright-holder publication under GFDL and CC BY-SA 3.0/2.5/2.0/1.0. His original self-license supports creator attribution beyond merely being the uploader; current assumed-author template reflects that claim."
+  },
+  {
+    "candidate": 2828,
+    "decision": "drop",
+    "author": "青森県観光情報サイトアプティネット (image provider; photographer unconfirmed)",
+    "authorSource": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/keiran_aomori.html",
+    "creditSourceUrl": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/keiran_aomori.html",
+    "reason": "Commons revision 993108597 claims MAFF author and CC BY 4.0/GJSTU. Actual cited MAFF page instead credits all three images to 青森県観光情報サイトアプティネット and states these dish images cannot be downloaded. MAFF reuse terms at https://www.maff.go.jp/j/use/link.html require source-page citation and warn photographs frequently carry third-party rights. A source link cannot resolve this contradictory rights evidence; free licensing from the actual image rights holder is unestablished. Drop pending verified rights-holder license; no contact made."
+  },
+  {
+    "candidate": 3033,
+    "decision": "credit",
+    "author": "Antoine",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Concasse_de_tomate2.JPG&oldid=1051694340",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Concasse_de_tomate2.JPG",
+    "reason": "Read supplied primary Commons wikitext: description explicitly credits the image as Par Antoine. GFDL migration=relicense and current metadata give CC BY-SA 3.0. Credit exactly Antoine; no full name or photographer user account inferred from an uploader."
+  },
+  {
+    "candidate": 3035,
+    "decision": "credit",
+    "author": "LLuisa Nunez",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Tortilla_patatas.jpg&oldid=1264492156",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Lluisanunez",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Tortilla_patatas.jpg",
+    "reason": "Read supplied primary Commons wikitext: source explicitly says photograph taken by LLuisa Nunez on 19 July 2005 and links user:lluisanunez. The same text licenses CC BY-SA 2.5. Missing Artist metadata does not erase this direct photographer statement."
+  },
+  {
+    "candidate": 3044,
+    "decision": "credit",
+    "author": "Kanko*",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Slice_of_pound_cake.jpg&oldid=863593808",
+    "creditSourceUrl": "https://www.flickr.com/photos/kankan/54501285/",
+    "reason": "Read supplied primary Commons wikitext: explicit Photo credit Kanko* with Flickr source link. FlickreviewR reviewed-pass identifies the same creator and URL and confirms CC BY 2.0 on 5 January 2007. Credit the named creator rather than transfer uploader."
+  },
+  {
+    "candidate": 3058,
+    "decision": "credit",
+    "author": "Dominik Hundhammer",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?title=File:Feta_Greece_2.jpg&oldid=1237216555",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Feta_Greece_2.jpg",
+    "reason": "Read supplied primary Commons wikitext: description explicitly identifies image by myself (Dominik Hundhammer, 28 January 2005). This is a direct creator statement. GFDL migration=relicense and current metadata give CC BY-SA 3.0. No photographer identity inferred from later file editors."
+  }
+]

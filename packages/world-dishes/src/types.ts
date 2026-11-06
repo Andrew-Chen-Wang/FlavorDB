@@ -17,8 +17,10 @@ export type WorldRecipe = {
 
 export type ImageCredit = {
   author: string
+  authorUrl?: string
   license: string
   licenseUrl?: string
+  sourceUrl?: string
 }
 
 /**

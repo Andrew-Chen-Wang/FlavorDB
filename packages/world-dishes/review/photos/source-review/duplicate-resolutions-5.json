@@ -1,0 +1,93 @@
+[
+  {
+    "candidate": 2915,
+    "id": "Q136190541",
+    "verdict": "drop",
+    "reason": "Personally compared both tempura-manju photographs: this valid serving shows only closed buns; 1002 clearly reveals the identifying sweet bean filling and crisp shell."
+  },
+  {
+    "candidate": 1002,
+    "id": "Q136190541",
+    "verdict": "keep",
+    "reason": "Personally viewed both: the clean plate with a cut-open fried bun clearly shows dark sweet bean paste and battered shell, matching tempura manju and explicit supermarket tempura-manju caption. Stronger identifying interior view; CC BY-SA 4.0, Qurren credited.",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "candidate": 1088,
+    "id": "Q1885761",
+    "verdict": "keep",
+    "reason": "Personally viewed both: both show the identical plated thin slices of cured Mainz ham and share the explicit Mainzer Schinken caption. Retain this candidate once; CC BY-SA 3.0, Symposiarch credited.",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "candidate": 2375,
+    "id": "Q1885761",
+    "verdict": "drop",
+    "reason": "Personally viewed both: this is the identical cured-ham photograph as 1088, with no visual improvement or identity difference. Retain 1088 once."
+  },
+  {
+    "candidate": 3584,
+    "id": "Q5831612",
+    "verdict": "drop",
+    "reason": "Correct finished empanadico/pumpkin pastillo, but the close vertical crop cuts off much of the pastry. Candidate 1266 shows the whole finished pastry more clearly."
+  },
+  {
+    "candidate": 1266,
+    "id": "Q5831612",
+    "verdict": "keep",
+    "reason": "Personally compared both: complete overhead view shows the whole baked pumpkin pastillo with its browned, crimped crust, matching empanadico and explicit Barbastro pumpkin-pastillo caption. More complete presentation than 3584; CC BY-SA 4.0, Willtron credited.",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "candidate": 1936,
+    "id": "Q15822587",
+    "verdict": "keep",
+    "reason": "Personally compared both: this sharper finished Swedish cinnamon bun has clearly visible folded layers and pearl sugar, with explicit Stockholm cinnamon-roll caption. Cleaner food detail and verified credit than 2362; CC BY-SA 4.0, Kritzolina credited.",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "candidate": 2362,
+    "id": "Q15822587",
+    "verdict": "drop",
+    "reason": "Correct spiral cinnamon bun, but less sharp and more tightly framed than 1936; retain 1936. This candidate also lacks machine-readable Artist and image caption."
+  },
+  {
+    "candidate": 666,
+    "id": "Q11264339",
+    "verdict": "keep",
+    "reason": "Personally viewed both: both show the identical finished Karatsu burger in its wrapper and share the explicit Karatsu-burger caption. Retain this candidate once; CC0, さえぼー credited.",
+    "license": "CC0"
+  },
+  {
+    "candidate": 2826,
+    "id": "Q11264339",
+    "verdict": "drop",
+    "reason": "Personally viewed both: identical finished Karatsu-burger photograph as 666, with no visual or identity difference. Retain 666 once."
+  },
+  {
+    "candidate": 2026,
+    "id": "Q65235267",
+    "verdict": "keep",
+    "reason": "Personally compared both: close view of finished thick rice pudding in an earthen cup shows its texture and nut/saffron garnish more clearly than 2399. Explicit Firni/Phirni caption confirms dish; CC BY-SA 4.0, Sumit Surai credited.",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "candidate": 2399,
+    "id": "Q65235267",
+    "verdict": "drop",
+    "reason": "Valid finished firni, but the wider view leaves less visible pudding texture and food detail than 2026. Retain the closer identifying photograph."
+  },
+  {
+    "candidate": 2507,
+    "id": "Q10429947",
+    "verdict": "drop",
+    "reason": "Personally viewed both: this is the identical finished almond-filled birkabullar photograph as 1667, with no visual improvement. Retain 1667 once."
+  },
+  {
+    "candidate": 1667,
+    "id": "Q10429947",
+    "verdict": "keep",
+    "reason": "Personally viewed both: identical plate of finished poppy-seeded layered almond-filled birkabullar, matching the explicit birkabullar with almond-paste caption. Retain this candidate once; CC BY-SA 4.0, Raffe bergwall credited.",
+    "license": "CC BY-SA 4.0"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 657219,
+        "ns": 10,
+        "title": "Template:No rights reserved",
+        "revisions": [
+          {
+            "revid": 907783726,
+            "parentid": 905770430,
+            "timestamp": "2024-08-08T18:17:33Z",
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "<noinclude>{{deprecated|note=Please use one of the templates listed below.}} [[Category:Deprecated license tags]]</noinclude>\n{| class=\"layouttemplate\" cellspacing=\"8\" cellpadding=\"0\" style=\"width:100%; clear:both; margin:0.5em auto; background-color:#FFE2E0; border:3px solid #CC0000;\" dir=\"{{#dir:{{{lang|}}}}}\"\n| [[File:Green copyright.svg|45px|link=|Public domain]]\n| <div style=\"text-align: center;\">''This image is '''[[Wikipedia:Copyrights|copyrighted]].''' The copyright holder has '''irrevocably released all rights''' to it, allowing it to be freely reproduced, distributed, transmitted, used, modified, built upon, or otherwise exploited in any way by anyone for any purpose, commercial or non-commercial, with or without attribution of the author.''</div>\n|---\n| valign=\"center\" | [[File:Dialog-warning.svg|40px|Warning sign]]\n|'''''Note:'' This tag should not be used any more!''' If it is added to an image after Saturday September 10, 2011, it is liable to be tagged as {{tl|no license since}} – this will result in deletion after 7 days. Please use instead: \n*{{tl|PD-self}} (if the uploader releases the rights), \n*{{tlp|PD-user|''user''}} (if another user released their rights), or {{tl|Copyrighted free use}},\n**use {{tlp|PD-user-w|''[[m:Interlanguage_link#Prefixes|projectcode]]''&#124;''projectname''&#124;''username''}} for users with no account on Commons.\n*{{tlp|PD-author|''author''}} (if another person released their rights)\n*If the work is PD for another reason, check the [[Commons:Copyright_tags#Public_domain|copyright tag page]] or use {{tlp|PD-because|''reason''}}. \n|}<includeonly>{{#ifeq:{{NAMESPACE}}|File|{{{category|[[Category:No rights reserved|{{PAGENAME}}]]}}}}}</includeonly>"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 6264577,
+        "ns": 10,
+        "title": "Template:Copyrighted free use/en",
+        "revisions": [
+          {
+            "revid": 625772527,
+            "parentid": 607257495,
+            "timestamp": "2022-01-29T22:05:53Z",
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "#REDIRECT [[Template:Copyrighted free use/i18n/en]]"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
