@@ -8059,6 +8059,33 @@
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
     }
   },
+  "howtocook:aquatic:肉蟹煲": {
+    "imageUrl": "/images/world-dishes/crab-casserole.jpg",
+    "from": "https://m.xiachufang.com/recipe/103331442/",
+    "credit": {
+      "author": "下厨房",
+      "license": "License not stated",
+      "sourceUrl": "https://m.xiachufang.com/recipe/103331442/"
+    }
+  },
+  "howtocook:aquatic:芥末黄油罗氏虾:芥末黄油罗氏虾": {
+    "imageUrl": "/images/world-dishes/mustard-butter-prawns.jpg",
+    "from": "https://m.xiachufang.com/recipe/107789363/",
+    "credit": {
+      "author": "下厨房",
+      "license": "License not stated",
+      "sourceUrl": "https://m.xiachufang.com/recipe/107789363/"
+    }
+  },
+  "howtocook:aquatic:葱油桂鱼:葱油桂鱼": {
+    "imageUrl": "/images/world-dishes/scallion-oil-mandarin-fish.jpg",
+    "from": "https://mbdbj.xiachufang.com/recipe/103396439/",
+    "credit": {
+      "author": "下厨房",
+      "license": "License not stated",
+      "sourceUrl": "https://mbdbj.xiachufang.com/recipe/103396439/"
+    }
+  },
   "howtocook:aquatic:蒜蓉虾:蒜蓉虾": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/aquatic/%E8%92%9C%E8%93%89%E8%99%BE/1.jpeg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/aquatic/蒜蓉虾/蒜蓉虾.md"
@@ -8066,6 +8093,15 @@
   "howtocook:aquatic:蒜香黄油虾:蒜香黄油虾": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/aquatic/%E8%92%9C%E9%A6%99%E9%BB%84%E6%B2%B9%E8%99%BE/1.jpg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md"
+  },
+  "howtocook:aquatic:蛏抱蛋:蛏抱蛋": {
+    "imageUrl": "/images/world-dishes/razor-clam-omelette.jpg",
+    "from": "https://m.xiachufang.com/recipe/107472150/",
+    "credit": {
+      "author": "下厨房",
+      "license": "License not stated",
+      "sourceUrl": "https://m.xiachufang.com/recipe/107472150/"
+    }
   },
   "howtocook:aquatic:阳朔啤酒鱼:阳朔啤酒鱼": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/aquatic/%E9%98%B3%E6%9C%94%E5%95%A4%E9%85%92%E9%B1%BC/%E9%98%B3%E6%9C%94%E5%95%A4%E9%85%92%E9%B1%BC.png",
@@ -8086,6 +8122,15 @@
   "howtocook:aquatic:黄油煎虾:黄油煎虾": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/aquatic/%E9%BB%84%E6%B2%B9%E7%85%8E%E8%99%BE/%E9%BB%84%E6%B2%B9%E7%85%8E%E8%99%BE.jpg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/aquatic/黄油煎虾/黄油煎虾.md"
+  },
+  "howtocook:breakfast:桂圆红枣粥": {
+    "imageUrl": "/images/world-dishes/longan-jujube-rice-porridge.jpg",
+    "from": "https://icook.tw/recipes/92098",
+    "credit": {
+      "author": "一抹微雲 · 愛料理",
+      "license": "License not stated",
+      "sourceUrl": "https://icook.tw/recipes/92098"
+    }
   },
   "howtocook:breakfast:水煮玉米": {
     "image": "BoiledCornOnTheCob20211211.jpg",
