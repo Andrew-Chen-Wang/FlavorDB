@@ -1,0 +1,16 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      { "from": "Artes_culinarias/Recetas/Hallaca", "to": "Artes culinarias/Recetas/Hallaca" }
+    ],
+    "pages": {
+      "37342": {
+        "pageid": 37342,
+        "ns": 0,
+        "title": "Artes culinarias/Recetas/Hallaca",
+        "revisions": [{ "revid": 374219, "parentid": 360894, "timestamp": "2020-01-30T22:17:54Z" }]
+      }
+    }
+  }
+}

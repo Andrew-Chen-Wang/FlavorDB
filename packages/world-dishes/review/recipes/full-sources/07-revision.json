@@ -1,0 +1,19 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      {
+        "from": "Libro_di_cucina/Ricette/Parmigiana_di_melanzane",
+        "to": "Libro di cucina/Ricette/Parmigiana di melanzane"
+      }
+    ],
+    "pages": {
+      "14757": {
+        "pageid": 14757,
+        "ns": 0,
+        "title": "Libro di cucina/Ricette/Parmigiana di melanzane",
+        "revisions": [{ "revid": 468610, "parentid": 384544, "timestamp": "2025-01-02T00:21:19Z" }]
+      }
+    }
+  }
+}
