@@ -1,6 +1,6 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import path from "node:path"
-import type { WorldDish } from "./types"
+import type { ImageCredit, WorldDish } from "./types"
 
 export type * from "./types"
 
@@ -16,10 +16,10 @@ let cache: WorldDish[] | undefined
 
 /** Every imported dish. Reads the data files once, on first use. Server-side only. */
 /**
- * Photos found for dishes that came without one: on the dish's own recipe page or its Wikipedia
- * article. Kept apart from the dish files so a rebuild of those keeps them.
+ * Photos found for dishes that came without one, including reviewed Commons candidates. Kept
+ * apart from the dish files so a rebuild of those keeps them.
  */
-export type FoundImage = { image?: string; imageUrl?: string; from: string }
+export type FoundImage = { image?: string; imageUrl?: string; from: string; credit?: ImageCredit }
 
 /**
  * What each ingredient name or recipe line names on the shared ingredient list, read by people (or
@@ -64,6 +64,7 @@ export function loadWorldDishes(dataDir: string = DEFAULT_DATA_DIR): WorldDish[]
             ...(extra.image ? { image: extra.image } : {}),
             ...(extra.imageUrl ? { imageUrl: extra.imageUrl } : {}),
             imageFrom: extra.from,
+            ...(extra.credit ? { imageCredit: extra.credit } : {}),
           }
         }),
     )
