@@ -1,0 +1,15 @@
+{"audit": 1301, "lang": "fr", "text": "1 à 2 cuillères à café de piments séchés et écrasés", "ids": ["chili-flakes"], "reason": "Dried and crushed chillies match the existing chili-flakes shopping ingredient."}
+{"audit": 1302, "lang": "fr", "text": "1.000 g de poissons divers (vivaneau, chat, grand-gueule, tanche, thon, thazard...)", "ids": ["fish"], "reason": "Poissons divers requests assorted fish; the parenthesized species are examples, not six simultaneously required ingredients."}
+{"audit": 3452, "lang": "pl", "text": "50 dag żółtego sera", "ids": ["yellow-cheese"], "reason": "Polish żółty ser explicitly names the existing yellow-cheese ingredient."}
+{"audit": 3458, "lang": "pl", "text": "6–8 naleśników", "ids": ["crepes"], "reason": "Polish naleśniki are thin crepes; the vegetable crepe-cake method confirms this form."}
+{"audit": 3460, "lang": "pl", "text": "750 g ryb (leszcza, szczupaka)", "ids": ["common-bream"], "reason": "The parenthesized fish options are alternatives; use the first, common bream."}
+{"audit": 3464, "lang": "pl", "text": "budyń waniliowy", "ids": ["vanilla-pudding-mix"], "reason": "The cheesecake method adds vanilla budyń directly to the cheese-and-yolk mixture before baking; the existing vanilla-pudding-mix is the precise dry ingredient."}
+{"audit": 3467, "lang": "pl", "text": "Ciasto", "ids": ["pizza-dough"], "reason": "Both source recipes using this exact Ciasto ingredient use it as a pizza base, not a section heading."}
+{"audit": 4036, "lang": "en", "text": "1 kuli kuli, ground", "ids": ["kuli-kuli"], "reason": "Ground kuli-kuli is a prepared groundnut cake/snack, distinct from raw peanuts; add its precise shopping ingredient."}
+{"audit": 4798, "lang": "fr", "text": "1 quenelle de veau pour 2 personnes", "ids": ["veal-quenelle"], "reason": "The input names a prepared veal quenelle, not raw veal; add the prepared ingredient."}
+{"audit": 6234, "lang": "pl", "text": "850 dag masy makowej", "ids": ["poppy-seed-filling"], "reason": "Masa makowa is prepared sweet poppy-seed filling, distinct from plain poppy seeds."}
+{"audit": 5575, "lang": "labels", "text": "コリアンダーパウダー", "ids": ["coriander-powder"], "reason": "Explicit Japanese coriander powder is the existing ground spice, not whole coriander seed."}
+{"audit": 5541, "lang": "ja", "text": "コリアンダーパウダー: 小さじ1", "ids": ["coriander-powder"], "reason": "Explicit Japanese coriander powder names the ground spice rather than whole coriander seeds."}
+{"audit": 5542, "lang": "ja", "text": "コリアンダーパウダー: 小さじ2", "ids": ["coriander-powder"], "reason": "Explicit Japanese coriander powder names the ground spice rather than whole coriander seeds."}
+{"audit": 5543, "lang": "ja", "text": "コリアンダーパウダー：小さじ2", "ids": ["coriander-powder"], "reason": "Explicit Japanese coriander powder names the ground spice rather than whole coriander seeds."}
+{"audit": 3200, "lang": "labels", "text": "橄榄菜", "ids": ["olive-vegetable-relish"], "reason": "The dedicated olive-vegetable relish ingredient added by this audit resolves the reader's temporary preserved-olive fallback."}

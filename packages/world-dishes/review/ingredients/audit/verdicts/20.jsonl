@@ -1,0 +1,200 @@
+{"audit": 3884, "lang": "en", "text": "1 heaping tbsp red curry paste", "ids": ["red-curry-paste"]}
+{"audit": 3885, "lang": "en", "text": "1 heaping tsp (6.66 mL) of ground coffee beans", "ids": ["coffee"]}
+{"audit": 3886, "lang": "en", "text": "1 heaping tsp salt", "ids": ["salt"]}
+{"audit": 3887, "lang": "en", "text": "1 Honeycrisp apple, cored, peeled, and sliced into 12ths", "ids": ["apple"]}
+{"audit": 3888, "lang": "en", "text": "1 hot banana pepper, seeded and chopped", "ids": ["banana-pepper"]}
+{"audit": 3889, "lang": "en", "text": "1 hot chile pepper (such as jalapeno , finely chopped", "ids": ["green-chile"]}
+{"audit": 3890, "lang": "en", "text": "1 hot pepper (optional, for heat), chopped", "ids": ["green-chile"]}
+{"audit": 3891, "lang": "en", "text": "1 hot pepper, chopped (optional, for heat)", "ids": ["green-chile"]}
+{"audit": 3892, "lang": "en", "text": "1 hot pepper, chopped (remove seeds for less heat)", "ids": ["green-chile"]}
+{"audit": 3893, "lang": "en", "text": "1 inch piece of cinnamon stick or equivalent ground cinnamon", "ids": ["cinnamon"]}
+{"audit": 3894, "lang": "en", "text": "1 instant vegetable bouillon cube (enough to make 1 cup of bouillon), crushed", "ids": ["vegetable-stock-cube"], "reason": "The text specifies a vegetable bouillon cube; the precise vegetable-stock-cube id exists."}
+{"audit": 3895, "lang": "en", "text": "1 jalapeno, seeded and diced, or ½ teaspoon dried cayenne pepper (optional, Tabasco sauce can be added to individual bowls to adjust heat to taste)", "ids": ["jalapeno"]}
+{"audit": 3896, "lang": "en", "text": "1 jalapeño for heat (optional), diced", "ids": ["jalapeno"]}
+{"audit": 3897, "lang": "en", "text": "1 jalapeño or habanero chile, seeded and minced", "ids": ["jalapeno"]}
+{"audit": 3898, "lang": "en", "text": "1 jalapeño pepper, seeded and finely chopped (optional for spice)", "ids": ["jalapeno"]}
+{"audit": 3899, "lang": "en", "text": "1 jalapeño pepper, seeded and finely chopped (optional, for spice)", "ids": ["jalapeno"]}
+{"audit": 3900, "lang": "en", "text": "1 jalapeño pepper, seeded and minced", "ids": ["jalapeno"]}
+{"audit": 3901, "lang": "en", "text": "1 jalapeño, chopped", "ids": ["jalapeno"]}
+{"audit": 3902, "lang": "en", "text": "1 jalapeño, very finely diced", "ids": ["jalapeno"]}
+{"audit": 3903, "lang": "en", "text": "1 jar (11.75 ounces) plus 2 tablespoons hot fudge topping", "ids": ["hot-fudge"]}
+{"audit": 3904, "lang": "en", "text": "1 jar (12 ounces) of refrigerated chunky blue cheese dressing", "ids": ["blue-cheese-dressing"]}
+{"audit": 3905, "lang": "en", "text": "1 jar (16 ounces) marinara sauce", "ids": ["marinara-sauce"]}
+{"audit": 3906, "lang": "en", "text": "1 jar (16 ounces) medium chunky salsa", "ids": ["salsa"]}
+{"audit": 3907, "lang": "en", "text": "1 jar (16 ounces) mild chunky salsa", "ids": ["salsa"]}
+{"audit": 3908, "lang": "en", "text": "1 jar (16 oz) spaghetti sauce (or make it fresh)", "ids": ["spaghetti-sauce"]}
+{"audit": 3909, "lang": "en", "text": "1 jar (20 oz) sweet peppers, sliced and seeded", "ids": ["bell-pepper"]}
+{"audit": 3910, "lang": "en", "text": "1 jar (26 oz / 730 g) spaghetti sauce", "ids": ["spaghetti-sauce"]}
+{"audit": 3911, "lang": "en", "text": "1 jar (26 oz/740 g) pasta sauce", "ids": ["pasta-sauce"], "reason": "Generic pasta sauce is named; use the existing pasta-sauce id rather than narrowing it to spaghetti sauce."}
+{"audit": 3912, "lang": "en", "text": "1 jar (400 grams) mayonnaise (it's not worth making your own for this one)", "ids": ["mayonnaise"]}
+{"audit": 3913, "lang": "en", "text": "1 jar (6 ounces) artichoke hearts in brine, drained and chopped", "ids": ["artichoke"]}
+{"audit": 3914, "lang": "en", "text": "1 jar (7 ounces) roasted red peppers or pimentos", "ids": ["roasted-red-peppers"], "reason": "Roasted red peppers are the first choice and have a precise existing ingredient id."}
+{"audit": 3915, "lang": "en", "text": "1 jar (7 oz / 200 g) marshmallow creme", "ids": ["marshmallow-creme"]}
+{"audit": 3916, "lang": "en", "text": "1 jar of capers", "ids": ["capers"]}
+{"audit": 3917, "lang": "en", "text": "1 jar of grape jelly (US) or jam (UK)", "ids": ["grape-jelly"]}
+{"audit": 3918, "lang": "en", "text": "1 jar of grape leaves in brine, rinsed and drained", "ids": ["grape-leaves"]}
+{"audit": 3919, "lang": "en", "text": "1 jar of green olives", "ids": ["olives"]}
+{"audit": 3920, "lang": "en", "text": "1 jar of mixed pickles in mustard sauce", "ids": ["pickles"]}
+{"audit": 3921, "lang": "en", "text": "1 jar of smooth peanut butter", "ids": ["peanut-butter"]}
+{"audit": 3922, "lang": "en", "text": "1 jar of tomato puree, mixed with an equal volume of water", "ids": ["tomato-puree", "water"], "reason": "Tomato puree and an equal volume of water are both explicitly named; puree is not generic ready-made tomato sauce."}
+{"audit": 3923, "lang": "en", "text": "1 jar pasta sauce, approximately 300–400 g", "ids": ["pasta-sauce"], "reason": "The requested ingredient is generic pasta sauce; an exact pasta-sauce id exists."}
+{"audit": 3924, "lang": "en", "text": "1 jar pizza sauce", "ids": ["pizza-sauce"]}
+{"audit": 3925, "lang": "en", "text": "1 jar sauerkraut", "ids": ["sauerkraut"]}
+{"audit": 3926, "lang": "en", "text": "1 joint (about 3 pounds / 1.5 kg) of good quality beef rib or rolled rib beef", "ids": ["beef-ribs"], "reason": "The named beef-rib or rolled-rib joint is more precisely represented by existing beef-ribs than generic beef."}
+{"audit": 3927, "lang": "en", "text": "1 Kaiser bun, sliced in half", "ids": ["bread-bun"]}
+{"audit": 3928, "lang": "en", "text": "1 kg (2 lb 3 oz) potatoes (any variety, though some prefer red)", "ids": ["potato"]}
+{"audit": 3929, "lang": "en", "text": "1 kg (2 lb) cows' milk mozzarella cheese, known in Italy as fiordilatte", "ids": ["mozzarella"]}
+{"audit": 3930, "lang": "en", "text": "1 kg (2 lb) fresh tomatoes", "ids": ["tomato"]}
+{"audit": 3931, "lang": "en", "text": "1 kg (2 lb) live clams", "ids": ["clams"]}
+{"audit": 3932, "lang": "en", "text": "1 kg (2 lbs) potatoes, peeled, quartered and cut in 7 mm (⅓ in) thick slices", "ids": ["potato"]}
+{"audit": 3933, "lang": "en", "text": "1 kg (2 pound) piece of beef brisket", "ids": ["beef-brisket"]}
+{"audit": 3934, "lang": "en", "text": "1 kg (2 pounds) cipollini or yellow onions, roughly chopped", "ids": ["onion"]}
+{"audit": 3935, "lang": "en", "text": "1 kg (2 pounds) potatoes", "ids": ["potato"]}
+{"audit": 3936, "lang": "en", "text": "1 kg (2 quarts) flour", "ids": ["flour"]}
+{"audit": 3937, "lang": "en", "text": "1 kg (2.2 lb / 8 cups) powdered sugar", "ids": ["powdered-sugar"]}
+{"audit": 3938, "lang": "en", "text": "1 kg (2.2 lb) regular grade beef mince (ground beef)", "ids": ["ground-beef"]}
+{"audit": 3939, "lang": "en", "text": "1 kg (2.2 lbs) boneless beef or lamb cubes", "ids": ["beef"]}
+{"audit": 3940, "lang": "en", "text": "1 kg (2.2 lbs) ground beef", "ids": ["ground-beef"]}
+{"audit": 3941, "lang": "en", "text": "1 kg (2.2 lbs) minced/ground beef or lamb", "ids": ["ground-beef"]}
+{"audit": 3942, "lang": "en", "text": "1 kg (2.25 lbs) mangoes, deseeded", "ids": ["mango"]}
+{"audit": 3943, "lang": "en", "text": "1 kg (2.25 lbs) pork shoulder", "ids": ["pork-shoulder"]}
+{"audit": 3944, "lang": "en", "text": "1 kg (2.5 lbs) of round beef", "ids": ["beef"]}
+{"audit": 3945, "lang": "en", "text": "1 kg (35 oz) sesame oil (gingelly oil)", "ids": ["sesame-oil"]}
+{"audit": 3946, "lang": "en", "text": "1 kg (5 cups) flour", "ids": ["flour"]}
+{"audit": 3947, "lang": "en", "text": "1 kg (5 cups) white granulated sugar", "ids": ["sugar"]}
+{"audit": 3948, "lang": "en", "text": "1 kg (7 cups) all-purpose flour", "ids": ["flour"]}
+{"audit": 3949, "lang": "en", "text": "1 kg (about 2 lb) mixture of duck or goose meat, Toulouse sausages (strong garlic sausage), pork, and/or mutton", "ids": ["duck", "toulouse-sausage", "pork", "lamb"], "reason": "The meat mixture explicitly names Toulouse sausage, for which a precise id exists; retain the other named meat components and first duck option."}
+{"audit": 3950, "lang": "en", "text": "1 kg (about 2 lbs) mixed carrot and swede", "ids": ["carrot", "rutabaga"]}
+{"audit": 3951, "lang": "en", "text": "1 kg (about 8 cups) flour", "ids": ["flour"]}
+{"audit": 3952, "lang": "en", "text": "1 kg (~2.25 lbs) shrimp with shells on", "ids": ["shrimp"]}
+{"audit": 3953, "lang": "en", "text": "1 kg all-purpose flour", "ids": ["flour"]}
+{"audit": 3954, "lang": "en", "text": "1 kg apples", "ids": ["apple"]}
+{"audit": 3955, "lang": "en", "text": "1 kg apples (optional), sliced", "ids": ["apple"]}
+{"audit": 3956, "lang": "en", "text": "1 kg assorted meat (beef, goat, cow tripe, etc.)", "ids": ["beef", "goat", "beef-tripe"], "unusual": "Assorted meats explicitly include cow tripe/offal; preserved for user review of unusual ingredients."}
+{"audit": 3957, "lang": "en", "text": "1 kg banana leaves (fresh or thawed)", "ids": ["banana-leaves"]}
+{"audit": 3958, "lang": "en", "text": "1 kg Basmati rice", "ids": ["basmati-rice"], "reason": "Basmati rice is explicitly named and has a precise existing id."}
+{"audit": 3959, "lang": "en", "text": "1 kg beef (blade steak or stewing shoulder cut)", "ids": ["beef"]}
+{"audit": 3960, "lang": "en", "text": "1 kg beef flank steak, cut in bite-sized pieces", "ids": ["flank-steak"], "reason": "Beef flank steak is an explicitly specified cut with an existing precise id."}
+{"audit": 3961, "lang": "en", "text": "1 kg beef mince", "ids": ["ground-beef"]}
+{"audit": 3962, "lang": "en", "text": "1 kg beef shank with cartilage, sliced into 2 mm thick pieces and cut about 4 x 4 cm", "ids": ["beef-shank"], "reason": "Beef shank is explicitly specified and has a precise existing id."}
+{"audit": 3963, "lang": "en", "text": "1 kg beef with bones", "ids": ["beef"]}
+{"audit": 3964, "lang": "en", "text": "1 kg beef, cut into big cubes to make 20 pieces", "ids": ["beef"]}
+{"audit": 3965, "lang": "en", "text": "1 kg beef, washed and cut into bite-size cubes", "ids": ["beef"]}
+{"audit": 3966, "lang": "en", "text": "1 kg bell pepper", "ids": ["bell-pepper"]}
+{"audit": 3967, "lang": "en", "text": "1 kg boiled beef (preferably flank steak, but any meat with long threads will do)", "ids": ["beef"]}
+{"audit": 3968, "lang": "en", "text": "1 kg boiled potatoes", "ids": ["potato"]}
+{"audit": 3969, "lang": "en", "text": "1 kg carrots, peeled and finely grated", "ids": ["carrot"]}
+{"audit": 3970, "lang": "en", "text": "1 kg cassava", "ids": ["cassava"]}
+{"audit": 3971, "lang": "en", "text": "1 kg chicken gizzard, washed", "ids": ["chicken-gizzard"], "unusual": "Chicken gizzard/offal is explicitly requested; retained for user review of unusual ingredients."}
+{"audit": 3972, "lang": "en", "text": "1 kg chicken pieces", "ids": ["chicken"]}
+{"audit": 3973, "lang": "en", "text": "1 kg chicken, cut into slightly bigger pieces than usually used for curry, soaked 20 minutes in water and washed", "ids": ["chicken"]}
+{"audit": 3974, "lang": "en", "text": "1 kg chicken, preferably in 16 pieces, and a couple of drumsticks", "ids": ["chicken"]}
+{"audit": 3975, "lang": "en", "text": "1 kg cooked potatoes, mashed", "ids": ["potato"]}
+{"audit": 3976, "lang": "en", "text": "1 kg cow rib", "ids": ["beef-ribs"], "reason": "Cow rib is beef ribs; use the existing cut-specific id."}
+{"audit": 3977, "lang": "en", "text": "1 kg diced venison, rinsed and dried", "ids": ["venison"]}
+{"audit": 3978, "lang": "en", "text": "1 kg fish filets", "ids": ["fish"]}
+{"audit": 3979, "lang": "en", "text": "1 kg flour", "ids": ["flour"]}
+{"audit": 3980, "lang": "en", "text": "1 kg floury potatoes (e.g. Yukon gold)", "ids": ["potato"]}
+{"audit": 3981, "lang": "en", "text": "1 kg fresh white fish, cut into two finger-wide strips/slices", "ids": ["white-fish"]}
+{"audit": 3982, "lang": "en", "text": "1 kg frozen spinach, defrosted", "ids": ["spinach"]}
+{"audit": 3983, "lang": "en", "text": "1 kg fruit mince mixture", "ids": ["mincemeat"]}
+{"audit": 3984, "lang": "en", "text": "1 kg glutinous rice", "ids": ["glutinous-rice"]}
+{"audit": 3985, "lang": "en", "text": "1 kg goat, catfish, chicken, or assorted meats", "ids": ["goat"]}
+{"audit": 3986, "lang": "en", "text": "1 kg goat/lamb/beef/chicken meat, cut into thick chunks", "ids": ["goat"]}
+{"audit": 3987, "lang": "en", "text": "1 kg ground beef", "ids": ["ground-beef"]}
+{"audit": 3988, "lang": "en", "text": "1 kg high-protein (e.g. bread) flour", "ids": ["bread-flour"], "reason": "High-protein bread flour is requested; use the existing bread-flour id rather than generic flour."}
+{"audit": 3989, "lang": "en", "text": "1 kg hilsa fish (kelee shad), cut into 10 pieces", "ids": ["hilsa"]}
+{"audit": 3990, "lang": "en", "text": "1 kg horse meat", "ids": ["horse-meat"], "unusual": "Horse meat is explicitly requested; retained and flagged for user decision on unusual ingredients."}
+{"audit": 3991, "lang": "en", "text": "1 kg instant polenta meal (coarse corn meal)", "ids": ["cornmeal"]}
+{"audit": 3992, "lang": "en", "text": "1 kg lamb, cut into 1 x 5 cm pieces", "ids": ["lamb"]}
+{"audit": 3993, "lang": "en", "text": "1 kg lean minced meat (beef or lamb)", "ids": ["ground-beef"]}
+{"audit": 3994, "lang": "en", "text": "1 kg lean pork mince", "ids": ["ground-pork"]}
+{"audit": 3995, "lang": "en", "text": "1 kg live, whole crab (preferably mud crab, but other similar types like blue, Dungeness, or common will also work)", "ids": ["crab"]}
+{"audit": 3996, "lang": "en", "text": "1 kg low-cost, tougher beef meat (e.g. beef chuck)", "ids": ["beef"]}
+{"audit": 3997, "lang": "en", "text": "1 kg maize flour", "ids": ["corn-flour"], "reason": "Maize flour is explicitly flour, not the coarser cornmeal; an existing corn-flour id represents it."}
+{"audit": 3998, "lang": "en", "text": "1 kg meat", "ids": ["meat"]}
+{"audit": 3999, "lang": "en", "text": "1 kg medium-sized prawns (shrimp), cleaned with tails removed", "ids": ["shrimp"]}
+{"audit": 4000, "lang": "en", "text": "1 kg minced meat (approximately 60% pork + 40% beef)", "ids": ["ground-pork", "ground-beef"]}
+{"audit": 4001, "lang": "en", "text": "1 kg octopus, cleaned and cut into pieces", "ids": ["octopus"]}
+{"audit": 4002, "lang": "en", "text": "1 kg of minced meat", "ids": ["ground-meat"], "reason": "Minced meat names the ground form; an existing ground-meat id is more precise than generic meat."}
+{"audit": 4003, "lang": "en", "text": "1 kg of potatoes, peeled and cut into large slices", "ids": ["potato"]}
+{"audit": 4004, "lang": "en", "text": "1 kg of sliced cabbage", "ids": ["cabbage"]}
+{"audit": 4005, "lang": "en", "text": "1 kg organic tomatoes, chopped", "ids": ["tomato"]}
+{"audit": 4006, "lang": "en", "text": "1 kg palm nut cream", "ids": ["palm-nut-cream"]}
+{"audit": 4007, "lang": "en", "text": "1 kg palmyra palm fruit (Borassus flabellifer)", "ids": ["palmyra-palm-fruit"]}
+{"audit": 4008, "lang": "en", "text": "1 kg pork", "ids": ["pork"]}
+{"audit": 4009, "lang": "en", "text": "1 kg pork belly", "ids": ["pork-belly"]}
+{"audit": 4010, "lang": "en", "text": "1 kg pork loin", "ids": ["pork-loin"], "reason": "Pork loin is explicitly specified and has a precise existing id."}
+{"audit": 4011, "lang": "en", "text": "1 kg pork shoulder", "ids": ["pork-shoulder"]}
+{"audit": 4012, "lang": "en", "text": "1 kg potatoes", "ids": ["potato"]}
+{"audit": 4013, "lang": "en", "text": "1 kg potatoes, peeled and chopped", "ids": ["potato"]}
+{"audit": 4014, "lang": "en", "text": "1 kg potatoes, peeled and finely chopped", "ids": ["potato"]}
+{"audit": 4015, "lang": "en", "text": "1 kg raw ground pork", "ids": ["ground-pork"]}
+{"audit": 4016, "lang": "en", "text": "1 kg red bell pepper of the gogoșar variety", "ids": ["bell-pepper"]}
+{"audit": 4017, "lang": "en", "text": "1 kg red bell peppers", "ids": ["bell-pepper"]}
+{"audit": 4018, "lang": "en", "text": "1 kg red cabbage, finely sliced", "ids": ["red-cabbage"]}
+{"audit": 4019, "lang": "en", "text": "1 kg rice", "ids": ["rice"]}
+{"audit": 4020, "lang": "en", "text": "1 kg rice flour", "ids": ["rice-flour"]}
+{"audit": 4021, "lang": "en", "text": "1 kg salt", "ids": ["salt"]}
+{"audit": 4022, "lang": "en", "text": "1 kg thin rice noodles", "ids": ["rice-noodles"]}
+{"audit": 4023, "lang": "en", "text": "1 kg uncooked rice, rinsed", "ids": ["rice"]}
+{"audit": 4024, "lang": "en", "text": "1 kg white all-purpose wheat flour", "ids": ["flour"]}
+{"audit": 4025, "lang": "en", "text": "1 kg white granulated sugar", "ids": ["sugar"]}
+{"audit": 4026, "lang": "en", "text": "1 kg white soft cheese", "ids": ["fresh-white-cheese"], "reason": "White soft cheese is a broad fresh-white-cheese ingredient, not necessarily the specific quark variety."}
+{"audit": 4027, "lang": "en", "text": "1 kg white wheat flour", "ids": ["flour"]}
+{"audit": 4028, "lang": "en", "text": "1 kg whole fish (carp or snapper)", "ids": ["carp"]}
+{"audit": 4029, "lang": "en", "text": "1 kg whole milkfish", "ids": ["milkfish"]}
+{"audit": 4030, "lang": "en", "text": "1 kg zucchini or other firm, large squash", "ids": ["zucchini"]}
+{"audit": 4031, "lang": "en", "text": "1 kilogram fresh palm fruits (or canned palm fruit concentrate)", "ids": ["palm-fruit"]}
+{"audit": 4032, "lang": "en", "text": "1 knob (1–2 tablespoons) butter", "ids": ["butter"]}
+{"audit": 4033, "lang": "en", "text": "1 knob of butter", "ids": ["butter"]}
+{"audit": 4034, "lang": "en", "text": "1 kohlrabi (colinabo), roughly diced", "ids": ["kohlrabi"]}
+{"audit": 4035, "lang": "en", "text": "1 kolbász (Hungarian sausage) or 1 cup diced ham (optional)", "ids": ["pork-sausage"]}
+{"audit": 4036, "lang": "en", "text": "1 kuli kuli, ground", "ids": ["peanuts"], "unusual": "Kuli-kuli is a prepared groundnut cake/snack rather than plain peanuts. No kuli-kuli id exists in the supplied vocabulary; retain peanut fallback pending addition of a specific prepared-ingredient id."}
+{"audit": 4037, "lang": "en", "text": "1 L (1 qt) beef broth", "ids": ["beef-stock"]}
+{"audit": 4038, "lang": "en", "text": "1 L (4 cups) milk", "ids": ["milk"]}
+{"audit": 4039, "lang": "en", "text": "1 L beef stock or 2 stock cubes dissolved in 1 L of water.", "ids": ["beef-stock"]}
+{"audit": 4040, "lang": "en", "text": "1 L broth", "ids": ["stock"]}
+{"audit": 4041, "lang": "en", "text": "1 L chicken broth", "ids": ["chicken-stock"]}
+{"audit": 4042, "lang": "en", "text": "1 L fresh tomato juice", "ids": ["tomato-juice"], "reason": "Fresh tomato juice is explicitly named and has an existing tomato-juice id."}
+{"audit": 4043, "lang": "en", "text": "1 L fresh, unsweetened orange juice", "ids": ["orange-juice"]}
+{"audit": 4044, "lang": "en", "text": "1 L milk", "ids": ["milk"]}
+{"audit": 4045, "lang": "en", "text": "1 L sour milk or cultured buttermilk", "ids": ["sour-milk"], "reason": "Sour milk is the first ingredient option; cultured buttermilk is the alternative."}
+{"audit": 4046, "lang": "en", "text": "1 L tomato sauce", "ids": ["tomato-sauce"]}
+{"audit": 4047, "lang": "en", "text": "1 L vegetable oil for deep frying", "ids": ["vegetable-oil"]}
+{"audit": 4048, "lang": "en", "text": "1 L water", "ids": ["water"]}
+{"audit": 4049, "lang": "en", "text": "1 large (1 cup/150 g) coarsely-chopped onion", "ids": ["onion"]}
+{"audit": 4050, "lang": "en", "text": "1 large (2 lb) smoked haddock, preferably Finny haddock", "ids": ["smoked-haddock"], "reason": "Smoked haddock is specifically requested and has a precise existing id."}
+{"audit": 4051, "lang": "en", "text": "1 large (2.5 kg / 5 lb) fresh cabbage", "ids": ["cabbage"]}
+{"audit": 4052, "lang": "en", "text": "1 large (about 2 kg) whole rabbit", "ids": ["rabbit"]}
+{"audit": 4053, "lang": "en", "text": "1 large (~2 lbs / 1 kg) whole fish, cleaned", "ids": ["fish"]}
+{"audit": 4054, "lang": "en", "text": "1 large avocado, peeled and sliced", "ids": ["avocado"]}
+{"audit": 4055, "lang": "en", "text": "1 large bag of egg noodles", "ids": ["egg-noodles"]}
+{"audit": 4056, "lang": "en", "text": "1 large bag shredded cheddar cheese", "ids": ["cheddar"]}
+{"audit": 4057, "lang": "en", "text": "1 large baking potato", "ids": ["potato"]}
+{"audit": 4058, "lang": "en", "text": "1 large banana", "ids": ["banana"]}
+{"audit": 4059, "lang": "en", "text": "1 large bunch cilantro macho or common cilantro, washed (with roots if possible but just the leaves and stems are fine)", "ids": ["culantro"], "reason": "Cilantro macho is culantro, the first option; common cilantro is the second alternative."}
+{"audit": 4060, "lang": "en", "text": "1 large bunch cilantro, washed", "ids": ["cilantro"]}
+{"audit": 4061, "lang": "en", "text": "1 large bunch fresh coriander (cilantro), roughly chopped", "ids": ["cilantro"]}
+{"audit": 4062, "lang": "en", "text": "1 large bunch of collard greens, washed and chopped", "ids": ["collard-greens"]}
+{"audit": 4063, "lang": "en", "text": "1 large bunch of fresh herbs (coriander leaf, thyme, parsley, celery)", "ids": ["cilantro", "thyme", "parsley", "celery"]}
+{"audit": 4064, "lang": "en", "text": "1 large can (12 ounces) tomato paste", "ids": ["tomato-paste"]}
+{"audit": 4065, "lang": "en", "text": "1 large can (12 oz) tuna", "ids": ["canned-tuna"]}
+{"audit": 4066, "lang": "en", "text": "1 large can (14.5 oz / 411 g) of chopped tomatoes, or more", "ids": ["canned-tomatoes"], "reason": "The ingredient is explicitly canned chopped tomatoes; a precise canned-tomatoes id exists."}
+{"audit": 4067, "lang": "en", "text": "1 large can (16 oz) stewed tomatoes", "ids": ["canned-tomatoes"], "reason": "Canned stewed tomatoes are specified; use the existing canned-tomatoes id."}
+{"audit": 4068, "lang": "en", "text": "1 large can (53 ounces) pork and beans", "ids": ["pork-and-beans"]}
+{"audit": 4069, "lang": "en", "text": "1 large can (~28 oz) sauerkraut", "ids": ["sauerkraut"]}
+{"audit": 4070, "lang": "en", "text": "1 large can (~397 g / 14 oz) crushed or sliced pineapple", "ids": ["pineapple"]}
+{"audit": 4071, "lang": "en", "text": "1 large can crushed tomatoes", "ids": ["canned-tomatoes"], "reason": "Canned crushed tomatoes are specified; use the existing canned-tomatoes id."}
+{"audit": 4072, "lang": "en", "text": "1 large can evaporated milk", "ids": ["evaporated-milk"]}
+{"audit": 4073, "lang": "en", "text": "1 large can of diced tomatoes", "ids": ["canned-tomatoes"], "reason": "Canned diced tomatoes are specified; use the existing canned-tomatoes id."}
+{"audit": 4074, "lang": "en", "text": "1 large can plus 1 small can whole tomatoes, crushed by hand with juices", "ids": ["canned-tomatoes"], "reason": "Both cans contain whole tomatoes; crushing by hand does not change the canned ingredient."}
+{"audit": 4075, "lang": "en", "text": "1 large can tomatoes", "ids": ["canned-tomatoes"], "reason": "A can of tomatoes is explicitly requested; use the precise existing canned-tomatoes id."}
+{"audit": 4076, "lang": "en", "text": "1 large capsicum (bell pepper)", "ids": ["bell-pepper"]}
+{"audit": 4077, "lang": "en", "text": "1 large Cara Cara orange", "ids": ["orange"]}
+{"audit": 4078, "lang": "en", "text": "1 large carrot, cubed", "ids": ["carrot"]}
+{"audit": 4079, "lang": "en", "text": "1 large carrot, peeled", "ids": ["carrot"]}
+{"audit": 4080, "lang": "en", "text": "1 large carrot, peeled and chopped", "ids": ["carrot"]}
+{"audit": 4081, "lang": "en", "text": "1 large carrot, peeled and diced", "ids": ["carrot"]}
+{"audit": 4082, "lang": "en", "text": "1 large carrot, shredded", "ids": ["carrot"]}
+{"audit": 4083, "lang": "en", "text": "1 large cauliflower head", "ids": ["cauliflower"]}

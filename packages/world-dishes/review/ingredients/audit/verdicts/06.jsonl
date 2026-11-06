@@ -1,0 +1,200 @@
+{"audit": 1200, "lang": "es", "text": "Flor de calabaza o carne de cerdo molida guisada (2 flores o al gusto)", "ids": ["squash-blossom"]}
+{"audit": 1201, "lang": "es", "text": "Galletas María (1 paquete)", "ids": ["marie-biscuits"]}
+{"audit": 1202, "lang": "es", "text": "garbanzos,", "ids": ["chickpeas"]}
+{"audit": 1203, "lang": "es", "text": "Gofio (cantidad al gusto)", "ids": ["gofio"]}
+{"audit": 1204, "lang": "es", "text": "grelos", "ids": ["turnip-greens"]}
+{"audit": 1205, "lang": "es", "text": "Hojas de limonero", "ids": ["lemon-leaves"]}
+{"audit": 1206, "lang": "es", "text": "Huacatay", "ids": ["huacatay"]}
+{"audit": 1207, "lang": "es", "text": "Hígado de res", "ids": ["beef-liver"]}
+{"audit": 1208, "lang": "es", "text": "Jamaica, 1 cucharadita", "ids": ["hibiscus"]}
+{"audit": 1209, "lang": "es", "text": "Langostinos (24 unidades)", "ids": ["prawns"]}
+{"audit": 1210, "lang": "es", "text": "Leche (500 ml)", "ids": ["milk"]}
+{"audit": 1211, "lang": "es", "text": "Marísco Gambas, Cigalas, Bogavante", "ids": ["shrimp", "langoustines", "lobster"]}
+{"audit": 1212, "lang": "es", "text": "masa de crepes", "ids": ["crepe-batter"]}
+{"audit": 1213, "lang": "es", "text": "masa para empanadas", "ids": ["empanada-dough"]}
+{"audit": 1214, "lang": "es", "text": "Mojo verde (para acompañar)", "ids": ["mojo-verde"]}
+{"audit": 1215, "lang": "es", "text": "Morro", "ids": ["pig-snout"]}
+{"audit": 1216, "lang": "es", "text": "Morro de cerdo", "ids": ["pig-snout"]}
+{"audit": 1217, "lang": "es", "text": "Onzas de chocolate (el que os guste)", "ids": ["chocolate"]}
+{"audit": 1218, "lang": "es", "text": "opcional Chile chipotle", "ids": ["chipotle"]}
+{"audit": 1219, "lang": "es", "text": "Opcionalmente: 8 cigalas frescas.", "ids": ["langoustines"]}
+{"audit": 1220, "lang": "es", "text": "Paico", "ids": ["paico"]}
+{"audit": 1221, "lang": "es", "text": "Pan francés para acompañar.", "ids": ["french-bread"]}
+{"audit": 1222, "lang": "es", "text": "Papelón derretido en agua al gusto", "ids": ["papelon", "water"], "reason": "Papelon is explicitly dissolved in water; retain both named ingredients."}
+{"audit": 1223, "lang": "es", "text": "para acompañar Pan de barra", "ids": ["french-bread"]}
+{"audit": 1224, "lang": "es", "text": "Pedregüela, tomillo, romero, orégano, perejil.", "ids": ["pedreguela", "thyme", "rosemary", "oregano", "parsley"]}
+{"audit": 1225, "lang": "es", "text": "Pescadilla troceada en tacos.", "ids": ["whiting"]}
+{"audit": 1226, "lang": "es", "text": "Pimentón dulce, 1 cucharadita.", "ids": ["paprika"]}
+{"audit": 1227, "lang": "es", "text": "Pimienta picona (al gusto)", "ids": ["picona-pepper"]}
+{"audit": 1228, "lang": "es", "text": "pimientos de piquillo", "ids": ["piquillo-pepper"]}
+{"audit": 1229, "lang": "es", "text": "Plátanos verdes", "ids": ["green-plantain"]}
+{"audit": 1230, "lang": "es", "text": "Plátanos verdes (½ kilo, 2–3 unidades)", "ids": ["green-plantain"]}
+{"audit": 1231, "lang": "es", "text": "Queso costeño rallado", "ids": ["costeno-cheese"]}
+{"audit": 1232, "lang": "es", "text": "Sal (Al gusto)", "ids": ["salt"]}
+{"audit": 1233, "lang": "es", "text": "salsa agridulce al microondas.", "ids": ["sweet-and-sour-sauce"]}
+{"audit": 1234, "lang": "es", "text": "Salsa americana (1 vasito)", "ids": ["american-sauce"]}
+{"audit": 1235, "lang": "es", "text": "salsa de ají chileno o una porción de pebre (opcional)", "ids": ["aji-sauce"], "reason": "The first alternative is Chilean aji sauce; pebre is the second alternative."}
+{"audit": 1236, "lang": "es", "text": "Salsa vizcaína", "ids": ["vizcaina-sauce"]}
+{"audit": 1237, "lang": "es", "text": "Salsa Wa Yen", "ids": ["wa-yen-sauce"]}
+{"audit": 1238, "lang": "es", "text": "Tomates maduros", "ids": ["tomato"]}
+{"audit": 1239, "lang": "es", "text": "tres morros salados,", "ids": ["pig-snout"]}
+{"audit": 1240, "lang": "es", "text": "Trozos de pan francés (como acompañamiento)", "ids": ["french-bread"]}
+{"audit": 1241, "lang": "es", "text": "Un puñado de Guacas o guascas", "ids": ["guasca"]}
+{"audit": 1242, "lang": "es", "text": "un sobre de gaseosa", "ids": ["baking-powder"], "reason": "A sachet of gaseosa is dry raising powder, not the soda beverage."}
+{"audit": 1243, "lang": "es", "text": "Un sobre preparado flan sabor vainilla", "ids": ["flan-mix"]}
+{"audit": 1244, "lang": "es", "text": "Una cucharadita de pimiento choricero en conserva (parece raro pero seguro lo encontraréis en cualquier supermercado aunque podéis sustituirlo por pimentón dulce)", "ids": ["choricero-pepper"]}
+{"audit": 1245, "lang": "es", "text": "Una o dos lonchas de jamón", "ids": ["ham"]}
+{"audit": 1246, "lang": "es", "text": "Una o dos lonchas de queso", "ids": ["cheese"]}
+{"audit": 1247, "lang": "es", "text": "Una pastilla de caldo de marisco o pescado.", "ids": ["seafood-stock"], "reason": "The first alternative is shellfish/seafood stock in a cube; fish is the second choice."}
+{"audit": 1248, "lang": "es", "text": "Una tripa gorda u ocote.", "ids": ["sausage-casing"]}
+{"audit": 1249, "lang": "es", "text": "Vaso de vino tinto.", "ids": ["red-wine"]}
+{"audit": 1250, "lang": "es", "text": "Verduras liofilizadas", "ids": ["dried-vegetables"]}
+{"audit": 1251, "lang": "es", "text": "Zumo de limón", "ids": ["lemon"]}
+{"audit": 1252, "lang": "es", "text": "¼ taza de Almíbar", "ids": ["simple-syrup"]}
+{"audit": 1253, "lang": "es", "text": "½ kg de callos de cordero", "ids": ["lamb-tripe"]}
+{"audit": 1254, "lang": "es", "text": "½ kg de hígado de cordero", "ids": ["lamb-liver"]}
+{"audit": 1255, "lang": "es", "text": "½ kg de Menudencia de pollo", "ids": ["chicken-giblets"], "reason": "Menudencia de pollo means chicken giblets, for which a more specific existing id is available."}
+{"audit": 1256, "lang": "es", "text": "½ kg de sangre de cordero cocida", "ids": ["lamb-blood"], "unusual": "Cooked lamb blood is a real traditional ingredient; retain for user decision."}
+{"audit": 1257, "lang": "es", "text": "½ kilo de dorado", "ids": ["mahi-mahi"]}
+{"audit": 1258, "lang": "es", "text": "½ kilogramo de berberechos frescos (o 1 kg si tiene un recipiento para microondas grande).", "ids": ["cockles"]}
+{"audit": 1259, "lang": "es", "text": "⅜ -algo menos de medio litro- de suero Silva –o parecido-", "ids": ["whey"]}
+{"audit": 1260, "lang": "fr", "text": "\"crustacés\": petits crabes verts, \"cigales\", moules (contestés),", "ids": ["crab", "slipper-lobster", "mussels"]}
+{"audit": 1261, "lang": "fr", "text": "\"Poissons fermes\" : rascasse, grondin, vive, fielas, baudroie (contestée),", "ids": ["scorpionfish", "gurnard", "weever", "fielas", "monkfish"]}
+{"audit": 1262, "lang": "fr", "text": "\"Poissons tendres\" : loup, roucaou, saint-pierre,", "ids": ["sea-bass", "fish", "john-dory"], "reason": "Roucaou is not identified as red mullet by this text; use generic fish for that unmatched local name while retaining the other named fish.", "note": "Local fish name roucaou needs a verified specific ingredient id if finer species matching is desired."}
+{"audit": 1263, "lang": "fr", "text": "1 abaisse de pâte sucrée,", "ids": ["sweet-pastry"]}
+{"audit": 1264, "lang": "fr", "text": "1 c. à c. de graines de coriandre", "ids": ["coriander-seed"]}
+{"audit": 1265, "lang": "fr", "text": "1 crépine de porc,", "ids": ["pork-caul"]}
+{"audit": 1266, "lang": "fr", "text": "1 cuil. à café d'amande amère", "ids": ["bitter-almond"]}
+{"audit": 1267, "lang": "fr", "text": "1 cuiller à café de baies roses et une autre de thym", "ids": ["pink-peppercorns", "thyme"]}
+{"audit": 1268, "lang": "fr", "text": "1 cuillerée à soupe de sirop de sucre,", "ids": ["simple-syrup"]}
+{"audit": 1269, "lang": "fr", "text": "1 cuillère à café d'ail en poudre,", "ids": ["garlic-powder"], "reason": "The line explicitly specifies powdered garlic and that specific id exists."}
+{"audit": 1270, "lang": "fr", "text": "1 cuillère à café de feuilles de thé", "ids": ["tea-leaves"]}
+{"audit": 1271, "lang": "fr", "text": "1 cuillère à soupe de crème de menthe", "ids": ["mint-liqueur"]}
+{"audit": 1272, "lang": "fr", "text": "1 cuillère à soupe de Schabziger râpé et ajouté en fin de cuisson pour les Röstis à la glaronaise", "ids": ["schabziger"]}
+{"audit": 1273, "lang": "fr", "text": "1 cuillère à soupe de tamari", "ids": ["tamari"]}
+{"audit": 1274, "lang": "fr", "text": "1 demi-citron", "ids": ["lemon"]}
+{"audit": 1275, "lang": "fr", "text": "1 foie d'agneau", "ids": ["lamb-liver"]}
+{"audit": 1276, "lang": "fr", "text": "1 kg 500 de poissons variés (merlan, baudroie, rouget, congre)", "ids": ["whiting", "monkfish", "red-mullet", "conger-eel"]}
+{"audit": 1277, "lang": "fr", "text": "1 kg de pommes de terre à chair ferme (Charlotte)", "ids": ["potato"]}
+{"audit": 1278, "lang": "fr", "text": "1 kg de pommes de terre à chair ferme (Charlotte).", "ids": ["potato"]}
+{"audit": 1279, "lang": "fr", "text": "1 kg de pâte de datte deglet nour", "ids": ["date-paste"]}
+{"audit": 1280, "lang": "fr", "text": "1 kg de viande ; confit de canard ou d'oie, saucisse de Toulouse (andouillettes, côtes de porc ou côtelettes de mouton),", "ids": ["duck", "toulouse-sausage"]}
+{"audit": 1281, "lang": "fr", "text": "1 litre de cuajada,", "ids": ["cuajada"]}
+{"audit": 1282, "lang": "fr", "text": "1 litre de lait frais de brebis", "ids": ["sheep-milk"]}
+{"audit": 1283, "lang": "fr", "text": "1 magret séché en tranches fines,", "ids": ["duck-breast"]}
+{"audit": 1284, "lang": "fr", "text": "1 médaillon de foie gras (facultatif),", "ids": ["foie-gras"]}
+{"audit": 1285, "lang": "fr", "text": "1 paquet de biscuits « petits-beurre » (150g)", "ids": ["petit-beurre-biscuits"]}
+{"audit": 1286, "lang": "fr", "text": "1 petit bouquet de cerfeuil", "ids": ["chervil"]}
+{"audit": 1287, "lang": "fr", "text": "1 pied de bœuf cuit et coupé en deux", "ids": ["beef-foot"]}
+{"audit": 1288, "lang": "fr", "text": "1 piment d'oiseau", "ids": ["bird-eye-chili"]}
+{"audit": 1289, "lang": "fr", "text": "1 piment oiseau,", "ids": ["bird-eye-chili"]}
+{"audit": 1290, "lang": "fr", "text": "1 poignée d'akpi (amandes de Djansang ou Njansang)", "ids": ["njansang"]}
+{"audit": 1291, "lang": "fr", "text": "1 poignée de champignons noirs", "ids": ["wood-ear-mushrooms"]}
+{"audit": 1292, "lang": "fr", "text": "1 pomelo rose épluché,", "ids": ["grapefruit"], "reason": "French pink pomelo denotes pink grapefruit rather than the large pomelo fruit."}
+{"audit": 1293, "lang": "fr", "text": "1 poulet fermier de 1.000 g", "ids": ["chicken"]}
+{"audit": 1294, "lang": "fr", "text": "1 pâte sablée", "ids": ["sweet-pastry"]}
+{"audit": 1295, "lang": "fr", "text": "1 rate de bœuf, de veau ou de porc (de préférence non percée)", "ids": ["spleen"], "unusual": "Spleen is explicitly named as edible offal, with beef first and veal/pork alternatives; retain for user decision."}
+{"audit": 1296, "lang": "fr", "text": "1 ris de veau pour 1 personne", "ids": ["veal-sweetbread"]}
+{"audit": 1297, "lang": "fr", "text": "1 rouleau de pâte sablée", "ids": ["sweet-pastry"]}
+{"audit": 1298, "lang": "fr", "text": "1 sachet de gelée au madère.", "ids": ["madeira-jelly"]}
+{"audit": 1299, "lang": "fr", "text": "1 saucisse de Morteau (facultatif)", "ids": ["morteau-sausage"]}
+{"audit": 1300, "lang": "fr", "text": "1 vacherin Mont-d'Or de 1kg", "ids": ["vacherin-mont-dor"]}
+{"audit": 1301, "lang": "fr", "text": "1 à 2 cuillères à café de piments séchés et écrasés", "ids": ["chili-flakes"], "reason": "The text names dried crushed chillies, not zucchini."}
+{"audit": 1302, "lang": "fr", "text": "1.000 g de poissons divers (vivaneau, chat, grand-gueule, tanche, thon, thazard...)", "ids": ["snapper", "catfish", "fish", "tench", "tuna", "mackerel"], "reason": "Retain the named fish already mapped; represent thazard with broader mackerel and the unresolved local grand-gueule name with fish instead of omitting both.", "note": "Grand-gueule is an unresolved local fish name; finer species identity needs source review."}
+{"audit": 1303, "lang": "fr", "text": "1/2 livarot", "ids": ["livarot"]}
+{"audit": 1304, "lang": "fr", "text": "1/2 pont-l'évêque", "ids": ["pont-leveque"]}
+{"audit": 1305, "lang": "fr", "text": "1/2 verre de vin blanc sec", "ids": ["white-wine"]}
+{"audit": 1306, "lang": "fr", "text": "1/2 verre d’eau", "ids": ["water"]}
+{"audit": 1307, "lang": "fr", "text": "1/4 de litre de verjus ou à défaut de vinaigre,", "ids": ["verjuice"]}
+{"audit": 1308, "lang": "fr", "text": "10 cl de sirop de Liège", "ids": ["liege-syrup"]}
+{"audit": 1309, "lang": "fr", "text": "10 cl de vin cuit type muscat", "ids": ["vin-cuit"]}
+{"audit": 1310, "lang": "fr", "text": "10 g de carbonate d'ammoniaque", "ids": ["ammonium-carbonate"]}
+{"audit": 1311, "lang": "fr", "text": "10 g de poudre de stévia (ou 100 g de sucre)", "ids": ["stevia"]}
+{"audit": 1312, "lang": "fr", "text": "10 g de sel de Nigari", "ids": ["nigari"]}
+{"audit": 1313, "lang": "fr", "text": "10 pieds d'agneau,", "ids": ["lamb-trotters"]}
+{"audit": 1314, "lang": "fr", "text": "100 g champignons", "ids": ["mushroom"]}
+{"audit": 1315, "lang": "fr", "text": "100 g de brousse (ou à défaut de fromage blanc)", "ids": ["brousse"]}
+{"audit": 1316, "lang": "fr", "text": "100 g de fromage frais à l'ail et aux fines herbes (type Boursin)", "ids": ["garlic-herb-cheese"]}
+{"audit": 1317, "lang": "fr", "text": "100 g de fromage munster sans la croûte,", "ids": ["munster"]}
+{"audit": 1318, "lang": "fr", "text": "100 g de levure maltée", "ids": ["nutritional-yeast"], "reason": "Levure maltee is malted nutritional yeast, not flakes of malt grain."}
+{"audit": 1319, "lang": "fr", "text": "100 g de macarons (aux amandes, mais pas à la noix de coco)", "ids": ["macaron"]}
+{"audit": 1320, "lang": "fr", "text": "100 g de molokheya (ou poudre de corète)", "ids": ["molokhia"]}
+{"audit": 1321, "lang": "fr", "text": "100 g de salade mechouia", "ids": ["mechouia-salad"]}
+{"audit": 1322, "lang": "fr", "text": "100 g de sucre semoule,", "ids": ["sugar"]}
+{"audit": 1323, "lang": "fr", "text": "100g de caillé fermier,", "ids": ["fresh-curd"]}
+{"audit": 1324, "lang": "fr", "text": "125 g de farine de pois chiches", "ids": ["chickpea-flour"]}
+{"audit": 1325, "lang": "fr", "text": "125 g de flocons de pommes de terre", "ids": ["potato-flakes"]}
+{"audit": 1326, "lang": "fr", "text": "125 g de graisse de rognons de veau (hachée) ;", "ids": ["veal-kidney-fat"]}
+{"audit": 1327, "lang": "fr", "text": "125 g de Maroilles", "ids": ["maroilles"]}
+{"audit": 1328, "lang": "fr", "text": "15 cl ou 3 c. à s. de chicorée liquide (suivant les goûts)", "ids": ["chicory-extract"]}
+{"audit": 1329, "lang": "fr", "text": "15 g chou-rave en conserve (zha cai 榨 菜)", "ids": ["zha-cai"]}
+{"audit": 1330, "lang": "fr", "text": "150 g de canneberges séchées;", "ids": ["dried-cranberries"]}
+{"audit": 1331, "lang": "fr", "text": "150 g de cerneaux de noix hâchés grossièrement", "ids": ["walnuts"]}
+{"audit": 1332, "lang": "fr", "text": "150 g de chair de pâtisson râpée", "ids": ["pattypan-squash"]}
+{"audit": 1333, "lang": "fr", "text": "150 g de flocons 5 céréales", "ids": ["multigrain-flakes"]}
+{"audit": 1334, "lang": "fr", "text": "150g de grain de Kplé", "ids": ["kple-grain"]}
+{"audit": 1335, "lang": "fr", "text": "2 bols de menthe fraîchement coupée", "ids": ["mint"]}
+{"audit": 1336, "lang": "fr", "text": "2 bottes de n'dolé frais ou surgelé (s'approvisionner dans les boutiques africaines)", "ids": ["ndole"]}
+{"audit": 1337, "lang": "fr", "text": "2 c. à c. d'huile de lin biologique de première pression à froid", "ids": ["flaxseed-oil"]}
+{"audit": 1338, "lang": "fr", "text": "2 c. à c. de céréales complètes crues, fraîchement moulues", "ids": ["whole-grains"]}
+{"audit": 1339, "lang": "fr", "text": "2 c. à c. de graines oléagineuses complètes, fraîchement moulues", "ids": ["oilseeds"]}
+{"audit": 1340, "lang": "fr", "text": "2 c. à soupe de pâte korma (Patak est la meilleure)", "ids": ["korma-paste"]}
+{"audit": 1341, "lang": "fr", "text": "2 c. à soupe de smen,", "ids": ["smen"]}
+{"audit": 1342, "lang": "fr", "text": "2 cervelas pistachés (350 g pièce environ),", "ids": ["cervelas"]}
+{"audit": 1343, "lang": "fr", "text": "2 cl de marc du Jura (ou calvados, cognac),", "ids": ["marc"]}
+{"audit": 1344, "lang": "fr", "text": "2 cuillères à soupe de farine de maïs", "ids": ["corn-flour"], "reason": "Farine de mais specifies maize flour rather than coarse cornmeal; the more specific flour id exists."}
+{"audit": 1345, "lang": "fr", "text": "2 cuillères à soupe de sucre d'érable râpé (ou gros sucre).", "ids": ["maple-sugar"]}
+{"audit": 1346, "lang": "fr", "text": "2 kg de tripe d'agneau,", "ids": ["lamb-tripe"]}
+{"audit": 1347, "lang": "fr", "text": "2 sachets d’infusion au jasmin,", "ids": ["jasmine-tea"]}
+{"audit": 1348, "lang": "fr", "text": "2 saucisses de Morteau Label Franche Comté,", "ids": ["morteau-sausage"]}
+{"audit": 1349, "lang": "fr", "text": "2 saucissons à cuire", "ids": ["saucisson"]}
+{"audit": 1350, "lang": "fr", "text": "2 Tasse de graisse de bison fondu", "ids": ["bison-fat"]}
+{"audit": 1351, "lang": "fr", "text": "2 verres de schnaps (env. 20 cl)", "ids": ["schnapps"]}
+{"audit": 1352, "lang": "fr", "text": "2 verres de vin rouge", "ids": ["red-wine"]}
+{"audit": 1353, "lang": "fr", "text": "2 yaourts de soja nature", "ids": ["soy-yogurt"]}
+{"audit": 1354, "lang": "fr", "text": "20 cl de Hua Tao Chew (vin chinois), à défaut du whisky", "ids": ["huadiao-wine"]}
+{"audit": 1355, "lang": "fr", "text": "20 g de gelée de fruits,", "ids": ["fruit-jelly"]}
+{"audit": 1356, "lang": "fr", "text": "20 g de levure maltée en paillettes", "ids": ["nutritional-yeast"], "reason": "Levure maltee en paillettes means nutritional yeast flakes, not malt flakes."}
+{"audit": 1357, "lang": "fr", "text": "200 g de beurre,", "ids": ["butter"]}
+{"audit": 1358, "lang": "fr", "text": "200 g de cancoillotte (à l'ail ou au vin blanc)", "ids": ["cancoillotte"]}
+{"audit": 1359, "lang": "fr", "text": "200 g de crevettes grises", "ids": ["brown-shrimp"]}
+{"audit": 1360, "lang": "fr", "text": "200 g de fruits rouges", "ids": ["red-berries"]}
+{"audit": 1361, "lang": "fr", "text": "200 g de gelée de groseilles,", "ids": ["redcurrant-jelly"]}
+{"audit": 1362, "lang": "fr", "text": "200 g de lentilles vertes", "ids": ["green-lentils"]}
+{"audit": 1363, "lang": "fr", "text": "200 g de Morbier au lait cru", "ids": ["morbier"]}
+{"audit": 1364, "lang": "fr", "text": "200 g de Saint-nectaire", "ids": ["saint-nectaire"]}
+{"audit": 1365, "lang": "fr", "text": "200 g de vacherin fribourgeois", "ids": ["vacherin"]}
+{"audit": 1366, "lang": "fr", "text": "200 grammes de blé vert concassé", "ids": ["green-wheat"]}
+{"audit": 1367, "lang": "fr", "text": "200 grammes de frick (blé vert concassé)", "ids": ["green-wheat"]}
+{"audit": 1368, "lang": "fr", "text": "200 mg Djoumgblé", "ids": ["djoumgble"]}
+{"audit": 1369, "lang": "fr", "text": "200g de beurre,", "ids": ["butter"]}
+{"audit": 1370, "lang": "fr", "text": "25 g d'oranges confites", "ids": ["candied-orange"]}
+{"audit": 1371, "lang": "fr", "text": "25 g de citrons confits", "ids": ["candied-lemon"]}
+{"audit": 1372, "lang": "fr", "text": "25 g de levure maltée en paillettes", "ids": ["nutritional-yeast"], "reason": "Levure maltee en paillettes means nutritional yeast flakes, not malt flakes."}
+{"audit": 1373, "lang": "fr", "text": "250 g de chana dal (pois cassés jaunes)", "ids": ["split-chickpeas"]}
+{"audit": 1374, "lang": "fr", "text": "250 g de flocons d'avoine", "ids": ["oats"]}
+{"audit": 1375, "lang": "fr", "text": "250 g de foie gras d'oie frais de préférence ;", "ids": ["foie-gras"]}
+{"audit": 1376, "lang": "fr", "text": "250 g de kolbassa,", "ids": ["kolbassa"]}
+{"audit": 1377, "lang": "fr", "text": "250 g de pousses de pois mange-tout", "ids": ["pea-shoots"]}
+{"audit": 1378, "lang": "fr", "text": "250 g de tomme de Cantal fraîche (voir également tomme fraîche aligot),", "ids": ["tomme"]}
+{"audit": 1379, "lang": "fr", "text": "250 g de vacherin fribourgeois par personne (préférer un mélange de différents vacherins, plus ou moins corsés)", "ids": ["vacherin"]}
+{"audit": 1380, "lang": "fr", "text": "3 carottes", "ids": ["carrot"]}
+{"audit": 1381, "lang": "fr", "text": "3 carottes coupées en rondelles épaisses", "ids": ["carrot"]}
+{"audit": 1382, "lang": "fr", "text": "3 cs de sirop de cassis", "ids": ["cassis-syrup"]}
+{"audit": 1383, "lang": "fr", "text": "3 cuillerées à soupe d’eau de vie (ou de cognac)", "ids": ["fruit-brandy"]}
+{"audit": 1384, "lang": "fr", "text": "3 poivrons (jaune, orange et rouge)", "ids": ["bell-pepper"]}
+{"audit": 1385, "lang": "fr", "text": "300 g de palette fumée", "ids": ["pork-shoulder"]}
+{"audit": 1386, "lang": "fr", "text": "300 ml de verjus", "ids": ["verjus"]}
+{"audit": 1387, "lang": "fr", "text": "4 cuillers à café de sirop d’orgeat", "ids": ["orgeat-syrup"]}
+{"audit": 1388, "lang": "fr", "text": "4 cuillerées à soupe de vinaigre", "ids": ["vinegar"]}
+{"audit": 1389, "lang": "fr", "text": "4 cuillères à soupe de néroli", "ids": ["neroli"], "unusual": "Neroli is explicitly named at four tablespoons; retain its id but flag the unusual floral ingredient and quantity for source/user review."}
+{"audit": 1390, "lang": "fr", "text": "4 poignées de gnangnan frais ou sec", "ids": ["gnangnan"]}
+{"audit": 1391, "lang": "fr", "text": "4 œufs + 2 blancs", "ids": ["egg"]}
+{"audit": 1392, "lang": "fr", "text": "4 œufs + 2 jaunes,", "ids": ["egg"]}
+{"audit": 1393, "lang": "fr", "text": "400 g de crème de marrons vanillée", "ids": ["chestnut-cream"]}
+{"audit": 1394, "lang": "fr", "text": "400 g de vacherin fribourgeois coupé en petits dés", "ids": ["vacherin"]}
+{"audit": 1395, "lang": "fr", "text": "5 cl d'huile d'arachide, sel et poivre du moulin et de l'eau.", "ids": ["peanut-oil", "salt", "black-pepper", "water"]}
+{"audit": 1396, "lang": "fr", "text": "5 kg de feuilles de taro blanc", "ids": ["taro-leaves"]}
+{"audit": 1397, "lang": "fr", "text": "50 cl d'huile d'Argan", "ids": ["argan-oil"]}
+{"audit": 1398, "lang": "fr", "text": "50 g d'épices de biscôme", "ids": ["gingerbread-spice"], "reason": "Biscome is spiced honey gingerbread; its spice blend belongs with gingerbread spice rather than the speculoos biscuit blend."}
+{"audit": 1399, "lang": "fr", "text": "50 g de brèdes mafanes,", "ids": ["brede-mafane"]}

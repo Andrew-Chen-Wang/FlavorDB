@@ -1,0 +1,200 @@
+{"audit": 5931, "lang": "pl", "text": "500 g kaszanki (dowolnego rodzaju)", "ids": ["blood-sausage"], "reason": "Kaszanka is blood sausage, not sauerkraut."}
+{"audit": 5932, "lang": "pl", "text": "500 g kiszonej kapusty", "ids": ["sauerkraut"], "reason": "Kiszona kapusta is fermented cabbage, not carrot."}
+{"audit": 5933, "lang": "pl", "text": "500 g marchwi", "ids": ["carrot"], "reason": "Marchwi names carrot, not butter."}
+{"audit": 5934, "lang": "pl", "text": "500 g masła lub smalcu", "ids": ["butter"], "reason": "Masło is butter; lard is the second alternative."}
+{"audit": 5935, "lang": "pl", "text": "500 g małych czerwonych buraków", "ids": ["beetroot"], "reason": "Czerwone buraki are beetroot, not potato."}
+{"audit": 5936, "lang": "pl", "text": "500 g małych ziemniaków", "ids": ["potato"], "reason": "Małe ziemniaki are potatoes, not ground beef."}
+{"audit": 5937, "lang": "pl", "text": "500 g mielonego mięsa wołowego", "ids": ["ground-beef"], "reason": "Mielone mięso wołowe is ground beef, not seafood."}
+{"audit": 5938, "lang": "pl", "text": "500 g mieszanych owoców morza (krewetek, małży i kalmarów)", "ids": ["seafood-mix"], "reason": "This explicitly names a mixed seafood ingredient containing shrimp, mussels and squid, not mixed land meats."}
+{"audit": 5939, "lang": "pl", "text": "500 g mięsa mieszanego (wołowina/cielęcina, wieprzowina, baranina/jagnięcina)", "ids": ["beef", "pork", "lamb"], "reason": "The mixed meat lists beef/veal, pork and mutton/lamb; choose beef for the first alternative and retain the other named meats."}
+{"audit": 5940, "lang": "pl", "text": "500 g mrożonych (lub świeżych) krewetek", "ids": ["shrimp"], "reason": "Krewetki are shrimp, not walnuts."}
+{"audit": 5941, "lang": "pl", "text": "500 g orzechów włoskich (posiekanych)", "ids": ["walnuts"], "reason": "Orzechy włoskie are walnuts, not mushrooms."}
+{"audit": 5942, "lang": "pl", "text": "500 g pieczarek", "ids": ["mushroom"], "reason": "Pieczarki are cultivated mushrooms, not chicken; the existing generic mushroom id represents them."}
+{"audit": 5943, "lang": "pl", "text": "500 g piersi kurczaka", "ids": ["chicken"], "reason": "Piersi kurczaka are chicken breasts, not tomatoes."}
+{"audit": 5944, "lang": "pl", "text": "500 g pomidorów", "ids": ["tomato"], "reason": "Pomidory are tomatoes, not spaghetti."}
+{"audit": 5945, "lang": "pl", "text": "500 g spaghetti", "ids": ["spaghetti"], "reason": "The ingredient explicitly names spaghetti, not beans."}
+{"audit": 5946, "lang": "pl", "text": "500 g suchej fasoli", "ids": ["beans"], "reason": "Sucha fasola is dried beans, not spinach."}
+{"audit": 5947, "lang": "pl", "text": "500 g szpinaku mrożonego", "ids": ["spinach"], "reason": "Szpinak mrożony is frozen spinach, not quark."}
+{"audit": 5948, "lang": "pl", "text": "500 g twarogu", "ids": ["quark"], "reason": "Twaróg is quark, not pork."}
+{"audit": 5949, "lang": "pl", "text": "500 g wieprzowiny (np. kawałki łopatki lub szynki)", "ids": ["pork"], "reason": "Wieprzowina means pork; shoulder and ham are examples of possible cuts, not a requirement to use one particular cut."}
+{"audit": 5950, "lang": "pl", "text": "500 g wołowiny", "ids": ["beef"]}
+{"audit": 5951, "lang": "pl", "text": "500 g wołowiny (np. kawałki łopatki lub udźca)", "ids": ["beef"]}
+{"audit": 5952, "lang": "pl", "text": "500 g wołowiny z kością", "ids": ["beef"], "reason": "Wołowina z kością is bone-in beef, not potato."}
+{"audit": 5953, "lang": "pl", "text": "500 g ziemniaków", "ids": ["potato"]}
+{"audit": 5954, "lang": "pl", "text": "500 g ziemniaków pokrojonych w kostkę", "ids": ["potato"], "reason": "Ziemniaki pokrojone w kostkę are diced potatoes, not mascarpone."}
+{"audit": 5955, "lang": "pl", "text": "500 g zimnego serka mascarpone", "ids": ["mascarpone"], "reason": "Serek mascarpone is mascarpone, not pork shoulder."}
+{"audit": 5956, "lang": "pl", "text": "500 g łopatki wieprzowej", "ids": ["pork-shoulder"], "reason": "Łopatka wieprzowa is pork shoulder, not shrimp."}
+{"audit": 5957, "lang": "pl", "text": "500 gram krewetek. Im większe, tym lepsze (black tiger, mrożone. Bez pancerzyków)", "ids": ["shrimp"]}
+{"audit": 5958, "lang": "pl", "text": "500 ml bulionu wołowego", "ids": ["beef-stock"], "reason": "Bulion wołowy explicitly specifies beef stock."}
+{"audit": 5959, "lang": "pl", "text": "500 ml jogurtu naturalnego lub kwaśnej śmietany", "ids": ["yogurt"]}
+{"audit": 5960, "lang": "pl", "text": "500 ml mleko", "ids": ["milk"]}
+{"audit": 5961, "lang": "pl", "text": "500 ml octu", "ids": ["vinegar"]}
+{"audit": 5962, "lang": "pl", "text": "500 ml pełnego mleka (3,2%)", "ids": ["milk"]}
+{"audit": 5963, "lang": "pl", "text": "500 ml sosu pomidorowego do pizzy (patrz:Pizza serowa)", "ids": ["pizza-sauce"], "reason": "This is tomato sauce specifically for pizza; the existing pizza-sauce id is more specific."}
+{"audit": 5964, "lang": "pl", "text": "500 ml śmietanki 36%", "ids": ["cream"]}
+{"audit": 5965, "lang": "pl", "text": "500 ml żuru (lub koncentratu)", "ids": ["rye-sour"]}
+{"audit": 5966, "lang": "pl", "text": "500-600 g filetów z świeżych śledzi", "ids": ["herring"]}
+{"audit": 5967, "lang": "pl", "text": "500-600 g jagnięciny lub baraniny", "ids": ["lamb"]}
+{"audit": 5968, "lang": "pl", "text": "50–60 dag ziemniaków", "ids": ["potato"]}
+{"audit": 5969, "lang": "pl", "text": "50–60 g soli", "ids": ["salt"]}
+{"audit": 5970, "lang": "pl", "text": "50–60 młodych winogronowych liści", "ids": ["grape-leaves"]}
+{"audit": 5971, "lang": "pl", "text": "55 g świeżo startego sera romano", "ids": ["romano-cheese"], "reason": "The text names Romano cheese without specifying Pecorino Romano; use the existing Romano cheese id."}
+{"audit": 5972, "lang": "pl", "text": "560 g ziemniaków, obranych i pokrojonych w 1,5 cm kostkę", "ids": ["potato"]}
+{"audit": 5973, "lang": "pl", "text": "5–6 kropli aromatu waniliowego", "ids": ["vanilla"]}
+{"audit": 5974, "lang": "pl", "text": "5–6 kwaszonych ogórków", "ids": ["pickles"]}
+{"audit": 5975, "lang": "pl", "text": "5–6 małych cebulek", "ids": ["onion"]}
+{"audit": 5976, "lang": "pl", "text": "5–6 małych gruszek", "ids": ["pear"]}
+{"audit": 5977, "lang": "pl", "text": "5–6 niedużych kiełbasek", "ids": ["sausage"], "reason": "Small sausages are named without specifying the meat; do not assume pork."}
+{"audit": 5978, "lang": "pl", "text": "5–6 ogórków konserwowych", "ids": ["pickles"]}
+{"audit": 5979, "lang": "pl", "text": "5–6 suszonych grzybów", "ids": ["dried-mushrooms"], "reason": "Suszone grzyby explicitly means dried mushrooms."}
+{"audit": 5980, "lang": "pl", "text": "5–6 ziarenek ziela angielskiego", "ids": ["allspice"]}
+{"audit": 5981, "lang": "pl", "text": "5–6 ziemniaków", "ids": ["potato"]}
+{"audit": 5982, "lang": "pl", "text": "5–6 łyżek oliwy lub oleju albo 10 dag margaryny", "ids": ["olive-oil"]}
+{"audit": 5983, "lang": "pl", "text": "5–6 łyżek żelatyny", "ids": ["gelatin"]}
+{"audit": 5984, "lang": "pl", "text": "5–8 średnich pomidorów", "ids": ["tomato"]}
+{"audit": 5985, "lang": "pl", "text": "6 białek", "ids": ["egg"]}
+{"audit": 5986, "lang": "pl", "text": "6 dag drożdży", "ids": ["yeast"]}
+{"audit": 5987, "lang": "pl", "text": "6 dag drożdży,", "ids": ["yeast"]}
+{"audit": 5988, "lang": "pl", "text": "6 dag koncentratu pomidorowego", "ids": ["tomato-paste"]}
+{"audit": 5989, "lang": "pl", "text": "6 dag masła", "ids": ["butter"]}
+{"audit": 5990, "lang": "pl", "text": "6 dag pietruszki", "ids": ["parsley-root"], "reason": "In the carp recipe these vegetables are cut into strips and braised; this weighted pietruszka is parsley root, not parsley leaves."}
+{"audit": 5991, "lang": "pl", "text": "6 dag pomidorów", "ids": ["tomato"]}
+{"audit": 5992, "lang": "pl", "text": "6 dag słodkich migdałów", "ids": ["almonds"]}
+{"audit": 5993, "lang": "pl", "text": "6 dużych kwaśnych jabłek", "ids": ["apple"]}
+{"audit": 5994, "lang": "pl", "text": "6 dużych pomidorów", "ids": ["tomato"]}
+{"audit": 5995, "lang": "pl", "text": "6 dużych, obranych krewetek", "ids": ["shrimp"]}
+{"audit": 5996, "lang": "pl", "text": "6 gałązek natki pietruszki", "ids": ["parsley"]}
+{"audit": 5997, "lang": "pl", "text": "6 gałązek rozmarynu", "ids": ["rosemary"]}
+{"audit": 5998, "lang": "pl", "text": "6 gałązek świeżego majeranku", "ids": ["marjoram"]}
+{"audit": 5999, "lang": "pl", "text": "6 goździków", "ids": ["clove"]}
+{"audit": 6000, "lang": "pl", "text": "6 jajek", "ids": ["egg"]}
+{"audit": 6001, "lang": "pl", "text": "6 jajek ugotowanych na twardo", "ids": ["egg"]}
+{"audit": 6002, "lang": "pl", "text": "6 kawałków ryby morskiej", "ids": ["fish"]}
+{"audit": 6003, "lang": "pl", "text": "6 kopiastych łyżek zieleniny", "ids": ["mixed-herbs"]}
+{"audit": 6004, "lang": "pl", "text": "6 kotletów cielęcych bez kości", "ids": ["veal"]}
+{"audit": 6005, "lang": "pl", "text": "6 kromek chleba", "ids": ["bread"]}
+{"audit": 6006, "lang": "pl", "text": "6 listków laurowych", "ids": ["bay-leaf"]}
+{"audit": 6007, "lang": "pl", "text": "6 listków mięty", "ids": ["mint"]}
+{"audit": 6008, "lang": "pl", "text": "6 listków szczypiorku (opcjonalnie)", "ids": ["chives"]}
+{"audit": 6009, "lang": "pl", "text": "6 liści świeżej szałwii", "ids": ["sage"]}
+{"audit": 6010, "lang": "pl", "text": "6 małych bułeczek", "ids": ["bread-bun"]}
+{"audit": 6011, "lang": "pl", "text": "6 małych ogórków konserwowych", "ids": ["pickles"]}
+{"audit": 6012, "lang": "pl", "text": "6 plasterków wędzonego boczku", "ids": ["bacon"]}
+{"audit": 6013, "lang": "pl", "text": "6 plastrów boczku", "ids": ["bacon"]}
+{"audit": 6014, "lang": "pl", "text": "6 plastrów mięsa z piersi indyka", "ids": ["turkey"]}
+{"audit": 6015, "lang": "pl", "text": "6 plastrów surowej szynki", "ids": ["ham"]}
+{"audit": 6016, "lang": "pl", "text": "6 pomarańczy", "ids": ["orange"]}
+{"audit": 6017, "lang": "pl", "text": "6 pomidorów", "ids": ["tomato"]}
+{"audit": 6018, "lang": "pl", "text": "6 pomidorów pokrojonych w kostkę", "ids": ["tomato"]}
+{"audit": 6019, "lang": "pl", "text": "6 pomidorów suszonych w oleju", "ids": ["sun-dried-tomatoes"]}
+{"audit": 6020, "lang": "pl", "text": "6 posiekanych liści bazylii", "ids": ["basil"]}
+{"audit": 6021, "lang": "pl", "text": "6 pstrągów", "ids": ["trout"]}
+{"audit": 6022, "lang": "pl", "text": "6 płatków żelatyny", "ids": ["gelatin"]}
+{"audit": 6023, "lang": "pl", "text": "6 serków homogenizowanych", "ids": ["quark"], "reason": "Polish serek homogenizowany used for rainbow cheesecake is homogenized fresh quark; this line does not specify Philadelphia-style cream cheese."}
+{"audit": 6024, "lang": "pl", "text": "6 strąków kardamonu", "ids": ["cardamom"]}
+{"audit": 6025, "lang": "pl", "text": "6 szklanek białego wytrawnego wina (sabaudzkiego)", "ids": ["white-wine"]}
+{"audit": 6026, "lang": "pl", "text": "6 szklanek bulionu warzywnego", "ids": ["vegetable-stock"]}
+{"audit": 6027, "lang": "pl", "text": "6 szklanek wody lub mleka", "ids": ["water"]}
+{"audit": 6028, "lang": "pl", "text": "6 szklanek wywaru", "ids": ["stock"]}
+{"audit": 6029, "lang": "pl", "text": "6 szklanek zimnej wody", "ids": ["water"]}
+{"audit": 6030, "lang": "pl", "text": "6 ziemniaków", "ids": ["potato"]}
+{"audit": 6031, "lang": "pl", "text": "6 ząbków czosnku", "ids": ["garlic"]}
+{"audit": 6032, "lang": "pl", "text": "6 łodyg selera naciowego", "ids": ["celery"]}
+{"audit": 6033, "lang": "pl", "text": "6 łyżeczek ketchupu", "ids": ["ketchup"]}
+{"audit": 6034, "lang": "pl", "text": "6 łyżeczek żelatyny", "ids": ["gelatin"]}
+{"audit": 6035, "lang": "pl", "text": "6 łyżek cukru", "ids": ["sugar"]}
+{"audit": 6036, "lang": "pl", "text": "6 łyżek gęstej śmietany", "ids": ["sour-cream"], "reason": "Gęsta śmietana in this Polish stuffed-egg filling means thick cultured sour cream, rather than sweet whipping cream."}
+{"audit": 6037, "lang": "pl", "text": "6 łyżek kaszy gryczanej (ugotowanej)", "ids": ["buckwheat-groats"]}
+{"audit": 6038, "lang": "pl", "text": "6 łyżek kaszy perłowej", "ids": ["pearl-barley"]}
+{"audit": 6039, "lang": "pl", "text": "6 łyżek masła", "ids": ["butter"]}
+{"audit": 6040, "lang": "pl", "text": "6 łyżek miodu", "ids": ["honey"]}
+{"audit": 6041, "lang": "pl", "text": "6 łyżek mąki macowej", "ids": ["matzo-meal"], "reason": "Mąka macowa is matzo meal, not ordinary wheat flour."}
+{"audit": 6042, "lang": "pl", "text": "6 łyżek natki pietruszki", "ids": ["parsley"]}
+{"audit": 6043, "lang": "pl", "text": "6 łyżek naturalnej oliwy", "ids": ["olive-oil"]}
+{"audit": 6044, "lang": "pl", "text": "6 łyżek oleju", "ids": ["vegetable-oil"]}
+{"audit": 6045, "lang": "pl", "text": "6 łyżek oleju z kiełków kukurydzy", "ids": ["corn-oil"], "reason": "Oil from corn germ explicitly identifies corn oil."}
+{"audit": 6046, "lang": "pl", "text": "6 łyżek oliwy", "ids": ["olive-oil"]}
+{"audit": 6047, "lang": "pl", "text": "6 łyżek sosu pesto", "ids": ["pesto"]}
+{"audit": 6048, "lang": "pl", "text": "6 łyżek sosu sojowego", "ids": ["soy-sauce"]}
+{"audit": 6049, "lang": "pl", "text": "6 łyżek śmietany kwaśnej (lub jogurtu naturalnego)", "ids": ["sour-cream"]}
+{"audit": 6050, "lang": "pl", "text": "6 średnich ziemniaków", "ids": ["potato"]}
+{"audit": 6051, "lang": "pl", "text": "6 świeżych kumkwatów", "ids": ["kumquat"]}
+{"audit": 6052, "lang": "pl", "text": "6 żółtek", "ids": ["egg"]}
+{"audit": 6053, "lang": "pl", "text": "6 żółtek jaj", "ids": ["egg"]}
+{"audit": 6054, "lang": "pl", "text": "6-7 dag masła", "ids": ["butter"]}
+{"audit": 6055, "lang": "pl", "text": "6-8 dag grzybów suszonych", "ids": ["dried-mushrooms"], "reason": "Grzyby suszone explicitly names dried mushrooms."}
+{"audit": 6056, "lang": "pl", "text": "6-8 płaskich łyżek cukru", "ids": ["sugar"]}
+{"audit": 6057, "lang": "pl", "text": "6-8 tostów", "ids": ["bread"]}
+{"audit": 6058, "lang": "pl", "text": "60 dag filetów z dorsza bez skóry", "ids": ["cod"]}
+{"audit": 6059, "lang": "pl", "text": "60 dag filetów z dowolnej ryby", "ids": ["fish"]}
+{"audit": 6060, "lang": "pl", "text": "60 dag filetów z łososia", "ids": ["salmon"]}
+{"audit": 6061, "lang": "pl", "text": "60 dag jagnięciny (z udźca)", "ids": ["lamb"]}
+{"audit": 6062, "lang": "pl", "text": "60 dag mielonego mięsa wieprzowego", "ids": ["ground-pork"]}
+{"audit": 6063, "lang": "pl", "text": "60 dag mięsa wieprzowego bez kości", "ids": ["pork"]}
+{"audit": 6064, "lang": "pl", "text": "60 dag schabu bez kości", "ids": ["pork-loin"]}
+{"audit": 6065, "lang": "pl", "text": "60 dag sznycli z indyka", "ids": ["turkey"]}
+{"audit": 6066, "lang": "pl", "text": "60 dag wołowiny bez kości", "ids": ["beef"]}
+{"audit": 6067, "lang": "pl", "text": "60 dag ziemniaków", "ids": ["potato"]}
+{"audit": 6068, "lang": "pl", "text": "60 dag zrazówki cielęcej", "ids": ["veal"]}
+{"audit": 6069, "lang": "pl", "text": "60 g brązowego cukru", "ids": ["brown-sugar"]}
+{"audit": 6070, "lang": "pl", "text": "60 g czekolady", "ids": ["chocolate"]}
+{"audit": 6071, "lang": "pl", "text": "60 g kandyzowanych czereśni (owoce francuskie)", "ids": ["candied-cherries"]}
+{"audit": 6072, "lang": "pl", "text": "60 g marchewki, pokrojonej w średnią kostkę", "ids": ["carrot"]}
+{"audit": 6073, "lang": "pl", "text": "60 g masła", "ids": ["butter"]}
+{"audit": 6074, "lang": "pl", "text": "60 g miodu (np. akacjowego)", "ids": ["honey"]}
+{"audit": 6075, "lang": "pl", "text": "60 g mąki ziemniaczanej", "ids": ["potato-starch"]}
+{"audit": 6076, "lang": "pl", "text": "60 g parmezanu", "ids": ["parmesan"]}
+{"audit": 6077, "lang": "pl", "text": "60 g pietruszki, pokrojonej w średnią kostkę (opcjonalnie)", "ids": ["parsley-root"], "reason": "The chicken broth separately lists parsley sprigs; this parsley cut into medium dice is the root vegetable."}
+{"audit": 6078, "lang": "pl", "text": "60 g pora, pokrojonego w krążki (opcjonalnie)", "ids": ["leek"]}
+{"audit": 6079, "lang": "pl", "text": "60 g posiekanej szynki typu prosciutto", "ids": ["prosciutto"], "reason": "The ham is explicitly prosciutto, for which a specific id exists."}
+{"audit": 6080, "lang": "pl", "text": "60 g płukanej kaszy jęczmiennej", "ids": ["barley-groats"], "reason": "Kasza jęczmienna names barley groats without specifying the pearl form."}
+{"audit": 6081, "lang": "pl", "text": "60 g selera z liśćmi, pokrojonego w średnią kostkę", "ids": ["celery"]}
+{"audit": 6082, "lang": "pl", "text": "60 g sera grana padano", "ids": ["grana-padano"], "reason": "The text explicitly names Grana Padano, which has its own id."}
+{"audit": 6083, "lang": "pl", "text": "60 g startego sera", "ids": ["cheese"]}
+{"audit": 6084, "lang": "pl", "text": "60 g tartej czekolady gorzkiej", "ids": ["dark-chocolate"], "reason": "Czekolada gorzka explicitly specifies dark chocolate."}
+{"audit": 6085, "lang": "pl", "text": "60 g łuskanych pistacji", "ids": ["pistachios"]}
+{"audit": 6086, "lang": "pl", "text": "60 ml naturalnej oliwy", "ids": ["olive-oil"]}
+{"audit": 6087, "lang": "pl", "text": "600 g białych szparagów", "ids": ["asparagus"]}
+{"audit": 6088, "lang": "pl", "text": "600 g piersi z kurczaka (pokrojonej w 2 cm kostkę)", "ids": ["chicken"]}
+{"audit": 6089, "lang": "pl", "text": "600 g zielonych szparagów", "ids": ["asparagus"]}
+{"audit": 6090, "lang": "pl", "text": "600 g łososia", "ids": ["salmon"]}
+{"audit": 6091, "lang": "pl", "text": "600 g śliwek", "ids": ["plum"]}
+{"audit": 6092, "lang": "pl", "text": "600 g świeżych truskawek", "ids": ["strawberry"]}
+{"audit": 6093, "lang": "pl", "text": "600 ml mleka", "ids": ["milk"]}
+{"audit": 6094, "lang": "pl", "text": "600-700 g mięsa wieprzowego", "ids": ["pork"]}
+{"audit": 6095, "lang": "pl", "text": "600-700 g serka homogenizowanego o zawartości tłuszczu co najmniej 18%, najlepiej Philadelphia ze względu na słonawy smak", "ids": ["cream-cheese"]}
+{"audit": 6096, "lang": "pl", "text": "65 dag świeżego czosnku", "ids": ["garlic"]}
+{"audit": 6097, "lang": "pl", "text": "65 g cukru", "ids": ["sugar"]}
+{"audit": 6098, "lang": "pl", "text": "65 g rozpuszczonego masła", "ids": ["butter"]}
+{"audit": 6099, "lang": "pl", "text": "6–8 kg mąki żytniej", "ids": ["rye-flour"]}
+{"audit": 6100, "lang": "pl", "text": "6–8 naleśników", "ids": ["pancakes"]}
+{"audit": 6101, "lang": "pl", "text": "6–8 średniej wielkości pomidorów", "ids": ["tomato"]}
+{"audit": 6102, "lang": "pl", "text": "7 dag cukru", "ids": ["sugar"]}
+{"audit": 6103, "lang": "pl", "text": "7 dag masła", "ids": ["butter"]}
+{"audit": 6104, "lang": "pl", "text": "7 dag migdałów", "ids": ["almonds"]}
+{"audit": 6105, "lang": "pl", "text": "7 g suszonych drożdży", "ids": ["yeast"]}
+{"audit": 6106, "lang": "pl", "text": "7 grzybków mun", "ids": ["wood-ear-mushroom"]}
+{"audit": 6107, "lang": "pl", "text": "7 i pół litra wody", "ids": ["water"]}
+{"audit": 6108, "lang": "pl", "text": "7 jajek", "ids": ["egg"]}
+{"audit": 6109, "lang": "pl", "text": "7 kg kwaśnych jabłek (np. antonówek)", "ids": ["apple"]}
+{"audit": 6110, "lang": "pl", "text": "7 ząbków czosnku", "ids": ["garlic"]}
+{"audit": 6111, "lang": "pl", "text": "7 łyżek cukru", "ids": ["sugar"]}
+{"audit": 6112, "lang": "pl", "text": "7 łyżek cukru pudru", "ids": ["powdered-sugar"]}
+{"audit": 6113, "lang": "pl", "text": "7 łyżek mąki pszennej", "ids": ["flour"]}
+{"audit": 6114, "lang": "pl", "text": "7 łyżek stołowych mleka", "ids": ["milk"]}
+{"audit": 6115, "lang": "pl", "text": "7 łyżek stołowych oliwy", "ids": ["olive-oil"]}
+{"audit": 6116, "lang": "pl", "text": "7 łyżek wody", "ids": ["water"]}
+{"audit": 6117, "lang": "pl", "text": "70 dag białej kiełbasy", "ids": ["pork-sausage"]}
+{"audit": 6118, "lang": "pl", "text": "70 dag cielęcej sznyclówki", "ids": ["veal"]}
+{"audit": 6119, "lang": "pl", "text": "70 dag dorsza", "ids": ["cod"]}
+{"audit": 6120, "lang": "pl", "text": "70 dag mielonego mięsa wołowego", "ids": ["ground-beef"]}
+{"audit": 6121, "lang": "pl", "text": "70 dag rydzów", "ids": ["mushroom"]}
+{"audit": 6122, "lang": "pl", "text": "70 g kostki margaryny", "ids": ["margarine"]}
+{"audit": 6123, "lang": "pl", "text": "70 g niedojrzałych owoców lipy (zanim spadną z drzewa, nadają się owoce dowolnego gatunku lipy, ale najlepsze są lipy drobnolistnej)", "ids": ["linden-fruit"], "unusual": "Unripe linden fruits, preferably small-leaved lime, are real unusual foods; retain for the user to decide."}
+{"audit": 6124, "lang": "pl", "text": "70 g suszonych pomidorów z zalewy (posiekanych)", "ids": ["sun-dried-tomatoes"]}
+{"audit": 6125, "lang": "pl", "text": "70 g suszonych śliwek", "ids": ["prunes"]}
+{"audit": 6126, "lang": "pl", "text": "70 ml oleju", "ids": ["vegetable-oil"]}
+{"audit": 6127, "lang": "pl", "text": "700 g filetu z piersi kurczaka", "ids": ["chicken"]}
+{"audit": 6128, "lang": "pl", "text": "700 g filetów z morszczuka", "ids": ["hake"]}
+{"audit": 6129, "lang": "pl", "text": "700 g policzków wołowych lub karkówki wołowej", "ids": ["beef"]}
+{"audit": 6130, "lang": "pl", "text": "700 g łopatki wieprzowej lub karkówki", "ids": ["pork-shoulder"]}

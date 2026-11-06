@@ -1,0 +1,100 @@
+{"audit": 5584, "lang": "nl", "text": "1 gesneden stengel prei", "ids": ["leek"]}
+{"audit": 5585, "lang": "nl", "text": "1 kg prei", "ids": ["leek"]}
+{"audit": 5586, "lang": "nl", "text": "1 kleine prei", "ids": ["leek"]}
+{"audit": 5587, "lang": "nl", "text": "1 of 2 pastinaken", "ids": ["parsnip"]}
+{"audit": 5588, "lang": "nl", "text": "1 prei", "ids": ["leek"]}
+{"audit": 5589, "lang": "nl", "text": "1 prei gewassen en in halve ringen", "ids": ["leek"]}
+{"audit": 5590, "lang": "nl", "text": "1 prei in stukjes", "ids": ["leek"]}
+{"audit": 5591, "lang": "nl", "text": "1 theelepel ketoembar (gemalen korianderzaad)", "ids": ["coriander-seed"]}
+{"audit": 5592, "lang": "nl", "text": "1 theelepel ketoembar/gemalen koriander", "ids": ["coriander-seed"]}
+{"audit": 5593, "lang": "nl", "text": "1 theelepel ketoembar/korianderpoeder", "ids": ["coriander-seed"]}
+{"audit": 5594, "lang": "nl", "text": "1 theelepel ketoembar/korianderzaad", "ids": ["coriander-seed"]}
+{"audit": 5595, "lang": "nl", "text": "1 theelepel korianderzaadjes", "ids": ["coriander-seed"]}
+{"audit": 5596, "lang": "nl", "text": "1 theelepel tijm, roosmarijn, korianderzaadjes", "ids": ["thyme", "rosemary", "coriander-seed"]}
+{"audit": 5597, "lang": "nl", "text": "1-2 theelepels gemalen korianderzaad", "ids": ["coriander-seed"]}
+{"audit": 5598, "lang": "nl", "text": "2 eetlepels korianderpoeder", "ids": ["coriander-seed"]}
+{"audit": 5599, "lang": "nl", "text": "2 theelepels gemalen koriander/ketoembar", "ids": ["coriander-seed"]}
+{"audit": 5600, "lang": "nl", "text": "2 theelepels korianderpoeder", "ids": ["coriander-seed"]}
+{"audit": 5601, "lang": "nl", "text": "200 g kwark", "ids": ["quark"]}
+{"audit": 5602, "lang": "nl", "text": "200 g prei", "ids": ["leek"]}
+{"audit": 5603, "lang": "nl", "text": "225 gram (magere) kwark", "ids": ["quark"]}
+{"audit": 5604, "lang": "nl", "text": "250 g paprika, 250 g tomaten, 1 prei", "ids": ["bell-pepper", "tomato", "leek"]}
+{"audit": 5605, "lang": "nl", "text": "250 g Pastinaak (±2 wortels)", "ids": ["parsnip"]}
+{"audit": 5606, "lang": "nl", "text": "250 g prei", "ids": ["leek"]}
+{"audit": 5607, "lang": "nl", "text": "300 g prei", "ids": ["leek"]}
+{"audit": 5608, "lang": "nl", "text": "300-400 g prei en 300-400 g tomaten", "ids": ["leek", "tomato"]}
+{"audit": 5609, "lang": "nl", "text": "350 g Prei", "ids": ["leek"]}
+{"audit": 5610, "lang": "nl", "text": "400 g prei", "ids": ["leek"]}
+{"audit": 5611, "lang": "nl", "text": "450 - 500 gram (magere) kwark", "ids": ["quark"]}
+{"audit": 5612, "lang": "nl", "text": "500 g prei", "ids": ["leek"]}
+{"audit": 5613, "lang": "nl", "text": "600 g pastinaken", "ids": ["parsnip"]}
+{"audit": 5614, "lang": "nl", "text": "8 cm prei, wit en groen", "ids": ["leek"]}
+{"audit": 5615, "lang": "nl", "text": "800 g bamigroenten, zoals prei, witte kool of spitskool, winterpeen en taugé", "ids": ["leek", "cabbage", "carrot", "bean-sprouts"]}
+{"audit": 5616, "lang": "nl", "text": "een halve dunne gesnipperde prei", "ids": ["leek"]}
+{"audit": 5617, "lang": "nl", "text": "gemalen ketoembar", "ids": ["coriander-seed"]}
+{"audit": 5618, "lang": "nl", "text": "gemalen koriander (zaad, niet het blad!)", "ids": ["coriander-seed"]}
+{"audit": 5619, "lang": "nl", "text": "groenten (bijv. plakjes wortel, prei en/of ui in ringen, bladselderij, ...)", "ids": ["carrot", "leek", "celery"], "reason": "The vegetable examples give leek and/or onion as alternatives; retain the first named option, leek, along with carrot and celery leaf."}
+{"audit": 5620, "lang": "nl", "text": "halve prei", "ids": ["leek"]}
+{"audit": 5621, "lang": "nl", "text": "Kerrie, kaneelstokjes, kruidnagel, koriander en laurierblaadjes.", "ids": ["curry-powder", "cinnamon", "clove", "coriander-seed", "bay-leaf"]}
+{"audit": 5622, "lang": "nl", "text": "kleinere prei, fijngesneden", "ids": ["leek"]}
+{"audit": 5623, "lang": "nl", "text": "knolselderij, winterpeen, prei, paprika, tomaten", "ids": ["celeriac", "carrot", "leek", "bell-pepper", "tomato"]}
+{"audit": 5624, "lang": "nl", "text": "Koriander (gemalen)", "ids": ["coriander-seed"]}
+{"audit": 5625, "lang": "nl", "text": "nootmuskaat en/of koriander", "ids": ["nutmeg"], "reason": "Nutmeg and/or coriander are alternatives; retain the first named ingredient, nutmeg."}
+{"audit": 5626, "lang": "nl", "text": "paprika, sperziebonen, prei, witte kool of spitskool, taugé", "ids": ["bell-pepper", "green-beans", "leek", "cabbage", "bean-sprouts"]}
+{"audit": 5627, "lang": "nl", "text": "Prei", "ids": ["leek"]}
+{"audit": 5628, "lang": "nl", "text": "Prei: 500 gram", "ids": ["leek"]}
+{"audit": 5629, "lang": "nl", "text": "uien, prei, paprika, spitskool: stoven", "ids": ["onion", "leek", "bell-pepper", "cabbage"]}
+{"audit": 5630, "lang": "nl", "text": "Voor het beleg: 2 grote uien, 1 staal prei, 3 teentjes verse look, 1 grote tomaat, 2 takjes verse basilicum, 2 takjes verse bladselderij, 2 eetlepels gedroogde oregano, 1/2 theelepel gedroogde chilipeper, 6 plakken gekookte ham, 6 plakken gerookt spek, 8 plakken chorizo, 200 gram champignons, 150 gram gemalen mozzarella", "ids": ["onion", "leek", "garlic", "tomato", "basil", "celery", "oregano", "dried-chiles", "ham", "bacon", "chorizo", "mushroom", "mozzarella"]}
+{"audit": 5631, "lang": "nl", "text": "½ prei", "ids": ["leek"]}
+{"audit": 5632, "lang": "nl", "text": "½ theelepel korianderpoeder", "ids": ["coriander-seed"]}
+{"audit": 5633, "lang": "nl", "text": "½ tl. korianderpoeder", "ids": ["coriander-seed"]}
+{"audit": 5634, "lang": "pl", "text": "1 por", "ids": ["leek"]}
+{"audit": 5635, "lang": "pl", "text": "1/2 łyżeczki mielonej kolendry", "ids": ["coriander-seed"]}
+{"audit": 5636, "lang": "pl", "text": "10 dag pora", "ids": ["leek"]}
+{"audit": 5637, "lang": "pl", "text": "10 dag sera białego", "ids": ["quark"]}
+{"audit": 5638, "lang": "pl", "text": "10 dag twarogu", "ids": ["quark"]}
+{"audit": 5639, "lang": "pl", "text": "150 g włoszczyzny", "ids": ["soup-greens"], "reason": "Włoszczyzna names a purchased soup-vegetable mix; the existing soup-greens id represents it without assuming an exact component list."}
+{"audit": 5640, "lang": "pl", "text": "2 marchewki, pietruszka i por", "ids": ["carrot", "parsley-root", "leek"]}
+{"audit": 5641, "lang": "pl", "text": "2 pory", "ids": ["leek"]}
+{"audit": 5642, "lang": "pl", "text": "2 pory przycięte i dokładnie wypłukane", "ids": ["leek"]}
+{"audit": 5643, "lang": "pl", "text": "2 zielone liście pora", "ids": ["leek"]}
+{"audit": 5644, "lang": "pl", "text": "2 łyżki białego sera", "ids": ["quark"]}
+{"audit": 5645, "lang": "pl", "text": "20 dag gęstego, tłustego twarogu homogenizowanego", "ids": ["quark"]}
+{"audit": 5646, "lang": "pl", "text": "20 dag twarogu", "ids": ["quark"]}
+{"audit": 5647, "lang": "pl", "text": "20 dag twarożku", "ids": ["quark"]}
+{"audit": 5648, "lang": "pl", "text": "225 g twarożku", "ids": ["quark"]}
+{"audit": 5649, "lang": "pl", "text": "25 dag sera białego", "ids": ["quark"]}
+{"audit": 5650, "lang": "pl", "text": "250 do 330 g białego sera", "ids": ["quark"]}
+{"audit": 5651, "lang": "pl", "text": "2½ ml mielonej kolendry", "ids": ["coriander-seed"]}
+{"audit": 5652, "lang": "pl", "text": "3 duże pory (głównie biała część)", "ids": ["leek"]}
+{"audit": 5653, "lang": "pl", "text": "3 grube pory", "ids": ["leek"]}
+{"audit": 5654, "lang": "pl", "text": "3 pory", "ids": ["leek"]}
+{"audit": 5655, "lang": "pl", "text": "3 łyżeczki mielonych nasion kolendry", "ids": ["coriander-seed"]}
+{"audit": 5656, "lang": "pl", "text": "30 dag włoszczyzny", "ids": ["soup-greens"], "reason": "Włoszczyzna names a soup-vegetable mix; use the existing soup-greens ingredient rather than inferred individual roots."}
+{"audit": 5657, "lang": "pl", "text": "50 dag sera białego", "ids": ["quark"]}
+{"audit": 5658, "lang": "pl", "text": "500 g białego sera", "ids": ["quark"]}
+{"audit": 5659, "lang": "pl", "text": "500 g szpinaku mrożonego", "ids": ["spinach"], "reason": "Szpinaku mrożonego means frozen spinach, not quark; source/output rows in pl-004 are visibly shifted in this region."}
+{"audit": 5660, "lang": "pl", "text": "60 g pora, pokrojonego w krążki (opcjonalnie)", "ids": ["leek"]}
+{"audit": 5661, "lang": "pl", "text": "75 dag białego sera", "ids": ["quark"]}
+{"audit": 5662, "lang": "pl", "text": "biała część 1 pora", "ids": ["leek"]}
+{"audit": 5663, "lang": "pl", "text": "biały ser", "ids": ["quark"]}
+{"audit": 5664, "lang": "pl", "text": "jeden duży por", "ids": ["leek"]}
+{"audit": 5665, "lang": "pl", "text": "kawałek pora", "ids": ["leek"]}
+{"audit": 5666, "lang": "pl", "text": "kilka gałązek lubczyka, selera i pora", "ids": ["lovage", "celery", "leek"]}
+{"audit": 5667, "lang": "pl", "text": "kilogram porów", "ids": ["leek"]}
+{"audit": 5668, "lang": "pl", "text": "kostka twarogu", "ids": ["quark"]}
+{"audit": 5669, "lang": "pl", "text": "liście pora, selera", "ids": ["leek", "celery"]}
+{"audit": 5670, "lang": "pl", "text": "mały por", "ids": ["leek"]}
+{"audit": 5671, "lang": "pl", "text": "nieduży por", "ids": ["leek"]}
+{"audit": 5672, "lang": "pl", "text": "ok. 10 cm białej części pora", "ids": ["leek"]}
+{"audit": 5673, "lang": "pl", "text": "ok. kilograma sera białego", "ids": ["quark"]}
+{"audit": 5674, "lang": "pl", "text": "około 40 dag dobrze odciśniętego twarogu (nie kwaśnego)", "ids": ["quark"]}
+{"audit": 5675, "lang": "pl", "text": "por", "ids": ["leek"]}
+{"audit": 5676, "lang": "pl", "text": "Por zielony", "ids": ["leek"]}
+{"audit": 5677, "lang": "pl", "text": "porcja włoszczyzny bez kapusty", "ids": ["soup-greens"], "reason": "A portion of włoszczyzna without cabbage is a soup-vegetable mix; soup-greens avoids confusing parsley leaves with root or imposing a fixed mixture."}
+{"audit": 5678, "lang": "pl", "text": "porcja włoszczyzny z włoską kapustą", "ids": ["soup-greens", "savoy-cabbage"], "reason": "Włoszczyzna is soup greens, with savoy cabbage explicitly added; use those existing shopping-level ingredients."}
+{"audit": 5679, "lang": "pl", "text": "pół litra serka naturalnego", "ids": ["quark"]}
+{"audit": 5680, "lang": "pl", "text": "pół pora", "ids": ["leek"]}
+{"audit": 5681, "lang": "pl", "text": "pęczek włoszczyzny", "ids": ["soup-greens"], "reason": "A bunch of włoszczyzna is soup-vegetable mix, not a fixed inferred combination of herb parsley and stalk celery."}
+{"audit": 5682, "lang": "pl", "text": "pęczek włoszczyzny bez kapusty", "ids": ["soup-greens"], "reason": "A bunch of włoszczyzna without cabbage maps to soup-greens; the text does not name the inferred individual vegetables."}
+{"audit": 5683, "lang": "pl", "text": "ser biały", "ids": ["quark"]}

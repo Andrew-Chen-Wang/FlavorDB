@@ -1,0 +1,100 @@
+{"audit": 5384, "lang": "hu", "text": "10 dkg tehéntúró", "ids": ["quark"]}
+{"audit": 5385, "lang": "hu", "text": "10 dkg tehéntúró,", "ids": ["quark"]}
+{"audit": 5386, "lang": "hu", "text": "10 dkg túró", "ids": ["quark"]}
+{"audit": 5387, "lang": "hu", "text": "10 dkg túró,", "ids": ["quark"]}
+{"audit": 5388, "lang": "hu", "text": "10 g koriandermag.", "ids": ["coriander-seed"]}
+{"audit": 5389, "lang": "hu", "text": "10-10 dkg fehérrépa, zeller,", "ids": ["parsley-root", "celeriac"], "reason": "Hungarian fehérrépa means parsley root, while zeller alongside roots in this soup-vegetable quantity means celeriac."}
+{"audit": 5390, "lang": "hu", "text": "10-10 dkg sárgarépa, fehérrépa,", "ids": ["carrot", "parsley-root"], "reason": "Fehérrépa is parsley root in Hungarian, not parsnip."}
+{"audit": 5391, "lang": "hu", "text": "100 g tehéntúró", "ids": ["quark"]}
+{"audit": 5392, "lang": "hu", "text": "100 g túró", "ids": ["quark"]}
+{"audit": 5393, "lang": "hu", "text": "12 dkg juhtúró,", "ids": ["sheep-curd"], "reason": "Juhtúró explicitly names sheep curd; do not collapse it into generic cow-milk quark."}
+{"audit": 5394, "lang": "hu", "text": "12,5 dkg tehéntúró,", "ids": ["quark"]}
+{"audit": 5395, "lang": "hu", "text": "15 dkg enyhén sós juhtúró,", "ids": ["sheep-curd"], "reason": "Juhtúró explicitly names sheep curd; lightly salted does not change the ingredient identity."}
+{"audit": 5396, "lang": "hu", "text": "15 dkg fehérrépa", "ids": ["parsley-root"], "reason": "Fehérrépa is parsley root, not parsnip."}
+{"audit": 5397, "lang": "hu", "text": "15 dkg juhtúró", "ids": ["sheep-curd"], "reason": "Juhtúró explicitly names sheep curd, with an existing precise ingredient id."}
+{"audit": 5398, "lang": "hu", "text": "15 dkg juhtúró,", "ids": ["sheep-curd"], "reason": "Juhtúró explicitly names sheep curd, with an existing precise ingredient id."}
+{"audit": 5399, "lang": "hu", "text": "15 dkg póréhagyma", "ids": ["leek"]}
+{"audit": 5400, "lang": "hu", "text": "15 dkg póréhagyma,", "ids": ["leek"]}
+{"audit": 5401, "lang": "hu", "text": "15 dkg tehéntúró", "ids": ["quark"]}
+{"audit": 5402, "lang": "hu", "text": "15 dkg tehéntúró,", "ids": ["quark"]}
+{"audit": 5403, "lang": "hu", "text": "15 dkg túró", "ids": ["quark"]}
+{"audit": 5404, "lang": "hu", "text": "15 dkg túró,", "ids": ["quark"]}
+{"audit": 5405, "lang": "hu", "text": "15 dkg túró.", "ids": ["quark"]}
+{"audit": 5406, "lang": "hu", "text": "15-15 dkg fehérrépa, sárgarépa,", "ids": ["parsley-root", "carrot"], "reason": "Fehérrépa is parsley root, not parsnip; carrot remains correct."}
+{"audit": 5407, "lang": "hu", "text": "150 dkg száraz túró.", "ids": ["quark"]}
+{"audit": 5408, "lang": "hu", "text": "2 csapott ek. koriander", "ids": ["coriander-seed"]}
+{"audit": 5409, "lang": "hu", "text": "2 csapott teáskanál koriandermag,", "ids": ["coriander-seed"]}
+{"audit": 5410, "lang": "hu", "text": "2 csomag túró,", "ids": ["quark"]}
+{"audit": 5411, "lang": "hu", "text": "2 db fehér-répa,", "ids": ["parsley-root"], "reason": "Fehér-répa is Hungarian parsley root, not parsnip."}
+{"audit": 5412, "lang": "hu", "text": "2 db fehérrépa,", "ids": ["parsley-root"], "reason": "Fehérrépa is Hungarian parsley root, not parsnip."}
+{"audit": 5413, "lang": "hu", "text": "2 db póréhagyma", "ids": ["leek"]}
+{"audit": 5414, "lang": "hu", "text": "2 db póréhagyma,", "ids": ["leek"]}
+{"audit": 5415, "lang": "hu", "text": "2 ek juhtúró", "ids": ["sheep-curd"], "reason": "Juhtúró explicitly names sheep curd, with an existing precise ingredient id."}
+{"audit": 5416, "lang": "hu", "text": "2 ek koriander,", "ids": ["coriander-powder"], "reason": "The Sak spinach recipe briefly fries its powder spices before adding spinach; coriander here belongs to that ground-spice mixture, not fresh cilantro."}
+{"audit": 5417, "lang": "hu", "text": "2 ek sovány túró,", "ids": ["quark"]}
+{"audit": 5418, "lang": "hu", "text": "2 fehérrépa", "ids": ["parsley-root"], "reason": "Fehérrépa is Hungarian parsley root, not parsnip."}
+{"audit": 5419, "lang": "hu", "text": "2 kis szál fehérrépa,", "ids": ["parsley-root"], "reason": "The small fehérrépa roots are parsley roots, not parsnips."}
+{"audit": 5420, "lang": "hu", "text": "2 kk őrölt koriander,", "ids": ["coriander-powder"], "reason": "Őrölt koriander explicitly names ground coriander; a specific powder id exists."}
+{"audit": 5421, "lang": "hu", "text": "2 közepes fehérrépa,", "ids": ["parsley-root"], "reason": "Fehérrépa is Hungarian parsley root, not parsnip."}
+{"audit": 5422, "lang": "hu", "text": "2 mokkáskanál őrölt koriander", "ids": ["coriander-powder"], "reason": "Őrölt koriander explicitly names ground coriander; use the specific powder id."}
+{"audit": 5423, "lang": "hu", "text": "2 nagy szál póréhagyma", "ids": ["leek"]}
+{"audit": 5424, "lang": "hu", "text": "2 paszternák,", "ids": ["parsnip"]}
+{"audit": 5425, "lang": "hu", "text": "2 póréhagyma", "ids": ["leek"]}
+{"audit": 5426, "lang": "hu", "text": "2 póréhagyma,", "ids": ["leek"]}
+{"audit": 5427, "lang": "hu", "text": "2 szál fehérrépa", "ids": ["parsley-root"], "reason": "Fehérrépa is Hungarian parsley root, not parsnip."}
+{"audit": 5428, "lang": "hu", "text": "2 szál fehérrépa,", "ids": ["parsley-root"], "reason": "Fehérrépa is Hungarian parsley root, not parsnip."}
+{"audit": 5429, "lang": "hu", "text": "2 szál felaprított póréhagyma", "ids": ["leek"]}
+{"audit": 5430, "lang": "hu", "text": "2 szál póréhagyma (csak a fehér része)", "ids": ["leek"]}
+{"audit": 5431, "lang": "hu", "text": "2 szál póréhagyma,", "ids": ["leek"]}
+{"audit": 5432, "lang": "hu", "text": "2 szál vastag póréhagyma,", "ids": ["leek"]}
+{"audit": 5433, "lang": "hu", "text": "2,5 dkg koriandermag,", "ids": ["coriander-seed"]}
+{"audit": 5434, "lang": "hu", "text": "2-2 kk fekete mustármag, őrölt koriander,", "ids": ["black-mustard-seeds", "coriander-powder"], "reason": "The line specifically names black mustard seeds and ground coriander; both precise existing ids are available."}
+{"audit": 5435, "lang": "hu", "text": "20 dkg krémtúró,", "ids": ["quark"]}
+{"audit": 5436, "lang": "hu", "text": "20 dkg póréhagyma,", "ids": ["leek"]}
+{"audit": 5437, "lang": "hu", "text": "20 dkg tehéntúró,", "ids": ["quark"]}
+{"audit": 5438, "lang": "hu", "text": "20 dkg túró", "ids": ["quark"]}
+{"audit": 5439, "lang": "hu", "text": "20 dkg túró,", "ids": ["quark"]}
+{"audit": 5440, "lang": "hu", "text": "20-20 dkg túró, vaj, és liszt", "ids": ["quark", "butter", "flour"]}
+{"audit": 5441, "lang": "hu", "text": "200 g Póréhagyma", "ids": ["leek"]}
+{"audit": 5442, "lang": "hu", "text": "24 dkg túró", "ids": ["quark"]}
+{"audit": 5443, "lang": "hu", "text": "25 dkg (sovány) túró", "ids": ["quark"]}
+{"audit": 5444, "lang": "hu", "text": "25 dkg félzsíros tehéntúró", "ids": ["quark"]}
+{"audit": 5445, "lang": "hu", "text": "25 dkg félzsíros tehéntúró,", "ids": ["quark"]}
+{"audit": 5446, "lang": "hu", "text": "25 dkg kapros túrókrém,", "ids": ["quark", "dill"]}
+{"audit": 5447, "lang": "hu", "text": "25 dkg sovány túró", "ids": ["quark"]}
+{"audit": 5448, "lang": "hu", "text": "25 dkg sovány túró,", "ids": ["quark"]}
+{"audit": 5449, "lang": "hu", "text": "25 dkg szitán áttört túró,", "ids": ["quark"]}
+{"audit": 5450, "lang": "hu", "text": "25 dkg tehéntúró", "ids": ["quark"]}
+{"audit": 5451, "lang": "hu", "text": "25 dkg tehéntúró,", "ids": ["quark"]}
+{"audit": 5452, "lang": "hu", "text": "25 dkg túró", "ids": ["quark"]}
+{"audit": 5453, "lang": "hu", "text": "25 dkg túró,", "ids": ["quark"]}
+{"audit": 5454, "lang": "hu", "text": "25 dkg áttört tehén vagy juhtúró,", "ids": ["quark"]}
+{"audit": 5455, "lang": "hu", "text": "25 dkg áttört tehéntúró,", "ids": ["quark"]}
+{"audit": 5456, "lang": "hu", "text": "25 dkg áttört túró,", "ids": ["quark"]}
+{"audit": 5457, "lang": "hu", "text": "25 dkg étkezési túró,", "ids": ["quark"]}
+{"audit": 5458, "lang": "hu", "text": "250 g túró", "ids": ["quark"]}
+{"audit": 5459, "lang": "hu", "text": "3 db vékonyan felszeletelt póréhagyma,", "ids": ["leek"]}
+{"audit": 5460, "lang": "hu", "text": "3 póré fehér része,", "ids": ["leek"]}
+{"audit": 5461, "lang": "hu", "text": "3 póréhagyma", "ids": ["leek"]}
+{"audit": 5462, "lang": "hu", "text": "3-4 szál póréhagyma", "ids": ["leek"]}
+{"audit": 5463, "lang": "hu", "text": "30 dkg túró", "ids": ["quark"]}
+{"audit": 5464, "lang": "hu", "text": "30 dkg túró,", "ids": ["quark"]}
+{"audit": 5465, "lang": "hu", "text": "30-40 dkg túró", "ids": ["quark"]}
+{"audit": 5466, "lang": "hu", "text": "35 dkg gomolyatúró", "ids": ["gomolya"], "reason": "Gomolyatúró is Hungarian fresh gomolya cheese curd; the recipe crumbles gomolya into zucchini filling. It should not be collapsed into acid-set quark. New precise dairy ingredient needed."}
+{"audit": 5467, "lang": "hu", "text": "35 dkg túró", "ids": ["quark"]}
+{"audit": 5468, "lang": "hu", "text": "35 dkg túró,", "ids": ["quark"]}
+{"audit": 5469, "lang": "hu", "text": "375 gramm túró", "ids": ["quark"]}
+{"audit": 5470, "lang": "hu", "text": "40 dkg puha túró,", "ids": ["quark"]}
+{"audit": 5471, "lang": "hu", "text": "40 dkg tehéntúró,", "ids": ["quark"]}
+{"audit": 5472, "lang": "hu", "text": "40 dkg túró", "ids": ["quark"]}
+{"audit": 5473, "lang": "hu", "text": "40 dkg túró,", "ids": ["quark"]}
+{"audit": 5474, "lang": "hu", "text": "400 g zsíros túrósajt vagy túró", "ids": ["quark"]}
+{"audit": 5475, "lang": "hu", "text": "41 dkg túró", "ids": ["quark"]}
+{"audit": 5476, "lang": "hu", "text": "45 dkg túró,", "ids": ["quark"]}
+{"audit": 5477, "lang": "hu", "text": "5 dkg paszternákgyökér,", "ids": ["parsnip"]}
+{"audit": 5478, "lang": "hu", "text": "5 dkg póréhagyma", "ids": ["leek"]}
+{"audit": 5479, "lang": "hu", "text": "5 dkg póréhagyma,", "ids": ["leek"]}
+{"audit": 5480, "lang": "hu", "text": "5 dkg tehéntúró,", "ids": ["quark"]}
+{"audit": 5481, "lang": "hu", "text": "5 szem koriander,", "ids": ["coriander-seed"]}
+{"audit": 5482, "lang": "hu", "text": "5 szál póréhagyma,", "ids": ["leek"]}
+{"audit": 5483, "lang": "hu", "text": "50 dkg póréhagyma,", "ids": ["leek"]}

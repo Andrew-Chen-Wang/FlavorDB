@@ -1,0 +1,62 @@
+import type { Ingredient } from "./types"
+
+export const worldIngredientAdditions: Ingredient[] = [
+  { id: "beurre-rouge", name: "Beurre rouge", category: "sauce", aliases: ["Бер руж"] },
+  { id: "caokou", name: "Caokou", category: "spice", aliases: ["草寇", "草蔻"] },
+  { id: "carob-glaze", name: "Carob glaze", category: "sweetener", aliases: ["karobmáz"] },
+  { id: "fish-offal", name: "Fish offal", category: "seafood", aliases: ["halbelső"] },
+  { id: "gomolya", name: "Gomolya cheese", category: "dairy", aliases: ["gomolyatúró"] },
+  { id: "guilinggao-powder", name: "Guilinggao powder", category: "other", aliases: ["龟苓膏粉"] },
+  {
+    id: "ice-cream-stabilizer",
+    name: "Ice cream stabilizer",
+    category: "other",
+    aliases: ["liga neutra"],
+  },
+  { id: "kuli-kuli", name: "Kuli-kuli", category: "other" },
+  { id: "malay-apple", name: "Malay apple", category: "fruit", aliases: ["Syzygium malaccense"] },
+  { id: "meat-stew", name: "Prepared meat stew", category: "protein", aliases: ["pörkölt"] },
+  { id: "natto-starter", name: "Natto starter", category: "other", aliases: ["nattomoto"] },
+  {
+    id: "olive-vegetable-relish",
+    name: "Olive vegetable relish",
+    category: "sauce",
+    aliases: ["橄榄菜", "榄菜"],
+  },
+  {
+    id: "olomouc-curd-cheese",
+    name: "Olomouc curd cheese",
+    category: "dairy",
+    aliases: ["Olomoucké tvarůžky"],
+  },
+  {
+    id: "parmentier-soup",
+    name: "Prepared Parmentier soup",
+    category: "other",
+    aliases: ["суп Пармантье"],
+  },
+  {
+    id: "poppy-seed-filling",
+    name: "Poppy seed filling",
+    category: "sweetener",
+    aliases: ["masa makowa"],
+  },
+  {
+    id: "potassium-metabisulfite",
+    name: "Potassium metabisulfite",
+    category: "other",
+    aliases: ["borkénpor"],
+  },
+  { id: "qizha", name: "Qizha black cumin paste", category: "sauce" },
+  { id: "rose-oil", name: "Rose oil", category: "fat", aliases: ["rózsaolaj"] },
+  { id: "sekihan", name: "Sekihan", category: "grain", aliases: ["赤飯"] },
+  { id: "shrimp-butter", name: "Shrimp butter", category: "fat", aliases: ["креветочное масло"] },
+  { id: "soup-pearls", name: "Fried soup pearls", category: "grain", aliases: ["levesgyöngy"] },
+  { id: "vada", name: "Vada", category: "other" },
+  {
+    id: "veal-quenelle",
+    name: "Veal quenelle",
+    category: "protein",
+    aliases: ["quenelle de veau"],
+  },
+]

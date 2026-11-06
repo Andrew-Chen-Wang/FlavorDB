@@ -1,0 +1,200 @@
+{"audit": 4884, "lang": "fr", "text": "1 verre d'eau chaude", "ids": ["water"]}
+{"audit": 4885, "lang": "fr", "text": "1 verre de bouillon de viande,", "ids": ["beef-stock"], "reason": "Bouillon de viande is a meat stock; beef-stock is a reasonable existing proxy in the source beef bolognese, though the isolated phrase does not itself specify species."}
+{"audit": 4886, "lang": "fr", "text": "1 verre de boulghour gros", "ids": ["bulgur"]}
+{"audit": 4887, "lang": "fr", "text": "1 verre de calvados (4 cl);", "ids": ["calvados"]}
+{"audit": 4888, "lang": "fr", "text": "1 verre de farine", "ids": ["flour"]}
+{"audit": 4889, "lang": "fr", "text": "1 verre de kirsch,", "ids": ["kirsch"]}
+{"audit": 4890, "lang": "fr", "text": "1 verre de lait", "ids": ["milk"]}
+{"audit": 4891, "lang": "fr", "text": "1 verre de lait frais", "ids": ["milk"]}
+{"audit": 4892, "lang": "fr", "text": "1 verre de lait, ou de la crème fraîche", "ids": ["milk"]}
+{"audit": 4893, "lang": "fr", "text": "1 verre de lentilles", "ids": ["lentils"]}
+{"audit": 4894, "lang": "fr", "text": "1 verre de moutarde", "ids": ["mustard"]}
+{"audit": 4895, "lang": "fr", "text": "1 verre de rhum", "ids": ["rum"]}
+{"audit": 4896, "lang": "fr", "text": "1 verre de vin blanc", "ids": ["white-wine"]}
+{"audit": 4897, "lang": "fr", "text": "1 verre de vin blanc (Chardonnay du Jura, Savagnin du Jura ou Riesling d'Alsace)", "ids": ["white-wine"]}
+{"audit": 4898, "lang": "fr", "text": "1 verre de vin blanc du Jura", "ids": ["white-wine"]}
+{"audit": 4899, "lang": "fr", "text": "1 verre de vin blanc du Jura,", "ids": ["white-wine"]}
+{"audit": 4900, "lang": "fr", "text": "1 verre de vin blanc sec", "ids": ["white-wine"]}
+{"audit": 4901, "lang": "fr", "text": "1 verre de vin blanc sec,", "ids": ["white-wine"]}
+{"audit": 4902, "lang": "fr", "text": "1 verre de vin jaune du Jura,", "ids": ["white-wine"], "reason": "Vin jaune from the Jura is a white wine; use the existing white-wine id rather than generic wine."}
+{"audit": 4903, "lang": "fr", "text": "1 verre de vin jaune, voire de Château-Chalon,", "ids": ["white-wine"], "reason": "Vin jaune/Chateau-Chalon names the Jura white wine, not an unspecified wine."}
+{"audit": 4904, "lang": "fr", "text": "1 verre de vin rouge", "ids": ["red-wine"]}
+{"audit": 4905, "lang": "fr", "text": "1 verre de vinaigre", "ids": ["vinegar"]}
+{"audit": 4906, "lang": "fr", "text": "1 verre de vinaigre de vin", "ids": ["wine-vinegar"]}
+{"audit": 4907, "lang": "fr", "text": "1 verre d’eau", "ids": ["water"]}
+{"audit": 4908, "lang": "fr", "text": "1 verre d’huile de tournesol", "ids": ["sunflower-oil"]}
+{"audit": 4909, "lang": "fr", "text": "1 verre à liqueur de cognac ou marc de Bourgogne,", "ids": ["cognac"]}
+{"audit": 4910, "lang": "fr", "text": "1 verre à thé d'eau de fleur d'oranger", "ids": ["orange-blossom-water"]}
+{"audit": 4911, "lang": "fr", "text": "1 verre à thé d'huile d'olive,", "ids": ["olive-oil"]}
+{"audit": 4912, "lang": "fr", "text": "1 vingtaine de grains de poivre entiers", "ids": ["black-pepper"]}
+{"audit": 4913, "lang": "fr", "text": "1 volume de pâtes (nouilles)", "ids": ["noodles"], "reason": "The parenthesis explicitly identifies these pasta as nouilles; the existing noodles id is more specific."}
+{"audit": 4914, "lang": "fr", "text": "1 X 8 oz de barre Hershey (râpée),", "ids": ["chocolate"]}
+{"audit": 4915, "lang": "fr", "text": "1 yaourt", "ids": ["yogurt"]}
+{"audit": 4916, "lang": "fr", "text": "1 yaourt (dont le pot sert de mesure)", "ids": ["yogurt"]}
+{"audit": 4917, "lang": "fr", "text": "1 yaourt (garder le pot comme mesure \"6 pots de farine...\"),", "ids": ["yogurt"]}
+{"audit": 4918, "lang": "fr", "text": "1 yaourt brassé,", "ids": ["yogurt"]}
+{"audit": 4919, "lang": "fr", "text": "1 yaourt nature", "ids": ["yogurt"]}
+{"audit": 4920, "lang": "fr", "text": "1 zeste d'orange", "ids": ["orange-zest"], "reason": "The ingredient is orange zest, for which a specific id exists, rather than the whole orange."}
+{"audit": 4921, "lang": "fr", "text": "1 zeste de citron", "ids": ["lemon-peel"], "reason": "The ingredient is lemon zest; lemon-peel is the existing specific citrus-part id."}
+{"audit": 4922, "lang": "fr", "text": "1 zeste de citron (selon les goûts).", "ids": ["lemon-peel"], "reason": "The ingredient is lemon zest, not the whole lemon."}
+{"audit": 4923, "lang": "fr", "text": "1 zeste de citron non traité", "ids": ["lemon-peel"], "reason": "The ingredient is untreated lemon zest, not the whole lemon."}
+{"audit": 4924, "lang": "fr", "text": "1 zeste de citron non traité râpé", "ids": ["lemon-peel"], "reason": "The ingredient is grated untreated lemon zest, not the whole lemon."}
+{"audit": 4925, "lang": "fr", "text": "1 zeste de citron ou d'orange", "ids": ["lemon-peel"], "reason": "The first alternative is lemon zest; use its peel id rather than whole lemon."}
+{"audit": 4926, "lang": "fr", "text": "1 zeste de citron râpé", "ids": ["lemon-peel"], "reason": "The ingredient is grated lemon zest, not the whole lemon."}
+{"audit": 4927, "lang": "fr", "text": "1 zeste de citron râpé,", "ids": ["lemon-peel"], "reason": "The ingredient is grated lemon zest, not the whole lemon."}
+{"audit": 4928, "lang": "fr", "text": "1 zeste de citron,", "ids": ["lemon-peel"], "reason": "The ingredient is lemon zest, not the whole lemon."}
+{"audit": 4929, "lang": "fr", "text": "1 ½ pot d'huile d'arachide,", "ids": ["peanut-oil"], "reason": "The text names peanut oil; the lemon mapping is an apparent positional error."}
+{"audit": 4930, "lang": "fr", "text": "1 ½ sachet de levure chimique,", "ids": ["baking-powder"], "reason": "Levure chimique is baking powder, not the preceding peanut oil."}
+{"audit": 4931, "lang": "fr", "text": "1 à 2 blanc d’œufs (suivant le calibre),", "ids": ["egg"], "reason": "The text names egg whites, not baking powder; egg is the available ingredient id."}
+{"audit": 4932, "lang": "fr", "text": "1 à 2 c. à thé de sel (au goût)", "ids": ["salt"], "reason": "The text names salt, not the preceding egg."}
+{"audit": 4933, "lang": "fr", "text": "1 à 2 courgettes,", "ids": ["zucchini"], "reason": "Courgettes are zucchini, not salt."}
+{"audit": 4934, "lang": "fr", "text": "1 à 2 cuillères à café de piments séchés et écrasés", "ids": ["dried-chiles"], "reason": "The text names dried crushed chile peppers, not zucchini."}
+{"audit": 4935, "lang": "fr", "text": "1 à 2 gousses d'ail", "ids": ["garlic"], "reason": "Gousses d ail are garlic cloves, not dried chiles."}
+{"audit": 4936, "lang": "fr", "text": "1 à 2 gousses d'ail (germe ôté),", "ids": ["garlic"]}
+{"audit": 4937, "lang": "fr", "text": "1 à 2 pommes de terre (en dés, leur présence est parfois discutée),", "ids": ["potato"], "reason": "Pommes de terre are potatoes, not garlic."}
+{"audit": 4938, "lang": "fr", "text": "1 échalote", "ids": ["shallot"], "reason": "Echalote is shallot, not the preceding potato."}
+{"audit": 4939, "lang": "fr", "text": "1 échalote hachée", "ids": ["shallot"]}
+{"audit": 4940, "lang": "fr", "text": "1 échalote émincée", "ids": ["shallot"]}
+{"audit": 4941, "lang": "fr", "text": "1 échalote,", "ids": ["shallot"]}
+{"audit": 4942, "lang": "fr", "text": "1 écorce d'orange,", "ids": ["orange-peel"], "reason": "Ecorce d orange names orange peel, not shallot."}
+{"audit": 4943, "lang": "fr", "text": "1 épaule d'agneau non désossée", "ids": ["lamb"]}
+{"audit": 4944, "lang": "fr", "text": "1 œuf", "ids": ["egg"]}
+{"audit": 4945, "lang": "fr", "text": "1 œuf ;", "ids": ["egg"]}
+{"audit": 4946, "lang": "fr", "text": "1 œuf battu", "ids": ["egg"]}
+{"audit": 4947, "lang": "fr", "text": "1 œuf battu pour la pâte à eggs roll, qui sert de « colle ».", "ids": ["egg"]}
+{"audit": 4948, "lang": "fr", "text": "1 œuf entier", "ids": ["egg"]}
+{"audit": 4949, "lang": "fr", "text": "1 œuf entier (l'albumine (le blanc d'œuf) fera office de liant),", "ids": ["egg"]}
+{"audit": 4950, "lang": "fr", "text": "1 œuf entier + 1 jaune", "ids": ["egg"]}
+{"audit": 4951, "lang": "fr", "text": "1 œuf entier,", "ids": ["egg"]}
+{"audit": 4952, "lang": "fr", "text": "1 œuf,", "ids": ["egg"]}
+{"audit": 4953, "lang": "fr", "text": "1 œuf, (si vous voulez),", "ids": ["egg"]}
+{"audit": 4954, "lang": "fr", "text": "1 œuf, le jaune à part et le blanc battu en neige", "ids": ["egg"]}
+{"audit": 4955, "lang": "fr", "text": "1 œuf.", "ids": ["egg"]}
+{"audit": 4956, "lang": "fr", "text": "1'5 litres de lait", "ids": ["milk"]}
+{"audit": 4957, "lang": "fr", "text": "1,0 kg de citrons non-traités", "ids": ["lemon"]}
+{"audit": 4958, "lang": "fr", "text": "1,2 kg de veau (épaule désossée, jarret),", "ids": ["veal"]}
+{"audit": 4959, "lang": "fr", "text": "1,2 kg de viande de bœuf de première catégorie, telle que le faux-filet ou le filet),", "ids": ["beef"]}
+{"audit": 4960, "lang": "fr", "text": "1,2 kg de viande de mouton (poitrine ou collier)", "ids": ["lamb"]}
+{"audit": 4961, "lang": "fr", "text": "1,2 kg farine", "ids": ["flour"]}
+{"audit": 4962, "lang": "fr", "text": "1,2 l de bouillon de poulet", "ids": ["chicken-stock"]}
+{"audit": 4963, "lang": "fr", "text": "1,3 litre d'eau", "ids": ["water"]}
+{"audit": 4964, "lang": "fr", "text": "1,4 kg de bœuf à braiser", "ids": ["beef"]}
+{"audit": 4965, "lang": "fr", "text": "1,4 l de bouillon de légumes", "ids": ["vegetable-stock"]}
+{"audit": 4966, "lang": "fr", "text": "1,4 L de Bouillon de légumes", "ids": ["vegetable-stock"]}
+{"audit": 4967, "lang": "fr", "text": "1,5 dl d'eau (adapter selon que la farine absorbe plus ou moins d'eau)", "ids": ["water"]}
+{"audit": 4968, "lang": "fr", "text": "1,5 dl de lait,", "ids": ["milk"]}
+{"audit": 4969, "lang": "fr", "text": "1,5 g de sel, basilic, poudre d’ail, poivre noir, huile.", "ids": ["salt", "basil", "garlic-powder", "black-pepper", "vegetable-oil"], "reason": "The multi-ingredient line explicitly names garlic powder; preserve the other four ingredients and use its specific existing id."}
+{"audit": 4970, "lang": "fr", "text": "1,5 kg de bœuf (rumpsteak)", "ids": ["beef"]}
+{"audit": 4971, "lang": "fr", "text": "1,5 kg de choucroute crue", "ids": ["sauerkraut"]}
+{"audit": 4972, "lang": "fr", "text": "1,5 kg de poisson varié (lotte, cabillaud, merlu)", "ids": ["monkfish", "cod", "hake"]}
+{"audit": 4973, "lang": "fr", "text": "1,5 kg de pommes", "ids": ["apple"]}
+{"audit": 4974, "lang": "fr", "text": "1,5 kg de pommes de terre (choisir plutôt des pommes de terre qui tiennent bien à la cuisson, genre charlotte ou roseval)", "ids": ["potato"]}
+{"audit": 4975, "lang": "fr", "text": "1,5 kg de pommes de terre épluchées et coupées en gros morceaux,", "ids": ["potato"]}
+{"audit": 4976, "lang": "fr", "text": "1,5 kg de semoule de blé dur (« couscous »),", "ids": ["couscous"]}
+{"audit": 4977, "lang": "fr", "text": "1,5 kg de sucre", "ids": ["sugar"]}
+{"audit": 4978, "lang": "fr", "text": "1,5 l d'eau", "ids": ["water"]}
+{"audit": 4979, "lang": "fr", "text": "1,5 l d'eau.", "ids": ["water"]}
+{"audit": 4980, "lang": "fr", "text": "1,5 l de bouillon de bœuf ou de volaille (on peut la faire à l'eau simple, mais c'est moins savoureux)", "ids": ["beef-stock"]}
+{"audit": 4981, "lang": "fr", "text": "1,5 l. d'eau bouillie refroidie.", "ids": ["water"]}
+{"audit": 4982, "lang": "fr", "text": "1,5 litre d'eau", "ids": ["water"]}
+{"audit": 4983, "lang": "fr", "text": "1,5 litre d’eau", "ids": ["water"]}
+{"audit": 4984, "lang": "fr", "text": "1,5 à 2 kg de coq, si possible de Bresse, découpé en morceaux en conservant la peau,", "ids": ["chicken"]}
+{"audit": 4985, "lang": "fr", "text": "1,5L de légumes verts émincés (feuilles de chou frisé, poireaux, blettes, épinards, salade, branches de céleri, etc.)", "ids": ["kale", "leek", "chard", "spinach", "lettuce", "celery"]}
+{"audit": 4986, "lang": "fr", "text": "1,6 kg de viande de bœuf", "ids": ["beef"]}
+{"audit": 4987, "lang": "fr", "text": "1,8 g de feuilles de laurier fraîches,", "ids": ["bay-leaf"]}
+{"audit": 4988, "lang": "fr", "text": "1-2 cuillerées de paprika doux,", "ids": ["sweet-paprika"], "reason": "Paprika doux explicitly means sweet paprika; a specific id exists."}
+{"audit": 4989, "lang": "fr", "text": "1-2 gros concombres", "ids": ["cucumber"]}
+{"audit": 4990, "lang": "fr", "text": "1-2 pincées de paprika rouge", "ids": ["paprika"]}
+{"audit": 4991, "lang": "fr", "text": "1-3 Cuillères à soupe de fleur d'oranger.", "ids": ["orange-blossom-water"]}
+{"audit": 4992, "lang": "fr", "text": "1.000 g de poissons divers (vivaneau, chat, grand-gueule, tanche, thon, thazard...)", "ids": ["snapper", "catfish", "tench", "tuna", "mackerel"], "reason": "The mixed-fish list additionally names thazard, a mackerel; preserve the four identified fish and include mackerel. Grand-gueule is an additional local fish name that cannot be assigned to a precise existing species id confidently from this text alone; its identity still needs a source-specific check."}
+{"audit": 4993, "lang": "fr", "text": "1.200 kg de viande hachée,", "ids": ["ground-meat"], "reason": "The text only specifies minced meat, with no species. Use ground-meat rather than assuming beef."}
+{"audit": 4994, "lang": "fr", "text": "1.5 cl d'eau de fleur d'oranger", "ids": ["orange-blossom-water"]}
+{"audit": 4995, "lang": "fr", "text": "1.5 cl d'extrait de vanille liquide", "ids": ["vanilla"]}
+{"audit": 4996, "lang": "fr", "text": "1.5 dl de jus de citron", "ids": ["lemon"]}
+{"audit": 4997, "lang": "fr", "text": "1.5 kg de pommes de terre,", "ids": ["potato"]}
+{"audit": 4998, "lang": "fr", "text": "1.5L d'eau", "ids": ["water"]}
+{"audit": 4999, "lang": "fr", "text": "1/2 baguette de pain", "ids": ["baguette"], "reason": "The text explicitly names a baguette; the existing baguette id is more specific than generic bread."}
+{"audit": 5000, "lang": "fr", "text": "1/2 blanc de poireaux", "ids": ["leek"]}
+{"audit": 5001, "lang": "fr", "text": "1/2 bol de farine", "ids": ["flour"]}
+{"audit": 5002, "lang": "fr", "text": "1/2 bouquet de coriandre,", "ids": ["cilantro"]}
+{"audit": 5003, "lang": "fr", "text": "1/2 bouquet de persil haché, sel", "ids": ["parsley", "salt"]}
+{"audit": 5004, "lang": "fr", "text": "1/2 bouquet de persil,", "ids": ["parsley"]}
+{"audit": 5005, "lang": "fr", "text": "1/2 c.c. de poudre de curcuma,", "ids": ["turmeric"]}
+{"audit": 5006, "lang": "fr", "text": "1/2 c.c. de poudre de curry,", "ids": ["curry-powder"]}
+{"audit": 5007, "lang": "fr", "text": "1/2 c.s. de sucre,", "ids": ["sugar"]}
+{"audit": 5008, "lang": "fr", "text": "1/2 camembert de Normandie", "ids": ["camembert"]}
+{"audit": 5009, "lang": "fr", "text": "1/2 CC de poivre.", "ids": ["black-pepper"]}
+{"audit": 5010, "lang": "fr", "text": "1/2 chou-navet", "ids": ["rutabaga"], "reason": "Chou-navet is rutabaga/swede. Kohlrabi is chou-rave, a different vegetable."}
+{"audit": 5011, "lang": "fr", "text": "1/2 citron", "ids": ["lemon"]}
+{"audit": 5012, "lang": "fr", "text": "1/2 citron vert.", "ids": ["lime"]}
+{"audit": 5013, "lang": "fr", "text": "1/2 citron,", "ids": ["lemon"]}
+{"audit": 5014, "lang": "fr", "text": "1/2 citrons,", "ids": ["lemon"]}
+{"audit": 5015, "lang": "fr", "text": "1/2 cuiller à café de sucre semoule", "ids": ["sugar"]}
+{"audit": 5016, "lang": "fr", "text": "1/2 cuillerée à 1 café de sel,", "ids": ["salt"]}
+{"audit": 5017, "lang": "fr", "text": "1/2 cuillerée à café de gingembre", "ids": ["ginger"]}
+{"audit": 5018, "lang": "fr", "text": "1/2 cuillerée à café de quatre-épices,", "ids": ["four-spices"]}
+{"audit": 5019, "lang": "fr", "text": "1/2 cuillerée à café de sel,", "ids": ["salt"]}
+{"audit": 5020, "lang": "fr", "text": "1/2 cuillerée à soupe de sel,", "ids": ["salt"]}
+{"audit": 5021, "lang": "fr", "text": "1/2 cuillère de cannelle en poudre", "ids": ["cinnamon"]}
+{"audit": 5022, "lang": "fr", "text": "1/2 cuillère de gingembre", "ids": ["ginger"]}
+{"audit": 5023, "lang": "fr", "text": "1/2 cuillère à café de cannelle en poudre", "ids": ["cinnamon"]}
+{"audit": 5024, "lang": "fr", "text": "1/2 cuillère à café de coriandre en poudre", "ids": ["coriander-seed"]}
+{"audit": 5025, "lang": "fr", "text": "1/2 cuillère à café de cumin en poudre", "ids": ["cumin"]}
+{"audit": 5026, "lang": "fr", "text": "1/2 cuillère à café de cumin,", "ids": ["cumin"]}
+{"audit": 5027, "lang": "fr", "text": "1/2 cuillère à café de curcuma", "ids": ["turmeric"]}
+{"audit": 5028, "lang": "fr", "text": "1/2 cuillère à café de garam massala", "ids": ["garam-masala"]}
+{"audit": 5029, "lang": "fr", "text": "1/2 cuillère à café de graines de cumin", "ids": ["cumin"]}
+{"audit": 5030, "lang": "fr", "text": "1/2 cuillère à café de levure chimique (poudre à lever).", "ids": ["baking-powder"]}
+{"audit": 5031, "lang": "fr", "text": "1/2 cuillère à café de sel,", "ids": ["salt"]}
+{"audit": 5032, "lang": "fr", "text": "1/2 cuillère à café de sucre vanillé", "ids": ["vanilla-sugar"]}
+{"audit": 5033, "lang": "fr", "text": "1/2 cuillères à café de crème de tartre", "ids": ["cream-of-tartar"]}
+{"audit": 5034, "lang": "fr", "text": "1/2 céleri", "ids": ["celeriac"], "reason": "In the source goulash vegetable list, half a celery denotes the celery root/celeriac rather than leafy celery stalks."}
+{"audit": 5035, "lang": "fr", "text": "1/2 feuille de laurier, 2 pincées d'herbes de Provence, 2 pincées de quatre-épices, sel et poivre du moulin", "ids": ["bay-leaf", "herbes-de-provence", "four-spices", "salt", "black-pepper"]}
+{"audit": 5036, "lang": "fr", "text": "1/2 fleur d'oranger,", "ids": ["orange-blossom-water"]}
+{"audit": 5037, "lang": "fr", "text": "1/2 gousse d'ail", "ids": ["garlic"]}
+{"audit": 5038, "lang": "fr", "text": "1/2 gousse d’ail, 2 échalotes", "ids": ["garlic", "shallot"]}
+{"audit": 5039, "lang": "fr", "text": "1/2 kg de viande hachée (bœuf)", "ids": ["ground-beef"]}
+{"audit": 5040, "lang": "fr", "text": "1/2 l de bouillon", "ids": ["stock"]}
+{"audit": 5041, "lang": "fr", "text": "1/2 l de lait", "ids": ["milk"]}
+{"audit": 5042, "lang": "fr", "text": "1/2 l de vin rouge", "ids": ["red-wine"]}
+{"audit": 5043, "lang": "fr", "text": "1/2 litre d' eau", "ids": ["water"]}
+{"audit": 5044, "lang": "fr", "text": "1/2 litre d'eau", "ids": ["water"]}
+{"audit": 5045, "lang": "fr", "text": "1/2 litre d'eau chauffée. En fait, la quantité d'eau dépend de l'épaisseur que vous désirez donner à la sauce.", "ids": ["water"]}
+{"audit": 5046, "lang": "fr", "text": "1/2 litre d'huile d'arachide,", "ids": ["peanut-oil"]}
+{"audit": 5047, "lang": "fr", "text": "1/2 litre de crème fraîche, 10 cl de crème maigre,", "ids": ["creme-fraiche", "cream"], "reason": "The line names both creme fraiche and an additional quantity of low-fat cream; include both."}
+{"audit": 5048, "lang": "fr", "text": "1/2 litre de lait", "ids": ["milk"]}
+{"audit": 5049, "lang": "fr", "text": "1/2 litre de lait entier", "ids": ["milk"]}
+{"audit": 5050, "lang": "fr", "text": "1/2 litre d’eau chaude", "ids": ["water"]}
+{"audit": 5051, "lang": "fr", "text": "1/2 livarot", "ids": ["livarot"]}
+{"audit": 5052, "lang": "fr", "text": "1/2 oignon en petits dés", "ids": ["onion"]}
+{"audit": 5053, "lang": "fr", "text": "1/2 pincée de poivre", "ids": ["black-pepper"]}
+{"audit": 5054, "lang": "fr", "text": "1/2 pincée de poivre gris,", "ids": ["black-pepper"]}
+{"audit": 5055, "lang": "fr", "text": "1/2 poivron rouge", "ids": ["bell-pepper"]}
+{"audit": 5056, "lang": "fr", "text": "1/2 poivron rouge en lamelles très fines", "ids": ["bell-pepper"]}
+{"audit": 5057, "lang": "fr", "text": "1/2 poivron rouge, quelques petit pois,", "ids": ["bell-pepper", "peas"]}
+{"audit": 5058, "lang": "fr", "text": "1/2 poivron vert", "ids": ["bell-pepper"]}
+{"audit": 5059, "lang": "fr", "text": "1/2 poivron vert en lamelles très fines", "ids": ["bell-pepper"]}
+{"audit": 5060, "lang": "fr", "text": "1/2 poivrons marocain ou hongrois,", "ids": ["bell-pepper"]}
+{"audit": 5061, "lang": "fr", "text": "1/2 pont-l'évêque", "ids": ["pont-leveque"]}
+{"audit": 5062, "lang": "fr", "text": "1/2 pot d'huile alimentaire", "ids": ["vegetable-oil"]}
+{"audit": 5063, "lang": "fr", "text": "1/2 pot d'huile d'olive", "ids": ["olive-oil"]}
+{"audit": 5064, "lang": "fr", "text": "1/2 sachet de levure", "ids": ["baking-powder"], "reason": "The matching source recipes are cookies, quick microwave chocolate cake, ghribia, muffins and other quick cakes; their sachet de levure is chemical baking powder, not bread yeast."}
+{"audit": 5065, "lang": "fr", "text": "1/2 sachet de levure chimique 1 sachet = 14 grammes pour 500 grammes de farine,", "ids": ["baking-powder"]}
+{"audit": 5066, "lang": "fr", "text": "1/2 sachet de levure,", "ids": ["baking-powder"], "reason": "The source flaugnarde mixes the powder directly before baking; the quick baba recipe also uses beaten egg whites without a yeast-proofing stage. These sachets are baking powder."}
+{"audit": 5067, "lang": "fr", "text": "1/2 sachet de sucre vanillé", "ids": ["vanilla-sugar"]}
+{"audit": 5068, "lang": "fr", "text": "1/2 tablette de chocolat ;", "ids": ["chocolate"]}
+{"audit": 5069, "lang": "fr", "text": "1/2 tablette de chocolat noir ou au lait ou blanc;", "ids": ["dark-chocolate"], "reason": "The first named alternative is dark chocolate, before milk or white chocolate; use its specific id."}
+{"audit": 5070, "lang": "fr", "text": "1/2 tasse (125 ml) de vin rouge", "ids": ["red-wine"]}
+{"audit": 5071, "lang": "fr", "text": "1/2 tasse de dashi", "ids": ["dashi"]}
+{"audit": 5072, "lang": "fr", "text": "1/2 tasse de fécule de maïs", "ids": ["cornstarch"]}
+{"audit": 5073, "lang": "fr", "text": "1/2 tasse de lait", "ids": ["milk"]}
+{"audit": 5074, "lang": "fr", "text": "1/2 tasse de mélasse", "ids": ["molasses"]}
+{"audit": 5075, "lang": "fr", "text": "1/2 tasse de pistaches coupées et grillées ou amandes (facultatif)", "ids": ["pistachios"]}
+{"audit": 5076, "lang": "fr", "text": "1/2 tasse de raisins secs", "ids": ["raisins"]}
+{"audit": 5077, "lang": "fr", "text": "1/2 tasse à café d'huile d'olive", "ids": ["olive-oil"]}
+{"audit": 5078, "lang": "fr", "text": "1/2 tasse à café de jus de citron vert", "ids": ["lime"]}
+{"audit": 5079, "lang": "fr", "text": "1/2 tomate,", "ids": ["tomato"]}
+{"audit": 5080, "lang": "fr", "text": "1/2 verre d'eau chaude,", "ids": ["water"]}
+{"audit": 5081, "lang": "fr", "text": "1/2 verre de beurre fondu,", "ids": ["butter"]}
+{"audit": 5082, "lang": "fr", "text": "1/2 verre de riz", "ids": ["rice"]}
+{"audit": 5083, "lang": "fr", "text": "1/2 verre de vin blanc sec", "ids": ["white-wine"]}

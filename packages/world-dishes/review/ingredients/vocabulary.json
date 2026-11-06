@@ -1,0 +1,914 @@
+[
+  {
+    "id": "beef",
+    "name": "Beef",
+    "category": "protein"
+  },
+  {
+    "id": "beef-brisket",
+    "name": "Beef brisket",
+    "category": "protein"
+  },
+  {
+    "id": "ground-beef",
+    "name": "Ground beef",
+    "category": "protein"
+  },
+  {
+    "id": "beef-tallow",
+    "name": "Beef tallow",
+    "category": "fat",
+    "aliases": ["牛油"]
+  },
+  {
+    "id": "beef-tripe",
+    "name": "Beef tripe",
+    "category": "protein",
+    "aliases": ["毛肚"]
+  },
+  {
+    "id": "pork",
+    "name": "Pork",
+    "category": "protein"
+  },
+  {
+    "id": "pork-belly",
+    "name": "Pork belly",
+    "category": "protein",
+    "aliases": ["五花肉"]
+  },
+  {
+    "id": "pork-shoulder",
+    "name": "Pork shoulder",
+    "category": "protein"
+  },
+  {
+    "id": "pork-ribs",
+    "name": "Pork ribs",
+    "category": "protein",
+    "aliases": ["排骨"]
+  },
+  {
+    "id": "ground-pork",
+    "name": "Ground pork",
+    "category": "protein"
+  },
+  {
+    "id": "pork-sausage",
+    "name": "Pork sausage",
+    "category": "protein"
+  },
+  {
+    "id": "andouille",
+    "name": "Andouille sausage",
+    "category": "protein"
+  },
+  {
+    "id": "chinese-sausage",
+    "name": "Chinese sausage",
+    "category": "protein",
+    "aliases": ["lap cheong", "腊肠"]
+  },
+  {
+    "id": "bacon",
+    "name": "Bacon",
+    "category": "protein"
+  },
+  {
+    "id": "ham",
+    "name": "Ham",
+    "category": "protein"
+  },
+  {
+    "id": "pork-aspic",
+    "name": "Pork aspic",
+    "category": "protein",
+    "aliases": ["皮冻"]
+  },
+  {
+    "id": "lamb",
+    "name": "Lamb or mutton",
+    "category": "protein"
+  },
+  {
+    "id": "chicken",
+    "name": "Chicken",
+    "category": "protein"
+  },
+  {
+    "id": "chicken-wings",
+    "name": "Chicken wings",
+    "category": "protein"
+  },
+  {
+    "id": "duck",
+    "name": "Duck",
+    "category": "protein"
+  },
+  {
+    "id": "duck-neck",
+    "name": "Duck neck",
+    "category": "protein",
+    "aliases": ["鸭脖"]
+  },
+  {
+    "id": "egg",
+    "name": "Egg",
+    "category": "protein"
+  },
+  {
+    "id": "salted-duck-egg",
+    "name": "Salted duck egg yolk",
+    "category": "protein",
+    "aliases": ["咸蛋黄"]
+  },
+  {
+    "id": "tofu",
+    "name": "Tofu",
+    "category": "legume",
+    "aliases": ["豆腐"]
+  },
+  {
+    "id": "fermented-tofu",
+    "name": "Fermented tofu brine",
+    "category": "legume"
+  },
+  {
+    "id": "tofu-skin",
+    "name": "Tofu skin",
+    "category": "legume",
+    "aliases": ["豆皮", "yuba"]
+  },
+  {
+    "id": "shrimp",
+    "name": "Shrimp",
+    "category": "seafood"
+  },
+  {
+    "id": "clams",
+    "name": "Clams",
+    "category": "seafood"
+  },
+  {
+    "id": "lobster",
+    "name": "Lobster",
+    "category": "seafood"
+  },
+  {
+    "id": "crab",
+    "name": "Crab",
+    "category": "seafood"
+  },
+  {
+    "id": "tuna",
+    "name": "Ahi tuna",
+    "category": "seafood"
+  },
+  {
+    "id": "bream",
+    "name": "Wuchang bream",
+    "category": "seafood",
+    "aliases": ["武昌鱼"]
+  },
+  {
+    "id": "dried-shrimp",
+    "name": "Dried shrimp",
+    "category": "seafood",
+    "aliases": ["虾米"]
+  },
+  {
+    "id": "oysters",
+    "name": "Oysters",
+    "category": "seafood"
+  },
+  {
+    "id": "onion",
+    "name": "Onion",
+    "category": "vegetable"
+  },
+  {
+    "id": "green-onion",
+    "name": "Green onion",
+    "category": "vegetable",
+    "aliases": ["scallion", "葱"]
+  },
+  {
+    "id": "garlic",
+    "name": "Garlic",
+    "category": "vegetable"
+  },
+  {
+    "id": "ginger",
+    "name": "Ginger",
+    "category": "vegetable"
+  },
+  {
+    "id": "celery",
+    "name": "Celery",
+    "category": "vegetable"
+  },
+  {
+    "id": "bell-pepper",
+    "name": "Bell pepper",
+    "category": "vegetable"
+  },
+  {
+    "id": "green-chile",
+    "name": "Fresh chile",
+    "category": "vegetable",
+    "aliases": ["green chile", "red chile", "chili pepper"]
+  },
+  {
+    "id": "jalapeno",
+    "name": "Jalapeño",
+    "category": "vegetable"
+  },
+  {
+    "id": "tomato",
+    "name": "Tomato",
+    "category": "vegetable"
+  },
+  {
+    "id": "potato",
+    "name": "Potato",
+    "category": "vegetable"
+  },
+  {
+    "id": "okra",
+    "name": "Okra",
+    "category": "vegetable"
+  },
+  {
+    "id": "cabbage",
+    "name": "Cabbage",
+    "category": "vegetable"
+  },
+  {
+    "id": "napa-cabbage",
+    "name": "Napa cabbage",
+    "category": "vegetable",
+    "aliases": ["白菜"]
+  },
+  {
+    "id": "bok-choy",
+    "name": "Bok choy",
+    "category": "vegetable"
+  },
+  {
+    "id": "bean-sprouts",
+    "name": "Bean sprouts",
+    "category": "vegetable"
+  },
+  {
+    "id": "lotus-root",
+    "name": "Lotus root",
+    "category": "vegetable",
+    "aliases": ["莲藕", "藕"]
+  },
+  {
+    "id": "bamboo-shoot",
+    "name": "Bamboo shoot",
+    "category": "vegetable"
+  },
+  {
+    "id": "mushroom",
+    "name": "Mushrooms",
+    "category": "vegetable"
+  },
+  {
+    "id": "shiitake",
+    "name": "Dried shiitake",
+    "category": "vegetable",
+    "aliases": ["香菇"]
+  },
+  {
+    "id": "garlic-leek",
+    "name": "Garlic leek",
+    "category": "vegetable",
+    "aliases": ["蒜苗", "Chinese leek"]
+  },
+  {
+    "id": "radish",
+    "name": "Daikon radish",
+    "category": "vegetable",
+    "aliases": ["萝卜"]
+  },
+  {
+    "id": "pickled-radish",
+    "name": "Pickled radish",
+    "category": "vegetable",
+    "aliases": ["萝卜丁"]
+  },
+  {
+    "id": "pickled-mustard",
+    "name": "Preserved mustard greens",
+    "category": "vegetable",
+    "aliases": ["芽菜", "ya cai"]
+  },
+  {
+    "id": "cucumber",
+    "name": "Cucumber",
+    "category": "vegetable"
+  },
+  {
+    "id": "lettuce",
+    "name": "Lettuce",
+    "category": "vegetable"
+  },
+  {
+    "id": "pickles",
+    "name": "Pickles",
+    "category": "vegetable"
+  },
+  {
+    "id": "corn",
+    "name": "Corn",
+    "category": "grain"
+  },
+  {
+    "id": "seaweed",
+    "name": "Seaweed",
+    "category": "vegetable"
+  },
+  {
+    "id": "sweet-potato",
+    "name": "Sweet potato",
+    "category": "vegetable"
+  },
+  {
+    "id": "cilantro",
+    "name": "Cilantro",
+    "category": "herb"
+  },
+  {
+    "id": "parsley",
+    "name": "Parsley",
+    "category": "herb"
+  },
+  {
+    "id": "thyme",
+    "name": "Thyme",
+    "category": "herb"
+  },
+  {
+    "id": "bay-leaf",
+    "name": "Bay leaf",
+    "category": "herb"
+  },
+  {
+    "id": "bamboo-leaves",
+    "name": "Bamboo or reed leaves",
+    "category": "other",
+    "aliases": ["粽叶"]
+  },
+  {
+    "id": "corn-husks",
+    "name": "Corn husks",
+    "category": "other"
+  },
+  {
+    "id": "banana-leaves",
+    "name": "Banana leaves",
+    "category": "other"
+  },
+  {
+    "id": "pomelo-peel",
+    "name": "Pomelo peel",
+    "category": "fruit",
+    "aliases": ["柚子皮"]
+  },
+  {
+    "id": "apple",
+    "name": "Apples",
+    "category": "fruit"
+  },
+  {
+    "id": "key-lime",
+    "name": "Key lime",
+    "category": "fruit"
+  },
+  {
+    "id": "lemon",
+    "name": "Lemon",
+    "category": "fruit"
+  },
+  {
+    "id": "pineapple",
+    "name": "Pineapple",
+    "category": "fruit"
+  },
+  {
+    "id": "jujube",
+    "name": "Red dates",
+    "category": "fruit",
+    "aliases": ["jujube", "红枣"]
+  },
+  {
+    "id": "flour",
+    "name": "Wheat flour",
+    "category": "grain"
+  },
+  {
+    "id": "rice",
+    "name": "Rice",
+    "category": "grain"
+  },
+  {
+    "id": "glutinous-rice",
+    "name": "Glutinous rice",
+    "category": "grain",
+    "aliases": ["sticky rice", "糯米"]
+  },
+  {
+    "id": "glutinous-rice-flour",
+    "name": "Glutinous rice flour",
+    "category": "grain"
+  },
+  {
+    "id": "rice-noodles",
+    "name": "Rice noodles",
+    "category": "grain",
+    "aliases": ["米粉"]
+  },
+  {
+    "id": "wheat-noodles",
+    "name": "Wheat noodles",
+    "category": "grain"
+  },
+  {
+    "id": "alkaline-noodles",
+    "name": "Alkaline noodles",
+    "category": "grain",
+    "aliases": ["碱面"]
+  },
+  {
+    "id": "macaroni",
+    "name": "Macaroni",
+    "category": "grain"
+  },
+  {
+    "id": "spaghetti",
+    "name": "Spaghetti",
+    "category": "grain"
+  },
+  {
+    "id": "cornmeal",
+    "name": "Cornmeal",
+    "category": "grain"
+  },
+  {
+    "id": "masa",
+    "name": "Masa",
+    "category": "grain",
+    "aliases": ["nixtamalized corn dough"]
+  },
+  {
+    "id": "grits",
+    "name": "Grits",
+    "category": "grain"
+  },
+  {
+    "id": "bread-bun",
+    "name": "Bun or roll",
+    "category": "grain"
+  },
+  {
+    "id": "hot-dog-bun",
+    "name": "Hot dog bun",
+    "category": "grain"
+  },
+  {
+    "id": "hoagie-roll",
+    "name": "Hoagie roll",
+    "category": "grain"
+  },
+  {
+    "id": "pizza-dough",
+    "name": "Pizza dough",
+    "category": "grain"
+  },
+  {
+    "id": "pie-crust",
+    "name": "Pie crust",
+    "category": "grain"
+  },
+  {
+    "id": "graham-cracker",
+    "name": "Graham cracker crust",
+    "category": "grain"
+  },
+  {
+    "id": "wheat-starch",
+    "name": "Wheat starch",
+    "category": "grain"
+  },
+  {
+    "id": "cornstarch",
+    "name": "Cornstarch",
+    "category": "grain"
+  },
+  {
+    "id": "dumpling-wrappers",
+    "name": "Dumpling wrappers",
+    "category": "grain"
+  },
+  {
+    "id": "wonton-wrappers",
+    "name": "Wonton wrappers",
+    "category": "grain"
+  },
+  {
+    "id": "mung-beans",
+    "name": "Mung beans",
+    "category": "legume"
+  },
+  {
+    "id": "red-bean-paste",
+    "name": "Red bean paste",
+    "category": "legume",
+    "aliases": ["豆沙"]
+  },
+  {
+    "id": "lotus-seed-paste",
+    "name": "Lotus seed paste",
+    "category": "legume",
+    "aliases": ["莲蓉"]
+  },
+  {
+    "id": "peanuts",
+    "name": "Peanuts",
+    "category": "legume"
+  },
+  {
+    "id": "kidney-beans",
+    "name": "Kidney beans",
+    "category": "legume"
+  },
+  {
+    "id": "baking-powder",
+    "name": "Baking powder",
+    "category": "other"
+  },
+  {
+    "id": "lye-water",
+    "name": "Alkaline water",
+    "category": "other",
+    "aliases": ["碱水", "lye water"]
+  },
+  {
+    "id": "yeast",
+    "name": "Yeast",
+    "category": "other"
+  },
+  {
+    "id": "butter",
+    "name": "Butter",
+    "category": "dairy"
+  },
+  {
+    "id": "cheddar",
+    "name": "Cheddar cheese",
+    "category": "dairy"
+  },
+  {
+    "id": "american-cheese",
+    "name": "American cheese",
+    "category": "dairy"
+  },
+  {
+    "id": "provolone",
+    "name": "Provolone",
+    "category": "dairy"
+  },
+  {
+    "id": "mozzarella",
+    "name": "Mozzarella",
+    "category": "dairy"
+  },
+  {
+    "id": "milk",
+    "name": "Milk",
+    "category": "dairy"
+  },
+  {
+    "id": "cream",
+    "name": "Cream",
+    "category": "dairy"
+  },
+  {
+    "id": "buttermilk",
+    "name": "Buttermilk",
+    "category": "dairy"
+  },
+  {
+    "id": "condensed-milk",
+    "name": "Sweetened condensed milk",
+    "category": "dairy"
+  },
+  {
+    "id": "blue-cheese",
+    "name": "Blue cheese",
+    "category": "dairy"
+  },
+  {
+    "id": "brick-cheese",
+    "name": "Wisconsin brick cheese",
+    "category": "dairy"
+  },
+  {
+    "id": "cream-of-mushroom",
+    "name": "Cream of mushroom soup",
+    "category": "sauce"
+  },
+  {
+    "id": "fried-onions",
+    "name": "Fried onions",
+    "category": "vegetable"
+  },
+  {
+    "id": "green-beans",
+    "name": "Green beans",
+    "category": "vegetable"
+  },
+  {
+    "id": "egg-noodles",
+    "name": "Egg noodles",
+    "category": "grain"
+  },
+  {
+    "id": "canned-tuna",
+    "name": "Canned tuna",
+    "category": "seafood"
+  },
+  {
+    "id": "peas",
+    "name": "Peas",
+    "category": "vegetable"
+  },
+  {
+    "id": "rutabaga",
+    "name": "Rutabaga",
+    "category": "vegetable"
+  },
+  {
+    "id": "chocolate",
+    "name": "Chocolate",
+    "category": "sweetener"
+  },
+  {
+    "id": "corn-syrup",
+    "name": "Corn syrup",
+    "category": "sweetener"
+  },
+  {
+    "id": "mayonnaise",
+    "name": "Mayonnaise",
+    "category": "sauce"
+  },
+  {
+    "id": "salt",
+    "name": "Salt",
+    "category": "spice"
+  },
+  {
+    "id": "black-pepper",
+    "name": "Black pepper",
+    "category": "spice"
+  },
+  {
+    "id": "cayenne",
+    "name": "Cayenne",
+    "category": "spice"
+  },
+  {
+    "id": "paprika",
+    "name": "Paprika",
+    "category": "spice"
+  },
+  {
+    "id": "chili-powder",
+    "name": "Chili powder",
+    "category": "spice"
+  },
+  {
+    "id": "cumin",
+    "name": "Cumin",
+    "category": "spice"
+  },
+  {
+    "id": "cinnamon",
+    "name": "Cinnamon",
+    "category": "spice"
+  },
+  {
+    "id": "nutmeg",
+    "name": "Nutmeg",
+    "category": "spice"
+  },
+  {
+    "id": "file-powder",
+    "name": "Filé powder",
+    "category": "spice",
+    "aliases": ["ground sassafras"]
+  },
+  {
+    "id": "sichuan-pepper",
+    "name": "Sichuan peppercorn",
+    "category": "spice",
+    "aliases": ["花椒", "huajiao"]
+  },
+  {
+    "id": "dried-chiles",
+    "name": "Dried red chiles",
+    "category": "spice",
+    "aliases": ["干辣椒"]
+  },
+  {
+    "id": "star-anise",
+    "name": "Star anise",
+    "category": "spice"
+  },
+  {
+    "id": "five-spice",
+    "name": "Five-spice powder",
+    "category": "spice"
+  },
+  {
+    "id": "white-pepper",
+    "name": "White pepper",
+    "category": "spice"
+  },
+  {
+    "id": "old-bay",
+    "name": "Seafood seasoning",
+    "category": "spice"
+  },
+  {
+    "id": "soy-sauce",
+    "name": "Soy sauce",
+    "category": "sauce",
+    "aliases": ["酱油"]
+  },
+  {
+    "id": "dark-soy-sauce",
+    "name": "Dark soy sauce",
+    "category": "sauce",
+    "aliases": ["老抽"]
+  },
+  {
+    "id": "doubanjiang",
+    "name": "Doubanjiang",
+    "category": "sauce",
+    "aliases": ["broad bean chili paste", "豆瓣酱"]
+  },
+  {
+    "id": "douchi",
+    "name": "Fermented black beans",
+    "category": "sauce",
+    "aliases": ["豆豉"]
+  },
+  {
+    "id": "chili-oil",
+    "name": "Chili oil",
+    "category": "sauce",
+    "aliases": ["红油"]
+  },
+  {
+    "id": "sesame-paste",
+    "name": "Sesame paste",
+    "category": "sauce",
+    "aliases": ["芝麻酱"]
+  },
+  {
+    "id": "sesame-oil",
+    "name": "Sesame oil",
+    "category": "fat"
+  },
+  {
+    "id": "hoisin",
+    "name": "Hoisin sauce",
+    "category": "sauce"
+  },
+  {
+    "id": "tianmianjiang",
+    "name": "Sweet bean sauce",
+    "category": "sauce",
+    "aliases": ["甜面酱"]
+  },
+  {
+    "id": "oyster-sauce",
+    "name": "Oyster sauce",
+    "category": "sauce"
+  },
+  {
+    "id": "shaoxing-wine",
+    "name": "Shaoxing wine",
+    "category": "sauce",
+    "aliases": ["绍兴酒"]
+  },
+  {
+    "id": "black-vinegar",
+    "name": "Chinkiang black vinegar",
+    "category": "sauce",
+    "aliases": ["香醋"]
+  },
+  {
+    "id": "rice-vinegar",
+    "name": "Rice vinegar",
+    "category": "sauce"
+  },
+  {
+    "id": "vinegar",
+    "name": "Vinegar",
+    "category": "sauce"
+  },
+  {
+    "id": "hot-sauce",
+    "name": "Louisiana-style hot sauce",
+    "category": "sauce"
+  },
+  {
+    "id": "ketchup",
+    "name": "Ketchup",
+    "category": "sauce"
+  },
+  {
+    "id": "mustard",
+    "name": "Mustard",
+    "category": "sauce"
+  },
+  {
+    "id": "worcestershire",
+    "name": "Worcestershire sauce",
+    "category": "sauce"
+  },
+  {
+    "id": "bbq-sauce",
+    "name": "Barbecue sauce",
+    "category": "sauce"
+  },
+  {
+    "id": "tomato-sauce",
+    "name": "Tomato sauce",
+    "category": "sauce"
+  },
+  {
+    "id": "red-fermented-tofu",
+    "name": "Red fermented tofu",
+    "category": "sauce",
+    "aliases": ["南乳"]
+  },
+  {
+    "id": "lard",
+    "name": "Lard",
+    "category": "fat"
+  },
+  {
+    "id": "vegetable-oil",
+    "name": "Vegetable oil",
+    "category": "fat"
+  },
+  {
+    "id": "tea-seed-oil",
+    "name": "Tea seed oil",
+    "category": "fat",
+    "aliases": ["茶油"]
+  },
+  {
+    "id": "sugar",
+    "name": "Sugar",
+    "category": "sweetener"
+  },
+  {
+    "id": "brown-sugar",
+    "name": "Brown sugar",
+    "category": "sweetener"
+  },
+  {
+    "id": "rock-sugar",
+    "name": "Rock sugar",
+    "category": "sweetener",
+    "aliases": ["冰糖"]
+  },
+  {
+    "id": "maltose",
+    "name": "Maltose",
+    "category": "sweetener",
+    "aliases": ["麦芽糖"]
+  },
+  {
+    "id": "honey",
+    "name": "Honey",
+    "category": "sweetener"
+  },
+  {
+    "id": "black-sesame",
+    "name": "Black sesame",
+    "category": "other"
+  },
+  {
+    "id": "oak-wood",
+    "name": "Post oak smoke",
+    "category": "other"
+  }
+]

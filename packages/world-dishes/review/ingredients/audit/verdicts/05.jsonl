@@ -1,0 +1,200 @@
+{"audit": 1000, "lang": "en", "text": "¼ lb spek, cubed", "ids": ["spek"]}
+{"audit": 1001, "lang": "en", "text": "¼ teaspoon dry mustard", "ids": ["dry-mustard"]}
+{"audit": 1002, "lang": "en", "text": "¼ teaspoon of asafoetida (optional)", "ids": ["asafoetida"]}
+{"audit": 1003, "lang": "en", "text": "¼ teaspoon of cinnamon (optional)", "ids": ["cinnamon"]}
+{"audit": 1004, "lang": "en", "text": "¼–½ cup dried TVP (textured vegetable protein)", "ids": ["textured-vegetable-protein"]}
+{"audit": 1005, "lang": "en", "text": "¼–½ cup sugar", "ids": ["sugar"]}
+{"audit": 1006, "lang": "en", "text": "½ bottle mushroom catsup", "ids": ["mushroom-catsup"]}
+{"audit": 1007, "lang": "en", "text": "½ cup (120 g) dried cranberries", "ids": ["dried-cranberries"]}
+{"audit": 1008, "lang": "en", "text": "½ cup (120 ml) fresh mint, finely chopped (do not use dried mint)", "ids": ["mint"]}
+{"audit": 1009, "lang": "en", "text": "½ cup (120 ml) melted schmaltz or vegetable oil", "ids": ["schmaltz"]}
+{"audit": 1010, "lang": "en", "text": "½ cup (125 ml/4.2 US fl oz) plus 2 teaspoons pink lemonade", "ids": ["lemonade"]}
+{"audit": 1011, "lang": "en", "text": "½ cup (240 ml) almond milk", "ids": ["almond-milk"]}
+{"audit": 1012, "lang": "en", "text": "½ cup (80 g) steel-cut oats, also called Irish oats", "ids": ["steel-cut-oats"]}
+{"audit": 1013, "lang": "en", "text": "½ cup baby corn, ¼-inch pieces (or ¼ cup frozen corn—see notes)", "ids": ["baby-corn"]}
+{"audit": 1014, "lang": "en", "text": "½ cup blueberries", "ids": ["blueberry"]}
+{"audit": 1015, "lang": "en", "text": "½ cup brewed espresso, cooled", "ids": ["espresso"]}
+{"audit": 1016, "lang": "en", "text": "½ cup brown lentils, soaked an hour or more", "ids": ["brown-lentils"]}
+{"audit": 1017, "lang": "en", "text": "½ cup diced yellow crooked-neck squash", "ids": ["summer-squash"]}
+{"audit": 1018, "lang": "en", "text": "½ cup dried sea kelp (or laver)", "ids": ["seaweed"]}
+{"audit": 1019, "lang": "en", "text": "½ cup drumsticks (optional)", "ids": ["drumstick"], "reason": "In the source Sambar III recipe these are optional chopped moringa drumstick pods added with vegetables, not chicken."}
+{"audit": 1020, "lang": "en", "text": "½ cup fat-free Italian salad dressing", "ids": ["italian-dressing"]}
+{"audit": 1021, "lang": "en", "text": "½ cup finely sliced biltong", "ids": ["biltong"]}
+{"audit": 1022, "lang": "en", "text": "½ cup fireweed blossoms", "ids": ["fireweed"], "unusual": "Fireweed blossoms are an unusual edible flower; retained for user decision."}
+{"audit": 1023, "lang": "en", "text": "½ cup gochugaru (Korean chile flakes)", "ids": ["gochugaru"]}
+{"audit": 1024, "lang": "en", "text": "½ cup huckleberries", "ids": ["huckleberries"]}
+{"audit": 1025, "lang": "en", "text": "½ cup Italian dressing", "ids": ["italian-dressing"]}
+{"audit": 1026, "lang": "en", "text": "½ cup karkashi leaves, either fresh or dried and ground", "ids": ["karkashi-leaves"]}
+{"audit": 1027, "lang": "en", "text": "½ cup margarita mix", "ids": ["margarita-mix"]}
+{"audit": 1028, "lang": "en", "text": "½ cup olive oil", "ids": ["olive-oil"]}
+{"audit": 1029, "lang": "en", "text": "½ cup organic whole-grain einkorn flour", "ids": ["einkorn-flour"]}
+{"audit": 1030, "lang": "en", "text": "½ cup soda water", "ids": ["club-soda"]}
+{"audit": 1031, "lang": "en", "text": "½ cup unpopped popcorn kernels", "ids": ["popcorn-kernels"], "reason": "The text explicitly requires unpopped kernels; the existing popcorn-kernels id is more specific than prepared popcorn."}
+{"audit": 1032, "lang": "en", "text": "½ cup white flour", "ids": ["flour"]}
+{"audit": 1033, "lang": "en", "text": "½ hatxora (Citrus macroptera|citrus macroptera)", "ids": ["citrus-macroptera"]}
+{"audit": 1034, "lang": "en", "text": "½ kilo of pig's intestines, grilled and minced", "ids": ["pork-intestine"], "unusual": "Pig intestines are an unusual offal ingredient; retained for user decision."}
+{"audit": 1035, "lang": "en", "text": "½ kilo of pig's lungs, grilled and minced", "ids": ["pork-lung"], "unusual": "Pig lungs are an unusual offal ingredient; retained for user decision."}
+{"audit": 1036, "lang": "en", "text": "½ lb (250 g) finely-ground beef suet", "ids": ["suet"]}
+{"audit": 1037, "lang": "en", "text": "½ lb muskrat meat, cut into pieces", "ids": ["muskrat"], "unusual": "Muskrat meat is unusual game; retained for user decision."}
+{"audit": 1038, "lang": "en", "text": "½ pound grated queso fresco cheese", "ids": ["queso-fresco"]}
+{"audit": 1039, "lang": "en", "text": "½ pound prepared puff pastry", "ids": ["puff-pastry"]}
+{"audit": 1040, "lang": "en", "text": "½ pound reblochon cheese", "ids": ["reblochon"]}
+{"audit": 1041, "lang": "en", "text": "½ punnet blackcurrants", "ids": ["blackcurrant"]}
+{"audit": 1042, "lang": "en", "text": "½ tablespoon Marmite or Vegemite", "ids": ["marmite"]}
+{"audit": 1043, "lang": "en", "text": "½ teaspoon banana extract", "ids": ["banana-extract"]}
+{"audit": 1044, "lang": "en", "text": "½ teaspoon chile powder (adjust to taste)", "ids": ["chili-powder"]}
+{"audit": 1045, "lang": "en", "text": "½ thinly-sliced bell pepper", "ids": ["bell-pepper"]}
+{"audit": 1046, "lang": "en", "text": "½ tsp epazote, crumbled", "ids": ["epazote"]}
+{"audit": 1047, "lang": "en", "text": "½ tsp Jamaican pickapeppa sauce or 3 drops of Jamaican hot pepper sauce (optional)", "ids": ["pickapeppa-sauce"]}
+{"audit": 1048, "lang": "en", "text": "½ tsp liquid gravy browner", "ids": ["gravy-browner"]}
+{"audit": 1049, "lang": "en", "text": "½ tsp potash (akaun), ground to a powder", "ids": ["potash"], "unusual": "Edible potash/akaun is an unusual food-processing ingredient; retained for user decision."}
+{"audit": 1050, "lang": "en", "text": "½–1 cup of loroco (this can be hard to source, so you can use very finely chopped green peppers or scallions instead)", "ids": ["loroco"]}
+{"audit": 1051, "lang": "en", "text": "¾ cup (140 g) turbinado or light brown sugar", "ids": ["turbinado"]}
+{"audit": 1052, "lang": "en", "text": "¾ cup (180 ml) fine cracker crumbs", "ids": ["cracker-crumbs"]}
+{"audit": 1053, "lang": "en", "text": "¾ cup (75 g / 2.6 oz) chopped walnuts", "ids": ["walnuts"]}
+{"audit": 1054, "lang": "en", "text": "¾ cup (75 g) grated cheddar cheese", "ids": ["cheddar"]}
+{"audit": 1055, "lang": "en", "text": "¾ cup (90 g / 3 oz) instant espresso powder", "ids": ["espresso-powder"]}
+{"audit": 1056, "lang": "en", "text": "¾ cup 250 ml safflower oil", "ids": ["safflower-oil"]}
+{"audit": 1057, "lang": "en", "text": "¾ cup hummus", "ids": ["hummus"]}
+{"audit": 1058, "lang": "en", "text": "¾ lb pork belly, skinned and cut into lardons 1½ x ⅜ inches", "ids": ["pork-belly"]}
+{"audit": 1059, "lang": "en", "text": "¾ pound (330 g) phyllo pastry", "ids": ["phyllo-pastry"]}
+{"audit": 1060, "lang": "en", "text": "¾ tablespoon garlic chili sauce", "ids": ["garlic-chili-sauce"]}
+{"audit": 1061, "lang": "en", "text": "¾ teaspoons guar gum", "ids": ["guar-gum"]}
+{"audit": 1062, "lang": "en", "text": "¾ tsp ground Mahaleb cherry (Prunus mahaleb) kernels (optional)", "ids": ["mahaleb"]}
+{"audit": 1063, "lang": "en", "text": "⅓ cup (80 ml) vinegar made from coconut juice (as a variant, try balsamic vinegar)", "ids": ["coconut-vinegar"]}
+{"audit": 1064, "lang": "en", "text": "⅓ cup chopped canned peeled green chiles (optional)", "ids": ["green-chile"]}
+{"audit": 1065, "lang": "en", "text": "⅓ cup nata de coco (coconut gel in syrup)", "ids": ["nata-de-coco"]}
+{"audit": 1066, "lang": "en", "text": "⅓ cup Tamari sauce", "ids": ["tamari"]}
+{"audit": 1067, "lang": "en", "text": "⅔ box (5 cups/320 g) Cheerios", "ids": ["oat-cereal"]}
+{"audit": 1068, "lang": "en", "text": "⅔ cup (180 ml) milk", "ids": ["milk"]}
+{"audit": 1069, "lang": "en", "text": "⅔ cup coarsely crushed saltines (14 crackers)", "ids": ["saltine-crackers"]}
+{"audit": 1070, "lang": "en", "text": "⅛ cup (30 ml) crushed froot loops (or any equivalent fruity breakfast cereal)", "ids": ["fruity-cereal"]}
+{"audit": 1071, "lang": "en", "text": "⅛ teaspoon (0.5 ml) peppermint flavouring", "ids": ["peppermint-extract"]}
+{"audit": 1072, "lang": "en", "text": "⅞ stick (100 g) unsalted butter, room temperature", "ids": ["butter"]}
+{"audit": 1073, "lang": "es", "text": "\"Paciencia\" (según la tradición popular)", "ids": []}
+{"audit": 1074, "lang": "es", "text": "1 Acitrón en cubitos, 1 Taza de azúcar", "ids": ["acitron", "sugar"]}
+{"audit": 1075, "lang": "es", "text": "1 acitrón en cubitos.", "ids": ["acitron"]}
+{"audit": 1076, "lang": "es", "text": "1 ají amarillo fresco, sin pepas ni venas", "ids": ["aji-amarillo"], "reason": "The text explicitly names fresh aji amarillo; use its existing specific id rather than generic yellow chile."}
+{"audit": 1077, "lang": "es", "text": "1 cascarón de huevo de cazalla", "ids": ["cazalla"]}
+{"audit": 1078, "lang": "es", "text": "1 cebolla y media.", "ids": ["onion"]}
+{"audit": 1079, "lang": "es", "text": "1 Chilacayote", "ids": ["chilacayote"]}
+{"audit": 1080, "lang": "es", "text": "1 copa de Aromas de Montserrat", "ids": ["herbal-liqueur"]}
+{"audit": 1081, "lang": "es", "text": "1 copa de menta", "ids": ["mint-liqueur"]}
+{"audit": 1082, "lang": "es", "text": "1 cuchara de postre de espesante (puedes usar harina)", "ids": ["thickener"]}
+{"audit": 1083, "lang": "es", "text": "1 cucharada de sal", "ids": ["salt"]}
+{"audit": 1084, "lang": "es", "text": "1 huevo duro", "ids": ["egg"]}
+{"audit": 1085, "lang": "es", "text": "1 kg de cubios", "ids": ["ulluco"]}
+{"audit": 1086, "lang": "es", "text": "1 kg de keperí (azotillo)", "ids": ["keperi"]}
+{"audit": 1087, "lang": "es", "text": "1 kilo de cáscaras de mariscos y de cangrejos de mar", "ids": ["shellfish"], "reason": "The line names shellfish and crab shells for stock; existing shellfish is broad. A dedicated shellfish-shells id is absent."}
+{"audit": 1088, "lang": "es", "text": "1 lb de quesillo", "ids": ["quesillo"]}
+{"audit": 1089, "lang": "es", "text": "1 longaniza por persona .", "ids": ["pork-sausage"]}
+{"audit": 1090, "lang": "es", "text": "1 lt de suero Cherry (cremoso), siempre refrigerado –los làcteos a temperatura ambiente se desnaturalizan-, el suero picante fermenta sòlo, algunos lo prefieren màs o menos ‘chillòn’ -fermentado-", "ids": ["whey"], "reason": "Creamy fermented suero used as a condiment is not ordinary separated whey; a dedicated cultured suero id is absent and should be reviewed before choosing a proxy."}
+{"audit": 1091, "lang": "es", "text": "1 medida de cazalla", "ids": ["cazalla"]}
+{"audit": 1092, "lang": "es", "text": "1 pangue o una hoja grande de repollo.", "ids": ["pangue"]}
+{"audit": 1093, "lang": "es", "text": "1 pangue u hojas grandes de repollo.", "ids": ["pangue"]}
+{"audit": 1094, "lang": "es", "text": "1 paquete de salchichas", "ids": ["frankfurters"]}
+{"audit": 1095, "lang": "es", "text": "1 paquete de tapas de empanadas", "ids": ["empanada-dough"]}
+{"audit": 1096, "lang": "es", "text": "1 pollo", "ids": ["chicken"]}
+{"audit": 1097, "lang": "es", "text": "1 queso de capas (puede sustituirse por quesillo o queso oaxaca)", "ids": ["fresh-white-cheese"], "reason": "Queso de capas is the first ingredient; quesillo and Oaxaca cheese are substitutions, not the named cheese. Use the existing broader fresh white cheese id."}
+{"audit": 1098, "lang": "es", "text": "1 tarro de jurel chileno en conserva.", "ids": ["jack-mackerel"]}
+{"audit": 1099, "lang": "es", "text": "1 tarro de mermelada de guindas", "ids": ["cherry-jam"]}
+{"audit": 1100, "lang": "es", "text": "1 taza de huesillos", "ids": ["dried-peaches"]}
+{"audit": 1101, "lang": "es", "text": "1 taza de queso fresco rallado.", "ids": ["queso-fresco"], "reason": "Queso fresco names the fresh cheese directly; it is not quark. A specific queso-fresco id already exists."}
+{"audit": 1102, "lang": "es", "text": "1,5 kg de Matambre", "ids": ["beef"]}
+{"audit": 1103, "lang": "es", "text": "1/2 cucharadita de hondashi (polvo de pescado)", "ids": ["dashi-powder"]}
+{"audit": 1104, "lang": "es", "text": "1/2 Kg de chuguas", "ids": ["ulluco"]}
+{"audit": 1105, "lang": "es", "text": "1/2 kg de frangollo", "ids": ["corn"], "reason": "This Bolivian frangollo stew with keperi, squash and panceta uses cracked maize, not cracked wheat. Corn is the existing broader id."}
+{"audit": 1106, "lang": "es", "text": "1/2 pollo troceado.", "ids": ["chicken"]}
+{"audit": 1107, "lang": "es", "text": "1/2 repollo mediano cortado en varias piezas", "ids": ["cabbage"]}
+{"audit": 1108, "lang": "es", "text": "1/2 taza de amaranto o kiwicha.", "ids": ["amaranth"]}
+{"audit": 1109, "lang": "es", "text": "1/2 taza de cal", "ids": ["slaked-lime"], "unusual": "Food-grade slaked lime is an unusual food-processing ingredient; retained for user decision."}
+{"audit": 1110, "lang": "es", "text": "1/4 de charqui", "ids": ["charqui"]}
+{"audit": 1111, "lang": "es", "text": "1/4 de litro de mistela", "ids": ["mistela"]}
+{"audit": 1112, "lang": "es", "text": "1/4 kg. de galletas de soda o pan remojado en leche", "ids": ["soda-crackers"]}
+{"audit": 1113, "lang": "es", "text": "10 g aprox. de levadura química o bicarbonato", "ids": ["baking-powder"]}
+{"audit": 1114, "lang": "es", "text": "100 g de Charqui", "ids": ["charqui"]}
+{"audit": 1115, "lang": "es", "text": "100 g de sesos de cordero", "ids": ["lamb-brains"], "unusual": "Lamb brains are unusual offal; retained for user decision."}
+{"audit": 1116, "lang": "es", "text": "100 g de tavella (o tabella, una alubia blanca pequeña muy cremosa)", "ids": ["tavella-beans"]}
+{"audit": 1117, "lang": "es", "text": "100 gramos de sebo de cordero", "ids": ["lamb-tallow"]}
+{"audit": 1118, "lang": "es", "text": "100cc de liason", "ids": ["cream", "egg"], "reason": "Culinary liaison used to finish this chicken fricassee is the cream-and-egg thickening mixture, not cream alone."}
+{"audit": 1119, "lang": "es", "text": "100g de queso manchego", "ids": ["manchego"]}
+{"audit": 1120, "lang": "es", "text": "100g de queso oaxaca", "ids": ["oaxaca-cheese"]}
+{"audit": 1121, "lang": "es", "text": "115 g de manteca de cacao", "ids": ["cocoa-butter"]}
+{"audit": 1122, "lang": "es", "text": "12 chiles poblanos tostados, pelados y desvenados", "ids": ["poblano"]}
+{"audit": 1123, "lang": "es", "text": "12 pacayas (fruto comestible de la Chamaedorea)", "ids": ["pacaya"], "unusual": "Pacaya palm inflorescences are an unusual regional vegetable; retained for user decision."}
+{"audit": 1124, "lang": "es", "text": "12 pejerreyes", "ids": ["pejerrey"]}
+{"audit": 1125, "lang": "es", "text": "12-18 galletas maría.", "ids": ["marie-biscuits"]}
+{"audit": 1126, "lang": "es", "text": "120 ml de jugo de granada", "ids": ["pomegranate-juice"]}
+{"audit": 1127, "lang": "es", "text": "130 g de Arracacha", "ids": ["arracacha"]}
+{"audit": 1128, "lang": "es", "text": "150 gramos de grasa o manteca.", "ids": ["animal-fat"]}
+{"audit": 1129, "lang": "es", "text": "150 gramos de lechecillas", "ids": ["sweetbreads"]}
+{"audit": 1130, "lang": "es", "text": "175 gr de “bachoqueta” Rochet", "ids": ["bachoqueta"], "reason": "The bachoqueta id matches the Valencian green-bean ingredient, but its shared catalog category is incorrectly seafood; it should be vegetable."}
+{"audit": 1131, "lang": "es", "text": "180 g de azúcar blanca", "ids": ["sugar"]}
+{"audit": 1132, "lang": "es", "text": "2 chile guaque", "ids": ["guaque-chile"]}
+{"audit": 1133, "lang": "es", "text": "2 chiles guaque", "ids": ["guaque-chile"]}
+{"audit": 1134, "lang": "es", "text": "2 cucharadas de mensi", "ids": ["mensi"]}
+{"audit": 1135, "lang": "es", "text": "2 cucharadas de sake", "ids": ["sake"]}
+{"audit": 1136, "lang": "es", "text": "2 cucharadas de salsa de soya", "ids": ["soy-sauce"]}
+{"audit": 1137, "lang": "es", "text": "2 doradas, sin tripas, pero con cabeza y escamas, para cocinarlas en su jugo e impedir que queden excesivamente saladas.", "ids": ["gilt-head-bream"]}
+{"audit": 1138, "lang": "es", "text": "2 filetes de panga (se puede usar cualquier otro pescado blanco)", "ids": ["pangasius"]}
+{"audit": 1139, "lang": "es", "text": "2 medidas de azúcar", "ids": ["sugar"]}
+{"audit": 1140, "lang": "es", "text": "2 Paquetes de Galletas Saladas", "ids": ["soda-crackers"]}
+{"audit": 1141, "lang": "es", "text": "2 tomates seco", "ids": ["dried-tomatoes"]}
+{"audit": 1142, "lang": "es", "text": "2 tomates verdes.", "ids": ["green-tomato"]}
+{"audit": 1143, "lang": "es", "text": "2 unidades de Ají colorado", "ids": ["aji-colorado"]}
+{"audit": 1144, "lang": "es", "text": "2 unidades de Chile mulato", "ids": ["mulato-chile"]}
+{"audit": 1145, "lang": "es", "text": "2 Vasos de leche", "ids": ["milk"]}
+{"audit": 1146, "lang": "es", "text": "25 cc. de vinagre", "ids": ["vinegar"]}
+{"audit": 1147, "lang": "es", "text": "250 gr de “bachoqueta” de la ancha", "ids": ["bachoqueta"], "reason": "The bachoqueta id matches the flat green-bean ingredient, but its shared catalog category is incorrectly seafood; it should be vegetable."}
+{"audit": 1148, "lang": "es", "text": "250g de chancaca (para el color zambito)", "ids": ["chancaca"]}
+{"audit": 1149, "lang": "es", "text": "3 Cdas. de ají mirasol molido o ají amarillo", "ids": ["aji-mirasol"]}
+{"audit": 1150, "lang": "es", "text": "3 cucharadas de mostaza", "ids": ["mustard"]}
+{"audit": 1151, "lang": "es", "text": "3 cucharadas de nata líquida o leche evaporada y/o 2 de crema de queso.", "ids": ["cream", "cream-cheese"], "reason": "The line allows cream as the first alternative and additionally names cream cheese with y/o; preserve both named ingredients."}
+{"audit": 1152, "lang": "es", "text": "30 gramos de manteca", "ids": ["lard"], "reason": "The source is Chilean sopaipillas pasadas; manteca is the melted baking fat/lard in this dough, not mantequilla (butter)."}
+{"audit": 1153, "lang": "es", "text": "4 cucharadas soperas colmadas de harina de almortas (una por comensal)", "ids": ["grass-pea-flour"]}
+{"audit": 1154, "lang": "es", "text": "4 dientes de ajo molido.", "ids": ["garlic"]}
+{"audit": 1155, "lang": "es", "text": "4 nopalitos", "ids": ["nopales"]}
+{"audit": 1156, "lang": "es", "text": "4 tazas de hojas de chipilín", "ids": ["chipilin"]}
+{"audit": 1157, "lang": "es", "text": "400 gramos de estómagos de cordero", "ids": ["lamb-tripe"]}
+{"audit": 1158, "lang": "es", "text": "450g de queso Fontina o similar, rallado", "ids": ["fontina-cheese"]}
+{"audit": 1159, "lang": "es", "text": "5 claras.", "ids": ["egg"]}
+{"audit": 1160, "lang": "es", "text": "50 g de Chincho", "ids": ["chincho"]}
+{"audit": 1161, "lang": "es", "text": "50 g de queso oaxaca", "ids": ["oaxaca-cheese"]}
+{"audit": 1162, "lang": "es", "text": "500 g de dulce de membrillo", "ids": ["quince-paste"]}
+{"audit": 1163, "lang": "es", "text": "500 g de sepionetsOpción arroz caldoso.", "ids": ["cuttlefish"]}
+{"audit": 1164, "lang": "es", "text": "500 g de tomate triturado", "ids": ["canned-tomatoes"]}
+{"audit": 1165, "lang": "es", "text": "500 gramos de salchichón", "ids": ["salchichon"]}
+{"audit": 1166, "lang": "es", "text": "500g collejas en crudo", "ids": ["campion"]}
+{"audit": 1167, "lang": "es", "text": "6 cigalas", "ids": ["langoustines"]}
+{"audit": 1168, "lang": "es", "text": "6 gambas langostineras", "ids": ["prawns"]}
+{"audit": 1169, "lang": "es", "text": "6 gambones.", "ids": ["prawns"]}
+{"audit": 1170, "lang": "es", "text": "6 onzas (180 gramos) de miga de pan dulce", "ids": ["sweet-bread"]}
+{"audit": 1171, "lang": "es", "text": "6 ú 8 cucharadas de harina de guijas o almortas ( 1 cucharada por persona)", "ids": ["grass-pea-flour"]}
+{"audit": 1172, "lang": "es", "text": "60 g de maíz en grano para palomitas.", "ids": ["popcorn-kernels"]}
+{"audit": 1173, "lang": "es", "text": "60 gramos de nueces crudas picadas en trozos pequeños.", "ids": ["walnuts"]}
+{"audit": 1174, "lang": "es", "text": "7 cucharadas de harina de camote", "ids": ["sweet-potato-flour"]}
+{"audit": 1175, "lang": "es", "text": "70 g de arándanos secos.", "ids": ["dried-blueberries"], "reason": "Arandanos secos can mean dried blueberries or dried cranberries without a colour qualifier; retain current mapping pending a source-specific clarification."}
+{"audit": 1176, "lang": "es", "text": "75 g de coco rallado, más un poco para decorar", "ids": ["shredded-coconut"]}
+{"audit": 1177, "lang": "es", "text": "75 ml de mistela o vino dulce", "ids": ["mistela"]}
+{"audit": 1178, "lang": "es", "text": "8 galeras.", "ids": ["mantis-shrimp"]}
+{"audit": 1179, "lang": "es", "text": "8 gaseosas (4+4)", "ids": ["baking-powder"], "reason": "The magdalena method explicitly calls these sobres de gaseosa: paired leavening sachets, not soda beverage. Baking powder is the existing shopping-level equivalent."}
+{"audit": 1180, "lang": "es", "text": "8 pimientos del Piquillo asados y limpios", "ids": ["piquillo-pepper"]}
+{"audit": 1181, "lang": "es", "text": "Aceite 2 cucharadas soperas de aceite de oliva= 30 g.", "ids": ["olive-oil"]}
+{"audit": 1182, "lang": "es", "text": "Adobo", "ids": ["adobo"]}
+{"audit": 1183, "lang": "es", "text": "adobo al gusto.", "ids": ["adobo"]}
+{"audit": 1184, "lang": "es", "text": "Ají mirasol", "ids": ["aji-mirasol"]}
+{"audit": 1185, "lang": "es", "text": "Ají molido", "ids": ["aji-molido"]}
+{"audit": 1186, "lang": "es", "text": "Ají verde molido al gusto", "ids": ["green-chile"]}
+{"audit": 1187, "lang": "es", "text": "Alcohol (2 cdas soperas)", "ids": ["alcohol"], "unusual": "Alcohol is an unusually nonspecific ingredient entry; retained for user decision."}
+{"audit": 1188, "lang": "es", "text": "Alga nori (4 hojas)", "ids": ["nori"]}
+{"audit": 1189, "lang": "es", "text": "Algunas hojas de samat", "ids": ["samat-leaves"], "reason": "Samat is a culinary culantro herb; the matching samat-leaves id has category other and should be herb."}
+{"audit": 1190, "lang": "es", "text": "Caldo de pescado (doble que de fideos). Otra forma de medirlo es 100 g de pasta por cada litro de caldo.", "ids": ["fish-stock"]}
+{"audit": 1191, "lang": "es", "text": "Caldo de pescado o de marisco, 500 y 600ml.", "ids": ["fish-stock"]}
+{"audit": 1192, "lang": "es", "text": "Chile piquín molido al gusto", "ids": ["piquin-chile"]}
+{"audit": 1193, "lang": "es", "text": "Chiles poblanos", "ids": ["poblano-chile"]}
+{"audit": 1194, "lang": "es", "text": "Cinco manzanas", "ids": ["apple"]}
+{"audit": 1195, "lang": "es", "text": "Cn Na saborizante", "ids": ["flavoring"]}
+{"audit": 1196, "lang": "es", "text": "Collejas.", "ids": ["campion"]}
+{"audit": 1197, "lang": "es", "text": "cuajada en polvo 1 sobre por cada masa.", "ids": ["cuajada-powder"]}
+{"audit": 1198, "lang": "es", "text": "Cuatro rodajas de queso kefalotyri; cada una de estas rodajas ha de tener un peso aproximado de entre 55 a 60 gramos y un espesor aproximado de 1 1/2 cm.", "ids": ["kefalotyri"]}
+{"audit": 1199, "lang": "es", "text": "Dos cucharadas de harina de habas.", "ids": ["fava-bean-flour"]}

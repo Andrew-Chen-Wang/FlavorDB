@@ -1,0 +1,47 @@
+{"audit": 5684, "lang": "pl", "text": "twaróg", "ids": ["quark"]}
+{"audit": 5685, "lang": "pl", "text": "włoszczyzna", "ids": ["soup-greens"], "reason": "Wloszczyzna names a shopping bundle of soup vegetables, represented by the existing soup-greens id; the text does not separately list these four components."}
+{"audit": 5686, "lang": "pl", "text": "włoszczyzna 25 dag", "ids": ["soup-greens"], "reason": "Wloszczyzna names a shopping bundle of soup vegetables, represented by the existing soup-greens id; the text does not separately list these four components."}
+{"audit": 5687, "lang": "pl", "text": "½ pora", "ids": ["leek"]}
+{"audit": 5688, "lang": "pt", "text": "1 alho francês", "ids": ["leek"]}
+{"audit": 5689, "lang": "pt", "text": "1 alho-poró picado;", "ids": ["leek"]}
+{"audit": 5690, "lang": "ru", "text": "домашний сыр: 300 г", "ids": ["quark"]}
+{"audit": 5691, "lang": "ru", "text": "кориандр", "ids": ["coriander-seed"]}
+{"audit": 5692, "lang": "ru", "text": "Кориандр - 1 ч.л.", "ids": ["coriander-seed"]}
+{"audit": 5693, "lang": "ru", "text": "Кориандр молотый - 1 ст. ложка", "ids": ["coriander-seed"]}
+{"audit": 5694, "lang": "ru", "text": "Кориандр, семена - 1 ч. ложка", "ids": ["coriander-seed"]}
+{"audit": 5695, "lang": "ru", "text": "кориандр: 8 ст. л. (25 грамм)", "ids": ["coriander-seed"]}
+{"audit": 5696, "lang": "ru", "text": "Лук репчатый", "ids": ["onion"], "reason": "Russian luk repchatyi means bulb onion, not leek (luk-porei)."}
+{"audit": 5697, "lang": "ru", "text": "лук-порей (белый(: 2 шт", "ids": ["leek"]}
+{"audit": 5698, "lang": "ru", "text": "Лук-порей - 1 шт", "ids": ["leek"]}
+{"audit": 5699, "lang": "ru", "text": "лук-порей 0,6 кг", "ids": ["leek"]}
+{"audit": 5700, "lang": "ru", "text": "лук-порей 2 шт.", "ids": ["leek"]}
+{"audit": 5701, "lang": "ru", "text": "Лук-порей – 1 стебель", "ids": ["leek"]}
+{"audit": 5702, "lang": "ru", "text": "Лук-порей, только белая часть, мелко нарезанный – 450 г", "ids": ["leek"]}
+{"audit": 5703, "lang": "ru", "text": "лук-порей: 1 пучок", "ids": ["leek"]}
+{"audit": 5704, "lang": "ru", "text": "лук-порей: 1 средний (белый)", "ids": ["leek"]}
+{"audit": 5705, "lang": "ru", "text": "лук-порей: 1 стебель", "ids": ["leek"]}
+{"audit": 5706, "lang": "ru", "text": "лук-порей: 1,5 кг", "ids": ["leek"]}
+{"audit": 5707, "lang": "ru", "text": "лук-порей: 2 шт", "ids": ["leek"]}
+{"audit": 5708, "lang": "ru", "text": "лук-порей: 2-3 стебля", "ids": ["leek"]}
+{"audit": 5709, "lang": "ru", "text": "лук-порей: 3 головки", "ids": ["leek"]}
+{"audit": 5710, "lang": "ru", "text": "лук-порей: 3 шт", "ids": ["leek"]}
+{"audit": 5711, "lang": "ru", "text": "лук-порей: 3 шт (мелко нарезанный)", "ids": ["leek"]}
+{"audit": 5712, "lang": "ru", "text": "огородные овощи (морковь, репа, капуста, картофель, лук-порей)", "ids": ["carrot", "turnip", "cabbage", "potato", "leek"]}
+{"audit": 5713, "lang": "ru", "text": "порошок кориандра: 0,5 ч. л.", "ids": ["coriander-seed"]}
+{"audit": 5714, "lang": "ru", "text": "почки бараньи по вкусу", "ids": ["kidney"]}
+{"audit": 5715, "lang": "ru", "text": "почки говяжьи: 6 фунтов (2,72 кг)", "ids": ["beef-kidney"], "reason": "The Russian text explicitly specifies beef kidneys and beef-kidney exists."}
+{"audit": 5716, "lang": "ru", "text": "семена кориандра (молотые): 0,5 ч. л.", "ids": ["coriander-seed"]}
+{"audit": 5717, "lang": "ru", "text": "Семена кориандра (целые, для последующего обжаривания) — 4 ст. л.", "ids": ["coriander-seed"]}
+{"audit": 5718, "lang": "ru", "text": "семена кориандра 0.5 ч. ложки", "ids": ["coriander-seed"]}
+{"audit": 5719, "lang": "ru", "text": "семена кориандра 2ст. ложки", "ids": ["coriander-seed"]}
+{"audit": 5720, "lang": "ru", "text": "семена кориандра, 2 ч. л.", "ids": ["coriander-seed"]}
+{"audit": 5721, "lang": "ru", "text": "семена кориандра: 0,5 унции (14 г)", "ids": ["coriander-seed"]}
+{"audit": 5722, "lang": "ru", "text": "семена кориандра: 0,5 ч. л. (молотые)", "ids": ["coriander-seed"]}
+{"audit": 5723, "lang": "ru", "text": "семена кориандра: 35 г", "ids": ["coriander-seed"]}
+{"audit": 5724, "lang": "ru", "text": "суп Пармантье: 1,75 л", "ids": ["parmentier-soup"], "reason": "New ingredient needed: parmentier-soup (Parmentier potato and leek soup, sauce category). The Sante soup recipe adds sorrel and garnishes to 1.75 litres of already prepared Parmentier soup; the ingredient line does not name separate raw potatoes and leeks."}
+{"audit": 5725, "lang": "ru", "text": "сушёный кориандр в порошке: 1 ч. л.", "ids": ["coriander-seed"]}
+{"audit": 5726, "lang": "zh", "text": "蒜苗", "ids": ["garlic-leek"]}
+{"audit": 5727, "lang": "zh", "text": "蒜苗 1 把", "ids": ["garlic-leek"]}
+{"audit": 5728, "lang": "zh", "text": "蒜苗 150克", "ids": ["garlic-leek"]}
+{"audit": 5729, "lang": "zh", "text": "蒜苗 2 根", "ids": ["garlic-leek"]}
+{"audit": 5730, "lang": "zh", "text": "蒜苗 200g", "ids": ["garlic-leek"]}

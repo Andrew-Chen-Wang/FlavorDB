@@ -1,0 +1,104 @@
+[
+  {
+    "id": "bachoqueta",
+    "before": "seafood",
+    "category": "vegetable",
+    "reason": "Valencian green bean, confirmed in the ingredient text."
+  },
+  {
+    "id": "samat-leaves",
+    "before": "other",
+    "category": "herb",
+    "reason": "Culantro leaves used as an aromatic herb."
+  },
+  {
+    "id": "charmout",
+    "before": "dairy",
+    "category": "protein",
+    "reason": "Sudanese dried meat, not dairy."
+  },
+  {
+    "id": "kousenband",
+    "before": "grain",
+    "category": "vegetable",
+    "reason": "Yardlong bean pods, not grain."
+  },
+  {
+    "id": "panamito",
+    "before": "seafood",
+    "category": "legume",
+    "reason": "White beans soaked in the source recipe, not seafood."
+  },
+  {
+    "id": "pansette",
+    "before": "dairy",
+    "category": "protein",
+    "reason": "Gerzat tripe preparation, not dairy."
+  },
+  {
+    "id": "fruit-puffs",
+    "before": "grain",
+    "category": "sweetener",
+    "reason": "New Zealand confectionery sweets used in a biscuit recipe."
+  },
+  {
+    "id": "baobab-leaf-flour",
+    "before": "grain",
+    "category": "vegetable",
+    "reason": "Powdered baobab leaves, not cereal flour."
+  },
+  {
+    "id": "testone",
+    "before": "grain",
+    "category": "seafood",
+    "reason": "Named fish in Ciambotta pugliese source recipe."
+  },
+  {
+    "id": "tettina",
+    "before": "dairy",
+    "category": "protein",
+    "reason": "Udder/offal in Cima alla Genovese, not a dairy product."
+  },
+  {
+    "id": "savoiardi",
+    "before": "other",
+    "category": "grain",
+    "reason": "Ladyfinger biscuits."
+  },
+  {
+    "id": "stracchino",
+    "before": "other",
+    "category": "dairy",
+    "reason": "Stracchino cheese."
+  },
+  {
+    "id": "sugar-beet",
+    "before": "sweetener",
+    "category": "vegetable",
+    "reason": "Whole sugar beet is distinct from the separately listed sugar-beet syrup."
+  },
+  {
+    "id": "curry-roux",
+    "before": "spice",
+    "category": "sauce",
+    "reason": "Prepared curry sauce base, not a single spice."
+  },
+  {
+    "id": "quorn",
+    "before": "legume",
+    "category": "protein",
+    "reason": "Mycoprotein meat substitute, not a legume."
+  },
+  {
+    "id": "lotus-seeds",
+    "before": "legume",
+    "category": "other",
+    "reason": "Lotus seeds are seeds, not legumes."
+  },
+  {
+    "id": "steamed-meat-powder",
+    "beforeName": "Steamed meat powder",
+    "name": "Spiced rice coating",
+    "reason": "蒸肉粉 names the spiced rice coating used for steamed meat, not powdered meat."
+  }
+]
