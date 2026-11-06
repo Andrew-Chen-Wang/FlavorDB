@@ -1,3 +1,4 @@
+import { importedWorldLinks } from "./world-links-imported"
 import { flavor } from "./dishes/helpers"
 import type { Profile } from "./profiles"
 import type { FlavorProfile } from "./types"
@@ -5,7 +6,7 @@ import type { FlavorProfile } from "./types"
 /**
  * Dishes from the imported world collection (`@flavor-db/world-dishes`) that are hand-profiled so
  * they can show up as similar dishes. The id is the world dish id (a Wikidata QID), and the page
- * lives at /world/<id>. Mostly noodle dishes so far, so a noodle dish can be matched with noodles
+ * lives at /dishes/<id>. Recipe-backed profiles extend the original noodle collection so dishes match
  * from other cultures, not only with whatever else is in the curated set.
  */
 export type WorldLink = {
@@ -531,4 +532,5 @@ export const worldLinks: WorldLink[] = [
       notes: ["broth", "ginger", "garlic", "chili"],
     },
   },
+  ...importedWorldLinks,
 ]

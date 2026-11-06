@@ -11,6 +11,8 @@ import {
   profiles,
   similarByMethod,
   similarByTaste,
+  similarWorldByMethod,
+  similarWorldByTaste,
   worldLinks,
 } from "./index"
 
@@ -58,6 +60,20 @@ describe("seed data", () => {
     }
   })
 
+  test("imported profiles distinguish preparation from flavor and exclude themselves", () => {
+    const world = (name: string) => worldLinks.find((w) => w.name === name)!
+    expect(similarWorldByMethod(world("Acarajé"), 1)[0].item.name).toBe("Falafel")
+    expect(similarWorldByMethod(world("Crème brûlée"), 1)[0].item.name).toBe("Crema catalana")
+    expect(similarWorldByMethod(world("Hummus"), 3).map((m) => m.item.name)).not.toContain(
+      "Falafel",
+    )
+    expect(similarWorldByTaste(world("Hummus"), 3).map((m) => m.item.name)).toContain("Falafel")
+    for (const w of worldLinks) {
+      expect(similarWorldByMethod(w).some((m) => m.item.id === w.id)).toBe(false)
+      expect(similarWorldByTaste(w).some((m) => m.item.id === w.id)).toBe(false)
+    }
+  })
+
   test("the category graph links stir-fried noodles to noodles and to wok-fried dishes", () => {
     expect([...ancestors(FORM_GRAPH, ["fried-noodles"])].toSorted()).toEqual([
       "fried-noodles",
@@ -68,7 +84,7 @@ describe("seed data", () => {
   })
 
   test("tamale and zongzi are made the same way", () => {
-    expect(top(similarByMethod(find("zongzi")), 1)).toEqual(["tamale"])
+    expect(top(similarByMethod(find("zongzi")), 2)).toEqual(["Q564567", "tamale"])
   })
 
   test("Shangrao chao fen is made like other cultures' stir-fried noodles", () => {
