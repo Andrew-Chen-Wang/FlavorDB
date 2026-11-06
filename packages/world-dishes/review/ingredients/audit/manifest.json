@@ -10,7 +10,7 @@
   "distinctReviewedStrings": 6812,
   "fullRereadBatches": ["en-003", "fr-001", "pl-004", "ja-000"],
   "targetedAdditionalStrings": 647,
-  "correctedStrings": 765,
+  "correctedStrings": 766,
   "contextOverrides": 6,
   "newIngredientEntries": 23,
   "vocabularyMetadataCorrections": 17
