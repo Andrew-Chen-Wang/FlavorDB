@@ -95,7 +95,23 @@ export function WorldDishView({ dish }: { dish: WorldDish }) {
                     >
                       Wikimedia Commons
                     </a>{" "}
-                    (see the file page for author and license)
+                    {dish.imageCredit ? (
+                      <>
+                        · {dish.imageCredit.author} ·{" "}
+                        {dish.imageCredit.licenseUrl ? (
+                          <a
+                            href={dish.imageCredit.licenseUrl}
+                            className={"underline underline-offset-2 hover:text-chili"}
+                          >
+                            {dish.imageCredit.license}
+                          </a>
+                        ) : (
+                          dish.imageCredit.license
+                        )}
+                      </>
+                    ) : (
+                      "(see the file page for author and license)"
+                    )}
                   </>
                 ) : (
                   <>

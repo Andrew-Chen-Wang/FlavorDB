@@ -7,9 +7,81 @@
     "image": "Butterscotch pie.jpg",
     "from": "https://en.wikipedia.org/wiki/Butterscotch_pie"
   },
+  "Q101064564": {
+    "image": "Lebensmittel-Teufelssalat-3-Asio.jpg",
+    "from": "https://commons.wikimedia.org/wiki/Category:Teufelssalat",
+    "credit": {
+      "author": "© Asio otus / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "Q1014883": {
+    "image": "2018-12-27-Burger Brezel-1298.jpg",
+    "from": "https://commons.wikimedia.org/wiki/Category:Burger%20Brezel",
+    "credit": {
+      "author": "© Superbass / CC BY-SA 4.0 (via Wikimedia Commons)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "Q102195822": {
+    "image": "葉栗屋の志の田丼.jpg",
+    "from": "https://commons.wikimedia.org/wiki/Category:Shinoda-don",
+    "credit": {
+      "author": "経済特区",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "Q102417677": {
+    "image": "Ttaro-gukbap.jpg",
+    "from": "https://commons.wikimedia.org/wiki/Category:Ttarogukbap",
+    "credit": {
+      "author": "chomjong",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "Q102419432": {
+    "image": "9미-야끼우동.jpg",
+    "from": "https://commons.wikimedia.org/wiki/Category:Korean%20Chinese%20yakkiudong",
+    "credit": {
+      "author": "대구광역시",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    }
+  },
+  "Q10267967": {
+    "image": "Dom_Rodrigo.jpg",
+    "from": "https://en.wikipedia.org/wiki/Dom_Rodrigo",
+    "credit": {
+      "author": "Cardoazul",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "Q10274873": {
+    "image": "Espada_with_Banana_Madeira.jpg",
+    "from": "https://en.wikipedia.org/wiki/Espada_com_banana",
+    "credit": {
+      "author": "AngMoKio",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
   "Q10328276": {
     "image": "Meia desfeita.jpg",
     "from": "https://en.wikipedia.org/wiki/Meia-desfeita"
+  },
+  "Q10335890": {
+    "image": "Kyata.jpg",
+    "from": "https://www.wikidata.org/wiki/Q26693028",
+    "credit": {
+      "author": "Nitai4andra",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
   },
   "Q10338866": {
     "image": "Single set at Li Liangui Xunrou Dabing (20231010124144).jpg",
@@ -79,6 +151,15 @@
     "image": "Poireaux vinaigrette Dijon.jpg",
     "from": "https://en.wikipedia.org/wiki/Poireaux_vinaigrette"
   },
+  "Q105556658": {
+    "image": "Encacahuatado_CDMX.jpg",
+    "from": "https://en.wikipedia.org/wiki/Encacahuatado",
+    "credit": {
+      "author": "El Mono Español",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
   "Q105626150": {
     "image": "KBL (Kadios, Baboy, Langka).jpg",
     "from": "https://en.wikipedia.org/wiki/Kadyos%2C_baboy%2C_kag_langka"
@@ -98,6 +179,15 @@
   "Q10567313": {
     "image": "黑白切.jpg",
     "from": "https://zh.wikipedia.org/wiki/%E9%BB%91%E7%99%BD%E5%88%87"
+  },
+  "Q105825449": {
+    "image": "Berliner-Pfannkuchen.jpg",
+    "from": "https://en.wikipedia.org/wiki/Krapfen",
+    "credit": {
+      "author": "User Rainer Zenz on de.wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
   },
   "Q106091180": {
     "image": "Tom som kraduk mu.JPG",
@@ -139,6 +229,15 @@
     "image": "Ăn quán ở P1 Đông Hà, Lễ 2th9n2023 (chén mắm nêm) (3).jpg",
     "from": "https://en.wikipedia.org/wiki/M%E1%BA%AFm_n%C3%AAm"
   },
+  "Q107969329": {
+    "image": "Dhikri_Tharu_Food.jpg",
+    "from": "https://en.wikipedia.org/wiki/Dhikri",
+    "credit": {
+      "author": "Janak Bhatta",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
   "Q108304103": {
     "image": "Panagyurishte-style eggs.jpg",
     "from": "https://en.wikipedia.org/wiki/Panagyurishte-style_eggs"
@@ -154,6 +253,15 @@
   "Q108794171": {
     "image": "Korean soup-Seonjiguk-02.jpg",
     "from": "https://en.wikipedia.org/wiki/Seonjit-guk"
+  },
+  "Q10894961": {
+    "image": "Image-3-mc.png",
+    "from": "https://zh.wikipedia.org/wiki/%E5%86%92%E8%8F%9C",
+    "credit": {
+      "author": "Cd.youyang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
   },
   "Q10895227": {
     "image": "Wintermelonsoupbowl.jpg",
@@ -223,6 +331,15 @@
     "image": "07.03 總統參訪「深坑老街」 (50070825286).jpg",
     "from": "https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%9D%91%E8%B1%86%E8%85%90"
   },
+  "Q11172495": {
+    "image": "Fish_tofu.jpg",
+    "from": "https://en.wikipedia.org/wiki/Fish_tofu",
+    "credit": {
+      "author": "Fumikas Sagisavas",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+  },
   "Q11172760": {
     "image": "Dacefishball.jpg",
     "from": "https://zh.wikipedia.org/wiki/%E9%AF%AA%E9%AD%9A%E7%90%83"
@@ -242,6 +359,14 @@
   "Q111835885": {
     "image": "Reggianito.jpg",
     "from": "https://en.wikipedia.org/wiki/Argentine_cheese"
+  },
+  "Q111981894": {
+    "image": "NCI Visuals Food Hamburger.jpg",
+    "from": "https://www.wikidata.org/wiki/Q6663",
+    "credit": {
+      "author": "Len Rizzi (photographer)",
+      "license": "Public domain"
+    }
   },
   "Q112073818": {
     "image": "Saeal-sim.jpg",
@@ -266,6 +391,15 @@
   "Q112568435": {
     "image": "بولفاف.jpg",
     "from": "https://en.wikipedia.org/wiki/Boulfaf"
+  },
+  "Q11261191": {
+    "image": "Oiri.jpg",
+    "from": "https://www.wikidata.org/wiki/Q11261190",
+    "credit": {
+      "author": "7'o'7",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
   },
   "Q11269912": {
     "image": "TubOfSurimi.jpg",
@@ -339,6 +473,15 @@
     "image": "MOW PRIME Gold Rum Raisin - 2.jpg",
     "from": "https://en.wikipedia.org/wiki/Rum_raisin"
   },
+  "Q115802819": {
+    "image": "Estufao.jpg",
+    "from": "https://en.wikipedia.org/wiki/Estufao",
+    "credit": {
+      "author": "LittleT889",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
   "Q115804147": {
     "image": "Kaddon pika.jpg",
     "from": "https://en.wikipedia.org/wiki/Kaddon_pika"
@@ -379,6 +522,15 @@
     "image": "Šúľance z makiem.jpg",
     "from": "https://en.wikipedia.org/wiki/%C5%A0%C3%BA%C4%BEance"
   },
+  "Q117832690": {
+    "image": "Beef Stroganoff-01.jpg",
+    "from": "https://www.wikidata.org/wiki/Q849058",
+    "credit": {
+      "author": "Pittaya Sroilong",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
   "Q117971950": {
     "image": "Peanut butter pickle sandwich (cropped).png",
     "from": "https://en.wikipedia.org/wiki/Peanut_butter_and_pickle_sandwich"
@@ -390,6 +542,15 @@
   "Q118290778": {
     "image": "Hamburger patty.jpg",
     "from": "https://en.wikipedia.org/wiki/Beef_patty"
+  },
+  "Q11857503": {
+    "image": "Ellen_Svinhufvudin_kakku.IMG_9808.JPG",
+    "from": "https://en.wikipedia.org/wiki/Ellen_Svinhufvud_cake",
+    "credit": {
+      "author": "Ave Maria Mõistlik",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    }
   },
   "Q118895947": {
     "image": "Bánh giầy giò 2.jpg",
@@ -418,6 +579,15 @@
   "Q119778178": {
     "image": "Lechon.jpg",
     "from": "https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E8%B3%93%E7%87%92%E4%B9%B3%E8%B1%AC"
+  },
+  "Q119868237": {
+    "image": "Deep-fried Wheat Flour Cake - Kolkata 2011-04-15 2312.JPG",
+    "from": "https://www.wikidata.org/wiki/Q16345325",
+    "credit": {
+      "author": "Biswarup Ganguly",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    }
   },
   "Q12007500": {
     "image": "Trollkrem Nasjonal digital læringsarena.png",
@@ -483,6 +653,15 @@
     "image": "Pastel de Jaiba.jpg",
     "from": "https://en.wikipedia.org/wiki/Pastel_de_jaiba"
   },
+  "Q124714020": {
+    "image": "Dum_ka_roat.jpg",
+    "from": "https://en.wikipedia.org/wiki/Roat",
+    "credit": {
+      "author": "Jyothivalaboju",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
   "Q124727156": {
     "image": "Powidla.jpg",
     "from": "https://en.wikipedia.org/wiki/Plum_butter"
@@ -502,6 +681,15 @@
   "Q125457823": {
     "image": "Kampot pepper crab.jpg",
     "from": "https://en.wikipedia.org/wiki/Kampot_pepper_crab"
+  },
+  "Q125475914": {
+    "image": "Frank_Fat's_banana_cream_pie.jpg",
+    "from": "https://en.wikipedia.org/wiki/Banana_cream_pie",
+    "credit": {
+      "author": "Cullen328",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
   },
   "Q125549453": {
     "image": "豌杂面.jpg",
@@ -551,6 +739,15 @@
     "image": "Milk tofu.JPG",
     "from": "https://zh.wikipedia.org/wiki/%E5%A5%B6%E8%B1%86%E8%85%90"
   },
+  "Q131291967": {
+    "image": "Plat de hmiss.jpg",
+    "from": "https://www.wikidata.org/wiki/Q3138826",
+    "credit": {
+      "author": "Indif",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
   "Q131379933": {
     "image": "招牌蒜泥白肉.jpg",
     "from": "https://zh.wikipedia.org/wiki/%E8%92%9C%E6%B3%A5%E7%99%BD%E8%82%89"
@@ -575,6 +772,15 @@
     "image": "Clupea harengus New Jersey.jpg",
     "from": "https://en.wikipedia.org/wiki/Moskalik_%28fish%29"
   },
+  "Q134528137": {
+    "image": "Food_椒麻雞,_泰鄉雲餐廳,_台北_(16734421003).jpg",
+    "from": "https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%BC%8F%E6%A4%92%E9%BA%BB%E9%9B%9E",
+    "credit": {
+      "author": "bryan... from Taipei, Taiwan",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
   "Q134549691": {
     "image": "Sahpye.jpg",
     "from": "https://en.wikipedia.org/wiki/Sahpye"
@@ -590,6 +796,15 @@
   "Q135004750": {
     "image": "Karachi Halwa (Corn Flour Halwa).jpg",
     "from": "https://en.wikipedia.org/wiki/Bombay_halwa"
+  },
+  "Q13537901": {
+    "image": "Bobaľky.jpg",
+    "from": "https://en.wikipedia.org/wiki/Opekanec",
+    "credit": {
+      "author": "Matus Kacmar",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
   },
   "Q135437350": {
     "image": "CAM00479-1.jpg",
@@ -622,6 +837,15 @@
   "Q136564070": {
     "image": "Griot haïtien (42675563925).jpg",
     "from": "https://en.wikipedia.org/wiki/Fritay"
+  },
+  "Q136674388": {
+    "image": "Disco_fries.jpg",
+    "from": "https://en.wikipedia.org/wiki/Disco_fries",
+    "credit": {
+      "author": "BanjoZebra",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    }
   },
   "Q136700752": {
     "image": "Pollo asado al carbón, Valladolid Yucatan Marzo 2021.jpg",
@@ -667,6 +891,24 @@
     "image": "Bori Curry.jpg",
     "from": "https://en.wikipedia.org/wiki/Maroi_bori_thongba"
   },
+  "Q138542235": {
+    "image": "Arroz con mariscos.jpg",
+    "from": "https://www.wikidata.org/wiki/Q5706318",
+    "credit": {
+      "author": "Manuel González Olaechea",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "Q138542242": {
+    "image": "Carolinas-recheadas-doce-de-leite.jpg",
+    "from": "https://www.wikidata.org/wiki/Q130472512",
+    "credit": {
+      "author": "Lu.schmidt",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
   "Q138542244": {
     "image": "Bahia acaraje.jpg",
     "from": "https://pt.wikibooks.org/wiki/Livro_de_receitas%2FAcaraj%C3%A9"
@@ -683,6 +925,15 @@
     "image": "Lei Lajiao Pidan at Xiangzhongyuan Hunan Cuisine, Beijing (20240127103613).jpg",
     "from": "https://zh.wikipedia.org/wiki/%E6%93%82%E8%BE%A3%E6%A4%92%E7%9A%AE%E8%9B%8B"
   },
+  "Q139505285": {
+    "image": "Tamago_Sando_elaborado_en_Argentina.jpg",
+    "from": "https://en.wikipedia.org/wiki/Tamago_Sando",
+    "credit": {
+      "author": "ClickCh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
   "Q139587337": {
     "image": "Sansia IMG 1779.JPG",
     "from": "https://zh.wikipedia.org/wiki/%E9%87%91%E7%89%9B%E8%A7%92"
@@ -698,6 +949,15 @@
   "Q139963953": {
     "image": "Chamorro red rice.png",
     "from": "https://en.wikipedia.org/wiki/Chamorro_red_rice"
+  },
+  "Q140068316": {
+    "image": "Dinner_by_Heston_-_Brown_Bread_Ice_Cream_(cropped).jpg",
+    "from": "https://en.wikipedia.org/wiki/Brown_bread_ice_cream",
+    "credit": {
+      "author": "Feline DaCat",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
   },
   "Q140157702": {
     "image": "Chitlins.jpg",
@@ -726,6 +986,15 @@
   "Q14675912": {
     "image": "Chinese pizza Cake 廣東家鄉煎薄罉.JPG",
     "from": "https://zh.wikipedia.org/wiki/%E7%85%8E%E8%96%84%E9%90%BA"
+  },
+  "Q14758321": {
+    "image": "Dutch_Bitterkoekjes.jpg",
+    "from": "https://en.wikipedia.org/wiki/Bitterkoekje",
+    "credit": {
+      "author": "Watisfictie",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
   },
   "Q14782277": {
     "image": "Vinadosh.jpg",
@@ -759,6 +1028,24 @@
     "image": "ChineseNoodles.jpg",
     "from": "https://zh.wikipedia.org/wiki/%E9%99%BD%E6%98%A5%E9%BA%B5"
   },
+  "Q15880225": {
+    "image": "Egg_yolk_pastry_in_Taiwan_20130913.jpg",
+    "from": "https://en.wikipedia.org/wiki/Egg_yolk_pastry",
+    "credit": {
+      "author": "褒忠國中 雲端網",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "Q15889697": {
+    "image": "Braised_Guandong_Sea_Cucumber_with_Scallion_in_Sauce.jpg",
+    "from": "https://zh.wikipedia.org/wiki/%E8%91%B1%E7%83%A7%E6%B5%B7%E5%8F%82",
+    "credit": {
+      "author": "Zheng Zhou",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
   "Q15894455": {
     "image": "Billyfoodoysteromelette.jpg",
     "from": "https://zh.wikipedia.org/wiki/%E8%9D%A6%E4%BB%81%E7%85%8E"
@@ -767,6 +1054,15 @@
     "image": "Crispy Eel Liang Xi.jpg",
     "from": "https://zh.wikipedia.org/wiki/%E6%A2%81%E6%BA%AA%E8%84%86%E9%B3%9D"
   },
+  "Q15899897": {
+    "image": "糖醋鲤鱼2024（德州）.jpg",
+    "from": "https://zh.wikipedia.org/wiki/%E7%B3%96%E9%86%8B%E9%B2%A4%E9%B1%BC",
+    "credit": {
+      "author": "Suginami",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+  },
   "Q15909171": {
     "image": "Pork floss.JPG",
     "from": "https://zh.wikipedia.org/wiki/%E7%8C%AA%E8%82%89%E6%9D%BE"
@@ -774,6 +1070,15 @@
   "Q15912025": {
     "image": "2011-10-06 玉里麵湯麵.jpg",
     "from": "https://zh.wikipedia.org/wiki/%E7%8E%89%E9%87%8C%E9%BA%B5"
+  },
+  "Q15931384": {
+    "image": "Matang_booth_near_Bayi_High_School_(20151023131554).jpg",
+    "from": "https://zh.wikipedia.org/wiki/%E7%8E%9B%E4%BB%81%E7%B3%96",
+    "credit": {
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
   },
   "Q15932277": {
     "image": "Steamed Wuchang Bream.jpg",
@@ -995,6 +1300,15 @@
     "image": "Num ansom chrouk.jpg",
     "from": "https://en.wikipedia.org/wiki/Ansom_chek"
   },
+  "Q17767877": {
+    "image": "Dronnig_Maud-dessert.jpg",
+    "from": "https://en.wikipedia.org/wiki/Queen_Maud_fromage",
+    "credit": {
+      "author": "Heidi Bye Svartangen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
   "Q1786572": {
     "image": "Sodd, Norwegian traditional food.jpg",
     "from": "https://en.wikipedia.org/wiki/Sodd"
@@ -1002,6 +1316,15 @@
   "Q1796292": {
     "image": "Königsberger Marzipan.jpg",
     "from": "https://en.wikipedia.org/wiki/K%C3%B6nigsberg_marzipan"
+  },
+  "Q1808216": {
+    "image": "Boterkoek.JPG",
+    "from": "https://www.wikidata.org/wiki/Q13442810",
+    "credit": {
+      "author": "JZ85",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
   },
   "Q18127202": {
     "image": "Butter lettuce soup.jpg",
@@ -1050,6 +1373,15 @@
   "Q1916808": {
     "image": "Meeresfruchte.jpg",
     "from": "https://en.wikipedia.org/wiki/Fruits_de_mer_%28chocolate%29"
+  },
+  "Q19378476": {
+    "image": "Hawaiian sweet bread rolls.jpg",
+    "from": "https://www.wikidata.org/wiki/Q93149118",
+    "credit": {
+      "author": "hawaiianfoodrecipe",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
   },
   "Q1938644": {
     "image": "Mischbrot-1.jpg",
@@ -1115,6 +1447,15 @@
     "image": "ChileajoOax.JPG",
     "from": "https://en.wikipedia.org/wiki/Chileajo_de_cerdo"
   },
+  "Q20970577": {
+    "image": "Flower_Love_Sushi.jpg",
+    "from": "https://zh.wikipedia.org/wiki/%E8%8A%B1%E4%B9%8B%E6%88%80",
+    "credit": {
+      "author": "Neodymium+Nd",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
   "Q20984273": {
     "image": "Bún with Lemongrass Chicken.jpg",
     "from": "https://en.wikipedia.org/wiki/G%C3%A0_n%C6%B0%E1%BB%9Bng_s%E1%BA%A3"
@@ -1138,6 +1479,15 @@
   "Q21994744": {
     "image": "델리만쥬 사진.jpg",
     "from": "https://en.wikipedia.org/wiki/Delimanjoo"
+  },
+  "Q22099375": {
+    "image": "Food_蚵仔煎,_煎虱目魚肚,_東石吳蚵仔煎小吃店,_南機場夜市,_台北_(21489256048).jpg",
+    "from": "https://zh.wikipedia.org/wiki/%E8%99%B1%E7%9B%AE%E9%AD%9A%E8%82%9A",
+    "credit": {
+      "author": "bryan... from Taipei, Taiwan",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
   },
   "Q22101093": {
     "image": "各種口味的米粩，2024.02.06.jpg",
@@ -1194,6 +1544,15 @@
   "Q25051984": {
     "image": "ขนมเปียกปูน.jpg",
     "from": "https://en.wikipedia.org/wiki/Kanom_piakpoon"
+  },
+  "Q25058467": {
+    "image": "DominicanCake.jpg",
+    "from": "https://en.wikipedia.org/wiki/Bizcocho_dominicano",
+    "credit": {
+      "author": "Jjr314psu",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
   },
   "Q25111357": {
     "image": "Sukhothai Noodles at Amphawa Thai Noodle House, San Francisco.jpg",
@@ -1343,6 +1702,24 @@
     "image": "Pea puree.jpg",
     "from": "https://en.wikipedia.org/wiki/Pease_pudding"
   },
+  "Q31837365": {
+    "image": "Buttered_eggs,_2015.jpg",
+    "from": "https://en.wikipedia.org/wiki/Buttered_eggs",
+    "credit": {
+      "author": "William Murphy",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "Q3220237": {
+    "image": "Dried_reindeer_meat.jpg",
+    "from": "https://en.wikipedia.org/wiki/Kuivaliha",
+    "credit": {
+      "author": "LHOON (Peter Van den Bossche)",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
   "Q3234952": {
     "image": "狮子楼狮子头.jpg",
     "from": "https://en.wikipedia.org/wiki/Lion%27s_Head_%28food%29"
@@ -1463,6 +1840,14 @@
     "image": "بليلا (cropped).JPG",
     "from": "https://en.wikipedia.org/wiki/Balila_%28dish%29"
   },
+  "Q4859633": {
+    "image": "Fried_chicken_dinner,_Milich's_Village_Inn.jpg",
+    "from": "https://en.wikipedia.org/wiki/Barberton_chicken",
+    "credit": {
+      "author": "David Gable",
+      "license": "Public domain"
+    }
+  },
   "Q48927612": {
     "image": "Annin tofu with osmanthus jam.jpg",
     "from": "https://zh.wikipedia.org/wiki/%E6%9D%8F%E4%BB%81%E8%B1%86%E8%85%90_%28%E6%B8%AF%E5%BC%8F%E7%94%9C%E9%A3%9F%29"
@@ -1539,13 +1924,49 @@
     "image": "American pigs in blankets.jpg",
     "from": "https://en.wikipedia.org/wiki/Sausage_bun"
   },
+  "Q5267360": {
+    "image": "Deviled_crabs.JPG",
+    "from": "https://en.wikipedia.org/wiki/Deviled_crab",
+    "credit": {
+      "author": "Zeng8r",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
   "Q5311505": {
     "image": "Jamaican cornmeal duckunoo.jpg",
     "from": "https://en.wikipedia.org/wiki/Duckanoo"
   },
+  "Q5347834": {
+    "image": "Egg_and_chips.jpg",
+    "from": "https://en.wikipedia.org/wiki/Egg_and_chips",
+    "credit": {
+      "author": "Max Howell from Milton Keynes, UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "Q5347855": {
+    "image": "Egg_roast.jpg",
+    "from": "https://en.wikipedia.org/wiki/Egg_roast",
+    "credit": {
+      "author": "Samphotography",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
   "Q5364840": {
     "image": "Robatayaki.jpg",
     "from": "https://en.wikipedia.org/wiki/Robatayaki"
+  },
+  "Q5365279": {
+    "image": "Noppe.jpg",
+    "from": "https://www.wikidata.org/wiki/Q11275191",
+    "credit": {
+      "author": "Cp9asngf",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
   },
   "Q5369082": {
     "image": "Gwamegi.jpg",
@@ -1563,6 +1984,23 @@
     "image": "Goan Xit kodi.jpg",
     "from": "https://en.wikipedia.org/wiki/Filoz"
   },
+  "Q5454630": {
+    "image": "Fried_Fish_and_French_Fries.jpg",
+    "from": "https://en.wikipedia.org/wiki/Fish_fry",
+    "credit": {
+      "author": "PDphoto.org",
+      "license": "Public domain"
+    }
+  },
+  "Q5454652": {
+    "image": "Fish_Moilee_Kerala_Style_(aka_KeralaFish_Molly).JPG",
+    "from": "https://en.wikipedia.org/wiki/Fish_moolie",
+    "credit": {
+      "author": "Drsoumyadeepb",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
   "Q550325": {
     "image": "Caguamanta checo.jpg",
     "from": "https://en.wikipedia.org/wiki/Cahuamanta"
@@ -1570,6 +2008,15 @@
   "Q5503619": {
     "image": "Berenjenas con Miel.jpg",
     "from": "https://en.wikipedia.org/wiki/Fried_eggplant"
+  },
+  "Q5504554": {
+    "image": "Frijolescharros.png",
+    "from": "https://en.wikipedia.org/wiki/Frijoles_charros",
+    "credit": {
+      "author": "Ivanmartinez",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
   },
   "Q5509249": {
     "image": "Pinkaso 1.png",
@@ -1591,6 +2038,15 @@
     "image": "Colostrum cakes.JPG",
     "from": "https://en.wikipedia.org/wiki/Kharvas"
   },
+  "Q55708792": {
+    "image": "Salt_pork_by_Tayal,_tmmyan,_May_2018.jpeg",
+    "from": "https://zh.wikipedia.org/wiki/%E5%BE%97%E9%BA%BC%E9%9D%A2",
+    "credit": {
+      "author": "林恬安",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
   "Q55832040": {
     "image": "Spaghetti with anchovies (356534448).jpg",
     "from": "https://en.wikipedia.org/wiki/Spaghetti_alla_siracusana"
@@ -1607,9 +2063,27 @@
     "image": "Pitbeef.jpg",
     "from": "https://en.wikipedia.org/wiki/Pit_beef"
   },
+  "Q56884785": {
+    "image": "Zwieback-1.jpg",
+    "from": "https://www.wikidata.org/wiki/Q4122049",
+    "credit": {
+      "author": "No machine-readable author provided. Rainer Zenz assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
   "Q57304501": {
     "image": "Oost-Vlaamse vlaai.jpg",
     "from": "https://en.wikipedia.org/wiki/Aalsterse_vla"
+  },
+  "Q5814975": {
+    "image": "Dulce_de_lechosa.jpg",
+    "from": "https://zh.wikipedia.org/wiki/%E6%9C%A8%E7%93%9C%E7%B3%96",
+    "credit": {
+      "author": "Muago",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
   },
   "Q581884": {
     "image": "Rönttönen.jpg",
@@ -1638,6 +2112,15 @@
   "Q60745567": {
     "image": "Mince on toast.jpg",
     "from": "https://en.wikipedia.org/wiki/Mince_on_toast"
+  },
+  "Q60825499": {
+    "image": "Ajiaco.jpg",
+    "from": "https://www.wikidata.org/wiki/Q412754",
+    "credit": {
+      "author": "Mauricio Giraldo from Bogotá, Colombia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
   },
   "Q61090667": {
     "image": "Korean cuisine-Kkanpunggi-01.jpg",
@@ -1783,6 +2266,15 @@
     "image": "Akbar Mashti.JPG",
     "from": "https://en.wikipedia.org/wiki/Pink_Wafer"
   },
+  "Q71988103": {
+    "image": "Bistrot de Pays de Niozelles Plombière aux fruits confits d'Apt.jpg",
+    "from": "https://www.wikidata.org/wiki/Q3108252",
+    "credit": {
+      "author": "Marianne Casamance",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
   "Q7207180": {
     "image": "Kerala Beans thoran curry.jpg",
     "from": "https://en.wikipedia.org/wiki/Poduthol"
@@ -1790,6 +2282,15 @@
   "Q7211324": {
     "image": "Dansan.jpg",
     "from": "https://zh.wikipedia.org/wiki/%E8%9B%8B%E6%95%A3"
+  },
+  "Q7211348": {
+    "image": "Food_蚵嗲,_古早味蚵嗲,_永樂市場,_台北_(21544015428).jpg",
+    "from": "https://zh.wikipedia.org/wiki/%E8%9A%B5%E7%82%B1",
+    "credit": {
+      "author": "bryan... from Taipei, Taiwan",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
   },
   "Q7212290": {
     "image": "萬巒豬腳 (4434285909).jpg",
@@ -1871,6 +2372,15 @@
     "image": "Chelo Kabab Soltani Berlin Kourosh.jpg",
     "from": "https://en.wikipedia.org/wiki/Stonner_kebab"
   },
+  "Q7780958": {
+    "image": "DALI_NI_HORBO,_KEJU_KHAS_SUKU_BATAK_1-5_screenshot.png",
+    "from": "https://en.wikipedia.org/wiki/Dali_ni_horbo",
+    "credit": {
+      "author": "Televisi https://www.youtube.com/c/EfarinaTelevisi%7CEfarina Televisi",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    }
+  },
   "Q7800152": {
     "image": "甜沫 202509.jpg",
     "from": "https://zh.wikipedia.org/wiki/%E7%94%9C%E6%B2%AB"
@@ -1915,6 +2425,15 @@
     "image": "Speckknödel auf Kraut, 2013.jpg",
     "from": "https://en.wikipedia.org/wiki/Bayrisch_Kraut"
   },
+  "Q8255086": {
+    "image": "Elizabeths_6Ap2015_Bel_Calas.jpg",
+    "from": "https://en.wikipedia.org/wiki/Calas_(food)",
+    "credit": {
+      "author": "Infrogmation of New Orleans",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
   "Q83630324": {
     "image": "Pastas caseras colonienses.jpg",
     "from": "https://ru.wikibooks.org/wiki/%D0%A0%D0%B5%D1%86%D0%B5%D0%BF%D1%82%3A%D0%A0%D0%B0%D0%B2%D0%B8%D0%BE%D0%BB%D0%B8"
@@ -1943,6 +2462,24 @@
     "image": "Champaran meat.jpg",
     "from": "https://en.wikipedia.org/wiki/Champaran_meat"
   },
+  "Q85757492": {
+    "image": "Doughwich.jpg",
+    "from": "https://en.wikipedia.org/wiki/Doughnut_sandwich",
+    "credit": {
+      "author": "Jeremystephan1970",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "Q85758017": {
+    "image": "DuvshaniotCookies.jpg",
+    "from": "https://en.wikipedia.org/wiki/Duvshaniot",
+    "credit": {
+      "author": "Peteravivangel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
   "Q85789437": {
     "image": "Njbrkfast.jpg",
     "from": "https://en.wikipedia.org/wiki/Norfolk_hot_dog"
@@ -1950,6 +2487,15 @@
   "Q85794168": {
     "image": "Potato kugel.jpg",
     "from": "https://en.wikipedia.org/wiki/Potato_kugel"
+  },
+  "Q86661713": {
+    "image": "Smietanik.jpg",
+    "from": "https://www.wikidata.org/wiki/Q3486962",
+    "credit": {
+      "author": "Apricot",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
   },
   "Q880562": {
     "image": "Thuringian roast.jpg",
@@ -2007,6 +2553,15 @@
     "image": "Strawberry sorbet zoomed.jpg",
     "from": "https://en.wikipedia.org/wiki/Givr%C3%A9"
   },
+  "Q98078539": {
+    "image": "Fruechtebrot.jpg",
+    "from": "https://www.wikidata.org/wiki/Q267554",
+    "credit": {
+      "author": "© Alice Wiegand",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
   "Q98594037": {
     "image": "Indio-viejo-nicaraguense.jpg",
     "from": "https://en.wikipedia.org/wiki/Indio_viejo"
@@ -2026,6 +2581,33 @@
   "howtocook:aquatic:油焖大虾:油焖大虾": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/aquatic/%E6%B2%B9%E7%84%96%E5%A4%A7%E8%99%BE/%E6%B2%B9%E7%84%96%E5%A4%A7%E8%99%BE.jpg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/aquatic/油焖大虾/油焖大虾.md"
+  },
+  "howtocook:aquatic:清蒸鲈鱼:清蒸鲈鱼": {
+    "image": "清蒸鲈鱼.jpg",
+    "from": "https://commons.wikimedia.org/w/index.php?search=%E6%B8%85%E8%92%B8%E9%B2%88%E9%B1%BC&title=Special%3AMediaSearch&type=image",
+    "credit": {
+      "author": "Walter Grassroot",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "howtocook:aquatic:红烧鱼": {
+    "image": "中国红烧鱼.jpg",
+    "from": "https://commons.wikimedia.org/w/index.php?search=%E7%BA%A2%E7%83%A7%E9%B1%BC&title=Special%3AMediaSearch&type=image",
+    "credit": {
+      "author": "Huaying1988",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "howtocook:aquatic:红烧鲤鱼": {
+    "image": "红烧黄河大鲤鱼.jpg",
+    "from": "https://commons.wikimedia.org/w/index.php?search=%E7%BA%A2%E7%83%A7%E9%B2%A4%E9%B1%BC&title=Special%3AMediaSearch&type=image",
+    "credit": {
+      "author": "H2v5o68z",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
   },
   "howtocook:aquatic:蒜蓉虾:蒜蓉虾": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/aquatic/%E8%92%9C%E8%93%89%E8%99%BE/1.jpeg",
@@ -2055,6 +2637,33 @@
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/aquatic/%E9%BB%84%E6%B2%B9%E7%85%8E%E8%99%BE/%E9%BB%84%E6%B2%B9%E7%85%8E%E8%99%BE.jpg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/aquatic/黄油煎虾/黄油煎虾.md"
   },
+  "howtocook:breakfast:水煮玉米": {
+    "image": "BoiledCornOnTheCob20211211.jpg",
+    "from": "https://commons.wikimedia.org/w/index.php?search=%E6%B0%B4%E7%85%AE%E7%8E%89%E7%B1%B3&title=Special%3AMediaSearch&type=image",
+    "credit": {
+      "author": "OnionBulb",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "howtocook:breakfast:温泉蛋:温泉蛋": {
+    "image": "Onsen tamago at minshuku Korakuen, Nagano by Blue Lotus.jpg",
+    "from": "https://commons.wikimedia.org/w/index.php?search=%E6%B8%A9%E6%B3%89%E8%9B%8B&title=Special%3AMediaSearch&type=image",
+    "credit": {
+      "author": "Blue Lotus from Jigokudani Onsen, Nagano",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "howtocook:breakfast:煎饺": {
+    "image": "煎饺.jpg",
+    "from": "https://commons.wikimedia.org/w/index.php?search=%E7%85%8E%E9%A5%BA&title=Special%3AMediaSearch&type=image",
+    "credit": {
+      "author": "Yangbinlive",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
   "howtocook:breakfast:苏格兰蛋:苏格兰蛋": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/breakfast/%E8%8B%8F%E6%A0%BC%E5%85%B0%E8%9B%8B/egg1.png",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/breakfast/苏格兰蛋/苏格兰蛋.md"
@@ -2070,6 +2679,15 @@
   "howtocook:dessert:咖啡椰奶冻:咖啡椰奶冻": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/dessert/%E5%92%96%E5%95%A1%E6%A4%B0%E5%A5%B6%E5%86%BB/%E5%92%96%E5%95%A1%E6%A4%B0%E5%A5%B6%E5%86%BB.png",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md"
+  },
+  "howtocook:dessert:戚风蛋糕:戚风蛋糕": {
+    "image": "Making Chiffon cake No 3.jpg",
+    "from": "https://commons.wikimedia.org/w/index.php?search=%E6%88%9A%E9%A3%8E%E8%9B%8B%E7%B3%95&title=Special%3AMediaSearch&type=image",
+    "credit": {
+      "author": "Roozitaa",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
   },
   "howtocook:dessert:无厨师机蜂蜜面包:无厨师机蜂蜜面包": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/dessert/%E6%97%A0%E5%8E%A8%E5%B8%88%E6%9C%BA%E8%9C%82%E8%9C%9C%E9%9D%A2%E5%8C%85/%E6%97%A0%E5%8E%A8%E5%B8%88%E6%9C%BA%E8%9C%82%E8%9C%9C%E9%9D%A2%E5%8C%85.jpg",
@@ -2135,6 +2753,15 @@
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/meat_dish/%E5%95%A4%E9%85%92%E9%B8%AD/%E5%95%A4%E9%85%92%E9%B8%AD.jpg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/啤酒鸭/啤酒鸭.md"
   },
+  "howtocook:meat_dish:土豆炖排骨:土豆炖排骨": {
+    "image": "湘菜馆之土豆炖排骨.jpg",
+    "from": "https://commons.wikimedia.org/w/index.php?search=%E5%9C%9F%E8%B1%86%E7%82%96%E6%8E%92%E9%AA%A8&title=Special%3AMediaSearch&type=image",
+    "credit": {
+      "author": "Liuxingy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
   "howtocook:meat_dish:奶酪培根通心粉:奶酪培根通心粉": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/meat_dish/%E5%A5%B6%E9%85%AA%E5%9F%B9%E6%A0%B9%E9%80%9A%E5%BF%83%E7%B2%89/oven.jpg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md"
@@ -2143,6 +2770,15 @@
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/meat_dish/%E5%A7%9C%E7%82%92%E9%B8%A1/%E5%A7%9C%E7%82%92%E9%B8%A1.jpg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/姜炒鸡/姜炒鸡.md"
   },
+  "howtocook:meat_dish:小炒肉": {
+    "image": "Lajiao Chaorou at Xiangzhongyuan Hunan Cuisine, Beijing (20240131171407).jpg",
+    "from": "https://commons.wikimedia.org/w/index.php?search=%E5%B0%8F%E7%82%92%E8%82%89&title=Special%3AMediaSearch&type=image",
+    "credit": {
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
   "howtocook:meat_dish:小炒鸡肝:小炒鸡肝": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/meat_dish/%E5%B0%8F%E7%82%92%E9%B8%A1%E8%82%9D/%E6%88%90%E5%93%81.jpg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/小炒鸡肝/小炒鸡肝.md"
@@ -2150,6 +2786,15 @@
   "howtocook:meat_dish:小炒黄牛肉:小炒黄牛肉": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/meat_dish/%E5%B0%8F%E7%82%92%E9%BB%84%E7%89%9B%E8%82%89/%E5%B0%8F%E7%82%92%E9%BB%84%E7%89%9B%E8%82%89.jpg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md"
+  },
+  "howtocook:meat_dish:小酥肉": {
+    "image": "油炸小酥肉撒辣椒.jpg",
+    "from": "https://commons.wikimedia.org/w/index.php?search=%E5%B0%8F%E9%85%A5%E8%82%89&title=Special%3AMediaSearch&type=image",
+    "credit": {
+      "author": "Suginami",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
   },
   "howtocook:meat_dish:尖叫牛蛙:尖叫牛蛙": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/meat_dish/%E5%B0%96%E5%8F%AB%E7%89%9B%E8%9B%99/%E5%B0%96%E5%8F%AB%E7%89%9B%E8%9B%99.jpg",
@@ -2219,6 +2864,15 @@
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/meat_dish/%E7%98%A6%E8%82%89%E5%9C%9F%E8%B1%86%E7%89%87/%E7%98%A6%E8%82%89%E5%9C%9F%E8%B1%86%E7%89%87.jpg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md"
   },
+  "howtocook:meat_dish:糖醋里脊": {
+    "image": "Tangcu liji.jpg",
+    "from": "https://commons.wikimedia.org/w/index.php?search=%E7%B3%96%E9%86%8B%E9%87%8C%E8%84%8A&title=Special%3AMediaSearch&type=image",
+    "credit": {
+      "author": "J B",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
   "howtocook:meat_dish:红烧猪蹄:红烧猪蹄": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/meat_dish/%E7%BA%A2%E7%83%A7%E7%8C%AA%E8%B9%84/%E7%BA%A2%E7%83%A7%E7%8C%AA%E8%B9%84.jpg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/红烧猪蹄/红烧猪蹄.md"
@@ -2254,6 +2908,15 @@
   "howtocook:meat_dish:豆豉鲮鱼油麦菜:豆豉鲮鱼油麦菜": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/meat_dish/%E8%B1%86%E8%B1%89%E9%B2%AE%E9%B1%BC%E6%B2%B9%E9%BA%A6%E8%8F%9C/%E8%B1%86%E8%B1%89%E9%B2%AE%E9%B1%BC%E6%B2%B9%E9%BA%A6%E8%8F%9C%E6%88%90%E5%93%81.jpg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md"
+  },
+  "howtocook:meat_dish:豉汁排骨": {
+    "image": "Food 豉汁蒸排骨, 新葡苑, Shin Pu Yuan, 台北 (21531923392).jpg",
+    "from": "https://commons.wikimedia.org/w/index.php?search=%E8%B1%89%E6%B1%81%E6%8E%92%E9%AA%A8&title=Special%3AMediaSearch&type=image",
+    "credit": {
+      "author": "bryan... from Taipei, Taiwan",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
   },
   "howtocook:meat_dish:豉汁蒸白鱔:豉汁蒸白鱔": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/meat_dish/%E8%B1%89%E6%B1%81%E8%92%B8%E7%99%BD%E9%B1%94/%E8%B1%89%E6%B1%81%E8%92%B8%E7%99%BD%E9%B1%94.jpeg",
@@ -2323,6 +2986,15 @@
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/soup/%E5%8B%BE%E8%8A%A1%E9%A6%99%E8%8F%87%E6%B1%A4/1.jpeg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/soup/勾芡香菇汤/勾芡香菇汤.md"
   },
+  "howtocook:soup:小米粥": {
+    "image": "庆丰包子铺羊坊店路店 - 早餐 - 2025-10-24.jpg",
+    "from": "https://commons.wikimedia.org/w/index.php?search=%E5%B0%8F%E7%B1%B3%E7%B2%A5&title=Special%3AMediaSearch&type=image",
+    "credit": {
+      "author": "瑞丽江的河水",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
   "howtocook:soup:昂刺鱼豆腐汤:昂刺鱼豆腐汤": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/soup/%E6%98%82%E5%88%BA%E9%B1%BC%E8%B1%86%E8%85%90%E6%B1%A4/%E6%B2%99%E5%85%89%E9%B1%BC%E8%B1%86%E8%85%90%E6%B1%A4.jpg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md"
@@ -2354,6 +3026,15 @@
   "howtocook:staple:凉粉:凉粉": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/staple/%E5%87%89%E7%B2%89/lf1.jpg",
     "from": "https://github.com/Anduin2017/HowToCook/blob/master/dishes/staple/凉粉/凉粉.md"
+  },
+  "howtocook:staple:咸肉菜饭": {
+    "image": "江南名吃咸肉菜饭.jpg",
+    "from": "https://commons.wikimedia.org/w/index.php?search=%E5%92%B8%E8%82%89%E8%8F%9C%E9%A5%AD&title=Special%3AMediaSearch&type=image",
+    "credit": {
+      "author": "上海道台",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
   },
   "howtocook:staple:基础牛奶面包:基础牛奶面包": {
     "imageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/dishes/staple/%E5%9F%BA%E7%A1%80%E7%89%9B%E5%A5%B6%E9%9D%A2%E5%8C%85/1-1%E6%88%90%E5%93%81.jpg",
@@ -3246,6 +3927,15 @@
   "wikibooks-fr:fleischschnacka": {
     "image": "Fleischschnacka.JPG",
     "from": "https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FFleischschnacka"
+  },
+  "wikibooks-fr:fleischschnacka-2": {
+    "image": "Fleischschnacka.JPG",
+    "from": "https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FFleischschnacka",
+    "credit": {
+      "author": "Florival fr",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
   },
   "wikibooks-fr:fondant-au-chocolat": {
     "image": "Fondant au chocolat (250g de beurre).jpg",
@@ -7439,9 +8129,250 @@
     "image": "Nitrogen Frozen Tuna Acevichado Maki.jpg",
     "from": "https://en.wikibooks.org/wiki/Cookbook%3AAcevichada_Sauce"
   },
+  "wikibooks:african-salad-ii": {
+    "image": "Abacha (or Afrcan Salad).jpg",
+    "from": "https://www.wikidata.org/wiki/Q107358883",
+    "credit": {
+      "author": "Geekdidi",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "wikibooks:anzac-biscuits-i": {
+    "image": "ANZAC biscuits (14 April 2006).jpg",
+    "from": "https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FAnzac_biscuits",
+    "credit": {
+      "author": "me (w:User:pfctdayelise)",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+    }
+  },
+  "wikibooks:anzac-biscuits-ii": {
+    "image": "ANZAC biscuits (14 April 2006).jpg",
+    "from": "https://es.wikibooks.org/wiki/Artes_culinarias%2FRecetas%2FAnzac_biscuits",
+    "credit": {
+      "author": "me (w:User:pfctdayelise)",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+    }
+  },
+  "wikibooks:apple-crisp-i": {
+    "image": "Applecrisp.jpg",
+    "from": "https://www.wikidata.org/wiki/Q4781271",
+    "credit": {
+      "author": "Pattie",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:apple-crisp-ii": {
+    "image": "Applecrisp.jpg",
+    "from": "https://www.wikidata.org/wiki/Q4781271",
+    "credit": {
+      "author": "Pattie",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:apple-crisp-iii": {
+    "image": "Applecrisp.jpg",
+    "from": "https://www.wikidata.org/wiki/Q4781271",
+    "credit": {
+      "author": "Pattie",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:apple-pie-i": {
+    "image": "Apple pie.jpg",
+    "from": "https://www.wikidata.org/wiki/Q1068034",
+    "credit": {
+      "author": "Dan Parsons",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:apple-pie-ii": {
+    "image": "Apple pie.jpg",
+    "from": "https://www.wikidata.org/wiki/Q1068034",
+    "credit": {
+      "author": "Dan Parsons",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:baklava-i": {
+    "image": "Baklava(1).png",
+    "from": "https://www.wikidata.org/wiki/Q187495",
+    "credit": {
+      "author": "Sakaman",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "wikibooks:baklava-ii": {
+    "image": "Baklava(1).png",
+    "from": "https://www.wikidata.org/wiki/Q187495",
+    "credit": {
+      "author": "Sakaman",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "wikibooks:banana-split-i": {
+    "image": "Banana split; banana ice cream.jpg",
+    "from": "https://www.wikidata.org/wiki/Q245752",
+    "credit": {
+      "author": "Chammy17",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "wikibooks:banana-split-ii": {
+    "image": "Banana split; banana ice cream.jpg",
+    "from": "https://www.wikidata.org/wiki/Q245752",
+    "credit": {
+      "author": "Chammy17",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "wikibooks:christmas-pudding-i": {
+    "image": "Christmas pudding.JPG",
+    "from": "https://www.wikidata.org/wiki/Q852576",
+    "credit": {
+      "author": "Musical Linguist",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  "wikibooks:christmas-pudding-ii": {
+    "image": "Christmas pudding.JPG",
+    "from": "https://www.wikidata.org/wiki/Q852576",
+    "credit": {
+      "author": "Musical Linguist",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  "wikibooks:coleslaw-i": {
+    "image": "Bowl'o'Coleslaw modified.jpg",
+    "from": "https://www.wikidata.org/wiki/Q945475",
+    "credit": {
+      "author": "Stu Spivack",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:coleslaw-ii": {
+    "image": "Bowl'o'Coleslaw modified.jpg",
+    "from": "https://www.wikidata.org/wiki/Q945475",
+    "credit": {
+      "author": "Stu Spivack",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:corn-chowder-i": {
+    "image": "Vegan Garden Corn Chowder with Chives (cropped).jpg",
+    "from": "https://www.wikidata.org/wiki/Q5171047",
+    "credit": {
+      "author": "tomatoes and friends",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "wikibooks:corn-chowder-ii": {
+    "image": "Vegan Garden Corn Chowder with Chives (cropped).jpg",
+    "from": "https://www.wikidata.org/wiki/Q5171047",
+    "credit": {
+      "author": "tomatoes and friends",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "wikibooks:cornbread-i": {
+    "image": "Piece of cornbread on plate.jpg",
+    "from": "https://www.wikidata.org/wiki/Q1108866",
+    "credit": {
+      "author": "Douglas P Perkins (Douglaspperkins (talk))",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    }
+  },
+  "wikibooks:cornbread-ii": {
+    "image": "Piece of cornbread on plate.jpg",
+    "from": "https://www.wikidata.org/wiki/Q1108866",
+    "credit": {
+      "author": "Douglas P Perkins (Douglaspperkins (talk))",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    }
+  },
+  "wikibooks:cr-me-br-l-e-iii": {
+    "image": "2014 0531 Crème brûlée Doi Mae Salong (cropped).jpg",
+    "from": "https://www.wikidata.org/wiki/Q312839",
+    "credit": {
+      "author": "Takeaway",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
   "wikibooks:cr-me-chantilly": {
     "image": "Crème Chantilly.jpg",
     "from": "https://fr.wikibooks.org/wiki/Livre_de_cuisine%2FCr%C3%A8me_Chantilly"
+  },
+  "wikibooks:cuban-sandwich-i": {
+    "image": "Cuban mix.jpg",
+    "from": "https://www.wikidata.org/wiki/Q5192125",
+    "credit": {
+      "author": "Averette",
+      "license": "Public domain"
+    }
+  },
+  "wikibooks:cuban-sandwich-ii": {
+    "image": "Cuban mix.jpg",
+    "from": "https://www.wikidata.org/wiki/Q5192125",
+    "credit": {
+      "author": "Averette",
+      "license": "Public domain"
+    }
+  },
+  "wikibooks:deep-fried-urad-and-rice-flour-dough-balls-murukku": {
+    "image": "A Traditional Tamil Snack Murukku.jpg",
+    "from": "https://www.wikidata.org/wiki/Q2721752",
+    "credit": {
+      "author": "Thamizhpparithi Maari",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "wikibooks:dole-pineapple-upside-down-cake": {
+    "image": "Pineapple upsidedown cake 9.jpg",
+    "from": "https://www.wikidata.org/wiki/Q126174164",
+    "credit": {
+      "author": "Mark Pellegrini",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+    }
+  },
+  "wikibooks:dosa-i": {
+    "image": "Dosa-chutney-sambhar.jpg",
+    "from": "https://www.wikidata.org/wiki/Q920940",
+    "credit": {
+      "author": "Roland",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "wikibooks:dosa-ii": {
+    "image": "Dosa-chutney-sambhar.jpg",
+    "from": "https://www.wikidata.org/wiki/Q920940",
+    "credit": {
+      "author": "Roland",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
   },
   "wikibooks:flapjacks": {
     "image": "Flapjacks Alba.png",
@@ -7455,9 +8386,166 @@
     "image": "Fried egg, sunny side up.jpg",
     "from": "https://en.wikibooks.org/wiki/Cookbook%3AFried_Eggs"
   },
+  "wikibooks:hummus-i": {
+    "image": "Hummus from The Nile.jpg",
+    "from": "https://www.wikidata.org/wiki/Q241987",
+    "credit": {
+      "author": "Paul Goyette",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:hummus-iii": {
+    "image": "Hummus from The Nile.jpg",
+    "from": "https://www.wikidata.org/wiki/Q241987",
+    "credit": {
+      "author": "Paul Goyette",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:jam-recipe": {
+    "image": "Strawberry jam on a dish.JPG",
+    "from": "https://www.wikidata.org/wiki/Q1269",
+    "credit": {
+      "author": "PatríciaR",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "wikibooks:jambalaya-i": {
+    "image": "Jambalaya (30750226186).jpg",
+    "from": "https://www.wikidata.org/wiki/Q1364509",
+    "credit": {
+      "author": "pelican from Tokyo, Japan",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:jambalaya-ii": {
+    "image": "Jambalaya (30750226186).jpg",
+    "from": "https://www.wikidata.org/wiki/Q1364509",
+    "credit": {
+      "author": "pelican from Tokyo, Japan",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:macaroni-and-cheese-i": {
+    "image": "Macaroni and cheese (1).jpg",
+    "from": "https://www.wikidata.org/wiki/Q378341",
+    "credit": {
+      "author": "hildgrim",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:macaroni-and-cheese-ii": {
+    "image": "Macaroni and cheese (1).jpg",
+    "from": "https://www.wikidata.org/wiki/Q378341",
+    "credit": {
+      "author": "hildgrim",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
   "wikibooks:madeleines": {
     "image": "Madeleines de Commercy.jpg",
     "from": "https://de.wikibooks.org/wiki/Kochbuch%2F_Madeleines"
+  },
+  "wikibooks:manhattan-clam-chowder-i": {
+    "image": "Manhattan Clam Chowder 1.jpg",
+    "from": "https://www.wikidata.org/wiki/Q66317711",
+    "credit": {
+      "author": "Alexa",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "wikibooks:manhattan-clam-chowder-ii": {
+    "image": "Manhattan Clam Chowder 1.jpg",
+    "from": "https://www.wikidata.org/wiki/Q66317711",
+    "credit": {
+      "author": "Alexa",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "wikibooks:meatloaf-i": {
+    "image": "MeatloafWithSauce.jpg",
+    "from": "https://www.wikidata.org/wiki/Q3807565",
+    "credit": {
+      "author": "Renee Comet (photographer)",
+      "license": "Public domain"
+    }
+  },
+  "wikibooks:meatloaf-ii": {
+    "image": "MeatloafWithSauce.jpg",
+    "from": "https://www.wikidata.org/wiki/Q3807565",
+    "credit": {
+      "author": "Renee Comet (photographer)",
+      "license": "Public domain"
+    }
+  },
+  "wikibooks:meatloaf-iii": {
+    "image": "MeatloafWithSauce.jpg",
+    "from": "https://www.wikidata.org/wiki/Q3807565",
+    "credit": {
+      "author": "Renee Comet (photographer)",
+      "license": "Public domain"
+    }
+  },
+  "wikibooks:meatloaf-iv": {
+    "image": "MeatloafWithSauce.jpg",
+    "from": "https://www.wikidata.org/wiki/Q3807565",
+    "credit": {
+      "author": "Renee Comet (photographer)",
+      "license": "Public domain"
+    }
+  },
+  "wikibooks:meatloaf-v": {
+    "image": "MeatloafWithSauce.jpg",
+    "from": "https://www.wikidata.org/wiki/Q3807565",
+    "credit": {
+      "author": "Renee Comet (photographer)",
+      "license": "Public domain"
+    }
+  },
+  "wikibooks:mexican-rice-i": {
+    "image": "Mexican rice and beans.jpg",
+    "from": "https://www.wikidata.org/wiki/Q5946107",
+    "credit": {
+      "author": "Maryam S.",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "wikibooks:mexican-rice-ii": {
+    "image": "Mexican rice and beans.jpg",
+    "from": "https://www.wikidata.org/wiki/Q5946107",
+    "credit": {
+      "author": "Maryam S.",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "wikibooks:milk-toast-i": {
+    "image": "Milk toast.jpg",
+    "from": "https://www.wikidata.org/wiki/Q3376915",
+    "credit": {
+      "author": "Mark Miller",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "wikibooks:milk-toast-ii": {
+    "image": "Milk toast.jpg",
+    "from": "https://www.wikidata.org/wiki/Q3376915",
+    "credit": {
+      "author": "Mark Miller",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
   },
   "wikibooks:nigerian-cheesy-sausage-masa": {
     "image": "Nigerian Cheesy Sausage Masa.jpg",
@@ -7467,8 +8555,321 @@
     "image": "Beans and fried plantains with Beef02.jpg",
     "from": "https://en.wikibooks.org/wiki/Cookbook%3ANigerian_Ewa_Agoyin"
   },
+  "wikibooks:pierogi-i": {
+    "image": "Pierogi at Mirror Bistro in Krakow.jpg",
+    "from": "https://www.wikidata.org/wiki/Q697800",
+    "credit": {
+      "author": "Sdkb",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "wikibooks:pierogi-ii": {
+    "image": "Pierogi at Mirror Bistro in Krakow.jpg",
+    "from": "https://www.wikidata.org/wiki/Q697800",
+    "credit": {
+      "author": "Sdkb",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "wikibooks:pumpkin-bread-i": {
+    "image": "Pumpkin Walnut Bread.jpg",
+    "from": "https://www.wikidata.org/wiki/Q1053103",
+    "credit": {
+      "author": "Cphackm",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "wikibooks:pumpkin-bread-ii": {
+    "image": "Pumpkin Walnut Bread.jpg",
+    "from": "https://www.wikidata.org/wiki/Q1053103",
+    "credit": {
+      "author": "Cphackm",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "wikibooks:pumpkin-bread-iii": {
+    "image": "Pumpkin Walnut Bread.jpg",
+    "from": "https://www.wikidata.org/wiki/Q1053103",
+    "credit": {
+      "author": "Cphackm",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "wikibooks:pumpkin-pie-i": {
+    "image": "Pumpkin Pie.jpg",
+    "from": "https://www.wikidata.org/wiki/Q2118270",
+    "credit": {
+      "author": "Peggy Greb",
+      "license": "Public domain"
+    }
+  },
+  "wikibooks:pumpkin-pie-ii": {
+    "image": "Pumpkin Pie.jpg",
+    "from": "https://www.wikidata.org/wiki/Q2118270",
+    "credit": {
+      "author": "Peggy Greb",
+      "license": "Public domain"
+    }
+  },
+  "wikibooks:quick-and-delicious-pineapple-upside-down-cake": {
+    "image": "Pineapple upsidedown cake 9.jpg",
+    "from": "https://www.wikidata.org/wiki/Q126174164",
+    "credit": {
+      "author": "Mark Pellegrini",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+    }
+  },
+  "wikibooks:quick-and-easy-beef-stroganoff": {
+    "image": "Beef Stroganoff-01.jpg",
+    "from": "https://www.wikidata.org/wiki/Q849058",
+    "credit": {
+      "author": "Pittaya Sroilong",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "wikibooks:ratatouille-i": {
+    "image": "Ratatouille.jpg",
+    "from": "https://www.wikidata.org/wiki/Q183095",
+    "credit": {
+      "author": "Marcus Guimarães",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "wikibooks:sachertorte-duramecho-version": {
+    "image": "Café Sabarsky Sachertorte.jpg",
+    "from": "https://www.wikidata.org/wiki/Q131442",
+    "credit": {
+      "author": "Hellokitty893112 at en.wikipedia",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+    }
+  },
+  "wikibooks:sachertorte-original-version": {
+    "image": "Café Sabarsky Sachertorte.jpg",
+    "from": "https://www.wikidata.org/wiki/Q131442",
+    "credit": {
+      "author": "Hellokitty893112 at en.wikipedia",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+    }
+  },
+  "wikibooks:sambar-i": {
+    "image": "Sambaar kadamba.jpg",
+    "from": "https://www.wikidata.org/wiki/Q188420",
+    "credit": {
+      "author": "Jayashree Govindarajan",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "wikibooks:sambar-iii": {
+    "image": "Sambaar kadamba.jpg",
+    "from": "https://www.wikidata.org/wiki/Q188420",
+    "credit": {
+      "author": "Jayashree Govindarajan",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "wikibooks:sauerkraut-i": {
+    "image": "Kiszona kapusta.JPG",
+    "from": "https://www.wikidata.org/wiki/Q154166",
+    "credit": {
+      "author": "Alina Zienowicz Ala z",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  "wikibooks:sauerkraut-ii": {
+    "image": "Kiszona kapusta.JPG",
+    "from": "https://www.wikidata.org/wiki/Q154166",
+    "credit": {
+      "author": "Alina Zienowicz Ala z",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  "wikibooks:shakshuka-i": {
+    "image": "Shakshuka1.jpg",
+    "from": "https://www.wikidata.org/wiki/Q2474644",
+    "credit": {
+      "author": "Joe Mahoney",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "wikibooks:shakshuka-ii": {
+    "image": "Shakshuka1.jpg",
+    "from": "https://www.wikidata.org/wiki/Q2474644",
+    "credit": {
+      "author": "Joe Mahoney",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "wikibooks:shepherd-s-pie-i": {
+    "image": "Shepherd's pie (22470901009).jpg",
+    "from": "https://www.wikidata.org/wiki/Q2303056",
+    "credit": {
+      "author": "Abhinaba Basu from Redmond, United States",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "wikibooks:shepherd-s-pie-ii": {
+    "image": "Pâté chinois.jpg",
+    "from": "https://www.wikidata.org/wiki/Q3411527",
+    "credit": {
+      "author": "TheSpooler",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "wikibooks:shepherd-s-pie-iii": {
+    "image": "Shepherd's pie (22470901009).jpg",
+    "from": "https://www.wikidata.org/wiki/Q2303056",
+    "credit": {
+      "author": "Abhinaba Basu from Redmond, United States",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
   "wikibooks:spicy-cheddar-dip-with-olives": {
     "image": "Spicy Cheddar Dip with Olives.jpg",
     "from": "https://en.wikibooks.org/wiki/Cookbook%3ASpicy_Cheddar_Dip_with_Olives"
+  },
+  "wikibooks:sponge-cake-i": {
+    "image": "Sponge cake.jpg",
+    "from": "https://www.wikidata.org/wiki/Q1049852",
+    "credit": {
+      "author": "Stu Spivack",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:sponge-cake-ii": {
+    "image": "Sponge cake.jpg",
+    "from": "https://www.wikidata.org/wiki/Q1049852",
+    "credit": {
+      "author": "Stu Spivack",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:stracciatella-i": {
+    "image": "Straciatella - bowl.JPG",
+    "from": "https://www.wikidata.org/wiki/Q15042119",
+    "credit": {
+      "author": "Mike.lifeguard",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "wikibooks:stracciatella-ii": {
+    "image": "Straciatella - bowl.JPG",
+    "from": "https://www.wikidata.org/wiki/Q15042119",
+    "credit": {
+      "author": "Mike.lifeguard",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "wikibooks:swedish-meatballs-i": {
+    "image": "17-06-09-IKEA-Köttbullar-RalfR-IMG 20170609 182055 928a.jpg",
+    "from": "https://www.wikidata.org/wiki/Q1501015",
+    "credit": {
+      "author": "Ralf Roletschek",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html"
+    }
+  },
+  "wikibooks:swedish-meatballs-ii": {
+    "image": "17-06-09-IKEA-Köttbullar-RalfR-IMG 20170609 182055 928a.jpg",
+    "from": "https://www.wikidata.org/wiki/Q1501015",
+    "credit": {
+      "author": "Ralf Roletschek",
+      "license": "GFDL 1.2",
+      "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html"
+    }
+  },
+  "wikibooks:tabbouleh-i": {
+    "image": "Flickr - cyclonebill - Tabbouleh.jpg",
+    "from": "https://www.wikidata.org/wiki/Q607690",
+    "credit": {
+      "author": "cyclonebill",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:tabbouleh-ii": {
+    "image": "Flickr - cyclonebill - Tabbouleh.jpg",
+    "from": "https://www.wikidata.org/wiki/Q607690",
+    "credit": {
+      "author": "cyclonebill",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:tabbouleh-iii": {
+    "image": "Flickr - cyclonebill - Tabbouleh.jpg",
+    "from": "https://www.wikidata.org/wiki/Q607690",
+    "credit": {
+      "author": "cyclonebill",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:tabbouleh-iv": {
+    "image": "Flickr - cyclonebill - Tabbouleh.jpg",
+    "from": "https://www.wikidata.org/wiki/Q607690",
+    "credit": {
+      "author": "cyclonebill",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:tabbouleh-vi": {
+    "image": "Flickr - cyclonebill - Tabbouleh.jpg",
+    "from": "https://www.wikidata.org/wiki/Q607690",
+    "credit": {
+      "author": "cyclonebill",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:table-point-boiled-beef-and-vegetables-tafelspitz": {
+    "image": "Tafelspitz.jpg",
+    "from": "https://www.wikidata.org/wiki/Q250875",
+    "credit": {
+      "author": "RobertK",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+    }
+  },
+  "wikibooks:tres-leches-cake-i": {
+    "image": "Tres leches cake.jpg",
+    "from": "https://www.wikidata.org/wiki/Q1579751",
+    "credit": {
+      "author": "Stu Spivack",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "wikibooks:tres-leches-cake-ii": {
+    "image": "Tres leches cake.jpg",
+    "from": "https://www.wikidata.org/wiki/Q1579751",
+    "credit": {
+      "author": "Stu Spivack",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
   }
 }

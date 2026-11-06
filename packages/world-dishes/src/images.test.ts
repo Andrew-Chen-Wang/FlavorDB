@@ -24,4 +24,66 @@ describe("found photos", () => {
     expect(dish.image ?? dish.imageUrl).toBe(image.image ?? image.imageUrl)
     expect(dish.imageFrom).toBe(image.from)
   })
+
+  test("reviewed photos retain their Commons license and credit through the loader", () => {
+    const verdicts = readFileSync(
+      path.join(DEFAULT_DATA_DIR, "../review/photos/verdicts.jsonl"),
+      "utf8",
+    )
+      .trim()
+      .split("\n")
+      .map(
+        (line) =>
+          JSON.parse(line) as {
+            id: string
+            image: string
+            verdict: string
+            license: string
+            reason: string
+          },
+      )
+    const accepted = verdicts.filter((v) => v.verdict === "keep")
+    expect(new Set(accepted.map((v) => v.id)).size).toBe(accepted.length)
+    for (const verdict of accepted) {
+      const image = found[verdict.id]
+      expect(image.image).toBe(verdict.image)
+      expect(image.credit?.license).toBe(verdict.license)
+      expect(image.credit?.license).toMatch(
+        /^(CC BY(?:-SA)? (?:[1-4]\.0|2\.5)|CC0|Public domain|GFDL 1\.2)$/,
+      )
+      expect(image.credit?.author).toBeTruthy()
+      expect(byId.get(verdict.id)?.imageCredit).toEqual(image.credit)
+      expect(verdict.reason).toBeTruthy()
+    }
+  })
+
+  test("every saved candidate has one review in candidate order", () => {
+    const candidates = JSON.parse(
+      readFileSync(path.join(DEFAULT_DATA_DIR, "../review/photos/candidates.json"), "utf8"),
+    ) as { id: string; image: string }[]
+    const verdicts = readFileSync(
+      path.join(DEFAULT_DATA_DIR, "../review/photos/verdicts.jsonl"),
+      "utf8",
+    )
+      .trim()
+      .split("\n")
+      .map(
+        (line) =>
+          JSON.parse(line) as {
+            candidate: number
+            id: string
+            image: string
+            verdict: string
+            reason: string
+          },
+      )
+    expect(verdicts.length).toBe(candidates.length)
+    for (const [index, verdict] of verdicts.entries()) {
+      expect(verdict.candidate).toBe(index)
+      expect(verdict.id).toBe(candidates[index].id)
+      expect(verdict.image).toBe(candidates[index].image)
+      expect(["keep", "drop"]).toContain(verdict.verdict)
+      expect(verdict.reason).toBeTruthy()
+    }
+  })
 })
