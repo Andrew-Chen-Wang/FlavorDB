@@ -66,7 +66,7 @@ export function WorldDishView({ dish }: { dish: WorldDish }) {
                 </h2>
                 <div className={"flex flex-wrap gap-2"}>
                   {dish.countries.map((c) => (
-                    <ChipLink key={c} href={`/dishes?country=${c}`} variant={"sand"}>
+                    <ChipLink key={c} href={`/places/${c.toLowerCase()}`} variant={"sand"}>
                       {countryName(c)}
                     </ChipLink>
                   ))}
