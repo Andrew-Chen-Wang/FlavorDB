@@ -48,7 +48,7 @@ export type WorldDish = {
   ingredientIds?: string[]
   /** Wikimedia Commons file name */
   image?: string
-  /** A photo hosted elsewhere under the source's license (HowToCook's own pictures) */
+  /** A remote photo or a locally copied photo; supplemental credits describe its source. */
   imageUrl?: string
   /** The page the photo was found on, when it didn't come with the dish (see data/images.json) */
   imageFrom?: string

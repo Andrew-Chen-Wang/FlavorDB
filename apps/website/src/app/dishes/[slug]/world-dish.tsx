@@ -144,12 +144,29 @@ export function WorldDishView({ dish }: { dish: WorldDish }) {
                   <>
                     Photo:{" "}
                     <a
-                      href={dish.imageFrom ?? "https://github.com/Anduin2017/HowToCook"}
+                      href={
+                        dish.imageCredit?.sourceUrl ??
+                        dish.imageFrom ??
+                        "https://github.com/Anduin2017/HowToCook"
+                      }
                       className={"underline underline-offset-2 hover:text-chili"}
                     >
-                      HowToCook
+                      {dish.imageCredit?.author ?? "HowToCook"}
                     </a>{" "}
-                    (Unlicense, public domain)
+                    {dish.imageCredit ? (
+                      licenseCopy ? (
+                        <a
+                          href={licenseCopy}
+                          className={"underline underline-offset-2 hover:text-chili"}
+                        >
+                          {dish.imageCredit.license}
+                        </a>
+                      ) : (
+                        dish.imageCredit.license
+                      )
+                    ) : (
+                      "(Unlicense, public domain)"
+                    )}
                   </>
                 )}
               </figcaption>
