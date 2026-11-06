@@ -22,6 +22,6 @@ Not ingredients: headings ("For the sauce:"), equipment, instructions and servin
 ## Follow-up audit
 
 The [audit](audit/README.md) reread 6,812 distinct strings, including samples from all 144 batches and
-every string mapped to a rarely used ingredient. It corrected 765 shared mappings and six
+every string mapped to a rarely used ingredient. It corrected 766 shared mappings and six
 recipe-specific meanings. It also made the archived merge reproducible from the repository. See the
 [unusual ingredient list](audit/UNUSUAL.md) for user decisions; those entries remain in the catalog.

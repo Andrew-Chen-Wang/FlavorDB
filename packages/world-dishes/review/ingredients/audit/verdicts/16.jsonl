@@ -1,4 +1,4 @@
-{"audit": 3200, "lang": "labels", "text": "橄榄菜", "ids": ["preserved-olive"], "reason": "橄榄菜 is a prepared mustard-greens-and-olive relish (olive vegetable), not simply preserved olives. No exact id in the supplied vocabulary; retained pending a dedicated ingredient."}
+{"audit": 3200, "lang": "labels", "text": "橄榄菜", "ids": ["olive-vegetable-relish"], "reason": "橄榄菜 is the specific Chaoshan mustard-greens-and-olive relish; use the dedicated olive-vegetable-relish sauce ingredient approved after reread."}
 {"audit": 3201, "lang": "labels", "text": "水浸金枪鱼罐头", "ids": ["canned-tuna"]}
 {"audit": 3202, "lang": "labels", "text": "水菜", "ids": ["mizuna"]}
 {"audit": 3203, "lang": "labels", "text": "水飴", "ids": ["starch-syrup"]}

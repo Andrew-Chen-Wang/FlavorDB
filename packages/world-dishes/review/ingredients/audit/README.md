@@ -11,7 +11,7 @@ implicated ingredient IDs. Clear drift occurred at en-003 lines 256–343, fr-00
 and intermittently in the Japanese tail, especially 564–577. Each correction was read individually;
 no inferred offset or keyword rule moved mappings.
 
-The result changes 765 shared mappings, adds six dish-specific overrides, adds 23 ingredients for
+The result changes 766 shared mappings, adds six dish-specific overrides, adds 23 ingredients for
 prepared foods or distinct products, and corrects 17 vocabulary names/categories. No ingredient entry
 was removed. Corrections include fresh versus ground coriander, parsley root versus parsnip, caraway
 versus cumin, fresh cheeses versus quark, and many unrelated substitutions caused by shifted rows.

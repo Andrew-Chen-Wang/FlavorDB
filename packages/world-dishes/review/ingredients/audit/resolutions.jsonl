@@ -12,3 +12,4 @@
 {"audit": 5541, "lang": "ja", "text": "コリアンダーパウダー: 小さじ1", "ids": ["coriander-powder"], "reason": "Explicit Japanese coriander powder names the ground spice rather than whole coriander seeds."}
 {"audit": 5542, "lang": "ja", "text": "コリアンダーパウダー: 小さじ2", "ids": ["coriander-powder"], "reason": "Explicit Japanese coriander powder names the ground spice rather than whole coriander seeds."}
 {"audit": 5543, "lang": "ja", "text": "コリアンダーパウダー：小さじ2", "ids": ["coriander-powder"], "reason": "Explicit Japanese coriander powder names the ground spice rather than whole coriander seeds."}
+{"audit": 3200, "lang": "labels", "text": "橄榄菜", "ids": ["olive-vegetable-relish"], "reason": "The dedicated olive-vegetable relish ingredient added by this audit resolves the reader's temporary preserved-olive fallback."}
