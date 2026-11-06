@@ -1,0 +1,16 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      { "from": "Livre_de_cuisine/Fondue_chinoise", "to": "Livre de cuisine/Fondue chinoise" }
+    ],
+    "pages": {
+      "21667": {
+        "pageid": 21667,
+        "ns": 0,
+        "title": "Livre de cuisine/Fondue chinoise",
+        "revisions": [{ "revid": 517301, "parentid": 517252, "timestamp": "2016-07-05T20:51:10Z" }]
+      }
+    }
+  }
+}

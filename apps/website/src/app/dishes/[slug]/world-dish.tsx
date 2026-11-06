@@ -181,7 +181,7 @@ export function WorldRecipes({ recipes }: { recipes: WorldRecipe[] }) {
         const license = LICENSE_NAMES[r.source.license]
         return (
           <article
-            key={r.source.url}
+            key={`${r.source.url}:${r.lang}:${r.title}`}
             lang={r.lang}
             className={"flex flex-wrap gap-10 rounded-[20px] border border-line p-6 sm:p-8"}
           >

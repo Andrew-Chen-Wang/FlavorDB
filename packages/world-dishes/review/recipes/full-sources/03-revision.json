@@ -1,0 +1,16 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      { "from": "Livro_de_receitas/Bolo_de_fubá", "to": "Livro de receitas/Bolo de fubá" }
+    ],
+    "pages": {
+      "8911": {
+        "pageid": 8911,
+        "ns": 0,
+        "title": "Livro de receitas/Bolo de fubá",
+        "revisions": [{ "revid": 231143, "parentid": 231125, "timestamp": "2011-12-02T16:36:42Z" }]
+      }
+    }
+  }
+}
