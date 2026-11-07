@@ -1,6 +1,6 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import path from "node:path"
-import type { WorldDish } from "./types"
+import type { ImageCredit, WorldDish } from "./types"
 import { appendAdditionalRecipes, type AdditionalRecipes } from "./additional-recipes"
 
 export type * from "./types"
@@ -17,10 +17,10 @@ let cache: WorldDish[] | undefined
 
 /** Every imported dish. Reads the data files once, on first use. Server-side only. */
 /**
- * Photos found for dishes that came without one: on the dish's own recipe page or its Wikipedia
- * article. Kept apart from the dish files so a rebuild of those keeps them.
+ * Photos found for dishes that came without one, including reviewed Commons candidates. Kept
+ * apart from the dish files so a rebuild of those keeps them.
  */
-export type FoundImage = { image?: string; imageUrl?: string; from: string }
+export type FoundImage = { image?: string; imageUrl?: string; from: string; credit?: ImageCredit }
 
 /**
  * What each ingredient name or recipe line names on the shared ingredient list, read by people (or
@@ -33,13 +33,23 @@ const readJson = <T>(file: string, fallback: T): T =>
   existsSync(file) ? (JSON.parse(readFileSync(file, "utf8")) as T) : fallback
 
 /** A dish's ingredient ids, from its ingredient names and every recipe line. */
-export function ingredientIdsOf(dish: WorldDish, map: IngredientMap): string[] {
+export function ingredientIdsOf(
+  dish: WorldDish,
+  map: IngredientMap,
+  overrides: IngredientMap = {},
+): string[] {
   const ids = new Set<string>()
   for (const name of dish.ingredients)
-    for (const id of map.labels?.[name.trim().toLowerCase()] ?? []) ids.add(id)
+    for (const id of overrides.labels?.[name.trim().toLowerCase()] ??
+      map.labels?.[name.trim().toLowerCase()] ??
+      [])
+      ids.add(id)
   for (const recipe of dish.recipes)
     for (const line of recipe.ingredients)
-      for (const id of map[recipe.lang]?.[line.item.trim().toLowerCase()] ?? []) ids.add(id)
+      for (const id of overrides[recipe.lang]?.[line.item.trim().toLowerCase()] ??
+        map[recipe.lang]?.[line.item.trim().toLowerCase()] ??
+        [])
+        ids.add(id)
   return [...ids]
 }
 
@@ -47,6 +57,10 @@ export function loadWorldDishes(dataDir: string = DEFAULT_DATA_DIR): WorldDish[]
   if (cache) return cache
   const found = readJson<Record<string, FoundImage>>(path.join(dataDir, "images.json"), {})
   const ingredientMap = readJson<IngredientMap>(path.join(dataDir, "ingredient-map.json"), {})
+  const ingredientOverrides = readJson<Record<string, IngredientMap>>(
+    path.join(dataDir, "ingredient-overrides.json"),
+    {},
+  )
   const additionalRecipes = readJson<AdditionalRecipes>(
     path.join(dataDir, "additional-recipes.json"),
     {},
@@ -60,7 +74,11 @@ export function loadWorldDishes(dataDir: string = DEFAULT_DATA_DIR): WorldDish[]
         .filter(Boolean)
         .map((line) => {
           const parsed = appendAdditionalRecipes(JSON.parse(line) as WorldDish, additionalRecipes)
-          const ingredientIds = ingredientIdsOf(parsed, ingredientMap)
+          const ingredientIds = ingredientIdsOf(
+            parsed,
+            ingredientMap,
+            ingredientOverrides[parsed.id],
+          )
           const dish = ingredientIds.length ? { ...parsed, ingredientIds } : parsed
           const extra = found[dish.id]
           if (dish.image || dish.imageUrl || !extra) return dish
@@ -69,6 +87,7 @@ export function loadWorldDishes(dataDir: string = DEFAULT_DATA_DIR): WorldDish[]
             ...(extra.image ? { image: extra.image } : {}),
             ...(extra.imageUrl ? { imageUrl: extra.imageUrl } : {}),
             imageFrom: extra.from,
+            ...(extra.credit ? { imageCredit: extra.credit } : {}),
           }
         }),
     )

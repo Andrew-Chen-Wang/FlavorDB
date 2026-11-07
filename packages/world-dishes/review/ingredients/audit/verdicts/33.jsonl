@@ -1,0 +1,200 @@
+{"audit": 5731, "lang": "pl", "text": "5 dag mąki", "ids": ["flour"]}
+{"audit": 5732, "lang": "pl", "text": "5 dag mąki pszennej", "ids": ["flour"]}
+{"audit": 5733, "lang": "pl", "text": "5 dag orzechów włoskich", "ids": ["walnuts"]}
+{"audit": 5734, "lang": "pl", "text": "5 dag polędwicy wołowej", "ids": ["beef-tenderloin"], "reason": "Polędwica wołowa explicitly names beef tenderloin."}
+{"audit": 5735, "lang": "pl", "text": "5 dag płatków kukurydzianych", "ids": ["cornflakes"]}
+{"audit": 5736, "lang": "pl", "text": "5 dag rodzynek", "ids": ["raisins"]}
+{"audit": 5737, "lang": "pl", "text": "5 dag selera", "ids": ["celeriac"], "reason": "Polish seler without naciowy refers to celery root, celeriac."}
+{"audit": 5738, "lang": "pl", "text": "5 dag smalcu", "ids": ["lard"]}
+{"audit": 5739, "lang": "pl", "text": "5 dag soli", "ids": ["salt"]}
+{"audit": 5740, "lang": "pl", "text": "5 dag startego sera", "ids": ["cheese"]}
+{"audit": 5741, "lang": "pl", "text": "5 dag startego sera żółtego", "ids": ["yellow-cheese"], "reason": "Ser żółty is yellow cheese, represented by the specific existing id."}
+{"audit": 5742, "lang": "pl", "text": "5 dag startego żółtego sera", "ids": ["yellow-cheese"], "reason": "Żółty ser names yellow cheese."}
+{"audit": 5743, "lang": "pl", "text": "5 dag suszonego chleba pszennego", "ids": ["white-bread"], "reason": "Chleb pszenny names wheat white bread; drying is preparation."}
+{"audit": 5744, "lang": "pl", "text": "5 dag suszonego chleba razowego", "ids": ["wholemeal-bread"], "reason": "Chleb razowy is wholemeal bread, without specifying wheat rather than rye."}
+{"audit": 5745, "lang": "pl", "text": "5 dag suszonych jabłek", "ids": ["dried-apple"], "reason": "Suszone jabłka explicitly names dried apple."}
+{"audit": 5746, "lang": "pl", "text": "5 dag suszonych śliwek", "ids": ["prunes"]}
+{"audit": 5747, "lang": "pl", "text": "5 dag szynki", "ids": ["ham"]}
+{"audit": 5748, "lang": "pl", "text": "5 dag słoniny", "ids": ["pork-fatback"], "reason": "Słonina is pork fatback; the text does not specify salt curing."}
+{"audit": 5749, "lang": "pl", "text": "5 dag tartego parmezanu", "ids": ["parmesan"]}
+{"audit": 5750, "lang": "pl", "text": "5 dag tartego sera żółtego", "ids": ["yellow-cheese"], "reason": "Ser żółty explicitly names yellow cheese."}
+{"audit": 5751, "lang": "pl", "text": "5 dag tartego żółtego sera", "ids": ["yellow-cheese"], "reason": "Żółty ser explicitly names yellow cheese."}
+{"audit": 5752, "lang": "pl", "text": "5 dag tartej bułki", "ids": ["breadcrumbs"]}
+{"audit": 5753, "lang": "pl", "text": "5 dag tłuszczu", "ids": ["cooking-fat"]}
+{"audit": 5754, "lang": "pl", "text": "5 dag wędzonego boczku", "ids": ["bacon"]}
+{"audit": 5755, "lang": "pl", "text": "5 dag zielonych winogron", "ids": ["grapes"]}
+{"audit": 5756, "lang": "pl", "text": "5 dag żółtego sera", "ids": ["yellow-cheese"], "reason": "Żółty ser explicitly names yellow cheese."}
+{"audit": 5757, "lang": "pl", "text": "5 dojrzałych nektarynek", "ids": ["nectarine"]}
+{"audit": 5758, "lang": "pl", "text": "5 dojrzałych pomidorów", "ids": ["tomato"]}
+{"audit": 5759, "lang": "pl", "text": "5 g rodzynek", "ids": ["raisins"]}
+{"audit": 5760, "lang": "pl", "text": "5 g suszonych grzybów", "ids": ["dried-mushrooms"], "reason": "The mushrooms are explicitly dried."}
+{"audit": 5761, "lang": "pl", "text": "5 gałązek natki", "ids": ["parsley"]}
+{"audit": 5762, "lang": "pl", "text": "5 goździków", "ids": ["clove"]}
+{"audit": 5763, "lang": "pl", "text": "5 grzybów shitake pokrojonych w plastry", "ids": ["shiitake"]}
+{"audit": 5764, "lang": "pl", "text": "5 jabłek", "ids": ["apple"]}
+{"audit": 5765, "lang": "pl", "text": "5 jaj", "ids": ["egg"]}
+{"audit": 5766, "lang": "pl", "text": "5 jajek", "ids": ["egg"]}
+{"audit": 5767, "lang": "pl", "text": "5 jajek ugotowanych na twardo", "ids": ["egg"]}
+{"audit": 5768, "lang": "pl", "text": "5 l serwatki lub maślanki", "ids": ["whey"]}
+{"audit": 5769, "lang": "pl", "text": "5 listków świeżej mięty", "ids": ["mint"]}
+{"audit": 5770, "lang": "pl", "text": "5 liści laurowych", "ids": ["bay-leaf"]}
+{"audit": 5771, "lang": "pl", "text": "5 ml kurkumy", "ids": ["turmeric"]}
+{"audit": 5772, "lang": "pl", "text": "5 ml mielonego cynamonu", "ids": ["cinnamon"]}
+{"audit": 5773, "lang": "pl", "text": "5 nitek szafranu", "ids": ["saffron"]}
+{"audit": 5774, "lang": "pl", "text": "5 ogórków konserwowych", "ids": ["pickles"]}
+{"audit": 5775, "lang": "pl", "text": "5 oliwek", "ids": ["olives"]}
+{"audit": 5776, "lang": "pl", "text": "5 plastrów sznycli z indyka", "ids": ["turkey"]}
+{"audit": 5777, "lang": "pl", "text": "5 pomidorów", "ids": ["tomato"]}
+{"audit": 5778, "lang": "pl", "text": "5 płaskich łyżek mąki pszennej", "ids": ["flour"]}
+{"audit": 5779, "lang": "pl", "text": "5 płaskich łyżek mąki ziemniaczanej", "ids": ["potato-starch"]}
+{"audit": 5780, "lang": "pl", "text": "5 szklanek bulguru", "ids": ["bulgur"]}
+{"audit": 5781, "lang": "pl", "text": "5 szklanek bulionu warzywnego", "ids": ["vegetable-stock"]}
+{"audit": 5782, "lang": "pl", "text": "5 szklanek ciepłej wody", "ids": ["water"]}
+{"audit": 5783, "lang": "pl", "text": "5 szklanek mleka lub wody", "ids": ["milk"]}
+{"audit": 5784, "lang": "pl", "text": "5 szklanek mąki", "ids": ["flour"]}
+{"audit": 5785, "lang": "pl", "text": "5 szklanek mąki krupczatki", "ids": ["flour"], "reason": "Krupczatka is coarse wheat flour. No specific coarse-wheat-flour id is available; broad flour is appropriate, not semolina."}
+{"audit": 5786, "lang": "pl", "text": "5 sztuk pomidorów konserwowych lub pół litra koncentratu", "ids": ["canned-tomatoes"]}
+{"audit": 5787, "lang": "pl", "text": "5 tabliczek czekolady dobrej jakości (od 61% do 85% zawartości kakao)", "ids": ["dark-chocolate"], "reason": "Chocolate with 61–85 percent cocoa is dark chocolate."}
+{"audit": 5788, "lang": "pl", "text": "5 udek kurczaka", "ids": ["chicken"], "reason": "Udka are chicken legs. No chicken-leg or chicken-thigh id is available, so retain chicken."}
+{"audit": 5789, "lang": "pl", "text": "5 ugotowanych marchewek", "ids": ["carrot"]}
+{"audit": 5790, "lang": "pl", "text": "5 ziemniaków", "ids": ["potato"]}
+{"audit": 5791, "lang": "pl", "text": "5 ząbków czosnku", "ids": ["garlic"]}
+{"audit": 5792, "lang": "pl", "text": "5 łyżeczek cukru", "ids": ["sugar"]}
+{"audit": 5793, "lang": "pl", "text": "5 łyżek białego wytrawnego wina", "ids": ["white-wine"]}
+{"audit": 5794, "lang": "pl", "text": "5 łyżek cukru lub miodu", "ids": ["sugar"]}
+{"audit": 5795, "lang": "pl", "text": "5 łyżek kawy instant", "ids": ["instant-coffee"]}
+{"audit": 5796, "lang": "pl", "text": "5 łyżek likieru pomarańczowego", "ids": ["orange-liqueur"]}
+{"audit": 5797, "lang": "pl", "text": "5 łyżek masła", "ids": ["butter"]}
+{"audit": 5798, "lang": "pl", "text": "5 łyżek musztardy francuskiej", "ids": ["mustard"], "reason": "Musztarda francuska is wholegrain mustard. No wholegrain-mustard id is available; retain mustard, not Dijon."}
+{"audit": 5799, "lang": "pl", "text": "5 łyżek mąki tortowej", "ids": ["cake-flour"], "reason": "Mąka tortowa is cake flour."}
+{"audit": 5800, "lang": "pl", "text": "5 łyżek naturalnego jogurtu", "ids": ["yogurt"]}
+{"audit": 5801, "lang": "pl", "text": "5 łyżek oleju", "ids": ["vegetable-oil"]}
+{"audit": 5802, "lang": "pl", "text": "5 łyżek oleju słonecznikowego", "ids": ["sunflower-oil"]}
+{"audit": 5803, "lang": "pl", "text": "5 łyżek oliwy", "ids": ["olive-oil"]}
+{"audit": 5804, "lang": "pl", "text": "5 łyżek oliwy z oliwek", "ids": ["olive-oil"]}
+{"audit": 5805, "lang": "pl", "text": "5 łyżek posiekanej mięty", "ids": ["mint"]}
+{"audit": 5806, "lang": "pl", "text": "5 łyżek soku pomarańczowego", "ids": ["orange-juice"]}
+{"audit": 5807, "lang": "pl", "text": "5 łyżek startego parmezanu", "ids": ["parmesan"]}
+{"audit": 5808, "lang": "pl", "text": "5 łyżek tartej bułki", "ids": ["breadcrumbs"]}
+{"audit": 5809, "lang": "pl", "text": "5 łyżki oliwy z oliwek", "ids": ["olive-oil"]}
+{"audit": 5810, "lang": "pl", "text": "5 średnich pomidorów", "ids": ["tomato"]}
+{"audit": 5811, "lang": "pl", "text": "5 średnich ziemniaków,", "ids": ["potato"]}
+{"audit": 5812, "lang": "pl", "text": "5 żółtek", "ids": ["egg"], "reason": "Żółtka means egg yolks. No egg-yolk id is available, so retain the broader egg."}
+{"audit": 5813, "lang": "pl", "text": "5-10 dag bułki tartej", "ids": ["breadcrumbs"]}
+{"audit": 5814, "lang": "pl", "text": "5-6 parówek", "ids": ["frankfurter"]}
+{"audit": 5815, "lang": "pl", "text": "5-6 szklanek bulionu bądź rosołu", "ids": ["stock"]}
+{"audit": 5816, "lang": "pl", "text": "5-6 łyżek oliwy", "ids": ["olive-oil"]}
+{"audit": 5817, "lang": "pl", "text": "5-7 ziaren pieprzu", "ids": ["black-pepper"]}
+{"audit": 5818, "lang": "pl", "text": "5-7 ziaren ziela angielskiego", "ids": ["allspice"]}
+{"audit": 5819, "lang": "pl", "text": "50 - 100 ml śmietany", "ids": ["cream"]}
+{"audit": 5820, "lang": "pl", "text": "50 dag białych szparagów", "ids": ["white-asparagus"], "reason": "Białe szparagi explicitly names white asparagus."}
+{"audit": 5821, "lang": "pl", "text": "50 dag brokułów", "ids": ["broccoli"]}
+{"audit": 5822, "lang": "pl", "text": "50 dag brukselki", "ids": ["brussels-sprouts"]}
+{"audit": 5823, "lang": "pl", "text": "50 dag ciasta filo", "ids": ["phyllo-dough"]}
+{"audit": 5824, "lang": "pl", "text": "50 dag ciasta fyllo", "ids": ["phyllo-dough"]}
+{"audit": 5825, "lang": "pl", "text": "50 dag cukinii", "ids": ["zucchini"]}
+{"audit": 5826, "lang": "pl", "text": "50 dag dojrzałych brzoskwiń", "ids": ["peach"]}
+{"audit": 5827, "lang": "pl", "text": "50 dag dyni", "ids": ["pumpkin"]}
+{"audit": 5828, "lang": "pl", "text": "50 dag fasoli", "ids": ["beans"]}
+{"audit": 5829, "lang": "pl", "text": "50 dag fasoli jaś", "ids": ["runner-beans"], "reason": "Fasola Jaś is the large white-seeded runner bean, rather than small navy beans."}
+{"audit": 5830, "lang": "pl", "text": "50 dag fasolki szparagowej", "ids": ["green-beans"]}
+{"audit": 5831, "lang": "pl", "text": "50 dag fasolki szparagowej (żółtej lub zielonej)", "ids": ["wax-beans"], "reason": "The first choice is yellow pod beans, represented by wax-beans; green beans are the alternative."}
+{"audit": 5832, "lang": "pl", "text": "50 dag filetów z dowolnej ryby", "ids": ["fish"]}
+{"audit": 5833, "lang": "pl", "text": "50 dag filetów z kurczaka", "ids": ["chicken"]}
+{"audit": 5834, "lang": "pl", "text": "50 dag filetów z łososia", "ids": ["salmon"]}
+{"audit": 5835, "lang": "pl", "text": "50 dag kapusty białej", "ids": ["cabbage"]}
+{"audit": 5836, "lang": "pl", "text": "50 dag kapusty kiszonej", "ids": ["sauerkraut"]}
+{"audit": 5837, "lang": "pl", "text": "50 dag karczku", "ids": ["pork"], "reason": "Karczek is pork neck, not shoulder. No pork-neck id is available; retain broader pork pending a neck-cut id."}
+{"audit": 5838, "lang": "pl", "text": "50 dag kartofli", "ids": ["potato"]}
+{"audit": 5839, "lang": "pl", "text": "50 dag kiełbasy", "ids": ["pork-sausage"]}
+{"audit": 5840, "lang": "pl", "text": "50 dag kiełbasy (wędzonej)", "ids": ["smoked-sausage"], "reason": "The parenthesis explicitly specifies smoked sausage."}
+{"audit": 5841, "lang": "pl", "text": "50 dag kiełbasy wędzonej", "ids": ["smoked-sausage"], "reason": "Kiełbasa wędzona explicitly names smoked sausage."}
+{"audit": 5842, "lang": "pl", "text": "50 dag kiełbasy śląskiej lub zwyczajnej", "ids": ["pork-sausage"]}
+{"audit": 5843, "lang": "pl", "text": "50 dag kwaśnych jabłek", "ids": ["apple"]}
+{"audit": 5844, "lang": "pl", "text": "50 dag maku", "ids": ["poppy-seeds"]}
+{"audit": 5845, "lang": "pl", "text": "50 dag marchewki", "ids": ["carrot"]}
+{"audit": 5846, "lang": "pl", "text": "50 dag marchwi", "ids": ["carrot"]}
+{"audit": 5847, "lang": "pl", "text": "50 dag mielonego mięsa", "ids": ["ground-meat"], "reason": "Mielone mięso is generic minced meat and does not specify beef."}
+{"audit": 5848, "lang": "pl", "text": "50 dag mielonego mięsa wołowo-wieprzowego", "ids": ["ground-beef", "ground-pork"]}
+{"audit": 5849, "lang": "pl", "text": "50 dag mięsa mielonego", "ids": ["ground-meat"], "reason": "Mięso mielone is generic minced meat, without an animal specified."}
+{"audit": 5850, "lang": "pl", "text": "50 dag moreli", "ids": ["apricot"]}
+{"audit": 5851, "lang": "pl", "text": "50 dag mozzarelli mini", "ids": ["mozzarella"]}
+{"audit": 5852, "lang": "pl", "text": "50 dag mrożonego szpinaku", "ids": ["spinach"]}
+{"audit": 5853, "lang": "pl", "text": "50 dag mąki", "ids": ["flour"]}
+{"audit": 5854, "lang": "pl", "text": "50 dag mąki pszennej", "ids": ["flour"]}
+{"audit": 5855, "lang": "pl", "text": "50 dag mąki,", "ids": ["flour"]}
+{"audit": 5856, "lang": "pl", "text": "50 dag młodych buraczków", "ids": ["beetroot"]}
+{"audit": 5857, "lang": "pl", "text": "50 dag oczyszczonych flaków wołowych", "ids": ["beef-tripe"], "unusual": "Beef tripe is a real offal ingredient; preserved for user consideration."}
+{"audit": 5858, "lang": "pl", "text": "50 dag ogórków", "ids": ["cucumber"]}
+{"audit": 5859, "lang": "pl", "text": "50 dag ogórków sałatkowych", "ids": ["cucumber"]}
+{"audit": 5860, "lang": "pl", "text": "50 dag pieczarek", "ids": ["mushroom"]}
+{"audit": 5861, "lang": "pl", "text": "50 dag polędwicy wołowej", "ids": ["beef-tenderloin"], "reason": "Polędwica wołowa explicitly names beef tenderloin."}
+{"audit": 5862, "lang": "pl", "text": "50 dag pomidorków koktajlowych", "ids": ["cherry-tomato"], "reason": "Pomidorki koktajlowe are cherry tomatoes."}
+{"audit": 5863, "lang": "pl", "text": "50 dag pomidorów", "ids": ["tomato"]}
+{"audit": 5864, "lang": "pl", "text": "50 dag ryby morskiej", "ids": ["fish"]}
+{"audit": 5865, "lang": "pl", "text": "50 dag ryżu", "ids": ["rice"]}
+{"audit": 5866, "lang": "pl", "text": "50 dag sera białego", "ids": ["quark"]}
+{"audit": 5867, "lang": "pl", "text": "50 dag sera ementaler w kawałku", "ids": ["emmental"]}
+{"audit": 5868, "lang": "pl", "text": "50 dag startego żółtego sera", "ids": ["yellow-cheese"], "reason": "Żółty ser explicitly names yellow cheese."}
+{"audit": 5869, "lang": "pl", "text": "50 dag szparagów", "ids": ["asparagus"]}
+{"audit": 5870, "lang": "pl", "text": "50 dag szpinaku", "ids": ["spinach"]}
+{"audit": 5871, "lang": "pl", "text": "50 dag twardych pomidorów", "ids": ["tomato"]}
+{"audit": 5872, "lang": "pl", "text": "50 dag wieprzowiny bez kości", "ids": ["pork"]}
+{"audit": 5873, "lang": "pl", "text": "50 dag wiśni", "ids": ["sour-cherry"], "reason": "Wiśnie are sour cherries; sweet cherries would be czereśnie."}
+{"audit": 5874, "lang": "pl", "text": "50 dag wołowiny", "ids": ["beef"]}
+{"audit": 5875, "lang": "pl", "text": "50 dag wątróbki", "ids": ["liver"]}
+{"audit": 5876, "lang": "pl", "text": "50 dag zielonej fasolki szparagowej", "ids": ["green-beans"]}
+{"audit": 5877, "lang": "pl", "text": "50 dag ziemniaków", "ids": ["potato"]}
+{"audit": 5878, "lang": "pl", "text": "50 dag śliwek", "ids": ["plum"]}
+{"audit": 5879, "lang": "pl", "text": "50 dag śmietany kremówki", "ids": ["cream"]}
+{"audit": 5880, "lang": "pl", "text": "50 dag świeżego szczawiu", "ids": ["sorrel"]}
+{"audit": 5881, "lang": "pl", "text": "50 dag żółtego sera", "ids": ["yellow-cheese"], "reason": "Żółty ser explicitly names yellow cheese."}
+{"audit": 5882, "lang": "pl", "text": "50 g chudego boczku wędzonego", "ids": ["bacon"]}
+{"audit": 5883, "lang": "pl", "text": "50 g cienkiego makaronu pszennego", "ids": ["pasta"]}
+{"audit": 5884, "lang": "pl", "text": "50 g cukru pudrowego", "ids": ["powdered-sugar"]}
+{"audit": 5885, "lang": "pl", "text": "50 g cukru pudru", "ids": ["powdered-sugar"]}
+{"audit": 5886, "lang": "pl", "text": "50 g cukru trzcinowego (może też być zwykły)", "ids": ["sugar"]}
+{"audit": 5887, "lang": "pl", "text": "50 g czerwonej soczewicy", "ids": ["red-lentils"]}
+{"audit": 5888, "lang": "pl", "text": "50 g drożdży", "ids": ["yeast"]}
+{"audit": 5889, "lang": "pl", "text": "50 g gorzkiej czekolady", "ids": ["dark-chocolate"], "reason": "Gorzka czekolada is dark chocolate."}
+{"audit": 5890, "lang": "pl", "text": "50 g masła", "ids": ["butter"]}
+{"audit": 5891, "lang": "pl", "text": "50 g migdałów", "ids": ["almonds"]}
+{"audit": 5892, "lang": "pl", "text": "50 g migdałów blanszowanych i posiekanych", "ids": ["almonds"]}
+{"audit": 5893, "lang": "pl", "text": "50 g mąki ziemniaczanej", "ids": ["potato-starch"]}
+{"audit": 5894, "lang": "pl", "text": "50 g oliwek", "ids": ["olives"]}
+{"audit": 5895, "lang": "pl", "text": "50 g orzeszków pinii", "ids": ["pine-nuts"]}
+{"audit": 5896, "lang": "pl", "text": "50 g pestek dyni", "ids": ["pumpkin-seeds"]}
+{"audit": 5897, "lang": "pl", "text": "50 g rodzynek", "ids": ["raisins"]}
+{"audit": 5898, "lang": "pl", "text": "50 g ryżu lub kaszy jęczmiennej perłowej", "ids": ["rice"]}
+{"audit": 5899, "lang": "pl", "text": "50 g suszonych prawdziwków", "ids": ["dried-porcini"], "reason": "Suszone prawdziwki explicitly names dried porcini."}
+{"audit": 5900, "lang": "pl", "text": "50 g słoniny", "ids": ["pork-fatback"], "reason": "Słonina is pork fatback; salt curing is not stated."}
+{"audit": 5901, "lang": "pl", "text": "50 g wiórków kokosowych", "ids": ["desiccated-coconut"], "reason": "Wiórki kokosowe are the dried shredded coconut used as a baking ingredient."}
+{"audit": 5902, "lang": "pl", "text": "50 g wędzonego boczku", "ids": ["bacon"]}
+{"audit": 5903, "lang": "pl", "text": "50 g świeżych kiełków pszenicy", "ids": ["wheat-sprouts"]}
+{"audit": 5904, "lang": "pl", "text": "50 g żelatyny", "ids": ["gelatin"]}
+{"audit": 5905, "lang": "pl", "text": "50 ml białego octu balsamicznego", "ids": ["balsamic-vinegar"]}
+{"audit": 5906, "lang": "pl", "text": "50 ml białego wina", "ids": ["white-wine"]}
+{"audit": 5907, "lang": "pl", "text": "50 ml białego wytrawnego wina (lub 50 ml mleka)", "ids": ["white-wine"]}
+{"audit": 5908, "lang": "pl", "text": "50 ml gęstej śmietany", "ids": ["cream"]}
+{"audit": 5909, "lang": "pl", "text": "50 ml mleka", "ids": ["milk"]}
+{"audit": 5910, "lang": "pl", "text": "50 ml octu winnego", "ids": ["wine-vinegar"]}
+{"audit": 5911, "lang": "pl", "text": "50 ml oleju", "ids": ["vegetable-oil"]}
+{"audit": 5912, "lang": "pl", "text": "50 ml oleju rzepakowego", "ids": ["rapeseed-oil"]}
+{"audit": 5913, "lang": "pl", "text": "50 ml oliwy z oliwek", "ids": ["olive-oil"]}
+{"audit": 5914, "lang": "pl", "text": "50 ml soku owocowego", "ids": ["fruit-juice"]}
+{"audit": 5915, "lang": "pl", "text": "50 ml śmietany", "ids": ["cream"]}
+{"audit": 5916, "lang": "pl", "text": "50-60 dag cielęciny bez kości", "ids": ["veal"]}
+{"audit": 5917, "lang": "pl", "text": "50-70 g suszonych grzybów (prawdziwków)", "ids": ["dried-porcini"], "reason": "The parenthetical prawdziwków specifies porcini and the mushrooms are dried."}
+{"audit": 5918, "lang": "pl", "text": "500 g bakłażanów", "ids": ["eggplant"]}
+{"audit": 5919, "lang": "pl", "text": "500 g białego sera", "ids": ["quark"]}
+{"audit": 5920, "lang": "pl", "text": "500 g białej fasoli", "ids": ["white-beans"]}
+{"audit": 5921, "lang": "pl", "text": "500 g bobu", "ids": ["fava-beans"]}
+{"audit": 5922, "lang": "pl", "text": "500 g brukselki", "ids": ["brussels-sprouts"]}
+{"audit": 5923, "lang": "pl", "text": "500 g ciemnych, bardzo dojrzałych winogron", "ids": ["grapes"]}
+{"audit": 5924, "lang": "pl", "text": "500 g cukinii", "ids": ["zucchini"]}
+{"audit": 5925, "lang": "pl", "text": "500 g cukru", "ids": ["sugar"], "reason": "Cukru is sugar; the existing pear mapping is unrelated."}
+{"audit": 5926, "lang": "pl", "text": "500 g dojrzałych słodkich polnych gruszek", "ids": ["pear"], "reason": "Gruszki are pears, here ripe sweet field pears, not fish."}
+{"audit": 5927, "lang": "pl", "text": "500 g filetów białej ryby (dorsza, morszczuka lub okonia)", "ids": ["cod"], "reason": "The line asks for white fish fillets and lists cod, hake or perch; cod is the first named choice."}
+{"audit": 5928, "lang": "pl", "text": "500 g gruszek", "ids": ["pear"], "reason": "Gruszek means pears, not apples."}
+{"audit": 5929, "lang": "pl", "text": "500 g jabłek", "ids": ["apple"], "reason": "Jabłek means apples, not squid."}
+{"audit": 5930, "lang": "pl", "text": "500 g kalmarów", "ids": ["squid"], "reason": "Kalmarów means squid, not blood sausage."}

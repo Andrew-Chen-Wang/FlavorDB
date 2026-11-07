@@ -1,0 +1,124 @@
+[
+  {
+    "candidate": 509,
+    "decision": "retain",
+    "reason": "Parent saw isolated manufactured glass noodles; appropriate for the noodle product identity, not raw beans substituted for a cooked dish."
+  },
+  {
+    "candidate": 549,
+    "decision": "drop",
+    "reason": "Parent saw fully closed tacos with hidden filling, insufficient visual identity."
+  },
+  {
+    "candidate": 569,
+    "decision": "retain",
+    "reason": "Parent saw actual prepared fermented bean sauce in a dish beside its bottle; not only product packaging."
+  },
+  {
+    "candidate": 620,
+    "decision": "author",
+    "author": "小太刀",
+    "source": "https://commons.wikimedia.org/wiki/File:CodazziAkadashiMiso1.jpg",
+    "reason": "Read Japanese Commons summary explicitly identifying photographer and self-published CC BY-SA license."
+  },
+  {
+    "candidate": 771,
+    "decision": "drop",
+    "reason": "Compared with 773 and selected clearer food detail; one photo per dish."
+  },
+  {
+    "candidate": 1131,
+    "decision": "drop",
+    "reason": "Viewed 1131 and 1132; chose cut pie 1132 to show macaroni filling clearly."
+  },
+  {
+    "candidate": 1115,
+    "decision": "author",
+    "author": "Chingon (Commons uploader)",
+    "source": "https://commons.wikimedia.org/wiki/File:Raspatat.jpg",
+    "reason": "Read file history and self-published public-domain release. Uploader identified; photographer attribution remains assumed on Commons."
+  },
+  {
+    "candidate": 1572,
+    "decision": "drop",
+    "reason": "Viewed festival scene and compared with 506, retained food-centered close view 506."
+  },
+  {
+    "candidate": 1687,
+    "decision": "author",
+    "author": "Pubuhan",
+    "source": "https://commons.wikimedia.org/wiki/File:Yangroupaomo3.jpg",
+    "reason": "Read Commons description/file history/licensing."
+  },
+  {
+    "candidate": 1743,
+    "decision": "author",
+    "author": "KF",
+    "source": "https://commons.wikimedia.org/wiki/File:Liptauer.jpg",
+    "reason": "Read Commons description/file history/licensing."
+  },
+  {
+    "candidate": 1746,
+    "decision": "author",
+    "author": "Vargenau (original); Ptyx (color/crop edits)",
+    "source": "https://commons.wikimedia.org/wiki/File:Kouglof.png",
+    "reason": "Read Commons description/file history/licensing."
+  },
+  {
+    "candidates": [1689, 1699],
+    "decision": "credit",
+    "source": "https://www.kogl.or.kr/info/licenseType1.do",
+    "reason": "Official KOGL Type 1 terms allow commercial use and adaptations with attribution. Preserve original EBS source link, work title and 2015 creation year."
+  },
+  {
+    "candidate": 1906,
+    "decision": "credit",
+    "author": "Unknown photographer; National Cancer Institute (1989)",
+    "source": "https://commons.wikimedia.org/wiki/File:NCI_Visuals_Food_Muffins.jpg",
+    "reason": "Commons explicitly labels PD NIH official-duty work. Original NCI source endpoint inaccessible; preserve unknown photographer rather than inventing one."
+  },
+  {
+    "candidate": 2061,
+    "decision": "credit",
+    "creditAuthorUrl": "https://www.hungryhuy.com/",
+    "creditSourceUrl": "https://www.hungryhuy.com/agedashi-tofu-recipe/"
+  },
+  {
+    "candidate": 2124,
+    "decision": "credit",
+    "author": "sousvideguy.com",
+    "creditAuthorUrl": "https://sousvideguy.com/"
+  },
+  {
+    "candidate": 2147,
+    "decision": "credit",
+    "author": "Alice Wiegand (Lyzzy)",
+    "authorSource": "https://commons.wikimedia.org/wiki/File:Brittle_made_of_Hazelnuts.jpg"
+  },
+  {
+    "candidate": 2140,
+    "decision": "drop",
+    "source": "https://commons.wikimedia.org/wiki/File:PatsCheesesteak.jpg",
+    "reason": "CC BY-SA file explicitly lacks author; transfer/editor identity is insufficient to invent photographer credit."
+  },
+  {
+    "candidate": 2362,
+    "decision": "author",
+    "author": "Bengt Olof Åradsson",
+    "source": "https://commons.wikimedia.org/wiki/File:Kanelbulle.jpg"
+  },
+  {
+    "candidate": 2424,
+    "decision": "license",
+    "license": "CeCILL",
+    "source": "https://commons.wikimedia.org/wiki/File:Flameukeusche_2.jpg",
+    "licenseText": "https://spdx.org/licenses/CECILL-2.0.html",
+    "reason": "Read Commons free grant and complete CeCILL 2.0 text; source image and creator link retained."
+  },
+  {
+    "candidate": 2614,
+    "decision": "author",
+    "author": "Musical Linguist",
+    "source": "https://commons.wikimedia.org/wiki/File:Lemoncurd.jpg"
+  }
+]

@@ -1,0 +1,200 @@
+{"audit": 4484, "lang": "fr", "text": "1 kg de pommes de terre à chair ferme (Charlotte).", "ids": ["potato"]}
+{"audit": 4485, "lang": "fr", "text": "1 kg de Pommes de terre,", "ids": ["potato"]}
+{"audit": 4486, "lang": "fr", "text": "1 kg de potimarron", "ids": ["squash"]}
+{"audit": 4487, "lang": "fr", "text": "1 kg de potiron", "ids": ["pumpkin"]}
+{"audit": 4488, "lang": "fr", "text": "1 kg de pousses d'épinards ou de fafa,", "ids": ["spinach"]}
+{"audit": 4489, "lang": "fr", "text": "1 kg de pâte de datte deglet nour", "ids": ["date-paste"]}
+{"audit": 4490, "lang": "fr", "text": "1 kg de pâte à tarte maison", "ids": ["pie-crust"]}
+{"audit": 4491, "lang": "fr", "text": "1 kg de riz gluant,", "ids": ["glutinous-rice"]}
+{"audit": 4492, "lang": "fr", "text": "1 kg de seiches entières (ou 600 g de blanc de seiches et 2 sachets d'encre)", "ids": ["cuttlefish"]}
+{"audit": 4493, "lang": "fr", "text": "1 kg de semoule fine", "ids": ["semolina"]}
+{"audit": 4494, "lang": "fr", "text": "1 kg de semoule fine,", "ids": ["semolina"]}
+{"audit": 4495, "lang": "fr", "text": "1 kg de sucre", "ids": ["sugar"]}
+{"audit": 4496, "lang": "fr", "text": "1 kg de sucre cristallisé par kg de jus de coings", "ids": ["sugar"]}
+{"audit": 4497, "lang": "fr", "text": "1 kg de sucre fin pour saupoudrage", "ids": ["sugar"]}
+{"audit": 4498, "lang": "fr", "text": "1 kg de sucre gélifiant", "ids": ["jam-sugar"], "reason": "Sucre gelifiant is jam sugar containing a gelling agent; use the existing specific id."}
+{"audit": 4499, "lang": "fr", "text": "1 kg de thon frais", "ids": ["tuna"]}
+{"audit": 4500, "lang": "fr", "text": "1 kg de thon frais rouge,blanc ou bonite de préférence à chair ferme, sans peau ni arêtes, coupé en dés", "ids": ["tuna"]}
+{"audit": 4501, "lang": "fr", "text": "1 kg de tomates", "ids": ["tomato"]}
+{"audit": 4502, "lang": "fr", "text": "1 kg de tomates bien mûres, pelées, épépinées et coupées en morceaux", "ids": ["tomato"]}
+{"audit": 4503, "lang": "fr", "text": "1 kg de tomates fraîches,", "ids": ["tomato"]}
+{"audit": 4504, "lang": "fr", "text": "1 kg de tomates, chapeau coupé et vidées de leur pulpe et graines, couvercles conservés à part,", "ids": ["tomato"]}
+{"audit": 4505, "lang": "fr", "text": "1 kg de tortue", "ids": ["turtle"], "unusual": "Turtle is explicitly a recipe ingredient; retained for the user's decision on unusual foods."}
+{"audit": 4506, "lang": "fr", "text": "1 kg de veau assorti (épaule, flanchet, tendron, poitrine),", "ids": ["veal"]}
+{"audit": 4507, "lang": "fr", "text": "1 kg de viande", "ids": ["meat"]}
+{"audit": 4508, "lang": "fr", "text": "1 kg de viande ; confit de canard ou d'oie, saucisse de Toulouse (andouillettes, côtes de porc ou côtelettes de mouton),", "ids": ["duck", "toulouse-sausage"]}
+{"audit": 4509, "lang": "fr", "text": "1 kg de viande cuite (genre pot-au-feu),", "ids": ["cooked-meat"], "reason": "The text says cooked meat, with pot-au-feu only as an example; a cooked-meat id exists and beef is not specified."}
+{"audit": 4510, "lang": "fr", "text": "1 kg de viande de bœuf à braiser", "ids": ["beef"]}
+{"audit": 4511, "lang": "fr", "text": "1 kg de viande de mouton ou agneau (gigot...)", "ids": ["lamb"]}
+{"audit": 4512, "lang": "fr", "text": "1 kg de viande, dont obligatoirement une fesse ou une épaule de porc (de préférence une fesse), puis facultativement du bœuf maigre, des poitrines de poulet, ou encore mieux du gibier. Calculer un peu plus pour les os et la peau dont on disposera.", "ids": ["pork-leg", "beef"], "reason": "The mandatory first cut is pork leg/butt (fesse), with shoulder as an alternative; the first optional additional meat named is lean beef."}
+{"audit": 4513, "lang": "fr", "text": "1 kg de viande, moitié poil (lapin de garenne, lièvre, lapin) et moitié plume (perdrix, pigeon, ramier, poulet, cailles)", "ids": ["rabbit", "hare", "partridge", "pigeon", "chicken", "quail"]}
+{"audit": 4514, "lang": "fr", "text": "1 kg ou plus de viande de bœuf dans le filet, le faux-filet ou le rosbif,", "ids": ["beef-tenderloin"], "reason": "The first named beef cut is filet, meaning beef tenderloin; faux-filet and roast beef are alternatives."}
+{"audit": 4515, "lang": "fr", "text": "1 kilo de foie de canard", "ids": ["duck-liver"]}
+{"audit": 4516, "lang": "fr", "text": "1 kilo de tomates pelées mûres (environ 6 grosses tomates);", "ids": ["tomato"]}
+{"audit": 4517, "lang": "fr", "text": "1 kilogramme de cornichons moyens", "ids": ["pickles"]}
+{"audit": 4518, "lang": "fr", "text": "1 kilogramme de mélange de légumes avec aubergines, carottes, courgettes, fonds d'artichauts, cèleri boule, coupés en morceaux.", "ids": ["eggplant", "carrot", "zucchini", "artichoke", "celeriac"]}
+{"audit": 4519, "lang": "fr", "text": "1 kilogramme de riz non parfumé", "ids": ["rice"]}
+{"audit": 4520, "lang": "fr", "text": "1 kilogramme de tomates et 4 tomates coupées en tranche épaisses,", "ids": ["tomato"]}
+{"audit": 4521, "lang": "fr", "text": "1 l d'eau", "ids": ["water"]}
+{"audit": 4522, "lang": "fr", "text": "1 l de bière", "ids": ["beer"]}
+{"audit": 4523, "lang": "fr", "text": "1 l de bouillon", "ids": ["stock"]}
+{"audit": 4524, "lang": "fr", "text": "1 L de bouillon de poulet", "ids": ["chicken-stock"]}
+{"audit": 4525, "lang": "fr", "text": "1 l de bouillon,", "ids": ["stock"]}
+{"audit": 4526, "lang": "fr", "text": "1 l de cidre brut", "ids": ["cider"]}
+{"audit": 4527, "lang": "fr", "text": "1 L de crème entière", "ids": ["cream"]}
+{"audit": 4528, "lang": "fr", "text": "1 l de lait", "ids": ["milk"]}
+{"audit": 4529, "lang": "fr", "text": "1 l de lait entier", "ids": ["milk"]}
+{"audit": 4530, "lang": "fr", "text": "1 l de lait entier cru", "ids": ["milk"]}
+{"audit": 4531, "lang": "fr", "text": "1 l de vin rouge,", "ids": ["red-wine"]}
+{"audit": 4532, "lang": "fr", "text": "1 litre 75 d’eau par kg de coings", "ids": ["water"]}
+{"audit": 4533, "lang": "fr", "text": "1 litre d'eau", "ids": ["water"]}
+{"audit": 4534, "lang": "fr", "text": "1 litre d'eau froide,", "ids": ["water"]}
+{"audit": 4535, "lang": "fr", "text": "1 litre d'eau,", "ids": ["water"]}
+{"audit": 4536, "lang": "fr", "text": "1 litre d'eau.", "ids": ["water"]}
+{"audit": 4537, "lang": "fr", "text": "1 litre d'huile d'arachide,", "ids": ["peanut-oil"]}
+{"audit": 4538, "lang": "fr", "text": "1 litre de bouillon", "ids": ["stock"]}
+{"audit": 4539, "lang": "fr", "text": "1 litre de bouillon de bœuf,", "ids": ["beef-stock"]}
+{"audit": 4540, "lang": "fr", "text": "1 litre de bouillon de volaille ;", "ids": ["chicken-stock"]}
+{"audit": 4541, "lang": "fr", "text": "1 litre de cuajada,", "ids": ["cuajada"]}
+{"audit": 4542, "lang": "fr", "text": "1 litre de lait", "ids": ["milk"]}
+{"audit": 4543, "lang": "fr", "text": "1 litre de lait cru entier", "ids": ["milk"]}
+{"audit": 4544, "lang": "fr", "text": "1 litre de lait de coco", "ids": ["coconut-milk"]}
+{"audit": 4545, "lang": "fr", "text": "1 litre de lait de coco,", "ids": ["coconut-milk"]}
+{"audit": 4546, "lang": "fr", "text": "1 litre de lait de vache,", "ids": ["milk"]}
+{"audit": 4547, "lang": "fr", "text": "1 litre de lait entier", "ids": ["milk"]}
+{"audit": 4548, "lang": "fr", "text": "1 litre de lait entier, ou mieux du lait acheté dans une ferme;", "ids": ["milk"]}
+{"audit": 4549, "lang": "fr", "text": "1 litre de lait frais de brebis", "ids": ["sheep-milk"]}
+{"audit": 4550, "lang": "fr", "text": "1 litre de lait ou bien 2/3 litre de lait et 1/3 litre d'eau", "ids": ["milk"]}
+{"audit": 4551, "lang": "fr", "text": "1 litre de lait,", "ids": ["milk"]}
+{"audit": 4552, "lang": "fr", "text": "1 litre de moules", "ids": ["mussels"]}
+{"audit": 4553, "lang": "fr", "text": "1 litre de sang de porc,", "ids": ["pig-blood"], "unusual": "Pig blood is explicitly used as an ingredient; retained for the user's decision on unusual foods."}
+{"audit": 4554, "lang": "fr", "text": "1 litre de vin rouge à température ambiante", "ids": ["red-wine"]}
+{"audit": 4555, "lang": "fr", "text": "1 litre d’eau", "ids": ["water"]}
+{"audit": 4556, "lang": "fr", "text": "1 litre et demi d'eau", "ids": ["water"]}
+{"audit": 4557, "lang": "fr", "text": "1 magret séché en tranches fines,", "ids": ["duck-breast"]}
+{"audit": 4558, "lang": "fr", "text": "1 mangue mûre", "ids": ["mango"]}
+{"audit": 4559, "lang": "fr", "text": "1 Melon (chair orange)", "ids": ["melon"]}
+{"audit": 4560, "lang": "fr", "text": "1 Melon Espagnol(chair verte pâle)", "ids": ["melon"]}
+{"audit": 4561, "lang": "fr", "text": "1 moitié de concombre", "ids": ["cucumber"]}
+{"audit": 4562, "lang": "fr", "text": "1 morceau d'écorce d'orange", "ids": ["orange-peel"], "reason": "Ecorce d'orange specifically means orange peel, for which a distinct id exists."}
+{"audit": 4563, "lang": "fr", "text": "1 morceau de lard,", "ids": ["pork-fat"], "reason": "French lard here is a solid piece of pork fat used in the snail court-bouillon, not rendered lard (saindoux)."}
+{"audit": 4564, "lang": "fr", "text": "1 morceau de levure de boulanger pour 500 g de farine", "ids": ["yeast"]}
+{"audit": 4565, "lang": "fr", "text": "1 morceau de piment ou une pointe couteau de piment de Cayenne", "ids": ["green-chile"]}
+{"audit": 4566, "lang": "fr", "text": "1 morceau de sucre", "ids": ["sugar"]}
+{"audit": 4567, "lang": "fr", "text": "1 médaillon de foie gras (facultatif),", "ids": ["foie-gras"]}
+{"audit": 4568, "lang": "fr", "text": "1 navet", "ids": ["turnip"]}
+{"audit": 4569, "lang": "fr", "text": "1 noisette de beurre,", "ids": ["butter"]}
+{"audit": 4570, "lang": "fr", "text": "1 noisette de beurre, 2 cuillers à soupe d'huile d'olive", "ids": ["butter", "olive-oil"]}
+{"audit": 4571, "lang": "fr", "text": "1 noix de beurre", "ids": ["butter"]}
+{"audit": 4572, "lang": "fr", "text": "1 noix de beurre ;", "ids": ["butter"]}
+{"audit": 4573, "lang": "fr", "text": "1 noix de beurre;", "ids": ["butter"]}
+{"audit": 4574, "lang": "fr", "text": "1 noix de glucose.", "ids": ["glucose"]}
+{"audit": 4575, "lang": "fr", "text": "1 noix de levure de boulangerie", "ids": ["yeast"]}
+{"audit": 4576, "lang": "fr", "text": "1 nöra ou une cuillère à soupe de poulpe de nöra", "ids": ["nora-pepper"], "reason": "Nora is the dried sweet pepper; poulpe is an apparent typo for pulpe. This is pepper or its pulp, not fish sauce."}
+{"audit": 4577, "lang": "fr", "text": "1 oignon", "ids": ["onion"]}
+{"audit": 4578, "lang": "fr", "text": "1 Oignon", "ids": ["onion"]}
+{"audit": 4579, "lang": "fr", "text": "1 oignon blanc", "ids": ["onion"]}
+{"audit": 4580, "lang": "fr", "text": "1 oignon coupé en morceaux", "ids": ["onion"]}
+{"audit": 4581, "lang": "fr", "text": "1 oignon et 1 gousse d'ail", "ids": ["onion", "garlic"]}
+{"audit": 4582, "lang": "fr", "text": "1 oignon finement haché,", "ids": ["onion"]}
+{"audit": 4583, "lang": "fr", "text": "1 oignon haché", "ids": ["onion"]}
+{"audit": 4584, "lang": "fr", "text": "1 oignon haché, 1 gousse d'ail coupée en deux", "ids": ["onion", "garlic"]}
+{"audit": 4585, "lang": "fr", "text": "1 oignon haché, 1 gousse d'ail écrasée,", "ids": ["onion", "garlic"]}
+{"audit": 4586, "lang": "fr", "text": "1 oignon moyen finement coupé", "ids": ["onion"]}
+{"audit": 4587, "lang": "fr", "text": "1 oignon nouveau", "ids": ["green-onion"]}
+{"audit": 4588, "lang": "fr", "text": "1 oignon ou 2 échalotes (aux choix)", "ids": ["onion"]}
+{"audit": 4589, "lang": "fr", "text": "1 oignon pelé et haché", "ids": ["onion"]}
+{"audit": 4590, "lang": "fr", "text": "1 oignon piqué d'un clou de girofle,", "ids": ["onion", "clove"]}
+{"audit": 4591, "lang": "fr", "text": "1 oignon piqué de 2 clous de girofle,", "ids": ["onion", "clove"]}
+{"audit": 4592, "lang": "fr", "text": "1 oignon piqué de clous de girofle", "ids": ["onion", "clove"]}
+{"audit": 4593, "lang": "fr", "text": "1 oignon taillé en tranches fines,", "ids": ["onion"]}
+{"audit": 4594, "lang": "fr", "text": "1 oignon tranché", "ids": ["onion"]}
+{"audit": 4595, "lang": "fr", "text": "1 oignon tranché finement", "ids": ["onion"]}
+{"audit": 4596, "lang": "fr", "text": "1 oignon vert,", "ids": ["green-onion"]}
+{"audit": 4597, "lang": "fr", "text": "1 oignon émincé", "ids": ["onion"]}
+{"audit": 4598, "lang": "fr", "text": "1 oignon émincé et haché", "ids": ["onion"]}
+{"audit": 4599, "lang": "fr", "text": "1 oignon émincé, ou échalote... ;", "ids": ["onion"]}
+{"audit": 4600, "lang": "fr", "text": "1 oignon,", "ids": ["onion"]}
+{"audit": 4601, "lang": "fr", "text": "1 oignon, si possible rouge", "ids": ["red-onion"], "reason": "The line prefers a red onion; use the existing specific red-onion id."}
+{"audit": 4602, "lang": "fr", "text": "1 oignon, tranché finement", "ids": ["onion"]}
+{"audit": 4603, "lang": "fr", "text": "1 oignon, une carotte et un cèleri émincés,", "ids": ["onion", "carrot", "celery"]}
+{"audit": 4604, "lang": "fr", "text": "1 oignon.", "ids": ["onion"]}
+{"audit": 4605, "lang": "fr", "text": "1 oignons nouveaux", "ids": ["green-onion"]}
+{"audit": 4606, "lang": "fr", "text": "1 oignons,", "ids": ["onion"]}
+{"audit": 4607, "lang": "fr", "text": "1 orange", "ids": ["orange"]}
+{"audit": 4608, "lang": "fr", "text": "1 orange (jus et zeste) ;", "ids": ["orange"]}
+{"audit": 4609, "lang": "fr", "text": "1 orange,", "ids": ["orange"]}
+{"audit": 4610, "lang": "fr", "text": "1 os de jambon", "ids": ["pork-bones"], "reason": "Os de jambon is a ham bone rather than ham meat; no ham-bone id exists, so use pork bones."}
+{"audit": 4611, "lang": "fr", "text": "1 os à moelle,", "ids": ["bone-marrow"]}
+{"audit": 4612, "lang": "fr", "text": "1 ou 1/2 l de bouillon de viande", "ids": ["stock"], "reason": "Bouillon de viande means meat stock without specifying beef; use the broader stock id."}
+{"audit": 4613, "lang": "fr", "text": "1 ou 2 aubergines", "ids": ["eggplant"]}
+{"audit": 4614, "lang": "fr", "text": "1 ou 2 carottes selon la grosseur", "ids": ["carrot"]}
+{"audit": 4615, "lang": "fr", "text": "1 ou 2 gousses d'ail (selon votre goût)", "ids": ["garlic"]}
+{"audit": 4616, "lang": "fr", "text": "1 ou 2 gousses de vanille", "ids": ["vanilla"]}
+{"audit": 4617, "lang": "fr", "text": "1 ou 2 grandes gousses d'ail;", "ids": ["garlic"]}
+{"audit": 4618, "lang": "fr", "text": "1 ou 2 oignons", "ids": ["onion"]}
+{"audit": 4619, "lang": "fr", "text": "1 ou 2 pommes de terre moyennes", "ids": ["potato"]}
+{"audit": 4620, "lang": "fr", "text": "1 ou 2 œufs (qui durciront la farce cuite)", "ids": ["egg"]}
+{"audit": 4621, "lang": "fr", "text": "1 paio (gros saucisson type saucisson à cuire)", "ids": ["pork-sausage"]}
+{"audit": 4622, "lang": "fr", "text": "1 palette de porc fumée de 1 kg franc-comtois,", "ids": ["pork-shoulder"]}
+{"audit": 4623, "lang": "fr", "text": "1 papaye de taille moyenne", "ids": ["papaya"]}
+{"audit": 4624, "lang": "fr", "text": "1 papaye,", "ids": ["papaya"]}
+{"audit": 4625, "lang": "fr", "text": "1 paquet de biscuits « petits-beurre » (150g)", "ids": ["petit-beurre-biscuits"]}
+{"audit": 4626, "lang": "fr", "text": "1 paquet de crème à pudding vanille", "ids": ["vanilla-pudding-mix"]}
+{"audit": 4627, "lang": "fr", "text": "1 paquet de levure chimique", "ids": ["baking-powder"]}
+{"audit": 4628, "lang": "fr", "text": "1 paquet de levure chimique.", "ids": ["baking-powder"]}
+{"audit": 4629, "lang": "fr", "text": "1 paquet de levure de boulanger,", "ids": ["yeast"]}
+{"audit": 4630, "lang": "fr", "text": "1 paquet de sucre vanillé", "ids": ["vanilla-sugar"]}
+{"audit": 4631, "lang": "fr", "text": "1 paquet de sucre vanillé;", "ids": ["vanilla-sugar"]}
+{"audit": 4632, "lang": "fr", "text": "1 part de beurre", "ids": ["butter"]}
+{"audit": 4633, "lang": "fr", "text": "1 petit ananas épluché,", "ids": ["pineapple"]}
+{"audit": 4634, "lang": "fr", "text": "1 petit bouquet de cerfeuil", "ids": ["chervil"]}
+{"audit": 4635, "lang": "fr", "text": "1 petit bouquet de coriandre fraîche", "ids": ["cilantro"]}
+{"audit": 4636, "lang": "fr", "text": "1 petit bouquet de persil", "ids": ["parsley"]}
+{"audit": 4637, "lang": "fr", "text": "1 petit caneton de 1,4 kg", "ids": ["duck"]}
+{"audit": 4638, "lang": "fr", "text": "1 petit chou frisé,", "ids": ["savoy-cabbage"], "reason": "In its Potée Lorraine recipe this is one small head of curly Savoy cabbage, not loose-leaf kale."}
+{"audit": 4639, "lang": "fr", "text": "1 petit chou émincé", "ids": ["cabbage"]}
+{"audit": 4640, "lang": "fr", "text": "1 petit concombre", "ids": ["cucumber"]}
+{"audit": 4641, "lang": "fr", "text": "1 petit morceau de poireau (5 cm environ)", "ids": ["leek"]}
+{"audit": 4642, "lang": "fr", "text": "1 petit oignon", "ids": ["onion"]}
+{"audit": 4643, "lang": "fr", "text": "1 petit oignon haché, 2 gousses d'ail pressées", "ids": ["onion", "garlic"]}
+{"audit": 4644, "lang": "fr", "text": "1 petit oignon, haché finement", "ids": ["onion"]}
+{"audit": 4645, "lang": "fr", "text": "1 petit oignon, haché très finement", "ids": ["onion"]}
+{"audit": 4646, "lang": "fr", "text": "1 petit oignon, haché,", "ids": ["onion"]}
+{"audit": 4647, "lang": "fr", "text": "1 petit pain de campagne et du beurre demi-sel", "ids": ["country-bread", "butter"], "reason": "Pain de campagne is country bread, for which an existing specific id is available; retain the butter too."}
+{"audit": 4648, "lang": "fr", "text": "1 petit piment rouge", "ids": ["green-chile"]}
+{"audit": 4649, "lang": "fr", "text": "1 petit piment rouge frais, haché très finement,", "ids": ["green-chile"]}
+{"audit": 4650, "lang": "fr", "text": "1 petit poireau", "ids": ["leek"]}
+{"audit": 4651, "lang": "fr", "text": "1 petit pot de crème fraîche", "ids": ["creme-fraiche"]}
+{"audit": 4652, "lang": "fr", "text": "1 petit pot de crème fraîche,", "ids": ["creme-fraiche"]}
+{"audit": 4653, "lang": "fr", "text": "1 petit pot de purée de tomate ou puszeczka (contenant lycopène) (optionnel),", "ids": ["tomato-puree"], "reason": "The first ingredient explicitly says puree de tomate; use tomato puree rather than concentrated tomato paste."}
+{"audit": 4654, "lang": "fr", "text": "1 petit reblochon", "ids": ["reblochon"]}
+{"audit": 4655, "lang": "fr", "text": "1 petit verre de calvados", "ids": ["calvados"]}
+{"audit": 4656, "lang": "fr", "text": "1 petit œuf", "ids": ["egg"]}
+{"audit": 4657, "lang": "fr", "text": "1 petite banane", "ids": ["banana"]}
+{"audit": 4658, "lang": "fr", "text": "1 petite boite de maïs,", "ids": ["corn"]}
+{"audit": 4659, "lang": "fr", "text": "1 petite botte de persil,", "ids": ["parsley"]}
+{"audit": 4660, "lang": "fr", "text": "1 petite boîte de concentré de tomate", "ids": ["tomato-paste"]}
+{"audit": 4661, "lang": "fr", "text": "1 petite boîte de filets d’anchois,", "ids": ["anchovy"]}
+{"audit": 4662, "lang": "fr", "text": "1 petite boîte de thon,", "ids": ["canned-tuna"]}
+{"audit": 4663, "lang": "fr", "text": "1 petite cuillère à thé de sel.", "ids": ["salt"]}
+{"audit": 4664, "lang": "fr", "text": "1 petite grappe de raisin", "ids": ["grapes"]}
+{"audit": 4665, "lang": "fr", "text": "1 petite poignée de raisins secs,", "ids": ["raisins"]}
+{"audit": 4666, "lang": "fr", "text": "1 petite tasse de lait tiède", "ids": ["milk"]}
+{"audit": 4667, "lang": "fr", "text": "1 petite tranche de lard cru,", "ids": ["pork-fat"], "reason": "A raw slice of French lard in the snail stuffing names solid pork fat; curing or bacon is not specified."}
+{"audit": 4668, "lang": "fr", "text": "1 petites poignée de feuilles de menthe", "ids": ["mint"]}
+{"audit": 4669, "lang": "fr", "text": "1 petites poignée de persil", "ids": ["parsley"]}
+{"audit": 4670, "lang": "fr", "text": "1 petits poireaux", "ids": ["leek"]}
+{"audit": 4671, "lang": "fr", "text": "1 peu de persil", "ids": ["parsley"]}
+{"audit": 4672, "lang": "fr", "text": "1 pied de bœuf cuit et coupé en deux", "ids": ["beef-foot"]}
+{"audit": 4673, "lang": "fr", "text": "1 pied, 1 oreille et 1 queue de porc", "ids": ["pig-feet", "pig-ear", "pork-tail"], "reason": "The line explicitly names three pig parts: a foot, an ear and a tail; all three have specific ids."}
+{"audit": 4674, "lang": "fr", "text": "1 piment", "ids": ["green-chile"]}
+{"audit": 4675, "lang": "fr", "text": "1 piment d'oiseau", "ids": ["bird-eye-chili"]}
+{"audit": 4676, "lang": "fr", "text": "1 piment de Cayenne", "ids": ["cayenne"]}
+{"audit": 4677, "lang": "fr", "text": "1 piment de Cayenne,", "ids": ["cayenne"]}
+{"audit": 4678, "lang": "fr", "text": "1 piment oiseau,", "ids": ["bird-eye-chili"]}
+{"audit": 4679, "lang": "fr", "text": "1 piment serrano ou jalapeño", "ids": ["serrano-chile"], "reason": "Serrano pepper is the first choice; jalapeno is only the alternative."}
+{"audit": 4680, "lang": "fr", "text": "1 piment vert,", "ids": ["green-chile"]}
+{"audit": 4681, "lang": "fr", "text": "1 piment,", "ids": ["green-chile"]}
+{"audit": 4682, "lang": "fr", "text": "1 pincé de safran, sel", "ids": ["saffron", "salt"]}
+{"audit": 4683, "lang": "fr", "text": "1 pincée de cannelle ;", "ids": ["cinnamon"]}

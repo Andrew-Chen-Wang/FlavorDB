@@ -15,6 +15,14 @@ export type WorldRecipe = {
   source: Source
 }
 
+export type ImageCredit = {
+  author: string
+  authorUrl?: string
+  license: string
+  licenseUrl?: string
+  sourceUrl?: string
+}
+
 /**
  * A dish imported from an open source. Unlike the hand-curated seed data, fields are only as
  * complete as the source: many dishes have ingredients but no recipe, and some have neither.
@@ -40,10 +48,11 @@ export type WorldDish = {
   ingredientIds?: string[]
   /** Wikimedia Commons file name */
   image?: string
-  /** A photo hosted elsewhere under the source's license (HowToCook's own pictures) */
+  /** A remote photo or a locally copied photo; supplemental credits describe its source. */
   imageUrl?: string
   /** The page the photo was found on, when it didn't come with the dish (see data/images.json) */
   imageFrom?: string
+  imageCredit?: ImageCredit
   wikipedia: Record<string, string>
   recipes: WorldRecipe[]
   sources: Source[]

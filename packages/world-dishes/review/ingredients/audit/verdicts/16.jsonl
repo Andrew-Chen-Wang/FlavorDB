@@ -1,0 +1,200 @@
+{"audit": 3200, "lang": "labels", "text": "橄榄菜", "ids": ["olive-vegetable-relish"], "reason": "橄榄菜 is the specific Chaoshan mustard-greens-and-olive relish; use the dedicated olive-vegetable-relish sauce ingredient approved after reread."}
+{"audit": 3201, "lang": "labels", "text": "水浸金枪鱼罐头", "ids": ["canned-tuna"]}
+{"audit": 3202, "lang": "labels", "text": "水菜", "ids": ["mizuna"]}
+{"audit": 3203, "lang": "labels", "text": "水飴", "ids": ["starch-syrup"]}
+{"audit": 3204, "lang": "labels", "text": "油、盐、鸡精、生抽、老抽、陈醋、黑胡椒粉、料酒", "ids": ["vegetable-oil", "salt", "chicken-powder", "soy-sauce", "dark-soy-sauce", "black-vinegar", "black-pepper", "cooking-wine"], "reason": "料酒 names generic cooking wine, not specifically Shaoxing wine."}
+{"audit": 3205, "lang": "labels", "text": "油揚げ", "ids": ["fried-tofu"]}
+{"audit": 3206, "lang": "labels", "text": "海盐", "ids": ["sea-salt"]}
+{"audit": 3207, "lang": "labels", "text": "海鲜酱", "ids": ["hoisin"], "reason": "海鲜酱 is the Chinese name for hoisin sauce; literal seafood-sauce is misleading."}
+{"audit": 3208, "lang": "labels", "text": "火锅底料", "ids": ["hotpot-seasoning"]}
+{"audit": 3209, "lang": "labels", "text": "烧卖皮", "ids": ["siu-mai-wrappers"]}
+{"audit": 3210, "lang": "labels", "text": "焼酎", "ids": ["shochu"]}
+{"audit": 3211, "lang": "labels", "text": "煮干し", "ids": ["niboshi"]}
+{"audit": 3212, "lang": "labels", "text": "牛蛙肉", "ids": ["frog"], "unusual": "Bullfrog meat is a real ingredient; retained for user consideration."}
+{"audit": 3213, "lang": "labels", "text": "玉竹", "ids": ["solomon-seal"], "unusual": "Solomon-seal rhizome is an uncommon soup/herbal ingredient; retained."}
+{"audit": 3214, "lang": "labels", "text": "瓠瓜", "ids": ["bottle-gourd"]}
+{"audit": 3215, "lang": "labels", "text": "生鸡肝", "ids": ["chicken-liver"]}
+{"audit": 3216, "lang": "labels", "text": "白玉菇", "ids": ["white-beech-mushroom"]}
+{"audit": 3217, "lang": "labels", "text": "皮蛋", "ids": ["century-egg"], "unusual": "Century egg is a traditional preserved egg ingredient; retained."}
+{"audit": 3218, "lang": "labels", "text": "盐 + 鸡精 + 十三香", "ids": ["salt", "chicken-powder", "thirteen-spice"]}
+{"audit": 3219, "lang": "labels", "text": "石斛", "ids": ["dendrobium"], "unusual": "Dendrobium is an orchid ingredient; retained for user consideration."}
+{"audit": 3220, "lang": "labels", "text": "石榴粉— 可用柠檬汁替代", "ids": ["pomegranate-powder"]}
+{"audit": 3221, "lang": "labels", "text": "砂仁 10 g", "ids": ["amomum"]}
+{"audit": 3222, "lang": "labels", "text": "糍粑", "ids": ["glutinous-rice-cake"]}
+{"audit": 3223, "lang": "labels", "text": "紫苏叶", "ids": ["perilla-leaf"]}
+{"audit": 3224, "lang": "labels", "text": "红柚果肉", "ids": ["pomelo"]}
+{"audit": 3225, "lang": "labels", "text": "红葱油", "ids": ["shallot-oil"]}
+{"audit": 3226, "lang": "labels", "text": "老干妈", "ids": ["chili-crisp"]}
+{"audit": 3227, "lang": "labels", "text": "腐乳", "ids": ["fermented-tofu"]}
+{"audit": 3228, "lang": "labels", "text": "花椒油", "ids": ["sichuan-pepper-oil"]}
+{"audit": 3229, "lang": "labels", "text": "茭白", "ids": ["water-bamboo"]}
+{"audit": 3230, "lang": "labels", "text": "草鱼", "ids": ["grass-carp"]}
+{"audit": 3231, "lang": "labels", "text": "荜拨 5 g", "ids": ["long-pepper"]}
+{"audit": 3232, "lang": "labels", "text": "萝卜干", "ids": ["dried-radish"]}
+{"audit": 3233, "lang": "labels", "text": "蕗の薹", "ids": ["butterbur"]}
+{"audit": 3234, "lang": "labels", "text": "蕨根粉", "ids": ["bracken-starch"], "unusual": "Bracken starch is an uncommon traditional starch; retained."}
+{"audit": 3235, "lang": "labels", "text": "虫草花", "ids": ["cordyceps-flowers"], "unusual": "Cordyceps flowers names the cultivated fungus ingredient; retained."}
+{"audit": 3236, "lang": "labels", "text": "蛏子", "ids": ["razor-clams"]}
+{"audit": 3237, "lang": "labels", "text": "蟹味菇", "ids": ["beech-mushroom"]}
+{"audit": 3238, "lang": "labels", "text": "西洋参", "ids": ["american-ginseng"], "unusual": "American ginseng is an uncommon herbal soup ingredient; retained."}
+{"audit": 3239, "lang": "labels", "text": "豌豆淀粉", "ids": ["pea-starch"]}
+{"audit": 3240, "lang": "labels", "text": "赤唐辛子", "ids": ["dried-chiles"], "reason": "赤唐辛子 says red chile without explicitly stating fresh or dried; current dried-chile mapping is plausible in Japanese recipes but needs source context to resolve."}
+{"audit": 3241, "lang": "labels", "text": "赤紫蘇", "ids": ["perilla-leaf"]}
+{"audit": 3242, "lang": "labels", "text": "酸笋", "ids": ["sour-bamboo-shoots"]}
+{"audit": 3243, "lang": "labels", "text": "酸豆角", "ids": ["pickled-green-beans"]}
+{"audit": 3244, "lang": "labels", "text": "醪糟", "ids": ["sweet-fermented-rice"]}
+{"audit": 3245, "lang": "labels", "text": "银耳", "ids": ["white-fungus"]}
+{"audit": 3246, "lang": "labels", "text": "雪碧", "ids": ["lemon-lime-soda"], "reason": "雪碧 names Sprite, a lemon-lime soda; the specific existing ingredient fits."}
+{"audit": 3247, "lang": "labels", "text": "青パパイヤ", "ids": ["green-papaya"]}
+{"audit": 3248, "lang": "labels", "text": "食用盐、鸡精、五香粉、胡椒粉", "ids": ["salt", "chicken-powder", "five-spice", "black-pepper"]}
+{"audit": 3249, "lang": "labels", "text": "饺子", "ids": ["dumplings"]}
+{"audit": 3250, "lang": "labels", "text": "饼干", "ids": ["cookie"]}
+{"audit": 3251, "lang": "labels", "text": "馒头", "ids": ["steamed-bun"]}
+{"audit": 3252, "lang": "labels", "text": "魔芋粉", "ids": ["konjac-flour"]}
+{"audit": 3253, "lang": "labels", "text": "鲜鸭血", "ids": ["duck-blood"], "unusual": "Fresh duck blood is a real culinary ingredient; retained for user consideration."}
+{"audit": 3254, "lang": "labels", "text": "鳊鱼", "ids": ["bream"]}
+{"audit": 3255, "lang": "labels", "text": "鸡", "ids": ["chicken"]}
+{"audit": 3256, "lang": "labels", "text": "鸡全翅", "ids": ["chicken-wings"]}
+{"audit": 3257, "lang": "labels", "text": "鸡蛋 **", "ids": ["egg"]}
+{"audit": 3258, "lang": "labels", "text": "麦冬", "ids": ["ophiopogon-root"], "unusual": "Ophiopogon root is an uncommon herbal ingredient; retained."}
+{"audit": 3259, "lang": "labels", "text": "麦芽粉 12.5 g", "ids": ["malt-powder"]}
+{"audit": 3260, "lang": "labels", "text": "黄油或玉米油 **", "ids": ["butter"]}
+{"audit": 3261, "lang": "labels", "text": "黄花", "ids": ["daylily-buds"]}
+{"audit": 3262, "lang": "labels", "text": "黑胡椒粒", "ids": ["black-pepper"]}
+{"audit": 3263, "lang": "labels", "text": "黑虎虾 or 明虾、", "ids": ["tiger-prawn"]}
+{"audit": 3264, "lang": "labels", "text": "黑鳕鱼", "ids": ["black-cod"]}
+{"audit": 3265, "lang": "labels", "text": "黒蜜", "ids": ["kuromitsu"]}
+{"audit": 3266, "lang": "labels", "text": "黔式腊肠", "ids": ["chinese-sausage"]}
+{"audit": 3267, "lang": "nl", "text": "(1 eetlepel maizena)", "ids": ["cornstarch"]}
+{"audit": 3268, "lang": "nl", "text": "(San) Francisco tarwebiscuit: 8 à 9 koekjes", "ids": ["wheat-cracker"]}
+{"audit": 3269, "lang": "nl", "text": "1 blikje zalm (± 200g)", "ids": ["canned-salmon"]}
+{"audit": 3270, "lang": "nl", "text": "1 eetl. kipkruiden", "ids": ["chicken-seasoning"]}
+{"audit": 3271, "lang": "nl", "text": "1 eetlepel goulashkruiden", "ids": ["goulash-seasoning"]}
+{"audit": 3272, "lang": "nl", "text": "1 eetlepel honing of gembersiroop", "ids": ["honey"]}
+{"audit": 3273, "lang": "nl", "text": "1 el shoarmakruiden", "ids": ["shawarma-spice"]}
+{"audit": 3274, "lang": "nl", "text": "1 kg wortelen (winterwortelen)", "ids": ["carrot"]}
+{"audit": 3275, "lang": "nl", "text": "1 knakworstje", "ids": ["frankfurter-sausage"]}
+{"audit": 3276, "lang": "nl", "text": "1 madam Jeanette peper (niet meekoken; later toevoegen). Als men niet tegen \"heet eten\" kan, kan de peper achterwege blijven.", "ids": ["madame-jeanette-pepper"]}
+{"audit": 3277, "lang": "nl", "text": "1 net (dik vel vet dat om de ingewanden van een koe zit, bij de slager vragen)", "ids": ["caul-fat"]}
+{"audit": 3278, "lang": "nl", "text": "1 pak petit beurre-biscuit", "ids": ["petit-beurre-biscuits"], "reason": "The text explicitly names petit beurre biscuits; use the existing specific ingredient."}
+{"audit": 3279, "lang": "nl", "text": "1 pakje vega kruimgehakt", "ids": ["vegetarian-mince"]}
+{"audit": 3280, "lang": "nl", "text": "1 plak peperkoek (ontbijtkoek)", "ids": ["spice-cake"]}
+{"audit": 3281, "lang": "nl", "text": "1 pot Surinaamse marinade voor rode kip", "ids": ["surinamese-marinade"]}
+{"audit": 3282, "lang": "nl", "text": "1 pot Surinaamse nasi, roerbakmix", "ids": ["nasi-goreng-mix"]}
+{"audit": 3283, "lang": "nl", "text": "1 theel. gemberpoeder of djahé", "ids": ["ground-ginger"]}
+{"audit": 3284, "lang": "nl", "text": "1 tros witte druiven", "ids": ["white-grapes"]}
+{"audit": 3285, "lang": "nl", "text": "1 zak kroepoek", "ids": ["prawn-crackers"]}
+{"audit": 3286, "lang": "nl", "text": "1 à 2 eetlepels runderjus", "ids": ["beef-gravy"]}
+{"audit": 3287, "lang": "nl", "text": "1/2 dl slagroom", "ids": ["cream"]}
+{"audit": 3288, "lang": "nl", "text": "1/2 eetl. Hindoestaanse masala (bijv. H. Nandan Masala)", "ids": ["masala-mix"]}
+{"audit": 3289, "lang": "nl", "text": "1/2 flesje bessensap", "ids": ["berry-juice"]}
+{"audit": 3290, "lang": "nl", "text": "1/2 theelepel speculaaskruiden", "ids": ["speculoos-spice"]}
+{"audit": 3291, "lang": "nl", "text": "1/2 tl. chana/chole masala", "ids": ["chana-masala"]}
+{"audit": 3292, "lang": "nl", "text": "10-15 zilveruitjes uit het zuur", "ids": ["pickled-onions"]}
+{"audit": 3293, "lang": "nl", "text": "1000 g geleisuiker", "ids": ["preserving-sugar"]}
+{"audit": 3294, "lang": "nl", "text": "1000g geleisuiker", "ids": ["preserving-sugar"]}
+{"audit": 3295, "lang": "nl", "text": "12 cocktailtomaatjes", "ids": ["cherry-tomato"]}
+{"audit": 3296, "lang": "nl", "text": "180 g zilvervliesrijst", "ids": ["brown-rice"], "reason": "Zilvervliesrijst is brown rice, not parboiled rice."}
+{"audit": 3297, "lang": "nl", "text": "180 gram gekruide vleesreepjes", "ids": ["meat-strips"]}
+{"audit": 3298, "lang": "nl", "text": "1½ eetlepel speculaaskruiden", "ids": ["speculoos-spice"]}
+{"audit": 3299, "lang": "nl", "text": "2 cm verse gember", "ids": ["ginger"]}
+{"audit": 3300, "lang": "nl", "text": "2 dunne preien", "ids": ["leek"], "reason": "Preien means ordinary leeks; canonical leek exists, so use it rather than duplicate true-leek."}
+{"audit": 3301, "lang": "nl", "text": "2 dunne preien, of paksoi, in stukjes", "ids": ["leek"], "reason": "Preien is the first alternative, ordinary leek; paksoi is only the alternative."}
+{"audit": 3302, "lang": "nl", "text": "2 dunne preitjes", "ids": ["leek"], "reason": "Preitjes means small ordinary leeks; canonical leek exists."}
+{"audit": 3303, "lang": "nl", "text": "2 eetlepels bamikruiden", "ids": ["bami-seasoning"], "reason": "Bamikruiden is bami seasoning; use the existing same-concept seasoning id rather than the duplicate spice-mix id."}
+{"audit": 3304, "lang": "nl", "text": "2 eetlepels gembersiroop", "ids": ["ginger-syrup"]}
+{"audit": 3305, "lang": "nl", "text": "2 eetlepels goulashkruiden", "ids": ["goulash-seasoning"], "reason": "Goulashkruiden is goulash seasoning; use the existing same-concept seasoning id."}
+{"audit": 3306, "lang": "nl", "text": "2 L water", "ids": ["water"]}
+{"audit": 3307, "lang": "nl", "text": "2 of 3 eetlepels appelstroop of bietenstroop", "ids": ["apple-syrup"]}
+{"audit": 3308, "lang": "nl", "text": "2 pakjes stroganofsaus (Maggi of Knorr),", "ids": ["stroganoff-sauce"]}
+{"audit": 3309, "lang": "nl", "text": "2 shitaken", "ids": ["fresh-shiitake"]}
+{"audit": 3310, "lang": "nl", "text": "2,5 dl vanillevla", "ids": ["vanilla-custard"]}
+{"audit": 3311, "lang": "nl", "text": "20-25 gram verse gist", "ids": ["yeast"]}
+{"audit": 3312, "lang": "nl", "text": "200 g (of naar keuze meer) grof gesneden uien", "ids": ["onion"]}
+{"audit": 3313, "lang": "nl", "text": "200 g advocaat", "ids": ["advocaat"]}
+{"audit": 3314, "lang": "nl", "text": "200 g veldsla", "ids": ["lamb-lettuce"]}
+{"audit": 3315, "lang": "nl", "text": "25 gram vislijm", "ids": ["isinglass"], "unusual": "Isinglass is a fish-derived fining/gelling ingredient; retained."}
+{"audit": 3316, "lang": "nl", "text": "250 g oesterzwammen (of andere paddenstoelen)", "ids": ["oyster-mushrooms"]}
+{"audit": 3317, "lang": "nl", "text": "250 gram bloem", "ids": ["flour"]}
+{"audit": 3318, "lang": "nl", "text": "3 droge worsten", "ids": ["dry-sausage"]}
+{"audit": 3319, "lang": "nl", "text": "3 eetlepels bamikruiden", "ids": ["bami-seasoning"]}
+{"audit": 3320, "lang": "nl", "text": "3 eetlepels nasikruiden", "ids": ["nasi-goreng-mix"]}
+{"audit": 3321, "lang": "nl", "text": "300 g koolraap", "ids": ["rutabaga"], "reason": "Dutch koolraap is rutabaga/swede, not kohlrabi (koolrabi)."}
+{"audit": 3322, "lang": "nl", "text": "4 eetlepels zuivelspread", "ids": ["dairy-spread"]}
+{"audit": 3323, "lang": "nl", "text": "4 sjalotten, fijngesneden", "ids": ["shallot"]}
+{"audit": 3324, "lang": "nl", "text": "4 zalmmoten", "ids": ["salmon"], "reason": "Zalmmoten are salmon steaks/pieces, not salmon roe."}
+{"audit": 3325, "lang": "nl", "text": "40 gram vet (vleesjus of boter)", "ids": ["meat-fat"]}
+{"audit": 3326, "lang": "nl", "text": "400 gram verse, ongepelde kapucijners", "ids": ["marrowfat-peas"]}
+{"audit": 3327, "lang": "nl", "text": "5 flinke scheppen tapenade van olijven of tomaten", "ids": ["tapenade"]}
+{"audit": 3328, "lang": "nl", "text": "5 frikandellen (uit de diepvries)", "ids": ["frikandel"]}
+{"audit": 3329, "lang": "nl", "text": "50 g Roquefort", "ids": ["roquefort"]}
+{"audit": 3330, "lang": "nl", "text": "50 g rozijnen (facultatief)", "ids": ["raisins"]}
+{"audit": 3331, "lang": "nl", "text": "50 g winterwortel", "ids": ["carrot"]}
+{"audit": 3332, "lang": "nl", "text": "50 gram geraspte kaas (oud)", "ids": ["aged-cheese"]}
+{"audit": 3333, "lang": "nl", "text": "50 gram geraspte oude kaas", "ids": ["aged-cheese"]}
+{"audit": 3334, "lang": "nl", "text": "50 gram ontpitte groene olijven, grof gehakt", "ids": ["green-olive"]}
+{"audit": 3335, "lang": "nl", "text": "500 gram kousenband", "ids": ["yardlong-beans"], "reason": "Kousenband is yardlong beans, not a grain; the specific existing bean id fits."}
+{"audit": 3336, "lang": "nl", "text": "60 g boter", "ids": ["butter"]}
+{"audit": 3337, "lang": "nl", "text": "750 g snijbonen", "ids": ["runner-beans"]}
+{"audit": 3338, "lang": "nl", "text": "750 ml Kruidenbouillon", "ids": ["herb-stock"]}
+{"audit": 3339, "lang": "nl", "text": "8-12 rotivellen", "ids": ["roti"]}
+{"audit": 3340, "lang": "nl", "text": "Bacon of ontbijtspek", "ids": ["bacon"]}
+{"audit": 3341, "lang": "nl", "text": "Balletjes falafel", "ids": ["falafel"]}
+{"audit": 3342, "lang": "nl", "text": "Beschuiten, 1 per persoon/gast", "ids": ["rusks"]}
+{"audit": 3343, "lang": "nl", "text": "bouillonpoeder of bouillonblokje", "ids": ["stock-powder"]}
+{"audit": 3344, "lang": "nl", "text": "ca. 300 g snijbonen", "ids": ["runner-beans"]}
+{"audit": 3345, "lang": "nl", "text": "chinese paddenstoelen", "ids": ["mushroom"], "reason": "Chinese mushrooms are not explicitly dried; use the general mushroom id rather than infer drying."}
+{"audit": 3346, "lang": "nl", "text": "citroengras, limoenblad en/of citroensap (limoensap mag ook)", "ids": ["lemongrass", "lime-leaf", "lemon"]}
+{"audit": 3347, "lang": "nl", "text": "Een beetje curry (ookwel curryketchup genoemd)", "ids": ["curry-ketchup"]}
+{"audit": 3348, "lang": "nl", "text": "Een blik zalm", "ids": ["canned-salmon"]}
+{"audit": 3349, "lang": "nl", "text": "Een dag oud roggebrood", "ids": ["rye-bread"]}
+{"audit": 3350, "lang": "nl", "text": "een grote hoeveelheid versgeplukte (jonge) druivenbladeren; gepekelde druivenbladeren zijn ook te koop in speciaalzaken, maar verse zijn uiteraard veel lekkerder", "ids": ["vine-leaves"]}
+{"audit": 3351, "lang": "nl", "text": "een paar blaadjes verse salie, citroenmelisse en hysop", "ids": ["sage", "lemon-balm", "hyssop"]}
+{"audit": 3352, "lang": "nl", "text": "Enkele oosterse sausjes: sojasaus, sambal oelek, zoetzure saus, kerriesaus, ...", "ids": ["soy-sauce", "sambal-oelek", "sweet-sour-sauce", "curry-sauce"]}
+{"audit": 3353, "lang": "nl", "text": "Eventueel mastiek.", "ids": ["mastic"]}
+{"audit": 3354, "lang": "nl", "text": "Eventueel ook: brandneteltoppen en zwartebessenblad", "ids": ["nettle", "blackcurrant-leaf"]}
+{"audit": 3355, "lang": "nl", "text": "garrafo (speciaal soort witte bonen uit Valencia)", "ids": ["garrafo-beans"]}
+{"audit": 3356, "lang": "nl", "text": "gehakt", "ids": ["ground-meat"], "reason": "Gehakt means minced meat without specifying beef."}
+{"audit": 3357, "lang": "nl", "text": "gehakte peterselie", "ids": ["parsley"]}
+{"audit": 3358, "lang": "nl", "text": "handvol zevenbladblaadjes van de top", "ids": ["ground-elder"]}
+{"audit": 3359, "lang": "nl", "text": "koekkruimels", "ids": ["cookie-crumbs"]}
+{"audit": 3360, "lang": "nl", "text": "maggi", "ids": ["seasoning-sauce"]}
+{"audit": 3361, "lang": "nl", "text": "maggikruid, peterselie, salie, marjolein", "ids": ["lovage", "parsley", "sage", "marjoram"]}
+{"audit": 3362, "lang": "nl", "text": "Maïstortilla's of kant-en-klare tacoschelpen", "ids": ["corn-tortilla"], "reason": "Maistortillas are the first option; tacoshells are an alternative, not a second required ingredient."}
+{"audit": 3363, "lang": "nl", "text": "mornaysaus", "ids": ["mornay-sauce"]}
+{"audit": 3364, "lang": "nl", "text": "Muisjes", "ids": ["aniseed-sprinkles"]}
+{"audit": 3365, "lang": "nl", "text": "Nasikruiden", "ids": ["nasi-goreng-mix"], "reason": "Nasikruiden is the same seasoning concept already represented by nasi-goreng-mix."}
+{"audit": 3366, "lang": "nl", "text": "nasikruiden of bamikruiden; laat ze even weken in een kopje met een beetje water", "ids": ["nasi-goreng-mix"], "reason": "Nasikruiden is the first alternative; use the same existing nasi-goreng-mix id as other nasi-seasoning lines."}
+{"audit": 3367, "lang": "nl", "text": "notenkaas", "ids": ["nut-cheese"], "reason": "Dutch notenkaas commonly means dairy cheese with nuts; the existing nut-cheese name/category is ambiguous about dairy cheese versus a nut-based substitute."}
+{"audit": 3368, "lang": "nl", "text": "ongeveer 200 gr knoflooksalami (in plakken van c.a. 5mm dik)", "ids": ["garlic-salami"]}
+{"audit": 3369, "lang": "nl", "text": "parelsuiker", "ids": ["pearl-sugar"]}
+{"audit": 3370, "lang": "nl", "text": "peper, Maggi en laurierpoeder naar smaak", "ids": ["black-pepper", "seasoning-sauce", "bay-leaf"]}
+{"audit": 3371, "lang": "nl", "text": "poeder van rood sandelhout", "ids": ["red-sandalwood"], "unusual": "Red sandalwood powder is an uncommon food coloring/spice ingredient; retained."}
+{"audit": 3372, "lang": "nl", "text": "Rauwe jonge artisjokken (in het seizoen)", "ids": ["artichoke"]}
+{"audit": 3373, "lang": "nl", "text": "Sausje, zoals remouladesaus, knoflooksaus, mosterdsaus of kerriesaus", "ids": ["remoulade"]}
+{"audit": 3374, "lang": "nl", "text": "schaaldieren", "ids": ["shellfish"]}
+{"audit": 3375, "lang": "nl", "text": "snijbonen", "ids": ["runner-beans"]}
+{"audit": 3376, "lang": "nl", "text": "Tandoorikruiden: 1 pakje", "ids": ["tandoori-spice"]}
+{"audit": 3377, "lang": "nl", "text": "Tomatenbasis (tomato frito)", "ids": ["tomato-sauce"]}
+{"audit": 3378, "lang": "nl", "text": "Vleeskruiden", "ids": ["meat-seasoning"]}
+{"audit": 3379, "lang": "nl", "text": "Vleeswaren", "ids": ["cold-cuts"]}
+{"audit": 3380, "lang": "nl", "text": "Zilveruitjes", "ids": ["pearl-onion"]}
+{"audit": 3381, "lang": "nl", "text": "± 100 g gekookte bonen + 50 g vlees; of 200 g gekookte bonen + 50 g kaas", "ids": ["beans", "meat"], "reason": "Keep only the first beans-and-meat option; cheese belongs to the alternative, and the beans are not specified as mixed."}
+{"audit": 3382, "lang": "nl", "text": "± 2 eetlepels tomatenketchup", "ids": ["ketchup"]}
+{"audit": 3383, "lang": "nl", "text": "½ chilipeper, een mespunt chilivlokken of 1 theelepel chilipoeder of sambal", "ids": ["green-chile"]}
+{"audit": 3384, "lang": "nl", "text": "½ kop water", "ids": ["water"]}
+{"audit": 3385, "lang": "nl", "text": "½ theelepel oregano", "ids": ["oregano"]}
+{"audit": 3386, "lang": "nl", "text": "één stukje knolselderij (soms vervangen door stengels bleekselderij) van in totaal ongeveer 200 g", "ids": ["celeriac"]}
+{"audit": 3387, "lang": "pl", "text": "+ olej do głębokiego smażenia", "ids": ["vegetable-oil"]}
+{"audit": 3388, "lang": "pl", "text": "1 kg dziczyzny (np. płetwonogich, wielorybów, reniferów lub ptaków morskich), pokrojonej w kostkę", "ids": ["game"], "unusual": "The line explicitly gives pinniped, whale, reindeer and seabird meat as examples of game; retained and flagged for user decision."}
+{"audit": 3389, "lang": "pl", "text": "1 kieliszek spirytusu", "ids": ["spirits"]}
+{"audit": 3390, "lang": "pl", "text": "1 kostka margaryny", "ids": ["margarine"]}
+{"audit": 3391, "lang": "pl", "text": "1 kostka przyprawy do zup", "ids": ["stock-cube"], "reason": "A kostka of soup seasoning is a stock/bouillon cube, for which a specific id exists."}
+{"audit": 3392, "lang": "pl", "text": "1 opakowanie przyprawy do zupy brokułowej", "ids": ["soup-seasoning"]}
+{"audit": 3393, "lang": "pl", "text": "1 opakowanie suszonych grzybów", "ids": ["dried-mushroom"]}
+{"audit": 3394, "lang": "pl", "text": "1 suszony grzybek", "ids": ["dried-mushroom"]}
+{"audit": 3395, "lang": "pl", "text": "1 szklanka sosu beszamelowego z proszku", "ids": ["bechamel-sauce"]}
+{"audit": 3396, "lang": "pl", "text": "1 słoiczek konfitury wiśniowej", "ids": ["cherry-jam"]}
+{"audit": 3397, "lang": "pl", "text": "1 torebka cukru waniliowego", "ids": ["vanilla-sugar"]}
+{"audit": 3398, "lang": "pl", "text": "1 łyżeczka przyprawy gyros na surowego kurczaka", "ids": ["gyros-spice"]}
+{"audit": 3399, "lang": "pl", "text": "1 łyżka przyprawy do zup", "ids": ["soup-seasoning"]}

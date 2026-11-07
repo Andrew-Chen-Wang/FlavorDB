@@ -1,0 +1,17 @@
+{
+  "rareThreshold": 3,
+  "rareIngredientCount": 2179,
+  "rareStringCount": 3188,
+  "sampledBatches": 144,
+  "sampleStrategy": "five spread positions per original batch, plus every string mapped to an ingredient used in at most three distinct language/text mappings",
+  "rows": 3884,
+  "batches": 20,
+  "reviewDecisions": 6931,
+  "distinctReviewedStrings": 6812,
+  "fullRereadBatches": ["en-003", "fr-001", "pl-004", "ja-000"],
+  "targetedAdditionalStrings": 647,
+  "correctedStrings": 766,
+  "contextOverrides": 6,
+  "newIngredientEntries": 23,
+  "vocabularyMetadataCorrections": 17
+}

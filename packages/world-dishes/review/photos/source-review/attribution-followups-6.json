@@ -1,0 +1,80 @@
+[
+  {
+    "candidate": 3199,
+    "decision": "credit",
+    "author": "Frinck51 (Frinck)",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?oldid=1182334758",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Frinck",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Tarte_au_riz.jpg",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "reason": "Current file description explicitly states 'Photographer: Frinck51 = new global account Frinck', linking User:Frinck; this establishes photographer attribution independently of the assumed-author infobox. The page explicitly self-licenses under migrated CC BY-SA 3.0 and other alternatives. Read revision 1182334758, 2026-03-16T22:06:19Z."
+  },
+  {
+    "candidate": 3234,
+    "decision": "credit",
+    "author": "Chixoy",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?oldid=1132550350",
+    "creditAuthorUrl": "https://ca.wikipedia.org/wiki/Usuari:Chixoy",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Orelletes.JPG",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "reason": "Description explicitly credits 'Per / By: Chixoy' with Catalan Wikipedia user link and states 'I took the photograph'. GFDL-self migration=relicense and full metadata identify CC BY-SA 3.0. Missing machine-readable Artist does not erase this direct photographer statement. Read revision 1132550350, 2025-12-17T08:06:09Z."
+  },
+  {
+    "candidate": 3252,
+    "decision": "credit",
+    "author": "© Raimond Spekking / CC BY-SA 4.0 (via Wikimedia Commons)",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?oldid=840008873",
+    "creditAuthorUrl": "https://www.wikidata.org/wiki/Q108103612",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Buttercreme_in_einer_Glassch%C3%BCssel-8493.jpg",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "reason": "Preserve the exact rendered Attribution field, including copyright symbol, license and 'via Wikimedia Commons'. Current wikitext identifies own work, User:Raymond/author and User:Raymond/attribution4; Artist metadata explicitly names Raimond Spekking and links Q108103612. CC BY-SA 4.0 is explicit. Read revision 840008873, 2024-01-09T18:08:36Z."
+  },
+  {
+    "candidate": 3302,
+    "decision": "credit",
+    "author": "Yoninah",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?oldid=1168786859",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Yoninah",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Homemade_hamantaschen.jpg",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "reason": "Description explicitly says 'Photo taken by Yoninah' and links the author; this is direct authorship, not an inference from an uploader. Self license includes CC BY 2.5, matching full license metadata. Read revision 1168786859, 2026-02-19T17:47:02Z."
+  },
+  {
+    "candidate": 3329,
+    "decision": "credit",
+    "author": "Zivax",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?oldid=1035308093",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Zivax",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Salade_juive_(PIC00025).jpg",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "reason": "Description directly states 'Photo personnelle zivax - Licence GNU FDL - Salade Juive'; the original upload log repeats the personal-photo claim and links User:Zivax. Authorship rests on that explicit personal-photograph statement, not transfer/uploader identity. GFDL-self migration=relicense and metadata establish CC BY-SA 3.0. Read revision 1035308093, 2025-05-25T00:36:19Z."
+  },
+  {
+    "candidate": 3340,
+    "decision": "credit",
+    "author": "Stu Spivack",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?oldid=1053306005",
+    "creditAuthorUrl": "https://www.flickr.com/photos/stuart_spivack/",
+    "creditSourceUrl": "https://www.flickr.com/photos/stuart_spivack/162555449/",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "reason": "Description explicitly says 'Photo by Stu Spivack' and links original Flickr photo. Commons has cc-by-sa-2.0 and a FlickreviewR reviewed-pass for stu_spivack at that exact photo URL dated 28 December 2006. Missing machine-readable author/source fields are resolved by this direct description and license review. Read revision 1053306005, 2025-07-06T22:39:44Z."
+  },
+  {
+    "candidate": 3349,
+    "decision": "credit",
+    "author": "Denis Battail",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?oldid=1029067127",
+    "creditSourceUrl": "http://www.webpommes.com/",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+    "reason": "Information Author explicitly names Denis Battail, and Permission states 'Denis Battail allows use of his picture provided he is given credit for his work.' Use that name rather than any uploader. Page explicitly supplies cc-by-sa-2.0-fr; metadata repeats author, permission and France-jurisdiction license URL. Preserve supplied original source webpommes.com. Read revision 1029067127, 2025-05-07T04:15:01Z."
+  },
+  {
+    "candidate": 3347,
+    "decision": "credit",
+    "author": "Leo Jindrak",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?oldid=1257137153",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Foto.Linzertorte.JPG",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "reason": "Information Author explicitly distinguishes 'Leo Jindrak (Originally uploaded by: Uwe berger)'. Description additionally states Leo Jindrak supplied the free image under GNU FDL. Credit Leo Jindrak, not Uwe berger. GFDL migration=relicense and full metadata establish CC BY-SA 3.0. No personal author URL is supplied, so none is invented. Read revision 1257137153, 2026-08-05T21:18:11Z."
+  }
+]

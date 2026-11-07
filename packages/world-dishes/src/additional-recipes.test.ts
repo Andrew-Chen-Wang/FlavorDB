@@ -12,7 +12,7 @@ test("same-page recipe alternatives survive loading and repeated application", (
   const dishes = new Map(loadWorldDishes().map((d) => [d.id, d]))
   for (const [id, recipes] of Object.entries(additions)) {
     const dish = dishes.get(id)!
-    expect(dish, id).toBeDefined()
+    expect(dish).toBeDefined()
     expect(appendAdditionalRecipes(dish, additions)).toEqual(dish)
     for (const recipe of recipes) {
       expect(recipe.ingredients.length).toBeGreaterThan(0)

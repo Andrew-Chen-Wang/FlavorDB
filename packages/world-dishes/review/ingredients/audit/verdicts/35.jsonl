@@ -1,0 +1,200 @@
+{"audit": 6131, "lang": "pl", "text": "75 dag białego sera", "ids": ["quark"]}
+{"audit": 6132, "lang": "pl", "text": "75 dag cielęciny", "ids": ["veal"]}
+{"audit": 6133, "lang": "pl", "text": "75 dag filetów z karpia", "ids": ["carp"]}
+{"audit": 6134, "lang": "pl", "text": "75 dag mąki", "ids": ["flour"]}
+{"audit": 6135, "lang": "pl", "text": "75 dag ryby", "ids": ["fish"]}
+{"audit": 6136, "lang": "pl", "text": "75 dag udźca z indyka", "ids": ["turkey"]}
+{"audit": 6137, "lang": "pl", "text": "75 dag ziemniaków", "ids": ["potato"]}
+{"audit": 6138, "lang": "pl", "text": "75 g drożdży", "ids": ["yeast"]}
+{"audit": 6139, "lang": "pl", "text": "750 g cukru", "ids": ["sugar"]}
+{"audit": 6140, "lang": "pl", "text": "750 g gotowanego lub pieczonego mięsa", "ids": ["cooked-meat"]}
+{"audit": 6141, "lang": "pl", "text": "750 g ryb (leszcza, szczupaka)", "ids": ["common-bream"], "reason": "The first named fish option is leszcz (common bream); do not require both bream and pike."}
+{"audit": 6142, "lang": "pl", "text": "750 g ryby", "ids": ["fish"]}
+{"audit": 6143, "lang": "pl", "text": "750 g sznycli z indyka", "ids": ["turkey"]}
+{"audit": 6144, "lang": "pl", "text": "750 g ziemniaków", "ids": ["potato"]}
+{"audit": 6145, "lang": "pl", "text": "750 ml bulionu", "ids": ["stock"]}
+{"audit": 6146, "lang": "pl", "text": "750 ml gęstego sosu pomidorowego (str. 117)", "ids": ["tomato-sauce"]}
+{"audit": 6147, "lang": "pl", "text": "750 ml mleka", "ids": ["milk"]}
+{"audit": 6148, "lang": "pl", "text": "750 ml słodkiego czerwonego wina", "ids": ["red-wine"]}
+{"audit": 6149, "lang": "pl", "text": "8 bakłażanów", "ids": ["eggplant"]}
+{"audit": 6150, "lang": "pl", "text": "8 cienkich plastrów wędzonego boczku", "ids": ["bacon"]}
+{"audit": 6151, "lang": "pl", "text": "8 dag cebuli", "ids": ["onion"]}
+{"audit": 6152, "lang": "pl", "text": "8 dag cukru", "ids": ["sugar"]}
+{"audit": 6153, "lang": "pl", "text": "8 dag margaryny", "ids": ["margarine"]}
+{"audit": 6154, "lang": "pl", "text": "8 dag mąki ziemniaczanej", "ids": ["potato-starch"]}
+{"audit": 6155, "lang": "pl", "text": "8 dag rodzynek", "ids": ["raisins"]}
+{"audit": 6156, "lang": "pl", "text": "8 dag smalcu", "ids": ["lard"]}
+{"audit": 6157, "lang": "pl", "text": "8 dag smalcu lub oleju", "ids": ["lard"]}
+{"audit": 6158, "lang": "pl", "text": "8 dojrzałych awokado", "ids": ["avocado"]}
+{"audit": 6159, "lang": "pl", "text": "8 dojrzałych kiwi", "ids": ["kiwi"]}
+{"audit": 6160, "lang": "pl", "text": "8 dojrzałych pomidorów", "ids": ["tomato"]}
+{"audit": 6161, "lang": "pl", "text": "8 dojrzałych, jędrnych pomidorów", "ids": ["tomato"]}
+{"audit": 6162, "lang": "pl", "text": "8 drewnianych lub metalowych patyczków do szaszłyków", "ids": []}
+{"audit": 6163, "lang": "pl", "text": "8 dużych liści sałaty", "ids": ["lettuce"]}
+{"audit": 6164, "lang": "pl", "text": "8 dużych zmiksowanych ząbków czosnku", "ids": ["garlic"]}
+{"audit": 6165, "lang": "pl", "text": "8 dużych, dojrzałych pomidorów (ok.1 kg)", "ids": ["tomato"]}
+{"audit": 6166, "lang": "pl", "text": "8 gałązek pietruszki", "ids": ["parsley"]}
+{"audit": 6167, "lang": "pl", "text": "8 gałązek świeżego lub 1/4 łyżeczki suszonego tymianku", "ids": ["thyme"]}
+{"audit": 6168, "lang": "pl", "text": "8 gruszek", "ids": ["pear"]}
+{"audit": 6169, "lang": "pl", "text": "8 jaj", "ids": ["egg"]}
+{"audit": 6170, "lang": "pl", "text": "8 jajek", "ids": ["egg"]}
+{"audit": 6171, "lang": "pl", "text": "8 jajek przepiórczych", "ids": ["quail-egg"]}
+{"audit": 6172, "lang": "pl", "text": "8 kiełbasek", "ids": ["sausage"], "reason": "Kielbaski names sausages without specifying pork; use the existing generic sausage id."}
+{"audit": 6173, "lang": "pl", "text": "8 kotletów z polędwicy lub schabu", "ids": ["pork-tenderloin"], "reason": "First alternative is tenderloin, paired with pork loin as the alternative; use the existing pork-tenderloin cut id."}
+{"audit": 6174, "lang": "pl", "text": "8 kromek bagietki", "ids": ["baguette"]}
+{"audit": 6175, "lang": "pl", "text": "8 litrów mąki", "ids": ["flour"]}
+{"audit": 6176, "lang": "pl", "text": "8 liści kapusty włoskiej", "ids": ["savoy-cabbage"], "reason": "Kapusta wloska means Savoy cabbage, which has its own existing id."}
+{"audit": 6177, "lang": "pl", "text": "8 parówek", "ids": ["frankfurter"]}
+{"audit": 6178, "lang": "pl", "text": "8 plasterków obranego ze skóry ogórka", "ids": ["cucumber"]}
+{"audit": 6179, "lang": "pl", "text": "8 plastrów szynki", "ids": ["ham"]}
+{"audit": 6180, "lang": "pl", "text": "8 płatów (arkuszy) ciasta fyllo", "ids": ["phyllo-dough"]}
+{"audit": 6181, "lang": "pl", "text": "8 spodów karczochów (z puszki lub słoika)", "ids": ["artichoke"]}
+{"audit": 6182, "lang": "pl", "text": "8 szklanek mąki orkiszowej lub 5 szklanek pełnoziarnistej mąki pszennej + 3 szklanki pełnoziarnistej mąki żytniej razowej", "ids": ["spelt-flour"]}
+{"audit": 6183, "lang": "pl", "text": "8 ziaren ziela angielskiego", "ids": ["allspice"]}
+{"audit": 6184, "lang": "pl", "text": "8 ziemniaków", "ids": ["potato"]}
+{"audit": 6185, "lang": "pl", "text": "8 ząbków czosnku", "ids": ["garlic"]}
+{"audit": 6186, "lang": "pl", "text": "8 łyżeczek żelatyny instant", "ids": ["gelatin"]}
+{"audit": 6187, "lang": "pl", "text": "8 łyżek cukru", "ids": ["sugar"]}
+{"audit": 6188, "lang": "pl", "text": "8 łyżek mąki", "ids": ["flour"]}
+{"audit": 6189, "lang": "pl", "text": "8 łyżek octu winnego białego", "ids": ["wine-vinegar"]}
+{"audit": 6190, "lang": "pl", "text": "8 łyżek oleju z kiełków kukurydzy", "ids": ["corn-oil"], "reason": "Olej z kielkow kukurydzy is corn germ oil; use the existing specific corn-oil id."}
+{"audit": 6191, "lang": "pl", "text": "8 łyżek oliwy", "ids": ["olive-oil"]}
+{"audit": 6192, "lang": "pl", "text": "8 łyżek oliwy lub oleju", "ids": ["olive-oil"]}
+{"audit": 6193, "lang": "pl", "text": "8 łyżek oliwy z oliwek", "ids": ["olive-oil"]}
+{"audit": 6194, "lang": "pl", "text": "8 łyżek posiekanej natki pietruszki", "ids": ["parsley"]}
+{"audit": 6195, "lang": "pl", "text": "8 łyżek sosu sojowego", "ids": ["soy-sauce"]}
+{"audit": 6196, "lang": "pl", "text": "8 średniej długości liści sałaty", "ids": ["lettuce"]}
+{"audit": 6197, "lang": "pl", "text": "8 świeżych moreli", "ids": ["apricot"]}
+{"audit": 6198, "lang": "pl", "text": "8-10 ziemniaków", "ids": ["potato"]}
+{"audit": 6199, "lang": "pl", "text": "80 dag filetu z indyka", "ids": ["turkey"]}
+{"audit": 6200, "lang": "pl", "text": "80 dag filetów z dowolnej ryby", "ids": ["fish"]}
+{"audit": 6201, "lang": "pl", "text": "80 dag filetów z dowolnej ryby (świeżej lub mrożonej)", "ids": ["fish"]}
+{"audit": 6202, "lang": "pl", "text": "80 dag filetów z dowolnej ryby morskiej", "ids": ["fish"]}
+{"audit": 6203, "lang": "pl", "text": "80 dag kapusty kiszonej", "ids": ["sauerkraut"]}
+{"audit": 6204, "lang": "pl", "text": "80 dag kaszanki", "ids": ["blood-sausage"]}
+{"audit": 6205, "lang": "pl", "text": "80 dag mięsa wieprzowego", "ids": ["pork"]}
+{"audit": 6206, "lang": "pl", "text": "80 dag młodych buraczków", "ids": ["beetroot"]}
+{"audit": 6207, "lang": "pl", "text": "80 dag wołowego mięsa mielonego", "ids": ["ground-beef"]}
+{"audit": 6208, "lang": "pl", "text": "80 dag wołowiny bez kości", "ids": ["beef"]}
+{"audit": 6209, "lang": "pl", "text": "80 dag ziemniaków", "ids": ["potato"]}
+{"audit": 6210, "lang": "pl", "text": "80 dag łososia", "ids": ["salmon"]}
+{"audit": 6211, "lang": "pl", "text": "80 g (1/3 szklanki) cukru pudru", "ids": ["powdered-sugar"]}
+{"audit": 6212, "lang": "pl", "text": "80 g cebuli", "ids": ["onion"]}
+{"audit": 6213, "lang": "pl", "text": "80 g cukru", "ids": ["sugar"]}
+{"audit": 6214, "lang": "pl", "text": "80 g cukru kryształu", "ids": ["sugar"]}
+{"audit": 6215, "lang": "pl", "text": "80 g cukru pudru", "ids": ["powdered-sugar"]}
+{"audit": 6216, "lang": "pl", "text": "80 g cukru pudru + 25 ml wrzątku (na lukier)", "ids": ["powdered-sugar", "water"]}
+{"audit": 6217, "lang": "pl", "text": "80 g filetu z łososia", "ids": ["salmon"]}
+{"audit": 6218, "lang": "pl", "text": "80 g gorzkiej czekolady", "ids": ["dark-chocolate"], "reason": "Gorzka czekolada explicitly means dark chocolate, which has a specific id."}
+{"audit": 6219, "lang": "pl", "text": "80 g masła", "ids": ["butter"]}
+{"audit": 6220, "lang": "pl", "text": "80 g migdałów", "ids": ["almonds"]}
+{"audit": 6221, "lang": "pl", "text": "80 g sera feta", "ids": ["feta"]}
+{"audit": 6222, "lang": "pl", "text": "80 g sera parmezan", "ids": ["parmesan"]}
+{"audit": 6223, "lang": "pl", "text": "80 ml oleju", "ids": ["vegetable-oil"]}
+{"audit": 6224, "lang": "pl", "text": "800 g bakłażanów", "ids": ["eggplant"]}
+{"audit": 6225, "lang": "pl", "text": "800 g filetów z mintaja", "ids": ["pollock"]}
+{"audit": 6226, "lang": "pl", "text": "800 g mielonej wołowiny lub mieszanki wołowo‑wieprzowej", "ids": ["ground-beef"]}
+{"audit": 6227, "lang": "pl", "text": "800 g mrożonego zielonego groszku", "ids": ["peas"]}
+{"audit": 6228, "lang": "pl", "text": "800 g surowego fileta z łososia", "ids": ["salmon"]}
+{"audit": 6229, "lang": "pl", "text": "800 g świeżej cukinii", "ids": ["zucchini"]}
+{"audit": 6230, "lang": "pl", "text": "800 ml bulionu", "ids": ["stock"]}
+{"audit": 6231, "lang": "pl", "text": "800 ml bulionu warzywnego", "ids": ["vegetable-stock"]}
+{"audit": 6232, "lang": "pl", "text": "800 ml bulionu warzywnego instant", "ids": ["vegetable-stock"]}
+{"audit": 6233, "lang": "pl", "text": "85 g smarties lub jakichkolwiek kolorowych draży dekoracyjnych (1 przykład), albo lukier + barwniki naturalne (2 przykład)", "ids": ["candy"], "reason": "First option is Smarties or similar colored dragee candies, not small candy sprinkles; use existing generic candy."}
+{"audit": 6234, "lang": "pl", "text": "850 dag masy makowej", "ids": ["poppy-seeds"], "reason": "Masa makowa is prepared sweet poppy-seed filling, not plain seeds; no existing filling id was found. Retained closest id pending parent addition of poppy-seed-filling."}
+{"audit": 6235, "lang": "pl", "text": "8g czosnku", "ids": ["garlic"]}
+{"audit": 6236, "lang": "pl", "text": "8g soli", "ids": ["salt"]}
+{"audit": 6237, "lang": "pl", "text": "8–10 grzybów świeżych lub suszonych", "ids": ["mushroom"]}
+{"audit": 6238, "lang": "pl", "text": "8–10 patyczków do szaszłyków (drewniane wcześniej namoczyć w wodzie min. 20 min)", "ids": []}
+{"audit": 6239, "lang": "pl", "text": "9 małych ogórków", "ids": ["cucumber"]}
+{"audit": 6240, "lang": "pl", "text": "ananas z puszki", "ids": ["pineapple"]}
+{"audit": 6241, "lang": "pl", "text": "aromat pomarańczowy", "ids": ["orange-extract"]}
+{"audit": 6242, "lang": "pl", "text": "aromat waniliowy", "ids": ["vanilla"]}
+{"audit": 6243, "lang": "pl", "text": "awokado", "ids": ["avocado"]}
+{"audit": 6244, "lang": "pl", "text": "bakalie", "ids": ["dried-fruit", "nuts"], "reason": "Bakalie is the baking mixture/category of dried fruit and nuts; mapping only dried fruit omits the nuts."}
+{"audit": 6245, "lang": "pl", "text": "bakłażan", "ids": ["eggplant"]}
+{"audit": 6246, "lang": "pl", "text": "balsamiczny ocet winny", "ids": ["balsamic-vinegar"]}
+{"audit": 6247, "lang": "pl", "text": "banan", "ids": ["banana"]}
+{"audit": 6248, "lang": "pl", "text": "Baranina", "ids": ["lamb"]}
+{"audit": 6249, "lang": "pl", "text": "bazylia", "ids": ["basil"]}
+{"audit": 6250, "lang": "pl", "text": "bazylia 2-3 g", "ids": ["basil"]}
+{"audit": 6251, "lang": "pl", "text": "bazylia świeża lub suszona", "ids": ["basil"]}
+{"audit": 6252, "lang": "pl", "text": "biała część 1 pora", "ids": ["leek"]}
+{"audit": 6253, "lang": "pl", "text": "białko", "ids": ["egg"]}
+{"audit": 6254, "lang": "pl", "text": "białko z 1 jajka", "ids": ["egg"]}
+{"audit": 6255, "lang": "pl", "text": "białko z 4 jajek", "ids": ["egg"]}
+{"audit": 6256, "lang": "pl", "text": "biały chleb (może być również bagietka)", "ids": ["white-bread"], "reason": "First ingredient is white bread; baguette is only an allowed alternative."}
+{"audit": 6257, "lang": "pl", "text": "biały pieprz", "ids": ["white-pepper"]}
+{"audit": 6258, "lang": "pl", "text": "Biały pieprz", "ids": ["white-pepper"]}
+{"audit": 6259, "lang": "pl", "text": "biały pieprz mielony do smaku", "ids": ["white-pepper"]}
+{"audit": 6260, "lang": "pl", "text": "biały pieprz świeżo mielony do smaku", "ids": ["white-pepper"]}
+{"audit": 6261, "lang": "pl", "text": "biały ser", "ids": ["quark"]}
+{"audit": 6262, "lang": "pl", "text": "bita śmietana", "ids": ["whipped-cream"], "reason": "Bita smietana means whipped cream and has a specific existing id."}
+{"audit": 6263, "lang": "pl", "text": "bita śmietana (dodatkowo)", "ids": ["whipped-cream"], "reason": "The additional ingredient is actual whipped cream, not unwhipped cream."}
+{"audit": 6264, "lang": "pl", "text": "bita śmietana (w sprayu lub z torebki)", "ids": ["whipped-cream"], "reason": "Whipped cream in a spray can is the first option; use existing whipped-cream id."}
+{"audit": 6265, "lang": "pl", "text": "blat biszkoptowy", "ids": ["sponge-cake"]}
+{"audit": 6266, "lang": "pl", "text": "boczek", "ids": ["bacon"]}
+{"audit": 6267, "lang": "pl", "text": "boczek surowy, najlepiej nie wędzony", "ids": ["pork-belly"], "reason": "The text explicitly requests raw preferably unsmoked pork belly, not cured bacon."}
+{"audit": 6268, "lang": "pl", "text": "boczek wędzony lub inna wędzonka 100 gram", "ids": ["bacon"]}
+{"audit": 6269, "lang": "pl", "text": "brokuł", "ids": ["broccoli"]}
+{"audit": 6270, "lang": "pl", "text": "brokuły", "ids": ["broccoli"]}
+{"audit": 6271, "lang": "pl", "text": "brzoskwinie z puszki", "ids": ["peach"]}
+{"audit": 6272, "lang": "pl", "text": "brązowy cukier", "ids": ["brown-sugar"]}
+{"audit": 6273, "lang": "pl", "text": "brązowy cukier,", "ids": ["brown-sugar"]}
+{"audit": 6274, "lang": "pl", "text": "budyń waniliowy", "ids": ["vanilla-pudding"]}
+{"audit": 6275, "lang": "pl", "text": "budyń śmietankowy", "ids": ["cream-pudding"]}
+{"audit": 6276, "lang": "pl", "text": "bulion", "ids": ["stock"]}
+{"audit": 6277, "lang": "pl", "text": "bulion - 500 ml", "ids": ["stock"]}
+{"audit": 6278, "lang": "pl", "text": "burak", "ids": ["beetroot"]}
+{"audit": 6279, "lang": "pl", "text": "bułka", "ids": ["bread-bun"]}
+{"audit": 6280, "lang": "pl", "text": "bułka kajzerka", "ids": ["bread-bun"]}
+{"audit": 6281, "lang": "pl", "text": "bułka pszenna bez skórki lub pół szklanki bułki tartej (opcjonalnie)", "ids": ["bread-bun"]}
+{"audit": 6282, "lang": "pl", "text": "bułka tarta", "ids": ["breadcrumbs"]}
+{"audit": 6283, "lang": "pl", "text": "bułka tarta 80 g lub panierka do drobiu, np. Kamis", "ids": ["breadcrumbs"]}
+{"audit": 6284, "lang": "pl", "text": "bułka tarta do posypania formy", "ids": ["breadcrumbs"]}
+{"audit": 6285, "lang": "pl", "text": "bułka, najlepiej bagietka", "ids": ["baguette"], "reason": "The text specifically prefers a baguette for the bread component; its existing id is more precise."}
+{"audit": 6286, "lang": "pl", "text": "cebula", "ids": ["onion"]}
+{"audit": 6287, "lang": "pl", "text": "cebula (opcjonalnie)", "ids": ["onion"]}
+{"audit": 6288, "lang": "pl", "text": "cebula 1-2 sztuki", "ids": ["onion"]}
+{"audit": 6289, "lang": "pl", "text": "cebula 8 dag", "ids": ["onion"]}
+{"audit": 6290, "lang": "pl", "text": "cebula biała", "ids": ["onion"]}
+{"audit": 6291, "lang": "pl", "text": "cebula dymka", "ids": ["green-onion"]}
+{"audit": 6292, "lang": "pl", "text": "cebula oraz", "ids": ["onion"]}
+{"audit": 6293, "lang": "pl", "text": "cebula prażona (dodatkowo)", "ids": ["fried-onions"], "reason": "Cebula prazona is the prepared fried/crispy onion topping; use the existing fried-onions id."}
+{"audit": 6294, "lang": "pl", "text": "cebula z wbitym goździkiem", "ids": ["onion", "clove"]}
+{"audit": 6295, "lang": "pl", "text": "cebula średniej wielkości", "ids": ["onion"]}
+{"audit": 6296, "lang": "pl", "text": "cebula – 150 g", "ids": ["onion"]}
+{"audit": 6297, "lang": "pl", "text": "cebula, szczypiorek lub rzodkiewka", "ids": ["onion"]}
+{"audit": 6298, "lang": "pl", "text": "cebulka dymka", "ids": ["green-onion"]}
+{"audit": 6299, "lang": "pl", "text": "centymetr drobno posiekanego imbiru", "ids": ["ginger"]}
+{"audit": 6300, "lang": "pl", "text": "chili", "ids": ["green-chile"]}
+{"audit": 6301, "lang": "pl", "text": "chili sproszkowane 2-3 g", "ids": ["chili-powder"]}
+{"audit": 6302, "lang": "pl", "text": "chilii", "ids": ["green-chile"]}
+{"audit": 6303, "lang": "pl", "text": "chleb czerstwy średni: 5 kromek", "ids": ["bread"]}
+{"audit": 6304, "lang": "pl", "text": "chleb pita/tortilla", "ids": ["pita"]}
+{"audit": 6305, "lang": "pl", "text": "chrabąszcze majowe", "ids": ["cockchafer"], "unusual": "May cockchafer beetles are a real named ingredient; retained unchanged for the user to decide on."}
+{"audit": 6306, "lang": "pl", "text": "chrupiące kawałki wędzonego boczku", "ids": ["bacon"]}
+{"audit": 6307, "lang": "pl", "text": "ciabatta", "ids": ["ciabatta"]}
+{"audit": 6308, "lang": "pl", "text": "Ciasto", "ids": ["pizza-dough"], "reason": "Checked both matching imported recipe contexts: each uses Ciasto as the pizza base ingredient, not a heading; use existing pizza-dough id."}
+{"audit": 6309, "lang": "pl", "text": "Ciasto drożdżowe", "ids": ["yeast-dough"]}
+{"audit": 6310, "lang": "pl", "text": "Ciasto drożdżowe lub Ciasto francuskie", "ids": ["yeast-dough"]}
+{"audit": 6311, "lang": "pl", "text": "ciasto francuskie", "ids": ["puff-pastry"]}
+{"audit": 6312, "lang": "pl", "text": "ciasto francuskie (własnej produkcji lub gotowe i rozmrożone)", "ids": ["puff-pastry"]}
+{"audit": 6313, "lang": "pl", "text": "ciasto maślane", "ids": ["shortcrust-pastry"]}
+{"audit": 6314, "lang": "pl", "text": "Ciasto maślane do pasztecików", "ids": ["shortcrust-pastry"]}
+{"audit": 6315, "lang": "pl", "text": "ciasto maślane lub drożdżowe", "ids": ["shortcrust-pastry"]}
+{"audit": 6316, "lang": "pl", "text": "Ciasto na pierogi", "ids": ["dumpling-dough"]}
+{"audit": 6317, "lang": "pl", "text": "cukier", "ids": ["sugar"]}
+{"audit": 6318, "lang": "pl", "text": "cukier 1 łyżeczka", "ids": ["sugar"]}
+{"audit": 6319, "lang": "pl", "text": "cukier do smaku", "ids": ["sugar"]}
+{"audit": 6320, "lang": "pl", "text": "cukier kryształ", "ids": ["sugar"]}
+{"audit": 6321, "lang": "pl", "text": "cukier kryształ do wysypania foremek", "ids": ["sugar"]}
+{"audit": 6322, "lang": "pl", "text": "cukier puder", "ids": ["powdered-sugar"]}
+{"audit": 6323, "lang": "pl", "text": "cukier puder (ok. pół szklanki)", "ids": ["powdered-sugar"]}
+{"audit": 6324, "lang": "pl", "text": "cukier puder do posypania", "ids": ["powdered-sugar"]}
+{"audit": 6325, "lang": "pl", "text": "cukier waniliowy", "ids": ["vanilla-sugar"]}
+{"audit": 6326, "lang": "pl", "text": "cukier waniliowy,", "ids": ["vanilla-sugar"]}
+{"audit": 6327, "lang": "pl", "text": "cukier żelujący (ilość wg przepisu producenta)", "ids": ["jam-sugar"]}
+{"audit": 6328, "lang": "pl", "text": "cukier, sól, pieprz", "ids": ["sugar", "salt", "black-pepper"]}
+{"audit": 6329, "lang": "pl", "text": "cukinia", "ids": ["zucchini"]}
+{"audit": 6330, "lang": "pl", "text": "curry", "ids": ["curry-powder"]}

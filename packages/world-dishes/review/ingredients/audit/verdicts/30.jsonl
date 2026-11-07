@@ -1,0 +1,100 @@
+{"audit": 5484, "lang": "hu", "text": "50 dkg tehéntúró", "ids": ["quark"]}
+{"audit": 5485, "lang": "hu", "text": "50 dkg tehéntúró,", "ids": ["quark"]}
+{"audit": 5486, "lang": "hu", "text": "50 dkg túró", "ids": ["quark"]}
+{"audit": 5487, "lang": "hu", "text": "50 dkg túró,", "ids": ["quark"]}
+{"audit": 5488, "lang": "hu", "text": "50 dkg.tehéntúró", "ids": ["quark"]}
+{"audit": 5489, "lang": "hu", "text": "50 g póréhagyma", "ids": ["leek"]}
+{"audit": 5490, "lang": "hu", "text": "50-50 dkg uborka, túró,", "ids": ["cucumber", "quark"]}
+{"audit": 5491, "lang": "hu", "text": "500 g sovány túró", "ids": ["quark"]}
+{"audit": 5492, "lang": "hu", "text": "500 g túró", "ids": ["quark"]}
+{"audit": 5493, "lang": "hu", "text": "6 dkg túró", "ids": ["quark"]}
+{"audit": 5494, "lang": "hu", "text": "60 dkg túró,", "ids": ["quark"]}
+{"audit": 5495, "lang": "hu", "text": "75 dkg tehéntúró,", "ids": ["quark"]}
+{"audit": 5496, "lang": "hu", "text": "8 dkg póréhagyma,", "ids": ["leek"]}
+{"audit": 5497, "lang": "hu", "text": "80 g Póréhagyma", "ids": ["leek"]}
+{"audit": 5498, "lang": "hu", "text": "A túrós krumplis pogácsa tésztája,", "ids": ["dough"], "reason": "The Sajtos csigapogácsa recipe calls for already prepared potato-quark pogácsa dough from another recipe; map the named dough input rather than infer a partial list of its constituents."}
+{"audit": 5499, "lang": "hu", "text": "b. töltelék: 50 dkg túró", "ids": ["quark"]}
+{"audit": 5500, "lang": "hu", "text": "egy doboz túró (25 dekás),", "ids": ["quark"]}
+{"audit": 5501, "lang": "hu", "text": "egész bors, koriander.", "ids": ["black-pepper", "coriander-seed"]}
+{"audit": 5502, "lang": "hu", "text": "esetleg apróra vágott póréhagyma", "ids": ["leek"]}
+{"audit": 5503, "lang": "hu", "text": "fehérgyökér, zeller,", "ids": ["parsley-root", "celeriac"], "reason": "In the Vadleves root-vegetable soup, fehérgyökér means parsley root and zeller denotes the celery root, not parsnip or celery stalks."}
+{"audit": 5504, "lang": "hu", "text": "fehérrépa,", "ids": ["parsley-root"], "reason": "Hungarian fehérrépa in cooking is root parsley, not pasztinák (parsnip)."}
+{"audit": 5505, "lang": "hu", "text": "fejenként 10 dkg vese, 5-10 dkg velő,", "ids": ["kidney", "brain"], "reason": "The Metzger máj recipe cooks vese-velő with liver: velő is the brains cooked with kidney, not marrow extracted from bones.", "unusual": "Brains and kidney are real traditional offal ingredients; preserved rather than removed."}
+{"audit": 5506, "lang": "hu", "text": "friss tehéntúró", "ids": ["quark"]}
+{"audit": 5507, "lang": "hu", "text": "friss tehéntúró,", "ids": ["quark"]}
+{"audit": 5508, "lang": "hu", "text": "frissen őrölt koriander", "ids": ["coriander-seed"]}
+{"audit": 5509, "lang": "hu", "text": "fél fehérrépa", "ids": ["parsley-root"], "reason": "Hungarian fehérrépa is parsley root, not parsnip."}
+{"audit": 5510, "lang": "hu", "text": "fél kg tehéntúró,", "ids": ["quark"]}
+{"audit": 5511, "lang": "hu", "text": "Fél kg túró,", "ids": ["quark"]}
+{"audit": 5512, "lang": "hu", "text": "fél póréhagyma,", "ids": ["leek"]}
+{"audit": 5513, "lang": "hu", "text": "gyömbér, koriander, kömény,", "ids": ["ginger", "coriander-seed", "caraway"], "reason": "The source names unqualified Hungarian kömény, meaning caraway; it does not specify római kömény (cumin)."}
+{"audit": 5514, "lang": "hu", "text": "késhegynyi őrölt koriander,", "ids": ["coriander-seed"]}
+{"audit": 5515, "lang": "hu", "text": "póré", "ids": ["leek"]}
+{"audit": 5516, "lang": "hu", "text": "póréhagyma,", "ids": ["leek"]}
+{"audit": 5517, "lang": "hu", "text": "sárgarépa, fehérgyökér, pasztinák,", "ids": ["carrot", "parsley-root", "parsnip"], "reason": "The line separately names fehérgyökér (parsley root) and pasztinák (parsnip); herb parsley does not represent the root."}
+{"audit": 5518, "lang": "hu", "text": "sárgarépa, pasztinák,", "ids": ["carrot", "parsnip"]}
+{"audit": 5519, "lang": "hu", "text": "sárgarépa, zeller, fehérrépa,", "ids": ["carrot", "celeriac", "parsley-root"], "reason": "The Vadas gomba sauce cooks sliced root vegetables: Hungarian fehérrépa is parsley root and zeller here is celeriac."}
+{"audit": 5520, "lang": "hu", "text": "Tehéntúró", "ids": ["quark"]}
+{"audit": 5521, "lang": "hu", "text": "Tészta: 30-30 dkg túró, és vaj", "ids": ["quark", "butter"]}
+{"audit": 5522, "lang": "hu", "text": "töltelék: 40 dkg túró", "ids": ["quark"]}
+{"audit": 5523, "lang": "hu", "text": "túró", "ids": ["quark"]}
+{"audit": 5524, "lang": "hu", "text": "túró,", "ids": ["quark"]}
+{"audit": 5525, "lang": "hu", "text": "¼ kg tehéntúró", "ids": ["quark"]}
+{"audit": 5526, "lang": "hu", "text": "ízlés szerint pirospaprika, őrölt szerecsendió, őrölt köménymag, babérlevél, borsikafű, koriandermag házi Vegeta-pótló", "ids": ["paprika", "nutmeg", "caraway", "bay-leaf", "savory", "coriander-seed", "vegetable-seasoning"]}
+{"audit": 5527, "lang": "hu", "text": "őrölt gyömbér, őrölt koriander, só, őrölt fekete bors ízlés szerint,", "ids": ["ginger", "coriander-seed", "salt", "black-pepper"]}
+{"audit": 5528, "lang": "hu", "text": "őrölt koriander,", "ids": ["coriander-seed"]}
+{"audit": 5529, "lang": "it", "text": "1 cucchiaio di coriandolo in polvere", "ids": ["coriander-seed"]}
+{"audit": 5530, "lang": "it", "text": "1 cucchiaio di coriandolo macinato.", "ids": ["coriander-seed"]}
+{"audit": 5531, "lang": "it", "text": "1 porro", "ids": ["leek"]}
+{"audit": 5532, "lang": "it", "text": "1 porro (come sopra)", "ids": ["leek"]}
+{"audit": 5533, "lang": "it", "text": "1 tsp coriandolo in polvere", "ids": ["coriander-seed"]}
+{"audit": 5534, "lang": "it", "text": "1/2 porro", "ids": ["leek"]}
+{"audit": 5535, "lang": "it", "text": "3 porri piccoli come un pollice (1 solo se è grosso, ma sarebbe meglio piccoli)", "ids": ["leek"]}
+{"audit": 5536, "lang": "it", "text": "4-5 porri di media grandezza", "ids": ["leek"]}
+{"audit": 5537, "lang": "it", "text": "5-6 fette di porro", "ids": ["leek"]}
+{"audit": 5538, "lang": "it", "text": "600 g di porri", "ids": ["leek"]}
+{"audit": 5539, "lang": "it", "text": "900 g di formaggio tipo quark", "ids": ["quark"]}
+{"audit": 5540, "lang": "ja", "text": "コリアンダー: 小さじ1", "ids": ["coriander-seed"]}
+{"audit": 5541, "lang": "ja", "text": "コリアンダーパウダー: 小さじ1", "ids": ["coriander-seed"]}
+{"audit": 5542, "lang": "ja", "text": "コリアンダーパウダー: 小さじ2", "ids": ["coriander-seed"]}
+{"audit": 5543, "lang": "ja", "text": "コリアンダーパウダー：小さじ2", "ids": ["coriander-seed"]}
+{"audit": 5544, "lang": "ja", "text": "パースニップ: 2本", "ids": ["parsnip"]}
+{"audit": 5545, "lang": "ja", "text": "リーキ（ポロネギ） 2本", "ids": ["leek"]}
+{"audit": 5546, "lang": "labels", "text": "(magere) kwark", "ids": ["quark"]}
+{"audit": 5547, "lang": "labels", "text": "ajo porro", "ids": ["leek"]}
+{"audit": 5548, "lang": "labels", "text": "cookbook:leek", "ids": ["leek"]}
+{"audit": 5549, "lang": "labels", "text": "coriander seed", "ids": ["coriander-seed"]}
+{"audit": 5550, "lang": "labels", "text": "Farmer Cheese", "ids": ["farmers-cheese"], "reason": "A specific existing farmers-cheese id represents the literal Farmer Cheese label; quark unnecessarily collapses the named ingredient."}
+{"audit": 5551, "lang": "labels", "text": "fresh cheese", "ids": ["fresh-white-cheese"], "reason": "Fresh cheese is a broad unaged white cheese ingredient across enchiladas, ocopa, cheesecake and other source dishes, not necessarily quark."}
+{"audit": 5552, "lang": "labels", "text": "fromage blanc", "ids": ["fromage-frais"], "reason": "Fromage blanc is a fresh soft acid-set cheese, represented by the existing fromage-frais ingredient rather than forcing the quark subtype."}
+{"audit": 5553, "lang": "labels", "text": "ketoembar", "ids": ["coriander-seed"]}
+{"audit": 5554, "lang": "labels", "text": "kidney", "ids": ["kidney"]}
+{"audit": 5555, "lang": "labels", "text": "kidney as food", "ids": ["kidney"]}
+{"audit": 5556, "lang": "labels", "text": "korianderzaad", "ids": ["coriander-seed"]}
+{"audit": 5557, "lang": "labels", "text": "kwark", "ids": ["quark"]}
+{"audit": 5558, "lang": "labels", "text": "leek", "ids": ["leek"]}
+{"audit": 5559, "lang": "labels", "text": "Mató", "ids": ["fresh-white-cheese"], "reason": "Catalan Mató is a fresh white cheese used in Mel i mató; it is not quark. No dedicated mato id exists."}
+{"audit": 5560, "lang": "labels", "text": "Olomouc curd cheese", "ids": ["olomouc-curd-cheese"], "reason": "PROPOSE NEW dairy id olomouc-curd-cheese, name Olomouc curd cheese: the Czech cheese is ripened and pungent, unlike fresh quark, and no matching existing id was found.", "unusual": "Named pungent ripened Czech cheese; requires the proposed distinct dairy ingredient rather than a quark synonym."}
+{"audit": 5561, "lang": "labels", "text": "Parsnip", "ids": ["parsnip"]}
+{"audit": 5562, "lang": "labels", "text": "pastinaak", "ids": ["parsnip"]}
+{"audit": 5563, "lang": "labels", "text": "pastinaken", "ids": ["parsnip"]}
+{"audit": 5564, "lang": "labels", "text": "poireau", "ids": ["leek"]}
+{"audit": 5565, "lang": "labels", "text": "poireaux", "ids": ["leek"]}
+{"audit": 5566, "lang": "labels", "text": "porro", "ids": ["leek"]}
+{"audit": 5567, "lang": "labels", "text": "preien", "ids": ["leek"]}
+{"audit": 5568, "lang": "labels", "text": "preitjes", "ids": ["leek"]}
+{"audit": 5569, "lang": "labels", "text": "puerro", "ids": ["leek"]}
+{"audit": 5570, "lang": "labels", "text": "puerros", "ids": ["leek"]}
+{"audit": 5571, "lang": "labels", "text": "quark", "ids": ["quark"]}
+{"audit": 5572, "lang": "labels", "text": "tvorog", "ids": ["quark"]}
+{"audit": 5573, "lang": "labels", "text": "włoszczyzna", "ids": ["carrot", "parsley-root", "celeriac", "leek"], "reason": "Polish włoszczyzna is the soup vegetable bundle including parsley root and celery root with carrot and leek; the former was omitted and celery stalk was the wrong part."}
+{"audit": 5574, "lang": "labels", "text": "コリアンダー", "ids": ["coriander-seed"], "unusual": "Context-dependent label: コリアンダー is seed spice in the köfte recipe but fresh chopped cilantro in salsa and as tandoori garnish. A single global label mapping cannot fit both; retained seed mapping pending dish-specific resolution."}
+{"audit": 5575, "lang": "labels", "text": "コリアンダーパウダー", "ids": ["coriander-seed"]}
+{"audit": 5576, "lang": "labels", "text": "パースニップ", "ids": ["parsnip"]}
+{"audit": 5577, "lang": "labels", "text": "リーキ", "ids": ["leek"]}
+{"audit": 5578, "lang": "labels", "text": "蒜苗", "ids": ["green-garlic"], "reason": "蒜苗 denotes young leafy garlic shoots in the supplied Chinese recipes, not garlic chives or a true leek; green-garlic is the existing precise ingredient."}
+{"audit": 5579, "lang": "labels", "text": "香菜粉", "ids": ["coriander-seed"]}
+{"audit": 5580, "lang": "nl", "text": "1 1/2 theelepel koriander", "ids": ["coriander-seed"]}
+{"audit": 5581, "lang": "nl", "text": "1 bak magere kwark", "ids": ["quark"]}
+{"audit": 5582, "lang": "nl", "text": "1 dikke prei (alleen witte gedeelte gebruiken)", "ids": ["leek"]}
+{"audit": 5583, "lang": "nl", "text": "1 dunne prei", "ids": ["leek"]}

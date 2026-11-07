@@ -1,0 +1,200 @@
+{"audit": 0, "lang": "de", "text": "(1 Mandel)", "ids": ["almonds"]}
+{"audit": 1, "lang": "de", "text": "0,75 kg Gemüse nach Bedarf", "ids": ["vegetables"]}
+{"audit": 2, "lang": "de", "text": "1 1/2 Fläschchen Backaroma (Bittermandel)", "ids": ["bitter-almond-extract"]}
+{"audit": 3, "lang": "de", "text": "1 EL Ajvar, scharf", "ids": ["ajvar"]}
+{"audit": 4, "lang": "de", "text": "1 EL trockener Sherry", "ids": ["sherry"]}
+{"audit": 5, "lang": "de", "text": "1 Glas Maiskölbchen (netto ca. 200 g)", "ids": ["baby-corn"]}
+{"audit": 6, "lang": "de", "text": "1 Hokkaido-Kürbis (diese Kürbisart muss nicht geschält werden und ist geschmackvoller, für die Zubereitung geeignet sind als Ersatz auch Butter-Kürbisse)", "ids": ["hokkaido-squash"]}
+{"audit": 7, "lang": "de", "text": "1 Hokkaidokürbis (geschält und entkernt)", "ids": ["hokkaido-squash"]}
+{"audit": 8, "lang": "de", "text": "1 Holzschachtel Vacherin Mont-d’Or (400 g)", "ids": ["vacherin-mont-dor"]}
+{"audit": 9, "lang": "de", "text": "1 kg gemischte rote Früchte", "ids": ["red-berries"]}
+{"audit": 10, "lang": "de", "text": "1 kleine Dose Birnen", "ids": ["pears"]}
+{"audit": 11, "lang": "de", "text": "1 L Vanillesauce", "ids": ["vanilla-custard"]}
+{"audit": 12, "lang": "de", "text": "1 Liter Fleischbrühe", "ids": ["stock"]}
+{"audit": 13, "lang": "de", "text": "1 Messerspitze Sucralose zur Verstärkung der Süßkraft", "ids": ["sucralose"]}
+{"audit": 14, "lang": "de", "text": "1 Msp. Piripiri (oder Cayennepfeffer)", "ids": ["piri-piri"]}
+{"audit": 15, "lang": "de", "text": "1 Packung Butterkekse", "ids": ["butter-biscuits"]}
+{"audit": 16, "lang": "de", "text": "1 Packung Götterspeise (Himbeere)", "ids": ["gelatin-dessert"]}
+{"audit": 17, "lang": "de", "text": "1 Packung Knödelmehl (400 g)", "ids": ["dumpling-flour"]}
+{"audit": 18, "lang": "de", "text": "1 Packung Knödelteig", "ids": ["dumpling-dough"]}
+{"audit": 19, "lang": "de", "text": "1 Pck. Würstchen (z.B. Wienerwürstchen 200 g)", "ids": ["wiener-sausage"]}
+{"audit": 20, "lang": "de", "text": "1 Ring Fleischwurst", "ids": ["fleischwurst"]}
+{"audit": 21, "lang": "de", "text": "1 Rolle Harzer Käse, Handkäse o. ä. (200 g)", "ids": ["harzer-cheese"]}
+{"audit": 22, "lang": "de", "text": "1 Tasse Limo", "ids": ["lemonade"]}
+{"audit": 23, "lang": "de", "text": "1 Teeglas Paprikamark", "ids": ["paprika-paste"]}
+{"audit": 24, "lang": "de", "text": "1 Teelöffel Crème de Menthe-Likör", "ids": ["creme-de-menthe"]}
+{"audit": 25, "lang": "de", "text": "1 Teelöffel Gemüsebouillonpulver", "ids": ["vegetable-stock"], "reason": "Gemusebouillonpulver is vegetable bouillon powder; retain the specified vegetable stock rather than generic stock cubes."}
+{"audit": 26, "lang": "de", "text": "1 Teelöffel Orangenextrakt", "ids": ["orange-extract"]}
+{"audit": 27, "lang": "de", "text": "1 TL Johannisbrotkernmehl", "ids": ["locust-bean-gum"], "reason": "Johannisbrotkernmehl is locust bean gum from carob seeds, not ordinary carob flour."}
+{"audit": 28, "lang": "de", "text": "1 Tüte Fix für Geschnetzeltes nach Züricher Art", "ids": ["sauce-mix"]}
+{"audit": 29, "lang": "de", "text": "1-2 EL Johannisbeermarmelade oder Cumberlandsoße", "ids": ["currant-jam"]}
+{"audit": 30, "lang": "de", "text": "1-2 Gläser Weißwein (herb und nicht zu kräftig)", "ids": ["white-wine"]}
+{"audit": 31, "lang": "de", "text": "1-2 Karotten", "ids": ["carrot"]}
+{"audit": 32, "lang": "de", "text": "1/2 Ring Fleischwurst", "ids": ["fleischwurst"]}
+{"audit": 33, "lang": "de", "text": "1/4 - 1/2 Schüssel Mangosaft", "ids": ["mango-juice"]}
+{"audit": 34, "lang": "de", "text": "10 cl Rum", "ids": ["rum"]}
+{"audit": 35, "lang": "de", "text": "100 g Hartweizenmehl", "ids": ["durum-flour"]}
+{"audit": 36, "lang": "de", "text": "100 g Makronen, zerbröselt", "ids": ["macaroons"]}
+{"audit": 37, "lang": "de", "text": "100 g Pumpernickel, gerieben", "ids": ["pumpernickel"]}
+{"audit": 38, "lang": "de", "text": "1000 g Frittierfett", "ids": ["frying-fat"]}
+{"audit": 39, "lang": "de", "text": "1000 g Kürbis, Hokkaido", "ids": ["hokkaido-squash"]}
+{"audit": 40, "lang": "de", "text": "1000 Gramm Dattelzucker / Dattelpulver(z.B. Koro)", "ids": ["date-sugar"]}
+{"audit": 41, "lang": "de", "text": "1000 Gramm Zarte Dinkelflocken(z.B. Penny-Eigenmarke Granola)", "ids": ["spelt-flakes"]}
+{"audit": 42, "lang": "de", "text": "100g Feldsalat", "ids": ["lambs-lettuce"]}
+{"audit": 43, "lang": "de", "text": "12 Wachteleier", "ids": ["quail-eggs"]}
+{"audit": 44, "lang": "de", "text": "12-15 Ringelblumenköpfe je nach Größe", "ids": ["calendula-petals"]}
+{"audit": 45, "lang": "de", "text": "120 gr. Zucker", "ids": ["sugar"]}
+{"audit": 46, "lang": "de", "text": "125 g Soja-Schnitzel", "ids": ["soy-schnitzel"]}
+{"audit": 47, "lang": "de", "text": "150 g roter Johannisbeergelee", "ids": ["redcurrant-jelly"], "reason": "Roter Johannisbeergelee explicitly means redcurrant jelly, for which a precise existing id is available."}
+{"audit": 48, "lang": "de", "text": "150 ml Orangenlimonade mit Kohlensäure", "ids": ["orange-soda"]}
+{"audit": 49, "lang": "de", "text": "180ml Sojadrink", "ids": ["soy-milk"]}
+{"audit": 50, "lang": "de", "text": "1kg Gemüse z.B:", "ids": ["vegetables"]}
+{"audit": 51, "lang": "de", "text": "2 EL Arrak", "ids": ["arrack"]}
+{"audit": 52, "lang": "de", "text": "2 EL Palmkernfett oder Butterschmalz", "ids": ["palm-kernel-fat"]}
+{"audit": 53, "lang": "de", "text": "2 EL rote Pfefferbeeren, gemörsert oder einfach zerdrückt", "ids": ["pink-peppercorns"]}
+{"audit": 54, "lang": "de", "text": "2 EL Vollkornmehl", "ids": ["wholemeal-flour"]}
+{"audit": 55, "lang": "de", "text": "2 g Pfeffer", "ids": ["black-pepper"]}
+{"audit": 56, "lang": "de", "text": "2 gekochte, kalte Kartoffeln (mittlere Größe)", "ids": ["potato"]}
+{"audit": 57, "lang": "de", "text": "2-3 Packungen Schlagsahne (je 200 g)", "ids": ["cream"]}
+{"audit": 58, "lang": "de", "text": "225 g Gelbe Linsen", "ids": ["yellow-lentils"]}
+{"audit": 59, "lang": "de", "text": "250 - 500 ml Milch (je nach gewünschter Konsistenz)", "ids": ["milk"]}
+{"audit": 60, "lang": "de", "text": "250 g Krakauer Wurst oder Andouille sausage oder Kielbasa oder andere Rauchwurst, in Scheiben", "ids": ["smoked-sausage"], "reason": "Krakauer is the first sausage option; no Krakauer id exists, so use its smoked-sausage category rather than selecting the later Andouille alternative."}
+{"audit": 61, "lang": "de", "text": "250 g reifer Handkäse", "ids": ["handkase"]}
+{"audit": 62, "lang": "de", "text": "250 g Waldbeeren", "ids": ["wild-berries"]}
+{"audit": 63, "lang": "de", "text": "250g Flunder, alle filetiert", "ids": ["flounder"]}
+{"audit": 64, "lang": "de", "text": "3 EL Ajvar (mild oder scharf)", "ids": ["ajvar"]}
+{"audit": 65, "lang": "de", "text": "3 EL Tomatenmark", "ids": ["tomato-paste"]}
+{"audit": 66, "lang": "de", "text": "3 Päckchen rote Grütze (glatt)", "ids": ["red-berry-jelly"]}
+{"audit": 67, "lang": "de", "text": "3-5 Suppenknochen (Sandknochen und Markknochen gemischt)", "ids": ["soup-bones"]}
+{"audit": 68, "lang": "de", "text": "300 ml Holunderbeersaft", "ids": ["elderberry-juice"]}
+{"audit": 69, "lang": "de", "text": "340 g (1 Dose) Corned Beef", "ids": ["corned-beef"]}
+{"audit": 70, "lang": "de", "text": "350 g geräucherter Lachs", "ids": ["smoked-salmon"], "reason": "Geraucherter Lachs specifies smoked salmon; the existing smoked-salmon id is more precise than plain salmon."}
+{"audit": 71, "lang": "de", "text": "400 g Perlzucker", "ids": ["pearl-sugar"]}
+{"audit": 72, "lang": "de", "text": "400 g Zanderfilet", "ids": ["zander"]}
+{"audit": 73, "lang": "de", "text": "450 Gramm Filo-Teig", "ids": ["phyllo-dough"], "reason": "Filo-Teig and phyllo dough are the same pastry; use the established shared phyllo-dough id rather than split the spelling across two ids."}
+{"audit": 74, "lang": "de", "text": "5 Esslöffel Invertzuckersirup", "ids": ["invert-sugar"]}
+{"audit": 75, "lang": "de", "text": "500 g gemischtes Hackfleisch", "ids": ["ground-meat"]}
+{"audit": 76, "lang": "de", "text": "500 g Tortelloni (gibt es mit Fleisch- oder Gemüsefüllung)", "ids": ["tortelloni"]}
+{"audit": 77, "lang": "de", "text": "500 gr gemischte gefrorene Früchte - Brombeere-Johannisbeere-Erdbeer-Himbeere-Kirsche", "ids": ["blackberry", "currants", "strawberry", "raspberry", "cherry"], "reason": "This explicitly lists the five fruits in the frozen mixture, so preserve all named components rather than a generic mixed-berries id."}
+{"audit": 78, "lang": "de", "text": "60 g Zucker (keinen Rohrzucker!)", "ids": ["sugar"]}
+{"audit": 79, "lang": "de", "text": "75 g Kokosraspel", "ids": ["coconut-flakes"]}
+{"audit": 80, "lang": "de", "text": "8-10 Maultaschen", "ids": ["maultaschen"]}
+{"audit": 81, "lang": "de", "text": "800 Gramm Tortelloni mit beliebiger Füllung (möglichst frisch)", "ids": ["tortelloni"]}
+{"audit": 82, "lang": "de", "text": "Aji Soße (optional)", "ids": ["aji-sauce"]}
+{"audit": 83, "lang": "de", "text": "Ananas (ungezuckert)", "ids": ["pineapple"]}
+{"audit": 84, "lang": "de", "text": "Apfel", "ids": ["apple"]}
+{"audit": 85, "lang": "de", "text": "Blattgold (optional)", "ids": ["gold-leaf"], "unusual": "Edible gold leaf is an unusual decorative ingredient; preserved for user decision."}
+{"audit": 86, "lang": "de", "text": "Eiersatz für 1-2 Eier (oder, für nicht-Veganer, 1-2 Eier)", "ids": ["egg-substitute"]}
+{"audit": 87, "lang": "de", "text": "ein Kanten dunkles Brot", "ids": ["dark-bread"]}
+{"audit": 88, "lang": "de", "text": "ein Kanten Mischbrot", "ids": ["mixed-bread"]}
+{"audit": 89, "lang": "de", "text": "eine Knoblauchzehe", "ids": ["garlic"]}
+{"audit": 90, "lang": "de", "text": "einige Tropfen Zuckerkulör", "ids": ["caramel-colouring"]}
+{"audit": 91, "lang": "de", "text": "eventuell Ascorbinsäure (Vitamin C aus der Apotheke oder dem Chemikalienfachhandel), um den Farbton heller zu halten und die Haltbarkeit zu verlängern", "ids": ["ascorbic-acid"]}
+{"audit": 92, "lang": "de", "text": "Fertigmix für Serviettenknödel", "ids": ["bread-dumpling-mix"]}
+{"audit": 93, "lang": "de", "text": "Früchte (am besten Beeren, dürfen säuerlich sein)", "ids": ["mixed-fruit"], "reason": "The ingredient is fruit generally, with berries only recommended; mixed-fruit avoids requiring the preferred narrower berry choice."}
+{"audit": 94, "lang": "de", "text": "für ungarischen Gulasch: ähnlich wie Zigeunergulasch, nur frische Paprikaschoten, und ohne säuerliche Einlagen, und ohne Essig, evt. Crème fraîche, und falls erhältlich, Paprikapaste (mild) aus der Tube.", "ids": [], "reason": "This is a variation instruction for Hungarian goulash, including exclusions and optional additions, rather than an ingredient line."}
+{"audit": 95, "lang": "de", "text": "gehackte Vanilleglasur", "ids": ["vanilla-icing"]}
+{"audit": 96, "lang": "de", "text": "gemahlene Gewürze", "ids": ["spice-mix"]}
+{"audit": 97, "lang": "de", "text": "Gewürzmischung (ca. 50 Portionen): jeweils 1 Teelöffel Beifuß, Lorbeer, Rosmarin", "ids": ["mugwort", "bay-leaf", "rosemary"]}
+{"audit": 98, "lang": "de", "text": "je 200 g Hutzeln, getrocknete Zwetschgen und getrocknete Feigen", "ids": ["dried-pears", "prunes", "dried-figs"], "reason": "Getrocknete Zwetschgen are dried plums/prunes, not fresh plum; retain the other two explicitly named dried fruits."}
+{"audit": 99, "lang": "de", "text": "Knoblauch (optional)", "ids": ["garlic"]}
+{"audit": 100, "lang": "de", "text": "mediterrane Kräuter frisch oder getrocknet", "ids": ["mediterranean-herbs"]}
+{"audit": 101, "lang": "de", "text": "Pizzagewürz", "ids": ["pizza-seasoning"]}
+{"audit": 102, "lang": "de", "text": "Poree", "ids": ["leek"]}
+{"audit": 103, "lang": "de", "text": "Porrée Lauch 1-2", "ids": ["leek"]}
+{"audit": 104, "lang": "de", "text": "Pural Vegi-Cheese mit veganen Schinkenstücken", "ids": ["vegan-cheese", "vegan-ham"]}
+{"audit": 105, "lang": "de", "text": "Salz, Pfeffer", "ids": ["salt", "black-pepper"]}
+{"audit": 106, "lang": "de", "text": "Tee", "ids": ["tea"]}
+{"audit": 107, "lang": "de", "text": "Vegetarisches Gyros", "ids": ["vegetarian-gyros"]}
+{"audit": 108, "lang": "de", "text": "Viana Pizzarella oder Tofutti Creamy Smooth", "ids": ["vegan-cheese"]}
+{"audit": 109, "lang": "de", "text": "vier kräftige Scheiben aus der Kalbshaxe mit Knochen und Mark.", "ids": ["veal-shank"]}
+{"audit": 110, "lang": "de", "text": "Wiener Würstchen", "ids": ["wiener-sausage"]}
+{"audit": 111, "lang": "de", "text": "Würziger Bergkäse", "ids": ["mountain-cheese"]}
+{"audit": 112, "lang": "de", "text": "z.B. Vegane Käsesauce", "ids": ["vegan-cheese"]}
+{"audit": 113, "lang": "de", "text": "Zarte Dinkelflakes (ungesüßt, z.B. Rossmann-Eigenmarke)", "ids": ["spelt-flakes"]}
+{"audit": 114, "lang": "de", "text": "Zucker nach Geschmack (nicht unbedingt nötig da Mangosaft sehr süß)", "ids": ["sugar"]}
+{"audit": 115, "lang": "de", "text": "Zucker, Zimt, Obstkompott", "ids": ["sugar", "cinnamon", "fruit-compote"]}
+{"audit": 116, "lang": "de", "text": "Zuckercouleur (braune Lebensmittelfarbe)", "ids": ["caramel-colouring"]}
+{"audit": 117, "lang": "de", "text": "Zuckerkulör", "ids": ["caramel-colouring"]}
+{"audit": 118, "lang": "de", "text": "zwei bis vier kräftig geräucherte Mettwürstchen", "ids": ["mettwurst"]}
+{"audit": 119, "lang": "de", "text": "⅛ l Öl", "ids": ["vegetable-oil"]}
+{"audit": 120, "lang": "en", "text": "&#8531; cup (80 ml) water", "ids": ["water"]}
+{"audit": 121, "lang": "en", "text": "1 beef heart", "ids": ["beef-heart"], "unusual": "Beef heart/offal is explicitly requested; preserved for user review of unusual ingredients."}
+{"audit": 122, "lang": "en", "text": "1 big chunk of good English cheese (e.g. Cheshire, Stilton, Lancashire), or a selection of 2–3 types of cheese if available", "ids": ["cheese"], "reason": "The ingredient requested is English cheese generally; Cheshire, Stilton and Lancashire are examples, so do not require Cheshire specifically."}
+{"audit": 123, "lang": "en", "text": "1 big doorstop of granary bread", "ids": ["granary-bread"]}
+{"audit": 124, "lang": "en", "text": "1 bottle of moscatel wine", "ids": ["moscatel-wine"]}
+{"audit": 125, "lang": "en", "text": "1 bottle of the best quality blackcurrant cordial you can find, in reserve", "ids": ["blackcurrant-cordial"]}
+{"audit": 126, "lang": "en", "text": "1 bowl of popped popcorn", "ids": ["popcorn"]}
+{"audit": 127, "lang": "en", "text": "1 box (1 lb) Lasagna noodles, optionally cooked according to package directions", "ids": ["lasagna-sheets"], "reason": "Lasagna noodles and lasagna sheets are the same pasta form here; use established shared lasagna-sheets instead of a duplicate synonym id."}
+{"audit": 128, "lang": "en", "text": "1 box (22.5 ounces) brownie mix", "ids": ["brownie-mix"]}
+{"audit": 129, "lang": "en", "text": "1 box (8 cups/500 g/1.1 lb) wheat Chex cereal", "ids": ["wheat-cereal"]}
+{"audit": 130, "lang": "en", "text": "1 box yufka/phyllo pastry sheets", "ids": ["phyllo-dough"]}
+{"audit": 131, "lang": "en", "text": "1 bunch of fluted pumpkin leaves (ugwu)", "ids": ["fluted-pumpkin-leaves"]}
+{"audit": 132, "lang": "en", "text": "1 cake of ragi tapai (see notes)", "ids": ["ragi-tapai"]}
+{"audit": 133, "lang": "en", "text": "1 calf's foot, boned and cut into pieces", "ids": ["calf-foot"], "unusual": "Calfs foot/offal is explicitly requested; preserved for user review of unusual ingredients."}
+{"audit": 134, "lang": "en", "text": "1 can (10 ounces / 280 g) cheddar cheese soup", "ids": ["cheddar-cheese-soup"]}
+{"audit": 135, "lang": "en", "text": "1 can (12 oz) chili", "ids": ["canned-chili"]}
+{"audit": 136, "lang": "en", "text": "1 can (15 oz / 400 g) beanless chili con carne", "ids": ["canned-chili"]}
+{"audit": 137, "lang": "en", "text": "1 can (15 oz) red kidney beans, rinsed and drained", "ids": ["kidney-beans"]}
+{"audit": 138, "lang": "en", "text": "1 can (290 g) of poutine sauce (French: mélange à sauce poutine) or gravy", "ids": ["poutine-sauce"]}
+{"audit": 139, "lang": "en", "text": "1 can (5 oz) Vienna sausage, sliced with liquid saved", "ids": ["vienna-sausage"]}
+{"audit": 140, "lang": "en", "text": "1 can (9 oz) prepared bean dip", "ids": ["bean-dip"]}
+{"audit": 141, "lang": "en", "text": "1 can (about 400 g) fried ghormeh sabzi herbs", "ids": ["ghormeh-sabzi"]}
+{"audit": 142, "lang": "en", "text": "1 can (~2 cups / 16 oz / 470 ml) French onion soup", "ids": ["french-onion-soup"]}
+{"audit": 143, "lang": "en", "text": "1 can of chili beans, undrained", "ids": ["chili-beans"]}
+{"audit": 144, "lang": "en", "text": "1 can of mock duck or 1 packet of marinated tofu pieces", "ids": ["mock-duck"]}
+{"audit": 145, "lang": "en", "text": "1 can of tomato beans", "ids": ["tomato-beans"]}
+{"audit": 146, "lang": "en", "text": "1 can pea soup", "ids": ["pea-soup"]}
+{"audit": 147, "lang": "en", "text": "1 can tuna, drained", "ids": ["canned-tuna"]}
+{"audit": 148, "lang": "en", "text": "1 cinnamon tree leaf (or substitute 2 bay leaves)", "ids": ["cinnamon-leaf"]}
+{"audit": 149, "lang": "en", "text": "1 container Mrs Dash seasoning", "ids": ["seasoning-blend"]}
+{"audit": 150, "lang": "en", "text": "1 crisp Asian pear, sliced, and cut into thin strips (crisp Anjou pear may be substituted)", "ids": ["asian-pear"]}
+{"audit": 151, "lang": "en", "text": "1 cup (100 g) mung bean flour/starch", "ids": ["mung-bean-flour"]}
+{"audit": 152, "lang": "en", "text": "1 cup (120g) garlic-flavor bite-size bagel chips or regular-size bagel chips, broken into 1-inch pieces", "ids": ["bagel-chips"]}
+{"audit": 153, "lang": "en", "text": "1 cup (140 g) self-rising flour", "ids": ["self-rising-flour"]}
+{"audit": 154, "lang": "en", "text": "1 cup (140 grams / 4.9 oz) wheat flour", "ids": ["flour"]}
+{"audit": 155, "lang": "en", "text": "1 cup (145 g) white flour", "ids": ["flour"]}
+{"audit": 156, "lang": "en", "text": "1 cup (225 g) buttercream", "ids": ["buttercream"]}
+{"audit": 157, "lang": "en", "text": "1 cup (240 g) cracker crumbs", "ids": ["cracker-crumbs"]}
+{"audit": 158, "lang": "en", "text": "1 cup (240 g) skinless black gram", "ids": ["black-gram"]}
+{"audit": 159, "lang": "en", "text": "1 cup (240 ml) raw dal (any variety)", "ids": ["dal"]}
+{"audit": 160, "lang": "en", "text": "1 cup (240 ml) whole cranberry sauce", "ids": ["cranberry-sauce"]}
+{"audit": 161, "lang": "en", "text": "1 cup (250 g) all-purpose flour", "ids": ["flour"]}
+{"audit": 162, "lang": "en", "text": "1 cup chopped carrot", "ids": ["carrot"]}
+{"audit": 163, "lang": "en", "text": "1 cup chopped purslane", "ids": ["purslane"]}
+{"audit": 164, "lang": "en", "text": "1 cup cranberry beans", "ids": ["cranberry-beans"]}
+{"audit": 165, "lang": "en", "text": "1 cup crumbled queso blanco OR freshly-grated Parmesan cheese", "ids": ["queso-blanco"]}
+{"audit": 166, "lang": "en", "text": "1 cup crème pâtissière", "ids": ["creme-patissiere"]}
+{"audit": 167, "lang": "en", "text": "1 cup dried and ground wild orchid tubers (chikanda roots)", "ids": ["orchid-tubers"], "unusual": "Wild orchid tubers/chikanda roots are explicitly named; preserved for user decision on unusual ingredients."}
+{"audit": 168, "lang": "en", "text": "1 cup dry tarhana mix", "ids": ["tarhana"]}
+{"audit": 169, "lang": "en", "text": "1 cup feijao Pedro beans (rock beans)", "ids": ["pedro-beans"]}
+{"audit": 170, "lang": "en", "text": "1 cup fine sev", "ids": ["sev"]}
+{"audit": 171, "lang": "en", "text": "1 cup finely chopped cabbage", "ids": ["cabbage"]}
+{"audit": 172, "lang": "en", "text": "1 cup finely-ground pure cannabis", "ids": ["cannabis"], "unusual": "Cannabis is explicitly named; retained and flagged for user decision, not removed."}
+{"audit": 173, "lang": "en", "text": "1 cup fresh ager leaves", "ids": ["ager-leaves"]}
+{"audit": 174, "lang": "en", "text": "1 cup fresh animal blood (optional)", "ids": ["animal-blood"], "unusual": "Fresh animal blood is explicitly named; retained and flagged for user decision."}
+{"audit": 175, "lang": "en", "text": "1 cup fresh Ashwe leaves", "ids": ["ashwe-leaves"]}
+{"audit": 176, "lang": "en", "text": "1 cup fresh or dried flying ants", "ids": ["flying-ants"], "unusual": "Flying ants are explicitly named as food; retained and flagged for user decision."}
+{"audit": 177, "lang": "en", "text": "1 cup fresh or dried mopane worms", "ids": ["mopane-worms"], "unusual": "Mopane worms are explicitly named as food; retained and flagged for user decision."}
+{"audit": 178, "lang": "en", "text": "1 cup ground vanilla wafer cookies", "ids": ["vanilla-wafers"]}
+{"audit": 179, "lang": "en", "text": "1 cup masau (African eggplant) slices (optional)", "ids": ["masau"], "unusual": "Source calls masau African eggplant, but the mapped id is a fruit; retain the explicit local-name mapping pending user/source clarification of the conflicting gloss."}
+{"audit": 180, "lang": "en", "text": "1 cup matzah meal", "ids": ["matzah-meal"]}
+{"audit": 181, "lang": "en", "text": "1 cup mesquite chips, soaked in water 30 minutes", "ids": [], "reason": "Soaked mesquite chips are smoking fuel, not an edible ingredient."}
+{"audit": 182, "lang": "en", "text": "1 cup mesquite wood chips, soaked in water 30 minutes", "ids": [], "reason": "Soaked mesquite wood chips are smoking fuel, not an edible ingredient."}
+{"audit": 183, "lang": "en", "text": "1 cup Mexican salsa verde, or to taste", "ids": ["salsa-verde"]}
+{"audit": 184, "lang": "en", "text": "1 cup mixed finely-chopped vegetables such as onion, carrots, lima beans, potatoes, capsicum, tomatoes, peas, etc.", "ids": ["mixed-vegetables"]}
+{"audit": 185, "lang": "en", "text": "1 cup mixed vegetables (carrots, peas, corn, bell peppers, etc.), diced", "ids": ["mixed-vegetables"], "reason": "The ingredient is a mixed vegetable blend with illustrative examples and etc.; avoid requiring every example as a separate ingredient."}
+{"audit": 186, "lang": "en", "text": "1 cup Nestum Cereal flakes", "ids": ["cereal-flakes"]}
+{"audit": 187, "lang": "en", "text": "1 cup of periwinkles", "ids": ["periwinkles"]}
+{"audit": 188, "lang": "en", "text": "1 cup okazi or uziza leaves, thinly sliced", "ids": ["okazi-leaves"]}
+{"audit": 189, "lang": "en", "text": "1 cup organic date syrup (traditional), molasses, or sugar", "ids": ["date-syrup"]}
+{"audit": 190, "lang": "en", "text": "1 cup peach nectar", "ids": ["peach-nectar"]}
+{"audit": 191, "lang": "en", "text": "1 cup peach preserves", "ids": ["peach-preserves"]}
+{"audit": 192, "lang": "en", "text": "1 cup plantain flour", "ids": ["plantain-flour"]}
+{"audit": 193, "lang": "en", "text": "1 cup preserved ginger, chopped", "ids": ["preserved-ginger"]}
+{"audit": 194, "lang": "en", "text": "1 cup scent leaves or uziza leaves", "ids": ["scent-leaves"]}
+{"audit": 195, "lang": "en", "text": "1 cup seafood stock", "ids": ["seafood-stock"]}
+{"audit": 196, "lang": "en", "text": "1 cup shredded Colby-Jack cheese (or cheddar)", "ids": ["colby-jack"]}
+{"audit": 197, "lang": "en", "text": "1 cup sliced celery", "ids": ["celery"]}
+{"audit": 198, "lang": "en", "text": "1 cup soaked mesquite chips", "ids": [], "reason": "Soaked mesquite chips are smoking fuel, not an edible ingredient."}
+{"audit": 199, "lang": "en", "text": "1 cup teff flour", "ids": ["teff-flour"]}

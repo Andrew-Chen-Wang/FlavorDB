@@ -1,0 +1,93 @@
+[
+  {
+    "candidate": 2698,
+    "id": "Q10335981",
+    "verdict": "drop",
+    "reason": "Personally viewed both photographs: this is the same market display of visible Nego bom sweets in clear wrapping as candidate 1599. Retain that earlier candidate once."
+  },
+  {
+    "candidate": 1599,
+    "id": "Q10335981",
+    "verdict": "keep",
+    "reason": "The finished dark sweets are visible through clear wrapping, and the caption explicitly identifies Nego bom at Jacobina market. Personally compared 2698 and confirmed the identical photograph. Commons supplies author Pe de Licuri and CC0 dedication.",
+    "license": "CC0"
+  },
+  {
+    "candidate": 2523,
+    "id": "Q10624825",
+    "verdict": "drop",
+    "reason": "A correct captioned Veracruz-style fish serving, but the fish is largely hidden under chopped tomato and olives. Candidate 531 shows the cooked fish and characteristic dressing more clearly."
+  },
+  {
+    "candidate": 531,
+    "id": "Q10624825",
+    "verdict": "keep",
+    "reason": "Personally compared both servings: this view clearly exposes the finished fish with tomato, olives and rice, explicitly captioned huachinango a la veracruzana. Stronger visual identity than 2523. Commons credits HuachinangoALaVeracruzana.",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "candidate": 915,
+    "id": "Q125300992",
+    "verdict": "keep",
+    "reason": "Personally compared both: this completed serving shows three crumb-topped cake pieces with visible layered cross sections and a clear presentation. The caption explicitly identifies Silesian Streuselkuchen, and Commons credits Schlasinger.",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "candidate": 2344,
+    "id": "Q125300992",
+    "verdict": "drop",
+    "reason": "A correct completed serving of Silesian Streuselkuchen, but 915 gives a clearer view of the thick layered cross sections and a more balanced food presentation. Keep only that alternate."
+  },
+  {
+    "candidate": 936,
+    "id": "Q12682917",
+    "verdict": "keep",
+    "reason": "Personally compared both: this closer finished bowl clearly shows the sago dumplings in coconut milk, with a spoon exposing the bean filling. The caption explicitly identifies Asam Gumpal and describes those ingredients; Commons credits Mdsheth1986.",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "candidate": 3512,
+    "id": "Q12682917",
+    "verdict": "drop",
+    "reason": "The small distant pale bowl is a weaker view of the dumplings and filling than 936, which clearly displays the completed Asam Gumpal and its cut interior."
+  },
+  {
+    "candidate": 781,
+    "id": "Q11566510",
+    "verdict": "keep",
+    "reason": "Personally viewed both: the same clear completed plate of Seto soy-sauce yakisoba with pork and red ginger. The Japanese caption explicitly identifies the dish and Seto restaurant. Retain this earlier instance; Commons credits Asturio Cantabrio.",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "candidate": 2874,
+    "id": "Q11566510",
+    "verdict": "drop",
+    "reason": "Personally confirmed this is the identical finished Seto yakisoba photograph as 781, with matching caption and author. Retain only 781."
+  },
+  {
+    "candidate": 855,
+    "id": "Q11891335",
+    "verdict": "keep",
+    "reason": "Personally viewed both: the same halved finished rye loaf showing its dense crumb and crust. The caption explicitly identifies typical ruislimppu, and Commons credits Hellahulla. Retain this earlier candidate once.",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "candidate": 3140,
+    "id": "Q11891335",
+    "verdict": "drop",
+    "reason": "Personally confirmed this is the identical photograph of the halved ruislimppu loaf as 855. Keep the earlier candidate once."
+  },
+  {
+    "candidate": 3176,
+    "id": "Q113840405",
+    "verdict": "keep",
+    "reason": "Personally compared both: a clear completed platter of rice, carrot and meat, explicitly captioned Uzbek plov at Urazmat. This directly establishes the named plov identity; Commons credits Ji-Elle.",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "candidate": 1841,
+    "id": "Q113840405",
+    "verdict": "drop",
+    "reason": "The photograph is explicitly Afghan palo with raisins, almonds and orange peel, whereas 3176 directly documents Uzbek plov. Prefer the more exact plov identity."
+  }
+]

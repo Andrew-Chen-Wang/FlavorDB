@@ -1,0 +1,67 @@
+[
+  {
+    "candidate": 842,
+    "id": "Q118139279",
+    "verdict": "drop",
+    "reason": "Both photographs depict finished dim-sum chicken feet. This tight crop cuts off the serving and feet; 1688 gives the clearer complete presentation."
+  },
+  {
+    "candidate": 1688,
+    "id": "Q118139279",
+    "verdict": "keep",
+    "reason": "Personally compared with 842: clearly visible whole cooked chicken feet on a plate inside a bamboo steamer, with caption explicitly identifying 鳳爪. The complete serving makes a stronger dish photograph.",
+    "license": "CC BY-SA 2.0"
+  },
+  {
+    "candidate": 1801,
+    "id": "Q103921799",
+    "verdict": "drop",
+    "reason": "Personally viewed both sheets: this is the identical Meshi 001 photograph as 1635, differing only in filename underscores. Retain 1635 once."
+  },
+  {
+    "candidate": 1635,
+    "id": "Q103921799",
+    "verdict": "keep",
+    "reason": "Clear finished bowl of steamed white rice against a dark background, matching dish and caption. Candidate 1801 is the identical photograph, so retain this earlier candidate once.",
+    "license": "CC0"
+  },
+  {
+    "candidate": 509,
+    "id": "Q104251400",
+    "verdict": "keep",
+    "reason": "Personally compared both: the manufactured glass-noodle bundle is sharply visible with brighter translucent strands and better contrast than 1664. It depicts the named bean-vermicelli product itself, for which the dry manufactured form is appropriate.",
+    "license": "Public domain"
+  },
+  {
+    "candidate": 1664,
+    "id": "Q104251400",
+    "verdict": "drop",
+    "reason": "A valid dry manufactured vermicelli product photograph, but darker and less detailed than 509. Retain the clearer product view once."
+  },
+  {
+    "candidate": 1406,
+    "id": "howtocook:staple:韭菜盒子",
+    "verdict": "keep",
+    "reason": "Personally compared both finished dumpling photographs: this close cut-open view clearly shows the browned shell and chive-and-egg filling described by the dish, while 1684 is a more distant row of closed dumplings.",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "candidate": 1684,
+    "id": "howtocook:staple:韭菜盒子",
+    "verdict": "drop",
+    "reason": "Correct finished chive-pocket serving, but more distant and with less visible filling than 1406; retain the clearer identifying interior view."
+  },
+  {
+    "candidate": 1461,
+    "id": "howtocook:vegetable_dish:西红柿炒鸡蛋",
+    "verdict": "keep",
+    "reason": "Personally compared both: clear close overhead view of finished tomato wedges and fluffy scrambled eggs in their sauce, matching the description and explicit stir-fried tomato with eggs caption. Stronger food detail and larger dish coverage than 1685.",
+    "license": "CC BY 3.0"
+  },
+  {
+    "candidate": 1685,
+    "id": "howtocook:vegetable_dish:西红柿炒鸡蛋",
+    "verdict": "drop",
+    "reason": "Correct finished tomato-and-egg dish, but smaller and more distant within a largely empty plate/background than 1461; retain the clearer close view."
+  }
+]

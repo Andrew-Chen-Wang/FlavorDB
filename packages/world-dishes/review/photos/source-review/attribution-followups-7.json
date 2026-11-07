@@ -1,0 +1,86 @@
+[
+  {
+    "candidate": 3462,
+    "decision": "credit",
+    "author": "Stu Spivack",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?oldid=1053306005",
+    "creditAuthorUrl": "https://www.flickr.com/photos/stuart_spivack/",
+    "creditSourceUrl": "https://www.flickr.com/photos/stuart_spivack/162555449/",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "reason": "Description explicitly says 'Photo by Stu Spivack', linking the original Flickr image. Reviewed-pass identifies stu_spivack, the identical Flickr URL and CC BY-SA 2.0, reviewed 28 December 2006. This is a direct photographer statement, not uploader inference. Commons revision 1053306005, 2025-07-06T22:39:44Z."
+  },
+  {
+    "candidate": 3519,
+    "decision": "credit",
+    "author": "RadioActive",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?oldid=617837",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:RadioActive~commonswiki",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Dippin%27_Dots_Rainbow_Flavored_Ice.jpg",
+    "reason": "Initial revision 617837 (2005-08-11T22:28:37Z) explicitly says 'taken by me' and includes PD-User naming RadioActive; revision history identifies the original account as RadioActive~commonswiki. This direct self-photography claim establishes attribution independently of a later transfer or generic uploader field. Current revision 1229145958 retains the description and PD-user release. Credit voluntarily as public-domain work; do not mislabel it CC licensed."
+  },
+  {
+    "candidate": 3494,
+    "decision": "credit",
+    "author": "Ewelina Podrez-Siama",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?oldid=1239437294",
+    "creditAuthorUrl": "https://ms-fox.pl/",
+    "creditSourceUrl": "https://www.flickr.com/photos/197996902@N06/52774939695/",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "reason": "Author is explicitly Creator:Epodrez, whose linked creator record names Ewelina Podrez-Siama (revision 1239027303). Description expressly requests credit with a link to ms-fox.pl whenever used; preserve that requested credit URL rather than replacing it with the Wikidata identity link. Flickr review passed CC BY 2.0 at the original photo URL on 2023-03-27. Commons file revision 1239437294, 2026-06-27T13:12:00Z."
+  },
+  {
+    "candidate": 3513,
+    "decision": "credit",
+    "author": "Yosri at ms.wikipedia (Mohamed Yosri Mohamed Yong)",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?oldid=1131217150",
+    "creditAuthorUrl": "https://ms.wikipedia.org/wiki/User:Yosri",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:YosriCekMekMolek.jpg",
+    "creditLicenseUrl": "https://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "reason": "Own-work source and Author=Yosri are explicit; description names copyright holder Mohamed Yosri Mohamed Yong. The rendered file licensing says 'Yosri at ms.wikipedia' and expressly offers GNU FDL Version 1.2 or any later version, with no Invariant Sections, Front-Cover Texts or Back-Cover Texts. This is confirmed through Cc-by-nc-2.0-dual -> GFDL or cc-by-nc-2.0 -> GFDL templates: commercial reuse is permitted under GFDL, not under its separate CC BY-NC option. Use the supported GFDL 1.2 option and accompanying full license. File revision 1131217150, 2025-12-14T22:35:18Z; rendered text and template evidence cached under attribution-followups-7-evidence."
+  },
+  {
+    "candidate": 3558,
+    "decision": "drop",
+    "author": "Unresolved (Roozitaa is assumed, not an explicitly identified photographer)",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?oldid=119420639",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Shirini_mashhadi_2.jpg",
+    "reason": "Current revision 1240456849 labels both source and author as assumed. Read initial revisions 119420639, 119421695 and 150772097: each supplies only a dish description and generic self GFDL/CC BY-SA license, with no Author field, photographer statement or own-photography description. EXIF has camera/date data but no Artist/copyright identity. The uploader and self copyright-holder release alone do not resolve the actual photographer under this task's requirement; do not convert Roozitaa uploader identity into confirmed photographer. Drop conservatively rather than invent author credit. Evidence cached in 3558-first.json and final-check.json."
+  },
+  {
+    "candidate": 3559,
+    "decision": "drop",
+    "author": "Unresolved (source explicitly marks author unknown)",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?oldid=1254747232",
+    "creditSourceUrl": "https://basalam.com/nanberenji_eftekhar/product/3521764",
+    "reason": "Commons revision 1254747232 (2026-07-31T18:29:28Z) expressly has Unknown author and an external marketplace source. Read the original Basalam listing (HTTP 200; cached HTML and visible text): it identifies the product and seller but supplies no photographer credit or explicit photo license establishing the Commons CC BY 4.0 claim. Do not identify the vendor, uploader or review authors as photographer. Actual author/free-license provenance unresolved; drop. No contact made."
+  },
+  {
+    "candidate": 3566,
+    "decision": "credit",
+    "author": "Sjschen",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?oldid=1124468045",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Sjschen",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:PistHalva.jpg",
+    "reason": "Although the machine-readable Artist and Source are assumed, the description itself explicitly says 'Pistachio Tahini Halva, User:Sjschen, self-created'. This is direct creator evidence independent of uploader identity. PD-self is explicit; preserve public-domain status and voluntary Sjschen credit. Revision 1124468045, 2025-12-02T13:32:00Z."
+  },
+  {
+    "candidate": 3400,
+    "decision": "credit",
+    "author": "David Benbennick",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?oldid=1051364778",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:Dbenbenn",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Carrot_cake.jpg",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "reason": "Description explicitly states 'David Benbennick took the picture' and links User:Dbenbenn, with precise capture date/time; this resolves photographer independently of assumed-author metadata. Self license explicitly includes migrated CC BY-SA 3.0, matching metadata. Credit the named photographer, not only the account alias. Revision 1051364778, 2025-07-02T04:22:09Z."
+  },
+  {
+    "candidate": 3401,
+    "decision": "credit",
+    "author": "Dietrich Krieger",
+    "authorSource": "https://commons.wikimedia.org/w/index.php?oldid=932851715",
+    "creditAuthorUrl": "https://commons.wikimedia.org/wiki/User:DKrieger",
+    "creditSourceUrl": "https://commons.wikimedia.org/wiki/File:Tscholent-3924_(cropped).jpg",
+    "creditLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "reason": "File explicitly states own work and Author=DKrieger, while its self-license parameter specifies author=Dietrich Krieger. Machine-readable Attribution independently renders exactly Dietrich Krieger. Preserve that required credit instead of substituting account alias or crop uploader. The source identifies the image as extracted from Tscholent-3924.jpg and licenses this cropped file CC BY-SA 3.0. Revision 932851715, 2024-10-05T00:37:50Z."
+  }
+]

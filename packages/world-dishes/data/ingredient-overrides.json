@@ -1,0 +1,26 @@
+{
+  "wikibooks-ja:サルサ": {
+    "ja": {
+      "コリアンダー（みじん切り） 大さじ2": ["cilantro"]
+    },
+    "labels": {
+      "コリアンダー": ["cilantro"]
+    }
+  },
+  "wikibooks-ja:タンドリーチキン": {
+    "ja": {
+      "コリアンダー：少々（みじん切り）": ["cilantro"]
+    },
+    "labels": {
+      "コリアンダー": ["cilantro"]
+    }
+  },
+  "wikibooks:bread-filled-with-potato-curry-pani-puri": {
+    "en": {
+      "1 tablespoon coriander": ["cilantro"]
+    },
+    "labels": {
+      "coriander": ["cilantro", "coriander-powder"]
+    }
+  }
+}

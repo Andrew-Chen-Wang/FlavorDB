@@ -1,0 +1,200 @@
+{"audit": 2600, "lang": "labels", "text": "Green chutney", "ids": ["green-chutney"]}
+{"audit": 2601, "lang": "labels", "text": "green lentil", "ids": ["green-lentils"]}
+{"audit": 2602, "lang": "labels", "text": "green olive", "ids": ["green-olive"]}
+{"audit": 2603, "lang": "labels", "text": "green tea", "ids": ["green-tea"]}
+{"audit": 2604, "lang": "labels", "text": "grelo", "ids": ["turnip-greens"]}
+{"audit": 2605, "lang": "labels", "text": "groat", "ids": ["groats"]}
+{"audit": 2606, "lang": "labels", "text": "guar gum", "ids": ["guar-gum"]}
+{"audit": 2607, "lang": "labels", "text": "guava", "ids": ["guava"]}
+{"audit": 2608, "lang": "labels", "text": "gueuze", "ids": ["gueuze-beer"]}
+{"audit": 2609, "lang": "labels", "text": "guimauve", "ids": ["marshmallow"]}
+{"audit": 2610, "lang": "labels", "text": "Guindas confitadas", "ids": ["candied-sour-cherries"]}
+{"audit": 2611, "lang": "labels", "text": "hachinoko", "ids": ["hachinoko"], "unusual": "Bee/wasp larvae ingredient; retained for user decision."}
+{"audit": 2612, "lang": "labels", "text": "Haliotis", "ids": ["abalone"]}
+{"audit": 2613, "lang": "labels", "text": "halušky", "ids": ["halusky"]}
+{"audit": 2614, "lang": "labels", "text": "halva", "ids": ["halva"]}
+{"audit": 2615, "lang": "labels", "text": "hanenkammen", "ids": ["cockscomb"], "unusual": "Edible cockscomb/offal ingredient; retained for user decision."}
+{"audit": 2616, "lang": "labels", "text": "Hard Tack", "ids": ["hardtack"]}
+{"audit": 2617, "lang": "labels", "text": "hardtack", "ids": ["hardtack"]}
+{"audit": 2618, "lang": "labels", "text": "haricot azuki", "ids": ["azuki-beans"]}
+{"audit": 2619, "lang": "labels", "text": "harina de almortas", "ids": ["grass-pea-flour"]}
+{"audit": 2620, "lang": "labels", "text": "Harp Seal", "ids": ["harp-seal"], "unusual": "Harp seal meat; retained for user decision."}
+{"audit": 2621, "lang": "labels", "text": "hazelnut oil", "ids": ["hazelnut-oil"]}
+{"audit": 2622, "lang": "labels", "text": "head cheese", "ids": ["head-cheese"]}
+{"audit": 2623, "lang": "labels", "text": "hedgehog", "ids": ["hedgehog"], "unusual": "Hedgehog meat; retained for user decision."}
+{"audit": 2624, "lang": "labels", "text": "Helichrysum luteoalbum", "ids": ["helichrysum"]}
+{"audit": 2625, "lang": "labels", "text": "Hemiramphidae", "ids": ["halfbeak"]}
+{"audit": 2626, "lang": "labels", "text": "hemp oil", "ids": ["hemp-oil"], "unusual": "Hemp-derived oil; retained for user decision."}
+{"audit": 2627, "lang": "labels", "text": "Hibiscus", "ids": ["hibiscus"]}
+{"audit": 2628, "lang": "labels", "text": "hoagie roll", "ids": ["hoagie-roll"]}
+{"audit": 2629, "lang": "labels", "text": "Holy Basil", "ids": ["holy-basil"]}
+{"audit": 2630, "lang": "labels", "text": "hongeohoe", "ids": ["skate"]}
+{"audit": 2631, "lang": "labels", "text": "Hordeum", "ids": ["barley"]}
+{"audit": 2632, "lang": "labels", "text": "Hordeum vulgare", "ids": ["barley"]}
+{"audit": 2633, "lang": "labels", "text": "Horse", "ids": ["horse"], "unusual": "Horse meat ingredient; retained for user decision."}
+{"audit": 2634, "lang": "labels", "text": "Horse fat", "ids": ["horse-fat"], "unusual": "Horse fat ingredient; retained for user decision."}
+{"audit": 2635, "lang": "labels", "text": "Horse gram", "ids": ["horse-gram"]}
+{"audit": 2636, "lang": "labels", "text": "horse meat", "ids": ["horse"], "unusual": "Horse meat ingredient; retained for user decision."}
+{"audit": 2637, "lang": "labels", "text": "Huacatay", "ids": ["huacatay"]}
+{"audit": 2638, "lang": "labels", "text": "Huckleberry", "ids": ["huckleberry"]}
+{"audit": 2639, "lang": "labels", "text": "huile de germe de blé", "ids": ["wheat-germ-oil"]}
+{"audit": 2640, "lang": "labels", "text": "huile de lin", "ids": ["linseed-oil"]}
+{"audit": 2641, "lang": "labels", "text": "huile de soja", "ids": ["soybean-oil"]}
+{"audit": 2642, "lang": "labels", "text": "huile rouge", "ids": ["red-palm-oil"]}
+{"audit": 2643, "lang": "labels", "text": "Hungarian wax pepper", "ids": ["hungarian-wax-pepper"]}
+{"audit": 2644, "lang": "labels", "text": "hōtō", "ids": ["houtou-noodles"]}
+{"audit": 2645, "lang": "labels", "text": "ice cream cone", "ids": ["waffle-cone"], "reason": "Generic ice cream cone can also mean wafer or sugar cone; current vocabulary lacks a generic cone id, so retained pending a broader cone ingredient."}
+{"audit": 2646, "lang": "labels", "text": "icing", "ids": ["icing"]}
+{"audit": 2647, "lang": "labels", "text": "Iguana", "ids": ["iguana"], "unusual": "Iguana meat; retained for user decision."}
+{"audit": 2648, "lang": "labels", "text": "ilish as food", "ids": ["hilsa"]}
+{"audit": 2649, "lang": "labels", "text": "invert sugar", "ids": ["invert-sugar"]}
+{"audit": 2650, "lang": "labels", "text": "iridescent shark", "ids": ["iridescent-shark"]}
+{"audit": 2651, "lang": "labels", "text": "Iru", "ids": ["iru"]}
+{"audit": 2652, "lang": "labels", "text": "Italian Dressing", "ids": ["italian-dressing"]}
+{"audit": 2653, "lang": "labels", "text": "Jamaican Jerk Spice", "ids": ["jerk-spice"]}
+{"audit": 2654, "lang": "labels", "text": "jambu", "ids": ["jambu"]}
+{"audit": 2655, "lang": "labels", "text": "jameed", "ids": ["jameed"]}
+{"audit": 2656, "lang": "labels", "text": "Japanese butterfish", "ids": ["butterfish"]}
+{"audit": 2657, "lang": "labels", "text": "jasmin", "ids": ["jasmine"]}
+{"audit": 2658, "lang": "labels", "text": "Jasmine", "ids": ["jasmine"]}
+{"audit": 2659, "lang": "labels", "text": "jerk spice", "ids": ["jerk-spice"]}
+{"audit": 2660, "lang": "labels", "text": "jijona", "ids": ["turron"]}
+{"audit": 2661, "lang": "labels", "text": "Kabocha", "ids": ["kabocha"]}
+{"audit": 2662, "lang": "labels", "text": "Kadayif", "ids": ["kataifi-pastry"]}
+{"audit": 2663, "lang": "labels", "text": "Kalix Löjrom", "ids": ["fish-roe"]}
+{"audit": 2664, "lang": "labels", "text": "Kanpyō", "ids": ["kanpyo"]}
+{"audit": 2665, "lang": "labels", "text": "Kaong", "ids": ["sugar-palm-fruit"]}
+{"audit": 2666, "lang": "labels", "text": "kasseri", "ids": ["kasseri"]}
+{"audit": 2667, "lang": "labels", "text": "Kataifi Pastry", "ids": ["kataifi-pastry"]}
+{"audit": 2668, "lang": "labels", "text": "katyk", "ids": ["katyk"]}
+{"audit": 2669, "lang": "labels", "text": "kaymak", "ids": ["kaymak"]}
+{"audit": 2670, "lang": "labels", "text": "kazunoko", "ids": ["herring-roe"]}
+{"audit": 2671, "lang": "labels", "text": "kaşar", "ids": ["kasar-cheese"]}
+{"audit": 2672, "lang": "labels", "text": "Kenkey", "ids": ["kenkey"]}
+{"audit": 2673, "lang": "labels", "text": "khoa", "ids": ["khoa"]}
+{"audit": 2674, "lang": "labels", "text": "Kipper", "ids": ["kipper"]}
+{"audit": 2675, "lang": "labels", "text": "kisra", "ids": ["kisra"]}
+{"audit": 2676, "lang": "labels", "text": "Knoephla", "ids": ["knoephla"]}
+{"audit": 2677, "lang": "labels", "text": "konjac flour", "ids": ["konjac-flour"]}
+{"audit": 2678, "lang": "labels", "text": "konnyaku", "ids": ["konjac"]}
+{"audit": 2679, "lang": "labels", "text": "Konosirus punctatus", "ids": ["shad"]}
+{"audit": 2680, "lang": "labels", "text": "kroeung", "ids": ["kroeung"]}
+{"audit": 2681, "lang": "labels", "text": "krupuk", "ids": ["krupuk"]}
+{"audit": 2682, "lang": "labels", "text": "kudzu powder", "ids": ["kudzu-starch"]}
+{"audit": 2683, "lang": "labels", "text": "kuromitsu", "ids": ["kuromitsu"]}
+{"audit": 2684, "lang": "labels", "text": "kurt", "ids": ["kurt"]}
+{"audit": 2685, "lang": "labels", "text": "kvass", "ids": ["kvass"]}
+{"audit": 2686, "lang": "labels", "text": "Laguiole", "ids": ["laguiole"]}
+{"audit": 2687, "lang": "labels", "text": "lahpet", "ids": ["pickled-tea-leaves"]}
+{"audit": 2688, "lang": "labels", "text": "lait caillé", "ids": ["curdled-milk"]}
+{"audit": 2689, "lang": "labels", "text": "lamian", "ids": ["lamian-noodles"]}
+{"audit": 2690, "lang": "labels", "text": "lampet", "ids": ["limpet"]}
+{"audit": 2691, "lang": "labels", "text": "Langostino", "ids": ["langostino"]}
+{"audit": 2692, "lang": "labels", "text": "langostinos", "ids": ["langostino"]}
+{"audit": 2693, "lang": "labels", "text": "Largehead hairtail", "ids": ["hairtail"]}
+{"audit": 2694, "lang": "labels", "text": "Larimichthys polyactis", "ids": ["yellow-croaker"]}
+{"audit": 2695, "lang": "labels", "text": "Lathyrus sativus", "ids": ["grass-pea"]}
+{"audit": 2696, "lang": "labels", "text": "lavash", "ids": ["lavash"]}
+{"audit": 2697, "lang": "labels", "text": "leche en polvo", "ids": ["milk-powder"]}
+{"audit": 2698, "lang": "labels", "text": "Lecithin", "ids": ["lecithin"]}
+{"audit": 2699, "lang": "labels", "text": "Leucaena leucocephala", "ids": ["leucaena"]}
+{"audit": 2700, "lang": "labels", "text": "licorice candy", "ids": ["licorice"]}
+{"audit": 2701, "lang": "labels", "text": "Limburger", "ids": ["limburger"]}
+{"audit": 2702, "lang": "labels", "text": "Limewater", "ids": ["limewater"]}
+{"audit": 2703, "lang": "labels", "text": "linear maltodextrin", "ids": ["maltodextrin"]}
+{"audit": 2704, "lang": "labels", "text": "linseed oil", "ids": ["linseed-oil"]}
+{"audit": 2705, "lang": "labels", "text": "liqueur de génépi", "ids": ["genepi"]}
+{"audit": 2706, "lang": "labels", "text": "Liquid Aminos", "ids": ["liquid-aminos"]}
+{"audit": 2707, "lang": "labels", "text": "Liquorice", "ids": ["licorice"]}
+{"audit": 2708, "lang": "labels", "text": "litchi", "ids": ["lychee"]}
+{"audit": 2709, "lang": "labels", "text": "Lithodes santolla", "ids": ["king-crab"]}
+{"audit": 2710, "lang": "labels", "text": "llama", "ids": ["llama"], "unusual": "Llama meat; retained for user decision."}
+{"audit": 2711, "lang": "labels", "text": "locust bean gum", "ids": ["locust-bean-gum"]}
+{"audit": 2712, "lang": "labels", "text": "lotus seed paste", "ids": ["lotus-seed-paste"]}
+{"audit": 2713, "lang": "labels", "text": "Luffa acutangula", "ids": ["ridge-gourd"]}
+{"audit": 2714, "lang": "labels", "text": "Lupinus mutabilis", "ids": ["lupin-beans"]}
+{"audit": 2715, "lang": "labels", "text": "Lutjanidae", "ids": ["snapper"]}
+{"audit": 2716, "lang": "labels", "text": "Machaca", "ids": ["dried-beef-shreds"], "reason": "Machaca is dried, shredded beef; the specific existing ingredient fits better than generic beef."}
+{"audit": 2717, "lang": "labels", "text": "mackerel", "ids": ["mackerel"]}
+{"audit": 2718, "lang": "labels", "text": "Mahi-mahi", "ids": ["mahi-mahi"]}
+{"audit": 2719, "lang": "labels", "text": "mahleb", "ids": ["mahleb"]}
+{"audit": 2720, "lang": "labels", "text": "makgeolli", "ids": ["makgeolli"]}
+{"audit": 2721, "lang": "labels", "text": "malt", "ids": ["malt"]}
+{"audit": 2722, "lang": "labels", "text": "maltose", "ids": ["maltose"]}
+{"audit": 2723, "lang": "labels", "text": "manzanilla", "ids": ["chamomile"]}
+{"audit": 2724, "lang": "labels", "text": "Maraschino", "ids": ["maraschino-liqueur"]}
+{"audit": 2725, "lang": "labels", "text": "Marie biscuit", "ids": ["marie-biscuit"]}
+{"audit": 2726, "lang": "labels", "text": "Maroilles", "ids": ["maroilles"]}
+{"audit": 2727, "lang": "labels", "text": "Marísco", "ids": ["seafood"]}
+{"audit": 2728, "lang": "labels", "text": "Masa de pan", "ids": ["bread-dough"], "reason": "Masa de pan explicitly means bread dough; use the specific existing bread-dough ingredient."}
+{"audit": 2729, "lang": "labels", "text": "mastic", "ids": ["mastic"]}
+{"audit": 2730, "lang": "labels", "text": "matcha", "ids": ["matcha"]}
+{"audit": 2731, "lang": "labels", "text": "Matricaria chamomilla", "ids": ["chamomile"]}
+{"audit": 2732, "lang": "labels", "text": "matsoni", "ids": ["matsoni"]}
+{"audit": 2733, "lang": "labels", "text": "maíz tierno", "ids": ["corn"]}
+{"audit": 2734, "lang": "labels", "text": "meat alternative", "ids": ["meat-alternative"]}
+{"audit": 2735, "lang": "labels", "text": "Megalaspis cordyla", "ids": ["scad"]}
+{"audit": 2736, "lang": "labels", "text": "meju", "ids": ["meju"]}
+{"audit": 2737, "lang": "labels", "text": "Melinjo", "ids": ["melinjo"]}
+{"audit": 2738, "lang": "labels", "text": "Melolontha melolontha", "ids": ["cockchafer"], "unusual": "Cockchafer beetles; retained for user decision."}
+{"audit": 2739, "lang": "labels", "text": "Mentha × piperita", "ids": ["peppermint"]}
+{"audit": 2740, "lang": "labels", "text": "mero", "ids": ["grouper"]}
+{"audit": 2741, "lang": "labels", "text": "mesclun", "ids": ["mesclun"]}
+{"audit": 2742, "lang": "labels", "text": "Mexican Mint", "ids": ["mexican-mint"]}
+{"audit": 2743, "lang": "labels", "text": "Milk skin", "ids": ["milk-skin"]}
+{"audit": 2744, "lang": "labels", "text": "Milkfish", "ids": ["milkfish"]}
+{"audit": 2745, "lang": "labels", "text": "milt", "ids": ["milt"], "unusual": "Fish milt; retained for user decision."}
+{"audit": 2746, "lang": "labels", "text": "Minke whale", "ids": ["minke-whale"], "unusual": "Minke whale meat; retained for user decision."}
+{"audit": 2747, "lang": "labels", "text": "mirabelles", "ids": ["mirabelle-plums"]}
+{"audit": 2748, "lang": "labels", "text": "mistela", "ids": ["mistela"]}
+{"audit": 2749, "lang": "labels", "text": "Misua", "ids": ["misua-noodles"]}
+{"audit": 2750, "lang": "labels", "text": "Mizithra", "ids": ["mizithra"]}
+{"audit": 2751, "lang": "labels", "text": "mizuame", "ids": ["mizuame"]}
+{"audit": 2752, "lang": "labels", "text": "Mizuhopecten yessoensis", "ids": ["scallop"]}
+{"audit": 2753, "lang": "labels", "text": "Mojo", "ids": ["mojo-sauce"]}
+{"audit": 2754, "lang": "labels", "text": "mole", "ids": ["mole-sauce"]}
+{"audit": 2755, "lang": "labels", "text": "Moluscos e Crustáceos", "ids": ["seafood"]}
+{"audit": 2756, "lang": "labels", "text": "Monodora myristica", "ids": ["calabash-nutmeg"]}
+{"audit": 2757, "lang": "labels", "text": "Monopterus albus", "ids": ["swamp-eel"]}
+{"audit": 2758, "lang": "labels", "text": "Montreal Steak Seasoning", "ids": ["steak-seasoning"]}
+{"audit": 2759, "lang": "labels", "text": "moose", "ids": ["moose"]}
+{"audit": 2760, "lang": "labels", "text": "moringa", "ids": ["moringa"]}
+{"audit": 2761, "lang": "labels", "text": "Moringa leaf", "ids": ["moringa"]}
+{"audit": 2762, "lang": "labels", "text": "Multigrain flour", "ids": ["multigrain-flour"]}
+{"audit": 2763, "lang": "labels", "text": "munster", "ids": ["munster-cheese"]}
+{"audit": 2764, "lang": "labels", "text": "muscovado", "ids": ["muscovado"]}
+{"audit": 2765, "lang": "labels", "text": "Muskrat", "ids": ["muskrat"], "unusual": "Muskrat meat; retained for user decision."}
+{"audit": 2766, "lang": "labels", "text": "myeongnan-jeot", "ids": ["pollock-roe"]}
+{"audit": 2767, "lang": "labels", "text": "nam phrik phao", "ids": ["nam-phrik-pao"]}
+{"audit": 2768, "lang": "labels", "text": "nama senbei", "ids": ["rice-cracker"]}
+{"audit": 2769, "lang": "labels", "text": "Nambu sembei", "ids": ["wheat-cracker"], "reason": "Nambu sembei are wheat-flour crackers, not rice crackers."}
+{"audit": 2770, "lang": "labels", "text": "naranjilla", "ids": ["naranjilla"]}
+{"audit": 2771, "lang": "labels", "text": "Nattomoto", "ids": ["natto-starter"], "reason": "Nattomoto names natto fermentation starter, not the finished fermented soybean food; parent is adding this missing ingredient."}
+{"audit": 2772, "lang": "labels", "text": "nattō", "ids": ["natto"]}
+{"audit": 2773, "lang": "labels", "text": "Nereididae", "ids": ["ragworm"], "unusual": "Ragworm ingredient; retained for user decision."}
+{"audit": 2774, "lang": "labels", "text": "Njangsa", "ids": ["njangsa"]}
+{"audit": 2775, "lang": "labels", "text": "Noodle dishes of Spain", "ids": [], "reason": "Noodle dishes of Spain is a category of dishes, not a particular ingredient or noodle product."}
+{"audit": 2776, "lang": "labels", "text": "Nougat", "ids": ["nougat"]}
+{"audit": 2777, "lang": "labels", "text": "Nouilles fraîches", "ids": ["fresh-noodles"]}
+{"audit": 2778, "lang": "labels", "text": "néroli", "ids": ["neroli"]}
+{"audit": 2779, "lang": "labels", "text": "oca", "ids": ["oca"]}
+{"audit": 2780, "lang": "labels", "text": "Ocellate spot skate", "ids": ["skate"]}
+{"audit": 2781, "lang": "labels", "text": "Oenanthe javanica", "ids": ["water-dropwort"]}
+{"audit": 2782, "lang": "labels", "text": "oesterzwammen", "ids": ["oyster-mushroom"]}
+{"audit": 2783, "lang": "labels", "text": "offal", "ids": ["offal"]}
+{"audit": 2784, "lang": "labels", "text": "Omega-3", "ids": [], "reason": "Omega-3 is a nutrient class, not a named cooking ingredient; it does not establish fish oil as its source."}
+{"audit": 2785, "lang": "labels", "text": "oncom", "ids": ["oncom"]}
+{"audit": 2786, "lang": "labels", "text": "Onion Salt", "ids": ["onion-salt"]}
+{"audit": 2787, "lang": "labels", "text": "ontbijtkoek", "ids": ["spiced-bread"]}
+{"audit": 2788, "lang": "labels", "text": "orgeano", "ids": ["oregano"]}
+{"audit": 2789, "lang": "labels", "text": "origan", "ids": ["oregano"]}
+{"audit": 2790, "lang": "labels", "text": "Ortolan Bunting", "ids": ["ortolan"], "unusual": "Ortolan bunting ingredient; retained for user decision."}
+{"audit": 2791, "lang": "labels", "text": "Osmanthus fragrans", "ids": ["osmanthus"]}
+{"audit": 2792, "lang": "labels", "text": "Osphronemus goramy", "ids": ["gourami"]}
+{"audit": 2793, "lang": "labels", "text": "pacaya", "ids": ["pacaya"]}
+{"audit": 2794, "lang": "labels", "text": "paccheri", "ids": ["paccheri"]}
+{"audit": 2795, "lang": "labels", "text": "Pacific saury", "ids": ["saury"]}
+{"audit": 2796, "lang": "labels", "text": "Paederia foetida", "ids": ["paederia-leaves"]}
+{"audit": 2797, "lang": "labels", "text": "Paico", "ids": ["paico"]}
+{"audit": 2798, "lang": "labels", "text": "pain complet", "ids": ["wholemeal-bread"]}
+{"audit": 2799, "lang": "labels", "text": "Pain de campagne", "ids": ["country-bread"]}

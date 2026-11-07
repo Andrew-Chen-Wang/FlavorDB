@@ -1,0 +1,100 @@
+{"audit": 5084, "lang": "de", "text": "1 EL Lauch", "ids": ["leek"]}
+{"audit": 5085, "lang": "de", "text": "1 kg Magerquark", "ids": ["quark"]}
+{"audit": 5086, "lang": "de", "text": "1 kg Quark", "ids": ["quark"]}
+{"audit": 5087, "lang": "de", "text": "1 Porree", "ids": ["leek"]}
+{"audit": 5088, "lang": "de", "text": "1 Stange Lauch", "ids": ["leek"]}
+{"audit": 5089, "lang": "de", "text": "1 Stück kleine Lauchstange", "ids": ["leek"]}
+{"audit": 5090, "lang": "de", "text": "1 Stück Lauch (optional)", "ids": ["leek"]}
+{"audit": 5091, "lang": "de", "text": "1/2 Löffel Koriander (je nach Menge der Personen)", "ids": ["cilantro"], "reason": "Pebre steps explicitly chop Koriander with parsley and onion; this is fresh coriander leaf, not seed."}
+{"audit": 5092, "lang": "de", "text": "1/2 Stange Lauch", "ids": ["leek"]}
+{"audit": 5093, "lang": "de", "text": "1/2 Stange Porree", "ids": ["leek"]}
+{"audit": 5094, "lang": "de", "text": "1/2 Tasse Suppengemüse oder kleingehackte Stücke Möhren", "ids": ["soup-greens"], "reason": "The first alternative is the named soup-vegetable bundle; use its existing soup-greens id rather than assume its component vegetables."}
+{"audit": 5095, "lang": "de", "text": "1/2 TL gemahlener Koriander", "ids": ["coriander-powder"], "reason": "Gemahlener Koriander explicitly means ground coriander; the existing powder id is more specific."}
+{"audit": 5096, "lang": "de", "text": "1/2 TL Koriander, gemahlen", "ids": ["coriander-powder"], "reason": "The line explicitly specifies ground coriander."}
+{"audit": 5097, "lang": "de", "text": "1/2 TL Korianderkörner", "ids": ["coriander-seed"]}
+{"audit": 5098, "lang": "de", "text": "10 Koriandersamen", "ids": ["coriander-seed"]}
+{"audit": 5099, "lang": "de", "text": "10 TL Korianderpulver", "ids": ["coriander-powder"], "reason": "Korianderpulver explicitly names coriander powder."}
+{"audit": 5100, "lang": "de", "text": "1250g Magerquark", "ids": ["quark"]}
+{"audit": 5101, "lang": "de", "text": "2 EL Korianderpulver", "ids": ["coriander-powder"], "reason": "Korianderpulver explicitly names coriander powder."}
+{"audit": 5102, "lang": "de", "text": "2 Lauch-Stangen", "ids": ["leek"]}
+{"audit": 5103, "lang": "de", "text": "2 Stangen Lauch", "ids": ["leek"]}
+{"audit": 5104, "lang": "de", "text": "2 Stangen Lauch (längs halbiert, gründlich gewaschen, in kleine Stücke geschnitten)", "ids": ["leek"]}
+{"audit": 5105, "lang": "de", "text": "2 Stangen Poree", "ids": ["leek"]}
+{"audit": 5106, "lang": "de", "text": "2 Stangen Porreé in feine Ringe geschnitten", "ids": ["leek"]}
+{"audit": 5107, "lang": "de", "text": "2 Suppengrün (2-3 Möhren, 1-2 Stangen Lauch, Petersilie, 1/2 Sellerie)", "ids": ["carrot", "leek", "parsley", "celery"]}
+{"audit": 5108, "lang": "de", "text": "2-4 junge Lauchstangen (pro Person)", "ids": ["leek"]}
+{"audit": 5109, "lang": "de", "text": "250 g Lauch", "ids": ["leek"]}
+{"audit": 5110, "lang": "de", "text": "250 g Magerquark", "ids": ["quark"]}
+{"audit": 5111, "lang": "de", "text": "250g Quark", "ids": ["quark"]}
+{"audit": 5112, "lang": "de", "text": "3 EL Koriandersamen, ganz", "ids": ["coriander-seed"]}
+{"audit": 5113, "lang": "de", "text": "3 TL Brotgewürzmischung (Koriander, Fenchel, Kümmel)", "ids": ["coriander-seed", "fennel-seed", "caraway"]}
+{"audit": 5114, "lang": "de", "text": "300 g Quark (Magerquark)", "ids": ["quark"]}
+{"audit": 5115, "lang": "de", "text": "4 EL Koriandersamen", "ids": ["coriander-seed"]}
+{"audit": 5116, "lang": "de", "text": "500 g Lauch", "ids": ["leek"]}
+{"audit": 5117, "lang": "de", "text": "500 g Magerquark", "ids": ["quark"]}
+{"audit": 5118, "lang": "de", "text": "500 g Quark", "ids": ["quark"]}
+{"audit": 5119, "lang": "de", "text": "500 gr Quark (am besten 40%igen)", "ids": ["quark"]}
+{"audit": 5120, "lang": "de", "text": "500g Quark", "ids": ["quark"]}
+{"audit": 5121, "lang": "de", "text": "500g Quark (40% Fett)", "ids": ["quark"]}
+{"audit": 5122, "lang": "de", "text": "als Beilage nach Belieben und Verfügbarkeit: Grünspargelreste, etwas Lauch, eine kleine Möhre, eine Zwiebel, eine Knoblauchzehe, Bärlauch, Reis, Sahne", "ids": ["asparagus", "leek", "carrot", "onion", "garlic", "wild-garlic", "rice", "cream"]}
+{"audit": 5123, "lang": "de", "text": "ca. 10 Körner Koriander", "ids": ["coriander-seed"]}
+{"audit": 5124, "lang": "de", "text": "ca. 5 Korianderkörner", "ids": ["coriander-seed"]}
+{"audit": 5125, "lang": "de", "text": "ein Bund Suppengrün", "ids": ["soup-greens"], "reason": "A bundle of Suppengruen is the named soup-greens ingredient; its exact component vegetables are not specified."}
+{"audit": 5126, "lang": "de", "text": "ein Stück Lauch, etwa 10 cm", "ids": ["leek"]}
+{"audit": 5127, "lang": "de", "text": "eine Stange Lauch", "ids": ["leek"]}
+{"audit": 5128, "lang": "de", "text": "Gemüse und Pilze, soweit vorhanden, zum Beispiel Zwiebeln, Knoblauch, Lauch, Brokkoli, Möhren, Pak choi", "ids": ["onion", "garlic", "leek", "broccoli", "carrot", "bok-choy", "mushroom"]}
+{"audit": 5129, "lang": "de", "text": "Gewürze nach Belieben und Verfügbarkeit: Salz, Pfeffer, Curry, Schwarzkümmel, Kreuzkümmel, Koriander, Kardamom, Bockshornklee", "ids": ["salt", "black-pepper", "curry-powder", "black-cumin", "cumin", "coriander-seed", "cardamom", "fenugreek"]}
+{"audit": 5130, "lang": "de", "text": "Gewürze: z.B.: Koriandersaat, Kardamom, Chiliflocken, Paprika, Thymian, Oregano", "ids": ["coriander-seed", "cardamom", "chili-flakes", "paprika", "thyme", "oregano"], "reason": "Chiliflocken are chili flakes rather than chili powder; retain the other named spices."}
+{"audit": 5131, "lang": "de", "text": "Gewürze: z.B.: Koriandersaat, Kardamom, Thymian, Oregano", "ids": ["coriander-seed", "cardamom", "thyme", "oregano"]}
+{"audit": 5132, "lang": "de", "text": "Gewürzmischung: jeweils 2 Teelöffel Koriandersamen, granulierter Knoblauch", "ids": ["coriander-seed", "garlic-powder"], "reason": "Granulated garlic is dried garlic seasoning, closer to the existing garlic-powder id than fresh garlic."}
+{"audit": 5133, "lang": "de", "text": "Lauch", "ids": ["leek"]}
+{"audit": 5134, "lang": "de", "text": "Suppengemüse: 1 Möhre, 1 Stück Knollensellerie, 1 Stück Lauch, 1 Petersilienwurzel", "ids": ["carrot", "celeriac", "leek", "parsley-root"]}
+{"audit": 5135, "lang": "de", "text": "Suppengrün", "ids": ["soup-greens"], "reason": "The text only names the soup-greens bundle and does not specify all the inferred vegetables."}
+{"audit": 5136, "lang": "en", "text": "0.6 cup (140 g) grated white cheese", "ids": ["cheese"], "reason": "The arepa recipe specifies grated white cheese, not wet quark; no exact cheese type is established, so use generic cheese."}
+{"audit": 5137, "lang": "en", "text": "1 cleaned leek green", "ids": ["leek"]}
+{"audit": 5138, "lang": "en", "text": "1 cup (250 g) curd cheese (e.g. quark or farmer cheese)", "ids": ["quark"]}
+{"audit": 5139, "lang": "en", "text": "1 cup chopped leeks or onion (optional)", "ids": ["leek"]}
+{"audit": 5140, "lang": "en", "text": "1 cup curd cheese (quark/topfen/farmer cheese)", "ids": ["quark"]}
+{"audit": 5141, "lang": "en", "text": "1 generous pinch each of cumin, ground coriander, mild chilli powder, paprika and turmeric", "ids": ["cumin", "coriander-powder", "chili-powder", "paprika", "turmeric"], "reason": "Ground coriander is explicit within the spice list; retain the other named spices."}
+{"audit": 5142, "lang": "en", "text": "1 or so tablespoons of coriander seed", "ids": ["coriander-seed"]}
+{"audit": 5143, "lang": "en", "text": "1 package curd cheese (e.g. quark or farmer cheese)", "ids": ["quark"]}
+{"audit": 5144, "lang": "en", "text": "1 packet of demi-sel cheese", "ids": ["cheese"], "note": "Optional precise concept: demi-sel-cheese, dairy, lightly salted French fresh cheese; Eggs Connaught recipe works it into the creamy egg filling.", "reason": "The source names demi-sel cheese and never identifies it as quark. Use generic cheese until a specific demi-sel-cheese ingredient is added."}
+{"audit": 5145, "lang": "en", "text": "1 parsnip", "ids": ["parsnip"]}
+{"audit": 5146, "lang": "en", "text": "1 parsnip root", "ids": ["parsnip"]}
+{"audit": 5147, "lang": "en", "text": "1 parsnip, peeled and sliced", "ids": ["parsnip"]}
+{"audit": 5148, "lang": "en", "text": "1 pinch coriander", "ids": ["coriander-seed"]}
+{"audit": 5149, "lang": "en", "text": "1 pinch coriander powder", "ids": ["coriander-powder"], "reason": "The text explicitly names coriander powder."}
+{"audit": 5150, "lang": "en", "text": "1 pinch of ground coriander", "ids": ["coriander-powder"], "reason": "The text explicitly names ground coriander."}
+{"audit": 5151, "lang": "en", "text": "1 small leek", "ids": ["leek"]}
+{"audit": 5152, "lang": "en", "text": "1 small leek (or 1 small onion)", "ids": ["leek"]}
+{"audit": 5153, "lang": "en", "text": "1 small leek, trimmed, halved lengthwise and cut into 1½-inch pieces; rinsed", "ids": ["leek"]}
+{"audit": 5154, "lang": "en", "text": "1 stalk fresh leek, finely chopped", "ids": ["leek"]}
+{"audit": 5155, "lang": "en", "text": "1 tablespoon coriander", "ids": ["coriander-seed"], "note": "Shared text collision: preserve the spice mapping here, but the Pani Puri recipe explicitly needs cilantro. The exact contextual override is in /tmp/ingredient-audit-26-overrides.json."}
+{"audit": 5156, "lang": "en", "text": "1 Tablespoon coriander powder", "ids": ["coriander-powder"], "reason": "The text explicitly names coriander powder."}
+{"audit": 5157, "lang": "en", "text": "1 tablespoon coriander seed", "ids": ["coriander-seed"]}
+{"audit": 5158, "lang": "en", "text": "1 tablespoon ground coriander", "ids": ["coriander-powder"], "reason": "The text explicitly names ground coriander."}
+{"audit": 5159, "lang": "en", "text": "1 tablespoon of coriander powder", "ids": ["coriander-powder"], "reason": "The text explicitly names coriander powder."}
+{"audit": 5160, "lang": "en", "text": "1 tablespoon of ground coriander", "ids": ["coriander-powder"], "reason": "The text explicitly names ground coriander."}
+{"audit": 5161, "lang": "en", "text": "1 Tbsp coarsely-ground coriander seeds", "ids": ["coriander-powder"], "reason": "The ingredient is explicitly ground coriander seed; use the existing ground-spice id."}
+{"audit": 5162, "lang": "en", "text": "1 tbsp coriander", "ids": ["coriander-seed"]}
+{"audit": 5163, "lang": "en", "text": "1 tbsp coriander powder", "ids": ["coriander-powder"], "reason": "The text explicitly names coriander powder."}
+{"audit": 5164, "lang": "en", "text": "1 tbsp coriander seed", "ids": ["coriander-seed"]}
+{"audit": 5165, "lang": "en", "text": "1 tbsp coriander seeds", "ids": ["coriander-seed"]}
+{"audit": 5166, "lang": "en", "text": "1 tbsp freshly-ground coriander seeds", "ids": ["coriander-powder"], "reason": "The ingredient is explicitly freshly ground coriander seed."}
+{"audit": 5167, "lang": "en", "text": "1 Tbsp ground coriander", "ids": ["coriander-powder"], "reason": "The text explicitly names ground coriander."}
+{"audit": 5168, "lang": "en", "text": "1 teaspoon (0.25 g) ground coriander", "ids": ["coriander-powder"], "reason": "The text explicitly names ground coriander."}
+{"audit": 5169, "lang": "en", "text": "1 teaspoon coriander", "ids": ["coriander-seed"]}
+{"audit": 5170, "lang": "en", "text": "1 teaspoon coriander powder", "ids": ["coriander-powder"], "reason": "The text explicitly names coriander powder."}
+{"audit": 5171, "lang": "en", "text": "1 teaspoon crushed dhania (coriander) seeds", "ids": ["coriander-seed"]}
+{"audit": 5172, "lang": "en", "text": "1 teaspoon ground coriander", "ids": ["coriander-powder"], "reason": "The text explicitly names ground coriander."}
+{"audit": 5173, "lang": "en", "text": "1 tsp coriander", "ids": ["coriander-seed"]}
+{"audit": 5174, "lang": "en", "text": "1 tsp coriander powder", "ids": ["coriander-powder"], "reason": "The text explicitly names coriander powder."}
+{"audit": 5175, "lang": "en", "text": "1 tsp coriander seeds", "ids": ["coriander-seed"]}
+{"audit": 5176, "lang": "en", "text": "1 tsp coriander seeds (dhaniya)", "ids": ["coriander-seed"]}
+{"audit": 5177, "lang": "en", "text": "1 tsp coriander, ground", "ids": ["coriander-powder"], "reason": "The text explicitly specifies coriander ground."}
+{"audit": 5178, "lang": "en", "text": "1 tsp dried coriander powder", "ids": ["coriander-powder"], "reason": "The text explicitly names dried coriander powder."}
+{"audit": 5179, "lang": "en", "text": "1 tsp freshly-ground coriander", "ids": ["coriander-powder"], "reason": "The text explicitly specifies freshly ground coriander."}
+{"audit": 5180, "lang": "en", "text": "1 tsp ground coriander", "ids": ["coriander-powder"], "reason": "The text explicitly names ground coriander."}
+{"audit": 5181, "lang": "en", "text": "1 tsp roasted coriander seed powder", "ids": ["coriander-powder"], "reason": "The text explicitly names roasted coriander seed powder."}
+{"audit": 5182, "lang": "en", "text": "1 tsp toasted coriander seeds", "ids": ["coriander-seed"]}
+{"audit": 5183, "lang": "en", "text": "1 ½ tsp freshly-ground coriander", "ids": ["coriander-powder"], "reason": "The text explicitly specifies freshly ground coriander."}
