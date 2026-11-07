@@ -1,0 +1,14 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [{ "from": "Livro_de_receitas/Esfirra", "to": "Livro de receitas/Esfirra" }],
+    "pages": {
+      "8091": {
+        "pageid": 8091,
+        "ns": 0,
+        "title": "Livro de receitas/Esfirra",
+        "revisions": [{ "revid": 454588, "parentid": 454578, "timestamp": "2018-09-26T18:16:06Z" }]
+      }
+    }
+  }
+}

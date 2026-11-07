@@ -70,3 +70,7 @@ countries to 11 foods and removed Snezhok as a fermented milk drink. Existing XK
 Three English Wikibooks recipes made with human placenta (Placenta Stew, Placenta with Broccoli,
 Spicy Placenta with Rice Noodles) were removed at the user's request. Placenta cake, the ancient
 flat cake, is unrelated and stays.
+
+## Additional same-page recipes
+
+A follow-up manual reading adds303 recipes across170 dishes through the checked-in recipe overlay. The loader and future builds retain all variants, including those sharing one URL. See `../review/recipes/README.md` and its decision/evidence ledgers.

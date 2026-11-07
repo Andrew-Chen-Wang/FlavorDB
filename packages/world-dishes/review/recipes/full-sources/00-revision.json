@@ -1,0 +1,14 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [{ "from": "Livre_de_cuisine/Cake", "to": "Livre de cuisine/Cake" }],
+    "pages": {
+      "18678": {
+        "pageid": 18678,
+        "ns": 0,
+        "title": "Livre de cuisine/Cake",
+        "revisions": [{ "revid": 733582, "parentid": 733581, "timestamp": "2024-12-29T12:42:05Z" }]
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "deferred": {
+    "Q59170": "Generic strudel includes sweet and savory fillings; apple-only taste would overstate the source.",
+    "Q205762": "Thick stew profile conflicts with soup context and may overlap separately profiled gulyasleves.",
+    "Q4243948": "Supplied mango pomelo sago recipe substitutes chia/grapefruit and never cooks sago.",
+    "Q24837089": "Characteristic buah keluak nuts conflict with source candlenut identity.",
+    "Q5728279": "Merged Spanish almond preparation and Venezuelan coconut cake cannot share one honest profile.",
+    "Q1797271": "Pureed description conflicts with sole chunky recipe; defer until intended variant is resolved."
+  },
+  "overrides": {
+    "Q15895670": {
+      "form": "fried-pieces"
+    },
+    "Q138542244": {
+      "form": "savory-fritters"
+    },
+    "Q276276": {
+      "form": "meringue-dessert",
+      "steps": ["whip", "bake"]
+    },
+    "Q182339": {
+      "notes": ["rosewater"]
+    },
+    "Q1054891": {
+      "form": "layered-flatbread"
+    }
+  },
+  "retainedCaution": "Creme brulee whip is explicitly supported by the French/Italian foamy yolk method; no change. Crema catalana follows the displayed baked recipe."
+}

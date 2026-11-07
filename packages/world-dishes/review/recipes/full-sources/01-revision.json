@@ -1,0 +1,18 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      { "from": "Cookbook:8_Desserts_in_1_Pan", "to": "Cookbook:8 Desserts in 1 Pan" }
+    ],
+    "pages": {
+      "470841": {
+        "pageid": 470841,
+        "ns": 102,
+        "title": "Cookbook:8 Desserts in 1 Pan",
+        "revisions": [
+          { "revid": 4629561, "parentid": 4516665, "timestamp": "2026-04-08T06:11:19Z" }
+        ]
+      }
+    }
+  }
+}

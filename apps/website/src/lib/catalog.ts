@@ -112,6 +112,8 @@ function load() {
   return catalog
 }
 
+export const catalogEntries = () => load().all
+
 export const catalogCountries = () => load().countries
 export function catalogStats() {
   const { all, countries } = load()

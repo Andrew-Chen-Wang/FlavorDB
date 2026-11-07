@@ -6,7 +6,7 @@ import { worldIngredients } from "./ingredients-world"
 import { places } from "./places"
 import { type Comparable, createSimilarity, fromDish, fromWorld } from "./similarity"
 import type { Dish } from "./types"
-import { worldLinks } from "./world-links"
+import { worldLinks, type WorldLink } from "./world-links"
 
 export * from "./types"
 export * from "./profiles"
@@ -46,6 +46,11 @@ export const similarByMethod = (dish: Dish, limit?: number) =>
 /** Dishes built on the same main ingredient, whose basic tastes and flavor notes are alike. */
 export const similarByTaste = (dish: Dish, limit?: number) =>
   similarity.similarByTaste(fromDish(dish), limit)
+/** Matches for a reviewed imported profile, from the same shared pool. */
+export const similarWorldByMethod = (world: WorldLink, limit?: number) =>
+  similarity.similarByMethod(fromWorld(world), limit)
+export const similarWorldByTaste = (world: WorldLink, limit?: number) =>
+  similarity.similarByTaste(fromWorld(world), limit)
 export const methodMatch = (a: Dish, b: Dish) => similarity.methodMatch(fromDish(a), fromDish(b))
 export const tasteMatch = (a: Dish, b: Dish) => similarity.tasteMatch(fromDish(a), fromDish(b))
 
