@@ -10,6 +10,9 @@ import {
   places,
   similarByMethod,
   similarByTaste,
+  similarWorldByMethod,
+  similarWorldByTaste,
+  worldLinks,
 } from "@flavor-db/seed-data"
 
 export { dishes, ingredients, places }
@@ -230,6 +233,24 @@ export function similarDishes(dish: Dish): {
 }
 
 export { FLAVOR_LABELS }
+
+/** Imported dishes use explicit profiles; absent profiles do not get guessed matches. */
+export function similarWorldDishes(id: string) {
+  const world = worldLinks.find((w) => w.id === id)
+  if (!world) return undefined
+  return {
+    byTechnique: similarWorldByMethod(world, 8).map(({ item, score, form, steps }) =>
+      entry(item, score, [...(form ? [categoryLabel(form)] : []), ...steps.map(label)]),
+    ),
+    byFlavor: similarWorldByTaste(world, 8).map(({ item, score, base, tastes, notes }) =>
+      entry(item, score, [
+        ...(base ? [categoryLabel(base)] : []),
+        ...tastes.map((t) => (t === "spicy" ? "heat" : t)),
+        ...notes.map(label),
+      ]),
+    ),
+  }
+}
 
 export const STAPLE_INGREDIENTS = new Set([
   "salt",

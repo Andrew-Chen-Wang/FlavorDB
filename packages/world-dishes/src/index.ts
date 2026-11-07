@@ -1,6 +1,7 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import path from "node:path"
 import type { ImageCredit, WorldDish } from "./types"
+import { appendAdditionalRecipes, type AdditionalRecipes } from "./additional-recipes"
 
 export type * from "./types"
 
@@ -60,6 +61,10 @@ export function loadWorldDishes(dataDir: string = DEFAULT_DATA_DIR): WorldDish[]
     path.join(dataDir, "ingredient-overrides.json"),
     {},
   )
+  const additionalRecipes = readJson<AdditionalRecipes>(
+    path.join(dataDir, "additional-recipes.json"),
+    {},
+  )
   cache = readdirSync(dataDir)
     .filter((f) => f.endsWith(".jsonl"))
     .toSorted()
@@ -68,7 +73,7 @@ export function loadWorldDishes(dataDir: string = DEFAULT_DATA_DIR): WorldDish[]
         .split("\n")
         .filter(Boolean)
         .map((line) => {
-          const parsed = JSON.parse(line) as WorldDish
+          const parsed = appendAdditionalRecipes(JSON.parse(line) as WorldDish, additionalRecipes)
           const ingredientIds = ingredientIdsOf(
             parsed,
             ingredientMap,

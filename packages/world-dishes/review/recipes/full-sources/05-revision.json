@@ -1,0 +1,14 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [{ "from": "Kochbuch/_Weißkohlsalat", "to": "Kochbuch/ Weißkohlsalat" }],
+    "pages": {
+      "2239": {
+        "pageid": 2239,
+        "ns": 0,
+        "title": "Kochbuch/ Weißkohlsalat",
+        "revisions": [{ "revid": 899289, "parentid": 591992, "timestamp": "2019-12-05T16:35:17Z" }]
+      }
+    }
+  }
+}

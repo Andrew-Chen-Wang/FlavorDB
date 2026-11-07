@@ -1,12 +1,12 @@
 import { Container } from "@website/components/site/ui"
-import { placesWithDishes } from "@website/lib/data"
+import { placeCatalogGroups } from "@website/lib/place-data"
 import type { Metadata } from "next"
 import Link from "next/link"
 
 export const metadata: Metadata = { title: "Places" }
 
 export default function PlacesPage() {
-  const groups = placesWithDishes()
+  const groups = placeCatalogGroups()
   return (
     <main>
       <Container className={"pt-10"}>
@@ -17,11 +17,24 @@ export default function PlacesPage() {
         </p>
         <div className={"mt-10 grid grid-cols-[repeat(auto-fill,minmax(320px,1fr))] gap-10"}>
           {groups.map((g) => (
-            <section key={g.country}>
+            <section key={g.code}>
               <h2 className={"mb-3 border-b border-line pb-2 font-display text-xl font-bold"}>
-                {g.name}
+                <Link href={g.href} className={"hover:text-chili"}>
+                  {g.name}
+                </Link>
               </h2>
               <ul>
+                <li>
+                  <Link
+                    href={g.href}
+                    className={
+                      "flex min-h-10 items-center justify-between gap-3 text-[15px] font-semibold hover:text-chili"
+                    }
+                  >
+                    <span>All of {g.name}</span>
+                    <span className={"text-[13px] text-ink-3"}>{g.count.toLocaleString("en")}</span>
+                  </Link>
+                </li>
                 {g.places.map(({ place, count }) => (
                   <li key={place.id}>
                     <Link

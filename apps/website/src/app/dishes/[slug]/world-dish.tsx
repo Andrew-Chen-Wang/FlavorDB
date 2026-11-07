@@ -1,3 +1,5 @@
+import { SimilarDishes } from "@website/components/site/similar-dishes"
+import { similarWorldDishes } from "@website/lib/data"
 import { Breadcrumb, ChipLink, Container, SectionHeading } from "@website/components/site/ui"
 import { type WorldDish, commonsPage, commonsThumb, countryName } from "@website/lib/world"
 import type { WorldRecipe } from "@flavor-db/world-dishes"
@@ -16,6 +18,7 @@ export function WorldDishView({ dish }: { dish: WorldDish }) {
     : dish.imageCredit?.license === "CeCILL"
       ? "/licenses/CECILL-2.0.txt"
       : dish.imageCredit?.licenseUrl
+  const similar = similarWorldDishes(dish.id)
   const zh = dish.names.zh && dish.names.zh !== dish.name ? dish.names.zh : undefined
 
   return (
@@ -71,7 +74,7 @@ export function WorldDishView({ dish }: { dish: WorldDish }) {
                 </h2>
                 <div className={"flex flex-wrap gap-2"}>
                   {dish.countries.map((c) => (
-                    <ChipLink key={c} href={`/dishes?country=${c}`} variant={"sand"}>
+                    <ChipLink key={c} href={`/places/${c.toLowerCase()}`} variant={"sand"}>
                       {countryName(c)}
                     </ChipLink>
                   ))}
@@ -208,6 +211,8 @@ export function WorldDishView({ dish }: { dish: WorldDish }) {
           )}
         </section>
 
+        {similar && <SimilarDishes similar={similar} />}
+
         <section className={"pt-14 text-sm text-ink-3"}>
           <h2 className={"mb-2 text-[13px] font-semibold tracking-[0.08em] uppercase"}>Sources</h2>
           <ul className={"flex flex-col gap-1"}>
@@ -241,7 +246,7 @@ export function WorldRecipes({ recipes }: { recipes: WorldRecipe[] }) {
         const license = LICENSE_NAMES[r.source.license]
         return (
           <article
-            key={r.source.url}
+            key={`${r.source.url}:${r.lang}:${r.title}`}
             lang={r.lang}
             className={"flex flex-wrap gap-10 rounded-[20px] border border-line p-6 sm:p-8"}
           >

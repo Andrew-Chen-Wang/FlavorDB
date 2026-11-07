@@ -1,0 +1,16 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "normalized": [
+      { "from": "Kochbuch/_Plätzchengrundteig", "to": "Kochbuch/ Plätzchengrundteig" }
+    ],
+    "pages": {
+      "50785": {
+        "pageid": 50785,
+        "ns": 0,
+        "title": "Kochbuch/ Plätzchengrundteig",
+        "revisions": [{ "revid": 1077243, "parentid": 933337, "timestamp": "2025-11-27T03:52:30Z" }]
+      }
+    }
+  }
+}

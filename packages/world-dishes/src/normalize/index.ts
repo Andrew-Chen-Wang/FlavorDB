@@ -1,4 +1,4 @@
-import { mkdirSync, readdirSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import path from "node:path"
 import { CACHE_DIR } from "../fetch/http"
 import type { WorldDish } from "../types"
@@ -10,6 +10,7 @@ import { loadBranded, loadWikidata } from "./wikidata"
 import { reviewDishes } from "./quality"
 import { reviewReport } from "./report"
 import { applyVerdicts, loadVerdicts, verdictReport } from "./review"
+import { appendAdditionalRecipes, type AdditionalRecipes } from "../additional-recipes"
 
 const DATA_DIR = path.join(import.meta.dirname, "..", "..", "data")
 const SHARD_SIZE = 2500
@@ -24,7 +25,12 @@ const merged = mergeDishes(wikidata, [...wikibooks, ...howtocook, ...cookbooks])
 const review = reviewDishes(merged, loadBranded(CACHE_DIR))
 const verdicts = loadVerdicts(review.dishes)
 const applied = applyVerdicts(review.dishes, verdicts)
-const dishes = applied.dishes.toSorted((a, b) => a.id.localeCompare(b.id))
+const additions = JSON.parse(
+  readFileSync(path.join(DATA_DIR, "additional-recipes.json"), "utf8"),
+) as AdditionalRecipes
+const dishes = applied.dishes
+  .map((d) => appendAdditionalRecipes(d, additions))
+  .toSorted((a, b) => a.id.localeCompare(b.id))
 const manualReport = verdictReport(
   applied.counts,
   verdicts,
