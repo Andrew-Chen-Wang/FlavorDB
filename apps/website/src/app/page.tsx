@@ -1,3 +1,4 @@
+import { countryClusters } from "@website/lib/geo"
 import { MapAttribution } from "@website/components/site/map-attribution"
 import { DishCard } from "@website/components/site/dish-card"
 import { DishPhoto } from "@website/components/site/dish-photo"
@@ -109,7 +110,7 @@ export default function Page() {
             "relative block h-[440px] overflow-hidden rounded-[20px] border border-line-strong bg-sea"
           }
         >
-          <WorldPreview />
+          <WorldPreview countries={countryClusters()} />
           <div
             className={
               "absolute right-6 bottom-6 left-6 flex flex-wrap items-end justify-between gap-4"

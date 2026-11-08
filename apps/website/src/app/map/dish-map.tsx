@@ -1,6 +1,9 @@
 "use client"
 
+/* oxlint-disable jsx-a11y/prefer-tag-over-role -- SVG groups provide keyboard-operable map markers; HTML buttons cannot be SVG children. */
+
 import { MapAttribution } from "@website/components/site/map-attribution"
+import { clusterMapPins, clusterCount } from "@website/lib/map-clusters"
 import { cn } from "@website/lib/utils"
 import { geoEqualEarth, geoPath, type GeoProjection } from "d3-geo"
 import { select } from "d3-selection"
@@ -22,7 +25,10 @@ export type MapData = {
   placeDishOrigins: Record<string, string[]>
 }
 
-type Selection = { kind: "country"; code: string } | { kind: "place"; id: string }
+type Selection =
+  | { kind: "country"; code: string }
+  | { kind: "place"; id: string }
+  | { kind: "cluster"; name: string; dishes: string[] }
 
 const CATEGORIES: [string, string][] = [
   ["all", "All"],
@@ -176,26 +182,35 @@ export function DishMap({ data }: { data: MapData }) {
 
   const zoomedIn = transform.k >= PLACE_ZOOM
   const selected =
-    selection.kind === "country"
-      ? data.countries.find((c) => c.code === selection.code)
-      : data.places.find((p) => p.id === selection.id)
+    selection.kind === "cluster"
+      ? selection
+      : selection.kind === "country"
+        ? data.countries.find((c) => c.code === selection.code)
+        : data.places.find((p) => p.id === selection.id)
   const list = (selected?.dishes ?? []).filter(visible).map((s) => dishBySlug.get(s)!)
 
-  // Place labels, skipping ones that would overlap a busier neighbor.
-  const placePins = (() => {
-    if (!zoomedIn) return []
-    const pins = data.places
-      .map((p) => ({ ...p, count: p.dishes.filter(visible).length, xy: screen(p.lng, p.lat) }))
-      .filter((p) => p.count > 0 && p.xy)
-      .toSorted((a, b) => b.count - a.count)
-    const labelled: [number, number][] = []
-    return pins.map((p) => {
-      const [x, y] = p.xy!
-      const clash = labelled.some(([lx, ly]) => Math.abs(lx - x) < 90 && Math.abs(ly - y) < 34)
-      if (!clash) labelled.push([x, y])
-      return { ...p, x, y, showLabel: !clash }
-    })
-  })()
+  const pins = clusterMapPins(
+    (zoomedIn ? data.places : data.countries.map((c) => ({ ...c, id: c.code }))).flatMap((p) => {
+      const xy = screen(p.lng, p.lat)
+      return xy
+        ? [{ id: p.id, name: p.name, x: xy[0], y: xy[1], dishes: p.dishes.filter(visible) }]
+        : []
+    }),
+    size.width,
+    size.height,
+  )
+  const activatePin = (pin: (typeof pins)[number]) => {
+    if (pin.members.length === 1) {
+      const member = pin.members[0]
+      setSelection(
+        zoomedIn ? { kind: "place", id: member.id } : { kind: "country", code: member.id },
+      )
+      return
+    }
+    setSelection({ kind: "cluster", name: `${pin.members.length} places`, dishes: pin.dishes })
+    const ll = projection.invert?.(transform.invert([pin.x, pin.y]))
+    if (ll) zoomTo(ll[0], ll[1], Math.min(40, transform.k * 2))
+  }
 
   return (
     <div
@@ -217,89 +232,80 @@ export function DishMap({ data }: { data: MapData }) {
         <g transform={transform.toString()}>
           <path d={landPath} fill={"#F6F4EE"} stroke={"#B9B2A3"} strokeWidth={0.6 / transform.k} />
         </g>
-        {!zoomedIn &&
-          data.countries.map((c) => {
-            const xy = screen(c.lng, c.lat)
-            const n = c.dishes.filter(visible).length
-            if (!xy) return null
-            const r = 5 + Math.log2(n + 1) * 1.5
-            const on = selection.kind === "country" && selection.code === c.code
-            return (
-              <g
-                key={c.code}
-                transform={`translate(${xy[0]},${xy[1]})`}
-                role={"button"}
-                tabIndex={0}
-                aria-label={`${c.name}, ${n} dishes`}
-                className={"cursor-pointer outline-none"}
-                onClick={() => {
-                  setSelection({ kind: "country", code: c.code })
-                }}
-                onKeyDown={(e) => {
-                  if (e.key === "Enter") setSelection({ kind: "country", code: c.code })
-                }}
-                opacity={n ? 1 : 0.45}
-              >
-                <circle r={r + 2} fill={on ? "#1B1A17" : "#fff"} />
-                <circle r={r - 1} fill={n ? "#B4361C" : "#B9B2A3"} />
-                <text
-                  textAnchor={"middle"}
-                  dy={5}
-                  fontSize={n > 99 ? 11 : 10}
-                  fontWeight={700}
-                  fill={"#fff"}
-                >
-                  {n > 99 || on ? n : ""}
-                </text>
-              </g>
-            )
-          })}
-        {placePins.map((p) => {
-          const on = selection.kind === "place" && selection.id === p.id
-          const r = on ? 14 : 8 + Math.min(p.count, 6)
+        {pins.map((pin) => {
+          const grouped = pin.members.length > 1
+          const member = pin.members[0]
+          const on =
+            !grouped &&
+            (selection.kind === "country"
+              ? !zoomedIn && selection.code === member.id
+              : selection.kind === "place" && zoomedIn && selection.id === member.id)
+          const label = grouped
+            ? `${pin.members.length} places, ${pin.dishes.length} dishes. Zoom in`
+            : `${member.name}, ${pin.dishes.length} dishes`
           return (
             <g
-              key={p.id}
-              transform={`translate(${p.x},${p.y})`}
-              role={"button"}
+              key={pin.members
+                .map((p) => p.id)
+                .toSorted()
+                .join(":")}
+              transform={`translate(${pin.x},${pin.y})`}
+              role="button"
               tabIndex={0}
-              aria-label={`${p.name}, ${p.count} dishes`}
-              className={"cursor-pointer outline-none"}
+              aria-label={label}
+              className="cursor-pointer outline-none"
               onClick={() => {
-                setSelection({ kind: "place", id: p.id })
+                activatePin(pin)
               }}
               onKeyDown={(e) => {
-                if (e.key === "Enter") setSelection({ kind: "place", id: p.id })
+                if (e.key === "Enter" || e.key === " ") {
+                  e.preventDefault()
+                  activatePin(pin)
+                }
               }}
             >
-              <circle r={r + 3} fill={on ? "#B4361C" : "#fff"} />
-              <circle r={r} fill={"#EFEBE1"} stroke={"#B4361C"} strokeWidth={on ? 0 : 1.5} />
-              <text textAnchor={"middle"} dy={4} fontSize={11} fontWeight={700} fill={"#8A2914"}>
-                {p.count}
+              <title>{label}</title>
+              <circle r={grouped ? 29 : 24} fill={on ? "#1B1A17" : "#fff"} />
+              <circle r={grouped ? 25 : 21} fill="#B4361C" />
+              <text
+                textAnchor="middle"
+                dy={4}
+                fontSize={12}
+                fontWeight={700}
+                fill="#fff"
+                pointerEvents="none"
+              >
+                {clusterCount(pin.dishes.length)}
               </text>
+              {grouped && (
+                <text
+                  textAnchor="middle"
+                  y={42}
+                  fontSize={11}
+                  fill="#1B1A17"
+                  stroke="#fff"
+                  strokeWidth={3}
+                  paintOrder="stroke"
+                  pointerEvents="none"
+                >
+                  {pin.members.length} places
+                </text>
+              )}
+              {!grouped && zoomedIn && (
+                <text
+                  textAnchor="middle"
+                  y={39}
+                  fontSize={11}
+                  fill="#1B1A17"
+                  stroke="#fff"
+                  strokeWidth={3}
+                  paintOrder="stroke"
+                  pointerEvents="none"
+                >
+                  {member.name.split(" · ")[0]}
+                </text>
+              )}
             </g>
-          )
-        })}
-        {placePins.map((p) => {
-          const on = selection.kind === "place" && selection.id === p.id
-          const r = on ? 14 : 8 + Math.min(p.count, 6)
-          if (!p.showLabel && !on) return null
-          return (
-            <text
-              key={`label-${p.id}`}
-              x={p.x}
-              y={p.y + r + 16}
-              textAnchor={"middle"}
-              fontSize={12}
-              fontWeight={600}
-              fill={on ? "#8A2914" : "#1B1A17"}
-              stroke={"#fff"}
-              strokeWidth={3.5}
-              paintOrder={"stroke"}
-              pointerEvents={"none"}
-            >
-              {p.name.replace(/ · .* \((?:local and )?country-level dishes\)/, " · country-level")}
-            </text>
           )
         })}
       </svg>
