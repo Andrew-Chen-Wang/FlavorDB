@@ -3,7 +3,9 @@
 /* oxlint-disable jsx-a11y/prefer-tag-over-role -- SVG groups provide keyboard-operable map markers; HTML buttons cannot be SVG children. */
 
 import { MapAttribution } from "@website/components/site/map-attribution"
-import { clusterMapPins, clusterCount } from "@website/lib/map-clusters"
+import { MapPhotoMarker } from "@website/components/site/map-photo-marker"
+import { DishPhoto } from "@website/components/site/dish-photo"
+import { clusterMapPins } from "@website/lib/map-clusters"
 import { cn } from "@website/lib/utils"
 import { geoEqualEarth, geoPath, type GeoProjection } from "d3-geo"
 import { select } from "d3-selection"
@@ -19,7 +21,14 @@ import type { GeometryCollection, Topology } from "topojson-specification"
 import world110 from "world-atlas/countries-110m.json"
 
 export type MapData = {
-  dishes: { slug: string; name: string; localName: string; category: string; placeLine: string }[]
+  dishes: {
+    slug: string
+    name: string
+    image?: string
+    localName: string
+    category: string
+    placeLine: string
+  }[]
   countries: { code: string; name: string; lng: number; lat: number; dishes: string[] }[]
   places: { id: string; name: string; lng: number; lat: number; dishes: string[] }[]
   placeDishOrigins: Record<string, string[]>
@@ -198,6 +207,7 @@ export function DishMap({ data }: { data: MapData }) {
     }),
     size.width,
     size.height,
+    108,
   )
   const activatePin = (pin: (typeof pins)[number]) => {
     if (pin.members.length === 1) {
@@ -234,6 +244,9 @@ export function DishMap({ data }: { data: MapData }) {
         </g>
         {pins.map((pin) => {
           const grouped = pin.members.length > 1
+          const representative =
+            pin.dishes.map((id) => dishBySlug.get(id)).find((d) => d?.image) ??
+            dishBySlug.get(pin.dishes[0])
           const member = pin.members[0]
           const on =
             !grouped &&
@@ -265,46 +278,7 @@ export function DishMap({ data }: { data: MapData }) {
               }}
             >
               <title>{label}</title>
-              <circle r={grouped ? 29 : 24} fill={on ? "#1B1A17" : "#fff"} />
-              <circle r={grouped ? 25 : 21} fill="#B4361C" />
-              <text
-                textAnchor="middle"
-                dy={4}
-                fontSize={12}
-                fontWeight={700}
-                fill="#fff"
-                pointerEvents="none"
-              >
-                {clusterCount(pin.dishes.length)}
-              </text>
-              {grouped && (
-                <text
-                  textAnchor="middle"
-                  y={42}
-                  fontSize={11}
-                  fill="#1B1A17"
-                  stroke="#fff"
-                  strokeWidth={3}
-                  paintOrder="stroke"
-                  pointerEvents="none"
-                >
-                  {pin.members.length} places
-                </text>
-              )}
-              {!grouped && zoomedIn && (
-                <text
-                  textAnchor="middle"
-                  y={39}
-                  fontSize={11}
-                  fill="#1B1A17"
-                  stroke="#fff"
-                  strokeWidth={3}
-                  paintOrder="stroke"
-                  pointerEvents="none"
-                >
-                  {member.name.split(" · ")[0]}
-                </text>
-              )}
+              <MapPhotoMarker dish={representative} count={pin.dishes.length} selected={on} />
             </g>
           )
         })}
@@ -394,7 +368,11 @@ export function DishMap({ data }: { data: MapData }) {
                 href={`/dishes/${encodeURIComponent(d.slug)}`}
                 className={"flex items-center gap-3 rounded-xl p-2 hover:bg-paper"}
               >
-                <span className={"photo-placeholder size-[52px] flex-none rounded-[10px]"} />
+                <DishPhoto
+                  file={d.image ?? "/images/dish-placeholder.svg"}
+                  width={104}
+                  className="size-[52px] flex-none rounded-[10px]"
+                />
                 <span className={"min-w-0"}>
                   <span className={"block text-[15px] font-semibold"}>
                     {d.name}{" "}
@@ -460,7 +438,6 @@ export function DishMap({ data }: { data: MapData }) {
           "absolute right-20 bottom-4 hidden items-center gap-2 rounded-[10px] bg-white/90 px-3.5 py-2.5 text-[13px] text-ink-2 sm:flex"
         }
       >
-        <span className={"size-4 rounded-full bg-chili"} />
         {zoomedIn
           ? "Dishes per place. Select one to list them."
           : "Dishes per country. Zoom in to see each place."}

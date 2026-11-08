@@ -5,6 +5,7 @@ export type CountryCluster = {
   name: string
   lng: number
   lat: number
+  representative?: { name: string; image?: string }
   count: number
   dishes: string[]
 }
@@ -13,9 +14,17 @@ export type CountryCluster = {
 export function countryClusters(): CountryCluster[] {
   const data = catalogMapData()
   const ids = new Map(data.dishes.map((d, i) => [d.slug, String(i)]))
-  return data.countries.map(({ dishes, ...country }) => ({
-    ...country,
-    count: dishes.length,
-    dishes: dishes.map((id) => ids.get(id)!),
-  }))
+  const byId = new Map(data.dishes.map((d) => [d.slug, d]))
+  return data.countries.map(({ dishes, ...country }) => {
+    const candidates = dishes.map((id) => byId.get(id)!)
+    const representative = candidates.find((d) => d.image) ?? candidates[0]
+    return {
+      ...country,
+      count: dishes.length,
+      representative: representative
+        ? { name: representative.name, image: representative.image }
+        : undefined,
+      dishes: dishes.map((id) => ids.get(id)!),
+    }
+  })
 }

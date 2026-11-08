@@ -1,7 +1,8 @@
 "use client"
 
 import type { CountryCluster } from "@website/lib/geo"
-import { clusterMapPins, clusterCount } from "@website/lib/map-clusters"
+import { MapPhotoMarker } from "./map-photo-marker"
+import { clusterMapPins } from "@website/lib/map-clusters"
 import { geoEqualEarth, geoPath } from "d3-geo"
 import { useEffect, useRef, useState } from "react"
 import { feature } from "topojson-client"
@@ -31,8 +32,8 @@ export function WorldPreview({ countries }: { countries: CountryCluster[] }) {
     .rotate([-10, 0])
     .fitExtent(
       [
-        [12, 12],
-        [width - 12, height - 12],
+        [54, 48],
+        [width - 54, height - 64],
       ],
       { type: "Sphere" },
     )
@@ -44,7 +45,7 @@ export function WorldPreview({ countries }: { countries: CountryCluster[] }) {
     }),
     width,
     height,
-    64,
+    108,
   )
   return (
     <svg
@@ -62,11 +63,15 @@ export function WorldPreview({ countries }: { countries: CountryCluster[] }) {
             .join(":")}
           transform={`translate(${pin.x},${pin.y})`}
         >
-          <circle r={27} fill="rgba(180,54,28,0.22)" />
-          <circle r={23} fill="#B4361C" />
-          <text textAnchor="middle" dy={4} fontSize={12} fontWeight={700} fill="#fff">
-            {clusterCount(pin.dishes.length)}
-          </text>
+          <MapPhotoMarker
+            dish={
+              pin.members
+                .map((m) => countries.find((c) => c.code === m.id)?.representative)
+                .find((d) => d?.image) ??
+              countries.find((c) => c.code === pin.members[0].id)?.representative
+            }
+            count={pin.dishes.length}
+          />
         </g>
       ))}
     </svg>

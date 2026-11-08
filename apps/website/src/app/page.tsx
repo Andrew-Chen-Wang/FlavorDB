@@ -9,7 +9,6 @@ import {
   COUNTRY_NAMES,
   HOME_REGIONS,
   countriesOf,
-  dishes,
   findDish,
   ingredientUseCount,
   ingredients,
@@ -21,7 +20,6 @@ import Link from "next/link"
 const pick = (slugs: string[]) => slugs.map((s) => findDish(s)).filter((d) => d !== undefined)
 
 export default function Page() {
-  const countryCount = new Set(dishes.flatMap(countriesOf)).size
   const world = catalogStats()
   const zongzi = findDish("zongzi")
   const tamale = findDish("tamale")
@@ -51,9 +49,9 @@ export default function Page() {
           </p>
         </div>
         <div className={"flex flex-[1_1_300px] gap-8 pb-1.5"}>
-          <Stat value={dishes.length} label={"dishes so far"} />
-          <Stat value={ingredients.length} label={"ingredients"} />
-          <Stat value={countryCount} label={"countries & territories"} />
+          <Stat value={world.dishes.toLocaleString("en")} label={"dishes so far"} />
+          <Stat value={ingredients.length.toLocaleString("en")} label={"ingredients"} />
+          <Stat value={world.countries.toLocaleString("en")} label={"countries & territories"} />
         </div>
       </Container>
 
