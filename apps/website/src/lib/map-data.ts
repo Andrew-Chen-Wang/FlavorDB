@@ -86,6 +86,7 @@ export function catalogMapData() {
     dishes: entries.map((e) => ({
       slug: e.key,
       name: e.name,
+      image: e.image,
       localName: e.localName ?? "",
       category: curated.get(e.key)?.category ?? imported.get(e.key)?.kinds[0] ?? "other",
       placeLine: e.countries.map(countryName).join(" / "),
