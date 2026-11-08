@@ -32,19 +32,13 @@ export function WorldPreview() {
       {countryClusters().map((c) => {
         const xy = projection([c.lng, c.lat])
         if (!xy) return null
-        const r = 14 + Math.sqrt(c.count) * 3
+        const r = 5 + Math.log2(c.count + 1) * 1.8
         return (
           <g key={c.code} transform={`translate(${xy[0]},${xy[1]})`}>
             <circle r={r + 5} fill={"rgba(180,54,28,0.22)"} />
             <circle r={r} fill={"#B4361C"} />
-            <text
-              textAnchor={"middle"}
-              dy={5}
-              fontSize={c.count > 9 ? 16 : 13}
-              fontWeight={700}
-              fill={"#fff"}
-            >
-              {c.count}
+            <text textAnchor={"middle"} dy={5} fontSize={11} fontWeight={700} fill={"#fff"}>
+              {c.count > 99 ? c.count : ""}
             </text>
           </g>
         )

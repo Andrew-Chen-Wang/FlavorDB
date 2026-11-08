@@ -1,0 +1,3 @@
+# Country map locations
+
+Snapshot retrieved 2026-11-08. Country centers: https://github.com/mledoze/countries (ODbL 1.0), `countries.json` latlng keyed by cca2. Capital coordinates: https://download.geonames.org/export/dump/cities15000.zip (GeoNames, CC BY 4.0), PPLC records. Jerusalem, Ramallah and Laayoune use the named GeoNames records (281184, 282239, 2462881), which carry other feature codes. Where several capital records exist, the first stored capital is the map anchor. These points locate country-level groups; they do not establish a dish originated in that city. Territories without a recorded capital retain their country center.

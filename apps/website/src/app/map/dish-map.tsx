@@ -1,5 +1,6 @@
 "use client"
 
+import { MapAttribution } from "@website/components/site/map-attribution"
 import { cn } from "@website/lib/utils"
 import { geoEqualEarth, geoPath, type GeoProjection } from "d3-geo"
 import { select } from "d3-selection"
@@ -44,7 +45,7 @@ const toLand = (topo: unknown) => {
 function matchesCategory(category: string, filter: string) {
   if (filter === "all") return true
   if (filter === "other")
-    return ["main", "side", "snack", "bread", "rice", "breakfast"].includes(category)
+    return !["noodles", "dumplings", "soup", "street food", "dessert"].includes(category)
   return category === filter
 }
 
@@ -58,6 +59,7 @@ export function DishMap({ data }: { data: MapData }) {
   const [land, setLand] = useState(() => toLand(world110))
   const [category, setCategory] = useState("all")
   const [query, setQuery] = useState("")
+  const [shown, setShown] = useState(200)
   const [selection, setSelection] = useState<Selection>({ kind: "country", code: "CN" })
 
   const dishBySlug = useMemo(() => new Map(data.dishes.map((d) => [d.slug, d])), [data.dishes])
@@ -76,7 +78,7 @@ export function DishMap({ data }: { data: MapData }) {
           [
             // Leave room for the side panel on wide screens.
             [size.width >= 768 ? 410 : 10, 10],
-            [size.width - 10, size.height + size.height * 0.15],
+            [size.width - 10, size.width < 640 ? size.height * 0.45 : size.height * 1.15],
           ],
           { type: "Sphere" },
         ),
@@ -197,9 +199,14 @@ export function DishMap({ data }: { data: MapData }) {
 
   return (
     <div
-      className={"relative h-[calc(100vh-65px)] min-h-[560px] overflow-hidden bg-sea"}
+      className={
+        "relative h-[calc(100vh-65px)] max-sm:h-[calc(100dvh-220px)] min-h-[560px] overflow-hidden bg-sea"
+      }
       ref={wrapRef}
     >
+      <div className="absolute top-4 right-4 hidden rounded-lg bg-white/90 px-3 py-2 md:block">
+        <MapAttribution />
+      </div>
       <svg
         ref={svgRef}
         width={size.width}
@@ -215,7 +222,7 @@ export function DishMap({ data }: { data: MapData }) {
             const xy = screen(c.lng, c.lat)
             const n = c.dishes.filter(visible).length
             if (!xy) return null
-            const r = 13 + Math.sqrt(n) * 2.6
+            const r = 5 + Math.log2(n + 1) * 1.5
             const on = selection.kind === "country" && selection.code === c.code
             return (
               <g
@@ -238,11 +245,11 @@ export function DishMap({ data }: { data: MapData }) {
                 <text
                   textAnchor={"middle"}
                   dy={5}
-                  fontSize={n > 9 ? 15 : 13}
+                  fontSize={n > 99 ? 11 : 10}
                   fontWeight={700}
                   fill={"#fff"}
                 >
-                  {n}
+                  {n > 99 || on ? n : ""}
                 </text>
               </g>
             )
@@ -291,7 +298,7 @@ export function DishMap({ data }: { data: MapData }) {
               paintOrder={"stroke"}
               pointerEvents={"none"}
             >
-              {p.name}
+              {p.name.replace(/ · .* \((?:local and )?country-level dishes\)/, " · country-level")}
             </text>
           )
         })}
@@ -300,7 +307,7 @@ export function DishMap({ data }: { data: MapData }) {
       <section
         aria-label={"Map filters and results"}
         className={
-          "absolute top-4 bottom-4 left-4 flex w-[min(380px,calc(100%-32px))] flex-col overflow-hidden rounded-[18px] bg-white shadow-[0_8px_32px_rgba(27,26,23,0.16)] max-sm:top-auto max-sm:h-[45%]"
+          "absolute top-4 bottom-4 left-4 flex w-[min(380px,calc(100%-32px))] flex-col overflow-hidden rounded-[18px] bg-white shadow-[0_8px_32px_rgba(27,26,23,0.16)] max-sm:top-auto max-sm:h-[55%] max-sm:overflow-y-auto"
         }
       >
         <div className={"border-b border-[#EEEAE0] p-5 pb-4"}>
@@ -369,11 +376,16 @@ export function DishMap({ data }: { data: MapData }) {
             </button>
           </div>
         )}
-        <ul className={"flex-1 overflow-y-auto px-3 pt-1 pb-4"}>
-          {list.map((d) => (
+        {list.length > shown && (
+          <p className="px-5 pb-2 text-sm text-ink-3">
+            Showing {Math.min(shown, list.length)} of {list.length} matches.
+          </p>
+        )}
+        <ul className={"flex-1 overflow-y-auto px-3 pt-1 pb-4 max-sm:flex-none"}>
+          {list.slice(0, shown).map((d) => (
             <li key={d.slug}>
               <Link
-                href={`/dishes/${d.slug}`}
+                href={`/dishes/${encodeURIComponent(d.slug)}`}
                 className={"flex items-center gap-3 rounded-xl p-2 hover:bg-paper"}
               >
                 <span className={"photo-placeholder size-[52px] flex-none rounded-[10px]"} />
@@ -393,6 +405,19 @@ export function DishMap({ data }: { data: MapData }) {
               </Link>
             </li>
           ))}
+          {list.length > shown && (
+            <li>
+              <button
+                type="button"
+                className="min-h-11 w-full rounded-xl bg-paper text-sm font-semibold"
+                onClick={() => {
+                  setShown((n) => n + 200)
+                }}
+              >
+                Show more dishes
+              </button>
+            </li>
+          )}
         </ul>
       </section>
 

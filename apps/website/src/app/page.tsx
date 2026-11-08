@@ -1,3 +1,4 @@
+import { MapAttribution } from "@website/components/site/map-attribution"
 import { DishCard } from "@website/components/site/dish-card"
 import { DishPhoto } from "@website/components/site/dish-photo"
 import { dishImages } from "@flavor-db/seed-data"
@@ -121,7 +122,8 @@ export default function Page() {
             >
               <div className={"font-display text-2xl font-bold"}>Explore the map</div>
               <div className={"mt-1.5 text-[15px] leading-normal text-ink-2"}>
-                Zoom from continents down to cities. Every dish is pinned to every place it belongs.
+                Explore every dish by country. Zoom in for known local origins and country-level
+                dishes at the capital.
               </div>
             </div>
             <span
@@ -133,6 +135,9 @@ export default function Page() {
             </span>
           </div>
         </Link>
+        <div className="mt-2">
+          <MapAttribution />
+        </div>
       </Container>
 
       <Container className={"pt-20"}>
